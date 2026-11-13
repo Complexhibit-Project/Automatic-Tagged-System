@@ -1,54 +1,52 @@
-# Versión 2 (2026): sistema final en tres niveles
+# Automatic-Tagged-System
 
-| Nivel | Qué extrae | Método |
-| --- | --- | --- |
-| 1. Bloques | Fichas de obra (`catalogueItem`) y exposiciones (`exhibition`) | Modelo *transformer* (BIO) |
-| 2. Entidades | Persona, título, institución/sede, lugar, fecha, técnica/material, dimensiones, dirección, n.º de inventario | Modelo *transformer* (BIO) |
-| 3. Detalle | Alto, ancho, fondo, peso, diámetro y unidad; fechas ISO | Reglas |
-| 3. Detalle | Rol de persona, tipo y rol de institución, tipo de obra, tipo de técnica | Clasificador *transformer* con contexto |
+Sistema de extracción automática de información de catálogos de exposiciones del proyecto
+**Complexhibit** (PID2021-125037NB-I00). A partir del texto de un catálogo, identifica las fichas
+de obra y las exposiciones, las entidades (personas, títulos, instituciones, lugares, fechas,
+técnicas, dimensiones…) y su detalle (dimensiones desglosadas, fechas normalizadas, roles y tipos),
+y exporta el resultado como grafo RDF según la ontología [OntoExhibit](https://github.com/Complexhibit-Project/OntoExhibit),
+ampliada con CIDOC-CRM.
 
-Sistema final: XLM-RoBERTa large (`FacebookAI/xlm-roberta-large`) para los tres componentes
-entrenados; los modelos se publican en Hugging Face (`Complexhibit-Project/complexhibit-nivel1`,
-`-nivel2` y `-atributos`, licencia MIT). Partición por catálogo completo
-(80/10/10, semilla 42). Evaluación por entidad completa con seqeval.
+Web del proyecto: https://complexhibit.eu · Plataforma: https://complexhibit.uma.es
 
-## Ficheros
+## Contenido
 
-- `complexhibit_ie.py`: lectura de GATE, conversión a BIO, reglas del nivel 3 y montaje de la salida anidada.
-- `complexhibit_rdf.py`: exportación a RDF (Turtle) según OntoExhibit + CIDOC-CRM.
-- `preparar_deposito.py`: prepara el depósito de datos (anotaciones standoff, inventario, partición).
-
-## Cuadernos (Google Colab)
-
-| Cuaderno | Uso | GPU |
-| --- | --- | --- |
-| `01_entrenamiento_etiquetador.ipynb` | Entrena los tres componentes con XLM-RoBERTa large y los guarda en Hugging Face | Sí (L4 o A100) |
-| `02_aplicar_etiquetador.ipynb` | Aplica el etiquetador a catálogos nuevos (texto o PDF) y genera JSON, RDF y una muestra para revisión | Sí |
-| `03_nivel3_reglas.ipynb` | Evaluación de las reglas de dimensiones y fechas | No |
-| `04_exportacion_rdf.ipynb` | Exportación del gold standard a RDF | No |
-| `05_preparar_deposito.ipynb` | Preparación del depósito de datos | No |
-| `06_comparacion_modelo_base.ipynb` | Modelo base (XLM-RoBERTa base) y comparación con el sistema final | Sí |
-| `07_comparacion_bilstm.ipynb` | Reconstrucción de la arquitectura BiLSTM de 2023 para compararla con el sistema final | Sí |
-
-Todos salvo el 02 piden al empezar un ZIP con los ficheros XML del etiquetado con GATE.
-
-## Resultados (10 catálogos de prueba)
-
-| Componente | Resultado (sistema final, XLM-RoBERTa large) |
+| Carpeta | Qué contiene |
 | --- | --- |
-| Nivel 1, fichas de obra y exposiciones | F1 0,78 por entidad (fichas de obra 0,85); 0,88 por palabra |
-| Nivel 2, entidades | F1 0,73 por entidad (precisión 0,70; exhaustividad 0,75) |
-| Nivel 3, reglas | 91,5 % de las dimensiones y 77,5 % de las fechas |
-| Nivel 3, clasificador | Exactitud de 0,49 a 0,94 según el atributo (rol de persona 0,94) |
-| Exportación RDF (100 catálogos) | 108.996 tripletas; 2.754 obras, 1.757 personas, 376 exposiciones |
+| [`v1-2023-bilstm-elmo/`](v1-2023-bilstm-elmo/) | Primera versión (2023): red BiLSTM con representaciones ELMo. Se conserva como registro histórico; ya no es ejecutable en los entornos actuales. |
+| [`v2-2026-transformer/`](v2-2026-transformer/) | Sistema final: modelo *transformer* multilingüe (XLM-RoBERTa) en tres niveles, reglas de normalización, exportación a RDF y cuadernos de entrenamiento y evaluación. |
+| [`docs/`](docs/) | Manual de etiquetado (v1.1), con la correspondencia entre el esquema de anotación y las etiquetas de los modelos. |
+| [`docker/`](docker/) | Contenedor Docker del sistema final para ejecutarlo en cualquier entorno. |
 
-Como referencia, con el mismo protocolo el modelo base obtiene 0,60 en el nivel 1 y 0,69 en el
-nivel 2, y la arquitectura BiLSTM de 2023 reconstruida, 0,62 en el nivel 2.
+## Modelos entrenados
+
+Los tres modelos del sistema final (XLM-RoBERTa large) no se guardan en este repositorio por su
+tamaño (más de 1 GB cada uno). Están publicados en Hugging Face, con licencia MIT:
+
+- [`Complexhibit-Project/complexhibit-nivel1`](https://huggingface.co/Complexhibit-Project/complexhibit-nivel1): fichas de obra y exposiciones
+- [`Complexhibit-Project/complexhibit-nivel2`](https://huggingface.co/Complexhibit-Project/complexhibit-nivel2): entidades
+- [`Complexhibit-Project/complexhibit-atributos`](https://huggingface.co/Complexhibit-Project/complexhibit-atributos): roles y tipos
+
+El contenedor Docker los descarga de allí (`--modelos hf:Complexhibit-Project/complexhibit`).
+
+## Datos
+
+Los datos anotados (gold standard de 100 catálogos en formato standoff, inventario, partición,
+manual de etiquetado y grafo RDF) se publican en Zenodo: [DOI]. Los textos íntegros de los catálogos
+no se distribuyen por derechos de autor.
 
 ## Desarrollo y autoría
 
 La herramienta se ha desarrollado a partir de una metodología de etiquetado de textos diseñada específicamente en el marco del proyecto, que incluye una guía de anotación y un esquema de categorías propio. El equipo investigador ha realizado el etiquetado manual de los textos que constituyen la base de entrenamiento de la herramienta, permitiendo automatizar el etiquetado de nuevos textos conforme a los criterios establecidos. El código se ha generado con asistencia de inteligencia artificial (Claude, de Anthropic), a partir de las especificaciones y directrices proporcionadas por el equipo investigador.
 
 - **Diseño del sistema y de su evaluación, y dirección del desarrollo:** M.ª Luisa Díez Platas (Universidad Internacional de La Rioja, UNIR).
-- **Guía de anotación y esquema de categorías:** María Ortiz Tello y M.ª Luisa Díez Platas ([manual de etiquetado](../docs/)).
-- **Validación:** el funcionamiento de la herramienta se ha comprobado con las métricas descritas en este documento, calculadas sobre catálogos que no se usaron en el entrenamiento.
+- **Guía de anotación y esquema de categorías:** María Ortiz Tello y M.ª Luisa Díez Platas ([manual de etiquetado](docs/)).
+- **Validación:** el funcionamiento de la herramienta se ha comprobado con las métricas descritas en la carpeta `v2-2026-transformer/`, calculadas sobre catálogos que no se usaron en el entrenamiento.
+
+## Licencia
+
+Código: MIT. Datos y documentación: CC BY 4.0.
+
+## Cómo citar
+
+Díez Platas, M. L. y Ortiz Tello, M. (2026). *Automatic-Tagged-System: extracción de información de catálogos de exposiciones*. Proyecto Complexhibit. [DOI de Zenodo]
