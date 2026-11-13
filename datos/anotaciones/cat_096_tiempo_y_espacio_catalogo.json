@@ -1,0 +1,1610 @@
+{
+ "id": "cat_096_tiempo_y_espacio_catalogo",
+ "nombre_original": "tiempo-y-espacio-catalogo",
+ "longitud_texto": 4632,
+ "sha256_texto": "08917ce7825037e0898682439f2441f5789f0dfe7135461dd1fab257e72840bf",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 162,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 0,
+   "fin": 23,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "PARROTE\nGalería de Arte"
+  },
+  {
+   "tipo": "title",
+   "ini": 25,
+   "fin": 41,
+   "texto": "TIEMPO Y ESPACIO"
+  },
+  {
+   "tipo": "person",
+   "ini": 43,
+   "fin": 69,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ROBERTO GONZÁLEZ FERNÁNDEZ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 43,
+   "fin": 69,
+   "texto": "ROBERTO GONZÁLEZ FERNÁNDEZ"
+  },
+  {
+   "tipo": "person",
+   "ini": 70,
+   "fin": 83,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "YOLANDA DORDA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 70,
+   "fin": 83,
+   "texto": "YOLANDA DORDA"
+  },
+  {
+   "tipo": "person",
+   "ini": 84,
+   "fin": 94,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JANO MUÑOZ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 84,
+   "fin": 94,
+   "texto": "JANO MUÑOZ"
+  },
+  {
+   "tipo": "date",
+   "ini": 96,
+   "fin": 129,
+   "rasgos": {
+    "from": "2019-12-11",
+    "to": "2020-01-11"
+   },
+   "texto": "11 Diciembre 2019 - 11 Enero 2020"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 322,
+   "fin": 476,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 322,
+   "fin": 345,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "PARROTE Galería de Arte"
+  },
+  {
+   "tipo": "title",
+   "ini": 369,
+   "fin": 385,
+   "texto": "TIEMPO Y ESPACIO"
+  },
+  {
+   "tipo": "institution",
+   "ini": 892,
+   "fin": 899,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "PARROTE"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 1406,
+   "fin": 4498
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 1406,
+   "fin": 2815
+  },
+  {
+   "tipo": "person",
+   "ini": 1406,
+   "fin": 1432,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Roberto González Fernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1406,
+   "fin": 1432,
+   "texto": "Roberto González Fernández"
+  },
+  {
+   "tipo": "person",
+   "ini": 1434,
+   "fin": 1460,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Roberto González Fernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1434,
+   "fin": 1460,
+   "texto": "Roberto González Fernández"
+  },
+  {
+   "tipo": "text",
+   "ini": 1462,
+   "fin": 2358
+  },
+  {
+   "tipo": "birth",
+   "ini": 1462,
+   "fin": 1499
+  },
+  {
+   "tipo": "date",
+   "ini": 1462,
+   "fin": 1466,
+   "rasgos": {
+    "when": "1948"
+   },
+   "texto": "1948"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1476,
+   "fin": 1499,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Monforte de Lemos, Lugo"
+  },
+  {
+   "tipo": "person",
+   "ini": 2360,
+   "fin": 2386,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Roberto González Fernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2360,
+   "fin": 2386,
+   "texto": "Roberto González Fernández"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2388,
+   "fin": 2448
+  },
+  {
+   "tipo": "img",
+   "ini": 2388,
+   "fin": 2393,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2395,
+   "fin": 2448,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "W-DV (Doblemente vigilados) 2018-19\nO/L 22x19 cm. c/u"
+  },
+  {
+   "tipo": "title",
+   "ini": 2395,
+   "fin": 2422,
+   "texto": "W-DV (Doblemente vigilados)"
+  },
+  {
+   "tipo": "date",
+   "ini": 2423,
+   "fin": 2430,
+   "rasgos": {
+    "from": "2018",
+    "to": "2019"
+   },
+   "texto": "2018-19"
+  },
+  {
+   "tipo": "material",
+   "ini": 2431,
+   "fin": 2434,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "O/L"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2435,
+   "fin": 2448,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "22x19 cm. c/u"
+  },
+  {
+   "tipo": "height",
+   "ini": 2435,
+   "fin": 2437,
+   "texto": "22"
+  },
+  {
+   "tipo": "width",
+   "ini": 2438,
+   "fin": 2440,
+   "texto": "19"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2450,
+   "fin": 2511
+  },
+  {
+   "tipo": "img",
+   "ini": 2450,
+   "fin": 2455,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2457,
+   "fin": 2511,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Mia(g)b XII\nAngustia introspectiva 2008\nO/L 100x24 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 2457,
+   "fin": 2491,
+   "texto": "Mia(g)b XII\nAngustia introspectiva"
+  },
+  {
+   "tipo": "date",
+   "ini": 2492,
+   "fin": 2496,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "material",
+   "ini": 2497,
+   "fin": 2500,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "O/L"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2501,
+   "fin": 2510,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100x24 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2501,
+   "fin": 2504,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 2505,
+   "fin": 2507,
+   "texto": "24"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2513,
+   "fin": 2570
+  },
+  {
+   "tipo": "img",
+   "ini": 2513,
+   "fin": 2518,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2520,
+   "fin": 2570,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Mia(g)b XIX\nSi tú me dices ven 2008\nO/L 100x24 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 2520,
+   "fin": 2550,
+   "texto": "Mia(g)b XIX\nSi tú me dices ven"
+  },
+  {
+   "tipo": "date",
+   "ini": 2551,
+   "fin": 2555,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "material",
+   "ini": 2556,
+   "fin": 2559,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "O/L"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2560,
+   "fin": 2569,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100x24 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2560,
+   "fin": 2563,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 2564,
+   "fin": 2566,
+   "texto": "24"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2572,
+   "fin": 2636
+  },
+  {
+   "tipo": "img",
+   "ini": 2572,
+   "fin": 2577,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2579,
+   "fin": 2636,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Mia(g)b IV\nEsperanza (para esta isla)? 2007\nO/L 100x24 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2579,
+   "fin": 2617,
+   "texto": "Mia(g)b IV\nEsperanza (para esta isla)?"
+  },
+  {
+   "tipo": "date",
+   "ini": 2618,
+   "fin": 2622,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "material",
+   "ini": 2623,
+   "fin": 2626,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "O/L"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2627,
+   "fin": 2636,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100x24 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2627,
+   "fin": 2630,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 2631,
+   "fin": 2633,
+   "texto": "24"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2638,
+   "fin": 2696
+  },
+  {
+   "tipo": "img",
+   "ini": 2638,
+   "fin": 2643,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2645,
+   "fin": 2696,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ARRIAZA XXXIX\n(43-30 N – 16.26 E)\n2014 O/L 90x50 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2645,
+   "fin": 2678,
+   "texto": "ARRIAZA XXXIX\n(43-30 N – 16.26 E)"
+  },
+  {
+   "tipo": "date",
+   "ini": 2679,
+   "fin": 2683,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "material",
+   "ini": 2684,
+   "fin": 2687,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "O/L"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2688,
+   "fin": 2696,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "90x50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2688,
+   "fin": 2690,
+   "texto": "90"
+  },
+  {
+   "tipo": "width",
+   "ini": 2691,
+   "fin": 2693,
+   "texto": "50"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2698,
+   "fin": 2754
+  },
+  {
+   "tipo": "img",
+   "ini": 2698,
+   "fin": 2703,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2705,
+   "fin": 2754,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ARRIAZA XXXVI\n(38.41 N- 9.25W)\n2014 O/L 90x50 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 2705,
+   "fin": 2735,
+   "texto": "ARRIAZA XXXVI\n(38.41 N- 9.25W)"
+  },
+  {
+   "tipo": "date",
+   "ini": 2736,
+   "fin": 2740,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "material",
+   "ini": 2741,
+   "fin": 2744,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "O/L"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2745,
+   "fin": 2753,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "90x50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2745,
+   "fin": 2747,
+   "texto": "90"
+  },
+  {
+   "tipo": "width",
+   "ini": 2748,
+   "fin": 2750,
+   "texto": "50"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2756,
+   "fin": 2815
+  },
+  {
+   "tipo": "img",
+   "ini": 2756,
+   "fin": 2761,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2763,
+   "fin": 2815,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ARRIAZA XXXVII\n(44.10 N- 15.23 E)\n2014 O/L 90x50 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 2763,
+   "fin": 2796,
+   "texto": "ARRIAZA XXXVII\n(44.10 N- 15.23 E)"
+  },
+  {
+   "tipo": "date",
+   "ini": 2797,
+   "fin": 2801,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "material",
+   "ini": 2802,
+   "fin": 2805,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "O/L"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2806,
+   "fin": 2814,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "90x50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2806,
+   "fin": 2808,
+   "texto": "90"
+  },
+  {
+   "tipo": "width",
+   "ini": 2809,
+   "fin": 2811,
+   "texto": "50"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 2817,
+   "fin": 3677
+  },
+  {
+   "tipo": "person",
+   "ini": 2817,
+   "fin": 2830,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Yolanda Dorda"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2817,
+   "fin": 2830,
+   "texto": "Yolanda Dorda"
+  },
+  {
+   "tipo": "person",
+   "ini": 2832,
+   "fin": 2845,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Yolanda Dorda"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2832,
+   "fin": 2845,
+   "texto": "Yolanda Dorda"
+  },
+  {
+   "tipo": "text",
+   "ini": 2847,
+   "fin": 3417
+  },
+  {
+   "tipo": "person",
+   "ini": 2847,
+   "fin": 2860,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Yolanda Dorda"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2847,
+   "fin": 2860,
+   "texto": "Yolanda Dorda"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2876,
+   "fin": 2905,
+   "rasgos": {
+    "type": "school"
+   },
+   "texto": "Escuela de Arte Pablo Picasso"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2977,
+   "fin": 2984,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Londres"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3073,
+   "fin": 3078,
+   "texto": "MACUF"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3096,
+   "fin": 3110,
+   "rasgos": {
+    "type": "foundation"
+   },
+   "texto": "Fundación\nCIEC"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3165,
+   "fin": 3175,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Nueva\nYork"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3178,
+   "fin": 3187,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Barcelona"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3408,
+   "fin": 3416,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Alemania"
+  },
+  {
+   "tipo": "person",
+   "ini": 3419,
+   "fin": 3432,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Yolanda Dorda"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3419,
+   "fin": 3432,
+   "texto": "Yolanda Dorda"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3434,
+   "fin": 3496
+  },
+  {
+   "tipo": "img",
+   "ini": 3434,
+   "fin": 3439,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 3440,
+   "fin": 3445,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 3446,
+   "fin": 3451,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3453,
+   "fin": 3496,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "S/T 1-2-3. 2018. Collage digital. 50x42 c/u"
+  },
+  {
+   "tipo": "title",
+   "ini": 3453,
+   "fin": 3463,
+   "texto": "S/T 1-2-3."
+  },
+  {
+   "tipo": "date",
+   "ini": 3464,
+   "fin": 3468,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3470,
+   "fin": 3485,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage digital"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3487,
+   "fin": 3496,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50x42 c/u"
+  },
+  {
+   "tipo": "height",
+   "ini": 3487,
+   "fin": 3489,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 3490,
+   "fin": 3492,
+   "texto": "42"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3498,
+   "fin": 3542
+  },
+  {
+   "tipo": "img",
+   "ini": 3498,
+   "fin": 3503,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3505,
+   "fin": 3542,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "S/T 2019. óleo sobre papel. 53x46 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 3505,
+   "fin": 3508,
+   "texto": "S/T"
+  },
+  {
+   "tipo": "date",
+   "ini": 3509,
+   "fin": 3513,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3515,
+   "fin": 3531,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "óleo sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3533,
+   "fin": 3541,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "53x46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3533,
+   "fin": 3535,
+   "texto": "53"
+  },
+  {
+   "tipo": "width",
+   "ini": 3536,
+   "fin": 3538,
+   "texto": "46"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3544,
+   "fin": 3588
+  },
+  {
+   "tipo": "img",
+   "ini": 3544,
+   "fin": 3549,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3551,
+   "fin": 3588,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "S/T 2019. óleo sobre lienzo 89x116cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 3551,
+   "fin": 3554,
+   "texto": "S/T"
+  },
+  {
+   "tipo": "date",
+   "ini": 3555,
+   "fin": 3559,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3561,
+   "fin": 3578,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3579,
+   "fin": 3587,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "89x116cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3579,
+   "fin": 3581,
+   "texto": "89"
+  },
+  {
+   "tipo": "width",
+   "ini": 3582,
+   "fin": 3585,
+   "texto": "116"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3590,
+   "fin": 3633
+  },
+  {
+   "tipo": "img",
+   "ini": 3590,
+   "fin": 3595,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3597,
+   "fin": 3633,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "S/T 2019 óleo sobre lienzo 70x50 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 3597,
+   "fin": 3600,
+   "texto": "S/T"
+  },
+  {
+   "tipo": "date",
+   "ini": 3601,
+   "fin": 3605,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3606,
+   "fin": 3623,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3624,
+   "fin": 3632,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70x50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3624,
+   "fin": 3626,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 3627,
+   "fin": 3629,
+   "texto": "50"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3635,
+   "fin": 3677
+  },
+  {
+   "tipo": "img",
+   "ini": 3635,
+   "fin": 3640,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3642,
+   "fin": 3677,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "S/T 2019 óleo sobre papel 50x70 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 3642,
+   "fin": 3645,
+   "texto": "S/T"
+  },
+  {
+   "tipo": "date",
+   "ini": 3646,
+   "fin": 3650,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3651,
+   "fin": 3667,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "óleo sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3668,
+   "fin": 3676,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50x70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3668,
+   "fin": 3670,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 3671,
+   "fin": 3673,
+   "texto": "70"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 3679,
+   "fin": 4479
+  },
+  {
+   "tipo": "person",
+   "ini": 3679,
+   "fin": 3690,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jano Muñoz\n"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3679,
+   "fin": 3689,
+   "texto": "Jano Muñoz"
+  },
+  {
+   "tipo": "person",
+   "ini": 3691,
+   "fin": 3715,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jano Muñoz, Coruña 1971."
+  },
+  {
+   "tipo": "persName",
+   "ini": 3691,
+   "fin": 3701,
+   "texto": "Jano Muñoz"
+  },
+  {
+   "tipo": "birth",
+   "ini": 3703,
+   "fin": 3714
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3703,
+   "fin": 3709,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Coruña"
+  },
+  {
+   "tipo": "date",
+   "ini": 3710,
+   "fin": 3714,
+   "rasgos": {
+    "when": "1971"
+   },
+   "texto": "1971"
+  },
+  {
+   "tipo": "text",
+   "ini": 3717,
+   "fin": 4388
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 3809,
+   "fin": 3857
+  },
+  {
+   "tipo": "date",
+   "ini": 3811,
+   "fin": 3815,
+   "rasgos": {
+    "when": "1998"
+   },
+   "texto": "1998"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3848,
+   "fin": 3857,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Barcelona"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3979,
+   "fin": 4003,
+   "rasgos": {
+    "type": "administration"
+   },
+   "texto": "Generalitat de Catalunya"
+  },
+  {
+   "tipo": "person",
+   "ini": 4036,
+   "fin": 4040,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4036,
+   "fin": 4040,
+   "texto": "Jano"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4099,
+   "fin": 4126,
+   "rasgos": {
+    "null": ""
+   },
+   "texto": "Quiosco Alfonso de A Coruña"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4118,
+   "fin": 4126,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "A Coruña"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4288,
+   "fin": 4310,
+   "rasgos": {
+    "type": "administration"
+   },
+   "texto": "Ministerio de Justicia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4312,
+   "fin": 4322,
+   "rasgos": {
+    "type": "administration"
+   },
+   "texto": "Diputación"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4324,
+   "fin": 4347,
+   "rasgos": {
+    "type": "academy"
+   },
+   "texto": "Real\nAcademia da Lingua"
+  },
+  {
+   "tipo": "person",
+   "ini": 4367,
+   "fin": 4377,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jano Muñoz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4367,
+   "fin": 4377,
+   "texto": "Jano Muñoz"
+  },
+  {
+   "tipo": "person",
+   "ini": 4390,
+   "fin": 4400,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jano Muñoz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4390,
+   "fin": 4400,
+   "texto": "Jano Muñoz"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4402,
+   "fin": 4426
+  },
+  {
+   "tipo": "img",
+   "ini": 4402,
+   "fin": 4407,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4409,
+   "fin": 4426,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Preludio\n92X73cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 4409,
+   "fin": 4417,
+   "texto": "Preludio"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4418,
+   "fin": 4425,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "92X73cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4418,
+   "fin": 4420,
+   "texto": "92"
+  },
+  {
+   "tipo": "width",
+   "ini": 4421,
+   "fin": 4423,
+   "texto": "73"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4428,
+   "fin": 4454
+  },
+  {
+   "tipo": "img",
+   "ini": 4428,
+   "fin": 4433,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4435,
+   "fin": 4454,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Barcos II 14x20 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 4435,
+   "fin": 4444,
+   "texto": "Barcos II"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4445,
+   "fin": 4453,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "14x20 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4445,
+   "fin": 4447,
+   "texto": "14"
+  },
+  {
+   "tipo": "width",
+   "ini": 4448,
+   "fin": 4450,
+   "texto": "20"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4456,
+   "fin": 4480
+  },
+  {
+   "tipo": "img",
+   "ini": 4456,
+   "fin": 4461,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4463,
+   "fin": 4479,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Rama I 21X15 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 4463,
+   "fin": 4469,
+   "texto": "Rama I"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4470,
+   "fin": 4478,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "21X15 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4470,
+   "fin": 4472,
+   "texto": "21"
+  },
+  {
+   "tipo": "width",
+   "ini": 4473,
+   "fin": 4475,
+   "texto": "15"
+  },
+  {
+   "tipo": "img",
+   "ini": 4481,
+   "fin": 4486,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4481,
+   "fin": 4486,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 4487,
+   "fin": 4492,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4487,
+   "fin": 4492,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 4493,
+   "fin": 4498,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4493,
+   "fin": 4498,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "title",
+   "ini": 4500,
+   "fin": 4516,
+   "texto": "TIEMPO Y ESPACIO"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4518,
+   "fin": 4541,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "PARROTE GALERÍA DE ARTE"
+  },
+  {
+   "tipo": "address",
+   "ini": 4542,
+   "fin": 4584,
+   "texto": "Paseo de la Dársena, 8 Bajo\n15001 A Coruña"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4576,
+   "fin": 4584,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "A Coruña"
+  }
+ ]
+}

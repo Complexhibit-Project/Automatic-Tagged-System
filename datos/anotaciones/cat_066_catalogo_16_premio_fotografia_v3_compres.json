@@ -1,0 +1,2945 @@
+{
+ "id": "cat_066_catalogo_16_premio_fotografia_v3_compres",
+ "nombre_original": "catalogo_16_premio_fotografia_v3_compressed",
+ "longitud_texto": 8042,
+ "sha256_texto": "442ccda2404b6a9396ff6586b2f342183603e654f1fb23e4e94db73d36d71d57",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 857,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 0,
+   "fin": 40,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "VICERRECTORADO DE COMUNICACIÓN Y CULTURA"
+  },
+  {
+   "tipo": "venue",
+   "ini": 42,
+   "fin": 73,
+   "texto": "aula\nartes plásticas y visuales"
+  },
+  {
+   "tipo": "institution",
+   "ini": 75,
+   "fin": 123,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "ES\nUM\nespacio para el arte\nuniversidad de murcia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 117,
+   "fin": 123,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "murcia"
+  },
+  {
+   "tipo": "title",
+   "ini": 125,
+   "fin": 155,
+   "texto": "dieciséis\npremio de fotografía"
+  },
+  {
+   "tipo": "institution",
+   "ini": 156,
+   "fin": 177,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "universidad de murcia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 171,
+   "fin": 177,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "murcia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 179,
+   "fin": 227,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "ES\nUM\nespacio para el arte\nuniversidad de murcia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 221,
+   "fin": 227,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "murcia"
+  },
+  {
+   "tipo": "date",
+   "ini": 232,
+   "fin": 261,
+   "rasgos": {
+    "from": "2017-03-09",
+    "to": "2017-04-05"
+   },
+   "texto": "9 de marzo al 5 de abril 2017"
+  },
+  {
+   "tipo": "venue",
+   "ini": 263,
+   "fin": 303,
+   "texto": "Campus de La Merced - Edificio Paraninfo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 418,
+   "fin": 437,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "Servicio de Cultura"
+  },
+  {
+   "tipo": "person",
+   "ini": 463,
+   "fin": 487,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Francisco Caballero Cano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 463,
+   "fin": 487,
+   "texto": "Francisco Caballero Cano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 497,
+   "fin": 508,
+   "texto": "Juan Madrid"
+  },
+  {
+   "tipo": "person",
+   "ini": 497,
+   "fin": 508,
+   "rasgos": {
+    "role": "layout"
+   },
+   "texto": "Juan Madrid"
+  },
+  {
+   "tipo": "institution",
+   "ini": 519,
+   "fin": 582,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "Universidad de Murcia.\nVicerrectorado de Comunicación\ny Cultura"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 534,
+   "fin": 540,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "venue",
+   "ini": 613,
+   "fin": 647,
+   "texto": "Aula de Artes Plásticas y Visuales"
+  },
+  {
+   "tipo": "person",
+   "ini": 742,
+   "fin": 766,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "Francisco Caballero Cano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 742,
+   "fin": 766,
+   "texto": "Francisco Caballero Cano"
+  },
+  {
+   "tipo": "person",
+   "ini": 775,
+   "fin": 799,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Francisco Caballero Cano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 775,
+   "fin": 799,
+   "texto": "Francisco Caballero Cano"
+  },
+  {
+   "tipo": "person",
+   "ini": 813,
+   "fin": 829,
+   "rasgos": {
+    "role": "layout"
+   },
+   "texto": "Ana Soro Lavella"
+  },
+  {
+   "tipo": "persName",
+   "ini": 813,
+   "fin": 829,
+   "texto": "Ana Soro Lavella"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 860,
+   "fin": 1577,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 860,
+   "fin": 890,
+   "texto": "dieciséis\npremio de fotografía"
+  },
+  {
+   "tipo": "institution",
+   "ini": 891,
+   "fin": 912,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "universidad de murcia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 906,
+   "fin": 912,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "murcia"
+  },
+  {
+   "tipo": "person",
+   "ini": 945,
+   "fin": 1007,
+   "rasgos": {
+    "role": "juryMember"
+   },
+   "texto": "D. José orihuela Calatayud\nRector Mgfco. Universidad de Murcia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 948,
+   "fin": 971,
+   "texto": "José orihuela Calatayud"
+  },
+  {
+   "tipo": "institution",
+   "ini": 986,
+   "fin": 1007,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "Universidad de Murcia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1001,
+   "fin": 1007,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "person",
+   "ini": 1017,
+   "fin": 1098,
+   "rasgos": {
+    "role": "juryMember"
+   },
+   "texto": "D. Joaquín Cánovas Belchí\nCatedrático de Historia del Arte, Universidad de Murcia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1020,
+   "fin": 1042,
+   "texto": "Joaquín Cánovas Belchí"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1077,
+   "fin": 1098,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "Universidad de Murcia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1092,
+   "fin": 1098,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "person",
+   "ini": 1100,
+   "fin": 1171,
+   "rasgos": {
+    "role": "juryMember"
+   },
+   "texto": "Dª Diana de Paco Serrano\nCoordinadora de Cultura, Universidad de Murcia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1103,
+   "fin": 1124,
+   "texto": "Diana de Paco Serrano"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1150,
+   "fin": 1171,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "Universidad de Murcia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1165,
+   "fin": 1171,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "person",
+   "ini": 1173,
+   "fin": 1246,
+   "rasgos": {
+    "role": "juryMember"
+   },
+   "texto": "D. José Miguel García Cano\nDirector del Museo de la Universidad de Murcia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1176,
+   "fin": 1199,
+   "texto": "José Miguel García Cano"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1213,
+   "fin": 1246,
+   "rasgos": {
+    "type": "museum, university",
+    "role": "organiser"
+   },
+   "texto": "Museo de la Universidad de Murcia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1240,
+   "fin": 1246,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "person",
+   "ini": 1248,
+   "fin": 1325,
+   "rasgos": {
+    "role": "juryMember"
+   },
+   "texto": "Dª Mónica Lozano Mata\nProfesora de Fotografía de la Escuela de Arte de Murcia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1251,
+   "fin": 1269,
+   "texto": "Mónica Lozano Mata"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1300,
+   "fin": 1325,
+   "rasgos": {
+    "type": "school"
+   },
+   "texto": "Escuela de Arte de Murcia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1319,
+   "fin": 1325,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "person",
+   "ini": 1327,
+   "fin": 1372,
+   "rasgos": {
+    "role": "juryMember"
+   },
+   "texto": "D. Avelino Marín Meroño\nColeccionista de Arte"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1330,
+   "fin": 1350,
+   "texto": "Avelino Marín Meroño"
+  },
+  {
+   "tipo": "person",
+   "ini": 1374,
+   "fin": 1430,
+   "rasgos": {
+    "role": "juryMember"
+   },
+   "texto": "D. Enrique Martínez Bueso\nFotógrafo del Diario La Verdad"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1377,
+   "fin": 1399,
+   "texto": "Enrique Martínez Bueso"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1414,
+   "fin": 1430,
+   "rasgos": {
+    "type": "press"
+   },
+   "texto": "Diario La Verdad"
+  },
+  {
+   "tipo": "person",
+   "ini": 1432,
+   "fin": 1489,
+   "rasgos": {
+    "role": "juryMember"
+   },
+   "texto": "Dª Mª Angeles Sánchez Rigal\nDirectora de la Galería Art-9"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1435,
+   "fin": 1459,
+   "texto": "Mª Angeles Sánchez Rigal"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1476,
+   "fin": 1489,
+   "rasgos": {
+    "type": "gallery"
+   },
+   "texto": "Galería Art-9"
+  },
+  {
+   "tipo": "person",
+   "ini": 1502,
+   "fin": 1577,
+   "rasgos": {
+    "role": "juryMember"
+   },
+   "texto": "Dª Carmen Veas Arteseros\nTécnico Servicio de Cultura. Universidad de Murcia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1505,
+   "fin": 1526,
+   "texto": "Carmen Veas Arteseros"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1535,
+   "fin": 1577,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "Servicio de Cultura. Universidad de Murcia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1571,
+   "fin": 1577,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 4696,
+   "fin": 5194,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 4705,
+   "fin": 4726,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "universidad de Murcia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4720,
+   "fin": 4726,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "title",
+   "ini": 4916,
+   "fin": 4964,
+   "texto": "Premio de Fotografía de la Universidad de Murcia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4943,
+   "fin": 4964,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "Universidad de Murcia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4958,
+   "fin": 4964,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "person",
+   "ini": 5170,
+   "fin": 5194,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Francisco Caballero Cano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5170,
+   "fin": 5194,
+   "texto": "Francisco Caballero Cano"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 5196,
+   "fin": 8040
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5210,
+   "fin": 5275
+  },
+  {
+   "tipo": "work",
+   "ini": 5210,
+   "fin": 5268,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Cayetano Navarro (Alicante)\nGranjeros\nColor // 54 x 79 cm."
+  },
+  {
+   "tipo": "person",
+   "ini": 5210,
+   "fin": 5237,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Cayetano Navarro (Alicante)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5210,
+   "fin": 5226,
+   "texto": "Cayetano Navarro"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5228,
+   "fin": 5236,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Alicante"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 5228,
+   "fin": 5236
+  },
+  {
+   "tipo": "title",
+   "ini": 5238,
+   "fin": 5247,
+   "texto": "Granjeros"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5248,
+   "fin": 5253,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5257,
+   "fin": 5267,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "54 x 79 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5257,
+   "fin": 5259,
+   "texto": "54"
+  },
+  {
+   "tipo": "width",
+   "ini": 5262,
+   "fin": 5264,
+   "texto": "79"
+  },
+  {
+   "tipo": "img",
+   "ini": 5270,
+   "fin": 5275,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5296,
+   "fin": 5392
+  },
+  {
+   "tipo": "work",
+   "ini": 5296,
+   "fin": 5379,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Diana Barbosa (Murcia)\nLa belleza del olvido (Tríptico)\nColor // 30 x 44 cm. (c.u.)"
+  },
+  {
+   "tipo": "person",
+   "ini": 5296,
+   "fin": 5318,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Diana Barbosa (Murcia)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5296,
+   "fin": 5309,
+   "texto": "Diana Barbosa"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5311,
+   "fin": 5317,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 5311,
+   "fin": 5317
+  },
+  {
+   "tipo": "title",
+   "ini": 5319,
+   "fin": 5340,
+   "texto": "La belleza del olvido"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5352,
+   "fin": 5357,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5361,
+   "fin": 5371,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 44 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5361,
+   "fin": 5363,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 5366,
+   "fin": 5368,
+   "texto": "44"
+  },
+  {
+   "tipo": "img",
+   "ini": 5381,
+   "fin": 5386,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 5387,
+   "fin": 5392,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5413,
+   "fin": 5547
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 5413,
+   "fin": 5528,
+   "rasgos": {
+    "type": "photograph"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 5413,
+   "fin": 5444,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rosa Arenas (Guadalupe, Murcia)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5413,
+   "fin": 5424,
+   "texto": "Rosa Arenas"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5426,
+   "fin": 5443,
+   "texto": "Guadalupe, Murcia"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 5426,
+   "fin": 5443
+  },
+  {
+   "tipo": "title",
+   "ini": 5445,
+   "fin": 5470,
+   "texto": "Autor-retrato 1, 2, 3 y 4"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 5472,
+   "fin": 5499
+  },
+  {
+   "tipo": "technique",
+   "ini": 5501,
+   "fin": 5506,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5510,
+   "fin": 5520,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "43 x 55 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5510,
+   "fin": 5512,
+   "texto": "43"
+  },
+  {
+   "tipo": "width",
+   "ini": 5515,
+   "fin": 5517,
+   "texto": "55"
+  },
+  {
+   "tipo": "img",
+   "ini": 5530,
+   "fin": 5535,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 5536,
+   "fin": 5541,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 5542,
+   "fin": 5547,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5568,
+   "fin": 5678
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 5568,
+   "fin": 5665,
+   "rasgos": {
+    "type": "photograph"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 5568,
+   "fin": 5594,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "J. Ramón Moreno (Zaragoza)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5568,
+   "fin": 5583,
+   "texto": "J. Ramón Moreno"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5585,
+   "fin": 5593,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Zaragoza"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 5585,
+   "fin": 5593
+  },
+  {
+   "tipo": "title",
+   "ini": 5595,
+   "fin": 5609,
+   "texto": "Somos 1, 2 y 3"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 5611,
+   "fin": 5636
+  },
+  {
+   "tipo": "technique",
+   "ini": 5638,
+   "fin": 5643,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5647,
+   "fin": 5657,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5647,
+   "fin": 5649,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 5652,
+   "fin": 5654,
+   "texto": "60"
+  },
+  {
+   "tipo": "img",
+   "ini": 5667,
+   "fin": 5672,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 5673,
+   "fin": 5678,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5699,
+   "fin": 5861
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 5699,
+   "fin": 5836,
+   "rasgos": {
+    "type": "photograph"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 5699,
+   "fin": 5747,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luis Rivera Zamora (Playa de San Juan, Alicante)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5699,
+   "fin": 5717,
+   "texto": "Luis Rivera Zamora"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5719,
+   "fin": 5746,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Playa de San Juan, Alicante"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 5719,
+   "fin": 5746
+  },
+  {
+   "tipo": "title",
+   "ini": 5748,
+   "fin": 5778,
+   "texto": "Paisajes mínimos. La Almadraba"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 5780,
+   "fin": 5807
+  },
+  {
+   "tipo": "technique",
+   "ini": 5809,
+   "fin": 5814,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5818,
+   "fin": 5828,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 64 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5818,
+   "fin": 5820,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 5823,
+   "fin": 5825,
+   "texto": "64"
+  },
+  {
+   "tipo": "img",
+   "ini": 5838,
+   "fin": 5843,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 5844,
+   "fin": 5849,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 5850,
+   "fin": 5855,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 5856,
+   "fin": 5861,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5885,
+   "fin": 6038
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 5885,
+   "fin": 6007,
+   "rasgos": {
+    "type": "photograph"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 5885,
+   "fin": 5931,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vicente Albero Photografía (Novelda, Alicante)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5885,
+   "fin": 5899,
+   "texto": "Vicente Albero"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5913,
+   "fin": 5930,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Novelda, Alicante"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 5913,
+   "fin": 5930
+  },
+  {
+   "tipo": "title",
+   "ini": 5932,
+   "fin": 5948,
+   "texto": "Kids of Cooper I"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 5950,
+   "fin": 5976
+  },
+  {
+   "tipo": "technique",
+   "ini": 5978,
+   "fin": 5983,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5987,
+   "fin": 5999,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 42,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5987,
+   "fin": 5989,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 5992,
+   "fin": 5996,
+   "texto": "42,5"
+  },
+  {
+   "tipo": "img",
+   "ini": 6009,
+   "fin": 6014,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6015,
+   "fin": 6020,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6021,
+   "fin": 6026,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6027,
+   "fin": 6032,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6033,
+   "fin": 6038,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6040,
+   "fin": 6184
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 6040,
+   "fin": 6172,
+   "rasgos": {
+    "type": "photograph"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 6040,
+   "fin": 6112,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Atanasio (Antonio Atanasio Rincón) (Villanueva de los Ojos, Ciudad Real)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6040,
+   "fin": 6074,
+   "texto": "Atanasio (Antonio Atanasio Rincón)"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6076,
+   "fin": 6111,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Villanueva de los Ojos, Ciudad Real"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 6076,
+   "fin": 6111
+  },
+  {
+   "tipo": "title",
+   "ini": 6113,
+   "fin": 6145,
+   "texto": "Testigos del pasado // Recuerdos"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6146,
+   "fin": 6149,
+   "rasgos": {
+    "type": "b/wPhotograph"
+   },
+   "texto": "B/N"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6153,
+   "fin": 6163,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 22 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6153,
+   "fin": 6155,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 6158,
+   "fin": 6160,
+   "texto": "22"
+  },
+  {
+   "tipo": "img",
+   "ini": 6173,
+   "fin": 6178,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6179,
+   "fin": 6184,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6186,
+   "fin": 6319
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 6186,
+   "fin": 6294,
+   "rasgos": {
+    "type": "photograph"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 6186,
+   "fin": 6222,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Andrés García Mellado (Mula, Murcia)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6186,
+   "fin": 6207,
+   "texto": "Andrés García Mellado"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6209,
+   "fin": 6221,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Mula, Murcia"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 6209,
+   "fin": 6221
+  },
+  {
+   "tipo": "title",
+   "ini": 6223,
+   "fin": 6236,
+   "texto": "Malas tierras"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 6238,
+   "fin": 6265
+  },
+  {
+   "tipo": "technique",
+   "ini": 6267,
+   "fin": 6272,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6276,
+   "fin": 6286,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "58 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6276,
+   "fin": 6278,
+   "texto": "58"
+  },
+  {
+   "tipo": "width",
+   "ini": 6281,
+   "fin": 6283,
+   "texto": "40"
+  },
+  {
+   "tipo": "img",
+   "ini": 6296,
+   "fin": 6301,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6302,
+   "fin": 6307,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6308,
+   "fin": 6313,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6314,
+   "fin": 6319,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6321,
+   "fin": 6457
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 6321,
+   "fin": 6426,
+   "rasgos": {
+    "type": "photograph"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 6321,
+   "fin": 6361,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel López Francés (Villena, Alicante)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6321,
+   "fin": 6341,
+   "texto": "Manuel López Francés"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6343,
+   "fin": 6360,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Villena, Alicante"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 6343,
+   "fin": 6360
+  },
+  {
+   "tipo": "title",
+   "ini": 6362,
+   "fin": 6369,
+   "texto": "Tocados"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 6371,
+   "fin": 6397
+  },
+  {
+   "tipo": "technique",
+   "ini": 6399,
+   "fin": 6402,
+   "rasgos": {
+    "type": "b/wPhotograph"
+   },
+   "texto": "B/N"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6406,
+   "fin": 6418,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "39 x 28,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6406,
+   "fin": 6408,
+   "texto": "39"
+  },
+  {
+   "tipo": "width",
+   "ini": 6411,
+   "fin": 6415,
+   "texto": "28,5"
+  },
+  {
+   "tipo": "img",
+   "ini": 6428,
+   "fin": 6433,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6434,
+   "fin": 6439,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6440,
+   "fin": 6445,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6446,
+   "fin": 6451,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6452,
+   "fin": 6457,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6459,
+   "fin": 6537
+  },
+  {
+   "tipo": "work",
+   "ini": 6459,
+   "fin": 6530,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Luna de la Ossa (Tarancón, Cuenca)\nRetrato de tiza\nColor // 55 x 69 cm."
+  },
+  {
+   "tipo": "person",
+   "ini": 6459,
+   "fin": 6493,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luna de la Ossa (Tarancón, Cuenca)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6459,
+   "fin": 6474,
+   "texto": "Luna de la Ossa"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6476,
+   "fin": 6492,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Tarancón, Cuenca"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 6476,
+   "fin": 6492
+  },
+  {
+   "tipo": "title",
+   "ini": 6494,
+   "fin": 6509,
+   "texto": "Retrato de tiza"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6510,
+   "fin": 6515,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6519,
+   "fin": 6529,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55 x 69 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6519,
+   "fin": 6521,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 6524,
+   "fin": 6526,
+   "texto": "69"
+  },
+  {
+   "tipo": "img",
+   "ini": 6532,
+   "fin": 6537,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6539,
+   "fin": 6638
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 6539,
+   "fin": 6631,
+   "rasgos": {
+    "type": "photograph"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 6539,
+   "fin": 6567,
+   "rasgos": {
+    "role": ""
+   },
+   "texto": "Rocío Marín Navarro (Murcia)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6539,
+   "fin": 6558,
+   "texto": "Rocío Marín Navarro"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6560,
+   "fin": 6566,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 6560,
+   "fin": 6566
+  },
+  {
+   "tipo": "title",
+   "ini": 6568,
+   "fin": 6578,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 6580,
+   "fin": 6604
+  },
+  {
+   "tipo": "technique",
+   "ini": 6606,
+   "fin": 6609,
+   "rasgos": {
+    "type": "b/wPhotograph"
+   },
+   "texto": "B/N"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6613,
+   "fin": 6623,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 25 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6613,
+   "fin": 6615,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 6618,
+   "fin": 6620,
+   "texto": "25"
+  },
+  {
+   "tipo": "img",
+   "ini": 6633,
+   "fin": 6638,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6640,
+   "fin": 6766
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 6640,
+   "fin": 6747,
+   "rasgos": {
+    "type": "photograph"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 6640,
+   "fin": 6668,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rocío Marín Navarro (Murcia)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6640,
+   "fin": 6659,
+   "texto": "Rocío Marín Navarro"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6661,
+   "fin": 6667,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 6661,
+   "fin": 6667
+  },
+  {
+   "tipo": "title",
+   "ini": 6669,
+   "fin": 6679,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 6681,
+   "fin": 6706
+  },
+  {
+   "tipo": "technique",
+   "ini": 6708,
+   "fin": 6713,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6717,
+   "fin": 6724,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 28"
+  },
+  {
+   "tipo": "height",
+   "ini": 6717,
+   "fin": 6719,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 6722,
+   "fin": 6724,
+   "texto": "28"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6726,
+   "fin": 6733,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 36"
+  },
+  {
+   "tipo": "height",
+   "ini": 6726,
+   "fin": 6728,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 6731,
+   "fin": 6733,
+   "texto": "36"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6736,
+   "fin": 6746,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32 x 44 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6736,
+   "fin": 6738,
+   "texto": "32"
+  },
+  {
+   "tipo": "width",
+   "ini": 6741,
+   "fin": 6743,
+   "texto": "44"
+  },
+  {
+   "tipo": "img",
+   "ini": 6749,
+   "fin": 6754,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6755,
+   "fin": 6760,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6761,
+   "fin": 6766,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6768,
+   "fin": 6890
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 6768,
+   "fin": 6877,
+   "rasgos": {
+    "type": "photograph"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 6768,
+   "fin": 6791,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "María Moldes (Alicante)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6768,
+   "fin": 6780,
+   "texto": "María Moldes"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6782,
+   "fin": 6790,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Alicante"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 6782,
+   "fin": 6790
+  },
+  {
+   "tipo": "title",
+   "ini": 6792,
+   "fin": 6822,
+   "texto": "Escenas de la vida Radioactiva"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 6824,
+   "fin": 6848
+  },
+  {
+   "tipo": "technique",
+   "ini": 6850,
+   "fin": 6855,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6859,
+   "fin": 6869,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "45 x 45 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6859,
+   "fin": 6861,
+   "texto": "45"
+  },
+  {
+   "tipo": "width",
+   "ini": 6864,
+   "fin": 6866,
+   "texto": "45"
+  },
+  {
+   "tipo": "img",
+   "ini": 6879,
+   "fin": 6884,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6885,
+   "fin": 6890,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6892,
+   "fin": 7038
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 6892,
+   "fin": 7019,
+   "rasgos": {
+    "type": "photograph"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 6892,
+   "fin": 6931,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miriam Muñoz (Cabezo de Torres, Murcia)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6892,
+   "fin": 6904,
+   "texto": "Miriam Muñoz"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6906,
+   "fin": 6930,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Cabezo de Torres, Murcia"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 6906,
+   "fin": 6930
+  },
+  {
+   "tipo": "title",
+   "ini": 6932,
+   "fin": 6963,
+   "texto": "Estudio del Volumen I, II y III"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 6965,
+   "fin": 6990
+  },
+  {
+   "tipo": "technique",
+   "ini": 6992,
+   "fin": 6997,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7001,
+   "fin": 7011,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7001,
+   "fin": 7003,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 7006,
+   "fin": 7008,
+   "texto": "40"
+  },
+  {
+   "tipo": "img",
+   "ini": 7021,
+   "fin": 7026,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 7027,
+   "fin": 7032,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 7033,
+   "fin": 7038,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7040,
+   "fin": 7176
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 7040,
+   "fin": 7157,
+   "rasgos": {
+    "type": "photograph"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 7040,
+   "fin": 7077,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Emilio Muñoz Blanco (Bilbao, Vizcaya)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7040,
+   "fin": 7059,
+   "texto": "Emilio Muñoz Blanco"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7061,
+   "fin": 7076,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Bilbao, Vizcaya"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 7061,
+   "fin": 7076
+  },
+  {
+   "tipo": "title",
+   "ini": 7078,
+   "fin": 7101,
+   "texto": "Lovachevski I, II y III"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 7103,
+   "fin": 7128
+  },
+  {
+   "tipo": "technique",
+   "ini": 7130,
+   "fin": 7135,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7139,
+   "fin": 7149,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7139,
+   "fin": 7141,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 7144,
+   "fin": 7146,
+   "texto": "30"
+  },
+  {
+   "tipo": "img",
+   "ini": 7159,
+   "fin": 7164,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 7165,
+   "fin": 7170,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 7171,
+   "fin": 7176,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7178,
+   "fin": 7297
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 7178,
+   "fin": 7272,
+   "rasgos": {
+    "type": "photograph"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 7178,
+   "fin": 7201,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Julieta Varela (Murcia)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7178,
+   "fin": 7192,
+   "texto": "Julieta Varela"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7194,
+   "fin": 7200,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 7194,
+   "fin": 7200
+  },
+  {
+   "tipo": "title",
+   "ini": 7202,
+   "fin": 7214,
+   "texto": "La encantada"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 7216,
+   "fin": 7243
+  },
+  {
+   "tipo": "technique",
+   "ini": 7245,
+   "fin": 7250,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7254,
+   "fin": 7264,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 41 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7254,
+   "fin": 7256,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 7259,
+   "fin": 7261,
+   "texto": "41"
+  },
+  {
+   "tipo": "img",
+   "ini": 7274,
+   "fin": 7279,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 7280,
+   "fin": 7285,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 7286,
+   "fin": 7291,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 7292,
+   "fin": 7297,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7299,
+   "fin": 7358
+  },
+  {
+   "tipo": "work",
+   "ini": 7299,
+   "fin": 7351,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Volkringer (Murcia)\nRoyal Palace\nB/N // 70 x 100 cm."
+  },
+  {
+   "tipo": "person",
+   "ini": 7299,
+   "fin": 7318,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Volkringer (Murcia)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7299,
+   "fin": 7309,
+   "texto": "Volkringer"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7311,
+   "fin": 7317,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 7311,
+   "fin": 7317
+  },
+  {
+   "tipo": "title",
+   "ini": 7319,
+   "fin": 7331,
+   "texto": "Royal Palace"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7332,
+   "fin": 7335,
+   "rasgos": {
+    "type": "b/wPhotograph"
+   },
+   "texto": "B/N"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7339,
+   "fin": 7350,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7339,
+   "fin": 7341,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 7344,
+   "fin": 7347,
+   "texto": "100"
+  },
+  {
+   "tipo": "img",
+   "ini": 7353,
+   "fin": 7358,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 7381,
+   "fin": 7402,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vicente Alberto irles"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7381,
+   "fin": 7402,
+   "texto": "Vicente Alberto irles"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7404,
+   "fin": 7421,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Novelda, Alicante"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 7404,
+   "fin": 7421
+  },
+  {
+   "tipo": "person",
+   "ini": 7423,
+   "fin": 7449,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rosa María Arenas Martínez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7423,
+   "fin": 7449,
+   "texto": "Rosa María Arenas Martínez"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7451,
+   "fin": 7467,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Gudalupe, Murcia"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 7451,
+   "fin": 7467
+  },
+  {
+   "tipo": "person",
+   "ini": 7469,
+   "fin": 7492,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Atanasio Rincón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7469,
+   "fin": 7492,
+   "texto": "Antonio Atanasio Rincón"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7494,
+   "fin": 7529,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Villarubia de los Ojos, Ciudad Real"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 7494,
+   "fin": 7529
+  },
+  {
+   "tipo": "person",
+   "ini": 7531,
+   "fin": 7556,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Diana Barbosa de Carvalho"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7531,
+   "fin": 7556,
+   "texto": "Diana Barbosa de Carvalho"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7558,
+   "fin": 7564,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 7558,
+   "fin": 7564
+  },
+  {
+   "tipo": "person",
+   "ini": 7566,
+   "fin": 7587,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Andrés García Mellado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7566,
+   "fin": 7587,
+   "texto": "Andrés García Mellado"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7589,
+   "fin": 7601,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Mula, Murcia"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 7589,
+   "fin": 7601
+  },
+  {
+   "tipo": "person",
+   "ini": 7603,
+   "fin": 7626,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Cayetano García Navarro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7603,
+   "fin": 7626,
+   "texto": "Cayetano García Navarro"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7628,
+   "fin": 7636,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Alicante"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 7628,
+   "fin": 7636
+  },
+  {
+   "tipo": "person",
+   "ini": 7638,
+   "fin": 7658,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel López Francés"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7638,
+   "fin": 7658,
+   "texto": "Manuel López Francés"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7660,
+   "fin": 7677,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Villena, Alicante"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 7660,
+   "fin": 7677
+  },
+  {
+   "tipo": "person",
+   "ini": 7679,
+   "fin": 7705,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Ramón Luna de la Ossa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7679,
+   "fin": 7705,
+   "texto": "José Ramón Luna de la Ossa"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7707,
+   "fin": 7723,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Tarancón, Cuenca"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 7707,
+   "fin": 7723
+  },
+  {
+   "tipo": "person",
+   "ini": 7725,
+   "fin": 7744,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rocío Marín Navarro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7725,
+   "fin": 7744,
+   "texto": "Rocío Marín Navarro"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7746,
+   "fin": 7752,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 7746,
+   "fin": 7752
+  },
+  {
+   "tipo": "person",
+   "ini": 7754,
+   "fin": 7786,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "María Mercedes Moldes Carballido"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7754,
+   "fin": 7786,
+   "texto": "María Mercedes Moldes Carballido"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7788,
+   "fin": 7796,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Alicante"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 7788,
+   "fin": 7796
+  },
+  {
+   "tipo": "person",
+   "ini": 7798,
+   "fin": 7825,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Ramón Moreno Fernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7798,
+   "fin": 7825,
+   "texto": "José Ramón Moreno Fernández"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7827,
+   "fin": 7835,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Zaragoza"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 7827,
+   "fin": 7835
+  },
+  {
+   "tipo": "person",
+   "ini": 7837,
+   "fin": 7856,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Emilio Muñoz Blanco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7837,
+   "fin": 7856,
+   "texto": "Emilio Muñoz Blanco"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7858,
+   "fin": 7873,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Bilbao, Vizcaya"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 7858,
+   "fin": 7873
+  },
+  {
+   "tipo": "person",
+   "ini": 7875,
+   "fin": 7894,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miriam Muñoz Manuel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7875,
+   "fin": 7894,
+   "texto": "Miriam Muñoz Manuel"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7896,
+   "fin": 7920,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Cabezo de Torres, Murcia"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 7896,
+   "fin": 7920
+  },
+  {
+   "tipo": "person",
+   "ini": 7922,
+   "fin": 7940,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luis Rivera Zamora"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7922,
+   "fin": 7940,
+   "texto": "Luis Rivera Zamora"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7942,
+   "fin": 7969,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Playa de San Juan, Alicante"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 7942,
+   "fin": 7969
+  },
+  {
+   "tipo": "person",
+   "ini": 7971,
+   "fin": 8000,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Julieta Sol Varela Manograsso"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7971,
+   "fin": 8000,
+   "texto": "Julieta Sol Varela Manograsso"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 8002,
+   "fin": 8008,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 8002,
+   "fin": 8008
+  },
+  {
+   "tipo": "person",
+   "ini": 8010,
+   "fin": 8029,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Frèderic Volkringer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8010,
+   "fin": 8029,
+   "texto": "Frèderic Volkringer"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 8031,
+   "fin": 8037,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 8031,
+   "fin": 8037
+  }
+ ]
+}

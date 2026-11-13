@@ -1,0 +1,1036 @@
+{
+ "id": "cat_041_catalogo_carmen_alvarez",
+ "nombre_original": "CATALOGO-CARMEN-ALVAREZ",
+ "longitud_texto": 2346,
+ "sha256_texto": "ad7d8840168ab764dc128dc65283e07e87408336fee6eb7fac7b917972cdc655",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 26,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 8,
+   "texto": "CARLI NY"
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 8,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "CARLI NY"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 8,
+   "texto": "CARLI NY"
+  },
+  {
+   "tipo": "institution",
+   "ini": 10,
+   "fin": 26,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "1819 ART GALLERY"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 28,
+   "fin": 53,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 28,
+   "fin": 36,
+   "texto": "CARLI NY"
+  },
+  {
+   "tipo": "person",
+   "ini": 28,
+   "fin": 36,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "CARLI NY"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28,
+   "fin": 36,
+   "texto": "CARLI NY"
+  },
+  {
+   "tipo": "institution",
+   "ini": 37,
+   "fin": 53,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "1819 ART GALLERY"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 55,
+   "fin": 81,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 55,
+   "fin": 63,
+   "texto": "CARLI NY"
+  },
+  {
+   "tipo": "person",
+   "ini": 55,
+   "fin": 63,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "CARLI NY"
+  },
+  {
+   "tipo": "persName",
+   "ini": 55,
+   "fin": 63,
+   "texto": "CARLI NY"
+  },
+  {
+   "tipo": "institution",
+   "ini": 65,
+   "fin": 81,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "1819 ART GALLERY"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 1471,
+   "fin": 2289
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1471,
+   "fin": 1537
+  },
+  {
+   "tipo": "img",
+   "ini": 1471,
+   "fin": 1476,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1478,
+   "fin": 1537,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "SOMBRILLA OLVIDADA\n125 x 80 cm\nÓleo sobre lienzo\n€ 1.587,40"
+  },
+  {
+   "tipo": "title",
+   "ini": 1478,
+   "fin": 1496,
+   "texto": "SOMBRILLA OLVIDADA"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1497,
+   "fin": 1508,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "125 x 80 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1497,
+   "fin": 1500,
+   "texto": "125"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1509,
+   "fin": 1526,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "price",
+   "ini": 1527,
+   "fin": 1537,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1539,
+   "fin": 1599
+  },
+  {
+   "tipo": "img",
+   "ini": 1539,
+   "fin": 1544,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1546,
+   "fin": 1599,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "SMALL BEAUTIFUL\n60 x 80 cm\nÓleo sobre lienzo\n€ 663.00"
+  },
+  {
+   "tipo": "title",
+   "ini": 1546,
+   "fin": 1561,
+   "texto": "SMALL BEAUTIFUL"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1562,
+   "fin": 1572,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 80 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1562,
+   "fin": 1564,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 1567,
+   "fin": 1569,
+   "texto": "80"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1573,
+   "fin": 1590,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "price",
+   "ini": 1591,
+   "fin": 1599,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1601,
+   "fin": 1662
+  },
+  {
+   "tipo": "img",
+   "ini": 1601,
+   "fin": 1606,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1608,
+   "fin": 1662,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "MEDIA BELLEZA\n80 x 120 cm\nÓleo sobre lienzo\n€ 1,403.96"
+  },
+  {
+   "tipo": "title",
+   "ini": 1608,
+   "fin": 1621,
+   "texto": "MEDIA BELLEZA"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1622,
+   "fin": 1633,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80 x 120 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1622,
+   "fin": 1624,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 1627,
+   "fin": 1630,
+   "texto": "120"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1634,
+   "fin": 1651,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "price",
+   "ini": 1652,
+   "fin": 1662,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1664,
+   "fin": 1724
+  },
+  {
+   "tipo": "img",
+   "ini": 1664,
+   "fin": 1669,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1671,
+   "fin": 1724,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "SOL CON BELLEZA\n60 x 80 cm\nÓleo sobre lienzo\n€ 691.39"
+  },
+  {
+   "tipo": "title",
+   "ini": 1671,
+   "fin": 1686,
+   "texto": "SOL CON BELLEZA"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1687,
+   "fin": 1697,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 80 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1687,
+   "fin": 1689,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 1692,
+   "fin": 1694,
+   "texto": "80"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1698,
+   "fin": 1715,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "price",
+   "ini": 1716,
+   "fin": 1724,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1726,
+   "fin": 1792
+  },
+  {
+   "tipo": "img",
+   "ini": 1726,
+   "fin": 1731,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1733,
+   "fin": 1792,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "PROBABLE TORMENTA\n120 x 100 cm\nÓleo sobre lienzo\n€ 1.782.80"
+  },
+  {
+   "tipo": "title",
+   "ini": 1733,
+   "fin": 1750,
+   "texto": "PROBABLE TORMENTA"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1751,
+   "fin": 1763,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "120 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1751,
+   "fin": 1754,
+   "texto": "120"
+  },
+  {
+   "tipo": "width",
+   "ini": 1757,
+   "fin": 1760,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1764,
+   "fin": 1781,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "price",
+   "ini": 1782,
+   "fin": 1792,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1794,
+   "fin": 1846
+  },
+  {
+   "tipo": "img",
+   "ini": 1794,
+   "fin": 1799,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1801,
+   "fin": 1846,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "PURPURA\n60 x 50 cm\nÓleo sobre lienzo\n€ 418.36"
+  },
+  {
+   "tipo": "title",
+   "ini": 1801,
+   "fin": 1808,
+   "texto": "PURPURA"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1809,
+   "fin": 1819,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1809,
+   "fin": 1811,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 1814,
+   "fin": 1816,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1820,
+   "fin": 1837,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "price",
+   "ini": 1838,
+   "fin": 1846,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1848,
+   "fin": 1900
+  },
+  {
+   "tipo": "img",
+   "ini": 1848,
+   "fin": 1853,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1855,
+   "fin": 1900,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "SUNSET\n100 x 60 cm\nóleo sobre lienzo\n€ 738.69"
+  },
+  {
+   "tipo": "title",
+   "ini": 1855,
+   "fin": 1861,
+   "texto": "SUNSET"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1862,
+   "fin": 1873,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1862,
+   "fin": 1865,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 1868,
+   "fin": 1870,
+   "texto": "60"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1874,
+   "fin": 1891,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "óleo sobre lienzo"
+  },
+  {
+   "tipo": "price",
+   "ini": 1892,
+   "fin": 1900,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1902,
+   "fin": 1962
+  },
+  {
+   "tipo": "img",
+   "ini": 1902,
+   "fin": 1907,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1909,
+   "fin": 1962,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "PLANETAS\n100 cm diámetro\nÓleo sobre lienzo\n€ 1.772.32"
+  },
+  {
+   "tipo": "title",
+   "ini": 1909,
+   "fin": 1917,
+   "texto": "PLANETAS"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1918,
+   "fin": 1933,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 cm diámetro"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 1918,
+   "fin": 1921,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1934,
+   "fin": 1951,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "price",
+   "ini": 1952,
+   "fin": 1962,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1964,
+   "fin": 2024
+  },
+  {
+   "tipo": "img",
+   "ini": 1964,
+   "fin": 1969,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1971,
+   "fin": 2024,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "EL HUECO\n100 cm diámetro\nÓleo sobre lienzo\n€ 1.770.62"
+  },
+  {
+   "tipo": "title",
+   "ini": 1971,
+   "fin": 1979,
+   "texto": "EL HUECO"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1980,
+   "fin": 1995,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 cm diámetro"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 1980,
+   "fin": 1983,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1996,
+   "fin": 2013,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "price",
+   "ini": 2014,
+   "fin": 2024,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2026,
+   "fin": 2088
+  },
+  {
+   "tipo": "img",
+   "ini": 2026,
+   "fin": 2031,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2033,
+   "fin": 2088,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "LUZ INCANDESCENTE\n120 x 80\nÓleo sobre lienzo\n€ 1,485.40"
+  },
+  {
+   "tipo": "title",
+   "ini": 2033,
+   "fin": 2050,
+   "texto": "LUZ INCANDESCENTE"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2051,
+   "fin": 2059,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "120 x 80"
+  },
+  {
+   "tipo": "height",
+   "ini": 2051,
+   "fin": 2054,
+   "texto": "120"
+  },
+  {
+   "tipo": "width",
+   "ini": 2057,
+   "fin": 2059,
+   "texto": "80"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2060,
+   "fin": 2077,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "price",
+   "ini": 2078,
+   "fin": 2088,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2090,
+   "fin": 2179
+  },
+  {
+   "tipo": "img",
+   "ini": 2090,
+   "fin": 2095,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2097,
+   "fin": 2179,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "HERMOSO ATARDECER NY\n120 x 50 cm\nMixta, hoja de oro y oleo sobre lienzo\n€ 1.036.98"
+  },
+  {
+   "tipo": "title",
+   "ini": 2097,
+   "fin": 2117,
+   "texto": "HERMOSO ATARDECER NY"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2118,
+   "fin": 2129,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "120 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2118,
+   "fin": 2121,
+   "texto": "120"
+  },
+  {
+   "tipo": "width",
+   "ini": 2124,
+   "fin": 2126,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2130,
+   "fin": 2168,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta, hoja de oro y oleo sobre lienzo"
+  },
+  {
+   "tipo": "price",
+   "ini": 2169,
+   "fin": 2179,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2181,
+   "fin": 2240
+  },
+  {
+   "tipo": "img",
+   "ini": 2181,
+   "fin": 2186,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2188,
+   "fin": 2240,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "CHUCURUCUTU\n120 x 80 cm\noleo sobre lienzo\n€ 1.631.86"
+  },
+  {
+   "tipo": "title",
+   "ini": 2188,
+   "fin": 2199,
+   "texto": "CHUCURUCUTU"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2200,
+   "fin": 2211,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "120 x 80 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2200,
+   "fin": 2203,
+   "texto": "120"
+  },
+  {
+   "tipo": "width",
+   "ini": 2206,
+   "fin": 2208,
+   "texto": "80"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2212,
+   "fin": 2229,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "oleo sobre lienzo"
+  },
+  {
+   "tipo": "price",
+   "ini": 2230,
+   "fin": 2240,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2242,
+   "fin": 2289
+  },
+  {
+   "tipo": "img",
+   "ini": 2242,
+   "fin": 2247,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2249,
+   "fin": 2289,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ELECTRICITY\n60 x 50 cm\nAcrílico\n€ 499.80"
+  },
+  {
+   "tipo": "title",
+   "ini": 2249,
+   "fin": 2260,
+   "texto": "ELECTRICITY"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2261,
+   "fin": 2271,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2261,
+   "fin": 2263,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 2266,
+   "fin": 2268,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2272,
+   "fin": 2280,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico"
+  },
+  {
+   "tipo": "price",
+   "ini": 2281,
+   "fin": 2289,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 2291,
+   "fin": 2316,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 2291,
+   "fin": 2299,
+   "texto": "CARLI NY"
+  },
+  {
+   "tipo": "person",
+   "ini": 2291,
+   "fin": 2299,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "CARLI NY"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2291,
+   "fin": 2299,
+   "texto": "CARLI NY"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2300,
+   "fin": 2344,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "1819 ART GALLERY\n\nwww.1819.es - 1819@1819.es"
+  }
+ ]
+}

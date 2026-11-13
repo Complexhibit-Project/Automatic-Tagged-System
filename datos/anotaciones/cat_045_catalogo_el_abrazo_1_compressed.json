@@ -1,0 +1,2665 @@
+{
+ "id": "cat_045_catalogo_el_abrazo_1_compressed",
+ "nombre_original": "catalogo-el-abrazo-1-_compressed",
+ "longitud_texto": 6136,
+ "sha256_texto": "27b02afdfaa212f0bbb86cd89dbe5816b720834c959f4ab2fc359387abcc5d7c",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 151,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 89,
+   "texto": "El abrazo.\nArtistas en diálogo. Una exposición\nintergeneracional.\nColección Mariano Yera."
+  },
+  {
+   "tipo": "institution",
+   "ini": 91,
+   "fin": 110,
+   "rasgos": {
+    "type": "exhibitionHall",
+    "role": "venue"
+   },
+   "texto": "Espacio Santa Clara"
+  },
+  {
+   "tipo": "date",
+   "ini": 115,
+   "fin": 151,
+   "rasgos": {
+    "from": "2020-02-14",
+    "to": "2020-04-26"
+   },
+   "texto": "14 de febrero al 26 de abril de 2020"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 153,
+   "fin": 209,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 154,
+   "fin": 208,
+   "texto": "El abrazo. Artistas en diálogo. Colección Mariano Yera"
+  },
+  {
+   "tipo": "person",
+   "ini": 196,
+   "fin": 208,
+   "texto": "Mariano Yera"
+  },
+  {
+   "tipo": "person",
+   "ini": 684,
+   "fin": 700,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Maestro Gordillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 692,
+   "fin": 700,
+   "texto": "Gordillo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1079,
+   "fin": 1090,
+   "rasgos": {
+    "type": "exhibitionHall",
+    "role": "venue"
+   },
+   "texto": "Santa Clara"
+  },
+  {
+   "tipo": "person",
+   "ini": 1635,
+   "fin": 1647,
+   "texto": "Mariano\nYera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1635,
+   "fin": 1647,
+   "texto": "Mariano\nYera"
+  },
+  {
+   "tipo": "person",
+   "ini": 1860,
+   "fin": 1872,
+   "texto": "Mariano\nYera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1860,
+   "fin": 1872,
+   "texto": "Mariano\nYera"
+  },
+  {
+   "tipo": "person",
+   "ini": 2229,
+   "fin": 2238,
+   "rasgos": {
+    "type": "creator"
+   },
+   "texto": "Equipo 57"
+  },
+  {
+   "tipo": "person",
+   "ini": 2240,
+   "fin": 2248,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Farreras"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2240,
+   "fin": 2248,
+   "texto": "Farreras"
+  },
+  {
+   "tipo": "person",
+   "ini": 2250,
+   "fin": 2259,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joan Ponç"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2250,
+   "fin": 2259,
+   "texto": "Joan Ponç"
+  },
+  {
+   "tipo": "person",
+   "ini": 2262,
+   "fin": 2269,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "El Paso"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2309,
+   "fin": 2316,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "person",
+   "ini": 2337,
+   "fin": 2343,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Tàpies"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2337,
+   "fin": 2340,
+   "texto": "Tàp"
+  },
+  {
+   "tipo": "person",
+   "ini": 2345,
+   "fin": 2350,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Saura"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2345,
+   "fin": 2350,
+   "texto": "Saura"
+  },
+  {
+   "tipo": "person",
+   "ini": 2353,
+   "fin": 2362,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Palazuelo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2353,
+   "fin": 2362,
+   "texto": "Palazuelo"
+  },
+  {
+   "tipo": "person",
+   "ini": 2550,
+   "fin": 2562,
+   "texto": "Mariano Yera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2550,
+   "fin": 2562,
+   "texto": "Mariano Yera"
+  },
+  {
+   "tipo": "person",
+   "ini": 2731,
+   "fin": 2743,
+   "texto": "Mariano Yera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2731,
+   "fin": 2743,
+   "texto": "Mariano Yera"
+  },
+  {
+   "tipo": "person",
+   "ini": 2757,
+   "fin": 2769,
+   "texto": "Mariano Yera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2757,
+   "fin": 2769,
+   "texto": "Mariano Yera"
+  },
+  {
+   "tipo": "person",
+   "ini": 3045,
+   "fin": 3051,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Tàpies"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3045,
+   "fin": 3051,
+   "texto": "Tàpies"
+  },
+  {
+   "tipo": "person",
+   "ini": 3054,
+   "fin": 3058,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ponç"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3054,
+   "fin": 3058,
+   "texto": "Ponç"
+  },
+  {
+   "tipo": "person",
+   "ini": 3124,
+   "fin": 3137,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "grupo El Paso"
+  },
+  {
+   "tipo": "person",
+   "ini": 3142,
+   "fin": 3147,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Saura"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3142,
+   "fin": 3147,
+   "texto": "Saura"
+  },
+  {
+   "tipo": "person",
+   "ini": 3149,
+   "fin": 3157,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Millares"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3149,
+   "fin": 3157,
+   "texto": "Millares"
+  },
+  {
+   "tipo": "person",
+   "ini": 3159,
+   "fin": 3164,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Feíto"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3159,
+   "fin": 3164,
+   "texto": "Feíto"
+  },
+  {
+   "tipo": "person",
+   "ini": 3166,
+   "fin": 3172,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rivera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3166,
+   "fin": 3172,
+   "texto": "Rivera"
+  },
+  {
+   "tipo": "person",
+   "ini": 3175,
+   "fin": 3180,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Viola"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3175,
+   "fin": 3180,
+   "texto": "Viola"
+  },
+  {
+   "tipo": "person",
+   "ini": 3182,
+   "fin": 3191,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Equipo 57"
+  },
+  {
+   "tipo": "person",
+   "ini": 3193,
+   "fin": 3207,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Equipo Crónica"
+  },
+  {
+   "tipo": "person",
+   "ini": 3210,
+   "fin": 3225,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Equipo\nRealidad"
+  },
+  {
+   "tipo": "person",
+   "ini": 3257,
+   "fin": 3265,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gordillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3257,
+   "fin": 3265,
+   "texto": "Gordillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 3267,
+   "fin": 3274,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alcolea"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3267,
+   "fin": 3274,
+   "texto": "Alcolea"
+  },
+  {
+   "tipo": "person",
+   "ini": 3276,
+   "fin": 3290,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pérez\nVillalta"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3276,
+   "fin": 3290,
+   "texto": "Pérez\nVillalta"
+  },
+  {
+   "tipo": "person",
+   "ini": 3292,
+   "fin": 3299,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Barceló"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3292,
+   "fin": 3299,
+   "texto": "Barceló"
+  },
+  {
+   "tipo": "person",
+   "ini": 3301,
+   "fin": 3308,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sicilia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3301,
+   "fin": 3308,
+   "texto": "Sicilia"
+  },
+  {
+   "tipo": "person",
+   "ini": 3311,
+   "fin": 3318,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Campano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3311,
+   "fin": 3318,
+   "texto": "Campano"
+  },
+  {
+   "tipo": "person",
+   "ini": 3378,
+   "fin": 3395,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ángela de la Cruz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3378,
+   "fin": 3395,
+   "texto": "Ángela de la Cruz"
+  },
+  {
+   "tipo": "person",
+   "ini": 3692,
+   "fin": 3701,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3692,
+   "fin": 3701,
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "person",
+   "ini": 3703,
+   "fin": 3706,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fod"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3703,
+   "fin": 3706,
+   "texto": "Fod"
+  },
+  {
+   "tipo": "person",
+   "ini": 3708,
+   "fin": 3724,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel\nFructuoso"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3708,
+   "fin": 3724,
+   "texto": "Miguel\nFructuoso"
+  },
+  {
+   "tipo": "person",
+   "ini": 3770,
+   "fin": 3784,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Patricia Gómez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3770,
+   "fin": 3784,
+   "texto": "Patricia Gómez"
+  },
+  {
+   "tipo": "person",
+   "ini": 3787,
+   "fin": 3807,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "María Jesús González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3787,
+   "fin": 3807,
+   "texto": "María Jesús González"
+  },
+  {
+   "tipo": "person",
+   "ini": 3835,
+   "fin": 3847,
+   "texto": "Mariano Yera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3835,
+   "fin": 3847,
+   "texto": "Mariano Yera"
+  },
+  {
+   "tipo": "person",
+   "ini": 3852,
+   "fin": 3866,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carlos Alcolea"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3852,
+   "fin": 3866,
+   "texto": "Carlos Alcolea"
+  },
+  {
+   "tipo": "person",
+   "ini": 3892,
+   "fin": 3904,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Elena Alonso"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3892,
+   "fin": 3904,
+   "texto": "Elena Alonso"
+  },
+  {
+   "tipo": "person",
+   "ini": 3909,
+   "fin": 3919,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Dis Berlín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3909,
+   "fin": 3919,
+   "texto": "Dis Berlín"
+  },
+  {
+   "tipo": "person",
+   "ini": 3924,
+   "fin": 3944,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Irma Álvarez-Laviada"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3924,
+   "fin": 3944,
+   "texto": "Irma Álvarez-Laviada"
+  },
+  {
+   "tipo": "person",
+   "ini": 3949,
+   "fin": 3969,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Ángel Campano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3949,
+   "fin": 3969,
+   "texto": "Miguel Ángel Campano"
+  },
+  {
+   "tipo": "person",
+   "ini": 3974,
+   "fin": 3985,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Elvira Amor"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3974,
+   "fin": 3985,
+   "texto": "Elvira Amor"
+  },
+  {
+   "tipo": "person",
+   "ini": 3990,
+   "fin": 3999,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Equipo 57"
+  },
+  {
+   "tipo": "person",
+   "ini": 4004,
+   "fin": 4021,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jacobo Castellano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4004,
+   "fin": 4021,
+   "texto": "Jacobo Castellano"
+  },
+  {
+   "tipo": "person",
+   "ini": 4026,
+   "fin": 4039,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4026,
+   "fin": 4039,
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 4044,
+   "fin": 4061,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Clemente"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4044,
+   "fin": 4061,
+   "texto": "Fernando Clemente"
+  },
+  {
+   "tipo": "person",
+   "ini": 4066,
+   "fin": 4079,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Guerrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4066,
+   "fin": 4079,
+   "texto": "José Guerrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 4084,
+   "fin": 4098,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rubén Guerrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4084,
+   "fin": 4098,
+   "texto": "Rubén Guerrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 4103,
+   "fin": 4118,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Herminio Molero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4103,
+   "fin": 4118,
+   "texto": "Herminio Molero"
+  },
+  {
+   "tipo": "person",
+   "ini": 4123,
+   "fin": 4132,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4123,
+   "fin": 4132,
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "person",
+   "ini": 4137,
+   "fin": 4152,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pablo Palazuelo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4137,
+   "fin": 4152,
+   "texto": "Pablo Palazuelo"
+  },
+  {
+   "tipo": "person",
+   "ini": 4157,
+   "fin": 4167,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan López"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4157,
+   "fin": 4167,
+   "texto": "Juan López"
+  },
+  {
+   "tipo": "person",
+   "ini": 4172,
+   "fin": 4181,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Perejaume"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4172,
+   "fin": 4181,
+   "texto": "Perejaume"
+  },
+  {
+   "tipo": "person",
+   "ini": 4186,
+   "fin": 4202,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "J. M. Pereñíguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4186,
+   "fin": 4202,
+   "texto": "J. M. Pereñíguez"
+  },
+  {
+   "tipo": "person",
+   "ini": 4208,
+   "fin": 4221,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antoni Tàpies"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4208,
+   "fin": 4221,
+   "texto": "Antoni Tàpies"
+  },
+  {
+   "tipo": "person",
+   "ini": 4227,
+   "fin": 4245,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Cristóbal Quintero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4227,
+   "fin": 4245,
+   "texto": "Cristóbal Quintero"
+  },
+  {
+   "tipo": "person",
+   "ini": 4251,
+   "fin": 4260,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Uslé"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4251,
+   "fin": 4260,
+   "texto": "Juan Uslé"
+  },
+  {
+   "tipo": "person",
+   "ini": 4266,
+   "fin": 4281,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4266,
+   "fin": 4281,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 4283,
+   "fin": 5573
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4283,
+   "fin": 4324
+  },
+  {
+   "tipo": "img",
+   "ini": 4283,
+   "fin": 4288,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4290,
+   "fin": 4324,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La República (1975)\nCarlos Alcolea"
+  },
+  {
+   "tipo": "title",
+   "ini": 4290,
+   "fin": 4302,
+   "texto": "La República"
+  },
+  {
+   "tipo": "date",
+   "ini": 4304,
+   "fin": 4308,
+   "rasgos": {
+    "when": "1975"
+   },
+   "texto": "1975"
+  },
+  {
+   "tipo": "person",
+   "ini": 4310,
+   "fin": 4324,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carlos Alcolea"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4310,
+   "fin": 4324,
+   "texto": "Carlos Alcolea"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4326,
+   "fin": 4362
+  },
+  {
+   "tipo": "img",
+   "ini": 4326,
+   "fin": 4331,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4333,
+   "fin": 4362,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Love dreams (1989)\nDis Berlín"
+  },
+  {
+   "tipo": "title",
+   "ini": 4333,
+   "fin": 4344,
+   "texto": "Love dreams"
+  },
+  {
+   "tipo": "date",
+   "ini": 4346,
+   "fin": 4350,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "person",
+   "ini": 4352,
+   "fin": 4362,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Dis Berlín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4352,
+   "fin": 4362,
+   "texto": "Dis Berlín"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4364,
+   "fin": 4406
+  },
+  {
+   "tipo": "img",
+   "ini": 4364,
+   "fin": 4369,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4371,
+   "fin": 4406,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El túnel del amor (1987)\nDis Berlín"
+  },
+  {
+   "tipo": "title",
+   "ini": 4371,
+   "fin": 4388,
+   "texto": "El túnel del amor"
+  },
+  {
+   "tipo": "date",
+   "ini": 4390,
+   "fin": 4394,
+   "rasgos": {
+    "when": "1987"
+   },
+   "texto": "1987"
+  },
+  {
+   "tipo": "person",
+   "ini": 4396,
+   "fin": 4406,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Dis Berlín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4396,
+   "fin": 4406,
+   "texto": "Dis Berlín"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4408,
+   "fin": 4454
+  },
+  {
+   "tipo": "img",
+   "ini": 4408,
+   "fin": 4413,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4415,
+   "fin": 4454,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Ruth y Booz (1992)\nMiguel Ángel Campano"
+  },
+  {
+   "tipo": "title",
+   "ini": 4415,
+   "fin": 4426,
+   "texto": "Ruth y Booz"
+  },
+  {
+   "tipo": "date",
+   "ini": 4428,
+   "fin": 4432,
+   "rasgos": {
+    "when": "1992"
+   },
+   "texto": "1992"
+  },
+  {
+   "tipo": "person",
+   "ini": 4434,
+   "fin": 4454,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Ángel Campano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4434,
+   "fin": 4454,
+   "texto": "Miguel Ángel Campano"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4456,
+   "fin": 4490
+  },
+  {
+   "tipo": "img",
+   "ini": 4456,
+   "fin": 4461,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4463,
+   "fin": 4490,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título (1961)\nEquipo 57"
+  },
+  {
+   "tipo": "title",
+   "ini": 4463,
+   "fin": 4473,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 4475,
+   "fin": 4479,
+   "rasgos": {
+    "when": "1961"
+   },
+   "texto": "1961"
+  },
+  {
+   "tipo": "person",
+   "ini": 4481,
+   "fin": 4490,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Equipo 57"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4492,
+   "fin": 4540
+  },
+  {
+   "tipo": "img",
+   "ini": 4492,
+   "fin": 4497,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4499,
+   "fin": 4540,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Cabeza con números B (1963)\nLuis Gordillo"
+  },
+  {
+   "tipo": "title",
+   "ini": 4499,
+   "fin": 4519,
+   "texto": "Cabeza con números B"
+  },
+  {
+   "tipo": "date",
+   "ini": 4521,
+   "fin": 4525,
+   "rasgos": {
+    "when": "1963"
+   },
+   "texto": "1963"
+  },
+  {
+   "tipo": "person",
+   "ini": 4527,
+   "fin": 4540,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4527,
+   "fin": 4540,
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4542,
+   "fin": 4572
+  },
+  {
+   "tipo": "img",
+   "ini": 4542,
+   "fin": 4547,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4549,
+   "fin": 4572,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Fa (1963)\nLuis Gordillo"
+  },
+  {
+   "tipo": "title",
+   "ini": 4549,
+   "fin": 4551,
+   "texto": "Fa"
+  },
+  {
+   "tipo": "date",
+   "ini": 4553,
+   "fin": 4557,
+   "rasgos": {
+    "when": "1963"
+   },
+   "texto": "1963"
+  },
+  {
+   "tipo": "person",
+   "ini": 4559,
+   "fin": 4572,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4559,
+   "fin": 4572,
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4574,
+   "fin": 4609
+  },
+  {
+   "tipo": "img",
+   "ini": 4574,
+   "fin": 4579,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4581,
+   "fin": 4609,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Exilios (1970)\nJosé Guerrero"
+  },
+  {
+   "tipo": "title",
+   "ini": 4581,
+   "fin": 4588,
+   "texto": "Exilios"
+  },
+  {
+   "tipo": "date",
+   "ini": 4590,
+   "fin": 4594,
+   "rasgos": {
+    "when": "1970"
+   },
+   "texto": "1970"
+  },
+  {
+   "tipo": "person",
+   "ini": 4596,
+   "fin": 4609,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Guerrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4596,
+   "fin": 4609,
+   "texto": "José Guerrero"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4611,
+   "fin": 4656
+  },
+  {
+   "tipo": "img",
+   "ini": 4611,
+   "fin": 4616,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4618,
+   "fin": 4656,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Mi hermano y yo (1975)\nHerminio Molero"
+  },
+  {
+   "tipo": "title",
+   "ini": 4618,
+   "fin": 4633,
+   "texto": "Mi hermano y yo"
+  },
+  {
+   "tipo": "date",
+   "ini": 4635,
+   "fin": 4639,
+   "rasgos": {
+    "when": "1975"
+   },
+   "texto": "1975"
+  },
+  {
+   "tipo": "person",
+   "ini": 4641,
+   "fin": 4656,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Herminio Molero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4641,
+   "fin": 4656,
+   "texto": "Herminio Molero"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4658,
+   "fin": 4706
+  },
+  {
+   "tipo": "img",
+   "ini": 4658,
+   "fin": 4663,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4665,
+   "fin": 4706,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Vicente Aleixandre (1994)\nHerminio Molero"
+  },
+  {
+   "tipo": "title",
+   "ini": 4665,
+   "fin": 4683,
+   "texto": "Vicente Aleixandre"
+  },
+  {
+   "tipo": "date",
+   "ini": 4685,
+   "fin": 4689,
+   "rasgos": {
+    "when": "1994"
+   },
+   "texto": "1994"
+  },
+  {
+   "tipo": "person",
+   "ini": 4691,
+   "fin": 4706,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Herminio Molero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4691,
+   "fin": 4706,
+   "texto": "Herminio Molero"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4708,
+   "fin": 4746
+  },
+  {
+   "tipo": "img",
+   "ini": 4708,
+   "fin": 4713,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4715,
+   "fin": 4746,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sydus II (1997)\nPablo Palazuelo"
+  },
+  {
+   "tipo": "title",
+   "ini": 4715,
+   "fin": 4723,
+   "texto": "Sydus II"
+  },
+  {
+   "tipo": "date",
+   "ini": 4725,
+   "fin": 4729,
+   "rasgos": {
+    "when": "1997"
+   },
+   "texto": "1997"
+  },
+  {
+   "tipo": "person",
+   "ini": 4731,
+   "fin": 4746,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pablo Palazuelo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4731,
+   "fin": 4746,
+   "texto": "Pablo Palazuelo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4748,
+   "fin": 4799
+  },
+  {
+   "tipo": "img",
+   "ini": 4748,
+   "fin": 4753,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4755,
+   "fin": 4799,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pintura a través de la tela (1988)\nPerejaume"
+  },
+  {
+   "tipo": "title",
+   "ini": 4755,
+   "fin": 4782,
+   "texto": "Pintura a través de la tela"
+  },
+  {
+   "tipo": "date",
+   "ini": 4784,
+   "fin": 4788,
+   "rasgos": {
+    "when": "1988"
+   },
+   "texto": "1988"
+  },
+  {
+   "tipo": "person",
+   "ini": 4790,
+   "fin": 4799,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Perejaume"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4790,
+   "fin": 4799,
+   "texto": "Perejaume"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4801,
+   "fin": 4837
+  },
+  {
+   "tipo": "img",
+   "ini": 4801,
+   "fin": 4807,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4808,
+   "fin": 4837,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pinacoteca 1 (1988)\nPerejaume"
+  },
+  {
+   "tipo": "title",
+   "ini": 4808,
+   "fin": 4820,
+   "texto": "Pinacoteca 1"
+  },
+  {
+   "tipo": "date",
+   "ini": 4822,
+   "fin": 4826,
+   "rasgos": {
+    "when": "1988"
+   },
+   "texto": "1988"
+  },
+  {
+   "tipo": "person",
+   "ini": 4828,
+   "fin": 4837,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Perejaume"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4828,
+   "fin": 4837,
+   "texto": "Perejaume"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4839,
+   "fin": 4889
+  },
+  {
+   "tipo": "img",
+   "ini": 4839,
+   "fin": 4844,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4846,
+   "fin": 4889,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La comida está servida (1975)\nAntoni Tàpies"
+  },
+  {
+   "tipo": "title",
+   "ini": 4846,
+   "fin": 4868,
+   "texto": "La comida está servida"
+  },
+  {
+   "tipo": "date",
+   "ini": 4870,
+   "fin": 4874,
+   "rasgos": {
+    "when": "1975"
+   },
+   "texto": "1975"
+  },
+  {
+   "tipo": "person",
+   "ini": 4876,
+   "fin": 4889,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antoni Tàpies"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4876,
+   "fin": 4889,
+   "texto": "Antoni Tàpies"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4891,
+   "fin": 4925
+  },
+  {
+   "tipo": "img",
+   "ini": 4891,
+   "fin": 4896,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4898,
+   "fin": 4925,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Domingo II (1991)\nJuan Uslé"
+  },
+  {
+   "tipo": "title",
+   "ini": 4898,
+   "fin": 4908,
+   "texto": "Domingo II"
+  },
+  {
+   "tipo": "date",
+   "ini": 4910,
+   "fin": 4914,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "person",
+   "ini": 4916,
+   "fin": 4925,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Uslé"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4916,
+   "fin": 4925,
+   "texto": "Juan Uslé"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4927,
+   "fin": 4979
+  },
+  {
+   "tipo": "img",
+   "ini": 4927,
+   "fin": 4932,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4934,
+   "fin": 4979,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Miki en Tahití (Buen Regalo) (2015)\nMiki Leal"
+  },
+  {
+   "tipo": "title",
+   "ini": 4934,
+   "fin": 4962,
+   "texto": "Miki en Tahití (Buen Regalo)"
+  },
+  {
+   "tipo": "date",
+   "ini": 4964,
+   "fin": 4968,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "person",
+   "ini": 4970,
+   "fin": 4979,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4970,
+   "fin": 4979,
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4981,
+   "fin": 5031
+  },
+  {
+   "tipo": "img",
+   "ini": 4981,
+   "fin": 4986,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4988,
+   "fin": 5031,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título (Modulación) (2019)\nElena Alonso"
+  },
+  {
+   "tipo": "title",
+   "ini": 4988,
+   "fin": 5011,
+   "texto": "Sin título (Modulación)"
+  },
+  {
+   "tipo": "date",
+   "ini": 5013,
+   "fin": 5017,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "person",
+   "ini": 5019,
+   "fin": 5031,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Elena Alonso"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5019,
+   "fin": 5031,
+   "texto": "Elena Alonso"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5033,
+   "fin": 5078
+  },
+  {
+   "tipo": "img",
+   "ini": 5033,
+   "fin": 5038,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5040,
+   "fin": 5078,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pedestal 3 (2019)\nIrma Álvarez-Laviada"
+  },
+  {
+   "tipo": "title",
+   "ini": 5040,
+   "fin": 5050,
+   "texto": "Pedestal 3"
+  },
+  {
+   "tipo": "date",
+   "ini": 5052,
+   "fin": 5056,
+   "rasgos": {
+    "when": "20019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "person",
+   "ini": 5058,
+   "fin": 5078,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Irma Álvarez-Laviada"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5058,
+   "fin": 5078,
+   "texto": "Irma Álvarez-Laviada"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5080,
+   "fin": 5116
+  },
+  {
+   "tipo": "img",
+   "ini": 5080,
+   "fin": 5085,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5087,
+   "fin": 5116,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título (2018)\nElvira Amor"
+  },
+  {
+   "tipo": "title",
+   "ini": 5087,
+   "fin": 5097,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 5099,
+   "fin": 5103,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "person",
+   "ini": 5105,
+   "fin": 5116,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Elvira Amor"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5105,
+   "fin": 5116,
+   "texto": "Elvira Amor"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5118,
+   "fin": 5148
+  },
+  {
+   "tipo": "img",
+   "ini": 5118,
+   "fin": 5123,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5125,
+   "fin": 5148,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "S.T. (2020)\nElvira Amor"
+  },
+  {
+   "tipo": "title",
+   "ini": 5125,
+   "fin": 5129,
+   "texto": "S.T."
+  },
+  {
+   "tipo": "date",
+   "ini": 5131,
+   "fin": 5135,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "person",
+   "ini": 5137,
+   "fin": 5148,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Elvira Amor"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5137,
+   "fin": 5148,
+   "texto": "Elvira Amor"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5150,
+   "fin": 5180
+  },
+  {
+   "tipo": "img",
+   "ini": 5150,
+   "fin": 5155,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5157,
+   "fin": 5180,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "S.T. (2020)\nElvira Amor"
+  },
+  {
+   "tipo": "title",
+   "ini": 5157,
+   "fin": 5161,
+   "texto": "S.T."
+  },
+  {
+   "tipo": "date",
+   "ini": 5163,
+   "fin": 5167,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "person",
+   "ini": 5169,
+   "fin": 5180,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Elvira Amor"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5169,
+   "fin": 5180,
+   "texto": "Elvira Amor"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5182,
+   "fin": 5224
+  },
+  {
+   "tipo": "img",
+   "ini": 5182,
+   "fin": 5187,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5189,
+   "fin": 5224,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título (2020)\nJacobo Castellano"
+  },
+  {
+   "tipo": "title",
+   "ini": 5189,
+   "fin": 5199,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 5201,
+   "fin": 5205,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "person",
+   "ini": 5207,
+   "fin": 5224,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jacobo Castellano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5207,
+   "fin": 5224,
+   "texto": "Jacobo Castellano"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5226,
+   "fin": 5261
+  },
+  {
+   "tipo": "img",
+   "ini": 5226,
+   "fin": 5231,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5233,
+   "fin": 5261,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "S/T (2020)\nFernando Clemente"
+  },
+  {
+   "tipo": "title",
+   "ini": 5233,
+   "fin": 5236,
+   "texto": "S/T"
+  },
+  {
+   "tipo": "date",
+   "ini": 5238,
+   "fin": 5242,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "person",
+   "ini": 5244,
+   "fin": 5261,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Clemente"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5244,
+   "fin": 5261,
+   "texto": "Fernando Clemente"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5263,
+   "fin": 5314
+  },
+  {
+   "tipo": "img",
+   "ini": 5263,
+   "fin": 5268,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5270,
+   "fin": 5314,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Mesa única e inútil (2015)\nFernando Clemente"
+  },
+  {
+   "tipo": "title",
+   "ini": 5270,
+   "fin": 5289,
+   "texto": "Mesa única e inútil"
+  },
+  {
+   "tipo": "date",
+   "ini": 5291,
+   "fin": 5295,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "person",
+   "ini": 5297,
+   "fin": 5314,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Clemente"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5297,
+   "fin": 5314,
+   "texto": "Fernando Clemente"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5316,
+   "fin": 5349
+  },
+  {
+   "tipo": "img",
+   "ini": 5316,
+   "fin": 5321,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5323,
+   "fin": 5349,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "S.T. (2012)\nRubén Guerrero"
+  },
+  {
+   "tipo": "title",
+   "ini": 5323,
+   "fin": 5327,
+   "texto": "S.T."
+  },
+  {
+   "tipo": "date",
+   "ini": 5329,
+   "fin": 5333,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "person",
+   "ini": 5335,
+   "fin": 5349,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rubén Guerrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5335,
+   "fin": 5349,
+   "texto": "Rubén Guerrero"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5351,
+   "fin": 5385
+  },
+  {
+   "tipo": "img",
+   "ini": 5351,
+   "fin": 5356,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5358,
+   "fin": 5385,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título (2020)\nMiki Leal"
+  },
+  {
+   "tipo": "title",
+   "ini": 5358,
+   "fin": 5368,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 5370,
+   "fin": 5374,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "person",
+   "ini": 5376,
+   "fin": 5385,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5376,
+   "fin": 5385,
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5387,
+   "fin": 5422
+  },
+  {
+   "tipo": "img",
+   "ini": 5387,
+   "fin": 5392,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5394,
+   "fin": 5422,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "CDTPMOC 12 (2019)\nJuan López"
+  },
+  {
+   "tipo": "title",
+   "ini": 5394,
+   "fin": 5404,
+   "texto": "CDTPMOC 12"
+  },
+  {
+   "tipo": "date",
+   "ini": 5406,
+   "fin": 5410,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "person",
+   "ini": 5412,
+   "fin": 5422,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan López"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5412,
+   "fin": 5422,
+   "texto": "Juan López"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5424,
+   "fin": 5486
+  },
+  {
+   "tipo": "img",
+   "ini": 5424,
+   "fin": 5429,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5431,
+   "fin": 5486,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Djiguit II (rompecabezas) (2013)\nJosé Miguel Pereñíguez"
+  },
+  {
+   "tipo": "title",
+   "ini": 5431,
+   "fin": 5456,
+   "texto": "Djiguit II (rompecabezas)"
+  },
+  {
+   "tipo": "date",
+   "ini": 5458,
+   "fin": 5462,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "person",
+   "ini": 5464,
+   "fin": 5486,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Miguel Pereñíguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5464,
+   "fin": 5486,
+   "texto": "José Miguel Pereñíguez"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5488,
+   "fin": 5531
+  },
+  {
+   "tipo": "img",
+   "ini": 5488,
+   "fin": 5493,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5495,
+   "fin": 5531,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título (2010)\nCristóbal Quintero"
+  },
+  {
+   "tipo": "title",
+   "ini": 5495,
+   "fin": 5505,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 5507,
+   "fin": 5511,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "person",
+   "ini": 5513,
+   "fin": 5531,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Cristóbal Quintero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5513,
+   "fin": 5531,
+   "texto": "Cristóbal Quintero"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5533,
+   "fin": 5573
+  },
+  {
+   "tipo": "img",
+   "ini": 5533,
+   "fin": 5538,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5540,
+   "fin": 5573,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título (2018)\nSantiago Ydáñez"
+  },
+  {
+   "tipo": "title",
+   "ini": 5540,
+   "fin": 5550,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 5552,
+   "fin": 5556,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "person",
+   "ini": 5558,
+   "fin": 5573,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5558,
+   "fin": 5573,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5575,
+   "fin": 5621,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser"
+   },
+   "texto": "INSTITUTO DE LA CULTURA Y LAS ARTES DE SEVILLA"
+  },
+  {
+   "tipo": "person",
+   "ini": 5643,
+   "fin": 5655,
+   "texto": "Juan Espadas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5643,
+   "fin": 5655,
+   "texto": "Juan Espadas"
+  },
+  {
+   "tipo": "person",
+   "ini": 5669,
+   "fin": 5678,
+   "rasgos": {
+    "role": "exhibitiumCurator"
+   },
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5669,
+   "fin": 5678,
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "person",
+   "ini": 5726,
+   "fin": 5739,
+   "texto": "Antonio Muñoz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5726,
+   "fin": 5739,
+   "texto": "Antonio Muñoz"
+  },
+  {
+   "tipo": "person",
+   "ini": 5823,
+   "fin": 5835,
+   "texto": "Isabel Ojeda"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5823,
+   "fin": 5835,
+   "texto": "Isabel Ojeda"
+  },
+  {
+   "tipo": "person",
+   "ini": 5844,
+   "fin": 5858,
+   "texto": "Victoria Bravo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5844,
+   "fin": 5858,
+   "texto": "Victoria Bravo"
+  },
+  {
+   "tipo": "person",
+   "ini": 5912,
+   "fin": 5932,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Getsemaní San Marcos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5912,
+   "fin": 5932,
+   "texto": "Getsemaní San Marcos"
+  },
+  {
+   "tipo": "person",
+   "ini": 5982,
+   "fin": 5995,
+   "texto": "Amapola López"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5982,
+   "fin": 5995,
+   "texto": "Amapola López"
+  },
+  {
+   "tipo": "person",
+   "ini": 6060,
+   "fin": 6071,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "María Genís"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6060,
+   "fin": 6071,
+   "texto": "María Genís"
+  },
+  {
+   "tipo": "person",
+   "ini": 6102,
+   "fin": 6118,
+   "texto": "Misael Rodríguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6102,
+   "fin": 6118,
+   "texto": "Misael Rodríguez"
+  },
+  {
+   "tipo": "person",
+   "ini": 6119,
+   "fin": 6135,
+   "texto": "Olivia Rodríguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6119,
+   "fin": 6135,
+   "texto": "Olivia Rodríguez"
+  }
+ ]
+}

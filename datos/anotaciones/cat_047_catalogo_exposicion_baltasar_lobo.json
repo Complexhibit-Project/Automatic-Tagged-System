@@ -1,0 +1,2241 @@
+{
+ "id": "cat_047_catalogo_exposicion_baltasar_lobo",
+ "nombre_original": "Catalogo-Exposicion-Baltasar-Lobo",
+ "longitud_texto": 54579,
+ "sha256_texto": "e3d0b83ea6b93b78db6c74d1da723cef28ad1f3acb923075f8493335de094360",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 13,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 13,
+   "texto": "Baltasar lobo"
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 13,
+   "texto": "Baltasar lobo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 13,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 15,
+   "fin": 28,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "BALTASAR LOBO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15,
+   "fin": 28,
+   "texto": "BALTASAR LOBO"
+  },
+  {
+   "tipo": "title",
+   "ini": 15,
+   "fin": 28,
+   "texto": "BALTASAR LOBO"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 15,
+   "fin": 28,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 30,
+   "fin": 315,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 30,
+   "fin": 43,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "BALTASAR LOBO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30,
+   "fin": 43,
+   "texto": "BALTASAR LOBO"
+  },
+  {
+   "tipo": "title",
+   "ini": 30,
+   "fin": 43,
+   "texto": "BALTASAR LOBO"
+  },
+  {
+   "tipo": "date",
+   "ini": 49,
+   "fin": 81,
+   "rasgos": {
+    "from": "2014-05-13",
+    "to": "2014-07-04"
+   },
+   "texto": "13 de mayo al 4 de julio de 2014"
+  },
+  {
+   "tipo": "institution",
+   "ini": 83,
+   "fin": 315,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   }
+  },
+  {
+   "tipo": "address",
+   "ini": 107,
+   "fin": 133,
+   "texto": "C/ AMOR DE DIOS, Nº1 28014"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 134,
+   "fin": 140,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "MADRID"
+  },
+  {
+   "tipo": "person",
+   "ini": 317,
+   "fin": 330,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "BALTASAR LOBO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 317,
+   "fin": 330,
+   "texto": "BALTASAR LOBO"
+  },
+  {
+   "tipo": "person",
+   "ini": 411,
+   "fin": 475,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar Lobo  (Cerecinos\nde Campos, Zamora, 1910 — París, 1993)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 411,
+   "fin": 424,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "birth",
+   "ini": 427,
+   "fin": 461
+  },
+  {
+   "tipo": "placeName",
+   "ini": 427,
+   "fin": 454,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Cerecinos\nde Campos, Zamora"
+  },
+  {
+   "tipo": "date",
+   "ini": 456,
+   "fin": 460,
+   "rasgos": {
+    "when": "1910"
+   },
+   "texto": "1910"
+  },
+  {
+   "tipo": "death",
+   "ini": 463,
+   "fin": 474
+  },
+  {
+   "tipo": "placeName",
+   "ini": 463,
+   "fin": 468,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "París"
+  },
+  {
+   "tipo": "date",
+   "ini": 470,
+   "fin": 474,
+   "rasgos": {
+    "when": "1993"
+   },
+   "texto": "1993"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 29690,
+   "fin": 40864
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 29690,
+   "fin": 30929
+  },
+  {
+   "tipo": "work",
+   "ini": 29690,
+   "fin": 30922,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 29690,
+   "fin": 29699,
+   "texto": "“HOMMAGE”"
+  },
+  {
+   "tipo": "date",
+   "ini": 29700,
+   "fin": 29704,
+   "rasgos": {
+    "when": "1943"
+   },
+   "texto": "1943"
+  },
+  {
+   "tipo": "material",
+   "ini": 29705,
+   "fin": 29725,
+   "rasgos": {
+    "type": "bronze"
+   },
+   "texto": "Bronce, patina negra"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 29726,
+   "fin": 29746,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "26,5 x 19,8 x 6,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 29726,
+   "fin": 29730,
+   "texto": "26,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 29733,
+   "fin": 29737,
+   "texto": "19,8"
+  },
+  {
+   "tipo": "depth",
+   "ini": 29740,
+   "fin": 29743,
+   "texto": "6,5"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 29747,
+   "fin": 29884
+  },
+  {
+   "tipo": "reference",
+   "ini": 29899,
+   "fin": 30075
+  },
+  {
+   "tipo": "reference",
+   "ini": 30077,
+   "fin": 30260
+  },
+  {
+   "tipo": "person",
+   "ini": 30112,
+   "fin": 30125,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30112,
+   "fin": 30125,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "reference",
+   "ini": 30262,
+   "fin": 30291
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 30307,
+   "fin": 30455,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 30458,
+   "fin": 30594,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 30511,
+   "fin": 30524,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30511,
+   "fin": 30524,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 30596,
+   "fin": 30727,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 30669,
+   "fin": 30682,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30669,
+   "fin": 30682,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 30730,
+   "fin": 30844,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 30784,
+   "fin": 30797,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30784,
+   "fin": 30797,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 30846,
+   "fin": 30922
+  },
+  {
+   "tipo": "img",
+   "ini": 30924,
+   "fin": 30929,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30932,
+   "fin": 31981
+  },
+  {
+   "tipo": "work",
+   "ini": 30932,
+   "fin": 31974,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 30932,
+   "fin": 30974,
+   "texto": "“Mère et Enfant, La Ciotat 3816 sur socle”"
+  },
+  {
+   "tipo": "date",
+   "ini": 30975,
+   "fin": 30979,
+   "rasgos": {
+    "when": "1947"
+   },
+   "texto": "1947"
+  },
+  {
+   "tipo": "material",
+   "ini": 30980,
+   "fin": 30986,
+   "rasgos": {
+    "type": "bronze"
+   },
+   "texto": "Bronce"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 30987,
+   "fin": 31003,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "26 x 19 x 8,8 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 30987,
+   "fin": 30989,
+   "texto": "26"
+  },
+  {
+   "tipo": "width",
+   "ini": 30992,
+   "fin": 30994,
+   "texto": "19"
+  },
+  {
+   "tipo": "depth",
+   "ini": 30997,
+   "fin": 31000,
+   "texto": "8,8"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 31004,
+   "fin": 31114
+  },
+  {
+   "tipo": "reference",
+   "ini": 31130,
+   "fin": 31303
+  },
+  {
+   "tipo": "reference",
+   "ini": 31306,
+   "fin": 31464
+  },
+  {
+   "tipo": "person",
+   "ini": 31348,
+   "fin": 31361,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31348,
+   "fin": 31361,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "reference",
+   "ini": 31467,
+   "fin": 31496
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 31512,
+   "fin": 31613,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 31616,
+   "fin": 31738,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 31741,
+   "fin": 31834,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 31837,
+   "fin": 31973,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 31976,
+   "fin": 31981,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 31984,
+   "fin": 33063
+  },
+  {
+   "tipo": "work",
+   "ini": 31984,
+   "fin": 33056,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 31984,
+   "fin": 32021,
+   "texto": "“Mère et Enfant, La Ciotat sur socle”"
+  },
+  {
+   "tipo": "date",
+   "ini": 32022,
+   "fin": 32026,
+   "rasgos": {
+    "when": "1947"
+   },
+   "texto": "1947"
+  },
+  {
+   "tipo": "material",
+   "ini": 32027,
+   "fin": 32033,
+   "rasgos": {
+    "type": "bronze"
+   },
+   "texto": "Bronce"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 32034,
+   "fin": 32055,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "51,5 x 39,5 x 15,8 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 32034,
+   "fin": 32038,
+   "texto": "51,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 32041,
+   "fin": 32045,
+   "texto": "39,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 32048,
+   "fin": 32052,
+   "texto": "15,8"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 32056,
+   "fin": 32174
+  },
+  {
+   "tipo": "reference",
+   "ini": 32190,
+   "fin": 32220
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 32236,
+   "fin": 32429,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 32431,
+   "fin": 32522,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 32525,
+   "fin": 32618,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 32621,
+   "fin": 32756,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 32676,
+   "fin": 32689,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 32676,
+   "fin": 32689,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 32759,
+   "fin": 32912,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 32915,
+   "fin": 33055,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 32973,
+   "fin": 32986,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 32973,
+   "fin": 32986,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "img",
+   "ini": 33058,
+   "fin": 33063,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 33066,
+   "fin": 33852
+  },
+  {
+   "tipo": "work",
+   "ini": 33066,
+   "fin": 33845,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 33066,
+   "fin": 33077,
+   "texto": "“MATERNITÉ”"
+  },
+  {
+   "tipo": "date",
+   "ini": 33078,
+   "fin": 33082,
+   "rasgos": {
+    "when": "1949"
+   },
+   "texto": "1949"
+  },
+  {
+   "tipo": "material",
+   "ini": 33083,
+   "fin": 33089,
+   "rasgos": {
+    "type": "bronze"
+   },
+   "texto": "Bronce"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 33090,
+   "fin": 33105,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "22 x 30 x 21 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 33090,
+   "fin": 33092,
+   "texto": "22"
+  },
+  {
+   "tipo": "width",
+   "ini": 33095,
+   "fin": 33097,
+   "texto": "30"
+  },
+  {
+   "tipo": "depth",
+   "ini": 33100,
+   "fin": 33102,
+   "texto": "21"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 33106,
+   "fin": 33235
+  },
+  {
+   "tipo": "reference",
+   "ini": 33251,
+   "fin": 33429
+  },
+  {
+   "tipo": "reference",
+   "ini": 33432,
+   "fin": 33592
+  },
+  {
+   "tipo": "person",
+   "ini": 33474,
+   "fin": 33487,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 33474,
+   "fin": 33487,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "reference",
+   "ini": 33594,
+   "fin": 33623
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 33639,
+   "fin": 33769,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 33697,
+   "fin": 33710,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 33697,
+   "fin": 33710,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 33770,
+   "fin": 33845
+  },
+  {
+   "tipo": "img",
+   "ini": 33847,
+   "fin": 33852,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 33855,
+   "fin": 34153
+  },
+  {
+   "tipo": "work",
+   "ini": 33855,
+   "fin": 34146,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 33855,
+   "fin": 33862,
+   "texto": "“Repos”"
+  },
+  {
+   "tipo": "date",
+   "ini": 33863,
+   "fin": 33874,
+   "rasgos": {
+    "notBefore": "1967",
+    "notAfter": "1968"
+   },
+   "texto": "c 1967-1968"
+  },
+  {
+   "tipo": "material",
+   "ini": 33875,
+   "fin": 33899,
+   "rasgos": {
+    "type": "marble"
+   },
+   "texto": "Mármol blanco de Carrara"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 33900,
+   "fin": 33911
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 33912,
+   "fin": 33926,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "11,5 x 24,2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 33912,
+   "fin": 33916,
+   "texto": "11,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 33919,
+   "fin": 33923,
+   "texto": "24,2"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 33929,
+   "fin": 33954
+  },
+  {
+   "tipo": "reference",
+   "ini": 33970,
+   "fin": 34114
+  },
+  {
+   "tipo": "reference",
+   "ini": 34117,
+   "fin": 34146
+  },
+  {
+   "tipo": "img",
+   "ini": 34148,
+   "fin": 34153,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34156,
+   "fin": 35152
+  },
+  {
+   "tipo": "img",
+   "ini": 34156,
+   "fin": 34161,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 34163,
+   "fin": 35145,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 34163,
+   "fin": 34179,
+   "texto": "“TORSE SUR MAIN”"
+  },
+  {
+   "tipo": "date",
+   "ini": 34180,
+   "fin": 34189,
+   "rasgos": {
+    "from": "1967",
+    "to": "1968"
+   },
+   "texto": "1967-1968"
+  },
+  {
+   "tipo": "material",
+   "ini": 34190,
+   "fin": 34210,
+   "rasgos": {
+    "type": "bronze"
+   },
+   "texto": "Bronce, patina negra"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 34211,
+   "fin": 34232,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "11,5 x 20,5 x 12,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 34211,
+   "fin": 34215,
+   "texto": "11,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 34218,
+   "fin": 34222,
+   "texto": "20,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 34225,
+   "fin": 34229,
+   "texto": "12,5"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 34234,
+   "fin": 34350
+  },
+  {
+   "tipo": "reference",
+   "ini": 34365,
+   "fin": 34538
+  },
+  {
+   "tipo": "reference",
+   "ini": 34541,
+   "fin": 34570
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 34586,
+   "fin": 34740,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 34655,
+   "fin": 34668,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 34655,
+   "fin": 34668,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 34742,
+   "fin": 34831,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 34833,
+   "fin": 35024,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 34974,
+   "fin": 34987,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 34974,
+   "fin": 34987,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 35027,
+   "fin": 35144,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 35067,
+   "fin": 35080,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35067,
+   "fin": 35080,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "img",
+   "ini": 35147,
+   "fin": 35152,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 35155,
+   "fin": 36326
+  },
+  {
+   "tipo": "work",
+   "ini": 35155,
+   "fin": 36319,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 35155,
+   "fin": 35174,
+   "texto": "“TORSE CENTAURESSE”"
+  },
+  {
+   "tipo": "date",
+   "ini": 35175,
+   "fin": 35179,
+   "rasgos": {
+    "when": "1975"
+   },
+   "texto": "1975"
+  },
+  {
+   "tipo": "material",
+   "ini": 35180,
+   "fin": 35186,
+   "rasgos": {
+    "type": "bronze"
+   },
+   "texto": "Bronce"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 35187,
+   "fin": 35201,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "25 x 20 x 9 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 35187,
+   "fin": 35189,
+   "texto": "25"
+  },
+  {
+   "tipo": "width",
+   "ini": 35192,
+   "fin": 35194,
+   "texto": "20"
+  },
+  {
+   "tipo": "depth",
+   "ini": 35197,
+   "fin": 35198,
+   "texto": "9"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 35202,
+   "fin": 35320
+  },
+  {
+   "tipo": "reference",
+   "ini": 35335,
+   "fin": 35512
+  },
+  {
+   "tipo": "reference",
+   "ini": 35515,
+   "fin": 35554
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 35571,
+   "fin": 35708,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 35613,
+   "fin": 35626,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35613,
+   "fin": 35626,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 35709,
+   "fin": 35844,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 35846,
+   "fin": 35972,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 35888,
+   "fin": 35901,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35888,
+   "fin": 35901,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 35975,
+   "fin": 36180,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 36116,
+   "fin": 36129,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 36116,
+   "fin": 36129,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 36183,
+   "fin": 36318,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 36235,
+   "fin": 36248,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 36235,
+   "fin": 36248,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "img",
+   "ini": 36321,
+   "fin": 36326,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 36329,
+   "fin": 37009
+  },
+  {
+   "tipo": "work",
+   "ini": 36329,
+   "fin": 37002,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 36329,
+   "fin": 36343,
+   "texto": "“L’ENLÈVEMENT”"
+  },
+  {
+   "tipo": "date",
+   "ini": 36344,
+   "fin": 36348,
+   "rasgos": {
+    "when": "1975"
+   },
+   "texto": "1975"
+  },
+  {
+   "tipo": "material",
+   "ini": 36349,
+   "fin": 36355,
+   "rasgos": {
+    "type": "bronze"
+   },
+   "texto": "Bronce"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 36356,
+   "fin": 36371,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "11 x 25 x 10 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 36356,
+   "fin": 36358,
+   "texto": "11"
+  },
+  {
+   "tipo": "width",
+   "ini": 36361,
+   "fin": 36363,
+   "texto": "25"
+  },
+  {
+   "tipo": "depth",
+   "ini": 36366,
+   "fin": 36368,
+   "texto": "10"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 36373,
+   "fin": 36491
+  },
+  {
+   "tipo": "reference",
+   "ini": 36506,
+   "fin": 36683
+  },
+  {
+   "tipo": "reference",
+   "ini": 36685,
+   "fin": 36724
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 36740,
+   "fin": 36878,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 36789,
+   "fin": 36802,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 36789,
+   "fin": 36802,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 36881,
+   "fin": 37001,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 37004,
+   "fin": 37009,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 37012,
+   "fin": 37585
+  },
+  {
+   "tipo": "img",
+   "ini": 37012,
+   "fin": 37017,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 37019,
+   "fin": 37578,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 37019,
+   "fin": 37033,
+   "texto": "“Sur la plage”"
+  },
+  {
+   "tipo": "date",
+   "ini": 37034,
+   "fin": 37038,
+   "rasgos": {
+    "when": "1977"
+   },
+   "texto": "1977"
+  },
+  {
+   "tipo": "material",
+   "ini": 37039,
+   "fin": 37045,
+   "rasgos": {
+    "type": "bronze"
+   },
+   "texto": "Bronce"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 37046,
+   "fin": 37061,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "31 x 62 x 22 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 37046,
+   "fin": 37048,
+   "texto": "31"
+  },
+  {
+   "tipo": "width",
+   "ini": 37051,
+   "fin": 37053,
+   "texto": "62"
+  },
+  {
+   "tipo": "depth",
+   "ini": 37056,
+   "fin": 37058,
+   "texto": "22"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 37062,
+   "fin": 37179
+  },
+  {
+   "tipo": "reference",
+   "ini": 37194,
+   "fin": 37360
+  },
+  {
+   "tipo": "reference",
+   "ini": 37363,
+   "fin": 37392
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 37408,
+   "fin": 37577,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 37580,
+   "fin": 37585,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 37588,
+   "fin": 38135
+  },
+  {
+   "tipo": "work",
+   "ini": 37588,
+   "fin": 38128,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 37588,
+   "fin": 37605,
+   "texto": "“REPOS SUR SOCLE”"
+  },
+  {
+   "tipo": "date",
+   "ini": 37606,
+   "fin": 37615,
+   "rasgos": {
+    "from": "1979",
+    "to": "1982"
+   },
+   "texto": "1979-1982"
+  },
+  {
+   "tipo": "material",
+   "ini": 37616,
+   "fin": 37622,
+   "rasgos": {
+    "type": "bronze"
+   },
+   "texto": "Bronce"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 37623,
+   "fin": 37638,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32 x 47 x 22 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 37623,
+   "fin": 37625,
+   "texto": "32"
+  },
+  {
+   "tipo": "width",
+   "ini": 37628,
+   "fin": 37630,
+   "texto": "47"
+  },
+  {
+   "tipo": "depth",
+   "ini": 37633,
+   "fin": 37635,
+   "texto": "22"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 37639,
+   "fin": 37756
+  },
+  {
+   "tipo": "reference",
+   "ini": 37772,
+   "fin": 37943
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 37958,
+   "fin": 38022,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 38025,
+   "fin": 38127,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 38130,
+   "fin": 38135,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 38138,
+   "fin": 38512
+  },
+  {
+   "tipo": "work",
+   "ini": 38138,
+   "fin": 38504,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 38138,
+   "fin": 38149,
+   "texto": "“AU SOLEIL”"
+  },
+  {
+   "tipo": "date",
+   "ini": 38150,
+   "fin": 38154,
+   "rasgos": {
+    "when": "1982"
+   },
+   "texto": "1982"
+  },
+  {
+   "tipo": "material",
+   "ini": 38155,
+   "fin": 38179,
+   "rasgos": {
+    "type": "marble"
+   },
+   "texto": "Mármol blanco de Carrara"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 38180,
+   "fin": 38194,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "19 x 19 x 9 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 38180,
+   "fin": 38182,
+   "texto": "19"
+  },
+  {
+   "tipo": "width",
+   "ini": 38185,
+   "fin": 38187,
+   "texto": "19"
+  },
+  {
+   "tipo": "depth",
+   "ini": 38190,
+   "fin": 38191,
+   "texto": "9"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 38195,
+   "fin": 38219
+  },
+  {
+   "tipo": "reference",
+   "ini": 38234,
+   "fin": 38414
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 38429,
+   "fin": 38503,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 38483,
+   "fin": 38496,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38483,
+   "fin": 38496,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "img",
+   "ini": 38506,
+   "fin": 38511,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 38514,
+   "fin": 39555
+  },
+  {
+   "tipo": "work",
+   "ini": 38514,
+   "fin": 39548,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 38514,
+   "fin": 38531,
+   "texto": "“Tête de Taureau”"
+  },
+  {
+   "tipo": "date",
+   "ini": 38532,
+   "fin": 38536,
+   "rasgos": {
+    "when": "1981"
+   },
+   "texto": "1981"
+  },
+  {
+   "tipo": "material",
+   "ini": 38537,
+   "fin": 38557,
+   "rasgos": {
+    "type": "bronze"
+   },
+   "texto": "Bronce, patina negra"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 38558,
+   "fin": 38575,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "45 x 28,5 x 24 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 38558,
+   "fin": 38560,
+   "texto": "45"
+  },
+  {
+   "tipo": "width",
+   "ini": 38563,
+   "fin": 38567,
+   "texto": "28,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 38570,
+   "fin": 38572,
+   "texto": "24"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 38576,
+   "fin": 38701
+  },
+  {
+   "tipo": "reference",
+   "ini": 38716,
+   "fin": 38890
+  },
+  {
+   "tipo": "reference",
+   "ini": 38893,
+   "fin": 39074
+  },
+  {
+   "tipo": "person",
+   "ini": 38928,
+   "fin": 38941,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38928,
+   "fin": 38941,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "reference",
+   "ini": 39077,
+   "fin": 39106
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 39122,
+   "fin": 39288,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 39291,
+   "fin": 39422,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 39346,
+   "fin": 39359,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39346,
+   "fin": 39359,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 39425,
+   "fin": 39547,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 39478,
+   "fin": 39491,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39478,
+   "fin": 39491,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "img",
+   "ini": 39550,
+   "fin": 39555,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39558,
+   "fin": 40292
+  },
+  {
+   "tipo": "work",
+   "ini": 39558,
+   "fin": 40285,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 39558,
+   "fin": 39567,
+   "texto": "“Le Rêve”"
+  },
+  {
+   "tipo": "date",
+   "ini": 39568,
+   "fin": 39572,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "material",
+   "ini": 39573,
+   "fin": 39579,
+   "rasgos": {
+    "type": "bronze"
+   },
+   "texto": "Bronze"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39580,
+   "fin": 39597,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32 x 22 x 18,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 39580,
+   "fin": 39582,
+   "texto": "32"
+  },
+  {
+   "tipo": "width",
+   "ini": 39585,
+   "fin": 39587,
+   "texto": "22"
+  },
+  {
+   "tipo": "depth",
+   "ini": 39590,
+   "fin": 39594,
+   "texto": "18,5"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 39598,
+   "fin": 39714
+  },
+  {
+   "tipo": "reference",
+   "ini": 39730,
+   "fin": 39760
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 39775,
+   "fin": 39975,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 39916,
+   "fin": 39929,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39916,
+   "fin": 39929,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 39978,
+   "fin": 40148,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 40151,
+   "fin": 40284,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 40287,
+   "fin": 40292,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40295,
+   "fin": 40864
+  },
+  {
+   "tipo": "work",
+   "ini": 40295,
+   "fin": 40857,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 40295,
+   "fin": 40304,
+   "texto": "“LE REVE”"
+  },
+  {
+   "tipo": "date",
+   "ini": 40305,
+   "fin": 40309,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40310,
+   "fin": 40327,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "62,5 x 47 x 23 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40310,
+   "fin": 40314,
+   "texto": "62,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 40317,
+   "fin": 40319,
+   "texto": "47"
+  },
+  {
+   "tipo": "depth",
+   "ini": 40322,
+   "fin": 40324,
+   "texto": "23"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 40331,
+   "fin": 40445
+  },
+  {
+   "tipo": "reference",
+   "ini": 40460,
+   "fin": 40490
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 40505,
+   "fin": 40621,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 40556,
+   "fin": 40569,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40556,
+   "fin": 40569,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 40624,
+   "fin": 40857,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 40754,
+   "fin": 40767,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40754,
+   "fin": 40767,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "img",
+   "ini": 40859,
+   "fin": 40865,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 40876,
+   "fin": 40989,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "1910 El 22 de febrero nace Baltasar Lobo en el\npequeño pueblo de Cerecinos de Campos,\nprovincia de Zamora, España"
+  },
+  {
+   "tipo": "date",
+   "ini": 40876,
+   "fin": 40897,
+   "rasgos": {
+    "when": "1910-02-22"
+   },
+   "texto": "1910 El 22 de febrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40903,
+   "fin": 40916,
+   "texto": "Baltasar Lobo"
+  },
+  {
+   "tipo": "person",
+   "ini": 54312,
+   "fin": 54329,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Juan Manuel Bonet"
+  },
+  {
+   "tipo": "persName",
+   "ini": 54312,
+   "fin": 54329,
+   "texto": "Juan Manuel Bonet"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 54405,
+   "fin": 54411,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 54483,
+   "fin": 54488,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "París"
+  },
+  {
+   "tipo": "person",
+   "ini": 54505,
+   "fin": 54518,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "Iñigo Navarro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 54505,
+   "fin": 54518,
+   "texto": "Iñigo Navarro"
+  },
+  {
+   "tipo": "person",
+   "ini": 54532,
+   "fin": 54546,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "Lourdes Varela"
+  },
+  {
+   "tipo": "persName",
+   "ini": 54532,
+   "fin": 54546,
+   "texto": "Lourdes Varela"
+  },
+  {
+   "tipo": "person",
+   "ini": 54560,
+   "fin": 54577,
+   "rasgos": {
+    "role": "layout"
+   },
+   "texto": "Luis Serrano Lasa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 54560,
+   "fin": 54577,
+   "texto": "Luis Serrano Lasa"
+  }
+ ]
+}

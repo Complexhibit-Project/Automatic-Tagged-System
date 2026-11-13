@@ -1,0 +1,5102 @@
+{
+ "id": "cat_070_catalogo_laproximamutacion_esp",
+ "nombre_original": "Catalogo_LaProximaMutacion_Esp",
+ "longitud_texto": 62155,
+ "sha256_texto": "fc0eeae1b257d156b21ec6c1396b6a540b277472673e1bade9d3f16ba9b22366",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 629,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 19,
+   "texto": "La próxima mutación"
+  },
+  {
+   "tipo": "institution",
+   "ini": 21,
+   "fin": 73,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser, host"
+   },
+   "texto": "COLECCIÓN DE ARTE CONTEMPORÁNEO\nFUNDACIÓN ”LA CAIXA”"
+  },
+  {
+   "tipo": "person",
+   "ini": 117,
+   "fin": 137,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Absalon\nNacho Criado"
+  },
+  {
+   "tipo": "person",
+   "ini": 117,
+   "fin": 124,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Absalon"
+  },
+  {
+   "tipo": "persName",
+   "ini": 117,
+   "fin": 124,
+   "texto": "Absalon"
+  },
+  {
+   "tipo": "persName",
+   "ini": 125,
+   "fin": 137,
+   "texto": "Nacho Criado"
+  },
+  {
+   "tipo": "person",
+   "ini": 138,
+   "fin": 150,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eva Fàbregas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 138,
+   "fin": 150,
+   "texto": "Eva Fàbregas"
+  },
+  {
+   "tipo": "person",
+   "ini": 151,
+   "fin": 167,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Cyprien Gaillard"
+  },
+  {
+   "tipo": "persName",
+   "ini": 151,
+   "fin": 167,
+   "texto": "Cyprien Gaillard"
+  },
+  {
+   "tipo": "person",
+   "ini": 168,
+   "fin": 179,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Dora García"
+  },
+  {
+   "tipo": "persName",
+   "ini": 168,
+   "fin": 179,
+   "texto": "Dora García"
+  },
+  {
+   "tipo": "person",
+   "ini": 180,
+   "fin": 200,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eulàlia Garcia Valls"
+  },
+  {
+   "tipo": "persName",
+   "ini": 180,
+   "fin": 200,
+   "texto": "Eulàlia Garcia Valls"
+  },
+  {
+   "tipo": "person",
+   "ini": 201,
+   "fin": 205,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gego"
+  },
+  {
+   "tipo": "persName",
+   "ini": 201,
+   "fin": 205,
+   "texto": "Gego"
+  },
+  {
+   "tipo": "person",
+   "ini": 206,
+   "fin": 217,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Isa Genzken"
+  },
+  {
+   "tipo": "persName",
+   "ini": 206,
+   "fin": 217,
+   "texto": "Isa Genzken"
+  },
+  {
+   "tipo": "person",
+   "ini": 218,
+   "fin": 239,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Felix Gonzalez-Torres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 218,
+   "fin": 239,
+   "texto": "Felix Gonzalez-Torres"
+  },
+  {
+   "tipo": "person",
+   "ini": 240,
+   "fin": 250,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joan Jonas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 240,
+   "fin": 250,
+   "texto": "Joan Jonas"
+  },
+  {
+   "tipo": "person",
+   "ini": 251,
+   "fin": 263,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antoni Llena"
+  },
+  {
+   "tipo": "persName",
+   "ini": 251,
+   "fin": 263,
+   "texto": "Antoni Llena"
+  },
+  {
+   "tipo": "person",
+   "ini": 264,
+   "fin": 275,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Àngels Ribé"
+  },
+  {
+   "tipo": "persName",
+   "ini": 264,
+   "fin": 275,
+   "texto": "Àngels Ribé"
+  },
+  {
+   "tipo": "person",
+   "ini": 276,
+   "fin": 309,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Victor Ruiz Colomer + Joe Highton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 276,
+   "fin": 295,
+   "texto": "Victor Ruiz Colomer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 298,
+   "fin": 309,
+   "texto": "Joe Highton"
+  },
+  {
+   "tipo": "person",
+   "ini": 310,
+   "fin": 327,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Wolfgang Tillmans"
+  },
+  {
+   "tipo": "persName",
+   "ini": 310,
+   "fin": 327,
+   "texto": "Wolfgang Tillmans"
+  },
+  {
+   "tipo": "person",
+   "ini": 328,
+   "fin": 343,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Francesc Torres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 328,
+   "fin": 343,
+   "texto": "Francesc Torres"
+  },
+  {
+   "tipo": "person",
+   "ini": 344,
+   "fin": 359,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Moisès Villèlia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 344,
+   "fin": 359,
+   "texto": "Moisès Villèlia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 384,
+   "fin": 404,
+   "rasgos": {
+    "type": "foundation",
+    "role": "producer"
+   },
+   "texto": "Fundación \"La Caixa\""
+  },
+  {
+   "tipo": "person",
+   "ini": 453,
+   "fin": 467,
+   "rasgos": {
+    "role": "jury"
+   },
+   "texto": "Diana Guijarro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 453,
+   "fin": 467,
+   "texto": "Diana Guijarro"
+  },
+  {
+   "tipo": "person",
+   "ini": 468,
+   "fin": 486,
+   "rasgos": {
+    "role": "jury"
+   },
+   "texto": "Antònia M. Perelló"
+  },
+  {
+   "tipo": "persName",
+   "ini": 468,
+   "fin": 486,
+   "texto": "Antònia M. Perelló"
+  },
+  {
+   "tipo": "person",
+   "ini": 487,
+   "fin": 499,
+   "rasgos": {
+    "role": "jury"
+   },
+   "texto": "Filipa Ramos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 487,
+   "fin": 499,
+   "texto": "Filipa Ramos"
+  },
+  {
+   "tipo": "person",
+   "ini": 500,
+   "fin": 513,
+   "rasgos": {
+    "role": "jury"
+   },
+   "texto": "Manuel Segade"
+  },
+  {
+   "tipo": "persName",
+   "ini": 500,
+   "fin": 513,
+   "texto": "Manuel Segade"
+  },
+  {
+   "tipo": "person",
+   "ini": 525,
+   "fin": 546,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Xavier Acarín Wieland"
+  },
+  {
+   "tipo": "persName",
+   "ini": 525,
+   "fin": 546,
+   "texto": "Xavier Acarín Wieland"
+  },
+  {
+   "tipo": "person",
+   "ini": 568,
+   "fin": 580,
+   "rasgos": {
+    "role": "assembler"
+   },
+   "texto": "Pep Canaleta"
+  },
+  {
+   "tipo": "persName",
+   "ini": 568,
+   "fin": 580,
+   "texto": "Pep Canaleta"
+  },
+  {
+   "tipo": "person",
+   "ini": 618,
+   "fin": 629,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "Alex Gifreu"
+  },
+  {
+   "tipo": "persName",
+   "ini": 618,
+   "fin": 629,
+   "texto": "Alex Gifreu"
+  },
+  {
+   "tipo": "institution",
+   "ini": 649,
+   "fin": 669,
+   "rasgos": {
+    "type": "foundation",
+    "role": "editor"
+   },
+   "texto": "Fundación \"la Caixa\""
+  },
+  {
+   "tipo": "person",
+   "ini": 677,
+   "fin": 698,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Xavier Acarín Wieland"
+  },
+  {
+   "tipo": "persName",
+   "ini": 677,
+   "fin": 698,
+   "texto": "Xavier Acarín Wieland"
+  },
+  {
+   "tipo": "person",
+   "ini": 716,
+   "fin": 727,
+   "rasgos": {
+    "role": "catalogueDesigner"
+   },
+   "texto": "Alex Gifreu"
+  },
+  {
+   "tipo": "persName",
+   "ini": 716,
+   "fin": 727,
+   "texto": "Alex Gifreu"
+  },
+  {
+   "tipo": "person",
+   "ini": 753,
+   "fin": 764,
+   "rasgos": {
+    "role": "translator"
+   },
+   "texto": "Mercè Bolló"
+  },
+  {
+   "tipo": "persName",
+   "ini": 753,
+   "fin": 764,
+   "texto": "Mercè Bolló"
+  },
+  {
+   "tipo": "persName",
+   "ini": 765,
+   "fin": 782,
+   "texto": "Tim James Morris "
+  },
+  {
+   "tipo": "person",
+   "ini": 765,
+   "fin": 781,
+   "rasgos": {
+    "role": "translator"
+   },
+   "texto": "Tim James Morris"
+  },
+  {
+   "tipo": "person",
+   "ini": 1768,
+   "fin": 1780,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eva Fàbregas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1768,
+   "fin": 1780,
+   "texto": "Eva Fàbregas"
+  },
+  {
+   "tipo": "person",
+   "ini": 1782,
+   "fin": 1793,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Dora García"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1782,
+   "fin": 1793,
+   "texto": "Dora García"
+  },
+  {
+   "tipo": "person",
+   "ini": 1795,
+   "fin": 1807,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antoni Llena"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1795,
+   "fin": 1807,
+   "texto": "Antoni Llena"
+  },
+  {
+   "tipo": "person",
+   "ini": 1809,
+   "fin": 1820,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Àngels Ribé"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1809,
+   "fin": 1820,
+   "texto": "Àngels Ribé"
+  },
+  {
+   "tipo": "person",
+   "ini": 1823,
+   "fin": 1838,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Francesc Torres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1823,
+   "fin": 1838,
+   "texto": "Francesc Torres"
+  },
+  {
+   "tipo": "person",
+   "ini": 1946,
+   "fin": 1966,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eulàlia García Valls"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1946,
+   "fin": 1966,
+   "texto": "Eulàlia García Valls"
+  },
+  {
+   "tipo": "person",
+   "ini": 1968,
+   "fin": 1987,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Victor Ruiz Colomer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1968,
+   "fin": 1987,
+   "texto": "Victor Ruiz Colomer"
+  },
+  {
+   "tipo": "person",
+   "ini": 1990,
+   "fin": 2001,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joe Highton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1990,
+   "fin": 2001,
+   "texto": "Joe Highton"
+  },
+  {
+   "tipo": "person",
+   "ini": 2211,
+   "fin": 2228,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Wolfgang Tillmans"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2211,
+   "fin": 2228,
+   "texto": "Wolfgang Tillmans"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2312,
+   "fin": 2320,
+   "texto": "Tillmans"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2378,
+   "fin": 2398,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "Fundación ”la Caixa”"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2404,
+   "fin": 2409,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser"
+   },
+   "texto": "MACBA"
+  },
+  {
+   "tipo": "person",
+   "ini": 3180,
+   "fin": 3201,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "XAVIER ACARÍN WIELAND"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3180,
+   "fin": 3201,
+   "texto": "XAVIER ACARÍN WIELAND"
+  },
+  {
+   "tipo": "person",
+   "ini": 3205,
+   "fin": 3215,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JOAN JONAS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3205,
+   "fin": 3215,
+   "texto": "JOAN JONAS"
+  },
+  {
+   "tipo": "person",
+   "ini": 3219,
+   "fin": 3230,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ÀNGELS RIBÉ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3219,
+   "fin": 3230,
+   "texto": "ÀNGELS RIBÉ"
+  },
+  {
+   "tipo": "person",
+   "ini": 3234,
+   "fin": 3241,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ABSALON"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3234,
+   "fin": 3241,
+   "texto": "ABSALON"
+  },
+  {
+   "tipo": "person",
+   "ini": 3245,
+   "fin": 3261,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "FRANCESC TORRES "
+  },
+  {
+   "tipo": "persName",
+   "ini": 3245,
+   "fin": 3261,
+   "texto": "FRANCESC TORRES "
+  },
+  {
+   "tipo": "person",
+   "ini": 3265,
+   "fin": 3277,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ANTONI LLENA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3265,
+   "fin": 3277,
+   "texto": "ANTONI LLENA"
+  },
+  {
+   "tipo": "person",
+   "ini": 3281,
+   "fin": 3293,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "NACHO CRIADO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3281,
+   "fin": 3293,
+   "texto": "NACHO CRIADO"
+  },
+  {
+   "tipo": "person",
+   "ini": 3297,
+   "fin": 3308,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "DORA GARCÍA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3297,
+   "fin": 3308,
+   "texto": "DORA GARCÍA"
+  },
+  {
+   "tipo": "person",
+   "ini": 3312,
+   "fin": 3333,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "FELIX GONZALEZ-TORRES"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3312,
+   "fin": 3333,
+   "texto": "FELIX GONZALEZ-TORRES"
+  },
+  {
+   "tipo": "person",
+   "ini": 3337,
+   "fin": 3353,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "CYPRIEN GAILLARD"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3337,
+   "fin": 3353,
+   "texto": "CYPRIEN GAILLARD"
+  },
+  {
+   "tipo": "person",
+   "ini": 3357,
+   "fin": 3368,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ISA GENZKEN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3357,
+   "fin": 3368,
+   "texto": "ISA GENZKEN"
+  },
+  {
+   "tipo": "person",
+   "ini": 3372,
+   "fin": 3389,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "WOLFGANG TILLMANS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3372,
+   "fin": 3389,
+   "texto": "WOLFGANG TILLMANS"
+  },
+  {
+   "tipo": "person",
+   "ini": 3393,
+   "fin": 3405,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "EVA FÀBREGAS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3393,
+   "fin": 3405,
+   "texto": "EVA FÀBREGAS"
+  },
+  {
+   "tipo": "person",
+   "ini": 3409,
+   "fin": 3413,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "GEGO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3409,
+   "fin": 3413,
+   "texto": "GEGO"
+  },
+  {
+   "tipo": "person",
+   "ini": 3417,
+   "fin": 3432,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MOISÈS VILLÈLIA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3417,
+   "fin": 3432,
+   "texto": "MOISÈS VILLÈLIA"
+  },
+  {
+   "tipo": "person",
+   "ini": 3436,
+   "fin": 3456,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "EULÀLIA GARCIA VALLS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3436,
+   "fin": 3456,
+   "texto": "EULÀLIA GARCIA VALLS"
+  },
+  {
+   "tipo": "person",
+   "ini": 3460,
+   "fin": 3493,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "VICTOR RUIZ COLOMER + JOE HIGHTON"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3460,
+   "fin": 3479,
+   "texto": "VICTOR RUIZ COLOMER"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3482,
+   "fin": 3493,
+   "texto": "JOE HIGHTON"
+  },
+  {
+   "tipo": "person",
+   "ini": 3527,
+   "fin": 3548,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "XAVIER ACARÍN WIELAND"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3527,
+   "fin": 3548,
+   "texto": "XAVIER ACARÍN WIELAND"
+  },
+  {
+   "tipo": "person",
+   "ini": 10025,
+   "fin": 10035,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joan Jonas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10025,
+   "fin": 10035,
+   "texto": "Joan Jonas"
+  },
+  {
+   "tipo": "person",
+   "ini": 11626,
+   "fin": 11636,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joan Jonas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11626,
+   "fin": 11636,
+   "texto": "Joan Jonas"
+  },
+  {
+   "tipo": "person",
+   "ini": 13275,
+   "fin": 13280,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jonas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13275,
+   "fin": 13280,
+   "texto": "Jonas"
+  },
+  {
+   "tipo": "person",
+   "ini": 14112,
+   "fin": 14123,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Àngels Ribé"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14112,
+   "fin": 14123,
+   "texto": "Àngels Ribé"
+  },
+  {
+   "tipo": "person",
+   "ini": 15421,
+   "fin": 15432,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Àngels Ribé"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15421,
+   "fin": 15432,
+   "texto": "Àngels Ribé"
+  },
+  {
+   "tipo": "person",
+   "ini": 17199,
+   "fin": 17206,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Absalon"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17199,
+   "fin": 17206,
+   "texto": "Absalon"
+  },
+  {
+   "tipo": "person",
+   "ini": 18539,
+   "fin": 18546,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Absalon"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18539,
+   "fin": 18546,
+   "texto": "Absalon"
+  },
+  {
+   "tipo": "person",
+   "ini": 18794,
+   "fin": 18801,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Absalon"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18794,
+   "fin": 18801,
+   "texto": "Absalon"
+  },
+  {
+   "tipo": "person",
+   "ini": 19344,
+   "fin": 19351,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Absalon"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19344,
+   "fin": 19351,
+   "texto": "Absalon"
+  },
+  {
+   "tipo": "person",
+   "ini": 19608,
+   "fin": 19615,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Absalon"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19608,
+   "fin": 19615,
+   "texto": "Absalon"
+  },
+  {
+   "tipo": "person",
+   "ini": 21285,
+   "fin": 21292,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Absalon"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21285,
+   "fin": 21292,
+   "texto": "Absalon"
+  },
+  {
+   "tipo": "person",
+   "ini": 21363,
+   "fin": 21370,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Absalon"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21363,
+   "fin": 21370,
+   "texto": "Absalon"
+  },
+  {
+   "tipo": "person",
+   "ini": 21477,
+   "fin": 21492,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Francesc Torres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21477,
+   "fin": 21492,
+   "texto": "Francesc Torres"
+  },
+  {
+   "tipo": "person",
+   "ini": 21591,
+   "fin": 21597,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Torres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21591,
+   "fin": 21597,
+   "texto": "Torres"
+  },
+  {
+   "tipo": "person",
+   "ini": 21795,
+   "fin": 21801,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Torres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21795,
+   "fin": 21801,
+   "texto": "Torres"
+  },
+  {
+   "tipo": "person",
+   "ini": 22015,
+   "fin": 22021,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Torres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22015,
+   "fin": 22021,
+   "texto": "Torres"
+  },
+  {
+   "tipo": "person",
+   "ini": 22667,
+   "fin": 22673,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Torres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22667,
+   "fin": 22673,
+   "texto": "Torres"
+  },
+  {
+   "tipo": "person",
+   "ini": 23256,
+   "fin": 23262,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Torres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23256,
+   "fin": 23262,
+   "texto": "Torres"
+  },
+  {
+   "tipo": "person",
+   "ini": 23768,
+   "fin": 23774,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Torres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23768,
+   "fin": 23774,
+   "texto": "Torres"
+  },
+  {
+   "tipo": "person",
+   "ini": 24464,
+   "fin": 24471,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Absalon"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24464,
+   "fin": 24471,
+   "texto": "Absalon"
+  },
+  {
+   "tipo": "person",
+   "ini": 24578,
+   "fin": 24593,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Francesc Torres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24578,
+   "fin": 24593,
+   "texto": "Francesc Torres"
+  },
+  {
+   "tipo": "person",
+   "ini": 24645,
+   "fin": 24657,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antoni Llena"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24645,
+   "fin": 24657,
+   "texto": "Antoni Llena"
+  },
+  {
+   "tipo": "person",
+   "ini": 24689,
+   "fin": 24704,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Francesc Torres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24689,
+   "fin": 24704,
+   "texto": "Francesc Torres"
+  },
+  {
+   "tipo": "person",
+   "ini": 24824,
+   "fin": 24830,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Torres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24824,
+   "fin": 24830,
+   "texto": "Torres"
+  },
+  {
+   "tipo": "person",
+   "ini": 24887,
+   "fin": 24899,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antoni Llena"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24887,
+   "fin": 24899,
+   "texto": "Antoni Llena"
+  },
+  {
+   "tipo": "person",
+   "ini": 27878,
+   "fin": 27890,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nacho Criado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27878,
+   "fin": 27890,
+   "texto": "Nacho Criado"
+  },
+  {
+   "tipo": "person",
+   "ini": 28051,
+   "fin": 28057,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Criado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28051,
+   "fin": 28057,
+   "texto": "Criado"
+  },
+  {
+   "tipo": "person",
+   "ini": 28601,
+   "fin": 28607,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Criado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28601,
+   "fin": 28607,
+   "texto": "Criado"
+  },
+  {
+   "tipo": "person",
+   "ini": 28999,
+   "fin": 29011,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nacho Criado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28999,
+   "fin": 29011,
+   "texto": "Nacho Criado"
+  },
+  {
+   "tipo": "person",
+   "ini": 29732,
+   "fin": 29744,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nacho Criado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29732,
+   "fin": 29744,
+   "texto": "Nacho Criado"
+  },
+  {
+   "tipo": "person",
+   "ini": 29906,
+   "fin": 29912,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Criado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29906,
+   "fin": 29912,
+   "texto": "Criado"
+  },
+  {
+   "tipo": "person",
+   "ini": 31696,
+   "fin": 31707,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Dora García"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31696,
+   "fin": 31707,
+   "texto": "Dora García"
+  },
+  {
+   "tipo": "person",
+   "ini": 32535,
+   "fin": 32541,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "García"
+  },
+  {
+   "tipo": "persName",
+   "ini": 32535,
+   "fin": 32541,
+   "texto": "García"
+  },
+  {
+   "tipo": "person",
+   "ini": 33702,
+   "fin": 33713,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Dora García"
+  },
+  {
+   "tipo": "persName",
+   "ini": 33702,
+   "fin": 33713,
+   "texto": "Dora García"
+  },
+  {
+   "tipo": "person",
+   "ini": 34259,
+   "fin": 34265,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "García"
+  },
+  {
+   "tipo": "persName",
+   "ini": 34259,
+   "fin": 34265,
+   "texto": "García"
+  },
+  {
+   "tipo": "person",
+   "ini": 35047,
+   "fin": 35068,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Felix Gonzalez-Torres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35047,
+   "fin": 35068,
+   "texto": "Felix Gonzalez-Torres"
+  },
+  {
+   "tipo": "person",
+   "ini": 38013,
+   "fin": 38028,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalez-Torres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38013,
+   "fin": 38028,
+   "texto": "Gonzalez-Torres"
+  },
+  {
+   "tipo": "person",
+   "ini": 39358,
+   "fin": 39379,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Felix Gonzalez-Torres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39358,
+   "fin": 39379,
+   "texto": "Felix Gonzalez-Torres"
+  },
+  {
+   "tipo": "person",
+   "ini": 39606,
+   "fin": 39623,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "\nCyprien Gaillard"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39607,
+   "fin": 39623,
+   "texto": "Cyprien Gaillard"
+  },
+  {
+   "tipo": "person",
+   "ini": 39738,
+   "fin": 39754,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Cyprien Gaillard"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39738,
+   "fin": 39754,
+   "texto": "Cyprien Gaillard"
+  },
+  {
+   "tipo": "person",
+   "ini": 40860,
+   "fin": 40868,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gaillard"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40860,
+   "fin": 40868,
+   "texto": "Gaillard"
+  },
+  {
+   "tipo": "person",
+   "ini": 41853,
+   "fin": 41861,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gaillard"
+  },
+  {
+   "tipo": "persName",
+   "ini": 41853,
+   "fin": 41861,
+   "texto": "Gaillard"
+  },
+  {
+   "tipo": "person",
+   "ini": 42303,
+   "fin": 42314,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Isa Genzken"
+  },
+  {
+   "tipo": "persName",
+   "ini": 42303,
+   "fin": 42314,
+   "texto": "Isa Genzken"
+  },
+  {
+   "tipo": "person",
+   "ini": 42580,
+   "fin": 42587,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Genzken"
+  },
+  {
+   "tipo": "persName",
+   "ini": 42580,
+   "fin": 42587,
+   "texto": "Genzken"
+  },
+  {
+   "tipo": "person",
+   "ini": 43256,
+   "fin": 43263,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Genzken"
+  },
+  {
+   "tipo": "persName",
+   "ini": 43256,
+   "fin": 43263,
+   "texto": "Genzken"
+  },
+  {
+   "tipo": "person",
+   "ini": 43687,
+   "fin": 43694,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Genzken"
+  },
+  {
+   "tipo": "persName",
+   "ini": 43687,
+   "fin": 43694,
+   "texto": "Genzken"
+  },
+  {
+   "tipo": "person",
+   "ini": 43997,
+   "fin": 44009,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pep Canaleta"
+  },
+  {
+   "tipo": "persName",
+   "ini": 43997,
+   "fin": 44009,
+   "texto": "Pep Canaleta"
+  },
+  {
+   "tipo": "person",
+   "ini": 44350,
+   "fin": 44357,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Genzken"
+  },
+  {
+   "tipo": "persName",
+   "ini": 44350,
+   "fin": 44357,
+   "texto": "Genzken"
+  },
+  {
+   "tipo": "person",
+   "ini": 44604,
+   "fin": 44615,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Isa Genzken"
+  },
+  {
+   "tipo": "persName",
+   "ini": 44604,
+   "fin": 44615,
+   "texto": "Isa Genzken"
+  },
+  {
+   "tipo": "person",
+   "ini": 44826,
+   "fin": 44843,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Wolfgang Tillmans"
+  },
+  {
+   "tipo": "persName",
+   "ini": 44826,
+   "fin": 44843,
+   "texto": "Wolfgang Tillmans"
+  },
+  {
+   "tipo": "person",
+   "ini": 44877,
+   "fin": 44884,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Genzken"
+  },
+  {
+   "tipo": "persName",
+   "ini": 44877,
+   "fin": 44884,
+   "texto": "Genzken"
+  },
+  {
+   "tipo": "person",
+   "ini": 45935,
+   "fin": 45943,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Tillmans"
+  },
+  {
+   "tipo": "persName",
+   "ini": 45935,
+   "fin": 45943,
+   "texto": "Tillmans"
+  },
+  {
+   "tipo": "person",
+   "ini": 46609,
+   "fin": 46615,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Criado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 46609,
+   "fin": 46615,
+   "texto": "Criado"
+  },
+  {
+   "tipo": "person",
+   "ini": 47116,
+   "fin": 47133,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Wolfgang\nTillmans"
+  },
+  {
+   "tipo": "persName",
+   "ini": 47116,
+   "fin": 47133,
+   "texto": "Wolfgang\nTillmans"
+  },
+  {
+   "tipo": "person",
+   "ini": 47245,
+   "fin": 47261,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Wolfang\nTillmans"
+  },
+  {
+   "tipo": "persName",
+   "ini": 47245,
+   "fin": 47261,
+   "texto": "Wolfang\nTillmans"
+  },
+  {
+   "tipo": "person",
+   "ini": 47587,
+   "fin": 47604,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Wolfgang Tillmans"
+  },
+  {
+   "tipo": "persName",
+   "ini": 47587,
+   "fin": 47604,
+   "texto": "Wolfgang Tillmans"
+  },
+  {
+   "tipo": "person",
+   "ini": 47653,
+   "fin": 47665,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eva Fàbregas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 47653,
+   "fin": 47665,
+   "texto": "Eva Fàbregas"
+  },
+  {
+   "tipo": "person",
+   "ini": 48622,
+   "fin": 48630,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fàbregas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48622,
+   "fin": 48630,
+   "texto": "Fàbregas"
+  },
+  {
+   "tipo": "person",
+   "ini": 48947,
+   "fin": 48954,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Genzken"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48947,
+   "fin": 48954,
+   "texto": "Genzken"
+  },
+  {
+   "tipo": "person",
+   "ini": 49444,
+   "fin": 49456,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eva Fàbregas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49444,
+   "fin": 49456,
+   "texto": "Eva Fàbregas"
+  },
+  {
+   "tipo": "person",
+   "ini": 49538,
+   "fin": 49542,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gego"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49538,
+   "fin": 49542,
+   "texto": "Gego"
+  },
+  {
+   "tipo": "person",
+   "ini": 49968,
+   "fin": 49972,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gego"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49968,
+   "fin": 49972,
+   "texto": "Gego"
+  },
+  {
+   "tipo": "person",
+   "ini": 50315,
+   "fin": 50319,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gego"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50315,
+   "fin": 50319,
+   "texto": "Gego"
+  },
+  {
+   "tipo": "person",
+   "ini": 51682,
+   "fin": 51686,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gego"
+  },
+  {
+   "tipo": "persName",
+   "ini": 51682,
+   "fin": 51686,
+   "texto": "Gego"
+  },
+  {
+   "tipo": "person",
+   "ini": 51824,
+   "fin": 51839,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Moisès Villèlia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 51824,
+   "fin": 51839,
+   "texto": "Moisès Villèlia"
+  },
+  {
+   "tipo": "person",
+   "ini": 52617,
+   "fin": 52625,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Villèlia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 52617,
+   "fin": 52625,
+   "texto": "Villèlia"
+  },
+  {
+   "tipo": "person",
+   "ini": 53139,
+   "fin": 53147,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Villèlia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 53139,
+   "fin": 53147,
+   "texto": "Villèlia"
+  },
+  {
+   "tipo": "person",
+   "ini": 53476,
+   "fin": 53491,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Moisès Villèlia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 53476,
+   "fin": 53491,
+   "texto": "Moisès Villèlia"
+  },
+  {
+   "tipo": "person",
+   "ini": 54075,
+   "fin": 54090,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Moisès Villèlia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 54075,
+   "fin": 54090,
+   "texto": "Moisès Villèlia"
+  },
+  {
+   "tipo": "person",
+   "ini": 54563,
+   "fin": 54571,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Villèlia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 54563,
+   "fin": 54571,
+   "texto": "Villèlia"
+  },
+  {
+   "tipo": "person",
+   "ini": 55030,
+   "fin": 55050,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eulàlia García Valls"
+  },
+  {
+   "tipo": "persName",
+   "ini": 55030,
+   "fin": 55050,
+   "texto": "Eulàlia García Valls"
+  },
+  {
+   "tipo": "person",
+   "ini": 55053,
+   "fin": 55086,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Victor Ruiz Colomer + Joe Highton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 55053,
+   "fin": 55072,
+   "texto": "Victor Ruiz Colomer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 55075,
+   "fin": 55086,
+   "texto": "Joe Highton"
+  },
+  {
+   "tipo": "person",
+   "ini": 55231,
+   "fin": 55243,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "García Valls"
+  },
+  {
+   "tipo": "persName",
+   "ini": 55231,
+   "fin": 55243,
+   "texto": "García Valls"
+  },
+  {
+   "tipo": "person",
+   "ini": 55553,
+   "fin": 55575,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ruiz Colomer y Highton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 55553,
+   "fin": 55565,
+   "texto": "Ruiz Colomer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 55568,
+   "fin": 55575,
+   "texto": "Highton"
+  },
+  {
+   "tipo": "person",
+   "ini": 55993,
+   "fin": 56026,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Victor Ruiz Colomer + Joe Highton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 55993,
+   "fin": 56012,
+   "texto": "Victor Ruiz Colomer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56015,
+   "fin": 56026,
+   "texto": "Joe Highton"
+  },
+  {
+   "tipo": "person",
+   "ini": 56052,
+   "fin": 56072,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eulàlia Garcia Valls"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56052,
+   "fin": 56072,
+   "texto": "Eulàlia Garcia Valls"
+  },
+  {
+   "tipo": "person",
+   "ini": 56452,
+   "fin": 56462,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JOAN JONAS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56452,
+   "fin": 56462,
+   "texto": "JOAN JONAS"
+  },
+  {
+   "tipo": "person",
+   "ini": 56465,
+   "fin": 56476,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ÀNGELS RIBÉ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56465,
+   "fin": 56476,
+   "texto": "ÀNGELS RIBÉ"
+  },
+  {
+   "tipo": "person",
+   "ini": 56479,
+   "fin": 56486,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ABSALON"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56479,
+   "fin": 56486,
+   "texto": "ABSALON"
+  },
+  {
+   "tipo": "person",
+   "ini": 56489,
+   "fin": 56504,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "FRANCESC TORRES"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56489,
+   "fin": 56504,
+   "texto": "FRANCESC TORRES"
+  },
+  {
+   "tipo": "person",
+   "ini": 56507,
+   "fin": 56519,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ANTONI LLENA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56507,
+   "fin": 56519,
+   "texto": "ANTONI LLENA"
+  },
+  {
+   "tipo": "person",
+   "ini": 56522,
+   "fin": 56534,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "NACHO CRIADO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56522,
+   "fin": 56534,
+   "texto": "NACHO CRIADO"
+  },
+  {
+   "tipo": "person",
+   "ini": 56537,
+   "fin": 56548,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "DORA GARCÍA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56537,
+   "fin": 56548,
+   "texto": "DORA GARCÍA"
+  },
+  {
+   "tipo": "person",
+   "ini": 56551,
+   "fin": 56572,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "FELIX GONZALEZ-TORRES"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56551,
+   "fin": 56572,
+   "texto": "FELIX GONZALEZ-TORRES"
+  },
+  {
+   "tipo": "person",
+   "ini": 56575,
+   "fin": 56591,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "CYPRIEN GAILLARD"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56575,
+   "fin": 56591,
+   "texto": "CYPRIEN GAILLARD"
+  },
+  {
+   "tipo": "person",
+   "ini": 56594,
+   "fin": 56605,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ISA GENZKEN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56594,
+   "fin": 56605,
+   "texto": "ISA GENZKEN"
+  },
+  {
+   "tipo": "person",
+   "ini": 56608,
+   "fin": 56625,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "WOLFGANG TILLMANS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56608,
+   "fin": 56625,
+   "texto": "WOLFGANG TILLMANS"
+  },
+  {
+   "tipo": "person",
+   "ini": 56628,
+   "fin": 56640,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "EVA FÀBREGAS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56628,
+   "fin": 56640,
+   "texto": "EVA FÀBREGAS"
+  },
+  {
+   "tipo": "person",
+   "ini": 56643,
+   "fin": 56647,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "GEGO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56643,
+   "fin": 56647,
+   "texto": "GEGO"
+  },
+  {
+   "tipo": "person",
+   "ini": 56650,
+   "fin": 56665,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MOISÈS VILLÈLIA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56650,
+   "fin": 56665,
+   "texto": "MOISÈS VILLÈLIA"
+  },
+  {
+   "tipo": "person",
+   "ini": 56668,
+   "fin": 56688,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "EULÀLIA GARCIA VALLS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56668,
+   "fin": 56688,
+   "texto": "EULÀLIA GARCIA VALLS"
+  },
+  {
+   "tipo": "person",
+   "ini": 56691,
+   "fin": 56724,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "VICTOR RUIZ COLOMER + JOE HIGHTON"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56691,
+   "fin": 56710,
+   "texto": "VICTOR RUIZ COLOMER"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56713,
+   "fin": 56724,
+   "texto": "JOE HIGHTON"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 56726,
+   "fin": 60727
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 56726,
+   "fin": 56754
+  },
+  {
+   "tipo": "work",
+   "ini": 56726,
+   "fin": 56747,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "WIND, 1968\nJOAN JONAS"
+  },
+  {
+   "tipo": "title",
+   "ini": 56726,
+   "fin": 56730,
+   "texto": "WIND"
+  },
+  {
+   "tipo": "date",
+   "ini": 56732,
+   "fin": 56736,
+   "rasgos": {
+    "when": "1968"
+   },
+   "texto": "1968"
+  },
+  {
+   "tipo": "person",
+   "ini": 56737,
+   "fin": 56747,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JOAN JONAS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56737,
+   "fin": 56747,
+   "texto": "JOAN JONAS"
+  },
+  {
+   "tipo": "img",
+   "ini": 56749,
+   "fin": 56754,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 56756,
+   "fin": 56793
+  },
+  {
+   "tipo": "work",
+   "ini": 56756,
+   "fin": 56786,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "3 PUNTS 1970-1971 \nÀNGELS RIBÉ"
+  },
+  {
+   "tipo": "title",
+   "ini": 56756,
+   "fin": 56763,
+   "texto": "3 PUNTS"
+  },
+  {
+   "tipo": "date",
+   "ini": 56764,
+   "fin": 56773,
+   "rasgos": {
+    "from": "1970",
+    "to": "1971"
+   },
+   "texto": "1970-1971"
+  },
+  {
+   "tipo": "person",
+   "ini": 56775,
+   "fin": 56786,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ÀNGELS RIBÉ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56775,
+   "fin": 56786,
+   "texto": "ÀNGELS RIBÉ"
+  },
+  {
+   "tipo": "img",
+   "ini": 56788,
+   "fin": 56793,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 56795,
+   "fin": 56840
+  },
+  {
+   "tipo": "work",
+   "ini": 56795,
+   "fin": 56833,
+   "texto": "PROPOSITION D’HABITATION, 1991\nABSALON"
+  },
+  {
+   "tipo": "title",
+   "ini": 56795,
+   "fin": 56819,
+   "texto": "PROPOSITION D’HABITATION"
+  },
+  {
+   "tipo": "date",
+   "ini": 56821,
+   "fin": 56825,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "person",
+   "ini": 56826,
+   "fin": 56833,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ABSALON"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56826,
+   "fin": 56833,
+   "texto": "ABSALON"
+  },
+  {
+   "tipo": "img",
+   "ini": 56835,
+   "fin": 56840,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 56842,
+   "fin": 56913
+  },
+  {
+   "tipo": "work",
+   "ini": 56842,
+   "fin": 56906,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "PROTOTIP PER A UNA EDICIÓ IL·LIMITADA, 1970-1971\nFRANCESC TORRES"
+  },
+  {
+   "tipo": "title",
+   "ini": 56842,
+   "fin": 56879,
+   "texto": "PROTOTIP PER A UNA EDICIÓ IL·LIMITADA"
+  },
+  {
+   "tipo": "date",
+   "ini": 56881,
+   "fin": 56890,
+   "rasgos": {
+    "from": "1970",
+    "to": "1971"
+   },
+   "texto": "1970-1971"
+  },
+  {
+   "tipo": "person",
+   "ini": 56891,
+   "fin": 56906,
+   "rasgos": {
+    "role": ""
+   },
+   "texto": "FRANCESC TORRES"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56891,
+   "fin": 56906,
+   "texto": "FRANCESC TORRES"
+  },
+  {
+   "tipo": "img",
+   "ini": 56908,
+   "fin": 56913,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 56915,
+   "fin": 56960
+  },
+  {
+   "tipo": "work",
+   "ini": 56915,
+   "fin": 56954,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ESCULTURA DISSECADA, 1968\nANTONI LLENA\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 56915,
+   "fin": 56934,
+   "texto": "ESCULTURA DISSECADA"
+  },
+  {
+   "tipo": "date",
+   "ini": 56936,
+   "fin": 56940,
+   "rasgos": {
+    "when": "1968"
+   },
+   "texto": "1968"
+  },
+  {
+   "tipo": "person",
+   "ini": 56941,
+   "fin": 56953,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ANTONI LLENA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56941,
+   "fin": 56953,
+   "texto": "ANTONI LLENA"
+  },
+  {
+   "tipo": "img",
+   "ini": 56955,
+   "fin": 56960,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 56962,
+   "fin": 56999
+  },
+  {
+   "tipo": "work",
+   "ini": 56962,
+   "fin": 56992,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "DISCOIDALES, 1985\nNACHO CRIADO"
+  },
+  {
+   "tipo": "title",
+   "ini": 56962,
+   "fin": 56973,
+   "texto": "DISCOIDALES"
+  },
+  {
+   "tipo": "date",
+   "ini": 56975,
+   "fin": 56979,
+   "rasgos": {
+    "when": "1985"
+   },
+   "texto": "1985"
+  },
+  {
+   "tipo": "person",
+   "ini": 56980,
+   "fin": 56992,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "NACHO CRIADO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56980,
+   "fin": 56992,
+   "texto": "NACHO CRIADO"
+  },
+  {
+   "tipo": "img",
+   "ini": 56994,
+   "fin": 56999,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 57001,
+   "fin": 57038
+  },
+  {
+   "tipo": "work",
+   "ini": 57001,
+   "fin": 57031,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "BOLSA DORADA, 1995\nDORA GARCÍA"
+  },
+  {
+   "tipo": "title",
+   "ini": 57001,
+   "fin": 57013,
+   "texto": "BOLSA DORADA"
+  },
+  {
+   "tipo": "date",
+   "ini": 57015,
+   "fin": 57019,
+   "rasgos": {
+    "when": "1995"
+   },
+   "texto": "1995"
+  },
+  {
+   "tipo": "person",
+   "ini": 57020,
+   "fin": 57031,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "DORA GARCÍA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57020,
+   "fin": 57031,
+   "texto": "DORA GARCÍA"
+  },
+  {
+   "tipo": "img",
+   "ini": 57033,
+   "fin": 57038,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 57040,
+   "fin": 57083
+  },
+  {
+   "tipo": "work",
+   "ini": 57040,
+   "fin": 57076,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "UNTITLED, 1990\nFELIX GONZALEZ-TORRES"
+  },
+  {
+   "tipo": "title",
+   "ini": 57040,
+   "fin": 57048,
+   "texto": "UNTITLED"
+  },
+  {
+   "tipo": "date",
+   "ini": 57050,
+   "fin": 57054,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "person",
+   "ini": 57055,
+   "fin": 57076,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "FELIX GONZALEZ-TORRES"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57055,
+   "fin": 57076,
+   "texto": "FELIX GONZALEZ-TORRES"
+  },
+  {
+   "tipo": "img",
+   "ini": 57078,
+   "fin": 57083,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 57085,
+   "fin": 57179
+  },
+  {
+   "tipo": "work",
+   "ini": 57085,
+   "fin": 57172,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "CAIRNS (251/261 RÉSIDENCE PROVENCE, DAMMARIE-LÈS-LYS, 1973-2008), 2008\nCYPRIEN GAILLARD"
+  },
+  {
+   "tipo": "title",
+   "ini": 57085,
+   "fin": 57149,
+   "texto": "CAIRNS (251/261 RÉSIDENCE PROVENCE, DAMMARIE-LÈS-LYS, 1973-2008)"
+  },
+  {
+   "tipo": "date",
+   "ini": 57151,
+   "fin": 57155,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "person",
+   "ini": 57156,
+   "fin": 57172,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "CYPRIEN GAILLARD"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57156,
+   "fin": 57172,
+   "texto": "CYPRIEN GAILLARD"
+  },
+  {
+   "tipo": "img",
+   "ini": 57174,
+   "fin": 57179,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 57181,
+   "fin": 57217
+  },
+  {
+   "tipo": "work",
+   "ini": 57181,
+   "fin": 57210,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "BOOKSHELVES, 2008\nISA GENZKEN"
+  },
+  {
+   "tipo": "title",
+   "ini": 57181,
+   "fin": 57192,
+   "texto": "BOOKSHELVES"
+  },
+  {
+   "tipo": "date",
+   "ini": 57194,
+   "fin": 57198,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "person",
+   "ini": 57199,
+   "fin": 57210,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ISA GENZKEN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57199,
+   "fin": 57210,
+   "texto": "ISA GENZKEN"
+  },
+  {
+   "tipo": "img",
+   "ini": 57212,
+   "fin": 57217,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 57219,
+   "fin": 57264
+  },
+  {
+   "tipo": "work",
+   "ini": 57219,
+   "fin": 57257,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "FIRE ISLAND II, 2016\nWOLFGANG TILLMANS"
+  },
+  {
+   "tipo": "title",
+   "ini": 57219,
+   "fin": 57233,
+   "texto": "FIRE ISLAND II"
+  },
+  {
+   "tipo": "date",
+   "ini": 57235,
+   "fin": 57239,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "person",
+   "ini": 57240,
+   "fin": 57257,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "WOLFGANG TILLMANS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57240,
+   "fin": 57257,
+   "texto": "WOLFGANG TILLMANS"
+  },
+  {
+   "tipo": "img",
+   "ini": 57259,
+   "fin": 57264,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 57266,
+   "fin": 57305
+  },
+  {
+   "tipo": "work",
+   "ini": 57266,
+   "fin": 57298,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "TAPESTRY, 2006\nWOLFGANG TILLMANS"
+  },
+  {
+   "tipo": "title",
+   "ini": 57266,
+   "fin": 57274,
+   "texto": "TAPESTRY"
+  },
+  {
+   "tipo": "date",
+   "ini": 57276,
+   "fin": 57280,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "person",
+   "ini": 57281,
+   "fin": 57298,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "WOLFGANG TILLMANS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57281,
+   "fin": 57298,
+   "texto": "WOLFGANG TILLMANS"
+  },
+  {
+   "tipo": "img",
+   "ini": 57300,
+   "fin": 57305,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 57307,
+   "fin": 57348
+  },
+  {
+   "tipo": "work",
+   "ini": 57307,
+   "fin": 57341,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "SILVER 112, 2013\nWOLFGANG TILLMANS"
+  },
+  {
+   "tipo": "title",
+   "ini": 57307,
+   "fin": 57317,
+   "texto": "SILVER 112"
+  },
+  {
+   "tipo": "date",
+   "ini": 57319,
+   "fin": 57323,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "person",
+   "ini": 57324,
+   "fin": 57341,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "WOLFGANG TILLMANS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57324,
+   "fin": 57341,
+   "texto": "WOLFGANG TILLMANS"
+  },
+  {
+   "tipo": "img",
+   "ini": 57343,
+   "fin": 57348,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 57350,
+   "fin": 57398
+  },
+  {
+   "tipo": "work",
+   "ini": 57350,
+   "fin": 57390,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "GESCHLECHTSTEILE, 2010\nWOLFGANG TILLMANS"
+  },
+  {
+   "tipo": "title",
+   "ini": 57350,
+   "fin": 57366,
+   "texto": "GESCHLECHTSTEILE"
+  },
+  {
+   "tipo": "date",
+   "ini": 57368,
+   "fin": 57372,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "person",
+   "ini": 57373,
+   "fin": 57390,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "WOLFGANG TILLMANS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57373,
+   "fin": 57390,
+   "texto": "WOLFGANG TILLMANS"
+  },
+  {
+   "tipo": "img",
+   "ini": 57392,
+   "fin": 57397,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 57399,
+   "fin": 57441
+  },
+  {
+   "tipo": "work",
+   "ini": 57399,
+   "fin": 57434,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "KIMBERLY & CHLOE, 2019\nEVA FÀBREGAS"
+  },
+  {
+   "tipo": "title",
+   "ini": 57399,
+   "fin": 57415,
+   "texto": "KIMBERLY & CHLOE"
+  },
+  {
+   "tipo": "date",
+   "ini": 57417,
+   "fin": 57421,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "person",
+   "ini": 57422,
+   "fin": 57436,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "EVA FÀBREGAS\n\n"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57422,
+   "fin": 57436,
+   "texto": "EVA FÀBREGAS\n\n"
+  },
+  {
+   "tipo": "img",
+   "ini": 57436,
+   "fin": 57441,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 57443,
+   "fin": 57475
+  },
+  {
+   "tipo": "work",
+   "ini": 57443,
+   "fin": 57468,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "TEJEDURA 91/15, 1991\nGEGO"
+  },
+  {
+   "tipo": "title",
+   "ini": 57443,
+   "fin": 57457,
+   "texto": "TEJEDURA 91/15"
+  },
+  {
+   "tipo": "date",
+   "ini": 57459,
+   "fin": 57463,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "person",
+   "ini": 57464,
+   "fin": 57468,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "GEGO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57464,
+   "fin": 57468,
+   "texto": "GEGO"
+  },
+  {
+   "tipo": "img",
+   "ini": 57470,
+   "fin": 57475,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 57477,
+   "fin": 57516
+  },
+  {
+   "tipo": "work",
+   "ini": 57477,
+   "fin": 57509,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "MÒBIL, 1985-1986\nMOISÈS VILLÈLIA"
+  },
+  {
+   "tipo": "title",
+   "ini": 57477,
+   "fin": 57482,
+   "texto": "MÒBIL"
+  },
+  {
+   "tipo": "date",
+   "ini": 57484,
+   "fin": 57493,
+   "rasgos": {
+    "from": "1985",
+    "to": "1986"
+   },
+   "texto": "1985-1986"
+  },
+  {
+   "tipo": "person",
+   "ini": 57494,
+   "fin": 57509,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MOISÈS VILLÈLIA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57494,
+   "fin": 57509,
+   "texto": "MOISÈS VILLÈLIA"
+  },
+  {
+   "tipo": "img",
+   "ini": 57511,
+   "fin": 57516,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 57518,
+   "fin": 57559
+  },
+  {
+   "tipo": "work",
+   "ini": 57518,
+   "fin": 57552,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "SUBSOLS, 2021\nEULÀLIA GARCIA VALLS"
+  },
+  {
+   "tipo": "title",
+   "ini": 57518,
+   "fin": 57525,
+   "texto": "SUBSOLS"
+  },
+  {
+   "tipo": "date",
+   "ini": 57527,
+   "fin": 57531,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "person",
+   "ini": 57532,
+   "fin": 57552,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "EULÀLIA GARCIA VALLS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57532,
+   "fin": 57552,
+   "texto": "EULÀLIA GARCIA VALLS"
+  },
+  {
+   "tipo": "img",
+   "ini": 57554,
+   "fin": 57559,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 57561,
+   "fin": 57625
+  },
+  {
+   "tipo": "work",
+   "ini": 57561,
+   "fin": 57617,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "PONT PONTS JARDÍ, 2021\nVICTOR RUIZ COLOMER + JOE HIGHTON"
+  },
+  {
+   "tipo": "title",
+   "ini": 57561,
+   "fin": 57577,
+   "texto": "PONT PONTS JARDÍ"
+  },
+  {
+   "tipo": "date",
+   "ini": 57579,
+   "fin": 57583,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "person",
+   "ini": 57584,
+   "fin": 57617,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "VICTOR RUIZ COLOMER + JOE HIGHTON"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57584,
+   "fin": 57603,
+   "texto": "VICTOR RUIZ COLOMER"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57606,
+   "fin": 57617,
+   "texto": "JOE HIGHTON"
+  },
+  {
+   "tipo": "img",
+   "ini": 57619,
+   "fin": 57624,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "worklist",
+   "ini": 57626,
+   "fin": 60727
+  },
+  {
+   "tipo": "work",
+   "ini": 57643,
+   "fin": 57812,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Absalon\nProposition d’habitation\n[Propuesta para un habitáculo]\n1991\nVídeo, TV, color, sonido\n3’ 38”\nProporción: 4:3\nColección de Arte Contemporáneo\nFundación ”la Caixa”"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 57643,
+   "fin": 57812
+  },
+  {
+   "tipo": "person",
+   "ini": 57643,
+   "fin": 57650,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Absalon"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57643,
+   "fin": 57650,
+   "texto": "Absalon"
+  },
+  {
+   "tipo": "title",
+   "ini": 57651,
+   "fin": 57675,
+   "texto": "Proposition d’habitation"
+  },
+  {
+   "tipo": "translatedTitle",
+   "ini": 57676,
+   "fin": 57706
+  },
+  {
+   "tipo": "date",
+   "ini": 57707,
+   "fin": 57711,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "technique",
+   "ini": 57712,
+   "fin": 57736,
+   "rasgos": {
+    "type": "video, color"
+   },
+   "texto": "Vídeo, TV, color, sonido"
+  },
+  {
+   "tipo": "duration",
+   "ini": 57737,
+   "fin": 57743,
+   "rasgos": {
+    "unit": "min"
+   }
+  },
+  {
+   "tipo": "minute",
+   "ini": 57737,
+   "fin": 57738
+  },
+  {
+   "tipo": "second",
+   "ini": 57740,
+   "fin": 57742
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 57744,
+   "fin": 57759
+  },
+  {
+   "tipo": "institution",
+   "ini": 57760,
+   "fin": 57812,
+   "rasgos": {
+    "type": "foundation",
+    "role": "owner, lender"
+   },
+   "texto": "Colección de Arte Contemporáneo\nFundación ”la Caixa”"
+  },
+  {
+   "tipo": "work",
+   "ini": 57817,
+   "fin": 57926,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Nacho Criado\nDiscoidales\n1985\nTécnica mixta\n300 x 500 cm\nColección de Arte Contemporáneo\nFundación ”la Caixa”"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 57817,
+   "fin": 57926
+  },
+  {
+   "tipo": "person",
+   "ini": 57817,
+   "fin": 57829,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nacho Criado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57817,
+   "fin": 57829,
+   "texto": "Nacho Criado"
+  },
+  {
+   "tipo": "title",
+   "ini": 57830,
+   "fin": 57841,
+   "texto": "Discoidales"
+  },
+  {
+   "tipo": "date",
+   "ini": 57842,
+   "fin": 57846,
+   "rasgos": {
+    "when": "1985"
+   },
+   "texto": "1985"
+  },
+  {
+   "tipo": "technique",
+   "ini": 57847,
+   "fin": 57860,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 57861,
+   "fin": 57873,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "300 x 500 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 57861,
+   "fin": 57864,
+   "texto": "300"
+  },
+  {
+   "tipo": "width",
+   "ini": 57867,
+   "fin": 57870,
+   "texto": "500"
+  },
+  {
+   "tipo": "institution",
+   "ini": 57874,
+   "fin": 57926,
+   "rasgos": {
+    "type": "foundation",
+    "role": "owner, lender"
+   },
+   "texto": "Colección de Arte Contemporáneo\nFundación ”la Caixa”"
+  },
+  {
+   "tipo": "work",
+   "ini": 57931,
+   "fin": 58095,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Eva Fàbregas\nKimberly & Chloe\n2019\nResina epoxi, poliestireno extruido\ny flocking\n70 x 90 x 70 cm (2 elementos)\nColección de Arte Contemporáneo\nFundación ”la Caixa”"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 57931,
+   "fin": 58095
+  },
+  {
+   "tipo": "person",
+   "ini": 57931,
+   "fin": 57943,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eva Fàbregas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57931,
+   "fin": 57943,
+   "texto": "Eva Fàbregas"
+  },
+  {
+   "tipo": "title",
+   "ini": 57944,
+   "fin": 57960,
+   "texto": "Kimberly & Chloe"
+  },
+  {
+   "tipo": "date",
+   "ini": 57961,
+   "fin": 57965,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 57966,
+   "fin": 58012,
+   "rasgos": {
+    "type": "resin"
+   },
+   "texto": "Resina epoxi, poliestireno extruido\ny flocking"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 58013,
+   "fin": 58028,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 90 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 58013,
+   "fin": 58015,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 58018,
+   "fin": 58020,
+   "texto": "90"
+  },
+  {
+   "tipo": "depth",
+   "ini": 58023,
+   "fin": 58025,
+   "texto": "70"
+  },
+  {
+   "tipo": "institution",
+   "ini": 58043,
+   "fin": 58095,
+   "rasgos": {
+    "type": "foundation",
+    "role": "owner, lender"
+   },
+   "texto": "Colección de Arte Contemporáneo\nFundación ”la Caixa”"
+  },
+  {
+   "tipo": "work",
+   "ini": 58099,
+   "fin": 58360,
+   "rasgos": {
+    "type": "photograph"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 58099,
+   "fin": 58360
+  },
+  {
+   "tipo": "person",
+   "ini": 58099,
+   "fin": 58115,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Cyprien Gaillard"
+  },
+  {
+   "tipo": "persName",
+   "ini": 58099,
+   "fin": 58115,
+   "texto": "Cyprien Gaillard"
+  },
+  {
+   "tipo": "title",
+   "ini": 58116,
+   "fin": 58180,
+   "texto": "Cairns (251/261 Résidence\nProvence, Dammarie-lès-Lys,\n1973-2008)"
+  },
+  {
+   "tipo": "translatedTitle",
+   "ini": 58181,
+   "fin": 58259
+  },
+  {
+   "tipo": "date",
+   "ini": 58260,
+   "fin": 58264,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 58265,
+   "fin": 58287,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía cromogénica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 58288,
+   "fin": 58306,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "175 x 216,5 x 5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 58288,
+   "fin": 58291,
+   "texto": "175"
+  },
+  {
+   "tipo": "width",
+   "ini": 58294,
+   "fin": 58299,
+   "texto": "216,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 58302,
+   "fin": 58303,
+   "texto": "5"
+  },
+  {
+   "tipo": "institution",
+   "ini": 58307,
+   "fin": 58360,
+   "rasgos": {
+    "type": "foundation",
+    "role": "owner, lender"
+   },
+   "texto": "Colección MACBA. Fundación\nMACBA. Depósito particular"
+  },
+  {
+   "tipo": "work",
+   "ini": 58363,
+   "fin": 58493,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Dora García\nBolsa dorada\n1995\nPolietileno y pigmento dorado\n215 x 130 x 30 cm\nColección de Arte Contemporáneo\nFundación ”la Caixa”"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 58363,
+   "fin": 58493
+  },
+  {
+   "tipo": "person",
+   "ini": 58363,
+   "fin": 58374,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Dora García"
+  },
+  {
+   "tipo": "persName",
+   "ini": 58363,
+   "fin": 58374,
+   "texto": "Dora García"
+  },
+  {
+   "tipo": "title",
+   "ini": 58375,
+   "fin": 58387,
+   "texto": "Bolsa dorada"
+  },
+  {
+   "tipo": "date",
+   "ini": 58388,
+   "fin": 58392,
+   "rasgos": {
+    "when": "1995"
+   },
+   "texto": "1995"
+  },
+  {
+   "tipo": "technique",
+   "ini": 58393,
+   "fin": 58422,
+   "rasgos": {
+    "type": "goldPigment, polyethylene"
+   },
+   "texto": "Polietileno y pigmento dorado"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 58423,
+   "fin": 58440,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "215 x 130 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 58423,
+   "fin": 58426,
+   "texto": "215"
+  },
+  {
+   "tipo": "width",
+   "ini": 58429,
+   "fin": 58432,
+   "texto": "130"
+  },
+  {
+   "tipo": "depth",
+   "ini": 58435,
+   "fin": 58437,
+   "texto": "30"
+  },
+  {
+   "tipo": "institution",
+   "ini": 58441,
+   "fin": 58493,
+   "rasgos": {
+    "type": "foundation",
+    "role": "owner, lender"
+   },
+   "texto": "Colección de Arte Contemporáneo\nFundación ”la Caixa”"
+  },
+  {
+   "tipo": "work",
+   "ini": 58497,
+   "fin": 58606,
+   "texto": "Eulàlia Garcia Valls\nSubsols\n[Subsuelos]\n2021\nInstalación sonora\nDimensiones variables\nCortesía de la artista"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 58497,
+   "fin": 58606
+  },
+  {
+   "tipo": "person",
+   "ini": 58497,
+   "fin": 58517,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eulàlia Garcia Valls"
+  },
+  {
+   "tipo": "persName",
+   "ini": 58497,
+   "fin": 58517,
+   "texto": "Eulàlia Garcia Valls"
+  },
+  {
+   "tipo": "title",
+   "ini": 58518,
+   "fin": 58525,
+   "texto": "Subsols"
+  },
+  {
+   "tipo": "translatedTitle",
+   "ini": 58526,
+   "fin": 58537
+  },
+  {
+   "tipo": "date",
+   "ini": 58538,
+   "fin": 58542,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "technique",
+   "ini": 58543,
+   "fin": 58561,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Instalación sonora"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 58562,
+   "fin": 58583,
+   "texto": "Dimensiones variables"
+  },
+  {
+   "tipo": "person",
+   "ini": 58599,
+   "fin": 58606,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "artista"
+  },
+  {
+   "tipo": "work",
+   "ini": 58611,
+   "fin": 58721,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Gego\nTejedura 91/15\n1991\nPapel satinado\n20,5 x 20 cm\nColección MACBA. Fundación\nMACBA. Depósito Fundación Gego"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 58611,
+   "fin": 58721
+  },
+  {
+   "tipo": "person",
+   "ini": 58611,
+   "fin": 58615,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gego"
+  },
+  {
+   "tipo": "persName",
+   "ini": 58611,
+   "fin": 58615,
+   "texto": "Gego"
+  },
+  {
+   "tipo": "title",
+   "ini": 58616,
+   "fin": 58630,
+   "texto": "Tejedura 91/15"
+  },
+  {
+   "tipo": "date",
+   "ini": 58631,
+   "fin": 58635,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "technique",
+   "ini": 58636,
+   "fin": 58650,
+   "rasgos": {
+    "type": "paper"
+   },
+   "texto": "Papel satinado"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 58651,
+   "fin": 58663,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20,5 x 20 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 58651,
+   "fin": 58655,
+   "texto": "20,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 58658,
+   "fin": 58660,
+   "texto": "20"
+  },
+  {
+   "tipo": "institution",
+   "ini": 58664,
+   "fin": 58721,
+   "rasgos": {
+    "type": "foundation",
+    "role": "owner, lender"
+   },
+   "texto": "Colección MACBA. Fundación\nMACBA. Depósito Fundación Gego"
+  },
+  {
+   "tipo": "work",
+   "ini": 58725,
+   "fin": 58911,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Isa Genzken\nBookshelves\n[Estantería]\n2008\nMetal, plástico, pintura en\nespray, tejido, dentadura animal\n(fragmento)\n295 x 203 x 123 cm\nColección de Arte Contemporáneo\nFundación ”la Caixa”"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 58725,
+   "fin": 58911
+  },
+  {
+   "tipo": "person",
+   "ini": 58725,
+   "fin": 58736,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Isa Genzken"
+  },
+  {
+   "tipo": "persName",
+   "ini": 58725,
+   "fin": 58736,
+   "texto": "Isa Genzken"
+  },
+  {
+   "tipo": "title",
+   "ini": 58737,
+   "fin": 58748,
+   "texto": "Bookshelves"
+  },
+  {
+   "tipo": "translatedTitle",
+   "ini": 58749,
+   "fin": 58761
+  },
+  {
+   "tipo": "date",
+   "ini": 58762,
+   "fin": 58766,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 58767,
+   "fin": 58839,
+   "rasgos": {
+    "type": "metal, plastic, spray, fabric, animalJaww"
+   },
+   "texto": "Metal, plástico, pintura en\nespray, tejido, dentadura animal\n(fragmento)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 58840,
+   "fin": 58858,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "295 x 203 x 123 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 58840,
+   "fin": 58843,
+   "texto": "295"
+  },
+  {
+   "tipo": "width",
+   "ini": 58846,
+   "fin": 58849,
+   "texto": "203"
+  },
+  {
+   "tipo": "depth",
+   "ini": 58852,
+   "fin": 58855,
+   "texto": "123"
+  },
+  {
+   "tipo": "institution",
+   "ini": 58859,
+   "fin": 58911,
+   "rasgos": {
+    "type": "foundation",
+    "role": "owner, lender"
+   },
+   "texto": "Colección de Arte Contemporáneo\nFundación ”la Caixa”"
+  },
+  {
+   "tipo": "work",
+   "ini": 58915,
+   "fin": 59069,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Felix Gonzalez-Torres\nUntitled\n[Sin título]\n1990\nPapel y cartón\n20,5 x 37,5 x 37,5 cm\nColección MACBA. Fundación\nMACBA. Depósito Brondesbury\nHoldings Ltd."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 58915,
+   "fin": 59069
+  },
+  {
+   "tipo": "person",
+   "ini": 58915,
+   "fin": 58936,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Felix Gonzalez-Torres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 58915,
+   "fin": 58936,
+   "texto": "Felix Gonzalez-Torres"
+  },
+  {
+   "tipo": "title",
+   "ini": 58937,
+   "fin": 58945,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "translatedTitle",
+   "ini": 58946,
+   "fin": 58958
+  },
+  {
+   "tipo": "date",
+   "ini": 58959,
+   "fin": 58963,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "technique",
+   "ini": 58964,
+   "fin": 58978,
+   "rasgos": {
+    "type": "paper, cardboard"
+   },
+   "texto": "Papel y cartón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 58979,
+   "fin": 59000,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20,5 x 37,5 x 37,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 58979,
+   "fin": 58983,
+   "texto": "20,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 58986,
+   "fin": 58990,
+   "texto": "37,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 58993,
+   "fin": 58997,
+   "texto": "37,5"
+  },
+  {
+   "tipo": "institution",
+   "ini": 59001,
+   "fin": 59069,
+   "rasgos": {
+    "type": "foundation",
+    "role": "owner, lender"
+   },
+   "texto": "Colección MACBA. Fundación\nMACBA. Depósito Brondesbury\nHoldings Ltd."
+  },
+  {
+   "tipo": "work",
+   "ini": 59073,
+   "fin": 59241,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Joan Jonas\nWind\n[Viento]\n1968\nPelícula de 16 mm transferida\na vídeo, b/n, sin sonido\nProyección monocanal\nDimensiones variables\n5’ 40”\nColección MACBA.\nFundación MACBA."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 59073,
+   "fin": 59241
+  },
+  {
+   "tipo": "person",
+   "ini": 59073,
+   "fin": 59083,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joan Jonas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 59073,
+   "fin": 59083,
+   "texto": "Joan Jonas"
+  },
+  {
+   "tipo": "title",
+   "ini": 59084,
+   "fin": 59088,
+   "texto": "Wind"
+  },
+  {
+   "tipo": "translatedTitle",
+   "ini": 59089,
+   "fin": 59097
+  },
+  {
+   "tipo": "date",
+   "ini": 59098,
+   "fin": 59102,
+   "rasgos": {
+    "when": "1968"
+   },
+   "texto": "1968"
+  },
+  {
+   "tipo": "technique",
+   "ini": 59103,
+   "fin": 59178,
+   "rasgos": {
+    "type": "video"
+   },
+   "texto": "Película de 16 mm transferida\na vídeo, b/n, sin sonido\nProyección monocanal"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 59179,
+   "fin": 59200,
+   "texto": "Dimensiones variables"
+  },
+  {
+   "tipo": "duration",
+   "ini": 59201,
+   "fin": 59207,
+   "rasgos": {
+    "unit": "min"
+   }
+  },
+  {
+   "tipo": "minute",
+   "ini": 59201,
+   "fin": 59202
+  },
+  {
+   "tipo": "second",
+   "ini": 59204,
+   "fin": 59206
+  },
+  {
+   "tipo": "institution",
+   "ini": 59208,
+   "fin": 59241,
+   "rasgos": {
+    "type": "foundation",
+    "role": "owner, lender"
+   },
+   "texto": "Colección MACBA.\nFundación MACBA."
+  },
+  {
+   "tipo": "work",
+   "ini": 59245,
+   "fin": 59374,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Antoni Llena\nEscultura dissecada\n[Escultura disecada]\n1968\nPapel de celofán y papel\n15 x 11,5 cm\nColección MACBA.\nFundación MACBA"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 59245,
+   "fin": 59374
+  },
+  {
+   "tipo": "person",
+   "ini": 59245,
+   "fin": 59257,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antoni Llena"
+  },
+  {
+   "tipo": "persName",
+   "ini": 59245,
+   "fin": 59257,
+   "texto": "Antoni Llena"
+  },
+  {
+   "tipo": "title",
+   "ini": 59258,
+   "fin": 59277,
+   "texto": "Escultura dissecada"
+  },
+  {
+   "tipo": "translatedTitle",
+   "ini": 59278,
+   "fin": 59298
+  },
+  {
+   "tipo": "date",
+   "ini": 59299,
+   "fin": 59303,
+   "rasgos": {
+    "when": "1968"
+   },
+   "texto": "1968"
+  },
+  {
+   "tipo": "technique",
+   "ini": 59304,
+   "fin": 59341,
+   "rasgos": {
+    "type": "paper"
+   },
+   "texto": "Papel de celofán y papel\n15 x 11,5 cm"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 59329,
+   "fin": 59341,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "15 x 11,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 59329,
+   "fin": 59331,
+   "texto": "15"
+  },
+  {
+   "tipo": "width",
+   "ini": 59334,
+   "fin": 59338,
+   "texto": "11,5"
+  },
+  {
+   "tipo": "institution",
+   "ini": 59342,
+   "fin": 59374,
+   "rasgos": {
+    "type": "foundation",
+    "role": "owner, lender"
+   },
+   "texto": "Colección MACBA.\nFundación MACBA"
+  },
+  {
+   "tipo": "work",
+   "ini": 59378,
+   "fin": 59528,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Àngels Ribé\n3 punts\n1970-1971 (2011)\nInstalación. Cordel de algodón\ny foco\n450 x 656 x 480 cm\nColección MACBA. Fundación\nMACBA. Donación de la artista"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 59378,
+   "fin": 59528
+  },
+  {
+   "tipo": "person",
+   "ini": 59378,
+   "fin": 59389,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Àngels Ribé"
+  },
+  {
+   "tipo": "persName",
+   "ini": 59378,
+   "fin": 59389,
+   "texto": "Àngels Ribé"
+  },
+  {
+   "tipo": "title",
+   "ini": 59390,
+   "fin": 59397,
+   "texto": "3 punts"
+  },
+  {
+   "tipo": "date",
+   "ini": 59398,
+   "fin": 59414,
+   "rasgos": {
+    "notBefore": "1970",
+    "notAfter": "1971",
+    "to": "2011"
+   },
+   "texto": "1970-1971 (2011)"
+  },
+  {
+   "tipo": "technique",
+   "ini": 59415,
+   "fin": 59452,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Instalación. Cordel de algodón\ny foco"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 59453,
+   "fin": 59471,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "450 x 656 x 480 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 59453,
+   "fin": 59456,
+   "texto": "450"
+  },
+  {
+   "tipo": "width",
+   "ini": 59459,
+   "fin": 59462,
+   "texto": "656"
+  },
+  {
+   "tipo": "depth",
+   "ini": 59465,
+   "fin": 59468,
+   "texto": "480"
+  },
+  {
+   "tipo": "institution",
+   "ini": 59472,
+   "fin": 59528,
+   "rasgos": {
+    "type": "foundation",
+    "role": "owner, lender"
+   },
+   "texto": "Colección MACBA. Fundación\nMACBA. Donación de la artista"
+  },
+  {
+   "tipo": "person",
+   "ini": 59521,
+   "fin": 59528,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "artista"
+  },
+  {
+   "tipo": "work",
+   "ini": 59532,
+   "fin": 59677,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Victor Ruiz Colomer + Joe Highton\nPont Ponts Jardí\n[Puente Puentes Jardín]\n2021\nInstalación sonora\nDimensiones variables\nCortesía de los artistas"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 59532,
+   "fin": 59677
+  },
+  {
+   "tipo": "person",
+   "ini": 59532,
+   "fin": 59565,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Victor Ruiz Colomer + Joe Highton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 59532,
+   "fin": 59551,
+   "texto": "Victor Ruiz Colomer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 59554,
+   "fin": 59565,
+   "texto": "Joe Highton"
+  },
+  {
+   "tipo": "title",
+   "ini": 59566,
+   "fin": 59582,
+   "texto": "Pont Ponts Jardí"
+  },
+  {
+   "tipo": "translatedTitle",
+   "ini": 59583,
+   "fin": 59606
+  },
+  {
+   "tipo": "date",
+   "ini": 59607,
+   "fin": 59611,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "technique",
+   "ini": 59612,
+   "fin": 59630,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Instalación sonora"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 59631,
+   "fin": 59652,
+   "texto": "Dimensiones variables"
+  },
+  {
+   "tipo": "person",
+   "ini": 59669,
+   "fin": 59677,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "artistas"
+  },
+  {
+   "tipo": "work",
+   "ini": 59681,
+   "fin": 59816,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Wolfgang Tillmans\nFire Island II\n2016\nImpresión por chorro de tinta\n40,6 x 30,5 cm\nColección de Arte Contemporáneo\nFundación ”la Caixa”"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 59681,
+   "fin": 59816
+  },
+  {
+   "tipo": "person",
+   "ini": 59681,
+   "fin": 59698,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Wolfgang Tillmans"
+  },
+  {
+   "tipo": "persName",
+   "ini": 59681,
+   "fin": 59698,
+   "texto": "Wolfgang Tillmans"
+  },
+  {
+   "tipo": "title",
+   "ini": 59699,
+   "fin": 59713,
+   "texto": "Fire Island II"
+  },
+  {
+   "tipo": "date",
+   "ini": 59714,
+   "fin": 59718,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 59719,
+   "fin": 59748,
+   "rasgos": {
+    "type": "print"
+   },
+   "texto": "Impresión por chorro de tinta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 59749,
+   "fin": 59763,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40,6 x 30,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 59749,
+   "fin": 59753,
+   "texto": "40,6"
+  },
+  {
+   "tipo": "width",
+   "ini": 59756,
+   "fin": 59760,
+   "texto": "30,5"
+  },
+  {
+   "tipo": "institution",
+   "ini": 59764,
+   "fin": 59816,
+   "rasgos": {
+    "type": "foundation",
+    "role": "owner, lender"
+   },
+   "texto": "Colección de Arte Contemporáneo\nFundación ”la Caixa”"
+  },
+  {
+   "tipo": "work",
+   "ini": 59820,
+   "fin": 59948,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Wolfgang Tillmans\nTapestry\n[Tapiz]\n2006\nFotografía cromogénica\n61 x 50,8 cm\nColección de Arte Contemporáneo\nFundación ”la Caixa”"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 59820,
+   "fin": 59948
+  },
+  {
+   "tipo": "person",
+   "ini": 59820,
+   "fin": 59837,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Wolfgang Tillmans"
+  },
+  {
+   "tipo": "persName",
+   "ini": 59820,
+   "fin": 59837,
+   "texto": "Wolfgang Tillmans"
+  },
+  {
+   "tipo": "title",
+   "ini": 59838,
+   "fin": 59846,
+   "texto": "Tapestry"
+  },
+  {
+   "tipo": "translatedTitle",
+   "ini": 59847,
+   "fin": 59854
+  },
+  {
+   "tipo": "date",
+   "ini": 59855,
+   "fin": 59859,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "technique",
+   "ini": 59860,
+   "fin": 59882,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía cromogénica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 59883,
+   "fin": 59895,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 50,8 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 59883,
+   "fin": 59885,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 59888,
+   "fin": 59892,
+   "texto": "50,8"
+  },
+  {
+   "tipo": "institution",
+   "ini": 59896,
+   "fin": 59948,
+   "rasgos": {
+    "type": "foundation",
+    "role": "owner, lender"
+   },
+   "texto": "Colección de Arte Contemporáneo\nFundación ”la Caixa”"
+  },
+  {
+   "tipo": "work",
+   "ini": 59952,
+   "fin": 60086,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Wolfgang Tillmans\nSilver 112\n[Plata 112]\n2013\nFotografía cromogénica\n171 x 226 cm\nColección de Arte Contemporáneo\nFundación ”la Caixa”"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 59952,
+   "fin": 60086
+  },
+  {
+   "tipo": "person",
+   "ini": 59952,
+   "fin": 59969,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Wolfgang Tillmans"
+  },
+  {
+   "tipo": "persName",
+   "ini": 59952,
+   "fin": 59969,
+   "texto": "Wolfgang Tillmans"
+  },
+  {
+   "tipo": "title",
+   "ini": 59970,
+   "fin": 59980,
+   "texto": "Silver 112"
+  },
+  {
+   "tipo": "translatedTitle",
+   "ini": 59981,
+   "fin": 59992
+  },
+  {
+   "tipo": "date",
+   "ini": 59993,
+   "fin": 59997,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "technique",
+   "ini": 59998,
+   "fin": 60020,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía cromogénica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 60021,
+   "fin": 60033,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "171 x 226 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 60021,
+   "fin": 60024,
+   "texto": "171"
+  },
+  {
+   "tipo": "width",
+   "ini": 60027,
+   "fin": 60030,
+   "texto": "226"
+  },
+  {
+   "tipo": "institution",
+   "ini": 60034,
+   "fin": 60086,
+   "rasgos": {
+    "type": "foundation",
+    "role": "owner, lender"
+   },
+   "texto": "Colección de Arte Contemporáneo\nFundación ”la Caixa”"
+  },
+  {
+   "tipo": "work",
+   "ini": 60090,
+   "fin": 60239,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Wolfgang Tillmans\nGeschlechtsteile\n[Genitales]\n2010\nImpresión por chorro de tinta\n40,6 x 30,5 cm\nColección de Arte Contemporáneo\nFundación ”la Caixa”"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 60090,
+   "fin": 60239
+  },
+  {
+   "tipo": "person",
+   "ini": 60090,
+   "fin": 60107,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Wolfgang Tillmans"
+  },
+  {
+   "tipo": "persName",
+   "ini": 60090,
+   "fin": 60107,
+   "texto": "Wolfgang Tillmans"
+  },
+  {
+   "tipo": "title",
+   "ini": 60108,
+   "fin": 60124,
+   "texto": "Geschlechtsteile"
+  },
+  {
+   "tipo": "translatedTitle",
+   "ini": 60125,
+   "fin": 60136
+  },
+  {
+   "tipo": "date",
+   "ini": 60137,
+   "fin": 60141,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "technique",
+   "ini": 60142,
+   "fin": 60171,
+   "rasgos": {
+    "type": "print"
+   },
+   "texto": "Impresión por chorro de tinta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 60172,
+   "fin": 60186,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40,6 x 30,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 60172,
+   "fin": 60176,
+   "texto": "40,6"
+  },
+  {
+   "tipo": "width",
+   "ini": 60179,
+   "fin": 60183,
+   "texto": "30,5"
+  },
+  {
+   "tipo": "institution",
+   "ini": 60187,
+   "fin": 60239,
+   "rasgos": {
+    "type": "foundation",
+    "role": "owner, lender"
+   },
+   "texto": "Colección de Arte Contemporáneo\nFundación ”la Caixa”"
+  },
+  {
+   "tipo": "work",
+   "ini": 60243,
+   "fin": 60607,
+   "rasgos": {
+    "type": "installation"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 60243,
+   "fin": 60607
+  },
+  {
+   "tipo": "person",
+   "ini": 60243,
+   "fin": 60258,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Francesc Torres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 60243,
+   "fin": 60258,
+   "texto": "Francesc Torres"
+  },
+  {
+   "tipo": "title",
+   "ini": 60259,
+   "fin": 60296,
+   "texto": "Prototip per a una edició il·limitada"
+  },
+  {
+   "tipo": "translatedTitle",
+   "ini": 60297,
+   "fin": 60335
+  },
+  {
+   "tipo": "date",
+   "ini": 60336,
+   "fin": 60345,
+   "rasgos": {
+    "from": "1968",
+    "to": "1969"
+   },
+   "texto": "1968-1969"
+  },
+  {
+   "tipo": "technique",
+   "ini": 60346,
+   "fin": 60352,
+   "rasgos": {
+    "type": "cardboard"
+   },
+   "texto": "Cartón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 60353,
+   "fin": 60370,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "25 x 25 x 27,7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 60353,
+   "fin": 60355,
+   "texto": "25"
+  },
+  {
+   "tipo": "width",
+   "ini": 60358,
+   "fin": 60360,
+   "texto": "25"
+  },
+  {
+   "tipo": "depth",
+   "ini": 60363,
+   "fin": 60367,
+   "texto": "27,7"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 60371,
+   "fin": 60544
+  },
+  {
+   "tipo": "persName",
+   "ini": 60471,
+   "fin": 60486,
+   "texto": "Francesc Torres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 60518,
+   "fin": 60531,
+   "texto": "Adolf Alcañiz"
+  },
+  {
+   "tipo": "duration",
+   "ini": 60545,
+   "fin": 60551,
+   "rasgos": {
+    "unit": "min"
+   }
+  },
+  {
+   "tipo": "minute",
+   "ini": 60545,
+   "fin": 60546
+  },
+  {
+   "tipo": "second",
+   "ini": 60548,
+   "fin": 60550
+  },
+  {
+   "tipo": "institution",
+   "ini": 60552,
+   "fin": 60607,
+   "rasgos": {
+    "type": "townHall",
+    "role": "owner, lender"
+   },
+   "texto": "Colección MACBA. Depósito\ndel Ayuntamiento de Barcelona"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 60598,
+   "fin": 60607,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Barcelona"
+  },
+  {
+   "tipo": "work",
+   "ini": 60611,
+   "fin": 60727,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Moisès Villèlia\nMòbil\n[Móvil]\n1985-1986\nBambú\n55 x 106 x 106 cm\nColección de Arte Contemporáneo\nFundación ”la Caixa”"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 60611,
+   "fin": 60727
+  },
+  {
+   "tipo": "person",
+   "ini": 60611,
+   "fin": 60626,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Moisès Villèlia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 60611,
+   "fin": 60626,
+   "texto": "Moisès Villèlia"
+  },
+  {
+   "tipo": "title",
+   "ini": 60627,
+   "fin": 60632,
+   "texto": "Mòbil"
+  },
+  {
+   "tipo": "translatedTitle",
+   "ini": 60633,
+   "fin": 60640
+  },
+  {
+   "tipo": "date",
+   "ini": 60641,
+   "fin": 60650,
+   "rasgos": {
+    "from": "1985",
+    "to": "1986"
+   },
+   "texto": "1985-1986"
+  },
+  {
+   "tipo": "technique",
+   "ini": 60651,
+   "fin": 60656,
+   "rasgos": {
+    "type": "bamboo"
+   },
+   "texto": "Bambú"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 60657,
+   "fin": 60674,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55 x 106 x 106 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 60657,
+   "fin": 60659,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 60662,
+   "fin": 60665,
+   "texto": "106"
+  },
+  {
+   "tipo": "depth",
+   "ini": 60668,
+   "fin": 60671,
+   "texto": "106"
+  },
+  {
+   "tipo": "institution",
+   "ini": 60675,
+   "fin": 60727,
+   "rasgos": {
+    "type": "foundation",
+    "role": "owner, lender"
+   },
+   "texto": "Colección de Arte Contemporáneo\nFundación ”la Caixa”"
+  },
+  {
+   "tipo": "person",
+   "ini": 60742,
+   "fin": 60763,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Xavier Acarín Wieland"
+  },
+  {
+   "tipo": "persName",
+   "ini": 60742,
+   "fin": 60763,
+   "texto": "Xavier Acarín Wieland"
+  }
+ ]
+}

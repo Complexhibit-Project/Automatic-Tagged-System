@@ -1,0 +1,988 @@
+{
+ "id": "cat_048_catalogo_exposicion_chemamanzano",
+ "nombre_original": "catalogo-exposicion-ChemaManzano",
+ "longitud_texto": 24052,
+ "sha256_texto": "b4645c35a34d6825849a024206afed142674eb00c00caecd7fa0ddbeb1ad7b26",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 343,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 65,
+   "texto": "Romaniqueando\nexposición de grafito sobre papel de\n\nChema Manzano"
+  },
+  {
+   "tipo": "person",
+   "ini": 52,
+   "fin": 65,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chema Manzano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 52,
+   "fin": 65,
+   "texto": "Chema Manzano"
+  },
+  {
+   "tipo": "institution",
+   "ini": 291,
+   "fin": 320,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "Santa María la Real fundación"
+  },
+  {
+   "tipo": "institution",
+   "ini": 322,
+   "fin": 343,
+   "rasgos": {
+    "role": "organiser"
+   },
+   "texto": "Románito y territorio"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 345,
+   "fin": 516,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 345,
+   "fin": 369,
+   "rasgos": {
+    "from": "2021-07-06",
+    "to": "2021-08-31"
+   },
+   "texto": "6 JULIO - 31 AGOSTO 2021"
+  },
+  {
+   "tipo": "institution",
+   "ini": 371,
+   "fin": 426,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "CENTRO EXPOSITIVO ROM\nMonasterio de Santa María la Real"
+  },
+  {
+   "tipo": "venue",
+   "ini": 371,
+   "fin": 392,
+   "texto": "CENTRO EXPOSITIVO ROM"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 427,
+   "fin": 444,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Aguilar de Campoo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 446,
+   "fin": 475,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "Santa María la Real fundación"
+  },
+  {
+   "tipo": "institution",
+   "ini": 477,
+   "fin": 498,
+   "rasgos": {
+    "role": "organiser"
+   },
+   "texto": "Románico y territorio"
+  },
+  {
+   "tipo": "title",
+   "ini": 501,
+   "fin": 514,
+   "texto": "Romaniqueando"
+  },
+  {
+   "tipo": "person",
+   "ini": 2160,
+   "fin": 2173,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chema Manzano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2160,
+   "fin": 2173,
+   "texto": "Chema Manzano"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 2175,
+   "fin": 2210,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 2176,
+   "fin": 2189,
+   "texto": "Romaniqueando"
+  },
+  {
+   "tipo": "person",
+   "ini": 2196,
+   "fin": 2209,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chema Manzano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2196,
+   "fin": 2209,
+   "texto": "Chema Manzano"
+  },
+  {
+   "tipo": "person",
+   "ini": 2338,
+   "fin": 2351,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chema Manzano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2338,
+   "fin": 2351,
+   "texto": "Chema Manzano"
+  },
+  {
+   "tipo": "venue",
+   "ini": 2571,
+   "fin": 2627,
+   "texto": "capilla del Cristo del Monasterio de Santa María la Real"
+  },
+  {
+   "tipo": "person",
+   "ini": 2969,
+   "fin": 2974,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chema"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2969,
+   "fin": 2974,
+   "texto": "Chema"
+  },
+  {
+   "tipo": "person",
+   "ini": 3274,
+   "fin": 3281,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manzano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3274,
+   "fin": 3281,
+   "texto": "Manzano"
+  },
+  {
+   "tipo": "person",
+   "ini": 4056,
+   "fin": 4061,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chema"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4056,
+   "fin": 4061,
+   "texto": "Chema"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 4287,
+   "fin": 24052
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4287,
+   "fin": 4858
+  },
+  {
+   "tipo": "work",
+   "ini": 4287,
+   "fin": 4851,
+   "rasgos": {
+    "type": "drawing"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 4287,
+   "fin": 4376,
+   "texto": "“Matanza de los Santos Inocentes“\nErmita de Santa Cecilia. Aguilar de Campoo. Siglo XIII."
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 4378,
+   "fin": 4851
+  },
+  {
+   "tipo": "img",
+   "ini": 4853,
+   "fin": 4858,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4860,
+   "fin": 5857
+  },
+  {
+   "tipo": "work",
+   "ini": 4860,
+   "fin": 5850,
+   "rasgos": {
+    "type": "drawing"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 4860,
+   "fin": 4979,
+   "texto": "“Capitel de los constructores“\nMonasterio de San Pedro de Valdecal. Sta. María de Mave. (Palencia). Siglo XI.\n(M.A.N.)."
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 4981,
+   "fin": 5850
+  },
+  {
+   "tipo": "img",
+   "ini": 5852,
+   "fin": 5857,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5859,
+   "fin": 6786
+  },
+  {
+   "tipo": "work",
+   "ini": 5859,
+   "fin": 6779,
+   "rasgos": {
+    "type": "drawing"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 5859,
+   "fin": 5974,
+   "texto": "“Arpías“\nTaller de la escuela de San Andrés de Arroyo. Yglesia de Santa Eufemia de\nCozollos. Año 1.075. (Palencia)."
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 5976,
+   "fin": 6779
+  },
+  {
+   "tipo": "img",
+   "ini": 6781,
+   "fin": 6786,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6788,
+   "fin": 7959
+  },
+  {
+   "tipo": "work",
+   "ini": 6788,
+   "fin": 7952,
+   "rasgos": {
+    "type": "drawing"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 6788,
+   "fin": 6898,
+   "texto": "“El sueño de los Reyes Magos“\nCapitel del escultor Gisleberto de Autun. Catedral de Autun. Francia. Año 1.130."
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 6900,
+   "fin": 7952
+  },
+  {
+   "tipo": "img",
+   "ini": 7954,
+   "fin": 7959,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7961,
+   "fin": 8845
+  },
+  {
+   "tipo": "work",
+   "ini": 7961,
+   "fin": 8838,
+   "rasgos": {
+    "type": "drawing"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 7961,
+   "fin": 8085,
+   "texto": "“ Descendimiento de Cristo en la cruz“\nMonasterio de Santa María de Aguilar de Campoo. (Palencia). Siglo XII-XIII.\n(M.A.N.)."
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 8087,
+   "fin": 8838
+  },
+  {
+   "tipo": "img",
+   "ini": 8840,
+   "fin": 8845,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8847,
+   "fin": 9955
+  },
+  {
+   "tipo": "work",
+   "ini": 8847,
+   "fin": 9948,
+   "rasgos": {
+    "type": "drawing"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 8847,
+   "fin": 8941,
+   "texto": "“Capitel de la Vendimia“\nMonasterio de San Zoilo. Carrión de los Condes. (Palencia). Siglo XI."
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 8943,
+   "fin": 9948
+  },
+  {
+   "tipo": "img",
+   "ini": 9950,
+   "fin": 9955,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9957,
+   "fin": 10971
+  },
+  {
+   "tipo": "work",
+   "ini": 9957,
+   "fin": 10964,
+   "rasgos": {
+    "type": "drawing"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 9957,
+   "fin": 10077,
+   "texto": "“San Jorge y el dragón”\nFriso y capitel de la ermita de Santa Cecilia de Vallespinoso de Aguilar. (Palencia).\nSiglo XII."
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 10079,
+   "fin": 10964
+  },
+  {
+   "tipo": "img",
+   "ini": 10966,
+   "fin": 10971,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10973,
+   "fin": 11895
+  },
+  {
+   "tipo": "work",
+   "ini": 10973,
+   "fin": 11888,
+   "rasgos": {
+    "type": "drawing"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 10973,
+   "fin": 11051,
+   "texto": "“Canecillo erótico“\nColegiata de San Martín de Elines. (Cantabria). Siglo XII."
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 11053,
+   "fin": 11888
+  },
+  {
+   "tipo": "img",
+   "ini": 11890,
+   "fin": 11895,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11897,
+   "fin": 12454
+  },
+  {
+   "tipo": "work",
+   "ini": 11897,
+   "fin": 12446,
+   "rasgos": {
+    "type": "drawing"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 11897,
+   "fin": 12023,
+   "texto": "“Capitel de la Ascensión de Cristo “\nMonasterio de Santa María La Real. Aguilar de Campoo. (Palencia). Siglo XII-XIII.(M.A.N.)"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 12025,
+   "fin": 12446
+  },
+  {
+   "tipo": "img",
+   "ini": 12448,
+   "fin": 12453,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12455,
+   "fin": 13156
+  },
+  {
+   "tipo": "work",
+   "ini": 12455,
+   "fin": 13149,
+   "rasgos": {
+    "type": "drawing"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 12455,
+   "fin": 12574,
+   "texto": "“Ventanal erótico “\nVentana absidal de la colegiata de San Pedro de Cervatos. (Cantabria). Siglo\nXII. (Reconstrucción)."
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 12576,
+   "fin": 13149
+  },
+  {
+   "tipo": "img",
+   "ini": 13151,
+   "fin": 13156,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13158,
+   "fin": 14131
+  },
+  {
+   "tipo": "work",
+   "ini": 13158,
+   "fin": 14124,
+   "rasgos": {
+    "type": "drawing"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 13158,
+   "fin": 13288,
+   "texto": "“El caballero victorioso“\nCapitel del Monasterio de Santa María La Real. Aguilar de Campoo. Siglo XIII.\n(M.A.N.) (Reconstrucción)."
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 13290,
+   "fin": 14124
+  },
+  {
+   "tipo": "img",
+   "ini": 14126,
+   "fin": 14131,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14133,
+   "fin": 15465
+  },
+  {
+   "tipo": "work",
+   "ini": 14133,
+   "fin": 15458,
+   "rasgos": {
+    "type": "drawing"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 14133,
+   "fin": 14244,
+   "texto": "“Adoración de los Reyes Magos”\nCapitel del escultor Gileberto de Autun. Catedral de Autun, (Francia). Año 1130."
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 14246,
+   "fin": 15458
+  },
+  {
+   "tipo": "img",
+   "ini": 15460,
+   "fin": 15465,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15467,
+   "fin": 16130
+  },
+  {
+   "tipo": "work",
+   "ini": 15467,
+   "fin": 16123,
+   "rasgos": {
+    "type": "drawing"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 15467,
+   "fin": 15522,
+   "texto": "“Capitel de la sirena“\nSan Pedro de Olivares. (Zamora)."
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 15524,
+   "fin": 16123
+  },
+  {
+   "tipo": "img",
+   "ini": 16125,
+   "fin": 16130,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16132,
+   "fin": 16541
+  },
+  {
+   "tipo": "work",
+   "ini": 16132,
+   "fin": 16534,
+   "rasgos": {
+    "type": "drawing"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 16132,
+   "fin": 16228,
+   "texto": "“Capitel de las plañideras “\nMonasterio de Santa Eufemia. Olmos de Ojeda. (Palencia). Siglo XII."
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 16230,
+   "fin": 16534
+  },
+  {
+   "tipo": "img",
+   "ini": 16536,
+   "fin": 16541,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16543,
+   "fin": 17393
+  },
+  {
+   "tipo": "work",
+   "ini": 16543,
+   "fin": 17386,
+   "rasgos": {
+    "type": "drawing"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 16543,
+   "fin": 16625,
+   "texto": "“El sacrificio de Isaac”\nIglesia de Santa María de Piasca. (Cantábria). Siglo XII."
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 16627,
+   "fin": 17386
+  },
+  {
+   "tipo": "img",
+   "ini": 17388,
+   "fin": 17393,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17395,
+   "fin": 18321
+  },
+  {
+   "tipo": "work",
+   "ini": 17395,
+   "fin": 18314,
+   "rasgos": {
+    "type": "drawing"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 17395,
+   "fin": 17498,
+   "texto": "“Capitel de los leones “\nColegiata de San Pedro de Cervatos. Campoo de Enmedio. (Cantabria). Siglo\nXII."
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 17500,
+   "fin": 18314
+  },
+  {
+   "tipo": "img",
+   "ini": 18316,
+   "fin": 18321,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18323,
+   "fin": 19482
+  },
+  {
+   "tipo": "work",
+   "ini": 18323,
+   "fin": 19475,
+   "rasgos": {
+    "type": "drawing"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 18323,
+   "fin": 18422,
+   "texto": "“Capitel de la Natividad “\nIglesia de Nuestra Señora de la Ascensión. Duratón. Segovia. Siglo XIII."
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 18424,
+   "fin": 19475
+  },
+  {
+   "tipo": "img",
+   "ini": 19477,
+   "fin": 19482,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19484,
+   "fin": 20550
+  },
+  {
+   "tipo": "work",
+   "ini": 19484,
+   "fin": 20543,
+   "rasgos": {
+    "type": "drawing"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 19484,
+   "fin": 19578,
+   "texto": "“Músicos de Piasca“\nArchivolta de la Iglesia de Santa María de Piasca. (Cantábria). Siglo XII."
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 19580,
+   "fin": 20543
+  },
+  {
+   "tipo": "img",
+   "ini": 20545,
+   "fin": 20550,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20552,
+   "fin": 21469
+  },
+  {
+   "tipo": "work",
+   "ini": 20552,
+   "fin": 21462,
+   "rasgos": {
+    "type": "drawing"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 20552,
+   "fin": 20648,
+   "texto": "“Sansón desquijarando al león“\nMonasterio de Santa María la Real. Aguilar de Campoo. Siglo XIII."
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 20650,
+   "fin": 21462
+  },
+  {
+   "tipo": "img",
+   "ini": 21464,
+   "fin": 21469,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21471,
+   "fin": 22448
+  },
+  {
+   "tipo": "work",
+   "ini": 21471,
+   "fin": 22441,
+   "rasgos": {
+    "type": "drawing"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 21471,
+   "fin": 21562,
+   "texto": "“Centauros luchando“\nCapitel de la iglesia de San Claudio de Olivares. (Zamora). Siglo XII."
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 21564,
+   "fin": 22441
+  },
+  {
+   "tipo": "img",
+   "ini": 22443,
+   "fin": 22448,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22450,
+   "fin": 22930
+  },
+  {
+   "tipo": "work",
+   "ini": 22450,
+   "fin": 22923,
+   "rasgos": {
+    "type": "drawing"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 22450,
+   "fin": 22604,
+   "texto": "“Despedida del caballero”\nCapitel de Favila despidiéndose de su exposa Froiluva. Monasterio de San\nPedro. Villanueva. Cangas de Onís. Asturias. Siglo XII."
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 22606,
+   "fin": 22923
+  },
+  {
+   "tipo": "img",
+   "ini": 22925,
+   "fin": 22930,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22932,
+   "fin": 24052
+  },
+  {
+   "tipo": "work",
+   "ini": 22932,
+   "fin": 24045,
+   "rasgos": {
+    "type": "drawing"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 22932,
+   "fin": 23048,
+   "texto": "“Músico tocando una flauta de pan“\nCapitel del monasterio de San Zoilo. Carrión de los Condes. (Palencia). Siglo XI."
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 23050,
+   "fin": 24045
+  },
+  {
+   "tipo": "img",
+   "ini": 24047,
+   "fin": 24052,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  }
+ ]
+}

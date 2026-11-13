@@ -1,0 +1,1246 @@
+{
+ "id": "cat_056_catalogo_pelayo_ortega",
+ "nombre_original": "catalogo-pelayo-ortega",
+ "longitud_texto": 58816,
+ "sha256_texto": "23a14bf75e068748ecd3a954b41dbd0a2604687ac94ebefb15bd15aece492b8b",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 54,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 13,
+   "texto": "Pelayo Ortega"
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 13,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pelayo Ortega"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 13,
+   "texto": "Pelayo Ortega"
+  },
+  {
+   "tipo": "institution",
+   "ini": 15,
+   "fin": 46,
+   "rasgos": {
+    "type": "association",
+    "role": "organiser, host"
+   },
+   "texto": "Asociación Amigos de As Quintas"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 47,
+   "fin": 54,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "A Cardá"
+  },
+  {
+   "tipo": "person",
+   "ini": 56,
+   "fin": 69,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pelayo Ortega"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56,
+   "fin": 69,
+   "texto": "Pelayo Ortega"
+  },
+  {
+   "tipo": "institution",
+   "ini": 74,
+   "fin": 84,
+   "rasgos": {
+    "type": "association",
+    "role": "organiser"
+   },
+   "texto": "As Quintas"
+  },
+  {
+   "tipo": "birth",
+   "ini": 85,
+   "fin": 101
+  },
+  {
+   "tipo": "placeName",
+   "ini": 95,
+   "fin": 101,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "person",
+   "ini": 176,
+   "fin": 189,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pelayo Ortega"
+  },
+  {
+   "tipo": "person",
+   "ini": 1949,
+   "fin": 1962,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pelayo Ortega"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1949,
+   "fin": 1962,
+   "texto": "Pelayo Ortega"
+  },
+  {
+   "tipo": "person",
+   "ini": 2675,
+   "fin": 2688,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pelayo Ortega"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2675,
+   "fin": 2688,
+   "texto": "Pelayo Ortega"
+  },
+  {
+   "tipo": "person",
+   "ini": 2997,
+   "fin": 3003,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pelayo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2997,
+   "fin": 3003,
+   "texto": "Pelayo"
+  },
+  {
+   "tipo": "person",
+   "ini": 3628,
+   "fin": 3634,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pelayo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3628,
+   "fin": 3634,
+   "texto": "Pelayo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 4136,
+   "fin": 4249,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 4175,
+   "fin": 4188,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pelayo Ortega"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4175,
+   "fin": 4188,
+   "texto": "Pelayo Ortega"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4214,
+   "fin": 4248,
+   "rasgos": {
+    "type": "association",
+    "role": "organiser, host"
+   },
+   "texto": "espacio “As Quintas” de La Caridad"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4671,
+   "fin": 4681,
+   "rasgos": {
+    "type": "association",
+    "role": "organiser"
+   },
+   "texto": "La Caridad"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 4818,
+   "fin": 5843
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4818,
+   "fin": 4906
+  },
+  {
+   "tipo": "img",
+   "ini": 4818,
+   "fin": 4823,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4825,
+   "fin": 4906,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Taller nocturno. Óleo y tinta sobre cartón 100 x 70 cm. 01/01/2007. Código: 19586"
+  },
+  {
+   "tipo": "title",
+   "ini": 4825,
+   "fin": 4840,
+   "texto": "Taller nocturno"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4842,
+   "fin": 4867,
+   "rasgos": {
+    "type": "oil, ink"
+   },
+   "texto": "Óleo y tinta sobre cartón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4868,
+   "fin": 4879,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4868,
+   "fin": 4871,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 4874,
+   "fin": 4876,
+   "texto": "70"
+  },
+  {
+   "tipo": "date",
+   "ini": 4881,
+   "fin": 4891,
+   "rasgos": {
+    "when": "2007-01-01"
+   },
+   "texto": "01/01/2007"
+  },
+  {
+   "tipo": "idno",
+   "ini": 4901,
+   "fin": 4906,
+   "texto": "19586"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4908,
+   "fin": 5002
+  },
+  {
+   "tipo": "img",
+   "ini": 4908,
+   "fin": 4913,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4915,
+   "fin": 5002,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Taller estrellado. Acrílico y tinta sobre cartón 70 x 100 cm. 01/01/2007. Código: 19587"
+  },
+  {
+   "tipo": "title",
+   "ini": 4915,
+   "fin": 4932,
+   "texto": "Taller estrellado"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4934,
+   "fin": 4963,
+   "rasgos": {
+    "type": "acrylic, ink"
+   },
+   "texto": "Acrílico y tinta sobre cartón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4964,
+   "fin": 4975,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4964,
+   "fin": 4966,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 4969,
+   "fin": 4972,
+   "texto": "100"
+  },
+  {
+   "tipo": "date",
+   "ini": 4977,
+   "fin": 4987,
+   "rasgos": {
+    "when": "2007-01-01"
+   },
+   "texto": "01/01/2007"
+  },
+  {
+   "tipo": "idno",
+   "ini": 4997,
+   "fin": 5002,
+   "texto": "19587"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5004,
+   "fin": 5078
+  },
+  {
+   "tipo": "img",
+   "ini": 5004,
+   "fin": 5009,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5011,
+   "fin": 5078,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Católico. Óleo sobre lienzo 200 x 200 cm. 01/01/2009. Código: 21089"
+  },
+  {
+   "tipo": "title",
+   "ini": 5011,
+   "fin": 5019,
+   "texto": "Católico"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5021,
+   "fin": 5038,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5039,
+   "fin": 5051,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 200 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5039,
+   "fin": 5042,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 5045,
+   "fin": 5048,
+   "texto": "200"
+  },
+  {
+   "tipo": "date",
+   "ini": 5053,
+   "fin": 5063,
+   "rasgos": {
+    "when": "2009-01-01"
+   },
+   "texto": "01/01/2009"
+  },
+  {
+   "tipo": "idno",
+   "ini": 5073,
+   "fin": 5078,
+   "texto": "21089"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5080,
+   "fin": 5166
+  },
+  {
+   "tipo": "img",
+   "ini": 5080,
+   "fin": 5085,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5087,
+   "fin": 5166,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La escala espiritual. Óleo sobre lienzo 225 x 125 cm. 01/01/2009. Código: 21091"
+  },
+  {
+   "tipo": "title",
+   "ini": 5087,
+   "fin": 5107,
+   "texto": "La escala espiritual"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5109,
+   "fin": 5126,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5127,
+   "fin": 5139,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "225 x 125 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5127,
+   "fin": 5130,
+   "texto": "225"
+  },
+  {
+   "tipo": "width",
+   "ini": 5133,
+   "fin": 5136,
+   "texto": "125"
+  },
+  {
+   "tipo": "date",
+   "ini": 5141,
+   "fin": 5151,
+   "rasgos": {
+    "when": "2009-01-01"
+   },
+   "texto": "01/01/2009"
+  },
+  {
+   "tipo": "idno",
+   "ini": 5161,
+   "fin": 5166,
+   "texto": "21091"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5168,
+   "fin": 5252
+  },
+  {
+   "tipo": "img",
+   "ini": 5168,
+   "fin": 5173,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5175,
+   "fin": 5252,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título (Ref. E). Óleo sobre lienzo 70 x 100 cm. 01/01/2009. Código: 21097"
+  },
+  {
+   "tipo": "title",
+   "ini": 5175,
+   "fin": 5194,
+   "texto": "Sin título (Ref. E)"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5196,
+   "fin": 5213,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5214,
+   "fin": 5225,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5214,
+   "fin": 5216,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 5219,
+   "fin": 5222,
+   "texto": "100"
+  },
+  {
+   "tipo": "date",
+   "ini": 5227,
+   "fin": 5237,
+   "rasgos": {
+    "when": "2009-01-01"
+   },
+   "texto": "01/01/2009"
+  },
+  {
+   "tipo": "idno",
+   "ini": 5247,
+   "fin": 5252,
+   "texto": "21097"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5254,
+   "fin": 5334
+  },
+  {
+   "tipo": "img",
+   "ini": 5254,
+   "fin": 5259,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5261,
+   "fin": 5334,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Taller nocturno. Óleo sobre cartón 100 x 70 cm. 01/01/2010. Código: 22417"
+  },
+  {
+   "tipo": "title",
+   "ini": 5261,
+   "fin": 5276,
+   "texto": "Taller nocturno"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5278,
+   "fin": 5295,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre cartón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5296,
+   "fin": 5307,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5296,
+   "fin": 5299,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 5302,
+   "fin": 5304,
+   "texto": "70"
+  },
+  {
+   "tipo": "date",
+   "ini": 5308,
+   "fin": 5319,
+   "rasgos": {
+    "when": "2010-01-01"
+   },
+   "texto": " 01/01/2010"
+  },
+  {
+   "tipo": "idno",
+   "ini": 5329,
+   "fin": 5334,
+   "texto": "22417"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5336,
+   "fin": 5436
+  },
+  {
+   "tipo": "img",
+   "ini": 5336,
+   "fin": 5341,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5343,
+   "fin": 5436,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Los padres del desierto. Acrílico y tinta sobre cartón 100 x 70 cm. 01/01/2010. Código: 22422"
+  },
+  {
+   "tipo": "title",
+   "ini": 5343,
+   "fin": 5366,
+   "texto": "Los padres del desierto"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5368,
+   "fin": 5397,
+   "rasgos": {
+    "type": "acrylic, ink"
+   },
+   "texto": "Acrílico y tinta sobre cartón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5398,
+   "fin": 5409,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5398,
+   "fin": 5401,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 5404,
+   "fin": 5406,
+   "texto": "70"
+  },
+  {
+   "tipo": "date",
+   "ini": 5411,
+   "fin": 5421,
+   "rasgos": {
+    "when": "2010-01-01"
+   },
+   "texto": "01/01/2010"
+  },
+  {
+   "tipo": "idno",
+   "ini": 5431,
+   "fin": 5436,
+   "texto": "22422"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5438,
+   "fin": 5515
+  },
+  {
+   "tipo": "img",
+   "ini": 5438,
+   "fin": 5442,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5445,
+   "fin": 5515,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Nocturno. Acrílico y óleo sobre lienzo 70 x 60 cm. 2017. Código: 27274"
+  },
+  {
+   "tipo": "title",
+   "ini": 5445,
+   "fin": 5453,
+   "texto": "Nocturno"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5455,
+   "fin": 5483,
+   "rasgos": {
+    "type": "acrylic, oil"
+   },
+   "texto": "Acrílico y óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5484,
+   "fin": 5494,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5484,
+   "fin": 5486,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 5489,
+   "fin": 5491,
+   "texto": "60"
+  },
+  {
+   "tipo": "date",
+   "ini": 5496,
+   "fin": 5500,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "idno",
+   "ini": 5510,
+   "fin": 5515,
+   "texto": "27274"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5517,
+   "fin": 5588
+  },
+  {
+   "tipo": "img",
+   "ini": 5517,
+   "fin": 5522,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5524,
+   "fin": 5588,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Austral. Acrílico sobre lienzo 180 x 200 cm. 2017. Código: 27546"
+  },
+  {
+   "tipo": "title",
+   "ini": 5524,
+   "fin": 5531,
+   "texto": "Austral"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5533,
+   "fin": 5554,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5555,
+   "fin": 5567,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "180 x 200 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5555,
+   "fin": 5558,
+   "texto": "180"
+  },
+  {
+   "tipo": "width",
+   "ini": 5561,
+   "fin": 5564,
+   "texto": "200"
+  },
+  {
+   "tipo": "date",
+   "ini": 5569,
+   "fin": 5573,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "idno",
+   "ini": 5583,
+   "fin": 5588,
+   "texto": "27546"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5590,
+   "fin": 5671
+  },
+  {
+   "tipo": "img",
+   "ini": 5590,
+   "fin": 5595,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5597,
+   "fin": 5671,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sol entre tinieblas. Acrílico sobre lienzo 70 x 70 cm. 2017. Código: 27551"
+  },
+  {
+   "tipo": "title",
+   "ini": 5597,
+   "fin": 5616,
+   "texto": "Sol entre tinieblas"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5618,
+   "fin": 5639,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5640,
+   "fin": 5650,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5640,
+   "fin": 5642,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 5645,
+   "fin": 5647,
+   "texto": "70"
+  },
+  {
+   "tipo": "date",
+   "ini": 5652,
+   "fin": 5656,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "idno",
+   "ini": 5666,
+   "fin": 5671,
+   "texto": "27551"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5673,
+   "fin": 5756
+  },
+  {
+   "tipo": "img",
+   "ini": 5673,
+   "fin": 5678,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5680,
+   "fin": 5756,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Gong. Acrílico y grafito sobre lienzo 100 x 100 cm. 2018-2019. Código: 28513"
+  },
+  {
+   "tipo": "title",
+   "ini": 5680,
+   "fin": 5684,
+   "texto": "Gong"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5686,
+   "fin": 5717,
+   "rasgos": {
+    "type": "acrylic, graphite"
+   },
+   "texto": "Acrílico y grafito sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5718,
+   "fin": 5730,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5718,
+   "fin": 5721,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 5724,
+   "fin": 5727,
+   "texto": "100"
+  },
+  {
+   "tipo": "date",
+   "ini": 5732,
+   "fin": 5741,
+   "rasgos": {
+    "from": "2018",
+    "to": "2019"
+   },
+   "texto": "2018-2019"
+  },
+  {
+   "tipo": "idno",
+   "ini": 5751,
+   "fin": 5756,
+   "texto": "28513"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5758,
+   "fin": 5843
+  },
+  {
+   "tipo": "img",
+   "ini": 5758,
+   "fin": 5763,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5765,
+   "fin": 5843,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Glocal. Acrílico y grafito sobre lienzo 100 x 100 cm. 2018-2019. Código: 28514"
+  },
+  {
+   "tipo": "title",
+   "ini": 5765,
+   "fin": 5771,
+   "texto": "Glocal"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5773,
+   "fin": 5804,
+   "rasgos": {
+    "type": "acrylic, graphite"
+   },
+   "texto": "Acrílico y grafito sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5805,
+   "fin": 5817,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5805,
+   "fin": 5808,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 5811,
+   "fin": 5814,
+   "texto": "100"
+  },
+  {
+   "tipo": "date",
+   "ini": 5819,
+   "fin": 5828,
+   "rasgos": {
+    "from": "2018",
+    "to": "2019"
+   },
+   "texto": "2018-2019"
+  },
+  {
+   "tipo": "idno",
+   "ini": 5838,
+   "fin": 5843,
+   "texto": "28514"
+  },
+  {
+   "tipo": "person",
+   "ini": 5845,
+   "fin": 5893,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pelayo Ortega\nMieres del Camino – Asturias, 1956"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5845,
+   "fin": 5858,
+   "texto": "Pelayo Ortega"
+  },
+  {
+   "tipo": "birth",
+   "ini": 5859,
+   "fin": 5893
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5859,
+   "fin": 5887,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Mieres del Camino – Asturias"
+  },
+  {
+   "tipo": "date",
+   "ini": 5889,
+   "fin": 5893,
+   "rasgos": {
+    "when": "1956"
+   },
+   "texto": "1956"
+  },
+  {
+   "tipo": "institution",
+   "ini": 58478,
+   "fin": 58488,
+   "rasgos": {
+    "type": "entityBank"
+   },
+   "texto": "Caja Rural"
+  },
+  {
+   "tipo": "institution",
+   "ini": 58489,
+   "fin": 58524,
+   "rasgos": {
+    "type": "administration"
+   },
+   "texto": "Gobierno del Principado de Asturias"
+  },
+  {
+   "tipo": "institution",
+   "ini": 58527,
+   "fin": 58552,
+   "rasgos": {
+    "type": "townHall"
+   },
+   "texto": "Ayuntamiento de El Franco"
+  },
+  {
+   "tipo": "institution",
+   "ini": 58570,
+   "fin": 58589,
+   "rasgos": {
+    "type": "gallery"
+   },
+   "texto": "Galería Marlborough"
+  },
+  {
+   "tipo": "institution",
+   "ini": 58591,
+   "fin": 58611,
+   "rasgos": {
+    "type": "association",
+    "role": "organiser"
+   },
+   "texto": "Amigos de As Quintas"
+  },
+  {
+   "tipo": "institution",
+   "ini": 58641,
+   "fin": 58667,
+   "rasgos": {
+    "type": "bookShop"
+   },
+   "texto": "Librería Alfonso Rodríguez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 58668,
+   "fin": 58681,
+   "rasgos": {
+    "type": "company"
+   },
+   "texto": "Muebles Santi"
+  },
+  {
+   "tipo": "institution",
+   "ini": 58682,
+   "fin": 58695,
+   "rasgos": {
+    "type": "compnay"
+   },
+   "texto": "Pinturas Rafa"
+  },
+  {
+   "tipo": "institution",
+   "ini": 58740,
+   "fin": 58760,
+   "rasgos": {
+    "type": "association",
+    "role": "editor"
+   },
+   "texto": "Amigos de As Quintas"
+  },
+  {
+   "tipo": "institution",
+   "ini": 58781,
+   "fin": 58795,
+   "rasgos": {
+    "type": "company",
+    "role": "printer"
+   },
+   "texto": "Cízero Digital"
+  }
+ ]
+}

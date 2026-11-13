@@ -1,0 +1,1746 @@
+{
+ "id": "cat_012_180705_felixadelantado_antologia_catalog",
+ "nombre_original": "180705-FelixAdelantado-Antologia-CATALOGO",
+ "longitud_texto": 6235,
+ "sha256_texto": "798a9103c0511d1b70b1230878e9fe8e2a05bc80109bdeba88fe17c21c4ab88a",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 26,
+   "texto": "Antología\nFélix Adelantado"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 26,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 10,
+   "fin": 26,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Félix Adelantado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10,
+   "fin": 26,
+   "texto": "Félix Adelantado"
+  },
+  {
+   "tipo": "institution",
+   "ini": 37,
+   "fin": 57,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería CortabitArte"
+  },
+  {
+   "tipo": "person",
+   "ini": 71,
+   "fin": 83,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "Lola Jiménez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 71,
+   "fin": 83,
+   "texto": "Lola Jiménez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 106,
+   "fin": 123,
+   "rasgos": {
+    "type": "company",
+    "role": "layout"
+   },
+   "texto": "Artcom multimedia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 135,
+   "fin": 163,
+   "rasgos": {
+    "type": "printer"
+   },
+   "texto": "Imprenta Provincial de Soria"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 158,
+   "fin": 163,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Soria"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 165,
+   "fin": 212,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 165,
+   "fin": 191,
+   "texto": "Antología\nFélix Adelantado"
+  },
+  {
+   "tipo": "date",
+   "ini": 193,
+   "fin": 212,
+   "rasgos": {
+    "from": "2018-07-01",
+    "to": "2018-08-31"
+   },
+   "texto": "Julio / Agosto 2018"
+  },
+  {
+   "tipo": "person",
+   "ini": 280,
+   "fin": 296,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Félix Adelantado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 280,
+   "fin": 296,
+   "texto": "Félix Adelantado"
+  },
+  {
+   "tipo": "person",
+   "ini": 742,
+   "fin": 758,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Félix Adelantado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 742,
+   "fin": 758,
+   "texto": "Félix Adelantado"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1016,
+   "fin": 1036,
+   "rasgos": {
+    "type": "gallery",
+    "role": "author"
+   },
+   "texto": "CORTABITARTE Galería"
+  },
+  {
+   "tipo": "person",
+   "ini": 1054,
+   "fin": 1070,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Félix Adelantado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1054,
+   "fin": 1070,
+   "texto": "Félix Adelantado"
+  },
+  {
+   "tipo": "person",
+   "ini": 1498,
+   "fin": 1514,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Félix Adelantado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1498,
+   "fin": 1514,
+   "texto": "Félix Adelantado"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 1686,
+   "fin": 2900
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1686,
+   "fin": 1736
+  },
+  {
+   "tipo": "img",
+   "ini": 1686,
+   "fin": 1691,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1693,
+   "fin": 1736,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Campos profíticos\n60x82 - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 1693,
+   "fin": 1710,
+   "texto": "Campos profíticos"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1711,
+   "fin": 1716,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60x82"
+  },
+  {
+   "tipo": "height",
+   "ini": 1711,
+   "fin": 1713,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 1714,
+   "fin": 1716,
+   "texto": "82"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1719,
+   "fin": 1736,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1738,
+   "fin": 1789
+  },
+  {
+   "tipo": "img",
+   "ini": 1738,
+   "fin": 1743,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1745,
+   "fin": 1789,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Impalpable símbolo\n73x60 - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 1745,
+   "fin": 1763,
+   "texto": "Impalpable símbolo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1764,
+   "fin": 1769,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "73x60"
+  },
+  {
+   "tipo": "height",
+   "ini": 1764,
+   "fin": 1766,
+   "texto": "73"
+  },
+  {
+   "tipo": "width",
+   "ini": 1767,
+   "fin": 1769,
+   "texto": "60"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1772,
+   "fin": 1789,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1791,
+   "fin": 1839
+  },
+  {
+   "tipo": "img",
+   "ini": 1791,
+   "fin": 1796,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1798,
+   "fin": 1839,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Extensión final\n81x65 - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 1798,
+   "fin": 1813,
+   "texto": "Extensión final"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1814,
+   "fin": 1819,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81x65"
+  },
+  {
+   "tipo": "height",
+   "ini": 1814,
+   "fin": 1816,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 1817,
+   "fin": 1819,
+   "texto": "65"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1822,
+   "fin": 1839,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1841,
+   "fin": 1892
+  },
+  {
+   "tipo": "img",
+   "ini": 1841,
+   "fin": 1847,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1848,
+   "fin": 1892,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Situaciones nuevas\n65x54 - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 1848,
+   "fin": 1866,
+   "texto": "Situaciones nuevas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1867,
+   "fin": 1872,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65x54"
+  },
+  {
+   "tipo": "height",
+   "ini": 1867,
+   "fin": 1869,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 1870,
+   "fin": 1872,
+   "texto": "54"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1875,
+   "fin": 1892,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1894,
+   "fin": 1937
+  },
+  {
+   "tipo": "img",
+   "ini": 1894,
+   "fin": 1899,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1901,
+   "fin": 1937,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título\n74x54 - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 1901,
+   "fin": 1911,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1912,
+   "fin": 1917,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "74x54"
+  },
+  {
+   "tipo": "height",
+   "ini": 1912,
+   "fin": 1914,
+   "texto": "74"
+  },
+  {
+   "tipo": "width",
+   "ini": 1915,
+   "fin": 1917,
+   "texto": "54"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1920,
+   "fin": 1937,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1939,
+   "fin": 1983
+  },
+  {
+   "tipo": "img",
+   "ini": 1939,
+   "fin": 1944,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1946,
+   "fin": 1983,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título\n100x83 - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 1946,
+   "fin": 1956,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1957,
+   "fin": 1963,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100x83"
+  },
+  {
+   "tipo": "height",
+   "ini": 1957,
+   "fin": 1960,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 1961,
+   "fin": 1963,
+   "texto": "83"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1966,
+   "fin": 1983,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1985,
+   "fin": 2037
+  },
+  {
+   "tipo": "img",
+   "ini": 1985,
+   "fin": 1990,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1992,
+   "fin": 2037,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Dibujo de un siglo\n81x100 - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 1992,
+   "fin": 2010,
+   "texto": "Dibujo de un siglo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2011,
+   "fin": 2017,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81x100"
+  },
+  {
+   "tipo": "height",
+   "ini": 2011,
+   "fin": 2013,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 2014,
+   "fin": 2017,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2020,
+   "fin": 2037,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2039,
+   "fin": 2083
+  },
+  {
+   "tipo": "img",
+   "ini": 2039,
+   "fin": 2044,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2046,
+   "fin": 2083,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título\n90x120 - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 2046,
+   "fin": 2056,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2057,
+   "fin": 2063,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "90x120"
+  },
+  {
+   "tipo": "height",
+   "ini": 2057,
+   "fin": 2059,
+   "texto": "90"
+  },
+  {
+   "tipo": "width",
+   "ini": 2060,
+   "fin": 2063,
+   "texto": "120"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2066,
+   "fin": 2083,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2085,
+   "fin": 2129
+  },
+  {
+   "tipo": "img",
+   "ini": 2085,
+   "fin": 2090,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2092,
+   "fin": 2129,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título\n103x84 - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 2092,
+   "fin": 2102,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2103,
+   "fin": 2109,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "103x84"
+  },
+  {
+   "tipo": "height",
+   "ini": 2103,
+   "fin": 2106,
+   "texto": "103"
+  },
+  {
+   "tipo": "width",
+   "ini": 2107,
+   "fin": 2109,
+   "texto": "84"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2112,
+   "fin": 2129,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2130,
+   "fin": 2174
+  },
+  {
+   "tipo": "img",
+   "ini": 2131,
+   "fin": 2136,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2138,
+   "fin": 2174,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título\n62x50 - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 2138,
+   "fin": 2148,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2149,
+   "fin": 2154,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "62x50"
+  },
+  {
+   "tipo": "height",
+   "ini": 2149,
+   "fin": 2151,
+   "texto": "62"
+  },
+  {
+   "tipo": "width",
+   "ini": 2152,
+   "fin": 2154,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2157,
+   "fin": 2174,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2176,
+   "fin": 2228
+  },
+  {
+   "tipo": "img",
+   "ini": 2176,
+   "fin": 2181,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2183,
+   "fin": 2228,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El platillo fundido\n81x60 - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 2183,
+   "fin": 2202,
+   "texto": "El platillo fundido"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2203,
+   "fin": 2208,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81x60"
+  },
+  {
+   "tipo": "height",
+   "ini": 2203,
+   "fin": 2205,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 2206,
+   "fin": 2208,
+   "texto": "60"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2211,
+   "fin": 2228,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2230,
+   "fin": 2273
+  },
+  {
+   "tipo": "img",
+   "ini": 2230,
+   "fin": 2235,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2237,
+   "fin": 2273,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título\n61x74 - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 2237,
+   "fin": 2247,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2248,
+   "fin": 2253,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61x74"
+  },
+  {
+   "tipo": "height",
+   "ini": 2248,
+   "fin": 2250,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 2251,
+   "fin": 2253,
+   "texto": "74"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2256,
+   "fin": 2273,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2275,
+   "fin": 2329
+  },
+  {
+   "tipo": "img",
+   "ini": 2275,
+   "fin": 2280,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2282,
+   "fin": 2329,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La escritura de Dios\n100x81 - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 2282,
+   "fin": 2302,
+   "texto": "La escritura de Dios"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2303,
+   "fin": 2309,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100x81"
+  },
+  {
+   "tipo": "height",
+   "ini": 2303,
+   "fin": 2306,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 2307,
+   "fin": 2309,
+   "texto": "81"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2312,
+   "fin": 2329,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2331,
+   "fin": 2384
+  },
+  {
+   "tipo": "img",
+   "ini": 2331,
+   "fin": 2336,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2338,
+   "fin": 2384,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Desde este laberinto\n93x73 - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 2338,
+   "fin": 2358,
+   "texto": "Desde este laberinto"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2359,
+   "fin": 2364,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "93x73"
+  },
+  {
+   "tipo": "height",
+   "ini": 2359,
+   "fin": 2361,
+   "texto": "93"
+  },
+  {
+   "tipo": "width",
+   "ini": 2362,
+   "fin": 2364,
+   "texto": "73"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2367,
+   "fin": 2384,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2386,
+   "fin": 2442
+  },
+  {
+   "tipo": "img",
+   "ini": 2386,
+   "fin": 2391,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2393,
+   "fin": 2442,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Las fuerzas de la noche\n61x73 - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 2393,
+   "fin": 2416,
+   "texto": "Las fuerzas de la noche"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2417,
+   "fin": 2422,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61x73"
+  },
+  {
+   "tipo": "height",
+   "ini": 2417,
+   "fin": 2419,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 2420,
+   "fin": 2422,
+   "texto": "73"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2425,
+   "fin": 2442,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2444,
+   "fin": 2487
+  },
+  {
+   "tipo": "img",
+   "ini": 2444,
+   "fin": 2449,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2451,
+   "fin": 2487,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título\n59x81 - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 2451,
+   "fin": 2461,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2462,
+   "fin": 2467,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "59x81"
+  },
+  {
+   "tipo": "height",
+   "ini": 2462,
+   "fin": 2464,
+   "texto": "59"
+  },
+  {
+   "tipo": "width",
+   "ini": 2465,
+   "fin": 2467,
+   "texto": "81"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2470,
+   "fin": 2487,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2489,
+   "fin": 2545
+  },
+  {
+   "tipo": "img",
+   "ini": 2489,
+   "fin": 2494,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2496,
+   "fin": 2545,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Cuerpos en la oscuridad\n81x60 - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 2496,
+   "fin": 2519,
+   "texto": "Cuerpos en la oscuridad"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2520,
+   "fin": 2525,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81x60"
+  },
+  {
+   "tipo": "height",
+   "ini": 2520,
+   "fin": 2522,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 2523,
+   "fin": 2525,
+   "texto": "60"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2528,
+   "fin": 2545,
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2547,
+   "fin": 2601
+  },
+  {
+   "tipo": "img",
+   "ini": 2547,
+   "fin": 2552,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2554,
+   "fin": 2601,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Rostros que se buscan\n82x61 - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 2554,
+   "fin": 2575,
+   "texto": "Rostros que se buscan"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2576,
+   "fin": 2581,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "82x61"
+  },
+  {
+   "tipo": "height",
+   "ini": 2576,
+   "fin": 2578,
+   "texto": "82"
+  },
+  {
+   "tipo": "width",
+   "ini": 2579,
+   "fin": 2581,
+   "texto": "61"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2584,
+   "fin": 2601,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2603,
+   "fin": 2647
+  },
+  {
+   "tipo": "img",
+   "ini": 2603,
+   "fin": 2608,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2610,
+   "fin": 2647,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título\n81x100 - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 2610,
+   "fin": 2620,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2621,
+   "fin": 2627,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81x100"
+  },
+  {
+   "tipo": "height",
+   "ini": 2621,
+   "fin": 2623,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 2624,
+   "fin": 2627,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2630,
+   "fin": 2647,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2649,
+   "fin": 2692
+  },
+  {
+   "tipo": "img",
+   "ini": 2649,
+   "fin": 2654,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2656,
+   "fin": 2692,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título\n82x61 - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 2656,
+   "fin": 2666,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2667,
+   "fin": 2672,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "82x61"
+  },
+  {
+   "tipo": "height",
+   "ini": 2667,
+   "fin": 2669,
+   "texto": "82"
+  },
+  {
+   "tipo": "width",
+   "ini": 2670,
+   "fin": 2672,
+   "texto": "61"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2675,
+   "fin": 2692,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2694,
+   "fin": 2750
+  },
+  {
+   "tipo": "img",
+   "ini": 2694,
+   "fin": 2699,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2701,
+   "fin": 2750,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Cuerpos en la oscuridad\n61x50 - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 2701,
+   "fin": 2724,
+   "texto": "Cuerpos en la oscuridad"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2725,
+   "fin": 2730,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61x50"
+  },
+  {
+   "tipo": "height",
+   "ini": 2725,
+   "fin": 2727,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 2728,
+   "fin": 2730,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2733,
+   "fin": 2750,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2752,
+   "fin": 2809
+  },
+  {
+   "tipo": "img",
+   "ini": 2752,
+   "fin": 2757,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2759,
+   "fin": 2809,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Cuerpos en la oscuridad\n116x90 - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 2759,
+   "fin": 2782,
+   "texto": "Cuerpos en la oscuridad"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2783,
+   "fin": 2789,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "116x90"
+  },
+  {
+   "tipo": "height",
+   "ini": 2783,
+   "fin": 2786,
+   "texto": "116"
+  },
+  {
+   "tipo": "width",
+   "ini": 2787,
+   "fin": 2789,
+   "texto": "90"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2792,
+   "fin": 2809,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2811,
+   "fin": 2855
+  },
+  {
+   "tipo": "img",
+   "ini": 2811,
+   "fin": 2816,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2818,
+   "fin": 2854,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título\n67x54 - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 2818,
+   "fin": 2828,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2829,
+   "fin": 2834,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "67x54"
+  },
+  {
+   "tipo": "height",
+   "ini": 2829,
+   "fin": 2831,
+   "texto": "67"
+  },
+  {
+   "tipo": "width",
+   "ini": 2832,
+   "fin": 2834,
+   "texto": "54"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2837,
+   "fin": 2854,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2856,
+   "fin": 2900
+  },
+  {
+   "tipo": "img",
+   "ini": 2856,
+   "fin": 2861,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2863,
+   "fin": 2900,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título\n114x81 - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 2863,
+   "fin": 2873,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2874,
+   "fin": 2880,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "114x81"
+  },
+  {
+   "tipo": "height",
+   "ini": 2874,
+   "fin": 2877,
+   "texto": "114"
+  },
+  {
+   "tipo": "width",
+   "ini": 2878,
+   "fin": 2880,
+   "texto": "81"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2883,
+   "fin": 2900,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "person",
+   "ini": 2914,
+   "fin": 2952,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Félix Adelantado Enfedaque (1911-2001)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2914,
+   "fin": 2940,
+   "texto": "Félix Adelantado Enfedaque"
+  },
+  {
+   "tipo": "date",
+   "ini": 2942,
+   "fin": 2951,
+   "rasgos": {
+    "from": "1911",
+    "to": "2001"
+   },
+   "texto": "1911-2001"
+  },
+  {
+   "tipo": "birth",
+   "ini": 2942,
+   "fin": 2946
+  },
+  {
+   "tipo": "death",
+   "ini": 2947,
+   "fin": 2951
+  },
+  {
+   "tipo": "person",
+   "ini": 3190,
+   "fin": 3206,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Félix Adelantado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3190,
+   "fin": 3206,
+   "texto": "Félix Adelantado"
+  },
+  {
+   "tipo": "person",
+   "ini": 3624,
+   "fin": 3640,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Félix Adelantado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3624,
+   "fin": 3640,
+   "texto": "Félix Adelantado"
+  },
+  {
+   "tipo": "person",
+   "ini": 4021,
+   "fin": 4031,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Adelantado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4021,
+   "fin": 4031,
+   "texto": "Adelantado"
+  },
+  {
+   "tipo": "person",
+   "ini": 4764,
+   "fin": 4780,
+   "texto": "Félix Adelantado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4764,
+   "fin": 4780,
+   "texto": "Félix Adelantado"
+  },
+  {
+   "tipo": "person",
+   "ini": 5375,
+   "fin": 5391,
+   "texto": "Félix Adelantado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5375,
+   "fin": 5391,
+   "texto": "Félix Adelantado"
+  },
+  {
+   "tipo": "address",
+   "ini": 6163,
+   "fin": 6204,
+   "texto": "C/ Mosquera de Barnuevo - 8\n42002 - Soria"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6199,
+   "fin": 6204,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Soria"
+  }
+ ]
+}

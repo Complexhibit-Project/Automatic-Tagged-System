@@ -1,0 +1,3646 @@
+{
+ "id": "cat_023_a3_bandas_catalogo_espa_ol",
+ "nombre_original": "A3_BANDAS_Catalogo_espa_ol",
+ "longitud_texto": 42701,
+ "sha256_texto": "f690e2bf0adf80449b3e20c3bb987f12399ba81c2dbf0b808a7b7cf03a3ed2cc",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 237,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 27,
+   "texto": "GIRLS JUST WANT TO HAVE FUN"
+  },
+  {
+   "tipo": "institution",
+   "ini": 29,
+   "fin": 44,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "galería ASTARTÉ"
+  },
+  {
+   "tipo": "person",
+   "ini": 58,
+   "fin": 80,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Mónica Álvarez Careaga"
+  },
+  {
+   "tipo": "persName",
+   "ini": 58,
+   "fin": 80,
+   "texto": "Mónica Álvarez Careaga"
+  },
+  {
+   "tipo": "person",
+   "ini": 82,
+   "fin": 97,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Catarina Branco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 82,
+   "fin": 97,
+   "texto": "Catarina Branco"
+  },
+  {
+   "tipo": "person",
+   "ini": 100,
+   "fin": 115,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Álvaro González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 100,
+   "fin": 115,
+   "texto": "Álvaro González"
+  },
+  {
+   "tipo": "person",
+   "ini": 118,
+   "fin": 135,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Arancha Goyeneche"
+  },
+  {
+   "tipo": "persName",
+   "ini": 118,
+   "fin": 135,
+   "texto": "Arancha Goyeneche"
+  },
+  {
+   "tipo": "person",
+   "ini": 136,
+   "fin": 153,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Laura López Balza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 136,
+   "fin": 153,
+   "texto": "Laura López Balza"
+  },
+  {
+   "tipo": "person",
+   "ini": 156,
+   "fin": 166,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nuria Mora"
+  },
+  {
+   "tipo": "persName",
+   "ini": 156,
+   "fin": 166,
+   "texto": "Nuria Mora"
+  },
+  {
+   "tipo": "person",
+   "ini": 169,
+   "fin": 183,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Michael Swaney"
+  },
+  {
+   "tipo": "persName",
+   "ini": 169,
+   "fin": 183,
+   "texto": "Michael Swaney"
+  },
+  {
+   "tipo": "title",
+   "ini": 185,
+   "fin": 212,
+   "texto": "Girls Just Want To Have Fun"
+  },
+  {
+   "tipo": "date",
+   "ini": 214,
+   "fin": 237,
+   "rasgos": {
+    "from": "2014-04-05",
+    "to": "2014-05-31"
+   },
+   "texto": "05.04.2014 - 31.05.2014"
+  },
+  {
+   "tipo": "title",
+   "ini": 349,
+   "fin": 376,
+   "texto": "Girls Just Want To Have Fun"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 349,
+   "fin": 376,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 780,
+   "fin": 795,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Álvaro González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 780,
+   "fin": 795,
+   "texto": "Álvaro González"
+  },
+  {
+   "tipo": "person",
+   "ini": 797,
+   "fin": 812,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Catarina Branco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 797,
+   "fin": 812,
+   "texto": "Catarina Branco"
+  },
+  {
+   "tipo": "person",
+   "ini": 814,
+   "fin": 831,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Arancha Goyeneche"
+  },
+  {
+   "tipo": "persName",
+   "ini": 814,
+   "fin": 831,
+   "texto": "Arancha Goyeneche"
+  },
+  {
+   "tipo": "person",
+   "ini": 833,
+   "fin": 844,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mike Swaney"
+  },
+  {
+   "tipo": "persName",
+   "ini": 833,
+   "fin": 844,
+   "texto": "Mike Swaney"
+  },
+  {
+   "tipo": "person",
+   "ini": 846,
+   "fin": 863,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Laura López Balza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 846,
+   "fin": 863,
+   "texto": "Laura López Balza"
+  },
+  {
+   "tipo": "person",
+   "ini": 866,
+   "fin": 876,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nuria Mora"
+  },
+  {
+   "tipo": "persName",
+   "ini": 866,
+   "fin": 876,
+   "texto": "Nuria Mora"
+  },
+  {
+   "tipo": "person",
+   "ini": 1479,
+   "fin": 1520,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Álvaro González (Mérida, Venezuela, 1979)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1479,
+   "fin": 1494,
+   "texto": "Álvaro González"
+  },
+  {
+   "tipo": "birth",
+   "ini": 1496,
+   "fin": 1519
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1496,
+   "fin": 1513,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Mérida, Venezuela"
+  },
+  {
+   "tipo": "date",
+   "ini": 1515,
+   "fin": 1519,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "person",
+   "ini": 2103,
+   "fin": 2118,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Álvaro González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2103,
+   "fin": 2118,
+   "texto": "Álvaro González"
+  },
+  {
+   "tipo": "person",
+   "ini": 2205,
+   "fin": 2240,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Arancha Goyeneche (Santander, 1967)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2205,
+   "fin": 2222,
+   "texto": "Arancha Goyeneche"
+  },
+  {
+   "tipo": "birth",
+   "ini": 2224,
+   "fin": 2239
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2224,
+   "fin": 2233,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Santander"
+  },
+  {
+   "tipo": "date",
+   "ini": 2235,
+   "fin": 2239,
+   "rasgos": {
+    "when": "1967"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "person",
+   "ini": 2323,
+   "fin": 2332,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Goyeneche"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2323,
+   "fin": 2332,
+   "texto": "Goyeneche"
+  },
+  {
+   "tipo": "person",
+   "ini": 2796,
+   "fin": 2848,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Catarina Branco (San Miguel, Azores, Portugal, 1974)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2796,
+   "fin": 2811,
+   "texto": "Catarina Branco"
+  },
+  {
+   "tipo": "birth",
+   "ini": 2813,
+   "fin": 2847
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2813,
+   "fin": 2841,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "San Miguel, Azores, Portugal"
+  },
+  {
+   "tipo": "date",
+   "ini": 2843,
+   "fin": 2847,
+   "rasgos": {
+    "when": "1974"
+   },
+   "texto": "1974"
+  },
+  {
+   "tipo": "person",
+   "ini": 2903,
+   "fin": 2909,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Branco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2903,
+   "fin": 2909,
+   "texto": "Branco"
+  },
+  {
+   "tipo": "person",
+   "ini": 3312,
+   "fin": 3318,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Branco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3312,
+   "fin": 3318,
+   "texto": "Branco"
+  },
+  {
+   "tipo": "person",
+   "ini": 3746,
+   "fin": 3761,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Catarina Branco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3746,
+   "fin": 3761,
+   "texto": "Catarina Branco"
+  },
+  {
+   "tipo": "person",
+   "ini": 3781,
+   "fin": 3836,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mike Swaney (Kimberley, British Columbia, Canadá, 1978)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3781,
+   "fin": 3792,
+   "texto": "Mike Swaney"
+  },
+  {
+   "tipo": "birth",
+   "ini": 3794,
+   "fin": 3835
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3794,
+   "fin": 3829,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Kimberley, British Columbia, Canadá"
+  },
+  {
+   "tipo": "date",
+   "ini": 3831,
+   "fin": 3835,
+   "rasgos": {
+    "when": "1978"
+   },
+   "texto": "1978"
+  },
+  {
+   "tipo": "person",
+   "ini": 4060,
+   "fin": 4066,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Swaney"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4060,
+   "fin": 4066,
+   "texto": "Swaney"
+  },
+  {
+   "tipo": "person",
+   "ini": 4586,
+   "fin": 4638,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Laura López Balza (Arenas de Iguña, Cantabria, 1984)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4586,
+   "fin": 4603,
+   "texto": "Laura López Balza"
+  },
+  {
+   "tipo": "birth",
+   "ini": 4605,
+   "fin": 4637
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4605,
+   "fin": 4631,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Arenas de Iguña, Cantabria"
+  },
+  {
+   "tipo": "date",
+   "ini": 4633,
+   "fin": 4637,
+   "rasgos": {
+    "when": "1984"
+   },
+   "texto": "1984"
+  },
+  {
+   "tipo": "person",
+   "ini": 4862,
+   "fin": 4873,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Balza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4862,
+   "fin": 4873,
+   "texto": "López Balza"
+  },
+  {
+   "tipo": "person",
+   "ini": 5129,
+   "fin": 5154,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nuria Mora (Madrid, 1974)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5129,
+   "fin": 5139,
+   "texto": "Nuria Mora"
+  },
+  {
+   "tipo": "birth",
+   "ini": 5141,
+   "fin": 5153
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5141,
+   "fin": 5147,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "date",
+   "ini": 5149,
+   "fin": 5153,
+   "rasgos": {
+    "when": "1974"
+   },
+   "texto": "1974"
+  },
+  {
+   "tipo": "person",
+   "ini": 5168,
+   "fin": 5179,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Balza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5168,
+   "fin": 5179,
+   "texto": "López Balza"
+  },
+  {
+   "tipo": "person",
+   "ini": 5213,
+   "fin": 5217,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mora"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5213,
+   "fin": 5217,
+   "texto": "Mora"
+  },
+  {
+   "tipo": "person",
+   "ini": 5373,
+   "fin": 5377,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mora"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5373,
+   "fin": 5377,
+   "texto": "Mora"
+  },
+  {
+   "tipo": "person",
+   "ini": 5628,
+   "fin": 5638,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nuria Mora"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5628,
+   "fin": 5638,
+   "texto": "Nuria Mora"
+  },
+  {
+   "tipo": "person",
+   "ini": 5820,
+   "fin": 5842,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Mónica Álvarez Careaga"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5820,
+   "fin": 5842,
+   "texto": "Mónica Álvarez Careaga"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 5876,
+   "fin": 10948
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 5876,
+   "fin": 6948
+  },
+  {
+   "tipo": "person",
+   "ini": 5876,
+   "fin": 5891,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ÁLVARO GONZÁLEZ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5876,
+   "fin": 5891,
+   "texto": "ÁLVARO GONZÁLEZ"
+  },
+  {
+   "tipo": "text",
+   "ini": 5893,
+   "fin": 6516
+  },
+  {
+   "tipo": "person",
+   "ini": 5972,
+   "fin": 6013,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Álvaro González (Mérida, Venezuela, 1979)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5972,
+   "fin": 5987,
+   "texto": "Álvaro González"
+  },
+  {
+   "tipo": "birth",
+   "ini": 5989,
+   "fin": 6012
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5989,
+   "fin": 6006,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Mérida, Venezuela"
+  },
+  {
+   "tipo": "date",
+   "ini": 6008,
+   "fin": 6012,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6517,
+   "fin": 6628
+  },
+  {
+   "tipo": "img",
+   "ini": 6517,
+   "fin": 6522,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6524,
+   "fin": 6628,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Brócoli 2013 | 140 x 100 cm | Estampa serigráfica, esmalte acrílico, pintura acrílica y latex sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 6524,
+   "fin": 6536,
+   "texto": "Brócoli 2013"
+  },
+  {
+   "tipo": "date",
+   "ini": 6532,
+   "fin": 6536,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6539,
+   "fin": 6551,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "140 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6539,
+   "fin": 6542,
+   "texto": "140"
+  },
+  {
+   "tipo": "width",
+   "ini": 6545,
+   "fin": 6548,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6554,
+   "fin": 6628,
+   "rasgos": {
+    "type": "glaze, acrylic, latex"
+   },
+   "texto": "Estampa serigráfica, esmalte acrílico, pintura acrílica y latex sobre tela"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6630,
+   "fin": 6746
+  },
+  {
+   "tipo": "img",
+   "ini": 6630,
+   "fin": 6635,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 6637,
+   "fin": 6746,
+   "rasgos": {
+    "type": "engraving",
+    "size": "3"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 6637,
+   "fin": 6647,
+   "texto": "Totem 2012"
+  },
+  {
+   "tipo": "date",
+   "ini": 6643,
+   "fin": 6647,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6650,
+   "fin": 6661,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6650,
+   "fin": 6653,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 6656,
+   "fin": 6658,
+   "texto": "40"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6672,
+   "fin": 6746,
+   "rasgos": {
+    "type": "glaze, acrylic, latex"
+   },
+   "texto": "Estampa serigráfica, esmalte acrílico, pintura acrílica y latex sobre tela"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6748,
+   "fin": 6872
+  },
+  {
+   "tipo": "img",
+   "ini": 6748,
+   "fin": 6753,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 6755,
+   "fin": 6872,
+   "rasgos": {
+    "type": "engraving",
+    "size": "2"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 6755,
+   "fin": 6777,
+   "texto": "Cactus Lisboa 3/6 2013"
+  },
+  {
+   "tipo": "date",
+   "ini": 6773,
+   "fin": 6777,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6780,
+   "fin": 6794,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 50 cm c/u"
+  },
+  {
+   "tipo": "height",
+   "ini": 6780,
+   "fin": 6782,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 6785,
+   "fin": 6787,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6797,
+   "fin": 6872,
+   "rasgos": {
+    "type": "glaze, acrylic, latex"
+   },
+   "texto": "Estampa serigráfica, esmalte acrílico, pintura acrílica y latex sobre papel"
+  },
+  {
+   "tipo": "caption",
+   "ini": 6874,
+   "fin": 6948
+  },
+  {
+   "tipo": "img",
+   "ini": 6874,
+   "fin": 6879,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 6914,
+   "fin": 6929,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Catarina Branco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6914,
+   "fin": 6929,
+   "texto": "Catarina Branco"
+  },
+  {
+   "tipo": "person",
+   "ini": 6932,
+   "fin": 6947,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Álvaro González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6932,
+   "fin": 6947,
+   "texto": "Álvaro González"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 6951,
+   "fin": 7905
+  },
+  {
+   "tipo": "person",
+   "ini": 6951,
+   "fin": 6968,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ARANCHA GOYENECHE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6951,
+   "fin": 6968,
+   "texto": "ARANCHA GOYENECHE"
+  },
+  {
+   "tipo": "text",
+   "ini": 6970,
+   "fin": 7728
+  },
+  {
+   "tipo": "person",
+   "ini": 7057,
+   "fin": 7072,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Álvaro González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7057,
+   "fin": 7072,
+   "texto": "Álvaro González"
+  },
+  {
+   "tipo": "person",
+   "ini": 7159,
+   "fin": 7194,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Arancha Goyeneche\n(Santander, 1967)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7159,
+   "fin": 7176,
+   "texto": "Arancha Goyeneche"
+  },
+  {
+   "tipo": "birth",
+   "ini": 7178,
+   "fin": 7193
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7178,
+   "fin": 7187,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Santander"
+  },
+  {
+   "tipo": "date",
+   "ini": 7189,
+   "fin": 7193,
+   "rasgos": {
+    "when": "1967"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "person",
+   "ini": 7277,
+   "fin": 7286,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Goyeneche"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7277,
+   "fin": 7286,
+   "texto": "Goyeneche"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7730,
+   "fin": 7799
+  },
+  {
+   "tipo": "img",
+   "ini": 7730,
+   "fin": 7735,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7737,
+   "fin": 7799,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sticked painting 2012-14 | 90 x 180 cm | Vinilo adhesivo y PVC"
+  },
+  {
+   "tipo": "title",
+   "ini": 7737,
+   "fin": 7761,
+   "texto": "Sticked painting 2012-14"
+  },
+  {
+   "tipo": "date",
+   "ini": 7754,
+   "fin": 7761,
+   "rasgos": {
+    "from": "2012",
+    "to": "2014"
+   },
+   "texto": "2012-14"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7764,
+   "fin": 7775,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "90 x 180 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7764,
+   "fin": 7766,
+   "texto": "90"
+  },
+  {
+   "tipo": "width",
+   "ini": 7769,
+   "fin": 7772,
+   "texto": "180"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7778,
+   "fin": 7799,
+   "rasgos": {
+    "type": "vynil, PVC"
+   },
+   "texto": "Vinilo adhesivo y PVC"
+  },
+  {
+   "tipo": "caption",
+   "ini": 7801,
+   "fin": 7863
+  },
+  {
+   "tipo": "img",
+   "ini": 7801,
+   "fin": 7806,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 7835,
+   "fin": 7852,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Arancha Goyeneche"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7835,
+   "fin": 7852,
+   "texto": "Arancha Goyeneche"
+  },
+  {
+   "tipo": "caption",
+   "ini": 7865,
+   "fin": 7905
+  },
+  {
+   "tipo": "img",
+   "ini": 7865,
+   "fin": 7870,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 7871,
+   "fin": 7895,
+   "texto": "Sticked painting 2012-14"
+  },
+  {
+   "tipo": "date",
+   "ini": 7888,
+   "fin": 7895,
+   "rasgos": {
+    "from": "2012",
+    "to": "2014"
+   },
+   "texto": "2012-14"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 7908,
+   "fin": 8655
+  },
+  {
+   "tipo": "person",
+   "ini": 7908,
+   "fin": 7923,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "CATARINA BRANCO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7908,
+   "fin": 7923,
+   "texto": "CATARINA BRANCO"
+  },
+  {
+   "tipo": "text",
+   "ini": 7925,
+   "fin": 8467
+  },
+  {
+   "tipo": "person",
+   "ini": 7951,
+   "fin": 8003,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Catarina Branco (San Miguel, Azores,\nPortugal, 1974)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7951,
+   "fin": 7966,
+   "texto": "Catarina Branco"
+  },
+  {
+   "tipo": "birth",
+   "ini": 7968,
+   "fin": 8002
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7968,
+   "fin": 7996,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "San Miguel, Azores,\nPortugal"
+  },
+  {
+   "tipo": "date",
+   "ini": 7998,
+   "fin": 8002,
+   "rasgos": {
+    "when": "1974"
+   },
+   "texto": "1974"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8469,
+   "fin": 8542
+  },
+  {
+   "tipo": "img",
+   "ini": 8469,
+   "fin": 8474,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 8476,
+   "fin": 8542,
+   "rasgos": {
+    "type": "installation",
+    "size": "12"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 8476,
+   "fin": 8496,
+   "texto": "Capacho/Doormat 2013"
+  },
+  {
+   "tipo": "date",
+   "ini": 8492,
+   "fin": 8496,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8499,
+   "fin": 8513,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 50 cm c/u"
+  },
+  {
+   "tipo": "height",
+   "ini": 8499,
+   "fin": 8501,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 8504,
+   "fin": 8506,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8527,
+   "fin": 8542,
+   "rasgos": {
+    "type": "cutPaper"
+   },
+   "texto": "Papel recortado"
+  },
+  {
+   "tipo": "caption",
+   "ini": 8544,
+   "fin": 8617
+  },
+  {
+   "tipo": "img",
+   "ini": 8544,
+   "fin": 8549,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 8583,
+   "fin": 8598,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Catarina Branco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8583,
+   "fin": 8598,
+   "texto": "Catarina Branco"
+  },
+  {
+   "tipo": "person",
+   "ini": 8601,
+   "fin": 8616,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Álvaro González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8601,
+   "fin": 8616,
+   "texto": "Álvaro González"
+  },
+  {
+   "tipo": "caption",
+   "ini": 8619,
+   "fin": 8655
+  },
+  {
+   "tipo": "img",
+   "ini": 8619,
+   "fin": 8624,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 8625,
+   "fin": 8645,
+   "texto": "Capacho/Doormat 2013"
+  },
+  {
+   "tipo": "date",
+   "ini": 8641,
+   "fin": 8645,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 8658,
+   "fin": 9419
+  },
+  {
+   "tipo": "person",
+   "ini": 8658,
+   "fin": 8672,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MICHAEL SWANEY"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8658,
+   "fin": 8672,
+   "texto": "MICHAEL SWANEY"
+  },
+  {
+   "tipo": "text",
+   "ini": 8674,
+   "fin": 9151
+  },
+  {
+   "tipo": "person",
+   "ini": 8738,
+   "fin": 8753,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Catarina\nBranco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8738,
+   "fin": 8753,
+   "texto": "Catarina\nBranco"
+  },
+  {
+   "tipo": "person",
+   "ini": 8773,
+   "fin": 8828,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mike Swaney (Kimberley, British Columbia,\nCanadá, 1978)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8773,
+   "fin": 8784,
+   "texto": "Mike Swaney"
+  },
+  {
+   "tipo": "birth",
+   "ini": 8786,
+   "fin": 8827
+  },
+  {
+   "tipo": "placeName",
+   "ini": 8786,
+   "fin": 8821,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Kimberley, British Columbia,\nCanadá"
+  },
+  {
+   "tipo": "date",
+   "ini": 8823,
+   "fin": 8827,
+   "rasgos": {
+    "when": "1978"
+   },
+   "texto": "1978"
+  },
+  {
+   "tipo": "person",
+   "ini": 9052,
+   "fin": 9058,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Swaney"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9052,
+   "fin": 9058,
+   "texto": "Swaney"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9153,
+   "fin": 9256
+  },
+  {
+   "tipo": "img",
+   "ini": 9153,
+   "fin": 9158,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9160,
+   "fin": 9256,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Infinite browser painting # 2 2013 | 120 x 120 cm | Acrílico, gesso y bolígrafo sobre tela cruda"
+  },
+  {
+   "tipo": "title",
+   "ini": 9160,
+   "fin": 9194,
+   "texto": "Infinite browser painting # 2 2013"
+  },
+  {
+   "tipo": "date",
+   "ini": 9190,
+   "fin": 9194,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9197,
+   "fin": 9209,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "120 x 120 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 9197,
+   "fin": 9200,
+   "texto": "120"
+  },
+  {
+   "tipo": "width",
+   "ini": 9203,
+   "fin": 9206,
+   "texto": "120"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9212,
+   "fin": 9256,
+   "rasgos": {
+    "type": "acrylic, plaster, pen"
+   },
+   "texto": "Acrílico, gesso y bolígrafo sobre tela cruda"
+  },
+  {
+   "tipo": "caption",
+   "ini": 9258,
+   "fin": 9324
+  },
+  {
+   "tipo": "img",
+   "ini": 9258,
+   "fin": 9263,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 9296,
+   "fin": 9306,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nuria Mora"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9296,
+   "fin": 9306,
+   "texto": "Nuria Mora"
+  },
+  {
+   "tipo": "person",
+   "ini": 9309,
+   "fin": 9323,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Michael Swaney"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9309,
+   "fin": 9323,
+   "texto": "Michael Swaney"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9326,
+   "fin": 9419
+  },
+  {
+   "tipo": "img",
+   "ini": 9326,
+   "fin": 9331,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9333,
+   "fin": 9419,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "4 Likes, 4 dislikes 2013 | 150 x 150 cm | Acrílico, gesso y bolígrafo sobre tela cruda"
+  },
+  {
+   "tipo": "title",
+   "ini": 9333,
+   "fin": 9357,
+   "texto": "4 Likes, 4 dislikes 2013"
+  },
+  {
+   "tipo": "date",
+   "ini": 9353,
+   "fin": 9357,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9360,
+   "fin": 9372,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150 x 150 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 9360,
+   "fin": 9363,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 9366,
+   "fin": 9369,
+   "texto": "150"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9375,
+   "fin": 9419,
+   "rasgos": {
+    "type": "acrylic, plaster, pen"
+   },
+   "texto": "Acrílico, gesso y bolígrafo sobre tela cruda"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 9422,
+   "fin": 10130
+  },
+  {
+   "tipo": "person",
+   "ini": 9422,
+   "fin": 9439,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "LAURA LÓPEZ BALZA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9422,
+   "fin": 9439,
+   "texto": "LAURA LÓPEZ BALZA"
+  },
+  {
+   "tipo": "text",
+   "ini": 9441,
+   "fin": 9841
+  },
+  {
+   "tipo": "person",
+   "ini": 9631,
+   "fin": 9683,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Laura López Balza\n(Arenas de Iguña, Cantabria, 1984)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9631,
+   "fin": 9648,
+   "texto": "Laura López Balza"
+  },
+  {
+   "tipo": "birth",
+   "ini": 9650,
+   "fin": 9682
+  },
+  {
+   "tipo": "placeName",
+   "ini": 9650,
+   "fin": 9676,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Arenas de Iguña, Cantabria"
+  },
+  {
+   "tipo": "date",
+   "ini": 9678,
+   "fin": 9682,
+   "rasgos": {
+    "when": "1984"
+   },
+   "texto": "1984"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9843,
+   "fin": 9931
+  },
+  {
+   "tipo": "img",
+   "ini": 9843,
+   "fin": 9848,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 9849,
+   "fin": 9854,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 9855,
+   "fin": 9860,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 9861,
+   "fin": 9866,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 9868,
+   "fin": 9931,
+   "rasgos": {
+    "type": "installation",
+    "size": "4"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 9868,
+   "fin": 9884,
+   "texto": "Ser Natural 2014"
+  },
+  {
+   "tipo": "date",
+   "ini": 9880,
+   "fin": 9884,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9887,
+   "fin": 9901,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "21 x 15 cm c/u"
+  },
+  {
+   "tipo": "height",
+   "ini": 9887,
+   "fin": 9889,
+   "texto": "21"
+  },
+  {
+   "tipo": "width",
+   "ini": 9892,
+   "fin": 9894,
+   "texto": "15"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9904,
+   "fin": 9931,
+   "rasgos": {
+    "type": "feltTipPen"
+   },
+   "texto": "Rotulador sobre papel negro"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9933,
+   "fin": 10002
+  },
+  {
+   "tipo": "img",
+   "ini": 9933,
+   "fin": 9938,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9940,
+   "fin": 10002,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Islas de las salinas 2013 | 46 x 145 cm | Acrílico sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 9940,
+   "fin": 9965,
+   "texto": "Islas de las salinas 2013"
+  },
+  {
+   "tipo": "date",
+   "ini": 9961,
+   "fin": 9965,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9968,
+   "fin": 9979,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 145 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 9968,
+   "fin": 9970,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 9973,
+   "fin": 9976,
+   "texto": "145"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9982,
+   "fin": 10002,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10004,
+   "fin": 10073
+  },
+  {
+   "tipo": "img",
+   "ini": 10004,
+   "fin": 10009,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10011,
+   "fin": 10073,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Archipiélgao calizo 2014 | 48 x 44,5 cm | Acrílico sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 10011,
+   "fin": 10035,
+   "texto": "Archipiélgao calizo 2014"
+  },
+  {
+   "tipo": "date",
+   "ini": 10031,
+   "fin": 10035,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10038,
+   "fin": 10050,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "48 x 44,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 10038,
+   "fin": 10040,
+   "texto": "48"
+  },
+  {
+   "tipo": "width",
+   "ini": 10043,
+   "fin": 10047,
+   "texto": "44,5"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10053,
+   "fin": 10073,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre tabla"
+  },
+  {
+   "tipo": "caption",
+   "ini": 10075,
+   "fin": 10130
+  },
+  {
+   "tipo": "img",
+   "ini": 10075,
+   "fin": 10080,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 10112,
+   "fin": 10129,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Laura López Balza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10112,
+   "fin": 10129,
+   "texto": "Laura López Balza"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 10133,
+   "fin": 10948
+  },
+  {
+   "tipo": "person",
+   "ini": 10133,
+   "fin": 10143,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "NURIA MORA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10133,
+   "fin": 10143,
+   "texto": "NURIA MORA"
+  },
+  {
+   "tipo": "text",
+   "ini": 10145,
+   "fin": 10621
+  },
+  {
+   "tipo": "person",
+   "ini": 10149,
+   "fin": 10174,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nuria Mora (Madrid, 1974)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10149,
+   "fin": 10159,
+   "texto": "Nuria Mora"
+  },
+  {
+   "tipo": "birth",
+   "ini": 10161,
+   "fin": 10173
+  },
+  {
+   "tipo": "placeName",
+   "ini": 10161,
+   "fin": 10167,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "date",
+   "ini": 10169,
+   "fin": 10173,
+   "rasgos": {
+    "when": "1974"
+   },
+   "texto": "1974"
+  },
+  {
+   "tipo": "person",
+   "ini": 10188,
+   "fin": 10199,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Balza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10188,
+   "fin": 10199,
+   "texto": "López Balza"
+  },
+  {
+   "tipo": "person",
+   "ini": 10233,
+   "fin": 10237,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mora"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10233,
+   "fin": 10237,
+   "texto": "Mora"
+  },
+  {
+   "tipo": "person",
+   "ini": 10393,
+   "fin": 10397,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mora"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10393,
+   "fin": 10397,
+   "texto": "Mora"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10623,
+   "fin": 10689
+  },
+  {
+   "tipo": "img",
+   "ini": 10623,
+   "fin": 10628,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10630,
+   "fin": 10689,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Capas 2013 | 146 x 150 cm | Acrílico y acuarela sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 10630,
+   "fin": 10640,
+   "texto": "Capas 2013"
+  },
+  {
+   "tipo": "date",
+   "ini": 10636,
+   "fin": 10640,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10643,
+   "fin": 10655,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "146 x 150 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 10643,
+   "fin": 10646,
+   "texto": "146"
+  },
+  {
+   "tipo": "width",
+   "ini": 10649,
+   "fin": 10652,
+   "texto": "150"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10658,
+   "fin": 10689,
+   "rasgos": {
+    "type": "acrylic, watercolour"
+   },
+   "texto": "Acrílico y acuarela sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10691,
+   "fin": 10756
+  },
+  {
+   "tipo": "img",
+   "ini": 10691,
+   "fin": 10696,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10698,
+   "fin": 10756,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Celosía 2014 | 60 x 114,5 cm | Madera y lápices de colores"
+  },
+  {
+   "tipo": "title",
+   "ini": 10698,
+   "fin": 10710,
+   "texto": "Celosía 2014"
+  },
+  {
+   "tipo": "date",
+   "ini": 10706,
+   "fin": 10710,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10713,
+   "fin": 10726,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 114,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 10713,
+   "fin": 10715,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 10718,
+   "fin": 10723,
+   "texto": "114,5"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10729,
+   "fin": 10756,
+   "rasgos": {
+    "type": "wood, colorPencil"
+   },
+   "texto": "Madera y lápices de colores"
+  },
+  {
+   "tipo": "caption",
+   "ini": 10758,
+   "fin": 10786
+  },
+  {
+   "tipo": "img",
+   "ini": 10758,
+   "fin": 10763,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 10764,
+   "fin": 10776,
+   "texto": "Celosía 2014"
+  },
+  {
+   "tipo": "date",
+   "ini": 10772,
+   "fin": 10776,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10788,
+   "fin": 10902
+  },
+  {
+   "tipo": "img",
+   "ini": 10788,
+   "fin": 10793,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10795,
+   "fin": 10902,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "De tal palo tal astilla 2013 | 74 x 53 x 24 cm 34 x 46 x 33 cm 37 x 25 x 27 cm | Técnica mixta sobre madera"
+  },
+  {
+   "tipo": "title",
+   "ini": 10795,
+   "fin": 10823,
+   "texto": "De tal palo tal astilla 2013"
+  },
+  {
+   "tipo": "date",
+   "ini": 10819,
+   "fin": 10823,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10826,
+   "fin": 10841,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "74 x 53 x 24 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 10826,
+   "fin": 10828,
+   "texto": "74"
+  },
+  {
+   "tipo": "width",
+   "ini": 10831,
+   "fin": 10833,
+   "texto": "53"
+  },
+  {
+   "tipo": "depth",
+   "ini": 10836,
+   "fin": 10838,
+   "texto": "24"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10842,
+   "fin": 10857,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "34 x 46 x 33 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 10842,
+   "fin": 10844,
+   "texto": "34"
+  },
+  {
+   "tipo": "width",
+   "ini": 10847,
+   "fin": 10849,
+   "texto": "46"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10858,
+   "fin": 10873,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "37 x 25 x 27 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 10858,
+   "fin": 10860,
+   "texto": "37"
+  },
+  {
+   "tipo": "width",
+   "ini": 10863,
+   "fin": 10865,
+   "texto": "25"
+  },
+  {
+   "tipo": "depth",
+   "ini": 10868,
+   "fin": 10870,
+   "texto": "27"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10876,
+   "fin": 10902,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre madera"
+  },
+  {
+   "tipo": "caption",
+   "ini": 10904,
+   "fin": 10948
+  },
+  {
+   "tipo": "img",
+   "ini": 10904,
+   "fin": 10909,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 10910,
+   "fin": 10938,
+   "texto": "De tal palo tal astilla 2013"
+  },
+  {
+   "tipo": "date",
+   "ini": 10934,
+   "fin": 10938,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "person",
+   "ini": 10973,
+   "fin": 11024,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "MÓNICA ÁLVAREZ CAREAGA\nTorrelavega, Cantabria, 1964"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10973,
+   "fin": 10995,
+   "texto": "MÓNICA ÁLVAREZ CAREAGA"
+  },
+  {
+   "tipo": "birth",
+   "ini": 10996,
+   "fin": 11024
+  },
+  {
+   "tipo": "placeName",
+   "ini": 10996,
+   "fin": 11018,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Torrelavega, Cantabria"
+  },
+  {
+   "tipo": "date",
+   "ini": 11020,
+   "fin": 11024,
+   "rasgos": {
+    "when": "1964"
+   },
+   "texto": "1964"
+  },
+  {
+   "tipo": "person",
+   "ini": 12066,
+   "fin": 12138,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ÁLVARO GONZÁLEZ\nMérida, Venezuela 1979\n\nVive y trabaja en Madrid, España"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12066,
+   "fin": 12081,
+   "texto": "ÁLVARO GONZÁLEZ"
+  },
+  {
+   "tipo": "birth",
+   "ini": 12082,
+   "fin": 12104
+  },
+  {
+   "tipo": "placeName",
+   "ini": 12082,
+   "fin": 12099,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Mérida, Venezuela"
+  },
+  {
+   "tipo": "date",
+   "ini": 12100,
+   "fin": 12104,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 12124,
+   "fin": 12138,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid, España"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 13259,
+   "fin": 13378,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 13259,
+   "fin": 13263,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "title",
+   "ini": 13276,
+   "fin": 13303,
+   "texto": "Girls Just Want to Have Fun"
+  },
+  {
+   "tipo": "person",
+   "ini": 13330,
+   "fin": 13352,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Mónica Álvarez\nCareaga"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13330,
+   "fin": 13352,
+   "texto": "Mónica Álvarez\nCareaga"
+  },
+  {
+   "tipo": "institution",
+   "ini": 13354,
+   "fin": 13369,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería Astarté"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 13371,
+   "fin": 13377,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "person",
+   "ini": 15683,
+   "fin": 15715,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ARANCHA GOYENECHE\nSantander 1967"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15683,
+   "fin": 15700,
+   "texto": "ARANCHA GOYENECHE"
+  },
+  {
+   "tipo": "birth",
+   "ini": 15701,
+   "fin": 15715
+  },
+  {
+   "tipo": "placeName",
+   "ini": 15701,
+   "fin": 15710,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Santander"
+  },
+  {
+   "tipo": "date",
+   "ini": 15711,
+   "fin": 15715,
+   "rasgos": {
+    "when": "1967"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "person",
+   "ini": 18834,
+   "fin": 18927,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "CATARINA BRANCO\n\nSan Miguel, Azores, Portugal, 1974\nVive y trabaja en Ponta Delgada, Portugal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18834,
+   "fin": 18849,
+   "texto": "CATARINA BRANCO"
+  },
+  {
+   "tipo": "birth",
+   "ini": 18851,
+   "fin": 18885
+  },
+  {
+   "tipo": "placeName",
+   "ini": 18851,
+   "fin": 18879,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "San Miguel, Azores, Portugal"
+  },
+  {
+   "tipo": "date",
+   "ini": 18881,
+   "fin": 18885,
+   "rasgos": {
+    "when": "1974"
+   },
+   "texto": "1974"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 18904,
+   "fin": 18927,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Ponta Delgada, Portugal"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 19787,
+   "fin": 19906,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 19787,
+   "fin": 19791,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "title",
+   "ini": 19804,
+   "fin": 19831,
+   "texto": "Girls Just Want to Have Fun"
+  },
+  {
+   "tipo": "person",
+   "ini": 19858,
+   "fin": 19880,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Mónica Álvarez\nCareaga"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19858,
+   "fin": 19880,
+   "texto": "Mónica Álvarez\nCareaga"
+  },
+  {
+   "tipo": "institution",
+   "ini": 19882,
+   "fin": 19897,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería Astarté"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 19899,
+   "fin": 19905,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "person",
+   "ini": 22240,
+   "fin": 22317,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MICHAEL SWANEY\n\nKimberley, British Columbia 1978\nVive y trabaja en Barcelona."
+  },
+  {
+   "tipo": "persName",
+   "ini": 22240,
+   "fin": 22254,
+   "texto": "MICHAEL SWANEY"
+  },
+  {
+   "tipo": "birth",
+   "ini": 22256,
+   "fin": 22288
+  },
+  {
+   "tipo": "placeName",
+   "ini": 22256,
+   "fin": 22283,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Kimberley, British Columbia"
+  },
+  {
+   "tipo": "date",
+   "ini": 22284,
+   "fin": 22288,
+   "rasgos": {
+    "when": "1978"
+   },
+   "texto": "1978"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 22307,
+   "fin": 22316,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Barcelona"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 23892,
+   "fin": 24011,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 23892,
+   "fin": 23896,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "title",
+   "ini": 23909,
+   "fin": 23936,
+   "texto": "Girls Just Want to Have Fun"
+  },
+  {
+   "tipo": "person",
+   "ini": 23963,
+   "fin": 23985,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Mónica Álvarez\nCareaga"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23963,
+   "fin": 23985,
+   "texto": "Mónica Álvarez\nCareaga"
+  },
+  {
+   "tipo": "institution",
+   "ini": 23987,
+   "fin": 24002,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería Astarté"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 24004,
+   "fin": 24010,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "person",
+   "ini": 28618,
+   "fin": 28668,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "LAURA LÓPEZ BALZA\n\nArenas de Iguña, Cantabria 1984"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28618,
+   "fin": 28635,
+   "texto": "LAURA LÓPEZ BALZA"
+  },
+  {
+   "tipo": "birth",
+   "ini": 28637,
+   "fin": 28668
+  },
+  {
+   "tipo": "placeName",
+   "ini": 28637,
+   "fin": 28663,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Arenas de Iguña, Cantabria"
+  },
+  {
+   "tipo": "date",
+   "ini": 28664,
+   "fin": 28668,
+   "rasgos": {
+    "when": "1984"
+   },
+   "texto": "1984"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 29502,
+   "fin": 29621,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 29502,
+   "fin": 29506,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "title",
+   "ini": 29519,
+   "fin": 29546,
+   "texto": "Girls Just Want to Have Fun"
+  },
+  {
+   "tipo": "person",
+   "ini": 29573,
+   "fin": 29595,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Mónica Álvarez\nCareaga"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29573,
+   "fin": 29595,
+   "texto": "Mónica Álvarez\nCareaga"
+  },
+  {
+   "tipo": "institution",
+   "ini": 29597,
+   "fin": 29612,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería Astarté"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 29614,
+   "fin": 29620,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "person",
+   "ini": 31294,
+   "fin": 31316,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "NURIA MORA\nMadrid 1974"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31294,
+   "fin": 31304,
+   "texto": "NURIA MORA"
+  },
+  {
+   "tipo": "birth",
+   "ini": 31305,
+   "fin": 31316
+  },
+  {
+   "tipo": "placeName",
+   "ini": 31305,
+   "fin": 31311,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "date",
+   "ini": 31312,
+   "fin": 31316,
+   "rasgos": {
+    "when": "1974"
+   },
+   "texto": "1974"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 32816,
+   "fin": 32935,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 32816,
+   "fin": 32820,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "title",
+   "ini": 32833,
+   "fin": 32860,
+   "texto": "Girls Just Want to Have Fun"
+  },
+  {
+   "tipo": "person",
+   "ini": 32887,
+   "fin": 32909,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Mónica Álvarez\nCareaga"
+  },
+  {
+   "tipo": "persName",
+   "ini": 32887,
+   "fin": 32909,
+   "texto": "Mónica Álvarez\nCareaga"
+  },
+  {
+   "tipo": "institution",
+   "ini": 32911,
+   "fin": 32926,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería Astarté"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 32928,
+   "fin": 32934,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 37051,
+   "fin": 37102,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 37051,
+   "fin": 37078,
+   "texto": "Girls Just Want To Have Fun"
+  },
+  {
+   "tipo": "date",
+   "ini": 37079,
+   "fin": 37102,
+   "rasgos": {
+    "from": "2014-04-05",
+    "to": "2014-05-31"
+   },
+   "texto": "05.04.2014 - 31.05.2014"
+  },
+  {
+   "tipo": "title",
+   "ini": 37214,
+   "fin": 37241,
+   "texto": "Girls Just Want To Have Fun"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 37214,
+   "fin": 37241,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 37637,
+   "fin": 37652,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Álvaro González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37637,
+   "fin": 37652,
+   "texto": "Álvaro González"
+  },
+  {
+   "tipo": "person",
+   "ini": 37654,
+   "fin": 37669,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Catarina Branco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37654,
+   "fin": 37669,
+   "texto": "Catarina Branco"
+  },
+  {
+   "tipo": "person",
+   "ini": 37671,
+   "fin": 37688,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Arancha Goyeneche"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37671,
+   "fin": 37688,
+   "texto": "Arancha Goyeneche"
+  },
+  {
+   "tipo": "person",
+   "ini": 37690,
+   "fin": 37701,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mike Swaney"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37690,
+   "fin": 37701,
+   "texto": "Mike Swaney"
+  },
+  {
+   "tipo": "person",
+   "ini": 37703,
+   "fin": 37720,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Laura López Balza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37703,
+   "fin": 37720,
+   "texto": "Laura López Balza"
+  },
+  {
+   "tipo": "person",
+   "ini": 37723,
+   "fin": 37733,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nuria Mora"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37723,
+   "fin": 37733,
+   "texto": "Nuria Mora"
+  },
+  {
+   "tipo": "person",
+   "ini": 38245,
+   "fin": 38286,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Álvaro González (Mérida, Venezuela, 1979)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38245,
+   "fin": 38261,
+   "texto": "Álvaro González "
+  },
+  {
+   "tipo": "birth",
+   "ini": 38262,
+   "fin": 38285
+  },
+  {
+   "tipo": "placeName",
+   "ini": 38262,
+   "fin": 38279,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Mérida, Venezuela"
+  },
+  {
+   "tipo": "date",
+   "ini": 38281,
+   "fin": 38285,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "person",
+   "ini": 38832,
+   "fin": 38847,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Álvaro González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38832,
+   "fin": 38847,
+   "texto": "Álvaro González"
+  },
+  {
+   "tipo": "person",
+   "ini": 38935,
+   "fin": 38970,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Arancha Goyeneche (Santander, 1967)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38935,
+   "fin": 38952,
+   "texto": "Arancha Goyeneche"
+  },
+  {
+   "tipo": "birth",
+   "ini": 38954,
+   "fin": 38969
+  },
+  {
+   "tipo": "placeName",
+   "ini": 38954,
+   "fin": 38963,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Santander"
+  },
+  {
+   "tipo": "date",
+   "ini": 38965,
+   "fin": 38969,
+   "rasgos": {
+    "when": "1967"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "person",
+   "ini": 39025,
+   "fin": 39034,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Goyeneche"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39025,
+   "fin": 39034,
+   "texto": "Goyeneche"
+  },
+  {
+   "tipo": "person",
+   "ini": 39436,
+   "fin": 39488,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Catarina Branco (San Miguel, Azores, Portugal, 1974)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39436,
+   "fin": 39451,
+   "texto": "Catarina Branco"
+  },
+  {
+   "tipo": "birth",
+   "ini": 39453,
+   "fin": 39487
+  },
+  {
+   "tipo": "placeName",
+   "ini": 39453,
+   "fin": 39481,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "San Miguel, Azores, Portugal"
+  },
+  {
+   "tipo": "date",
+   "ini": 39483,
+   "fin": 39487,
+   "rasgos": {
+    "when": "1974"
+   },
+   "texto": "1974"
+  },
+  {
+   "tipo": "person",
+   "ini": 39549,
+   "fin": 39555,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Branco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39549,
+   "fin": 39555,
+   "texto": "Branco"
+  },
+  {
+   "tipo": "person",
+   "ini": 39907,
+   "fin": 39913,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Branco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39907,
+   "fin": 39913,
+   "texto": "Branco"
+  },
+  {
+   "tipo": "person",
+   "ini": 40305,
+   "fin": 40311,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Branco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40305,
+   "fin": 40311,
+   "texto": "Branco"
+  },
+  {
+   "tipo": "person",
+   "ini": 40343,
+   "fin": 40398,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mike Swaney (Kimberley, British Columbia, Canada, 1978)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40343,
+   "fin": 40354,
+   "texto": "Mike Swaney"
+  },
+  {
+   "tipo": "birth",
+   "ini": 40356,
+   "fin": 40397
+  },
+  {
+   "tipo": "person",
+   "ini": 40602,
+   "fin": 40608,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Swaney"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40602,
+   "fin": 40608,
+   "texto": "Swaney"
+  },
+  {
+   "tipo": "person",
+   "ini": 41101,
+   "fin": 41153,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Laura López Balza (Arenas de Iguña, Cantabria, 1984)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 41101,
+   "fin": 41118,
+   "texto": "Laura López Balza"
+  },
+  {
+   "tipo": "birth",
+   "ini": 41120,
+   "fin": 41152
+  },
+  {
+   "tipo": "date",
+   "ini": 41148,
+   "fin": 41152,
+   "rasgos": {
+    "when": "1984"
+   },
+   "texto": "1984"
+  },
+  {
+   "tipo": "person",
+   "ini": 41354,
+   "fin": 41365,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Balza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 41354,
+   "fin": 41365,
+   "texto": "López Balza"
+  },
+  {
+   "tipo": "person",
+   "ini": 41610,
+   "fin": 41635,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nuria Mora (Madrid, 1974)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 41610,
+   "fin": 41620,
+   "texto": "Nuria Mora"
+  },
+  {
+   "tipo": "birth",
+   "ini": 41622,
+   "fin": 41634
+  },
+  {
+   "tipo": "placeName",
+   "ini": 41622,
+   "fin": 41628,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "date",
+   "ini": 41630,
+   "fin": 41634,
+   "rasgos": {
+    "when": "1974"
+   },
+   "texto": "1974"
+  },
+  {
+   "tipo": "person",
+   "ini": 41648,
+   "fin": 41659,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Balza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 41648,
+   "fin": 41659,
+   "texto": "López Balza"
+  },
+  {
+   "tipo": "person",
+   "ini": 41682,
+   "fin": 41686,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mora"
+  },
+  {
+   "tipo": "persName",
+   "ini": 41682,
+   "fin": 41686,
+   "texto": "Mora"
+  },
+  {
+   "tipo": "person",
+   "ini": 41838,
+   "fin": 41842,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mora"
+  },
+  {
+   "tipo": "persName",
+   "ini": 41838,
+   "fin": 41842,
+   "texto": "Mora"
+  },
+  {
+   "tipo": "person",
+   "ini": 42071,
+   "fin": 42081,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nuria Mora"
+  },
+  {
+   "tipo": "persName",
+   "ini": 42071,
+   "fin": 42081,
+   "texto": "Nuria Mora"
+  },
+  {
+   "tipo": "person",
+   "ini": 42266,
+   "fin": 42288,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Mónica Álvarez Careaga"
+  },
+  {
+   "tipo": "persName",
+   "ini": 42266,
+   "fin": 42288,
+   "texto": "Mónica Álvarez Careaga"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 42323,
+   "fin": 42701,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 42341,
+   "fin": 42357,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería Astarté\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 42373,
+   "fin": 42395,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Mónica Álvarez Careaga"
+  },
+  {
+   "tipo": "persName",
+   "ini": 42373,
+   "fin": 42395,
+   "texto": "Mónica Álvarez Careaga"
+  },
+  {
+   "tipo": "person",
+   "ini": 42416,
+   "fin": 42429,
+   "rasgos": {
+    "role": "translator"
+   },
+   "texto": "Irene Navajas"
+  },
+  {
+   "tipo": "person",
+   "ini": 42447,
+   "fin": 42465,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "Marta Romo Donaire"
+  },
+  {
+   "tipo": "persName",
+   "ini": 42447,
+   "fin": 42465,
+   "texto": "Marta Romo Donaire"
+  },
+  {
+   "tipo": "person",
+   "ini": 42514,
+   "fin": 42527,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Lola Guerrera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 42514,
+   "fin": 42527,
+   "texto": "Lola Guerrera"
+  },
+  {
+   "tipo": "institution",
+   "ini": 42529,
+   "fin": 42569,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "galería astarté ©\nwww.galeriaastarte.com"
+  },
+  {
+   "tipo": "institution",
+   "ini": 42581,
+   "fin": 42701,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "galería ASTARTÉ\nC /Monte Esquinza 8 28010 Madrid SPAIN (+34) 91 319 42 90\ninfo@galeriaastarte.com www.galeriaastarte.com"
+  },
+  {
+   "tipo": "address",
+   "ini": 42597,
+   "fin": 42622,
+   "texto": "C /Monte Esquinza 8 28010"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 42623,
+   "fin": 42635,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid SPAIN"
+  }
+ ]
+}

@@ -1,0 +1,3182 @@
+{
+ "id": "cat_080_centro_cultural_catalogo",
+ "nombre_original": "centro-cultural-catalogo",
+ "longitud_texto": 7655,
+ "sha256_texto": "a60c383548c971b3290fde8ddac00bda9c972a6609e19e8fa68c106722cd039d",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 101,
+   "texto": "EMERGEncia. Venta solidaria.\nA favor de los damnificados por los desastres naturales en nuestro país."
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 28,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 103,
+   "fin": 129,
+   "texto": "EMERGEncia\nVenta solidaria"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 103,
+   "fin": 129,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 130,
+   "fin": 140,
+   "texto": "EMERGEncia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 180,
+   "fin": 184,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Perú"
+  },
+  {
+   "tipo": "title",
+   "ini": 225,
+   "fin": 235,
+   "texto": "EMERGEncia"
+  },
+  {
+   "tipo": "title",
+   "ini": 361,
+   "fin": 371,
+   "texto": "EMERGEncia"
+  },
+  {
+   "tipo": "person",
+   "ini": 901,
+   "fin": 929,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Diana Castellanos Del Portal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 901,
+   "fin": 929,
+   "texto": "Diana Castellanos Del Portal"
+  },
+  {
+   "tipo": "institution",
+   "ini": 943,
+   "fin": 989,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Centro Cultural de la Universidad del Pacífico"
+  },
+  {
+   "tipo": "title",
+   "ini": 1013,
+   "fin": 1040,
+   "texto": "EMERGEncia, venta\nsolidaria"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1013,
+   "fin": 1040,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 1386,
+   "fin": 1414,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Diana Castellanos Del Portal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1386,
+   "fin": 1414,
+   "texto": "Diana Castellanos Del Portal"
+  },
+  {
+   "tipo": "person",
+   "ini": 1512,
+   "fin": 1527,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alberto Herrera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1512,
+   "fin": 1527,
+   "texto": "Alberto Herrera"
+  },
+  {
+   "tipo": "person",
+   "ini": 1529,
+   "fin": 1546,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ana María Guevara"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1529,
+   "fin": 1546,
+   "texto": "Ana María Guevara"
+  },
+  {
+   "tipo": "person",
+   "ini": 1548,
+   "fin": 1563,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Aníbal Castillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1548,
+   "fin": 1563,
+   "texto": "Aníbal Castillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 1565,
+   "fin": 1580,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Vásquez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1565,
+   "fin": 1580,
+   "texto": "Antonio Vásquez"
+  },
+  {
+   "tipo": "person",
+   "ini": 1582,
+   "fin": 1605,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Augusto\nSalazar Soriano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1582,
+   "fin": 1605,
+   "texto": "Augusto\nSalazar Soriano"
+  },
+  {
+   "tipo": "person",
+   "ini": 1607,
+   "fin": 1617,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bella Lane"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1607,
+   "fin": 1617,
+   "texto": "Bella Lane"
+  },
+  {
+   "tipo": "person",
+   "ini": 1619,
+   "fin": 1637,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Benito Vilcahuamán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1619,
+   "fin": 1637,
+   "texto": "Benito Vilcahuamán"
+  },
+  {
+   "tipo": "person",
+   "ini": 1639,
+   "fin": 1652,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carlos Cuadra"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1639,
+   "fin": 1652,
+   "texto": "Carlos Cuadra"
+  },
+  {
+   "tipo": "person",
+   "ini": 1654,
+   "fin": 1661,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Cherman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1654,
+   "fin": 1661,
+   "texto": "Cherman"
+  },
+  {
+   "tipo": "person",
+   "ini": 1663,
+   "fin": 1678,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Francisco\nGirón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1663,
+   "fin": 1678,
+   "texto": "Francisco\nGirón"
+  },
+  {
+   "tipo": "person",
+   "ini": 1680,
+   "fin": 1693,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fito Espinosa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1680,
+   "fin": 1693,
+   "texto": "Fito Espinosa"
+  },
+  {
+   "tipo": "person",
+   "ini": 1695,
+   "fin": 1721,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Francisco Manuel Pantigoso"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1695,
+   "fin": 1721,
+   "texto": "Francisco Manuel Pantigoso"
+  },
+  {
+   "tipo": "person",
+   "ini": 1723,
+   "fin": 1734,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gam Klutier"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1723,
+   "fin": 1734,
+   "texto": "Gam Klutier"
+  },
+  {
+   "tipo": "person",
+   "ini": 1736,
+   "fin": 1753,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Grimanesa Neuhaus"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1736,
+   "fin": 1753,
+   "texto": "Grimanesa Neuhaus"
+  },
+  {
+   "tipo": "person",
+   "ini": 1755,
+   "fin": 1773,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Iván\nCiro Palomino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1755,
+   "fin": 1773,
+   "texto": "Iván\nCiro Palomino"
+  },
+  {
+   "tipo": "person",
+   "ini": 1775,
+   "fin": 1787,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Rubio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1775,
+   "fin": 1787,
+   "texto": "Javier Rubio"
+  },
+  {
+   "tipo": "person",
+   "ini": 1789,
+   "fin": 1800,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joan Alfaro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1789,
+   "fin": 1800,
+   "texto": "Joan Alfaro"
+  },
+  {
+   "tipo": "person",
+   "ini": 1802,
+   "fin": 1812,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Gómez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1802,
+   "fin": 1812,
+   "texto": "José Gómez"
+  },
+  {
+   "tipo": "person",
+   "ini": 1814,
+   "fin": 1833,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Bautista López"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1814,
+   "fin": 1833,
+   "texto": "Juan Bautista López"
+  },
+  {
+   "tipo": "person",
+   "ini": 1835,
+   "fin": 1855,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Cabrera\nCrispín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1835,
+   "fin": 1855,
+   "texto": "Juan Cabrera\nCrispín"
+  },
+  {
+   "tipo": "person",
+   "ini": 1857,
+   "fin": 1869,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Karen Macher"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1857,
+   "fin": 1869,
+   "texto": "Karen Macher"
+  },
+  {
+   "tipo": "person",
+   "ini": 1871,
+   "fin": 1882,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luis Agusti"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1871,
+   "fin": 1882,
+   "texto": "Luis Agusti"
+  },
+  {
+   "tipo": "person",
+   "ini": 1884,
+   "fin": 1896,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Marcelo Wong"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1884,
+   "fin": 1896,
+   "texto": "Marcelo Wong"
+  },
+  {
+   "tipo": "person",
+   "ini": 1898,
+   "fin": 1914,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mariano Guerrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1898,
+   "fin": 1914,
+   "texto": "Mariano Guerrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 1916,
+   "fin": 1928,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mónica Pasco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1916,
+   "fin": 1928,
+   "texto": "Mónica Pasco"
+  },
+  {
+   "tipo": "person",
+   "ini": 1930,
+   "fin": 1946,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Ángel Paz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1930,
+   "fin": 1946,
+   "texto": "Miguel Ángel Paz"
+  },
+  {
+   "tipo": "person",
+   "ini": 1948,
+   "fin": 1968,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pancho Guerra-García"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1948,
+   "fin": 1968,
+   "texto": "Pancho Guerra-García"
+  },
+  {
+   "tipo": "person",
+   "ini": 1970,
+   "fin": 1987,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Patricia Orbegoso"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1970,
+   "fin": 1987,
+   "texto": "Patricia Orbegoso"
+  },
+  {
+   "tipo": "person",
+   "ini": 1989,
+   "fin": 2002,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Patricia Soto"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1989,
+   "fin": 2002,
+   "texto": "Patricia Soto"
+  },
+  {
+   "tipo": "person",
+   "ini": 2004,
+   "fin": 2017,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Piero Quijano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2004,
+   "fin": 2017,
+   "texto": "Piero Quijano"
+  },
+  {
+   "tipo": "person",
+   "ini": 2019,
+   "fin": 2032,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rafael Méndez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2019,
+   "fin": 2032,
+   "texto": "Rafael Méndez"
+  },
+  {
+   "tipo": "person",
+   "ini": 2034,
+   "fin": 2046,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ramiro Llona"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2034,
+   "fin": 2046,
+   "texto": "Ramiro Llona"
+  },
+  {
+   "tipo": "person",
+   "ini": 2048,
+   "fin": 2061,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rodolfo Llaja"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2048,
+   "fin": 2061,
+   "texto": "Rodolfo Llaja"
+  },
+  {
+   "tipo": "person",
+   "ini": 2063,
+   "fin": 2079,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rosamar Corcuera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2063,
+   "fin": 2079,
+   "texto": "Rosamar Corcuera"
+  },
+  {
+   "tipo": "person",
+   "ini": 2081,
+   "fin": 2096,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Seferino Quisca"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2081,
+   "fin": 2096,
+   "texto": "Seferino Quisca"
+  },
+  {
+   "tipo": "person",
+   "ini": 2098,
+   "fin": 2108,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sheila\nEme"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2098,
+   "fin": 2108,
+   "texto": "Sheila\nEme"
+  },
+  {
+   "tipo": "person",
+   "ini": 2110,
+   "fin": 2124,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Teodoro Chávez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2110,
+   "fin": 2124,
+   "texto": "Teodoro Chávez"
+  },
+  {
+   "tipo": "person",
+   "ini": 2126,
+   "fin": 2141,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Teófilo Camasca"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2126,
+   "fin": 2141,
+   "texto": "Teófilo Camasca"
+  },
+  {
+   "tipo": "person",
+   "ini": 2143,
+   "fin": 2158,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Teresa Carvallo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2143,
+   "fin": 2158,
+   "texto": "Teresa Carvallo"
+  },
+  {
+   "tipo": "person",
+   "ini": 2160,
+   "fin": 2182,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Toto Fernández Ampuero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2160,
+   "fin": 2182,
+   "texto": "Toto Fernández Ampuero"
+  },
+  {
+   "tipo": "person",
+   "ini": 2184,
+   "fin": 2197,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Víctor\nDelfín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2184,
+   "fin": 2197,
+   "texto": "Víctor\nDelfín"
+  },
+  {
+   "tipo": "person",
+   "ini": 2199,
+   "fin": 2227,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Walter Antonio Anicama Gómez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2199,
+   "fin": 2227,
+   "texto": "Walter Antonio Anicama Gómez"
+  },
+  {
+   "tipo": "person",
+   "ini": 2230,
+   "fin": 2251,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Walter Anicama Zamora"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2230,
+   "fin": 2251,
+   "texto": "Walter Anicama Zamora"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 2855,
+   "fin": 3126,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 2949,
+   "fin": 3028,
+   "rasgos": {
+    "type": "univerisity",
+    "role": "organiser, host"
+   },
+   "texto": "Edificio H de la Universidad del Pacífico (Jr. Sánchez Cerro 2121, Jesús María)"
+  },
+  {
+   "tipo": "venue",
+   "ini": 2949,
+   "fin": 2959,
+   "texto": "Edificio H"
+  },
+  {
+   "tipo": "address",
+   "ini": 2992,
+   "fin": 3027,
+   "texto": "Jr. Sánchez Cerro 2121, Jesús María"
+  },
+  {
+   "tipo": "date",
+   "ini": 3042,
+   "fin": 3100,
+   "rasgos": {
+    "from": "2017-04-10",
+    "to": "2017-05-02"
+   },
+   "texto": "10\nde abril del presente año, hasta el 2 de mayo del mismo"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 3128,
+   "fin": 7654
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 3128,
+   "fin": 3504
+  },
+  {
+   "tipo": "person",
+   "ini": 3128,
+   "fin": 3143,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alberto Herrera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3128,
+   "fin": 3143,
+   "texto": "Alberto Herrera"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3145,
+   "fin": 3210
+  },
+  {
+   "tipo": "img",
+   "ini": 3145,
+   "fin": 3150,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3152,
+   "fin": 3210,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P 001\nAuto vintage 1.\nÓleo sobre lienzo.\n30 x 30 cm.\n$ 450"
+  },
+  {
+   "tipo": "idno",
+   "ini": 3152,
+   "fin": 3157,
+   "rasgos": {
+    "null": ""
+   },
+   "texto": "P 001"
+  },
+  {
+   "tipo": "title",
+   "ini": 3158,
+   "fin": 3173,
+   "texto": "Auto vintage 1."
+  },
+  {
+   "tipo": "technique",
+   "ini": 3174,
+   "fin": 3191,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3193,
+   "fin": 3203,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3193,
+   "fin": 3195,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 3198,
+   "fin": 3200,
+   "texto": "30"
+  },
+  {
+   "tipo": "price",
+   "ini": 3205,
+   "fin": 3210,
+   "rasgos": {
+    "unit": "dolar"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3212,
+   "fin": 3278
+  },
+  {
+   "tipo": "img",
+   "ini": 3212,
+   "fin": 3217,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3219,
+   "fin": 3277,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P 003\nMarina grande.\nÓleo sobre lienzo.\n30 x 100 cm.\n$ 500"
+  },
+  {
+   "tipo": "idno",
+   "ini": 3219,
+   "fin": 3224,
+   "texto": "P 003"
+  },
+  {
+   "tipo": "title",
+   "ini": 3225,
+   "fin": 3238,
+   "texto": "Marina grande"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3240,
+   "fin": 3257,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3259,
+   "fin": 3270,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3259,
+   "fin": 3261,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 3264,
+   "fin": 3267,
+   "texto": "100"
+  },
+  {
+   "tipo": "price",
+   "ini": 3272,
+   "fin": 3277,
+   "rasgos": {
+    "unit": "dolar"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 3279,
+   "fin": 3504
+  },
+  {
+   "tipo": "institution",
+   "ini": 3380,
+   "fin": 3389,
+   "texto": "Care Perú"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3385,
+   "fin": 3389,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Perú"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3441,
+   "fin": 3456,
+   "rasgos": {
+    "type": "bank"
+   },
+   "texto": "banco Interbank"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 3506,
+   "fin": 3736
+  },
+  {
+   "tipo": "person",
+   "ini": 3506,
+   "fin": 3516,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bella Lane"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3506,
+   "fin": 3516,
+   "texto": "Bella Lane"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3518,
+   "fin": 3624
+  },
+  {
+   "tipo": "img",
+   "ini": 3518,
+   "fin": 3523,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3525,
+   "fin": 3624,
+   "rasgos": {
+    "type": "textile"
+   },
+   "texto": "P 009\nThe Union Jack. 2010.\nBordado, tela e hilo.\nBastidor: 11 x 11 cm., bordado 7 x 6 cm.\nS/. 1000"
+  },
+  {
+   "tipo": "idno",
+   "ini": 3525,
+   "fin": 3530,
+   "texto": "P 009"
+  },
+  {
+   "tipo": "title",
+   "ini": 3531,
+   "fin": 3545,
+   "texto": "The Union Jack"
+  },
+  {
+   "tipo": "date",
+   "ini": 3547,
+   "fin": 3551,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3553,
+   "fin": 3573,
+   "rasgos": {
+    "type": "embroidery"
+   },
+   "texto": "Bordado, tela e hilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3585,
+   "fin": 3595,
+   "texto": "11 x 11 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3585,
+   "fin": 3587,
+   "texto": "11"
+  },
+  {
+   "tipo": "width",
+   "ini": 3590,
+   "fin": 3592,
+   "texto": "11"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3606,
+   "fin": 3614,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "7 x 6 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3606,
+   "fin": 3607,
+   "texto": "7"
+  },
+  {
+   "tipo": "width",
+   "ini": 3610,
+   "fin": 3611,
+   "texto": "6"
+  },
+  {
+   "tipo": "price",
+   "ini": 3616,
+   "fin": 3624,
+   "rasgos": {
+    "unit": "dolar"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 3626,
+   "fin": 3736
+  },
+  {
+   "tipo": "institution",
+   "ini": 3726,
+   "fin": 3735,
+   "texto": "Care Perú"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3731,
+   "fin": 3735,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Perú"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 3738,
+   "fin": 3929
+  },
+  {
+   "tipo": "person",
+   "ini": 3738,
+   "fin": 3756,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Benito Vilcahuamán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3738,
+   "fin": 3756,
+   "texto": "Benito Vilcahuamán"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3758,
+   "fin": 3817
+  },
+  {
+   "tipo": "img",
+   "ini": 3758,
+   "fin": 3763,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3765,
+   "fin": 3817,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P 010\nCalle del Cusco.\nAcuarela.\n32 x 27 cm.\nS/. 500"
+  },
+  {
+   "tipo": "idno",
+   "ini": 3765,
+   "fin": 3770,
+   "texto": "P 010"
+  },
+  {
+   "tipo": "title",
+   "ini": 3771,
+   "fin": 3786,
+   "texto": "Calle del Cusco"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3788,
+   "fin": 3796,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3798,
+   "fin": 3808,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32 x 27 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3798,
+   "fin": 3800,
+   "texto": "32"
+  },
+  {
+   "tipo": "width",
+   "ini": 3803,
+   "fin": 3805,
+   "texto": "27"
+  },
+  {
+   "tipo": "price",
+   "ini": 3810,
+   "fin": 3817,
+   "rasgos": {
+    "unit": "dolar"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 3819,
+   "fin": 3929
+  },
+  {
+   "tipo": "institution",
+   "ini": 3919,
+   "fin": 3928,
+   "texto": "Care Perú"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3924,
+   "fin": 3928,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Perú"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 3931,
+   "fin": 4134
+  },
+  {
+   "tipo": "person",
+   "ini": 3931,
+   "fin": 3957,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Francisco Manuel Pantigoso"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3931,
+   "fin": 3957,
+   "texto": "Francisco Manuel Pantigoso"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3959,
+   "fin": 4022
+  },
+  {
+   "tipo": "img",
+   "ini": 3959,
+   "fin": 3964,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3966,
+   "fin": 4022,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P 017\nMadre naturaleza. 2016\nAcuarela.\n86 x 66 cm.\n$ 600"
+  },
+  {
+   "tipo": "idno",
+   "ini": 3966,
+   "fin": 3971,
+   "texto": "P 017"
+  },
+  {
+   "tipo": "title",
+   "ini": 3972,
+   "fin": 3988,
+   "texto": "Madre naturaleza"
+  },
+  {
+   "tipo": "date",
+   "ini": 3990,
+   "fin": 3994,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3995,
+   "fin": 4003,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4005,
+   "fin": 4015,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "86 x 66 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4005,
+   "fin": 4007,
+   "texto": "86"
+  },
+  {
+   "tipo": "width",
+   "ini": 4010,
+   "fin": 4012,
+   "texto": "66"
+  },
+  {
+   "tipo": "price",
+   "ini": 4017,
+   "fin": 4022,
+   "rasgos": {
+    "unit": "dolar"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 4023,
+   "fin": 4134
+  },
+  {
+   "tipo": "institution",
+   "ini": 4124,
+   "fin": 4133,
+   "texto": "Care Perú"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4129,
+   "fin": 4133,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Perú"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 4136,
+   "fin": 4462
+  },
+  {
+   "tipo": "person",
+   "ini": 4136,
+   "fin": 4148,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Rubio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4136,
+   "fin": 4148,
+   "texto": "Javier Rubio"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4150,
+   "fin": 4232
+  },
+  {
+   "tipo": "img",
+   "ini": 4150,
+   "fin": 4155,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4157,
+   "fin": 4232,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "P 022\nLa belleza de Madame Poulard.\nTécnica mixta.\n20 x 20 x 24 cm.\n$ 1 300"
+  },
+  {
+   "tipo": "idno",
+   "ini": 4157,
+   "fin": 4162,
+   "texto": "P 022"
+  },
+  {
+   "tipo": "title",
+   "ini": 4163,
+   "fin": 4191,
+   "texto": "La belleza de Madame Poulard"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4193,
+   "fin": 4206,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4208,
+   "fin": 4223,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20 x 20 x 24 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4208,
+   "fin": 4210,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 4213,
+   "fin": 4215,
+   "texto": "20"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4218,
+   "fin": 4220,
+   "texto": "24"
+  },
+  {
+   "tipo": "price",
+   "ini": 4225,
+   "fin": 4232,
+   "rasgos": {
+    "unit": "dolar"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 4234,
+   "fin": 4462
+  },
+  {
+   "tipo": "institution",
+   "ini": 4333,
+   "fin": 4342,
+   "texto": "Care Perú"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4338,
+   "fin": 4342,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Perú"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4411,
+   "fin": 4414,
+   "rasgos": {
+    "type": "bank"
+   },
+   "texto": "BCP"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 4464,
+   "fin": 4930
+  },
+  {
+   "tipo": "person",
+   "ini": 4464,
+   "fin": 4474,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Gómez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4464,
+   "fin": 4474,
+   "texto": "José Gómez"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4476,
+   "fin": 4541
+  },
+  {
+   "tipo": "img",
+   "ini": 4476,
+   "fin": 4481,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4483,
+   "fin": 4541,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P 024\nSillas. 2014.\nÓleo sobre lienzo.\n105 x 75 cm.\n$ 2000"
+  },
+  {
+   "tipo": "idno",
+   "ini": 4483,
+   "fin": 4488,
+   "texto": "P 024"
+  },
+  {
+   "tipo": "title",
+   "ini": 4489,
+   "fin": 4495,
+   "texto": "Sillas"
+  },
+  {
+   "tipo": "date",
+   "ini": 4497,
+   "fin": 4501,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4503,
+   "fin": 4520,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4522,
+   "fin": 4533,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "105 x 75 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4522,
+   "fin": 4525,
+   "texto": "105"
+  },
+  {
+   "tipo": "width",
+   "ini": 4528,
+   "fin": 4530,
+   "texto": "75"
+  },
+  {
+   "tipo": "price",
+   "ini": 4535,
+   "fin": 4541,
+   "rasgos": {
+    "unit": "dolar"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4543,
+   "fin": 4611
+  },
+  {
+   "tipo": "img",
+   "ini": 4543,
+   "fin": 4548,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4550,
+   "fin": 4611,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P 025\nCoro de muñecos.\nÓleo sobre lienzo.\n150 x 55 cm.\n$ 1100"
+  },
+  {
+   "tipo": "idno",
+   "ini": 4550,
+   "fin": 4555,
+   "texto": "P 025"
+  },
+  {
+   "tipo": "title",
+   "ini": 4556,
+   "fin": 4571,
+   "texto": "Coro de muñecos"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4573,
+   "fin": 4590,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4592,
+   "fin": 4603,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150 x 55 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4592,
+   "fin": 4595,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 4598,
+   "fin": 4600,
+   "texto": "55"
+  },
+  {
+   "tipo": "price",
+   "ini": 4605,
+   "fin": 4611,
+   "rasgos": {
+    "unit": "dolar"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 4613,
+   "fin": 4930
+  },
+  {
+   "tipo": "title",
+   "ini": 4649,
+   "fin": 4655,
+   "texto": "Sillas"
+  },
+  {
+   "tipo": "work",
+   "ini": 4649,
+   "fin": 4655,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sillas"
+  },
+  {
+   "tipo": "title",
+   "ini": 4676,
+   "fin": 4691,
+   "texto": "Coro de muñecos"
+  },
+  {
+   "tipo": "work",
+   "ini": 4676,
+   "fin": 4691,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Coro de muñecos"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4751,
+   "fin": 4760,
+   "texto": "Care Perú"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4756,
+   "fin": 4760,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Perú"
+  },
+  {
+   "tipo": "title",
+   "ini": 4785,
+   "fin": 4800,
+   "texto": "Coro de muñecos"
+  },
+  {
+   "tipo": "work",
+   "ini": 4785,
+   "fin": 4800,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Coro de muñecos"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4846,
+   "fin": 4849,
+   "rasgos": {
+    "type": "bank"
+   },
+   "texto": "BCP"
+  },
+  {
+   "tipo": "person",
+   "ini": 4901,
+   "fin": 4929,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "José Antonio Gómez Hernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4901,
+   "fin": 4929,
+   "texto": "José Antonio Gómez Hernández"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 4932,
+   "fin": 5160
+  },
+  {
+   "tipo": "person",
+   "ini": 4932,
+   "fin": 4944,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Marcelo Wong"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4932,
+   "fin": 4944,
+   "texto": "Marcelo Wong"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4946,
+   "fin": 5048
+  },
+  {
+   "tipo": "img",
+   "ini": 4946,
+   "fin": 4952,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4953,
+   "fin": 5048,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "P 030\nUL grande blanco corazón adelante. 2016.\nResina y fibra de vidrio.\n18 x 18 x 19 cm.\n$ 750"
+  },
+  {
+   "tipo": "idno",
+   "ini": 4953,
+   "fin": 4958,
+   "texto": "P 030"
+  },
+  {
+   "tipo": "title",
+   "ini": 4959,
+   "fin": 4992,
+   "texto": "UL grande blanco corazón adelante"
+  },
+  {
+   "tipo": "date",
+   "ini": 4994,
+   "fin": 4998,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5000,
+   "fin": 5024,
+   "rasgos": {
+    "type": "resin, fibreglass"
+   },
+   "texto": "Resina y fibra de vidrio"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5026,
+   "fin": 5041,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "18 x 18 x 19 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5026,
+   "fin": 5028,
+   "texto": "18"
+  },
+  {
+   "tipo": "width",
+   "ini": 5031,
+   "fin": 5033,
+   "texto": "18"
+  },
+  {
+   "tipo": "depth",
+   "ini": 5036,
+   "fin": 5038,
+   "texto": "19"
+  },
+  {
+   "tipo": "price",
+   "ini": 5043,
+   "fin": 5048,
+   "rasgos": {
+    "unit": "dolar"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 5050,
+   "fin": 5160
+  },
+  {
+   "tipo": "institution",
+   "ini": 5150,
+   "fin": 5159,
+   "texto": "Care Perú"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5155,
+   "fin": 5159,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Perú"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 5162,
+   "fin": 5351
+  },
+  {
+   "tipo": "person",
+   "ini": 5162,
+   "fin": 5178,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mariano Guerrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5162,
+   "fin": 5178,
+   "texto": "Mariano Guerrero"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5180,
+   "fin": 5239
+  },
+  {
+   "tipo": "img",
+   "ini": 5180,
+   "fin": 5185,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5187,
+   "fin": 5239,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P 031\nTrigal.\nÓleo sobre lienzo.\n20 x 25 cm.\nS/. 500"
+  },
+  {
+   "tipo": "idno",
+   "ini": 5187,
+   "fin": 5192,
+   "texto": "P 031"
+  },
+  {
+   "tipo": "title",
+   "ini": 5193,
+   "fin": 5199,
+   "texto": "Trigal"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5201,
+   "fin": 5218,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5220,
+   "fin": 5230,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20 x 25 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5220,
+   "fin": 5222,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 5225,
+   "fin": 5227,
+   "texto": "25"
+  },
+  {
+   "tipo": "price",
+   "ini": 5232,
+   "fin": 5239,
+   "rasgos": {
+    "unit": "dolar"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 5241,
+   "fin": 5351
+  },
+  {
+   "tipo": "institution",
+   "ini": 5341,
+   "fin": 5350,
+   "texto": "Care Perú"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5346,
+   "fin": 5350,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Perú"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 5353,
+   "fin": 5558
+  },
+  {
+   "tipo": "person",
+   "ini": 5353,
+   "fin": 5373,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pancho Guerra-García"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5353,
+   "fin": 5373,
+   "texto": "Pancho Guerra-García"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5375,
+   "fin": 5446
+  },
+  {
+   "tipo": "img",
+   "ini": 5375,
+   "fin": 5380,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5382,
+   "fin": 5446,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P 034\nSarita Evangelina.\nAcrílico sobre tela.\n70 x 50 cm.\n$ 1000"
+  },
+  {
+   "tipo": "idno",
+   "ini": 5382,
+   "fin": 5387,
+   "texto": "P 034"
+  },
+  {
+   "tipo": "title",
+   "ini": 5388,
+   "fin": 5405,
+   "texto": "Sarita Evangelina"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5407,
+   "fin": 5426,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5428,
+   "fin": 5438,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5428,
+   "fin": 5430,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 5433,
+   "fin": 5435,
+   "texto": "50"
+  },
+  {
+   "tipo": "price",
+   "ini": 5440,
+   "fin": 5446,
+   "rasgos": {
+    "unit": "dolar"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 5448,
+   "fin": 5558
+  },
+  {
+   "tipo": "institution",
+   "ini": 5548,
+   "fin": 5557,
+   "texto": "Care Perú"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5553,
+   "fin": 5557,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Perú"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 5560,
+   "fin": 5817
+  },
+  {
+   "tipo": "person",
+   "ini": 5560,
+   "fin": 5598,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Patricia Orbegoso\n\n[img]\n[img]\n[img]\n\n"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5560,
+   "fin": 5598,
+   "texto": "Patricia Orbegoso\n\n[img]\n[img]\n[img]\n\n"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5579,
+   "fin": 5705
+  },
+  {
+   "tipo": "img",
+   "ini": 5579,
+   "fin": 5584,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 5585,
+   "fin": 5590,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 5591,
+   "fin": 5596,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 5598,
+   "fin": 5705,
+   "rasgos": {
+    "type": "painting",
+    "size": "3"
+   }
+  },
+  {
+   "tipo": "idno",
+   "ini": 5598,
+   "fin": 5603,
+   "texto": "P 035"
+  },
+  {
+   "tipo": "idno",
+   "ini": 5605,
+   "fin": 5610,
+   "texto": "P 036"
+  },
+  {
+   "tipo": "idno",
+   "ini": 5612,
+   "fin": 5617,
+   "texto": "P 037"
+  },
+  {
+   "tipo": "title",
+   "ini": 5618,
+   "fin": 5646,
+   "texto": "Serie: Libertad condicionada"
+  },
+  {
+   "tipo": "date",
+   "ini": 5648,
+   "fin": 5652,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5654,
+   "fin": 5680,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5682,
+   "fin": 5698,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 50 cm. c/u."
+  },
+  {
+   "tipo": "height",
+   "ini": 5682,
+   "fin": 5684,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 5687,
+   "fin": 5689,
+   "texto": "50"
+  },
+  {
+   "tipo": "price",
+   "ini": 5699,
+   "fin": 5705,
+   "rasgos": {
+    "unit": "dolar"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 5707,
+   "fin": 5817
+  },
+  {
+   "tipo": "institution",
+   "ini": 5807,
+   "fin": 5816,
+   "texto": "Care Perú"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5812,
+   "fin": 5816,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Perú"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 5819,
+   "fin": 6019
+  },
+  {
+   "tipo": "person",
+   "ini": 5819,
+   "fin": 5832,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Piero Quijano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5819,
+   "fin": 5832,
+   "texto": "Piero Quijano"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5834,
+   "fin": 5907
+  },
+  {
+   "tipo": "img",
+   "ini": 5834,
+   "fin": 5839,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5841,
+   "fin": 5907,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "P 038\nLa ciudad II. 2010.\nSerigrafía. Ed. 19/20.\n60 x 50 cm.\n$ 400"
+  },
+  {
+   "tipo": "idno",
+   "ini": 5841,
+   "fin": 5846,
+   "texto": "P 038"
+  },
+  {
+   "tipo": "title",
+   "ini": 5847,
+   "fin": 5859,
+   "texto": "La ciudad II"
+  },
+  {
+   "tipo": "date",
+   "ini": 5861,
+   "fin": 5865,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5867,
+   "fin": 5877,
+   "rasgos": {
+    "serigraph": ""
+   },
+   "texto": "Serigrafía"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 5879,
+   "fin": 5888
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5890,
+   "fin": 5900,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5890,
+   "fin": 5892,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 5895,
+   "fin": 5897,
+   "texto": "50"
+  },
+  {
+   "tipo": "price",
+   "ini": 5902,
+   "fin": 5907,
+   "rasgos": {
+    "unit": "dolar"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 5909,
+   "fin": 6019
+  },
+  {
+   "tipo": "institution",
+   "ini": 6009,
+   "fin": 6018,
+   "texto": "Care Perú"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6014,
+   "fin": 6018,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Perú"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 6021,
+   "fin": 6290
+  },
+  {
+   "tipo": "person",
+   "ini": 6021,
+   "fin": 6033,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ramiro Llona"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6021,
+   "fin": 6033,
+   "texto": "Ramiro Llona"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6035,
+   "fin": 6178
+  },
+  {
+   "tipo": "img",
+   "ini": 6035,
+   "fin": 6041,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6042,
+   "fin": 6178,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "P 040\nEncuentro a través de los espejos. 2016.\nSerigrafía, papel Don Bosco, bordes\nnaturales, 250 gramos. Ed. 5/6 PA.\n58 x 78 cm.\n$ 2000"
+  },
+  {
+   "tipo": "idno",
+   "ini": 6042,
+   "fin": 6047,
+   "texto": "P 040"
+  },
+  {
+   "tipo": "title",
+   "ini": 6048,
+   "fin": 6080,
+   "texto": "Encuentro a través de los espejo"
+  },
+  {
+   "tipo": "date",
+   "ini": 6083,
+   "fin": 6087,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6089,
+   "fin": 6146,
+   "rasgos": {
+    "type": "serigraph"
+   },
+   "texto": "Serigrafía, papel Don Bosco, bordes\nnaturales, 250 gramos"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 6148,
+   "fin": 6158
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6160,
+   "fin": 6170,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "58 x 78 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6160,
+   "fin": 6162,
+   "texto": "58"
+  },
+  {
+   "tipo": "width",
+   "ini": 6165,
+   "fin": 6167,
+   "texto": "78"
+  },
+  {
+   "tipo": "price",
+   "ini": 6172,
+   "fin": 6178,
+   "rasgos": {
+    "unit": "dolar"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 6180,
+   "fin": 6290
+  },
+  {
+   "tipo": "institution",
+   "ini": 6280,
+   "fin": 6289,
+   "texto": "Care Perú"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6285,
+   "fin": 6289,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Perú"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 6292,
+   "fin": 6602
+  },
+  {
+   "tipo": "persName",
+   "ini": 6292,
+   "fin": 6302,
+   "texto": "Sheila Eme"
+  },
+  {
+   "tipo": "person",
+   "ini": 6292,
+   "fin": 6302,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sheila Eme"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6304,
+   "fin": 6369
+  },
+  {
+   "tipo": "img",
+   "ini": 6304,
+   "fin": 6309,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6311,
+   "fin": 6369,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P 044\nAmazonas. 2010.\nÓleo sobre lienzo.\n80 x 60 cm.\n$ 900"
+  },
+  {
+   "tipo": "idno",
+   "ini": 6311,
+   "fin": 6316,
+   "texto": "P 044"
+  },
+  {
+   "tipo": "title",
+   "ini": 6317,
+   "fin": 6325,
+   "texto": "Amazonas"
+  },
+  {
+   "tipo": "date",
+   "ini": 6327,
+   "fin": 6331,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6333,
+   "fin": 6350,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6352,
+   "fin": 6362,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80 x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6352,
+   "fin": 6354,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 6357,
+   "fin": 6359,
+   "texto": "60"
+  },
+  {
+   "tipo": "price",
+   "ini": 6364,
+   "fin": 6369,
+   "rasgos": {
+    "unit": "dolar"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 6371,
+   "fin": 6602
+  },
+  {
+   "tipo": "institution",
+   "ini": 6470,
+   "fin": 6479,
+   "texto": "Care Perú"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6475,
+   "fin": 6479,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Perú"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6548,
+   "fin": 6558,
+   "rasgos": {
+    "type": "bank"
+   },
+   "texto": "Scotiabank"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 6604,
+   "fin": 6921
+  },
+  {
+   "tipo": "person",
+   "ini": 6604,
+   "fin": 6618,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Teodoro Chávez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6604,
+   "fin": 6618,
+   "texto": "Teodoro Chávez"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6620,
+   "fin": 6683
+  },
+  {
+   "tipo": "img",
+   "ini": 6620,
+   "fin": 6625,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6627,
+   "fin": 6684,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P 045\nMujer huancaína.\nTiza pastel.\n65 x 55 cm.\nS/. 1000\n"
+  },
+  {
+   "tipo": "idno",
+   "ini": 6627,
+   "fin": 6632,
+   "texto": "P 045"
+  },
+  {
+   "tipo": "title",
+   "ini": 6633,
+   "fin": 6648,
+   "texto": "Mujer huancaína"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6650,
+   "fin": 6661,
+   "rasgos": {
+    "type": "pastel"
+   },
+   "texto": "Tiza pastel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6663,
+   "fin": 6673,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 55 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6663,
+   "fin": 6665,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 6668,
+   "fin": 6670,
+   "texto": "55"
+  },
+  {
+   "tipo": "price",
+   "ini": 6675,
+   "fin": 6683,
+   "rasgos": {
+    "unit": "dolar"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 6685,
+   "fin": 6921
+  },
+  {
+   "tipo": "institution",
+   "ini": 6784,
+   "fin": 6793,
+   "texto": "Care Perú"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6789,
+   "fin": 6793,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Perú"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6851,
+   "fin": 6861,
+   "rasgos": {
+    "type": "bank"
+   },
+   "texto": "Scotiabank"
+  },
+  {
+   "tipo": "person",
+   "ini": 6899,
+   "fin": 6920,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Walter Anicama Zamora"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6899,
+   "fin": 6920,
+   "texto": "Walter Anicama Zamora"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 6923,
+   "fin": 7117
+  },
+  {
+   "tipo": "person",
+   "ini": 6923,
+   "fin": 6945,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Teófilo Camasca Arroyo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6923,
+   "fin": 6945,
+   "texto": "Teófilo Camasca Arroyo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6947,
+   "fin": 7005
+  },
+  {
+   "tipo": "img",
+   "ini": 6947,
+   "fin": 6952,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6954,
+   "fin": 7005,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P 046\nPaisaje andino.\nAcuarela.\n32 x 27 cm.\nS/. 500"
+  },
+  {
+   "tipo": "idno",
+   "ini": 6954,
+   "fin": 6959,
+   "texto": "P 046"
+  },
+  {
+   "tipo": "title",
+   "ini": 6960,
+   "fin": 6974,
+   "texto": "Paisaje andino"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6976,
+   "fin": 6984,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6986,
+   "fin": 6996,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32 x 27 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6986,
+   "fin": 6988,
+   "texto": "32"
+  },
+  {
+   "tipo": "width",
+   "ini": 6991,
+   "fin": 6993,
+   "texto": "27"
+  },
+  {
+   "tipo": "price",
+   "ini": 6998,
+   "fin": 7005,
+   "rasgos": {
+    "unit": "dolar"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 7007,
+   "fin": 7117
+  },
+  {
+   "tipo": "institution",
+   "ini": 7107,
+   "fin": 7116,
+   "texto": "Care Perú"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7112,
+   "fin": 7116,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Perú"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 7119,
+   "fin": 7435
+  },
+  {
+   "tipo": "person",
+   "ini": 7119,
+   "fin": 7134,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Teresa Carvallo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7119,
+   "fin": 7134,
+   "texto": "Teresa Carvallo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7136,
+   "fin": 7206
+  },
+  {
+   "tipo": "img",
+   "ini": 7136,
+   "fin": 7141,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7143,
+   "fin": 7206,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "P 047\nDoble moral.\nCerámica de 1,200 grados.\n40 x 60 cm.\n$ 1200"
+  },
+  {
+   "tipo": "idno",
+   "ini": 7143,
+   "fin": 7148,
+   "texto": "P 047"
+  },
+  {
+   "tipo": "title",
+   "ini": 7149,
+   "fin": 7160,
+   "texto": "Doble moral"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7162,
+   "fin": 7187,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Cerámica de 1,200 grados."
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7188,
+   "fin": 7198,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7188,
+   "fin": 7190,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 7193,
+   "fin": 7195,
+   "texto": "60"
+  },
+  {
+   "tipo": "price",
+   "ini": 7200,
+   "fin": 7206,
+   "rasgos": {
+    "unit": "dolar"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 7208,
+   "fin": 7435
+  },
+  {
+   "tipo": "institution",
+   "ini": 7307,
+   "fin": 7316,
+   "texto": "Care Perú"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7312,
+   "fin": 7316,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Perú"
+  },
+  {
+   "tipo": "institution",
+   "ini": 7385,
+   "fin": 7388,
+   "rasgos": {
+    "type": "bank"
+   },
+   "texto": "BCP"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 7437,
+   "fin": 7654,
+   "rasgos": {
+    "null": ""
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 7437,
+   "fin": 7450,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Víctor Delfín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7437,
+   "fin": 7450,
+   "texto": "Víctor Delfín"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7452,
+   "fin": 7542
+  },
+  {
+   "tipo": "img",
+   "ini": 7452,
+   "fin": 7457,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7459,
+   "fin": 7542,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "P 049\nPelea de bestias. 2001.\nGrabado, serigrafía, papel Canson.\n70 x 50 cm.\n$ 2000"
+  },
+  {
+   "tipo": "idno",
+   "ini": 7459,
+   "fin": 7464,
+   "texto": "P 049"
+  },
+  {
+   "tipo": "title",
+   "ini": 7465,
+   "fin": 7481,
+   "texto": "Pelea de bestias"
+  },
+  {
+   "tipo": "date",
+   "ini": 7483,
+   "fin": 7487,
+   "rasgos": {
+    "when": "2001"
+   },
+   "texto": "2001"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7489,
+   "fin": 7522,
+   "rasgos": {
+    "type": "serigraph"
+   },
+   "texto": "Grabado, serigrafía, papel Canson"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7524,
+   "fin": 7534,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7524,
+   "fin": 7526,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 7529,
+   "fin": 7531,
+   "texto": "50"
+  },
+  {
+   "tipo": "price",
+   "ini": 7536,
+   "fin": 7542,
+   "rasgos": {
+    "unit": "dolar"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 7544,
+   "fin": 7654
+  },
+  {
+   "tipo": "institution",
+   "ini": 7644,
+   "fin": 7653,
+   "texto": "Care Perú"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7649,
+   "fin": 7653,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Perú"
+  }
+ ]
+}

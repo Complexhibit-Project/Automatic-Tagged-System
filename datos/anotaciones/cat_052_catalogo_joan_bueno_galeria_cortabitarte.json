@@ -1,0 +1,1480 @@
+{
+ "id": "cat_052_catalogo_joan_bueno_galeria_cortabitarte",
+ "nombre_original": "Catalogo-Joan-Bueno-galeria-cortabitarte",
+ "longitud_texto": 10455,
+ "sha256_texto": "9882a4fa67fb0412934e20e1e4fc46d9a035d2c5ea6b294e4cc0266cba20e782",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 412,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 38,
+   "texto": "Barcelona en blanco y negro y a color\r"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 0,
+   "fin": 9,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Barcelona"
+  },
+  {
+   "tipo": "person",
+   "ini": 39,
+   "fin": 50,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joan Bueno\r"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39,
+   "fin": 50,
+   "texto": "Joan Bueno\r"
+  },
+  {
+   "tipo": "institution",
+   "ini": 65,
+   "fin": 85,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería Cortabitarte"
+  },
+  {
+   "tipo": "person",
+   "ini": 103,
+   "fin": 139,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "Laura Benitez (Galería Cortabitarte)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 103,
+   "fin": 117,
+   "texto": "Laura Benitez "
+  },
+  {
+   "tipo": "institution",
+   "ini": 118,
+   "fin": 138,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Galería Cortabitarte"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 118,
+   "fin": 138
+  },
+  {
+   "tipo": "person",
+   "ini": 141,
+   "fin": 189,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "Joan Abelló (Reial Cercle Artistic de Barcelona)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 141,
+   "fin": 152,
+   "texto": "Joan Abelló"
+  },
+  {
+   "tipo": "institution",
+   "ini": 154,
+   "fin": 188,
+   "rasgos": {
+    "type": "academy"
+   },
+   "texto": "Reial Cercle Artistic de Barcelona"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 154,
+   "fin": 188
+  },
+  {
+   "tipo": "placeName",
+   "ini": 179,
+   "fin": 188,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Barcelona"
+  },
+  {
+   "tipo": "person",
+   "ini": 191,
+   "fin": 239,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "Felix Bentz (Reial Cercle Artistic de Barcelona)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 191,
+   "fin": 202,
+   "texto": "Felix Bentz"
+  },
+  {
+   "tipo": "institution",
+   "ini": 204,
+   "fin": 238,
+   "rasgos": {
+    "type": "academy"
+   },
+   "texto": "Reial Cercle Artistic de Barcelona"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 204,
+   "fin": 238
+  },
+  {
+   "tipo": "placeName",
+   "ini": 229,
+   "fin": 238,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Barcelona"
+  },
+  {
+   "tipo": "person",
+   "ini": 275,
+   "fin": 327,
+   "rasgos": {
+    "role": "exhibitionDesigner"
+   },
+   "texto": "Laura Bertrán Serrano (Facultat de Turisme HTSI-URL)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 275,
+   "fin": 296,
+   "texto": "Laura Bertrán Serrano"
+  },
+  {
+   "tipo": "institution",
+   "ini": 298,
+   "fin": 326,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "Facultat de Turisme HTSI-URL"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 298,
+   "fin": 326
+  },
+  {
+   "tipo": "person",
+   "ini": 344,
+   "fin": 370,
+   "rasgos": {
+    "role": "catalogueDesigner"
+   },
+   "texto": "Azahara del Campo Granada\r"
+  },
+  {
+   "tipo": "persName",
+   "ini": 344,
+   "fin": 370,
+   "texto": "Azahara del Campo Granada\r"
+  },
+  {
+   "tipo": "institution",
+   "ini": 383,
+   "fin": 412,
+   "rasgos": {
+    "type": "company",
+    "role": "printer"
+   },
+   "texto": "Imprenta provincial de Soria\r"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 406,
+   "fin": 411,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Soria"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 417,
+   "fin": 481,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 417,
+   "fin": 455,
+   "texto": "Barcelona en blanco y negro\r\ny a color"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 417,
+   "fin": 426,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Barcelona"
+  },
+  {
+   "tipo": "person",
+   "ini": 457,
+   "fin": 468,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joan Bueno\r"
+  },
+  {
+   "tipo": "persName",
+   "ini": 457,
+   "fin": 468,
+   "texto": "Joan Bueno\r"
+  },
+  {
+   "tipo": "date",
+   "ini": 469,
+   "fin": 481,
+   "rasgos": {
+    "from": "2021-08-01",
+    "to": "2021-08-31"
+   },
+   "texto": "Agosto 2021\r"
+  },
+  {
+   "tipo": "person",
+   "ini": 518,
+   "fin": 574,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "En 1932 nace en Barcelona el pintor Joan Bueno Casadesús"
+  },
+  {
+   "tipo": "birth",
+   "ini": 521,
+   "fin": 543
+  },
+  {
+   "tipo": "date",
+   "ini": 521,
+   "fin": 525,
+   "rasgos": {
+    "when": "1932"
+   },
+   "texto": "1932"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 534,
+   "fin": 543,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Barcelona"
+  },
+  {
+   "tipo": "persName",
+   "ini": 554,
+   "fin": 574,
+   "texto": "Joan Bueno Casadesús"
+  },
+  {
+   "tipo": "person",
+   "ini": 1397,
+   "fin": 1401,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joan"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1397,
+   "fin": 1401,
+   "texto": "Joan"
+  },
+  {
+   "tipo": "person",
+   "ini": 3954,
+   "fin": 3974,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joan Bueno Casadesús"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3954,
+   "fin": 3974,
+   "texto": "Joan Bueno Casadesús"
+  },
+  {
+   "tipo": "person",
+   "ini": 4049,
+   "fin": 4062,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Rafael Tirado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4049,
+   "fin": 4062,
+   "texto": "Rafael Tirado"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 4067,
+   "fin": 5263
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4067,
+   "fin": 4138
+  },
+  {
+   "tipo": "img",
+   "ini": 4067,
+   "fin": 4072,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4075,
+   "fin": 4138,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Mercado de la plaza de Sant Galdrlc\r\n65x85 cm - Óleo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 4075,
+   "fin": 4110,
+   "texto": "Mercado de la plaza de Sant Galdrlc"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4112,
+   "fin": 4120,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65x85 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4112,
+   "fin": 4114,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 4115,
+   "fin": 4117,
+   "texto": "85"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4123,
+   "fin": 4138,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4142,
+   "fin": 4191
+  },
+  {
+   "tipo": "img",
+   "ini": 4142,
+   "fin": 4147,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4150,
+   "fin": 4191,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "La Lonja\r\n50x70 cm - Acrílico sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 4150,
+   "fin": 4158,
+   "texto": "La Lonja"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4160,
+   "fin": 4168,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50x70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4160,
+   "fin": 4162,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 4163,
+   "fin": 4165,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4171,
+   "fin": 4191,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4195,
+   "fin": 4259
+  },
+  {
+   "tipo": "img",
+   "ini": 4195,
+   "fin": 4200,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4203,
+   "fin": 4259,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Plaza de Santa Caterlna\r\n50x70 cm - Acrílico sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 4203,
+   "fin": 4226,
+   "texto": "Plaza de Santa Caterlna"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4228,
+   "fin": 4236,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50x70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4228,
+   "fin": 4230,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 4231,
+   "fin": 4233,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4239,
+   "fin": 4259,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4263,
+   "fin": 4326
+  },
+  {
+   "tipo": "img",
+   "ini": 4263,
+   "fin": 4268,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4271,
+   "fin": 4326,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "PLaza Sant Josep Oriol\r\n50x70 cm - Acrílico sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 4271,
+   "fin": 4293,
+   "texto": "PLaza Sant Josep Oriol"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4295,
+   "fin": 4303,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50x70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4295,
+   "fin": 4297,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 4298,
+   "fin": 4300,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4306,
+   "fin": 4327,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre papel\r"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4330,
+   "fin": 4403
+  },
+  {
+   "tipo": "img",
+   "ini": 4330,
+   "fin": 4335,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4338,
+   "fin": 4403,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Templo de la Sagrada Familia\r\n100x70 cm - Tinta china sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 4338,
+   "fin": 4366,
+   "texto": "Templo de la Sagrada Familia"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4368,
+   "fin": 4377,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100x70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4368,
+   "fin": 4371,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 4372,
+   "fin": 4374,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4380,
+   "fin": 4403,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4407,
+   "fin": 4490
+  },
+  {
+   "tipo": "img",
+   "ini": 4407,
+   "fin": 4412,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4415,
+   "fin": 4490,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Jardincitos de Gracia- Hotel Casa Flister\r\n70x100 - Tinta China sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 4415,
+   "fin": 4456,
+   "texto": "Jardincitos de Gracia- Hotel Casa Flister"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4458,
+   "fin": 4464,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70x100"
+  },
+  {
+   "tipo": "height",
+   "ini": 4458,
+   "fin": 4460,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 4461,
+   "fin": 4464,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4467,
+   "fin": 4490,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta China sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4494,
+   "fin": 4545
+  },
+  {
+   "tipo": "img",
+   "ini": 4494,
+   "fin": 4499,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4502,
+   "fin": 4545,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Plaza Real\r\n50x70 cm - Acrílico sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 4502,
+   "fin": 4512,
+   "texto": "Plaza Real"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4514,
+   "fin": 4522,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50x70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4514,
+   "fin": 4516,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 4517,
+   "fin": 4519,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4525,
+   "fin": 4545,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4549,
+   "fin": 4609
+  },
+  {
+   "tipo": "img",
+   "ini": 4549,
+   "fin": 4554,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4557,
+   "fin": 4609,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Palacio de Justicia\r\n50x70 cm - Acrílico sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 4557,
+   "fin": 4576,
+   "texto": "Palacio de Justicia"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4578,
+   "fin": 4586,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50x70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4578,
+   "fin": 4580,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 4581,
+   "fin": 4583,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4589,
+   "fin": 4609,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4613,
+   "fin": 4666
+  },
+  {
+   "tipo": "img",
+   "ini": 4613,
+   "fin": 4618,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4621,
+   "fin": 4666,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Teatro Romea\r\n50x70 cm - Acrílico sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 4621,
+   "fin": 4633,
+   "texto": "Teatro Romea"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4635,
+   "fin": 4643,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50x70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4635,
+   "fin": 4637,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 4638,
+   "fin": 4640,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4646,
+   "fin": 4666,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4670,
+   "fin": 4736
+  },
+  {
+   "tipo": "img",
+   "ini": 4670,
+   "fin": 4675,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4678,
+   "fin": 4736,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Iglesia de Santa Teresita\r\n50x70 cm - Acrílico sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 4678,
+   "fin": 4703,
+   "texto": "Iglesia de Santa Teresita"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4705,
+   "fin": 4713,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50x70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4705,
+   "fin": 4707,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 4708,
+   "fin": 4710,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4716,
+   "fin": 4736,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4739,
+   "fin": 4798
+  },
+  {
+   "tipo": "img",
+   "ini": 4739,
+   "fin": 4744,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4747,
+   "fin": 4798,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Mercado de Galvany\r\n50x70 cm - Acrílico sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 4747,
+   "fin": 4765,
+   "texto": "Mercado de Galvany"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4767,
+   "fin": 4775,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50x70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4767,
+   "fin": 4769,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 4770,
+   "fin": 4772,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4778,
+   "fin": 4798,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4802,
+   "fin": 4868
+  },
+  {
+   "tipo": "img",
+   "ini": 4802,
+   "fin": 4807,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4810,
+   "fin": 4868,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Gran Teatro del Liceo\r\n70x100 cm - Tinta china sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 4810,
+   "fin": 4832,
+   "texto": "Gran Teatro del Liceo\r"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4833,
+   "fin": 4842,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70x100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4833,
+   "fin": 4835,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 4836,
+   "fin": 4839,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4845,
+   "fin": 4868,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4872,
+   "fin": 4927
+  },
+  {
+   "tipo": "img",
+   "ini": 4872,
+   "fin": 4877,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4880,
+   "fin": 4928,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "La Pedrera\r\n70x100 cm - Tinta China sobre papel\r"
+  },
+  {
+   "tipo": "title",
+   "ini": 4880,
+   "fin": 4891,
+   "texto": "La Pedrera\r"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4892,
+   "fin": 4901,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70x100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4892,
+   "fin": 4894,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 4895,
+   "fin": 4898,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4904,
+   "fin": 4927,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta China sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4930,
+   "fin": 4984
+  },
+  {
+   "tipo": "img",
+   "ini": 4930,
+   "fin": 4935,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4938,
+   "fin": 4985,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "MNAC Montjuic\r\n50x70 cm - Acrílico sobre papel\r"
+  },
+  {
+   "tipo": "title",
+   "ini": 4938,
+   "fin": 4952,
+   "texto": "MNAC Montjuic\r"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4953,
+   "fin": 4961,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50x70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4953,
+   "fin": 4955,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 4956,
+   "fin": 4958,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4964,
+   "fin": 4984,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4987,
+   "fin": 5049
+  },
+  {
+   "tipo": "img",
+   "ini": 4987,
+   "fin": 4992,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4995,
+   "fin": 5049,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Palacio de Pedralbes\r\n50x70 cm - Acrílico sobre papel\r"
+  },
+  {
+   "tipo": "title",
+   "ini": 4995,
+   "fin": 5016,
+   "texto": "Palacio de Pedralbes\r"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5017,
+   "fin": 5025,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50x70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5017,
+   "fin": 5019,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 5020,
+   "fin": 5022,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5028,
+   "fin": 5048,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5052,
+   "fin": 5117
+  },
+  {
+   "tipo": "img",
+   "ini": 5052,
+   "fin": 5057,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5059,
+   "fin": 5116,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Rambla de Sant Josep\r\n100x70 cm - Tinta China sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 5059,
+   "fin": 5080,
+   "texto": "Rambla de Sant Josep\r"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5081,
+   "fin": 5090,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100x70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5081,
+   "fin": 5084,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 5085,
+   "fin": 5087,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5093,
+   "fin": 5117,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta China sobre papel\r"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5119,
+   "fin": 5191
+  },
+  {
+   "tipo": "img",
+   "ini": 5119,
+   "fin": 5124,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5128,
+   "fin": 5191,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Mercado de Santa Caterina\r\n70x100 cm - Tinta China sobre papel\r"
+  },
+  {
+   "tipo": "title",
+   "ini": 5128,
+   "fin": 5154,
+   "texto": "Mercado de Santa Caterina\r"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5155,
+   "fin": 5164,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70x100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5155,
+   "fin": 5157,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 5158,
+   "fin": 5161,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5167,
+   "fin": 5191,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta China sobre papel\r"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5194,
+   "fin": 5262
+  },
+  {
+   "tipo": "img",
+   "ini": 5194,
+   "fin": 5199,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5202,
+   "fin": 5263,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Plaza de Santa Caterlna\r\n70x100 cm - Tinta china sobre papel\r"
+  },
+  {
+   "tipo": "title",
+   "ini": 5202,
+   "fin": 5226,
+   "texto": "Plaza de Santa Caterlna\r"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5227,
+   "fin": 5236,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70x100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5227,
+   "fin": 5229,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 5230,
+   "fin": 5233,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5239,
+   "fin": 5262,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre papel"
+  },
+  {
+   "tipo": "person",
+   "ini": 5268,
+   "fin": 5289,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JOAN BUENO CASADESÚS\r"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5268,
+   "fin": 5289,
+   "texto": "JOAN BUENO CASADESÚS\r"
+  },
+  {
+   "tipo": "birth",
+   "ini": 5308,
+   "fin": 5337
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5318,
+   "fin": 5327,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Barcelona"
+  },
+  {
+   "tipo": "date",
+   "ini": 5331,
+   "fin": 5335,
+   "rasgos": {
+    "when": "1932"
+   },
+   "texto": "1932"
+  }
+ ]
+}

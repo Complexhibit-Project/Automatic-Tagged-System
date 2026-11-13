@@ -1,0 +1,1803 @@
+{
+ "id": "cat_072_catalogo_pintura_pintura",
+ "nombre_original": "catalogo_pintura_pintura",
+ "longitud_texto": 12064,
+ "sha256_texto": "3db4a4f779fdf2468fc571d5b045f8f6a6026731c9c26278add8660d018b89cc",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 215,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "venue",
+   "ini": 0,
+   "fin": 19,
+   "texto": "Sala 25\nAniversario"
+  },
+  {
+   "tipo": "institution",
+   "ini": 20,
+   "fin": 36,
+   "rasgos": {
+    "type": "exhibitionHall",
+    "role": "host"
+   },
+   "texto": "Pescadería vieja"
+  },
+  {
+   "tipo": "title",
+   "ini": 38,
+   "fin": 53,
+   "texto": "PINTURA\nPINTURA"
+  },
+  {
+   "tipo": "date",
+   "ini": 59,
+   "fin": 87,
+   "rasgos": {
+    "from": "2020-02-22",
+    "to": "2020-04-12"
+   },
+   "texto": "22 de febrero al 12 de abril"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 88,
+   "fin": 93,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Jerez"
+  },
+  {
+   "tipo": "date",
+   "ini": 94,
+   "fin": 98,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "person",
+   "ini": 100,
+   "fin": 110,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rocío Cano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 100,
+   "fin": 110,
+   "texto": "Rocío Cano"
+  },
+  {
+   "tipo": "person",
+   "ini": 111,
+   "fin": 123,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Lara"
+  },
+  {
+   "tipo": "persName",
+   "ini": 111,
+   "fin": 123,
+   "texto": "Antonio Lara"
+  },
+  {
+   "tipo": "person",
+   "ini": 124,
+   "fin": 139,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Maldonado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 124,
+   "fin": 139,
+   "texto": "David Maldonado"
+  },
+  {
+   "tipo": "person",
+   "ini": 140,
+   "fin": 151,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pepe Molina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 140,
+   "fin": 151,
+   "texto": "Pepe Molina"
+  },
+  {
+   "tipo": "person",
+   "ini": 152,
+   "fin": 170,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Magdalena Murciano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 152,
+   "fin": 170,
+   "texto": "Magdalena Murciano"
+  },
+  {
+   "tipo": "person",
+   "ini": 171,
+   "fin": 187,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Humberto del Río"
+  },
+  {
+   "tipo": "persName",
+   "ini": 171,
+   "fin": 187,
+   "texto": "Humberto del Río"
+  },
+  {
+   "tipo": "person",
+   "ini": 188,
+   "fin": 198,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jesús Rosa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 188,
+   "fin": 198,
+   "texto": "Jesús Rosa"
+  },
+  {
+   "tipo": "person",
+   "ini": 199,
+   "fin": 216,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel del Valle\n"
+  },
+  {
+   "tipo": "persName",
+   "ini": 199,
+   "fin": 215,
+   "texto": "Manuel del Valle"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 226,
+   "fin": 252,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 237,
+   "fin": 252,
+   "texto": "Pintura Pintura"
+  },
+  {
+   "tipo": "institution",
+   "ini": 313,
+   "fin": 334,
+   "rasgos": {
+    "type": "exhibitionHall",
+    "role": "host"
+   },
+   "texto": "Sala Pescadería Vieja"
+  },
+  {
+   "tipo": "institution",
+   "ini": 909,
+   "fin": 921,
+   "rasgos": {
+    "type": "townHall",
+    "role": "organiser"
+   },
+   "texto": "Ayuntamiento"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1075,
+   "fin": 1096,
+   "rasgos": {
+    "type": "exhibitionHall",
+    "role": "host"
+   },
+   "texto": "Sala Pescadería Vieja"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1304,
+   "fin": 1308,
+   "rasgos": {
+    "type": "exhibitionHall",
+    "role": "host"
+   },
+   "texto": "Sala"
+  },
+  {
+   "tipo": "person",
+   "ini": 1722,
+   "fin": 1732,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rocío Cano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1722,
+   "fin": 1732,
+   "texto": "Rocío Cano"
+  },
+  {
+   "tipo": "person",
+   "ini": 1734,
+   "fin": 1746,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Lara"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1734,
+   "fin": 1746,
+   "texto": "Antonio Lara"
+  },
+  {
+   "tipo": "person",
+   "ini": 1748,
+   "fin": 1763,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Maldonado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1748,
+   "fin": 1763,
+   "texto": "David Maldonado"
+  },
+  {
+   "tipo": "person",
+   "ini": 1765,
+   "fin": 1776,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pepe Molina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1765,
+   "fin": 1776,
+   "texto": "Pepe Molina"
+  },
+  {
+   "tipo": "person",
+   "ini": 1778,
+   "fin": 1796,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Magdalena Murciano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1778,
+   "fin": 1796,
+   "texto": "Magdalena Murciano"
+  },
+  {
+   "tipo": "person",
+   "ini": 1798,
+   "fin": 1814,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Humberto del Río"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1798,
+   "fin": 1814,
+   "texto": "Humberto del Río"
+  },
+  {
+   "tipo": "person",
+   "ini": 1816,
+   "fin": 1826,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jesús Rosa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1816,
+   "fin": 1826,
+   "texto": "Jesús Rosa"
+  },
+  {
+   "tipo": "person",
+   "ini": 1829,
+   "fin": 1845,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel del Valle"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1829,
+   "fin": 1845,
+   "texto": "Manuel del Valle"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1935,
+   "fin": 1948,
+   "texto": "Mamen Sánchez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2023,
+   "fin": 2044,
+   "rasgos": {
+    "type": "exhibitionHall",
+    "role": "organiser"
+   },
+   "texto": "Sala Pescadería Vieja"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2660,
+   "fin": 2676,
+   "rasgos": {
+    "type": "exhibitionHall",
+    "role": "host"
+   },
+   "texto": "Pescadería Vieja"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2837,
+   "fin": 2847,
+   "rasgos": {
+    "type": "exhibitionHall",
+    "role": "host"
+   },
+   "texto": "Pescadería"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2997,
+   "fin": 3001,
+   "rasgos": {
+    "type": "exhibitionHall",
+    "role": "host"
+   },
+   "texto": "Sala"
+  },
+  {
+   "tipo": "title",
+   "ini": 3172,
+   "fin": 3189,
+   "texto": "‘Pintura Pintura’"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 3172,
+   "fin": 3189,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "persName",
+   "ini": 3576,
+   "fin": 3599,
+   "texto": "Francisco Camas Sánchez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4809,
+   "fin": 4816,
+   "texto": "Cezanne"
+  },
+  {
+   "tipo": "person",
+   "ini": 6181,
+   "fin": 6191,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ROCÍO CANO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6181,
+   "fin": 6191,
+   "texto": "ROCÍO CANO"
+  },
+  {
+   "tipo": "person",
+   "ini": 6790,
+   "fin": 6802,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ANTONIO LARA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6790,
+   "fin": 6802,
+   "texto": "ANTONIO LARA"
+  },
+  {
+   "tipo": "person",
+   "ini": 7427,
+   "fin": 7442,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "DAVID MALDONADO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7427,
+   "fin": 7442,
+   "texto": "DAVID MALDONADO"
+  },
+  {
+   "tipo": "person",
+   "ini": 7938,
+   "fin": 7949,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "PEPE MOLINA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7938,
+   "fin": 7949,
+   "texto": "PEPE MOLINA"
+  },
+  {
+   "tipo": "person",
+   "ini": 8543,
+   "fin": 8561,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MAGDALENA MURCIANO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8543,
+   "fin": 8561,
+   "texto": "MAGDALENA MURCIANO"
+  },
+  {
+   "tipo": "person",
+   "ini": 9029,
+   "fin": 9045,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "HUMBERTO DEL RÍO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9029,
+   "fin": 9045,
+   "texto": "HUMBERTO DEL RÍO"
+  },
+  {
+   "tipo": "person",
+   "ini": 9591,
+   "fin": 9601,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JESÚS ROSA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9591,
+   "fin": 9601,
+   "texto": "JESÚS ROSA"
+  },
+  {
+   "tipo": "person",
+   "ini": 10057,
+   "fin": 10073,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MANUEL DEL VALLE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10057,
+   "fin": 10073,
+   "texto": "MANUEL DEL VALLE"
+  },
+  {
+   "tipo": "person",
+   "ini": 10681,
+   "fin": 10696,
+   "rasgos": {
+    "role": ""
+   },
+   "texto": "Bernardo Palomo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10681,
+   "fin": 10696,
+   "texto": "Bernardo Palomo"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 10699,
+   "fin": 11990
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 10709,
+   "fin": 10987
+  },
+  {
+   "tipo": "person",
+   "ini": 10709,
+   "fin": 10719,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ROCÍO CANO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10709,
+   "fin": 10719,
+   "texto": "ROCÍO CANO"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10721,
+   "fin": 10770
+  },
+  {
+   "tipo": "img",
+   "ini": 10721,
+   "fin": 10726,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10728,
+   "fin": 10770,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "PLAYA DE LOS BATELES II\nÓleo sobre lienzo."
+  },
+  {
+   "tipo": "title",
+   "ini": 10728,
+   "fin": 10751,
+   "texto": "PLAYA DE LOS BATELES II"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10752,
+   "fin": 10769,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10772,
+   "fin": 10811
+  },
+  {
+   "tipo": "img",
+   "ini": 10772,
+   "fin": 10777,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10779,
+   "fin": 10811,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "APUNTE URBANO I\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 10779,
+   "fin": 10794,
+   "texto": "APUNTE URBANO I"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10795,
+   "fin": 10811,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10813,
+   "fin": 10853
+  },
+  {
+   "tipo": "img",
+   "ini": 10813,
+   "fin": 10818,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10820,
+   "fin": 10853,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "APUNTE URBANO II\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 10820,
+   "fin": 10836,
+   "texto": "APUNTE URBANO II"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10837,
+   "fin": 10853,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10855,
+   "fin": 10899
+  },
+  {
+   "tipo": "img",
+   "ini": 10855,
+   "fin": 10860,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10862,
+   "fin": 10899,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "FARO DE TRAFALGAR I\nÓleo sobre tabla."
+  },
+  {
+   "tipo": "title",
+   "ini": 10862,
+   "fin": 10881,
+   "texto": "FARO DE TRAFALGAR I"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10882,
+   "fin": 10898,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10901,
+   "fin": 10946
+  },
+  {
+   "tipo": "img",
+   "ini": 10901,
+   "fin": 10906,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10908,
+   "fin": 10946,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "FARO DE TRAFALGAR II\nÓleo sobre tabla."
+  },
+  {
+   "tipo": "title",
+   "ini": 10908,
+   "fin": 10928,
+   "texto": "FARO DE TRAFALGAR II"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10929,
+   "fin": 10945,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10948,
+   "fin": 10987
+  },
+  {
+   "tipo": "img",
+   "ini": 10948,
+   "fin": 10953,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10955,
+   "fin": 10987,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "VEGA DE CONIL\nÓleo sobre lienzo."
+  },
+  {
+   "tipo": "title",
+   "ini": 10955,
+   "fin": 10968,
+   "texto": "VEGA DE CONIL"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10969,
+   "fin": 10986,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 10989,
+   "fin": 11087
+  },
+  {
+   "tipo": "person",
+   "ini": 10989,
+   "fin": 11001,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ANTONIO LARA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10989,
+   "fin": 11001,
+   "texto": "ANTONIO LARA"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11003,
+   "fin": 11046
+  },
+  {
+   "tipo": "img",
+   "ini": 11003,
+   "fin": 11008,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11010,
+   "fin": 11046,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "MÁRMOL SOBRE MÁRMOL\nÓleo sobre lino."
+  },
+  {
+   "tipo": "title",
+   "ini": 11010,
+   "fin": 11029,
+   "texto": "MÁRMOL SOBRE MÁRMOL"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11030,
+   "fin": 11045,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lino"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11048,
+   "fin": 11087
+  },
+  {
+   "tipo": "img",
+   "ini": 11048,
+   "fin": 11053,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11055,
+   "fin": 11087,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "OBRA EN PROCESO\nÓleo sobre lino."
+  },
+  {
+   "tipo": "title",
+   "ini": 11055,
+   "fin": 11070,
+   "texto": "OBRA EN PROCESO"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11071,
+   "fin": 11086,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lino"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 11089,
+   "fin": 11182
+  },
+  {
+   "tipo": "person",
+   "ini": 11089,
+   "fin": 11104,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "DAVID MALDONADO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11089,
+   "fin": 11104,
+   "texto": "DAVID MALDONADO"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11106,
+   "fin": 11137
+  },
+  {
+   "tipo": "img",
+   "ini": 11106,
+   "fin": 11111,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11113,
+   "fin": 11137,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "PARQUE\nÓleo sobre tabla."
+  },
+  {
+   "tipo": "title",
+   "ini": 11113,
+   "fin": 11119,
+   "texto": "PARQUE"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11120,
+   "fin": 11136,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11139,
+   "fin": 11182
+  },
+  {
+   "tipo": "img",
+   "ini": 11139,
+   "fin": 11144,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11146,
+   "fin": 11182,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "PAISAJE CON CIPRÉS\nÓleo sobre Tabla."
+  },
+  {
+   "tipo": "title",
+   "ini": 11146,
+   "fin": 11164,
+   "texto": "PAISAJE CON CIPRÉS"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11165,
+   "fin": 11181,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre Tabla"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 11184,
+   "fin": 11283
+  },
+  {
+   "tipo": "person",
+   "ini": 11184,
+   "fin": 11195,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "PEPE MOLINA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11184,
+   "fin": 11195,
+   "texto": "PEPE MOLINA"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11197,
+   "fin": 11239
+  },
+  {
+   "tipo": "img",
+   "ini": 11197,
+   "fin": 11202,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11204,
+   "fin": 11239,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "DIVERTIMENTO\nÓleo sobre papel kraf."
+  },
+  {
+   "tipo": "title",
+   "ini": 11204,
+   "fin": 11216,
+   "texto": "DIVERTIMENTO"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11217,
+   "fin": 11238,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre papel kraf"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11241,
+   "fin": 11283
+  },
+  {
+   "tipo": "img",
+   "ini": 11241,
+   "fin": 11246,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11248,
+   "fin": 11283,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "DIVERTIMENTO\nÓleo sobre papel kraf."
+  },
+  {
+   "tipo": "title",
+   "ini": 11248,
+   "fin": 11260,
+   "texto": "DIVERTIMENTO"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11261,
+   "fin": 11282,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Óleo sobre papel kraf"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 11285,
+   "fin": 11438
+  },
+  {
+   "tipo": "person",
+   "ini": 11285,
+   "fin": 11303,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MAGDALENA MURCIANO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11285,
+   "fin": 11303,
+   "texto": "MAGDALENA MURCIANO"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11305,
+   "fin": 11344
+  },
+  {
+   "tipo": "img",
+   "ini": 11305,
+   "fin": 11310,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11312,
+   "fin": 11344,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "LOS GRITOS\nAcrílico sobre papel."
+  },
+  {
+   "tipo": "title",
+   "ini": 11312,
+   "fin": 11322,
+   "texto": "LOS GRITOS"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11323,
+   "fin": 11343,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11346,
+   "fin": 11384
+  },
+  {
+   "tipo": "img",
+   "ini": 11346,
+   "fin": 11351,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11353,
+   "fin": 11384,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "SIN TÍTULO\nAcrílico sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 11353,
+   "fin": 11363,
+   "texto": "SIN TÍTULO"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11364,
+   "fin": 11384,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11386,
+   "fin": 11438
+  },
+  {
+   "tipo": "img",
+   "ini": 11386,
+   "fin": 11391,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11393,
+   "fin": 11438,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "SIN TÍTULO\nAcrílico sobre tela. 93 x 130 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 11393,
+   "fin": 11403,
+   "texto": "SIN TÍTULO"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11404,
+   "fin": 11423,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11425,
+   "fin": 11437,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "93 x 130 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 11425,
+   "fin": 11427,
+   "texto": "93"
+  },
+  {
+   "tipo": "width",
+   "ini": 11430,
+   "fin": 11433,
+   "texto": "130"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 11440,
+   "fin": 11637
+  },
+  {
+   "tipo": "person",
+   "ini": 11440,
+   "fin": 11456,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "HUMBERTO DEL RÍO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11440,
+   "fin": 11456,
+   "texto": "HUMBERTO DEL RÍO"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11458,
+   "fin": 11498
+  },
+  {
+   "tipo": "img",
+   "ini": 11458,
+   "fin": 11463,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11465,
+   "fin": 11498,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "MÁSCARA y VELO\nGraﬁto sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 11465,
+   "fin": 11479,
+   "texto": "MÁSCARA y VELO"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11480,
+   "fin": 11498,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Graﬁto sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11500,
+   "fin": 11547
+  },
+  {
+   "tipo": "img",
+   "ini": 11500,
+   "fin": 11505,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11507,
+   "fin": 11547,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "FRÁGIL INESTABILIDAD\nGraﬁto sobre papel."
+  },
+  {
+   "tipo": "title",
+   "ini": 11507,
+   "fin": 11527,
+   "texto": "FRÁGIL INESTABILIDAD"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11528,
+   "fin": 11546,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Graﬁto sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11549,
+   "fin": 11590
+  },
+  {
+   "tipo": "img",
+   "ini": 11549,
+   "fin": 11554,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 11555,
+   "fin": 11560,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 11561,
+   "fin": 11566,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 11568,
+   "fin": 11590,
+   "rasgos": {
+    "type": "drawing",
+    "size": "3"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 11568,
+   "fin": 11571,
+   "texto": "S/T"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11572,
+   "fin": 11590,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Graﬁto sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11592,
+   "fin": 11637
+  },
+  {
+   "tipo": "img",
+   "ini": 11592,
+   "fin": 11597,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11599,
+   "fin": 11637,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "S/T\nGraﬁto sobre papel. 114 x 100 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 11599,
+   "fin": 11602,
+   "texto": "S/T"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11603,
+   "fin": 11621,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Graﬁto sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11623,
+   "fin": 11636,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "114 x 100 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 11623,
+   "fin": 11626,
+   "texto": "114"
+  },
+  {
+   "tipo": "width",
+   "ini": 11629,
+   "fin": 11632,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 11639,
+   "fin": 11865
+  },
+  {
+   "tipo": "person",
+   "ini": 11639,
+   "fin": 11649,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JESÚS ROSA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11639,
+   "fin": 11649,
+   "texto": "JESÚS ROSA"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11651,
+   "fin": 11703
+  },
+  {
+   "tipo": "img",
+   "ini": 11651,
+   "fin": 11656,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11658,
+   "fin": 11703,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "CUPIDO IS DEAD\nÓleo sobre lienzo 65 x 45 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 11658,
+   "fin": 11672,
+   "texto": "CUPIDO IS DEAD"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11673,
+   "fin": 11690,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11691,
+   "fin": 11702,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 45 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 11691,
+   "fin": 11693,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 11696,
+   "fin": 11698,
+   "texto": "45"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11705,
+   "fin": 11778
+  },
+  {
+   "tipo": "img",
+   "ini": 11705,
+   "fin": 11710,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11712,
+   "fin": 11778,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "REBELIÓN EN EL CAMPO BASE\nTécnica mixta sobre lienzo. 114 114 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 11712,
+   "fin": 11737,
+   "texto": "REBELIÓN EN EL CAMPO BASE"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11738,
+   "fin": 11764,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Técnica mixta sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11766,
+   "fin": 11777,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "114 114 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 11766,
+   "fin": 11769,
+   "texto": "114"
+  },
+  {
+   "tipo": "width",
+   "ini": 11770,
+   "fin": 11773,
+   "texto": "114"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11780,
+   "fin": 11865
+  },
+  {
+   "tipo": "img",
+   "ini": 11780,
+   "fin": 11785,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11787,
+   "fin": 11865,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "1.- LA LEVEDAD DE LA FUERZA DE ATRACCIÓN\nAcrílico sobre lienzo. 160 x 130 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 11787,
+   "fin": 11827,
+   "texto": "1.- LA LEVEDAD DE LA FUERZA DE ATRACCIÓN"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11828,
+   "fin": 11849,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11851,
+   "fin": 11864,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "160 x 130 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 11851,
+   "fin": 11854,
+   "texto": "160"
+  },
+  {
+   "tipo": "width",
+   "ini": 11857,
+   "fin": 11860,
+   "texto": "130"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 11867,
+   "fin": 11990
+  },
+  {
+   "tipo": "person",
+   "ini": 11867,
+   "fin": 11883,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MANUEL DEL VALLE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11867,
+   "fin": 11883,
+   "texto": "MANUEL DEL VALLE"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11885,
+   "fin": 11932
+  },
+  {
+   "tipo": "img",
+   "ini": 11885,
+   "fin": 11890,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11892,
+   "fin": 11932,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "EVACUACIÓN TRIBAL\nAcrílico sobre lienzo."
+  },
+  {
+   "tipo": "title",
+   "ini": 11892,
+   "fin": 11909,
+   "texto": "EVACUACIÓN TRIBAL"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11910,
+   "fin": 11931,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11934,
+   "fin": 11990
+  },
+  {
+   "tipo": "img",
+   "ini": 11934,
+   "fin": 11939,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11941,
+   "fin": 11990,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ANDANDO POR LAS RAMAS\nTécnica Mixta sobre lienzo."
+  },
+  {
+   "tipo": "title",
+   "ini": 11941,
+   "fin": 11962,
+   "texto": "ANDANDO POR LAS RAMAS"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11963,
+   "fin": 11990,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo."
+  },
+  {
+   "tipo": "date",
+   "ini": 12058,
+   "fin": 12062,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  }
+ ]
+}

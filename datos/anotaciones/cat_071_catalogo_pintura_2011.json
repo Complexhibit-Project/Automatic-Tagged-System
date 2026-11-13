@@ -1,0 +1,1502 @@
+{
+ "id": "cat_071_catalogo_pintura_2011",
+ "nombre_original": "Catalogo_pintura_2011",
+ "longitud_texto": 6307,
+ "sha256_texto": "fe0fda13e6d045d419a106b354538bb375aba6a7f923bbf1d7d88a1caf5632da",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 43,
+   "texto": "XIV PREMIO DE PINTURA\nFUNDACIÓN MAINEL 2011"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 43,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 22,
+   "fin": 38,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "FUNDACIÓN MAINEL"
+  },
+  {
+   "tipo": "date",
+   "ini": 39,
+   "fin": 43,
+   "rasgos": {
+    "when": "2011"
+   },
+   "texto": "2011"
+  },
+  {
+   "tipo": "title",
+   "ini": 45,
+   "fin": 51,
+   "texto": "XIV 11"
+  },
+  {
+   "tipo": "title",
+   "ini": 53,
+   "fin": 96,
+   "texto": "XIV PREMIO DE PINTURA\nFUNDACIÓN MAINEL 2011"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 53,
+   "fin": 96,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 75,
+   "fin": 91,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "FUNDACIÓN MAINEL"
+  },
+  {
+   "tipo": "date",
+   "ini": 92,
+   "fin": 96,
+   "rasgos": {
+    "when": "2011"
+   },
+   "texto": "2011"
+  },
+  {
+   "tipo": "title",
+   "ini": 98,
+   "fin": 104,
+   "texto": "XIV 11"
+  },
+  {
+   "tipo": "title",
+   "ini": 106,
+   "fin": 149,
+   "texto": "XIV PREMIO DE PINTURA FUNDACIÓN MAINEL 2011"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 106,
+   "fin": 149,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 128,
+   "fin": 144,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "FUNDACIÓN MAINEL"
+  },
+  {
+   "tipo": "date",
+   "ini": 145,
+   "fin": 149,
+   "rasgos": {
+    "when": "2011"
+   },
+   "texto": "2011"
+  },
+  {
+   "tipo": "persName",
+   "ini": 164,
+   "fin": 192,
+   "texto": "Vicente Emilio López Castell"
+  },
+  {
+   "tipo": "institution",
+   "ini": 210,
+   "fin": 226,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "Fundación Mainel"
+  },
+  {
+   "tipo": "institution",
+   "ini": 253,
+   "fin": 269,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "Fundación Mainel"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1706,
+   "fin": 1722,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "Fundación Mainel"
+  },
+  {
+   "tipo": "title",
+   "ini": 1951,
+   "fin": 1994,
+   "texto": "XIV PREMIO DE PINTURA FUNDACIÓN MAINEL 2011"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1973,
+   "fin": 1989,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "FUNDACIÓN MAINEL"
+  },
+  {
+   "tipo": "date",
+   "ini": 1990,
+   "fin": 1994,
+   "rasgos": {
+    "when": "2011"
+   },
+   "texto": "2011"
+  },
+  {
+   "tipo": "title",
+   "ini": 1996,
+   "fin": 2003,
+   "texto": "PRÓLOGO"
+  },
+  {
+   "tipo": "person",
+   "ini": 2004,
+   "fin": 2025,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Manuel Martínez Torán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2004,
+   "fin": 2025,
+   "texto": "Manuel Martínez Torán"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2210,
+   "fin": 2226,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "Fundación Mainel"
+  },
+  {
+   "tipo": "person",
+   "ini": 3088,
+   "fin": 3126,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "joven pintor taiwanés Chao-Cheng\nHuang"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3110,
+   "fin": 3126,
+   "texto": "Chao-Cheng\nHuang"
+  },
+  {
+   "tipo": "title",
+   "ini": 3577,
+   "fin": 3591,
+   "texto": "“Pensar en ti”"
+  },
+  {
+   "tipo": "work",
+   "ini": 3577,
+   "fin": 3591,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "“Pensar en ti”"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3629,
+   "fin": 3645,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "Fundación Mainel"
+  },
+  {
+   "tipo": "title",
+   "ini": 3723,
+   "fin": 3766,
+   "texto": "XIV PREMIO DE PINTURA FUNDACIÓN MAINEL 2011"
+  },
+  {
+   "tipo": "person",
+   "ini": 3847,
+   "fin": 3861,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ferran Gisbert"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3847,
+   "fin": 3861,
+   "texto": "Ferran Gisbert"
+  },
+  {
+   "tipo": "person",
+   "ini": 4184,
+   "fin": 4191,
+   "texto": "Efremov"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4184,
+   "fin": 4191,
+   "texto": "Efremov"
+  },
+  {
+   "tipo": "person",
+   "ini": 4665,
+   "fin": 4682,
+   "rasgos": {
+    "role": "jury"
+   },
+   "texto": "Román de la Calle"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4665,
+   "fin": 4682,
+   "texto": "Román de la Calle"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4700,
+   "fin": 4743,
+   "rasgos": {
+    "type": "academy"
+   },
+   "texto": "Real Academia de Bellas Artes de San Carlos"
+  },
+  {
+   "tipo": "person",
+   "ini": 4745,
+   "fin": 4766,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Manuel Martínez Torán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4745,
+   "fin": 4766,
+   "texto": "Manuel Martínez Torán"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4801,
+   "fin": 4817,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "Fundación Mainel"
+  },
+  {
+   "tipo": "person",
+   "ini": 4819,
+   "fin": 4832,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Ana de Miguel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4819,
+   "fin": 4832,
+   "texto": "Ana de Miguel"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4849,
+   "fin": 4862,
+   "rasgos": {
+    "type": "exhibitionHall"
+   },
+   "texto": "Sala Parpalló"
+  },
+  {
+   "tipo": "person",
+   "ini": 4864,
+   "fin": 4874,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Nacho Ruiz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4864,
+   "fin": 4874,
+   "texto": "Nacho Ruiz"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4890,
+   "fin": 4910,
+   "rasgos": {
+    "type": "gallery"
+   },
+   "texto": "Galería T20 (Murcia)"
+  },
+  {
+   "tipo": "person",
+   "ini": 4912,
+   "fin": 4925,
+   "rasgos": {
+    "role": "artist"
+   },
+   "texto": "Horacio Silva"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4912,
+   "fin": 4925,
+   "texto": "Horacio Silva"
+  },
+  {
+   "tipo": "person",
+   "ini": 4944,
+   "fin": 4959,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Jorge Sebastián"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4944,
+   "fin": 4959,
+   "texto": "Jorge Sebastián"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4975,
+   "fin": 4991,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "Fundación Mainel"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 4993,
+   "fin": 5958
+  },
+  {
+   "tipo": "title",
+   "ini": 4993,
+   "fin": 5039,
+   "texto": "1\n\nXIV PREMIO DE PINTURA\nFUNDACIÓN MAINEL 2011"
+  },
+  {
+   "tipo": "date",
+   "ini": 5035,
+   "fin": 5039,
+   "rasgos": {
+    "when": "2011"
+   },
+   "texto": "2011"
+  },
+  {
+   "tipo": "title",
+   "ini": 5041,
+   "fin": 5054,
+   "texto": "OBRA\nPREMIADA"
+  },
+  {
+   "tipo": "title",
+   "ini": 5056,
+   "fin": 5062,
+   "texto": "XIV 11"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5064,
+   "fin": 5129
+  },
+  {
+   "tipo": "img",
+   "ini": 5064,
+   "fin": 5069,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5071,
+   "fin": 5129,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "CHAO-CHENG HUANG\nPensar en ti. Óleo sobre lienzo. 97x145,5"
+  },
+  {
+   "tipo": "person",
+   "ini": 5071,
+   "fin": 5087,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "CHAO-CHENG HUANG"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5071,
+   "fin": 5087,
+   "texto": "CHAO-CHENG HUANG"
+  },
+  {
+   "tipo": "title",
+   "ini": 5088,
+   "fin": 5100,
+   "texto": "Pensar en ti"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5102,
+   "fin": 5119,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5121,
+   "fin": 5129,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "97x145,5"
+  },
+  {
+   "tipo": "height",
+   "ini": 5121,
+   "fin": 5123,
+   "texto": "97"
+  },
+  {
+   "tipo": "width",
+   "ini": 5124,
+   "fin": 5129,
+   "texto": "145,5"
+  },
+  {
+   "tipo": "title",
+   "ini": 5131,
+   "fin": 5178,
+   "texto": "10\n\nXIV PREMIO DE PINTURA\nFUNDACIÓN MAINEL 2011"
+  },
+  {
+   "tipo": "date",
+   "ini": 5174,
+   "fin": 5178,
+   "rasgos": {
+    "when": "2011"
+   },
+   "texto": "2011"
+  },
+  {
+   "tipo": "title",
+   "ini": 5180,
+   "fin": 5186,
+   "texto": "XIV 11"
+  },
+  {
+   "tipo": "title",
+   "ini": 5188,
+   "fin": 5197,
+   "texto": "MENCIONES"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5199,
+   "fin": 5267
+  },
+  {
+   "tipo": "img",
+   "ini": 5199,
+   "fin": 5204,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5206,
+   "fin": 5267,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "JAIME ARNAU RODRÍGUEZ\nSin solución. Óleo sobre tabla. 114x146"
+  },
+  {
+   "tipo": "person",
+   "ini": 5206,
+   "fin": 5227,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JAIME ARNAU RODRÍGUEZ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5206,
+   "fin": 5227,
+   "texto": "JAIME ARNAU RODRÍGUEZ"
+  },
+  {
+   "tipo": "title",
+   "ini": 5228,
+   "fin": 5240,
+   "texto": "Sin solución"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5242,
+   "fin": 5258,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5260,
+   "fin": 5267,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "114x146"
+  },
+  {
+   "tipo": "height",
+   "ini": 5260,
+   "fin": 5263,
+   "texto": "114"
+  },
+  {
+   "tipo": "width",
+   "ini": 5264,
+   "fin": 5267,
+   "texto": "146"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5269,
+   "fin": 5333
+  },
+  {
+   "tipo": "img",
+   "ini": 5269,
+   "fin": 5274,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5276,
+   "fin": 5333,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ANA BELTRÁN PORCAR\nChile verde. Óleo sobre lienzo. 92x140"
+  },
+  {
+   "tipo": "person",
+   "ini": 5276,
+   "fin": 5294,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ANA BELTRÁN PORCAR"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5276,
+   "fin": 5294,
+   "texto": "ANA BELTRÁN PORCAR"
+  },
+  {
+   "tipo": "title",
+   "ini": 5295,
+   "fin": 5306,
+   "texto": "Chile verde"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5308,
+   "fin": 5325,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5327,
+   "fin": 5333,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "92x140"
+  },
+  {
+   "tipo": "height",
+   "ini": 5327,
+   "fin": 5329,
+   "texto": "92"
+  },
+  {
+   "tipo": "width",
+   "ini": 5330,
+   "fin": 5333,
+   "texto": "140"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5335,
+   "fin": 5410
+  },
+  {
+   "tipo": "img",
+   "ini": 5335,
+   "fin": 5340,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5342,
+   "fin": 5410,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "MARÍA CARBONELL FOULQUIÉ\nMirando al vacío. Óleo sobre tabla. 150x150"
+  },
+  {
+   "tipo": "person",
+   "ini": 5342,
+   "fin": 5366,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MARÍA CARBONELL FOULQUIÉ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5342,
+   "fin": 5366,
+   "texto": "MARÍA CARBONELL FOULQUIÉ"
+  },
+  {
+   "tipo": "title",
+   "ini": 5367,
+   "fin": 5383,
+   "texto": "Mirando al vacío"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5385,
+   "fin": 5401,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5403,
+   "fin": 5410,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150x150"
+  },
+  {
+   "tipo": "height",
+   "ini": 5403,
+   "fin": 5406,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 5407,
+   "fin": 5410,
+   "texto": "150"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5412,
+   "fin": 5497
+  },
+  {
+   "tipo": "img",
+   "ini": 5412,
+   "fin": 5417,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5419,
+   "fin": 5497,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "INMA FEMENÍA MORERA\nAbsència-Llum. Registro digital sobre poliuretano. 150x150"
+  },
+  {
+   "tipo": "person",
+   "ini": 5419,
+   "fin": 5438,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "INMA FEMENÍA MORERA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5419,
+   "fin": 5438,
+   "texto": "INMA FEMENÍA MORERA"
+  },
+  {
+   "tipo": "title",
+   "ini": 5439,
+   "fin": 5452,
+   "texto": "Absència-Llum"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5454,
+   "fin": 5488,
+   "rasgos": {
+    "type": "digitalRecord"
+   },
+   "texto": "Registro digital sobre poliuretano"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5490,
+   "fin": 5497,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150x150"
+  },
+  {
+   "tipo": "height",
+   "ini": 5490,
+   "fin": 5493,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 5494,
+   "fin": 5497,
+   "texto": "150"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5499,
+   "fin": 5607
+  },
+  {
+   "tipo": "img",
+   "ini": 5499,
+   "fin": 5504,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5506,
+   "fin": 5607,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "FELIPE FUENTES ALFÉREZ\nLa espera. Acrílico, serigrafía y resina sobre aluminio y metacrilato. 150x130"
+  },
+  {
+   "tipo": "person",
+   "ini": 5506,
+   "fin": 5528,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "FELIPE FUENTES ALFÉREZ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5506,
+   "fin": 5528,
+   "texto": "FELIPE FUENTES ALFÉREZ"
+  },
+  {
+   "tipo": "title",
+   "ini": 5529,
+   "fin": 5538,
+   "texto": "La espera"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5540,
+   "fin": 5598,
+   "rasgos": {
+    "type": "acrylic, resin, serigraph"
+   },
+   "texto": "Acrílico, serigrafía y resina sobre aluminio y metacrilato"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5600,
+   "fin": 5607,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150x130"
+  },
+  {
+   "tipo": "height",
+   "ini": 5600,
+   "fin": 5603,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 5604,
+   "fin": 5607,
+   "texto": "130"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5609,
+   "fin": 5683
+  },
+  {
+   "tipo": "img",
+   "ini": 5609,
+   "fin": 5614,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5616,
+   "fin": 5683,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "CRISTINA GAMÓN LÁZARO\nInfinito. Acrílico sobre metacrilato. 150x150"
+  },
+  {
+   "tipo": "person",
+   "ini": 5616,
+   "fin": 5637,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "CRISTINA GAMÓN LÁZARO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5616,
+   "fin": 5637,
+   "texto": "CRISTINA GAMÓN LÁZARO"
+  },
+  {
+   "tipo": "title",
+   "ini": 5638,
+   "fin": 5646,
+   "texto": "Infinito"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5648,
+   "fin": 5674,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre metacrilato"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5676,
+   "fin": 5683,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150x150"
+  },
+  {
+   "tipo": "height",
+   "ini": 5676,
+   "fin": 5679,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 5680,
+   "fin": 5683,
+   "texto": "150"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5685,
+   "fin": 5746
+  },
+  {
+   "tipo": "img",
+   "ini": 5685,
+   "fin": 5690,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5692,
+   "fin": 5746,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "LEONARDO GARCÍA CUENCA\nS/T. Óleo sobre lienzo. 150x150"
+  },
+  {
+   "tipo": "person",
+   "ini": 5692,
+   "fin": 5714,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "LEONARDO GARCÍA CUENCA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5692,
+   "fin": 5714,
+   "texto": "LEONARDO GARCÍA CUENCA"
+  },
+  {
+   "tipo": "title",
+   "ini": 5715,
+   "fin": 5718,
+   "texto": "S/T"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5720,
+   "fin": 5737,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5739,
+   "fin": 5746,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150x150"
+  },
+  {
+   "tipo": "height",
+   "ini": 5739,
+   "fin": 5742,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 5743,
+   "fin": 5746,
+   "texto": "150"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5748,
+   "fin": 5817
+  },
+  {
+   "tipo": "img",
+   "ini": 5748,
+   "fin": 5753,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5755,
+   "fin": 5817,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ÀNGELS GIRONA GARCÍA\nAlbane II. Acrílico sobre lienzo. 150x150"
+  },
+  {
+   "tipo": "person",
+   "ini": 5755,
+   "fin": 5775,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ÀNGELS GIRONA GARCÍA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5755,
+   "fin": 5775,
+   "texto": "ÀNGELS GIRONA GARCÍA"
+  },
+  {
+   "tipo": "title",
+   "ini": 5776,
+   "fin": 5785,
+   "texto": "Albane II"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5787,
+   "fin": 5808,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5810,
+   "fin": 5817,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150x150"
+  },
+  {
+   "tipo": "height",
+   "ini": 5810,
+   "fin": 5813,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 5814,
+   "fin": 5817,
+   "texto": "150"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5819,
+   "fin": 5889
+  },
+  {
+   "tipo": "img",
+   "ini": 5819,
+   "fin": 5824,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5826,
+   "fin": 5889,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "FERRAN GISBERT CARBONELL\nTemplo. Acrílico sobre lienzo. 150x150"
+  },
+  {
+   "tipo": "person",
+   "ini": 5826,
+   "fin": 5850,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "FERRAN GISBERT CARBONELL"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5826,
+   "fin": 5850,
+   "texto": "FERRAN GISBERT CARBONELL"
+  },
+  {
+   "tipo": "title",
+   "ini": 5851,
+   "fin": 5857,
+   "texto": "Templo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5859,
+   "fin": 5880,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5882,
+   "fin": 5889,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150x150"
+  },
+  {
+   "tipo": "height",
+   "ini": 5882,
+   "fin": 5885,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 5886,
+   "fin": 5889,
+   "texto": "150"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5891,
+   "fin": 5958
+  },
+  {
+   "tipo": "img",
+   "ini": 5891,
+   "fin": 5896,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5898,
+   "fin": 5958,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "MARINA PUCHE FABUEL\nInmersa. Paula. Óleo sobre tela. 150x150"
+  },
+  {
+   "tipo": "person",
+   "ini": 5898,
+   "fin": 5917,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MARINA PUCHE FABUEL"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5898,
+   "fin": 5917,
+   "texto": "MARINA PUCHE FABUEL"
+  },
+  {
+   "tipo": "title",
+   "ini": 5918,
+   "fin": 5933,
+   "texto": "Inmersa. Paula."
+  },
+  {
+   "tipo": "technique",
+   "ini": 5934,
+   "fin": 5949,
+   "rasgos": {
+    "type": ""
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5951,
+   "fin": 5958,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150x150"
+  },
+  {
+   "tipo": "height",
+   "ini": 5951,
+   "fin": 5954,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 5955,
+   "fin": 5958,
+   "texto": "150"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 5960,
+   "fin": 6305,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 5960,
+   "fin": 6003,
+   "texto": "XIV PREMIO DE PINTURA\nFUNDACIÓN MAINEL 2011"
+  },
+  {
+   "tipo": "date",
+   "ini": 5999,
+   "fin": 6003,
+   "rasgos": {
+    "when": "2011"
+   },
+   "texto": "2011"
+  },
+  {
+   "tipo": "title",
+   "ini": 6005,
+   "fin": 6011,
+   "texto": "XIV 11"
+  },
+  {
+   "tipo": "person",
+   "ini": 6030,
+   "fin": 6045,
+   "rasgos": {
+    "role": "jury"
+   },
+   "texto": "Manuel Martínez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6030,
+   "fin": 6045,
+   "texto": "Manuel Martínez"
+  },
+  {
+   "tipo": "person",
+   "ini": 6047,
+   "fin": 6062,
+   "rasgos": {
+    "role": "jury"
+   },
+   "texto": "Jorge Sebastián"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6047,
+   "fin": 6062,
+   "texto": "Jorge Sebastián"
+  },
+  {
+   "tipo": "person",
+   "ini": 6064,
+   "fin": 6074,
+   "rasgos": {
+    "role": "jury"
+   },
+   "texto": "Nacho Ruiz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6064,
+   "fin": 6074,
+   "texto": "Nacho Ruiz"
+  },
+  {
+   "tipo": "person",
+   "ini": 6076,
+   "fin": 6089,
+   "rasgos": {
+    "role": "jury"
+   },
+   "texto": "Ana de Miguel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6076,
+   "fin": 6089,
+   "texto": "Ana de Miguel"
+  },
+  {
+   "tipo": "person",
+   "ini": 6091,
+   "fin": 6108,
+   "rasgos": {
+    "role": "jury"
+   },
+   "texto": "Román de la Calle"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6091,
+   "fin": 6108,
+   "texto": "Román de la Calle"
+  },
+  {
+   "tipo": "person",
+   "ini": 6111,
+   "fin": 6124,
+   "rasgos": {
+    "role": "jury"
+   },
+   "texto": "Horacio Silva"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6111,
+   "fin": 6124,
+   "texto": "Horacio Silva"
+  },
+  {
+   "tipo": "date",
+   "ini": 6142,
+   "fin": 6152,
+   "rasgos": {
+    "when": "2011-07-01"
+   },
+   "texto": "julio 2011"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6154,
+   "fin": 6170,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "Fundación Mainel"
+  },
+  {
+   "tipo": "person",
+   "ini": 6182,
+   "fin": 6197,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Manuel Martínez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6182,
+   "fin": 6197,
+   "texto": "Manuel Martínez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6205,
+   "fin": 6221,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "Fundación Mainel"
+  },
+  {
+   "tipo": "date",
+   "ini": 6224,
+   "fin": 6228,
+   "rasgos": {
+    "when": "2011"
+   },
+   "texto": "2011"
+  },
+  {
+   "tipo": "person",
+   "ini": 6261,
+   "fin": 6272,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "Rosario Mas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6261,
+   "fin": 6272,
+   "texto": "Rosario Mas"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6282,
+   "fin": 6305,
+   "rasgos": {
+    "type": "print"
+   },
+   "texto": "Gráficas Marí Montañana"
+  }
+ ]
+}

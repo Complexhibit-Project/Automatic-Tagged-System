@@ -1,0 +1,2649 @@
+{
+ "id": "cat_014_2005_nuevos_fondos_col_arte_contemporane",
+ "nombre_original": "2005-NUEVOS-FONDOS-Col-Arte-Contemporaneo-W",
+ "longitud_texto": 7167,
+ "sha256_texto": "1249c72469e831f3f824fcb0f4010763b46ae22797721b861201dae0387dabec",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 198,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 47,
+   "texto": "colección\r\nde Arte Contemporáneo\r\nNUEVOS FONDOS"
+  },
+  {
+   "tipo": "institution",
+   "ini": 89,
+   "fin": 111,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "UNIVERSIDAD DE GRANADA"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 104,
+   "fin": 111,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "GRANADA"
+  },
+  {
+   "tipo": "institution",
+   "ini": 113,
+   "fin": 138,
+   "rasgos": {
+    "role": "venue"
+   },
+   "texto": "CRUCERO DEL HOSPITAL REAL"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 140,
+   "fin": 147,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "GRANADA"
+  },
+  {
+   "tipo": "date",
+   "ini": 153,
+   "fin": 184,
+   "rasgos": {
+    "from": "2005-03-12",
+    "to": ""
+   },
+   "texto": "12 de marzo al 7 de abril, 2005"
+  },
+  {
+   "tipo": "person",
+   "ini": 186,
+   "fin": 197,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "María Acuyo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 186,
+   "fin": 197,
+   "texto": "María Acuyo"
+  },
+  {
+   "tipo": "person",
+   "ini": 201,
+   "fin": 215,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Algarra"
+  },
+  {
+   "tipo": "persName",
+   "ini": 201,
+   "fin": 215,
+   "texto": "Javier Algarra"
+  },
+  {
+   "tipo": "person",
+   "ini": 216,
+   "fin": 231,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Bayona"
+  },
+  {
+   "tipo": "persName",
+   "ini": 216,
+   "fin": 231,
+   "texto": "Fernando Bayona"
+  },
+  {
+   "tipo": "person",
+   "ini": 232,
+   "fin": 255,
+   "rasgos": {
+    "type": "creator"
+   },
+   "texto": "Fernández Vicente Brito"
+  },
+  {
+   "tipo": "persName",
+   "ini": 232,
+   "fin": 255,
+   "texto": "Fernández Vicente Brito"
+  },
+  {
+   "tipo": "person",
+   "ini": 257,
+   "fin": 279,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Callejas Utrera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 257,
+   "fin": 279,
+   "texto": "Javier Callejas Utrera"
+  },
+  {
+   "tipo": "person",
+   "ini": 280,
+   "fin": 308,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Enrique Gabriel Campayo Olea"
+  },
+  {
+   "tipo": "persName",
+   "ini": 280,
+   "fin": 308,
+   "texto": "Enrique Gabriel Campayo Olea"
+  },
+  {
+   "tipo": "person",
+   "ini": 309,
+   "fin": 327,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carmen Casas Ubeda"
+  },
+  {
+   "tipo": "persName",
+   "ini": 309,
+   "fin": 327,
+   "texto": "Carmen Casas Ubeda"
+  },
+  {
+   "tipo": "person",
+   "ini": 328,
+   "fin": 358,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Antonio Cerezuela Zaplana"
+  },
+  {
+   "tipo": "persName",
+   "ini": 328,
+   "fin": 358,
+   "texto": "Juan Antonio Cerezuela Zaplana"
+  },
+  {
+   "tipo": "person",
+   "ini": 359,
+   "fin": 383,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Collados Alcaide"
+  },
+  {
+   "tipo": "persName",
+   "ini": 359,
+   "fin": 383,
+   "texto": "Antonio Collados Alcaide"
+  },
+  {
+   "tipo": "person",
+   "ini": 384,
+   "fin": 420,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Ma Guadalupe Díaz de la Guardia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 384,
+   "fin": 420,
+   "texto": "José Ma Guadalupe Díaz de la Guardia"
+  },
+  {
+   "tipo": "person",
+   "ini": 421,
+   "fin": 435,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Freixanes"
+  },
+  {
+   "tipo": "persName",
+   "ini": 421,
+   "fin": 435,
+   "texto": "José Freixanes"
+  },
+  {
+   "tipo": "person",
+   "ini": 436,
+   "fin": 449,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rafael Fuster"
+  },
+  {
+   "tipo": "persName",
+   "ini": 436,
+   "fin": 449,
+   "texto": "Rafael Fuster"
+  },
+  {
+   "tipo": "person",
+   "ini": 450,
+   "fin": 469,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Angel García Roldán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 450,
+   "fin": 469,
+   "texto": "Angel García Roldán"
+  },
+  {
+   "tipo": "person",
+   "ini": 470,
+   "fin": 494,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Cayetano Aníbal González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 470,
+   "fin": 494,
+   "texto": "Cayetano Aníbal González"
+  },
+  {
+   "tipo": "person",
+   "ini": 495,
+   "fin": 508,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jesús de Haro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 495,
+   "fin": 508,
+   "texto": "Jesús de Haro"
+  },
+  {
+   "tipo": "person",
+   "ini": 509,
+   "fin": 522,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel Jurado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 509,
+   "fin": 522,
+   "texto": "Manuel Jurado"
+  },
+  {
+   "tipo": "person",
+   "ini": 523,
+   "fin": 534,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Marcos Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 523,
+   "fin": 534,
+   "texto": "Marcos Lobo"
+  },
+  {
+   "tipo": "person",
+   "ini": 536,
+   "fin": 566,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Antonio Llanas Torres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 536,
+   "fin": 566,
+   "texto": "Santiago Antonio Llanas Torres"
+  },
+  {
+   "tipo": "person",
+   "ini": 567,
+   "fin": 588,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Silvia Martín Cabello"
+  },
+  {
+   "tipo": "persName",
+   "ini": 567,
+   "fin": 588,
+   "texto": "Silvia Martín Cabello"
+  },
+  {
+   "tipo": "person",
+   "ini": 589,
+   "fin": 601,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Diego Martín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 589,
+   "fin": 601,
+   "texto": "Diego Martín"
+  },
+  {
+   "tipo": "person",
+   "ini": 602,
+   "fin": 625,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Martínez Calderón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 602,
+   "fin": 625,
+   "texto": "David Martínez Calderón"
+  },
+  {
+   "tipo": "person",
+   "ini": 626,
+   "fin": 655,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Angel Melgares Calzado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 626,
+   "fin": 655,
+   "texto": "Miguel Angel Melgares Calzado"
+  },
+  {
+   "tipo": "person",
+   "ini": 656,
+   "fin": 682,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Francisco Montañés Padilla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 656,
+   "fin": 682,
+   "texto": "Francisco Montañés Padilla"
+  },
+  {
+   "tipo": "person",
+   "ini": 683,
+   "fin": 716,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Carlos Montesinos Aragonés"
+  },
+  {
+   "tipo": "persName",
+   "ini": 683,
+   "fin": 716,
+   "texto": "Miguel Carlos Montesinos Aragonés"
+  },
+  {
+   "tipo": "person",
+   "ini": 717,
+   "fin": 730,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Morantes"
+  },
+  {
+   "tipo": "persName",
+   "ini": 717,
+   "fin": 730,
+   "texto": "Juan Morantes"
+  },
+  {
+   "tipo": "person",
+   "ini": 731,
+   "fin": 747,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ramón Muro Rivas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 731,
+   "fin": 747,
+   "texto": "Ramón Muro Rivas"
+  },
+  {
+   "tipo": "person",
+   "ini": 748,
+   "fin": 760,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pedro Olalla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 748,
+   "fin": 760,
+   "texto": "Pedro Olalla"
+  },
+  {
+   "tipo": "person",
+   "ini": 761,
+   "fin": 772,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Peña"
+  },
+  {
+   "tipo": "persName",
+   "ini": 761,
+   "fin": 772,
+   "texto": "Miguel Peña"
+  },
+  {
+   "tipo": "person",
+   "ini": 773,
+   "fin": 798,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Luis Ramos Molina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 773,
+   "fin": 798,
+   "texto": "Antonio Luis Ramos Molina"
+  },
+  {
+   "tipo": "person",
+   "ini": 799,
+   "fin": 821,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eugenio Rivas Herencia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 799,
+   "fin": 821,
+   "texto": "Eugenio Rivas Herencia"
+  },
+  {
+   "tipo": "person",
+   "ini": 822,
+   "fin": 840,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eduardo Roca Silva"
+  },
+  {
+   "tipo": "persName",
+   "ini": 822,
+   "fin": 840,
+   "texto": "Eduardo Roca Silva"
+  },
+  {
+   "tipo": "person",
+   "ini": 841,
+   "fin": 865,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rubén Rodríguez Silguero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 841,
+   "fin": 865,
+   "texto": "Rubén Rodríguez Silguero"
+  },
+  {
+   "tipo": "person",
+   "ini": 866,
+   "fin": 882,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pepa Salas Vilar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 866,
+   "fin": 882,
+   "texto": "Pepa Salas Vilar"
+  },
+  {
+   "tipo": "person",
+   "ini": 883,
+   "fin": 906,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bernardino Sánchez Bayo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 883,
+   "fin": 906,
+   "texto": "Bernardino Sánchez Bayo"
+  },
+  {
+   "tipo": "person",
+   "ini": 907,
+   "fin": 921,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Roberto Urbano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 907,
+   "fin": 921,
+   "texto": "Roberto Urbano"
+  },
+  {
+   "tipo": "person",
+   "ini": 922,
+   "fin": 945,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Enrique Verdugo Cornejo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 922,
+   "fin": 945,
+   "texto": "Enrique Verdugo Cornejo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 988,
+   "fin": 1010,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "UNIVERSIDAD DE GRANADA"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1003,
+   "fin": 1010,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "GRANADA"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1015,
+   "fin": 1037,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "Universidad de Granada"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1030,
+   "fin": 1037,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Granada"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1251,
+   "fin": 1320,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "Vicerrectorado de Extensión Universitaria y Cooperación al Desarrollo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1576,
+   "fin": 1601,
+   "rasgos": {
+    "role": "venue"
+   },
+   "texto": "Crucero del Hospital Real"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1663,
+   "fin": 1670,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Granada"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1965,
+   "fin": 1987,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "Universidad de Granada"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1980,
+   "fin": 1987,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Granada"
+  },
+  {
+   "tipo": "person",
+   "ini": 2282,
+   "fin": 2300,
+   "rasgos": {
+    "role": "rector"
+   },
+   "texto": "David Aguilar Peña"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2282,
+   "fin": 2300,
+   "texto": "David Aguilar Peña"
+  },
+  {
+   "tipo": "img",
+   "ini": 2311,
+   "fin": 2316,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 2317,
+   "fin": 6137
+  },
+  {
+   "tipo": "img",
+   "ini": 2319,
+   "fin": 2324,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2326,
+   "fin": 2359,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Eduardo Roca Silva\r\nPunto de fuga"
+  },
+  {
+   "tipo": "person",
+   "ini": 2326,
+   "fin": 2344,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Eduardo Roca Silva"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2326,
+   "fin": 2344,
+   "texto": "Eduardo Roca Silva"
+  },
+  {
+   "tipo": "title",
+   "ini": 2346,
+   "fin": 2359,
+   "texto": "Punto de fuga"
+  },
+  {
+   "tipo": "img",
+   "ini": 2363,
+   "fin": 2368,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2370,
+   "fin": 2427,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Cayetano Aníbal González\r\nSombras y reflejos en el rincón"
+  },
+  {
+   "tipo": "person",
+   "ini": 2370,
+   "fin": 2394,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Cayetano Aníbal González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2370,
+   "fin": 2394,
+   "texto": "Cayetano Aníbal González"
+  },
+  {
+   "tipo": "title",
+   "ini": 2396,
+   "fin": 2427,
+   "texto": "Sombras y reflejos en el rincón"
+  },
+  {
+   "tipo": "img",
+   "ini": 2431,
+   "fin": 2436,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2438,
+   "fin": 2487,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "José Mª Guadalupe Díaz de la Guardia\r\nAncestros I"
+  },
+  {
+   "tipo": "person",
+   "ini": 2438,
+   "fin": 2474,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "José Mª Guadalupe Díaz de la Guardia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2438,
+   "fin": 2474,
+   "texto": "José Mª Guadalupe Díaz de la Guardia"
+  },
+  {
+   "tipo": "title",
+   "ini": 2476,
+   "fin": 2487,
+   "texto": "Ancestros I"
+  },
+  {
+   "tipo": "img",
+   "ini": 2491,
+   "fin": 2496,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2498,
+   "fin": 2524,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Roberto Urbano. Sin título"
+  },
+  {
+   "tipo": "person",
+   "ini": 2498,
+   "fin": 2512,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Roberto Urbano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2498,
+   "fin": 2512,
+   "texto": "Roberto Urbano"
+  },
+  {
+   "tipo": "title",
+   "ini": 2514,
+   "fin": 2524,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "img",
+   "ini": 2528,
+   "fin": 2533,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2535,
+   "fin": 2568,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Antonio Llanas Torres. Sin título"
+  },
+  {
+   "tipo": "person",
+   "ini": 2535,
+   "fin": 2556,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Antonio Llanas Torres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2535,
+   "fin": 2556,
+   "texto": "Antonio Llanas Torres"
+  },
+  {
+   "tipo": "title",
+   "ini": 2558,
+   "fin": 2568,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "text",
+   "ini": 2572,
+   "fin": 4573
+  },
+  {
+   "tipo": "institution",
+   "ini": 2613,
+   "fin": 2635,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "Universidad de Granada"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2628,
+   "fin": 2635,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Granada"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2784,
+   "fin": 2806,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "Universidad de Granada"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2799,
+   "fin": 2806,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Granada"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4020,
+   "fin": 4042,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "Universidad de Granada"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4035,
+   "fin": 4042,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Granada"
+  },
+  {
+   "tipo": "person",
+   "ini": 4541,
+   "fin": 4573,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Francisco José Sánchez Montalbán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4541,
+   "fin": 4573,
+   "texto": "Francisco José Sánchez Montalbán"
+  },
+  {
+   "tipo": "work",
+   "ini": 4576,
+   "fin": 4606,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Ángel García Roldán Sin titulo"
+  },
+  {
+   "tipo": "person",
+   "ini": 4576,
+   "fin": 4595,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Ángel García Roldán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4576,
+   "fin": 4595,
+   "texto": "Ángel García Roldán"
+  },
+  {
+   "tipo": "title",
+   "ini": 4596,
+   "fin": 4606,
+   "texto": "Sin titulo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4610,
+   "fin": 4649
+  },
+  {
+   "tipo": "img",
+   "ini": 4610,
+   "fin": 4615,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4617,
+   "fin": 4649,
+   "rasgos": {
+    "type": "v"
+   },
+   "texto": "Ángel García Roldán\r\nSín título\r"
+  },
+  {
+   "tipo": "person",
+   "ini": 4617,
+   "fin": 4636,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ángel García Roldán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4617,
+   "fin": 4636,
+   "texto": "Ángel García Roldán"
+  },
+  {
+   "tipo": "title",
+   "ini": 4638,
+   "fin": 4649,
+   "texto": "Sín título\r"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4652,
+   "fin": 4684
+  },
+  {
+   "tipo": "img",
+   "ini": 4652,
+   "fin": 4657,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4660,
+   "fin": 4683,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Ramón Muro Rivas\r\nHaiku"
+  },
+  {
+   "tipo": "person",
+   "ini": 4660,
+   "fin": 4676,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Ramón Muro Rivas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4660,
+   "fin": 4676,
+   "texto": "Ramón Muro Rivas"
+  },
+  {
+   "tipo": "title",
+   "ini": 4678,
+   "fin": 4683,
+   "texto": "Haiku"
+  },
+  {
+   "tipo": "img",
+   "ini": 4687,
+   "fin": 4692,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4694,
+   "fin": 4727
+  },
+  {
+   "tipo": "img",
+   "ini": 4694,
+   "fin": 4699,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4702,
+   "fin": 4727,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Vicente Brito\r\nSin título"
+  },
+  {
+   "tipo": "person",
+   "ini": 4702,
+   "fin": 4715,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Vicente Brito"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4702,
+   "fin": 4715,
+   "texto": "Vicente Brito"
+  },
+  {
+   "tipo": "title",
+   "ini": 4717,
+   "fin": 4727,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4731,
+   "fin": 4768
+  },
+  {
+   "tipo": "img",
+   "ini": 4731,
+   "fin": 4737,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4739,
+   "fin": 4767,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Manuel Jurado Marcos\r\nCamino"
+  },
+  {
+   "tipo": "person",
+   "ini": 4739,
+   "fin": 4759,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Manuel Jurado Marcos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4739,
+   "fin": 4759,
+   "texto": "Manuel Jurado Marcos"
+  },
+  {
+   "tipo": "title",
+   "ini": 4761,
+   "fin": 4767,
+   "texto": "Camino"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4771,
+   "fin": 4817
+  },
+  {
+   "tipo": "img",
+   "ini": 4771,
+   "fin": 4776,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4779,
+   "fin": 4816,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Fernando Bayona Fernández\r\nSin título"
+  },
+  {
+   "tipo": "person",
+   "ini": 4779,
+   "fin": 4804,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Fernando Bayona Fernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4779,
+   "fin": 4804,
+   "texto": "Fernando Bayona Fernández"
+  },
+  {
+   "tipo": "title",
+   "ini": 4806,
+   "fin": 4816,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4820,
+   "fin": 4898
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 4820,
+   "fin": 4877,
+   "rasgos": {
+    "size": "3",
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 4822,
+   "fin": 4851,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Miguel Ángel Melgares Calzado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4822,
+   "fin": 4851,
+   "texto": "Miguel Ángel Melgares Calzado"
+  },
+  {
+   "tipo": "title",
+   "ini": 4853,
+   "fin": 4877,
+   "texto": "Rama, laberinto (+ bala)"
+  },
+  {
+   "tipo": "img",
+   "ini": 4881,
+   "fin": 4886,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4887,
+   "fin": 4892,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4893,
+   "fin": 4898,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 4900,
+   "fin": 4938,
+   "rasgos": {
+    "size": "3",
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4901,
+   "fin": 4959
+  },
+  {
+   "tipo": "person",
+   "ini": 4903,
+   "fin": 4922,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Ángel García Roldán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4903,
+   "fin": 4922,
+   "texto": "Ángel García Roldán"
+  },
+  {
+   "tipo": "title",
+   "ini": 4924,
+   "fin": 4938,
+   "texto": "Narcisus Narke"
+  },
+  {
+   "tipo": "img",
+   "ini": 4942,
+   "fin": 4947,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4948,
+   "fin": 4953,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4954,
+   "fin": 4959,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4962,
+   "fin": 5022
+  },
+  {
+   "tipo": "work",
+   "ini": 4962,
+   "fin": 5013,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "8 Eugenio Rivas Herencia\r\nMemoria en conserva nº 15"
+  },
+  {
+   "tipo": "person",
+   "ini": 4964,
+   "fin": 4986,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Eugenio Rivas Herencia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4964,
+   "fin": 4986,
+   "texto": "Eugenio Rivas Herencia"
+  },
+  {
+   "tipo": "title",
+   "ini": 4988,
+   "fin": 5013,
+   "texto": "Memoria en conserva nº 15"
+  },
+  {
+   "tipo": "img",
+   "ini": 5017,
+   "fin": 5022,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5025,
+   "fin": 5108
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 5025,
+   "fin": 5087,
+   "rasgos": {
+    "type": "photograph",
+    "size": "3"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 5027,
+   "fin": 5049,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Eugenio Rivas Herencia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5027,
+   "fin": 5049,
+   "texto": "Eugenio Rivas Herencia"
+  },
+  {
+   "tipo": "title",
+   "ini": 5051,
+   "fin": 5087,
+   "texto": "Polvo eres y en polvo te convertirás"
+  },
+  {
+   "tipo": "img",
+   "ini": 5091,
+   "fin": 5096,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 5097,
+   "fin": 5102,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 5103,
+   "fin": 5108,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5111,
+   "fin": 5163
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 5111,
+   "fin": 5154,
+   "rasgos": {
+    "type": "painting",
+    "size": "24"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 5114,
+   "fin": 5131,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Pepas Salas Vilar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5114,
+   "fin": 5131,
+   "texto": "Pepas Salas Vilar"
+  },
+  {
+   "tipo": "title",
+   "ini": 5133,
+   "fin": 5154,
+   "texto": "Memo-ria intermitente"
+  },
+  {
+   "tipo": "img",
+   "ini": 5158,
+   "fin": 5163,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5166,
+   "fin": 5204
+  },
+  {
+   "tipo": "work",
+   "ini": 5166,
+   "fin": 5195,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "11 Carmen Casas Ubeda\r\nEnsayo"
+  },
+  {
+   "tipo": "person",
+   "ini": 5169,
+   "fin": 5187,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Carmen Casas Ubeda"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5169,
+   "fin": 5187,
+   "texto": "Carmen Casas Ubeda"
+  },
+  {
+   "tipo": "title",
+   "ini": 5189,
+   "fin": 5195,
+   "texto": "Ensayo"
+  },
+  {
+   "tipo": "img",
+   "ini": 5199,
+   "fin": 5204,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5207,
+   "fin": 5271
+  },
+  {
+   "tipo": "work",
+   "ini": 5207,
+   "fin": 5262,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "12 Juan Antonio Cerezuela Zapiana\r\nCarta a un remitente"
+  },
+  {
+   "tipo": "person",
+   "ini": 5210,
+   "fin": 5240,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Antonio Cerezuela Zapiana"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5210,
+   "fin": 5240,
+   "texto": "Juan Antonio Cerezuela Zapiana"
+  },
+  {
+   "tipo": "title",
+   "ini": 5242,
+   "fin": 5262,
+   "texto": "Carta a un remitente"
+  },
+  {
+   "tipo": "img",
+   "ini": 5266,
+   "fin": 5271,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5274,
+   "fin": 5352
+  },
+  {
+   "tipo": "work",
+   "ini": 5274,
+   "fin": 5343,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "13 Miguel Carlos Montesisnos Aragonés\r\nCiudad de día. Ciudad de noche"
+  },
+  {
+   "tipo": "person",
+   "ini": 5277,
+   "fin": 5311,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Miguel Carlos Montesisnos Aragonés"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5277,
+   "fin": 5311,
+   "texto": "Miguel Carlos Montesisnos Aragonés"
+  },
+  {
+   "tipo": "title",
+   "ini": 5313,
+   "fin": 5343,
+   "texto": "Ciudad de día. Ciudad de noche"
+  },
+  {
+   "tipo": "img",
+   "ini": 5347,
+   "fin": 5352,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5355,
+   "fin": 5399
+  },
+  {
+   "tipo": "img",
+   "ini": 5355,
+   "fin": 5360,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5362,
+   "fin": 5398,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pedro Olaya\r\nEl vacío de la herencia"
+  },
+  {
+   "tipo": "person",
+   "ini": 5362,
+   "fin": 5373,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Pedro Olaya"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5362,
+   "fin": 5373,
+   "texto": "Pedro Olaya"
+  },
+  {
+   "tipo": "title",
+   "ini": 5375,
+   "fin": 5398,
+   "texto": "El vacío de la herencia"
+  },
+  {
+   "tipo": "work",
+   "ini": 5403,
+   "fin": 5430,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "\n14 Miguel Peña\r\nSin título"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5404,
+   "fin": 5439
+  },
+  {
+   "tipo": "person",
+   "ini": 5407,
+   "fin": 5418,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Miguel Peña"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5407,
+   "fin": 5418,
+   "texto": "Miguel Peña"
+  },
+  {
+   "tipo": "title",
+   "ini": 5420,
+   "fin": 5430,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "img",
+   "ini": 5434,
+   "fin": 5439,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5442,
+   "fin": 5494
+  },
+  {
+   "tipo": "work",
+   "ini": 5442,
+   "fin": 5485,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "15 Diego Martín Fernández\r\nThe perfect suit"
+  },
+  {
+   "tipo": "person",
+   "ini": 5445,
+   "fin": 5467,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Diego Martín Fernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5445,
+   "fin": 5467,
+   "texto": "Diego Martín Fernández"
+  },
+  {
+   "tipo": "title",
+   "ini": 5469,
+   "fin": 5485,
+   "texto": "The perfect suit"
+  },
+  {
+   "tipo": "img",
+   "ini": 5489,
+   "fin": 5494,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5497,
+   "fin": 5543
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 5497,
+   "fin": 5534,
+   "rasgos": {
+    "type": "painting",
+    "size": "3"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 5500,
+   "fin": 5522,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Javier Callejas Utrera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5500,
+   "fin": 5522,
+   "texto": "Javier Callejas Utrera"
+  },
+  {
+   "tipo": "title",
+   "ini": 5524,
+   "fin": 5534,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "img",
+   "ini": 5538,
+   "fin": 5543,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5546,
+   "fin": 5587
+  },
+  {
+   "tipo": "work",
+   "ini": 5546,
+   "fin": 5578,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "17 Juan Morantes\r\nMenina Renault"
+  },
+  {
+   "tipo": "person",
+   "ini": 5549,
+   "fin": 5562,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Juan Morantes"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5549,
+   "fin": 5562,
+   "texto": "Juan Morantes"
+  },
+  {
+   "tipo": "title",
+   "ini": 5564,
+   "fin": 5578,
+   "texto": "Menina Renault"
+  },
+  {
+   "tipo": "img",
+   "ini": 5582,
+   "fin": 5587,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5590,
+   "fin": 5639
+  },
+  {
+   "tipo": "work",
+   "ini": 5590,
+   "fin": 5630,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "18 Antonio Luis Ramos Molina\r\nSin título"
+  },
+  {
+   "tipo": "person",
+   "ini": 5593,
+   "fin": 5618,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Antonio Luis Ramos Molina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5593,
+   "fin": 5618,
+   "texto": "Antonio Luis Ramos Molina"
+  },
+  {
+   "tipo": "title",
+   "ini": 5620,
+   "fin": 5630,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "img",
+   "ini": 5634,
+   "fin": 5639,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5642,
+   "fin": 5678
+  },
+  {
+   "tipo": "work",
+   "ini": 5642,
+   "fin": 5669,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "19 Santiago Lobo\r\nOlmedo II"
+  },
+  {
+   "tipo": "person",
+   "ini": 5645,
+   "fin": 5658,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Santiago Lobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5645,
+   "fin": 5658,
+   "texto": "Santiago Lobo"
+  },
+  {
+   "tipo": "title",
+   "ini": 5660,
+   "fin": 5669,
+   "texto": "Olmedo II"
+  },
+  {
+   "tipo": "img",
+   "ini": 5673,
+   "fin": 5678,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5681,
+   "fin": 5737
+  },
+  {
+   "tipo": "work",
+   "ini": 5681,
+   "fin": 5728,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "20 Bernardino Sánchez Bayo\r\nRealidad acuática 6"
+  },
+  {
+   "tipo": "person",
+   "ini": 5684,
+   "fin": 5707,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Bernardino Sánchez Bayo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5684,
+   "fin": 5707,
+   "texto": "Bernardino Sánchez Bayo"
+  },
+  {
+   "tipo": "title",
+   "ini": 5709,
+   "fin": 5728,
+   "texto": "Realidad acuática 6"
+  },
+  {
+   "tipo": "img",
+   "ini": 5732,
+   "fin": 5737,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5740,
+   "fin": 5777
+  },
+  {
+   "tipo": "work",
+   "ini": 5740,
+   "fin": 5768,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "21 Rafael Fuster\r\nSin título"
+  },
+  {
+   "tipo": "person",
+   "ini": 5743,
+   "fin": 5756,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Rafael Fuster"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5743,
+   "fin": 5756,
+   "texto": "Rafael Fuster"
+  },
+  {
+   "tipo": "title",
+   "ini": 5758,
+   "fin": 5768,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "img",
+   "ini": 5772,
+   "fin": 5777,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5780,
+   "fin": 5822
+  },
+  {
+   "tipo": "work",
+   "ini": 5780,
+   "fin": 5813,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "22 Silvia Martín Cabello\r\nGesto 8"
+  },
+  {
+   "tipo": "person",
+   "ini": 5783,
+   "fin": 5804,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Silvia Martín Cabello"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5783,
+   "fin": 5804,
+   "texto": "Silvia Martín Cabello"
+  },
+  {
+   "tipo": "title",
+   "ini": 5806,
+   "fin": 5813,
+   "texto": "Gesto 8"
+  },
+  {
+   "tipo": "img",
+   "ini": 5817,
+   "fin": 5822,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5825,
+   "fin": 5876
+  },
+  {
+   "tipo": "work",
+   "ini": 5825,
+   "fin": 5867,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "23 Rubén Rodríguez Silguero\r\nPrimer asalto"
+  },
+  {
+   "tipo": "person",
+   "ini": 5828,
+   "fin": 5852,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Rubén Rodríguez Silguero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5828,
+   "fin": 5852,
+   "texto": "Rubén Rodríguez Silguero"
+  },
+  {
+   "tipo": "title",
+   "ini": 5854,
+   "fin": 5867,
+   "texto": "Primer asalto"
+  },
+  {
+   "tipo": "img",
+   "ini": 5871,
+   "fin": 5876,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5879,
+   "fin": 5926
+  },
+  {
+   "tipo": "work",
+   "ini": 5879,
+   "fin": 5917,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "24 Enrique Verdugo Cornejo\r\nSin título"
+  },
+  {
+   "tipo": "person",
+   "ini": 5882,
+   "fin": 5905,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Enrique Verdugo Cornejo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5882,
+   "fin": 5905,
+   "texto": "Enrique Verdugo Cornejo"
+  },
+  {
+   "tipo": "title",
+   "ini": 5907,
+   "fin": 5917,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "img",
+   "ini": 5921,
+   "fin": 5926,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5929,
+   "fin": 5977
+  },
+  {
+   "tipo": "work",
+   "ini": 5929,
+   "fin": 5968,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "25 Francisco Montañés Padilla\r\nJaponesa"
+  },
+  {
+   "tipo": "person",
+   "ini": 5932,
+   "fin": 5958,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Francisco Montañés Padilla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5932,
+   "fin": 5958,
+   "texto": "Francisco Montañés Padilla"
+  },
+  {
+   "tipo": "title",
+   "ini": 5960,
+   "fin": 5968,
+   "texto": "Japonesa"
+  },
+  {
+   "tipo": "img",
+   "ini": 5972,
+   "fin": 5977,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5980,
+   "fin": 6042
+  },
+  {
+   "tipo": "work",
+   "ini": 5980,
+   "fin": 6033,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "26 David Martínez Calderón\r\nA la vuelta de la esquina"
+  },
+  {
+   "tipo": "person",
+   "ini": 5983,
+   "fin": 6006,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "David Martínez Calderón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5983,
+   "fin": 6006,
+   "texto": "David Martínez Calderón"
+  },
+  {
+   "tipo": "title",
+   "ini": 6008,
+   "fin": 6033,
+   "texto": "A la vuelta de la esquina"
+  },
+  {
+   "tipo": "img",
+   "ini": 6037,
+   "fin": 6042,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6045,
+   "fin": 6084
+  },
+  {
+   "tipo": "work",
+   "ini": 6045,
+   "fin": 6075,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "27 José Freixanes\r\nTurba negra"
+  },
+  {
+   "tipo": "person",
+   "ini": 6048,
+   "fin": 6062,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "José Freixanes"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6048,
+   "fin": 6062,
+   "texto": "José Freixanes"
+  },
+  {
+   "tipo": "title",
+   "ini": 6064,
+   "fin": 6075,
+   "texto": "Turba negra"
+  },
+  {
+   "tipo": "img",
+   "ini": 6079,
+   "fin": 6084,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6087,
+   "fin": 6138
+  },
+  {
+   "tipo": "work",
+   "ini": 6087,
+   "fin": 6129,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "28 Enrique Gabriel Campayo Olea\r\nSerie 3.1"
+  },
+  {
+   "tipo": "person",
+   "ini": 6090,
+   "fin": 6118,
+   "rasgos": {
+    "role": "museumCurator"
+   },
+   "texto": "Enrique Gabriel Campayo Olea"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6090,
+   "fin": 6118,
+   "texto": "Enrique Gabriel Campayo Olea"
+  },
+  {
+   "tipo": "title",
+   "ini": 6120,
+   "fin": 6129,
+   "texto": "Serie 3.1"
+  },
+  {
+   "tipo": "img",
+   "ini": 6132,
+   "fin": 6137,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 6151,
+   "fin": 6173,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "Universidad de Granada"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6166,
+   "fin": 6173,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Granada"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6175,
+   "fin": 6284,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "Vicerrectorado de Extensión Universitaria y Cooperación ai Desarrollo Secretariado de Artes Visuales y Música"
+  },
+  {
+   "tipo": "person",
+   "ini": 6286,
+   "fin": 6304,
+   "rasgos": {
+    "role": "rector"
+   },
+   "texto": "David Aguilar Peña"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6286,
+   "fin": 6304,
+   "texto": "David Aguilar Peña"
+  },
+  {
+   "tipo": "person",
+   "ini": 6313,
+   "fin": 6336,
+   "rasgos": {
+    "role": "viceRector"
+   },
+   "texto": "María José Osorio Pérez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6313,
+   "fin": 6336,
+   "texto": "María José Osorio Pérez"
+  },
+  {
+   "tipo": "person",
+   "ini": 6406,
+   "fin": 6426,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Ricardo Marín Viadel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6406,
+   "fin": 6426,
+   "texto": "Ricardo Marín Viadel"
+  },
+  {
+   "tipo": "person",
+   "ini": 6493,
+   "fin": 6515,
+   "rasgos": {
+    "role": "exhibitionDirector"
+   },
+   "texto": "Antonio Martínez Villa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6493,
+   "fin": 6515,
+   "texto": "Antonio Martínez Villa"
+  },
+  {
+   "tipo": "person",
+   "ini": 6542,
+   "fin": 6568,
+   "rasgos": {
+    "role": "colectionDirector"
+   },
+   "texto": "Francisco Fémandez Sánchez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6542,
+   "fin": 6568,
+   "texto": "Francisco Fémandez Sánchez"
+  },
+  {
+   "tipo": "person",
+   "ini": 6636,
+   "fin": 6668,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Francisco José Sánchez Montalbán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6636,
+   "fin": 6668,
+   "texto": "Francisco José Sánchez Montalbán"
+  },
+  {
+   "tipo": "person",
+   "ini": 6669,
+   "fin": 6688,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Ángel García Roldán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6669,
+   "fin": 6688,
+   "texto": "Ángel García Roldán"
+  },
+  {
+   "tipo": "person",
+   "ini": 6718,
+   "fin": 6737,
+   "texto": "Raquel Fuentes Peco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6718,
+   "fin": 6737,
+   "texto": "Raquel Fuentes Peco"
+  },
+  {
+   "tipo": "person",
+   "ini": 6768,
+   "fin": 6797,
+   "texto": "Miguel Ángel Melgares Calzado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6768,
+   "fin": 6797,
+   "texto": "Miguel Ángel Melgares Calzado"
+  },
+  {
+   "tipo": "person",
+   "ini": 6798,
+   "fin": 6830,
+   "texto": "Francisco José González Olivares"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6798,
+   "fin": 6830,
+   "texto": "Francisco José González Olivares"
+  },
+  {
+   "tipo": "person",
+   "ini": 6831,
+   "fin": 6855,
+   "texto": "Femando Bayona Fernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6831,
+   "fin": 6855,
+   "texto": "Femando Bayona Fernández"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6907,
+   "fin": 6929,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "Universidad de Granada"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6922,
+   "fin": 6929,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Granada"
+  },
+  {
+   "tipo": "person",
+   "ini": 6951,
+   "fin": 6970,
+   "rasgos": {
+    "role": "catalogueDesigner"
+   },
+   "texto": "Ángel Garcia Roldán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6951,
+   "fin": 6970,
+   "texto": "Ángel Garcia Roldán"
+  },
+  {
+   "tipo": "institution",
+   "ini": 7024,
+   "fin": 7046,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "UNIVERSIDAD DE GRANADA"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7039,
+   "fin": 7046,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "GRANADA"
+  },
+  {
+   "tipo": "institution",
+   "ini": 7047,
+   "fin": 7167,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "VICERRECTORADO DE EXTENSIÓN UNIVERSITARIA Y COOPERACIÓN AL DESARROLLO SECRETARIADO DE ARTES VISUALES, ESCÉNICAS Y MÚSICA"
+  }
+ ]
+}

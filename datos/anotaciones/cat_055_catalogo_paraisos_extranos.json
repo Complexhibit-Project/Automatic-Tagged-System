@@ -1,0 +1,2113 @@
+{
+ "id": "cat_055_catalogo_paraisos_extranos",
+ "nombre_original": "CATALOGO-PARAISOS-EXTRAÑOS",
+ "longitud_texto": 21996,
+ "sha256_texto": "c01d8661642b33979e054024598027bfca731390b1fa1976e960385b9885afe9",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 729,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 34,
+   "texto": "PÁGINAS DE BARRO\nPARAÍSOS EXTRAÑOS"
+  },
+  {
+   "tipo": "person",
+   "ini": 46,
+   "fin": 68,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "PILAR BANDRÉS, MÁLAGA\n"
+  },
+  {
+   "tipo": "persName",
+   "ini": 46,
+   "fin": 59,
+   "texto": "PILAR BANDRÉS"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 61,
+   "fin": 67,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "MÁLAGA"
+  },
+  {
+   "tipo": "person",
+   "ini": 68,
+   "fin": 96,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "XAVIER MONSALVATJE, VALENCIA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 68,
+   "fin": 86,
+   "texto": "XAVIER MONSALVATJE"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 88,
+   "fin": 96,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "VALENCIA"
+  },
+  {
+   "tipo": "person",
+   "ini": 97,
+   "fin": 114,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "SU-PI HSU, TAIWÁN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 97,
+   "fin": 106,
+   "texto": "SU-PI HSU"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 108,
+   "fin": 114,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "TAIWÁN"
+  },
+  {
+   "tipo": "institution",
+   "ini": 116,
+   "fin": 161,
+   "rasgos": {
+    "type": "townHall",
+    "role": "organiser"
+   },
+   "texto": "AYUNTAMIENTO DE CÓRDOBA\nDELEGACIÓN DE CULTURA"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 132,
+   "fin": 139,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "CÓRDOBA"
+  },
+  {
+   "tipo": "person",
+   "ini": 187,
+   "fin": 199,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Hisae Yanase"
+  },
+  {
+   "tipo": "persName",
+   "ini": 187,
+   "fin": 199,
+   "texto": "Hisae Yanase"
+  },
+  {
+   "tipo": "person",
+   "ini": 202,
+   "fin": 229,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Antonio I. González Pedraza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 202,
+   "fin": 229,
+   "texto": "Antonio I. González Pedraza"
+  },
+  {
+   "tipo": "institution",
+   "ini": 239,
+   "fin": 246,
+   "rasgos": {
+    "role": "layout"
+   },
+   "texto": "MANMAKU"
+  },
+  {
+   "tipo": "institution",
+   "ini": 256,
+   "fin": 264,
+   "rasgos": {
+    "type": "insuranceCompany"
+   },
+   "texto": "Generali"
+  },
+  {
+   "tipo": "institution",
+   "ini": 283,
+   "fin": 329,
+   "rasgos": {
+    "type": "townHall",
+    "role": "editor"
+   },
+   "texto": "Ayuntamiento de Córdoba. Delegación de Cultura"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 299,
+   "fin": 306,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Córdoba"
+  },
+  {
+   "tipo": "person",
+   "ini": 339,
+   "fin": 361,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Antonio Vivas Zamorano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 339,
+   "fin": 361,
+   "texto": "Antonio Vivas Zamorano"
+  },
+  {
+   "tipo": "person",
+   "ini": 388,
+   "fin": 401,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pilar Bandrés"
+  },
+  {
+   "tipo": "persName",
+   "ini": 388,
+   "fin": 401,
+   "texto": "Pilar Bandrés"
+  },
+  {
+   "tipo": "person",
+   "ini": 402,
+   "fin": 421,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "José Luis Gutiérrez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 402,
+   "fin": 421,
+   "texto": "José Luis Gutiérrez"
+  },
+  {
+   "tipo": "person",
+   "ini": 437,
+   "fin": 455,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xavier Monsalvatje"
+  },
+  {
+   "tipo": "persName",
+   "ini": 437,
+   "fin": 455,
+   "texto": "Xavier Monsalvatje"
+  },
+  {
+   "tipo": "person",
+   "ini": 456,
+   "fin": 466,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Tato Baeza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 456,
+   "fin": 466,
+   "texto": "Tato Baeza"
+  },
+  {
+   "tipo": "person",
+   "ini": 469,
+   "fin": 484,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Vicente Jiménez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 469,
+   "fin": 484,
+   "texto": "Vicente Jiménez"
+  },
+  {
+   "tipo": "person",
+   "ini": 509,
+   "fin": 529,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Luis Jiménez Calleja"
+  },
+  {
+   "tipo": "persName",
+   "ini": 509,
+   "fin": 529,
+   "texto": "Luis Jiménez Calleja"
+  },
+  {
+   "tipo": "person",
+   "ini": 562,
+   "fin": 577,
+   "rasgos": {
+    "role": "potter"
+   },
+   "texto": "Alfonso Alcaide"
+  },
+  {
+   "tipo": "persName",
+   "ini": 562,
+   "fin": 577,
+   "texto": "Alfonso Alcaide"
+  },
+  {
+   "tipo": "person",
+   "ini": 580,
+   "fin": 609,
+   "rasgos": {
+    "role": "potter"
+   },
+   "texto": "Rafael Ruiz León (el Chinche)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 580,
+   "fin": 596,
+   "texto": "Rafael Ruiz León"
+  },
+  {
+   "tipo": "person",
+   "ini": 624,
+   "fin": 632,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Supi Hsu"
+  },
+  {
+   "tipo": "persName",
+   "ini": 624,
+   "fin": 632,
+   "texto": "Supi Hsu"
+  },
+  {
+   "tipo": "person",
+   "ini": 633,
+   "fin": 643,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Tato Baeza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 633,
+   "fin": 643,
+   "texto": "Tato Baeza"
+  },
+  {
+   "tipo": "person",
+   "ini": 645,
+   "fin": 660,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Vicente Jiménez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 645,
+   "fin": 660,
+   "texto": "Vicente Jiménez"
+  },
+  {
+   "tipo": "person",
+   "ini": 662,
+   "fin": 671,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Juan Ortí"
+  },
+  {
+   "tipo": "persName",
+   "ini": 662,
+   "fin": 671,
+   "texto": "Juan Ortí"
+  },
+  {
+   "tipo": "person",
+   "ini": 674,
+   "fin": 682,
+   "rasgos": {
+    "role": "photographer, creator"
+   },
+   "texto": "Supi Hsu"
+  },
+  {
+   "tipo": "persName",
+   "ini": 674,
+   "fin": 682,
+   "texto": "Supi Hsu"
+  },
+  {
+   "tipo": "title",
+   "ini": 758,
+   "fin": 774,
+   "texto": "Páginas de Barro"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 758,
+   "fin": 774,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 794,
+   "fin": 811,
+   "texto": "Paraísos extraños"
+  },
+  {
+   "tipo": "person",
+   "ini": 825,
+   "fin": 838,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pilar Bandrés"
+  },
+  {
+   "tipo": "persName",
+   "ini": 825,
+   "fin": 838,
+   "texto": "Pilar Bandrés"
+  },
+  {
+   "tipo": "person",
+   "ini": 841,
+   "fin": 859,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xavier Monsalvatje"
+  },
+  {
+   "tipo": "persName",
+   "ini": 841,
+   "fin": 859,
+   "texto": "Xavier Monsalvatje"
+  },
+  {
+   "tipo": "person",
+   "ini": 862,
+   "fin": 871,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Su-pi Hsu"
+  },
+  {
+   "tipo": "persName",
+   "ini": 862,
+   "fin": 871,
+   "texto": "Su-pi Hsu"
+  },
+  {
+   "tipo": "person",
+   "ini": 1278,
+   "fin": 1291,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pilar Bandrés"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1278,
+   "fin": 1291,
+   "texto": "Pilar Bandrés"
+  },
+  {
+   "tipo": "person",
+   "ini": 1293,
+   "fin": 1311,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xavier\nMonsalvatje"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1293,
+   "fin": 1311,
+   "texto": "Xavier\nMonsalvatje"
+  },
+  {
+   "tipo": "person",
+   "ini": 1314,
+   "fin": 1323,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Su-pi Hsu"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1314,
+   "fin": 1323,
+   "texto": "Su-pi Hsu"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1352,
+   "fin": 1441,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 1352,
+   "fin": 1370,
+   "texto": "“Páginas de Barro”"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1390,
+   "fin": 1397,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Córdoba"
+  },
+  {
+   "tipo": "title",
+   "ini": 1422,
+   "fin": 1441,
+   "texto": "“Paraísos Extraños”"
+  },
+  {
+   "tipo": "person",
+   "ini": 2111,
+   "fin": 2116,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pilar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2111,
+   "fin": 2116,
+   "texto": "Pilar"
+  },
+  {
+   "tipo": "person",
+   "ini": 2118,
+   "fin": 2124,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xavier"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2118,
+   "fin": 2124,
+   "texto": "Xavier"
+  },
+  {
+   "tipo": "person",
+   "ini": 2127,
+   "fin": 2132,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Su-pi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2127,
+   "fin": 2132,
+   "texto": "Su-pi"
+  },
+  {
+   "tipo": "person",
+   "ini": 3601,
+   "fin": 3608,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bandrés"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3601,
+   "fin": 3608,
+   "texto": "Bandrés"
+  },
+  {
+   "tipo": "person",
+   "ini": 3610,
+   "fin": 3621,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Monsalvatje"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3610,
+   "fin": 3621,
+   "texto": "Monsalvatje"
+  },
+  {
+   "tipo": "person",
+   "ini": 3624,
+   "fin": 3627,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Hsu"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3624,
+   "fin": 3627,
+   "texto": "Hsu"
+  },
+  {
+   "tipo": "person",
+   "ini": 4050,
+   "fin": 4063,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pilar Bandrés"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4050,
+   "fin": 4063,
+   "texto": "Pilar Bandrés"
+  },
+  {
+   "tipo": "person",
+   "ini": 4394,
+   "fin": 4407,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pilar Bandrés"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4394,
+   "fin": 4407,
+   "texto": "Pilar Bandrés"
+  },
+  {
+   "tipo": "person",
+   "ini": 5032,
+   "fin": 5045,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pilar Bandrés"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5032,
+   "fin": 5045,
+   "texto": "Pilar Bandrés"
+  },
+  {
+   "tipo": "person",
+   "ini": 5349,
+   "fin": 5362,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pilar Bandrés"
+  },
+  {
+   "tipo": "person",
+   "ini": 6481,
+   "fin": 6499,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xavier Monsalvatje"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6481,
+   "fin": 6499,
+   "texto": "Xavier Monsalvatje"
+  },
+  {
+   "tipo": "person",
+   "ini": 6578,
+   "fin": 6596,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xavier Monsalvatje"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6578,
+   "fin": 6596,
+   "texto": "Xavier Monsalvatje"
+  },
+  {
+   "tipo": "person",
+   "ini": 7806,
+   "fin": 7817,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Monsalvatje"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7806,
+   "fin": 7817,
+   "texto": "Monsalvatje"
+  },
+  {
+   "tipo": "person",
+   "ini": 8142,
+   "fin": 8148,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xavier"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8142,
+   "fin": 8148,
+   "texto": "Xavier"
+  },
+  {
+   "tipo": "person",
+   "ini": 8619,
+   "fin": 8630,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Monsalvatje"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8619,
+   "fin": 8630,
+   "texto": "Monsalvatje"
+  },
+  {
+   "tipo": "person",
+   "ini": 9509,
+   "fin": 9518,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Su-pi Hsu"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9509,
+   "fin": 9518,
+   "texto": "Su-pi Hsu"
+  },
+  {
+   "tipo": "person",
+   "ini": 9614,
+   "fin": 9623,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Su-pi Hsu"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9614,
+   "fin": 9623,
+   "texto": "Su-pi Hsu"
+  },
+  {
+   "tipo": "person",
+   "ini": 9865,
+   "fin": 9874,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Su-pi Hsu"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9865,
+   "fin": 9874,
+   "texto": "Su-pi Hsu"
+  },
+  {
+   "tipo": "person",
+   "ini": 10998,
+   "fin": 11007,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Su-pi Hsu"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10998,
+   "fin": 11007,
+   "texto": "Su-pi Hsu"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 12091,
+   "fin": 21996
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 12091,
+   "fin": 15277
+  },
+  {
+   "tipo": "person",
+   "ini": 12091,
+   "fin": 12104,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pilar Bandrés"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12091,
+   "fin": 12104,
+   "texto": "Pilar Bandrés"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12106,
+   "fin": 12186
+  },
+  {
+   "tipo": "img",
+   "ini": 12106,
+   "fin": 12111,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12113,
+   "fin": 12186,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Fantasías inanimadas de ayer y hoy\nPorcelana y tela | 45x18x13 cm. | 2016"
+  },
+  {
+   "tipo": "title",
+   "ini": 12113,
+   "fin": 12147,
+   "texto": "Fantasías inanimadas de ayer y hoy"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12148,
+   "fin": 12164,
+   "rasgos": {
+    "type": "porcelain, fabric"
+   },
+   "texto": "Porcelana y tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12167,
+   "fin": 12178,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "45x18x13 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 12167,
+   "fin": 12169,
+   "texto": "45"
+  },
+  {
+   "tipo": "width",
+   "ini": 12170,
+   "fin": 12172,
+   "texto": "18"
+  },
+  {
+   "tipo": "depth",
+   "ini": 12173,
+   "fin": 12175,
+   "texto": "13"
+  },
+  {
+   "tipo": "date",
+   "ini": 12182,
+   "fin": 12186,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12188,
+   "fin": 12253
+  },
+  {
+   "tipo": "img",
+   "ini": 12188,
+   "fin": 12193,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12195,
+   "fin": 12253,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Lembrança\nTécnica mixta sobre madera. 190x90x17 cm. | 2013"
+  },
+  {
+   "tipo": "title",
+   "ini": 12195,
+   "fin": 12204,
+   "texto": "Lembrança"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12205,
+   "fin": 12231,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12233,
+   "fin": 12245,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "190x90x17 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 12233,
+   "fin": 12236,
+   "texto": "190"
+  },
+  {
+   "tipo": "width",
+   "ini": 12237,
+   "fin": 12239,
+   "texto": "90"
+  },
+  {
+   "tipo": "depth",
+   "ini": 12240,
+   "fin": 12242,
+   "texto": "17"
+  },
+  {
+   "tipo": "date",
+   "ini": 12249,
+   "fin": 12253,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12255,
+   "fin": 12334
+  },
+  {
+   "tipo": "img",
+   "ini": 12255,
+   "fin": 12260,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12262,
+   "fin": 12334,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Paleontología de lo cotidiano\nPorcelana y pasta de papel. Detalle | 2016"
+  },
+  {
+   "tipo": "title",
+   "ini": 12262,
+   "fin": 12291,
+   "texto": "Paleontología de lo cotidiano"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12292,
+   "fin": 12318,
+   "rasgos": {
+    "type": "porcelain"
+   },
+   "texto": "Porcelana y pasta de papel"
+  },
+  {
+   "tipo": "date",
+   "ini": 12330,
+   "fin": 12334,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12336,
+   "fin": 12430
+  },
+  {
+   "tipo": "img",
+   "ini": 12336,
+   "fin": 12341,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12343,
+   "fin": 12430,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Paleontología de lo cotidiano\nPorcelana y pasta de papel | Dimensiones variables | 2016"
+  },
+  {
+   "tipo": "title",
+   "ini": 12343,
+   "fin": 12372,
+   "texto": "Paleontología de lo cotidiano"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12373,
+   "fin": 12399,
+   "rasgos": {
+    "type": "porcelain"
+   },
+   "texto": "Porcelana y pasta de papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12402,
+   "fin": 12423,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "Dimensiones variables"
+  },
+  {
+   "tipo": "date",
+   "ini": 12426,
+   "fin": 12430,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12432,
+   "fin": 12507
+  },
+  {
+   "tipo": "img",
+   "ini": 12432,
+   "fin": 12437,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12439,
+   "fin": 12507,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "A su aire\nPorcelana y pasta de papel | Dimensiones variables | 2016 "
+  },
+  {
+   "tipo": "title",
+   "ini": 12439,
+   "fin": 12448,
+   "rasgos": {
+    "null": ""
+   },
+   "texto": "A su aire"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12449,
+   "fin": 12475,
+   "rasgos": {
+    "type": "porcelain"
+   },
+   "texto": "Porcelana y pasta de papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12478,
+   "fin": 12499,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "Dimensiones variables"
+  },
+  {
+   "tipo": "date",
+   "ini": 12502,
+   "fin": 12506,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "text",
+   "ini": 12509,
+   "fin": 15277
+  },
+  {
+   "tipo": "person",
+   "ini": 12509,
+   "fin": 12554,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pilar Bandrés nace en Málaga en Enero de 1959"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12509,
+   "fin": 12522,
+   "texto": "Pilar Bandrés"
+  },
+  {
+   "tipo": "birth",
+   "ini": 12531,
+   "fin": 12555
+  },
+  {
+   "tipo": "placeName",
+   "ini": 12531,
+   "fin": 12537,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Málaga"
+  },
+  {
+   "tipo": "date",
+   "ini": 12541,
+   "fin": 12554,
+   "rasgos": {
+    "when": "1959-01-01"
+   },
+   "texto": "Enero de 1959"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 15281,
+   "fin": 19429
+  },
+  {
+   "tipo": "person",
+   "ini": 15281,
+   "fin": 15299,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "XAVIER MONSALVATJE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15281,
+   "fin": 15299,
+   "texto": "XAVIER MONSALVATJE"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15301,
+   "fin": 15444
+  },
+  {
+   "tipo": "img",
+   "ini": 15301,
+   "fin": 15306,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15308,
+   "fin": 15444,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "La Pandemia\nJarrón de mayólica con tapa. Alfarero Alfonso Alcaide,\nLa Rambla, Córdoba. Azul de cobalto bajo cubierta.\n50x29 Ø cm. | 2006"
+  },
+  {
+   "tipo": "title",
+   "ini": 15308,
+   "fin": 15319,
+   "texto": "La Pandemia"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15320,
+   "fin": 15347,
+   "rasgos": {
+    "type": "majolica"
+   },
+   "texto": "Jarrón de mayólica con tapa"
+  },
+  {
+   "tipo": "person",
+   "ini": 15349,
+   "fin": 15373,
+   "rasgos": {
+    "role": "manufacturer"
+   },
+   "texto": "Alfarero Alfonso Alcaide"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15358,
+   "fin": 15373,
+   "texto": "Alfonso Alcaide"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 15375,
+   "fin": 15393,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "La Rambla, Córdoba"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15395,
+   "fin": 15424,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Azul de cobalto bajo cubierta"
+  },
+  {
+   "tipo": "height",
+   "ini": 15426,
+   "fin": 15428,
+   "texto": "50"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 15429,
+   "fin": 15431,
+   "texto": "29"
+  },
+  {
+   "tipo": "date",
+   "ini": 15440,
+   "fin": 15444,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15446,
+   "fin": 15623
+  },
+  {
+   "tipo": "img",
+   "ini": 15446,
+   "fin": 15451,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15453,
+   "fin": 15623,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "LA CIUDAD DESINTEGRADA\nJarrón de loza a torno en dos piezas. Alfarero Rafael Ruiz León\n(el Chinche), La Rambla, Córdoba. 125x30 Ø cm.\nAzul de cobalto bajo cubierta | 2007"
+  },
+  {
+   "tipo": "title",
+   "ini": 15453,
+   "fin": 15475,
+   "texto": "LA CIUDAD DESINTEGRADA"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15476,
+   "fin": 15512,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Jarrón de loza a torno en dos piezas"
+  },
+  {
+   "tipo": "person",
+   "ini": 15514,
+   "fin": 15552,
+   "rasgos": {
+    "role": "manufacturer"
+   },
+   "texto": "Alfarero Rafael Ruiz León\n(el Chinche)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15523,
+   "fin": 15540,
+   "texto": "Rafael Ruiz León\n"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 15554,
+   "fin": 15572,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "La Rambla, Córdoba"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15574,
+   "fin": 15585,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "125x30 Ø cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15574,
+   "fin": 15577,
+   "texto": "125"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 15578,
+   "fin": 15580,
+   "texto": "30"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15587,
+   "fin": 15616,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Azul de cobalto bajo cubierta"
+  },
+  {
+   "tipo": "date",
+   "ini": 15619,
+   "fin": 15623,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15625,
+   "fin": 15755
+  },
+  {
+   "tipo": "img",
+   "ini": 15625,
+   "fin": 15630,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15632,
+   "fin": 15755,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "TODO LO VEN\nColorante negro bajo cubierta transparente. Placa de gres, 60x35 cm. | 2012 | The Clay Studio, Filadelfia, USA."
+  },
+  {
+   "tipo": "title",
+   "ini": 15632,
+   "fin": 15643,
+   "texto": "TODO LO VEN"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15644,
+   "fin": 15701,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Colorante negro bajo cubierta transparente. Placa de gres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15703,
+   "fin": 15711,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60x35 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15703,
+   "fin": 15705,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 15706,
+   "fin": 15708,
+   "texto": "35"
+  },
+  {
+   "tipo": "date",
+   "ini": 15715,
+   "fin": 15719,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "institution",
+   "ini": 15722,
+   "fin": 15754,
+   "rasgos": {
+    "type": "studio",
+    "role": "owner, lender"
+   },
+   "texto": "The Clay Studio, Filadelfia, USA"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 15739,
+   "fin": 15754,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Filadelfia, USA"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15757,
+   "fin": 15841
+  },
+  {
+   "tipo": "img",
+   "ini": 15757,
+   "fin": 15762,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15764,
+   "fin": 15841,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "14 de Septiembre\nPlato de loza 2x31 Ø cm. Pigmento negro bajo cubierta | 2008"
+  },
+  {
+   "tipo": "title",
+   "ini": 15764,
+   "fin": 15780,
+   "texto": "14 de Septiembre"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15781,
+   "fin": 15835,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Plato de loza 2x31 Ø cm. Pigmento negro bajo cubierta "
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15795,
+   "fin": 15804,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "2x31 Ø cm"
+  },
+  {
+   "tipo": "date",
+   "ini": 15837,
+   "fin": 15841,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15843,
+   "fin": 15911
+  },
+  {
+   "tipo": "img",
+   "ini": 15843,
+   "fin": 15848,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15850,
+   "fin": 15911,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Sin agua\nColor negro bajo cubierta sobre loza 40 cm. Ø | 2007"
+  },
+  {
+   "tipo": "title",
+   "ini": 15850,
+   "fin": 15858,
+   "texto": "Sin agua"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15859,
+   "fin": 15895,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Color negro bajo cubierta sobre loza"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15896,
+   "fin": 15904,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 cm. Ø"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 15896,
+   "fin": 15898,
+   "texto": "40"
+  },
+  {
+   "tipo": "date",
+   "ini": 15907,
+   "fin": 15911,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "text",
+   "ini": 15913,
+   "fin": 19429
+  },
+  {
+   "tipo": "person",
+   "ini": 15913,
+   "fin": 15955,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "XAVIER MONSALVATJE Godella, Valencia, 1965"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15913,
+   "fin": 15931,
+   "texto": "XAVIER MONSALVATJE"
+  },
+  {
+   "tipo": "birth",
+   "ini": 15932,
+   "fin": 15955
+  },
+  {
+   "tipo": "placeName",
+   "ini": 15932,
+   "fin": 15949,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Godella, Valencia"
+  },
+  {
+   "tipo": "date",
+   "ini": 15951,
+   "fin": 15955,
+   "rasgos": {
+    "when": "1965"
+   },
+   "texto": "1965"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 19431,
+   "fin": 21996
+  },
+  {
+   "tipo": "person",
+   "ini": 19431,
+   "fin": 19440,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "SU-PI HSU"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19431,
+   "fin": 19440,
+   "texto": "SU-PI HSU"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19442,
+   "fin": 19491
+  },
+  {
+   "tipo": "img",
+   "ini": 19442,
+   "fin": 19447,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19449,
+   "fin": 19491,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "El pájaro vuela\nGres 47.5x13x16 cm. | 2010"
+  },
+  {
+   "tipo": "title",
+   "ini": 19449,
+   "fin": 19464,
+   "texto": "El pájaro vuela"
+  },
+  {
+   "tipo": "material",
+   "ini": 19465,
+   "fin": 19469,
+   "rasgos": {
+    "type": "clayTile"
+   },
+   "texto": "Gres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19470,
+   "fin": 19483,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "47.5x13x16 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19470,
+   "fin": 19474,
+   "texto": "47.5"
+  },
+  {
+   "tipo": "width",
+   "ini": 19475,
+   "fin": 19477,
+   "texto": "13"
+  },
+  {
+   "tipo": "depth",
+   "ini": 19478,
+   "fin": 19480,
+   "texto": "16"
+  },
+  {
+   "tipo": "date",
+   "ini": 19487,
+   "fin": 19491,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19493,
+   "fin": 19548
+  },
+  {
+   "tipo": "img",
+   "ini": 19493,
+   "fin": 19499,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19500,
+   "fin": 19548,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "La naturaleza\nGres engobe. 34.5x50x18 cm. | 2011"
+  },
+  {
+   "tipo": "title",
+   "ini": 19500,
+   "fin": 19513,
+   "texto": "La naturaleza"
+  },
+  {
+   "tipo": "material",
+   "ini": 19514,
+   "fin": 19525,
+   "rasgos": {
+    "type": "clayTile"
+   },
+   "texto": "Gres engobe"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19527,
+   "fin": 19540,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "34.5x50x18 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19527,
+   "fin": 19531,
+   "texto": "34.5"
+  },
+  {
+   "tipo": "width",
+   "ini": 19532,
+   "fin": 19534,
+   "texto": "50"
+  },
+  {
+   "tipo": "depth",
+   "ini": 19535,
+   "fin": 19537,
+   "texto": "18"
+  },
+  {
+   "tipo": "date",
+   "ini": 19544,
+   "fin": 19548,
+   "rasgos": {
+    "when": "2011"
+   },
+   "texto": "2011"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19550,
+   "fin": 19605
+  },
+  {
+   "tipo": "img",
+   "ini": 19550,
+   "fin": 19555,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19557,
+   "fin": 19605,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "El bautismo\nGres, esmaltado. 20x24x22 cm. | 2014"
+  },
+  {
+   "tipo": "title",
+   "ini": 19557,
+   "fin": 19568,
+   "texto": "El bautismo"
+  },
+  {
+   "tipo": "material",
+   "ini": 19569,
+   "fin": 19584,
+   "rasgos": {
+    "type": "clayTile, glaze"
+   },
+   "texto": "Gres, esmaltado"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19586,
+   "fin": 19597,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20x24x22 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19586,
+   "fin": 19588,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 19589,
+   "fin": 19591,
+   "texto": "24"
+  },
+  {
+   "tipo": "depth",
+   "ini": 19592,
+   "fin": 19594,
+   "texto": "22"
+  },
+  {
+   "tipo": "date",
+   "ini": 19601,
+   "fin": 19605,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19607,
+   "fin": 19666
+  },
+  {
+   "tipo": "img",
+   "ini": 19607,
+   "fin": 19612,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19614,
+   "fin": 19666,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "El punto\nGres, hilo. Montaje sobre 70x90 cm+- | 2015"
+  },
+  {
+   "tipo": "title",
+   "ini": 19614,
+   "fin": 19622,
+   "texto": "El punto"
+  },
+  {
+   "tipo": "material",
+   "ini": 19623,
+   "fin": 19633,
+   "rasgos": {
+    "type": "clayTile, thread"
+   },
+   "texto": "Gres, hilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19649,
+   "fin": 19657,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70x90 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19649,
+   "fin": 19651,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 19652,
+   "fin": 19654,
+   "texto": "90"
+  },
+  {
+   "tipo": "date",
+   "ini": 19662,
+   "fin": 19666,
+   "rasgos": {
+    "when": "2005"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19668,
+   "fin": 19728
+  },
+  {
+   "tipo": "img",
+   "ini": 19668,
+   "fin": 19673,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19675,
+   "fin": 19728,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "... en el fondo\nGres, engobe. 56 x 33 x 22 cm. | 2005"
+  },
+  {
+   "tipo": "title",
+   "ini": 19675,
+   "fin": 19690,
+   "texto": "... en el fondo"
+  },
+  {
+   "tipo": "material",
+   "ini": 19691,
+   "fin": 19703,
+   "rasgos": {
+    "type": "clayTile"
+   },
+   "texto": "Gres, engobe"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19705,
+   "fin": 19720,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "56 x 33 x 22 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19705,
+   "fin": 19707,
+   "texto": "56"
+  },
+  {
+   "tipo": "width",
+   "ini": 19710,
+   "fin": 19712,
+   "texto": "33"
+  },
+  {
+   "tipo": "depth",
+   "ini": 19715,
+   "fin": 19717,
+   "texto": "22"
+  },
+  {
+   "tipo": "date",
+   "ini": 19724,
+   "fin": 19728,
+   "rasgos": {
+    "when": "2005"
+   },
+   "texto": "2005"
+  },
+  {
+   "tipo": "text",
+   "ini": 19730,
+   "fin": 21996
+  },
+  {
+   "tipo": "person",
+   "ini": 19730,
+   "fin": 19793,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "SU-PI HSU, Yunlin, Taiwán, 1968\nResidencia en España desde 1994"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19730,
+   "fin": 19739,
+   "texto": "SU-PI HSU"
+  },
+  {
+   "tipo": "birth",
+   "ini": 19741,
+   "fin": 19761
+  },
+  {
+   "tipo": "placeName",
+   "ini": 19741,
+   "fin": 19755,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Yunlin, Taiwán"
+  },
+  {
+   "tipo": "date",
+   "ini": 19757,
+   "fin": 19761,
+   "rasgos": {
+    "when": "1968"
+   },
+   "texto": "1968"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 19776,
+   "fin": 19793
+  },
+  {
+   "tipo": "placeName",
+   "ini": 19776,
+   "fin": 19782,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "España"
+  },
+  {
+   "tipo": "date",
+   "ini": 19789,
+   "fin": 19793,
+   "rasgos": {
+    "from": "1994"
+   },
+   "texto": "1994"
+  }
+ ]
+}

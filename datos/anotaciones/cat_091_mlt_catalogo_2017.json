@@ -1,0 +1,1382 @@
+{
+ "id": "cat_091_mlt_catalogo_2017",
+ "nombre_original": "MLT-Catalogo-2017",
+ "longitud_texto": 19506,
+ "sha256_texto": "e711989e2640c962e3e3080df23c063ee242e6b4a2a2a6d8cfbbfe97c6cbba78",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 145,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 40,
+   "texto": "MANUEL LUCA DE TENA\nTRAVESÍAS DE LO LEVE"
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 19,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MANUEL LUCA DE TENA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 19,
+   "texto": "MANUEL LUCA DE TENA"
+  },
+  {
+   "tipo": "institution",
+   "ini": 42,
+   "fin": 53,
+   "rasgos": {
+    "type": "artCenter",
+    "role": "organiser"
+   },
+   "texto": "ESPACIO BOP"
+  },
+  {
+   "tipo": "date",
+   "ini": 54,
+   "fin": 58,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "title",
+   "ini": 60,
+   "fin": 100,
+   "texto": "MANUEL LUCA DE TENA\nTRAVESÍAS DE LO LEVE"
+  },
+  {
+   "tipo": "person",
+   "ini": 60,
+   "fin": 79,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MANUEL LUCA DE TENA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 60,
+   "fin": 79,
+   "texto": "MANUEL LUCA DE TENA"
+  },
+  {
+   "tipo": "date",
+   "ini": 110,
+   "fin": 119,
+   "rasgos": {
+    "from": "2013",
+    "to": "2016"
+   },
+   "texto": "2013-2016"
+  },
+  {
+   "tipo": "date",
+   "ini": 120,
+   "fin": 145,
+   "rasgos": {
+    "from": "2017-01-27",
+    "to": "2017-02-17"
+   },
+   "texto": "27 de enero-17 de febrero"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 147,
+   "fin": 10761
+  },
+  {
+   "tipo": "text",
+   "ini": 147,
+   "fin": 1490
+  },
+  {
+   "tipo": "persName",
+   "ini": 637,
+   "fin": 651,
+   "texto": "François Cheng"
+  },
+  {
+   "tipo": "persName",
+   "ini": 893,
+   "fin": 898,
+   "texto": "Rilke"
+  },
+  {
+   "tipo": "person",
+   "ini": 1471,
+   "fin": 1490,
+   "rasgos": {
+    "role": "author, creator"
+   },
+   "texto": "MANUEL LUCA DE TENA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1471,
+   "fin": 1490,
+   "texto": "MANUEL LUCA DE TENA"
+  },
+  {
+   "tipo": "text",
+   "ini": 1492,
+   "fin": 2216
+  },
+  {
+   "tipo": "persName",
+   "ini": 2181,
+   "fin": 2196,
+   "texto": "DAVID LE BRETON"
+  },
+  {
+   "tipo": "text",
+   "ini": 2218,
+   "fin": 4926
+  },
+  {
+   "tipo": "persName",
+   "ini": 4893,
+   "fin": 4907,
+   "texto": "MARÍA ZAMBRANO"
+  },
+  {
+   "tipo": "text",
+   "ini": 4928,
+   "fin": 5778
+  },
+  {
+   "tipo": "persName",
+   "ini": 5717,
+   "fin": 5737,
+   "texto": "JEAN-JAQUES ROUSSEAU"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5780,
+   "fin": 5838
+  },
+  {
+   "tipo": "img",
+   "ini": 5780,
+   "fin": 5785,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5787,
+   "fin": 5838,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Desde el agua, 2016\nÓleo sobre lienzo\n130 x 162 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 5787,
+   "fin": 5800,
+   "texto": "Desde el agua"
+  },
+  {
+   "tipo": "date",
+   "ini": 5802,
+   "fin": 5806,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5807,
+   "fin": 5824,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5825,
+   "fin": 5837,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 162 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5825,
+   "fin": 5828,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 5831,
+   "fin": 5834,
+   "texto": "162"
+  },
+  {
+   "tipo": "text",
+   "ini": 5840,
+   "fin": 6677
+  },
+  {
+   "tipo": "persName",
+   "ini": 6610,
+   "fin": 6624,
+   "texto": "ALFONSO FALERO"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6679,
+   "fin": 6762
+  },
+  {
+   "tipo": "img",
+   "ini": 6679,
+   "fin": 6684,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6685,
+   "fin": 6690,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6692,
+   "fin": 6762,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Constelaciones blancas I, II, III, 2016\nÓleo sobre lienzo\n162 x 50 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 6692,
+   "fin": 6725,
+   "texto": "Constelaciones blancas I, II, III"
+  },
+  {
+   "tipo": "date",
+   "ini": 6727,
+   "fin": 6731,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6732,
+   "fin": 6749,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6750,
+   "fin": 6761,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "162 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6750,
+   "fin": 6753,
+   "texto": "162"
+  },
+  {
+   "tipo": "width",
+   "ini": 6756,
+   "fin": 6758,
+   "texto": "50"
+  },
+  {
+   "tipo": "text",
+   "ini": 6764,
+   "fin": 7377
+  },
+  {
+   "tipo": "persName",
+   "ini": 7334,
+   "fin": 7350,
+   "texto": "GASTON BACHELARD"
+  },
+  {
+   "tipo": "text",
+   "ini": 7378,
+   "fin": 7902
+  },
+  {
+   "tipo": "persName",
+   "ini": 7851,
+   "fin": 7865,
+   "texto": "FRANÇOIS CHENG"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7904,
+   "fin": 7957
+  },
+  {
+   "tipo": "img",
+   "ini": 7904,
+   "fin": 7909,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7911,
+   "fin": 7957,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Ofrenda I, 2015\nPastel sobre Vidia\n55 x 70 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 7911,
+   "fin": 7920,
+   "texto": "Ofrenda I"
+  },
+  {
+   "tipo": "date",
+   "ini": 7922,
+   "fin": 7926,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7927,
+   "fin": 7945,
+   "rasgos": {
+    "type": "pastel"
+   },
+   "texto": "Pastel sobre Vidia"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7946,
+   "fin": 7956,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7946,
+   "fin": 7948,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 7951,
+   "fin": 7953,
+   "texto": "70"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7959,
+   "fin": 8013
+  },
+  {
+   "tipo": "img",
+   "ini": 7959,
+   "fin": 7964,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7966,
+   "fin": 8013,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Ofrenda II, 2015\nPastel sobre Vidia\n55 x 70 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 7966,
+   "fin": 7976,
+   "texto": "Ofrenda II"
+  },
+  {
+   "tipo": "date",
+   "ini": 7978,
+   "fin": 7982,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7983,
+   "fin": 8001,
+   "rasgos": {
+    "type": "pastel"
+   },
+   "texto": "Pastel sobre Vidia"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8002,
+   "fin": 8012,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8002,
+   "fin": 8004,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 8007,
+   "fin": 8009,
+   "texto": "70"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8015,
+   "fin": 8069
+  },
+  {
+   "tipo": "img",
+   "ini": 8015,
+   "fin": 8020,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8022,
+   "fin": 8069,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Río Tea II, 2015\nPastel sobre Vidia\n55 x 70 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 8022,
+   "fin": 8032,
+   "texto": "Río Tea II"
+  },
+  {
+   "tipo": "date",
+   "ini": 8034,
+   "fin": 8038,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8039,
+   "fin": 8057,
+   "rasgos": {
+    "type": "pastel"
+   },
+   "texto": "Pastel sobre Vidia"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8058,
+   "fin": 8068,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8058,
+   "fin": 8060,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 8063,
+   "fin": 8065,
+   "texto": "70"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8071,
+   "fin": 8140
+  },
+  {
+   "tipo": "img",
+   "ini": 8071,
+   "fin": 8076,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8078,
+   "fin": 8140,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Ramas frente al agua I, 2015-16\nPastel sobre Vidia\n55 x 70 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 8078,
+   "fin": 8100,
+   "texto": "Ramas frente al agua I"
+  },
+  {
+   "tipo": "date",
+   "ini": 8102,
+   "fin": 8109,
+   "rasgos": {
+    "from": "2015",
+    "to": "2016"
+   },
+   "texto": "2015-16"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8110,
+   "fin": 8128,
+   "rasgos": {
+    "type": "pastel"
+   },
+   "texto": "Pastel sobre Vidia"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8129,
+   "fin": 8139,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8129,
+   "fin": 8131,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 8134,
+   "fin": 8136,
+   "texto": "70"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8142,
+   "fin": 8212
+  },
+  {
+   "tipo": "img",
+   "ini": 8142,
+   "fin": 8147,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8149,
+   "fin": 8212,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Ramas frente al agua II, 2015-16\nPastel sobre Vidia\n55 x 70 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 8149,
+   "fin": 8172,
+   "texto": "Ramas frente al agua II"
+  },
+  {
+   "tipo": "date",
+   "ini": 8174,
+   "fin": 8181,
+   "rasgos": {
+    "from": "2015",
+    "to": "2016"
+   },
+   "texto": "2015-16"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8182,
+   "fin": 8200,
+   "rasgos": {
+    "type": "pastel"
+   },
+   "texto": "Pastel sobre Vidia"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8201,
+   "fin": 8211,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8201,
+   "fin": 8203,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 8206,
+   "fin": 8208,
+   "texto": "70"
+  },
+  {
+   "tipo": "text",
+   "ini": 8214,
+   "fin": 9005
+  },
+  {
+   "tipo": "persName",
+   "ini": 8961,
+   "fin": 8976,
+   "texto": "DAVID LE BRETON"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9007,
+   "fin": 9070
+  },
+  {
+   "tipo": "img",
+   "ini": 9007,
+   "fin": 9012,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9014,
+   "fin": 9070,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Travesía reflejada, 2016\nPastel sobre Vidia\n35 x 110 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 9014,
+   "fin": 9032,
+   "texto": "Travesía reflejada"
+  },
+  {
+   "tipo": "date",
+   "ini": 9034,
+   "fin": 9038,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9039,
+   "fin": 9057,
+   "rasgos": {
+    "type": "pastel"
+   },
+   "texto": "Pastel sobre Vidia"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9058,
+   "fin": 9069,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35 x 110 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 9058,
+   "fin": 9060,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 9063,
+   "fin": 9066,
+   "texto": "110"
+  },
+  {
+   "tipo": "text",
+   "ini": 9072,
+   "fin": 10267
+  },
+  {
+   "tipo": "placeName",
+   "ini": 9697,
+   "fin": 9706,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Shirakawa"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 9718,
+   "fin": 9721,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Oku"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 10113,
+   "fin": 10131,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "isla de Matsushima"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10240,
+   "fin": 10252,
+   "texto": "MATSUO BASHÔ"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10269,
+   "fin": 10334
+  },
+  {
+   "tipo": "img",
+   "ini": 10269,
+   "fin": 10274,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10276,
+   "fin": 10334,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Niebla matinal, 2016\nÓleo sobre tabla entelada\n40 x 40 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 10276,
+   "fin": 10290,
+   "texto": "Niebla matinal"
+  },
+  {
+   "tipo": "date",
+   "ini": 10292,
+   "fin": 10296,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10297,
+   "fin": 10322,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla entelada"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10323,
+   "fin": 10333,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 10323,
+   "fin": 10325,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 10328,
+   "fin": 10330,
+   "texto": "40"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10336,
+   "fin": 10408
+  },
+  {
+   "tipo": "img",
+   "ini": 10336,
+   "fin": 10342,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10343,
+   "fin": 10408,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Crepúsculo en la cima, 2016\nÓleo sobre tabla entelada\n40 x 40 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 10343,
+   "fin": 10364,
+   "texto": "Crepúsculo en la cima"
+  },
+  {
+   "tipo": "date",
+   "ini": 10366,
+   "fin": 10370,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10371,
+   "fin": 10396,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla entelada"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10397,
+   "fin": 10407,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 10397,
+   "fin": 10399,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 10402,
+   "fin": 10404,
+   "texto": "40"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10410,
+   "fin": 10492
+  },
+  {
+   "tipo": "img",
+   "ini": 10410,
+   "fin": 10415,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 10416,
+   "fin": 10421,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10423,
+   "fin": 10492,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Nubes. El caminante I, II, 2016\nÓleo sobre tabla entelada\n50 x 40 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 10423,
+   "fin": 10448,
+   "texto": "Nubes. El caminante I, II"
+  },
+  {
+   "tipo": "date",
+   "ini": 10450,
+   "fin": 10454,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10455,
+   "fin": 10480,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla entelada"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10481,
+   "fin": 10491,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 10481,
+   "fin": 10483,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 10486,
+   "fin": 10488,
+   "texto": "40"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10494,
+   "fin": 10578
+  },
+  {
+   "tipo": "img",
+   "ini": 10494,
+   "fin": 10499,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 10500,
+   "fin": 10505,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10507,
+   "fin": 10578,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Nubes. El caminante III, IV, 2016\nÓleo sobre tabla entelada\n50 x 40 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 10507,
+   "fin": 10534,
+   "texto": "Nubes. El caminante III, IV"
+  },
+  {
+   "tipo": "date",
+   "ini": 10536,
+   "fin": 10540,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10541,
+   "fin": 10566,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla entelada"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10567,
+   "fin": 10577,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 10567,
+   "fin": 10569,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 10572,
+   "fin": 10574,
+   "texto": "40"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10580,
+   "fin": 10668
+  },
+  {
+   "tipo": "img",
+   "ini": 10580,
+   "fin": 10585,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 10586,
+   "fin": 10591,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 10592,
+   "fin": 10597,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10599,
+   "fin": 10668,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La sombra leve I-IV, 2013-2016\nEsmalte sobre papel Ingres\n16 x 23 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 10599,
+   "fin": 10618,
+   "texto": "La sombra leve I-IV"
+  },
+  {
+   "tipo": "date",
+   "ini": 10620,
+   "fin": 10629,
+   "rasgos": {
+    "from": "2013",
+    "to": "2016"
+   },
+   "texto": "2013-2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10630,
+   "fin": 10656,
+   "rasgos": {
+    "type": "glaze"
+   },
+   "texto": "Esmalte sobre papel Ingres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10657,
+   "fin": 10667,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "16 x 23 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 10657,
+   "fin": 10659,
+   "texto": "16"
+  },
+  {
+   "tipo": "width",
+   "ini": 10662,
+   "fin": 10664,
+   "texto": "23"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10670,
+   "fin": 10760
+  },
+  {
+   "tipo": "img",
+   "ini": 10670,
+   "fin": 10675,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 10676,
+   "fin": 10681,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 10682,
+   "fin": 10687,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10689,
+   "fin": 10760,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La sombra leve V-VIII, 2013-2016\nEsmalte sobre papel Ingres\n16 x 23 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 10689,
+   "fin": 10710,
+   "texto": "La sombra leve V-VIII"
+  },
+  {
+   "tipo": "date",
+   "ini": 10712,
+   "fin": 10721,
+   "rasgos": {
+    "from": "2013",
+    "to": "2016"
+   },
+   "texto": "2013-2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10722,
+   "fin": 10748,
+   "rasgos": {
+    "type": "glaze"
+   },
+   "texto": "Esmalte sobre papel Ingres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10749,
+   "fin": 10759,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "16 x 23 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 10749,
+   "fin": 10751,
+   "texto": "16"
+  },
+  {
+   "tipo": "width",
+   "ini": 10754,
+   "fin": 10756,
+   "texto": "23"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10820,
+   "fin": 10832,
+   "texto": "MATSUO BASHÔ"
+  },
+  {
+   "tipo": "person",
+   "ini": 10834,
+   "fin": 10853,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MANUEL LUCA DE TENA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10834,
+   "fin": 10853,
+   "texto": "MANUEL LUCA DE TENA"
+  },
+  {
+   "tipo": "date",
+   "ini": 10884,
+   "fin": 10888,
+   "rasgos": {
+    "when": "1954"
+   },
+   "texto": "1954"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 10898,
+   "fin": 10904,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13210,
+   "fin": 13233,
+   "texto": "José Manuel López López"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13236,
+   "fin": 13250,
+   "texto": "Carlos Bermejo"
+  },
+  {
+   "tipo": "date",
+   "ini": 19133,
+   "fin": 19142,
+   "rasgos": {
+    "from": "2012",
+    "to": "2013"
+   },
+   "texto": "2012>2013"
+  },
+  {
+   "tipo": "title",
+   "ini": 19324,
+   "fin": 19342,
+   "texto": "NÓMADAS DEL TIEMPO"
+  },
+  {
+   "tipo": "institution",
+   "ini": 19363,
+   "fin": 19374,
+   "rasgos": {
+    "type": "artCenter",
+    "role": "organiser"
+   },
+   "texto": "ESPACIO BOP"
+  },
+  {
+   "tipo": "address",
+   "ini": 19376,
+   "fin": 19406,
+   "texto": "C/ Juan de la Hoz, 22. Madrid."
+  },
+  {
+   "tipo": "placeName",
+   "ini": 19399,
+   "fin": 19405,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  }
+ ]
+}

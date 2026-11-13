@@ -1,0 +1,575 @@
+{
+ "id": "cat_028_benito_freire_catalogo",
+ "nombre_original": "benito-freire-catalogo",
+ "longitud_texto": 821,
+ "sha256_texto": "eae68b0b9eb43ff5118901a45a6844cba680c81feed1ba712ed31d2768bf010e",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 223,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 0,
+   "fin": 23,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "PARROTE\nGALERÍA DE ARTE"
+  },
+  {
+   "tipo": "title",
+   "ini": 25,
+   "fin": 36,
+   "texto": "EN TRÁNSITO"
+  },
+  {
+   "tipo": "person",
+   "ini": 38,
+   "fin": 51,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Benito Freire"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38,
+   "fin": 51,
+   "texto": "Benito Freire"
+  },
+  {
+   "tipo": "address",
+   "ini": 53,
+   "fin": 96,
+   "texto": "Paseo de la Dársena, 5 bajo/ 15001 A CORUÑA"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 88,
+   "fin": 96,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "A CORUÑA"
+  },
+  {
+   "tipo": "date",
+   "ini": 183,
+   "fin": 223,
+   "rasgos": {
+    "from": "2020-12-15",
+    "to": "2021-01-28"
+   },
+   "texto": "15 de Diciembre 2020 al 28 de Enero 2021"
+  },
+  {
+   "tipo": "date",
+   "ini": 233,
+   "fin": 247,
+   "rasgos": {
+    "from": "2020-12-01",
+    "to": "2020-12-31"
+   },
+   "texto": "Diciembre 2020"
+  },
+  {
+   "tipo": "date",
+   "ini": 249,
+   "fin": 289,
+   "rasgos": {
+    "from": "2020-12-15",
+    "to": "2021-01-28"
+   },
+   "texto": "15 de Diciembre 2020 al 28 de Enero 2021"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 291,
+   "fin": 473
+  },
+  {
+   "tipo": "title",
+   "ini": 291,
+   "fin": 306,
+   "texto": "Hierro y piedra"
+  },
+  {
+   "tipo": "caption",
+   "ini": 291,
+   "fin": 306
+  },
+  {
+   "tipo": "material",
+   "ini": 291,
+   "fin": 306,
+   "rasgos": {
+    "type": "iron, stone"
+   },
+   "texto": "Hierro y piedra"
+  },
+  {
+   "tipo": "img",
+   "ini": 291,
+   "fin": 306,
+   "rasgos": {
+    "color": "true",
+    "size": "medium",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 291,
+   "fin": 306,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Hierro y piedra"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 291,
+   "fin": 306
+  },
+  {
+   "tipo": "work",
+   "ini": 308,
+   "fin": 324,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Hierro y piedra\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 308,
+   "fin": 323,
+   "texto": "Hierro y piedra"
+  },
+  {
+   "tipo": "caption",
+   "ini": 308,
+   "fin": 323
+  },
+  {
+   "tipo": "material",
+   "ini": 308,
+   "fin": 323,
+   "rasgos": {
+    "type": "iron, stone"
+   },
+   "texto": "Hierro y piedra"
+  },
+  {
+   "tipo": "img",
+   "ini": 308,
+   "fin": 323,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 308,
+   "fin": 323
+  },
+  {
+   "tipo": "title",
+   "ini": 325,
+   "fin": 340,
+   "texto": "Hierro y piedra"
+  },
+  {
+   "tipo": "caption",
+   "ini": 325,
+   "fin": 340
+  },
+  {
+   "tipo": "material",
+   "ini": 325,
+   "fin": 340,
+   "rasgos": {
+    "type": "iron, stone"
+   },
+   "texto": "Hierro y piedra"
+  },
+  {
+   "tipo": "img",
+   "ini": 325,
+   "fin": 340,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 325,
+   "fin": 340,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Hierro y piedra"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 325,
+   "fin": 340
+  },
+  {
+   "tipo": "title",
+   "ini": 342,
+   "fin": 357,
+   "texto": "Hierro y piedra"
+  },
+  {
+   "tipo": "caption",
+   "ini": 342,
+   "fin": 357
+  },
+  {
+   "tipo": "material",
+   "ini": 342,
+   "fin": 357,
+   "rasgos": {
+    "type": "iron, stone"
+   },
+   "texto": "Hierro y piedra"
+  },
+  {
+   "tipo": "img",
+   "ini": 342,
+   "fin": 357,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 342,
+   "fin": 357,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Hierro y piedra"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 342,
+   "fin": 357
+  },
+  {
+   "tipo": "title",
+   "ini": 359,
+   "fin": 374,
+   "texto": "Hierro y piedra"
+  },
+  {
+   "tipo": "caption",
+   "ini": 359,
+   "fin": 374
+  },
+  {
+   "tipo": "material",
+   "ini": 359,
+   "fin": 374,
+   "rasgos": {
+    "type": "iron, stone"
+   },
+   "texto": "Hierro y piedra"
+  },
+  {
+   "tipo": "img",
+   "ini": 359,
+   "fin": 374,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 359,
+   "fin": 374,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Hierro y piedra"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 359,
+   "fin": 374
+  },
+  {
+   "tipo": "title",
+   "ini": 376,
+   "fin": 398,
+   "texto": "Piedra, hierro y plomo"
+  },
+  {
+   "tipo": "caption",
+   "ini": 376,
+   "fin": 398
+  },
+  {
+   "tipo": "material",
+   "ini": 376,
+   "fin": 398,
+   "rasgos": {
+    "type": "iron, stone"
+   },
+   "texto": "Piedra, hierro y plomo"
+  },
+  {
+   "tipo": "img",
+   "ini": 376,
+   "fin": 398,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 376,
+   "fin": 398,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Piedra, hierro y plomo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 376,
+   "fin": 398
+  },
+  {
+   "tipo": "title",
+   "ini": 400,
+   "fin": 415,
+   "texto": "Hierro y piedra"
+  },
+  {
+   "tipo": "caption",
+   "ini": 400,
+   "fin": 415
+  },
+  {
+   "tipo": "material",
+   "ini": 400,
+   "fin": 415,
+   "rasgos": {
+    "type": "iron, stone"
+   },
+   "texto": "Hierro y piedra"
+  },
+  {
+   "tipo": "img",
+   "ini": 400,
+   "fin": 415,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 400,
+   "fin": 415,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Hierro y piedra"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 400,
+   "fin": 415
+  },
+  {
+   "tipo": "work",
+   "ini": 417,
+   "fin": 433,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Hierro y piedra\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 417,
+   "fin": 432,
+   "texto": "Hierro y piedra"
+  },
+  {
+   "tipo": "caption",
+   "ini": 417,
+   "fin": 432
+  },
+  {
+   "tipo": "material",
+   "ini": 417,
+   "fin": 432,
+   "rasgos": {
+    "type": "iron, stone"
+   },
+   "texto": "Hierro y piedra"
+  },
+  {
+   "tipo": "img",
+   "ini": 417,
+   "fin": 432,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 417,
+   "fin": 432
+  },
+  {
+   "tipo": "title",
+   "ini": 434,
+   "fin": 449,
+   "texto": "Hierro y piedra"
+  },
+  {
+   "tipo": "caption",
+   "ini": 434,
+   "fin": 449
+  },
+  {
+   "tipo": "material",
+   "ini": 434,
+   "fin": 449,
+   "rasgos": {
+    "type": "iron, stone"
+   },
+   "texto": "Hierro y piedra"
+  },
+  {
+   "tipo": "img",
+   "ini": 434,
+   "fin": 449,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 434,
+   "fin": 449,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Hierro y piedra"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 434,
+   "fin": 449
+  },
+  {
+   "tipo": "title",
+   "ini": 451,
+   "fin": 473,
+   "texto": "Hierro, piedra y cobre"
+  },
+  {
+   "tipo": "caption",
+   "ini": 451,
+   "fin": 473
+  },
+  {
+   "tipo": "material",
+   "ini": 451,
+   "fin": 473,
+   "rasgos": {
+    "type": "iron, stone, copper"
+   },
+   "texto": "Hierro, piedra y cobre"
+  },
+  {
+   "tipo": "img",
+   "ini": 451,
+   "fin": 473,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 451,
+   "fin": 473,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Hierro, piedra y cobre"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 451,
+   "fin": 473
+  },
+  {
+   "tipo": "title",
+   "ini": 475,
+   "fin": 486,
+   "texto": "EN TRÁNSITO"
+  },
+  {
+   "tipo": "institution",
+   "ini": 643,
+   "fin": 820,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "WWW.PARROTE.ES\n\ngaleria@parrote.es\n@parrote_galeria\nPaseo de la Dársena, 5 bajo\nMañanas: viernes a sábado de 12 a 14h\nTardes: martes a sábado de 18 a 21h\nFotografía Isra Cubillo"
+  },
+  {
+   "tipo": "address",
+   "ini": 695,
+   "fin": 722,
+   "texto": "Paseo de la Dársena, 5 bajo"
+  },
+  {
+   "tipo": "person",
+   "ini": 808,
+   "fin": 820,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Isra Cubillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 808,
+   "fin": 820,
+   "texto": "Isra Cubillo"
+  }
+ ]
+}

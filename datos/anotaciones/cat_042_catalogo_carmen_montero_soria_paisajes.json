@@ -1,0 +1,2056 @@
+{
+ "id": "cat_042_catalogo_carmen_montero_soria_paisajes",
+ "nombre_original": "catalogo-carmen-montero-soria-paisajes",
+ "longitud_texto": 7720,
+ "sha256_texto": "b6b71c876ed383639e8c62b4f4d266735ec3add6cd2a54ea53f062db29ea55a0",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 44,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 29,
+   "texto": "PAISAJES VIVIDOS O IMAGINADOS"
+  },
+  {
+   "tipo": "person",
+   "ini": 30,
+   "fin": 44,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carmen Montero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30,
+   "fin": 44,
+   "texto": "Carmen Montero"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 46,
+   "fin": 162,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 75,
+   "fin": 89,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Carmen Montero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75,
+   "fin": 89,
+   "texto": "Carmen Montero"
+  },
+  {
+   "tipo": "person",
+   "ini": 97,
+   "fin": 116,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Alvaro de la Herran"
+  },
+  {
+   "tipo": "persName",
+   "ini": 97,
+   "fin": 116,
+   "texto": "Alvaro de la Herran"
+  },
+  {
+   "tipo": "person",
+   "ini": 118,
+   "fin": 132,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "CARMEN MONTERO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 118,
+   "fin": 132,
+   "texto": "CARMEN MONTERO"
+  },
+  {
+   "tipo": "title",
+   "ini": 133,
+   "fin": 162,
+   "texto": "PAISAJES VIVIDOS O IMAGINADOS"
+  },
+  {
+   "tipo": "title",
+   "ini": 2108,
+   "fin": 2137,
+   "texto": "PAISAJES VIVIDOS O IMAGINADOS"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 2108,
+   "fin": 2137,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 2850,
+   "fin": 4621
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2850,
+   "fin": 2899
+  },
+  {
+   "tipo": "img",
+   "ini": 2850,
+   "fin": 2855,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2857,
+   "fin": 2899,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ENTREPLANTA I Óleo sobre tabla I 100 x 122"
+  },
+  {
+   "tipo": "title",
+   "ini": 2857,
+   "fin": 2868,
+   "texto": "ENTREPLANTA"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2871,
+   "fin": 2887,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2890,
+   "fin": 2899,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 122"
+  },
+  {
+   "tipo": "height",
+   "ini": 2890,
+   "fin": 2893,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 2896,
+   "fin": 2899,
+   "texto": "122"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2901,
+   "fin": 2949
+  },
+  {
+   "tipo": "img",
+   "ini": 2901,
+   "fin": 2906,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2908,
+   "fin": 2949,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "LUCERNARIO I Óleo sobre tabla I 122 x 100"
+  },
+  {
+   "tipo": "title",
+   "ini": 2908,
+   "fin": 2918,
+   "texto": "LUCERNARIO"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2921,
+   "fin": 2937,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2940,
+   "fin": 2949,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122 x 100"
+  },
+  {
+   "tipo": "height",
+   "ini": 2940,
+   "fin": 2943,
+   "texto": "122"
+  },
+  {
+   "tipo": "width",
+   "ini": 2946,
+   "fin": 2949,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2951,
+   "fin": 3000
+  },
+  {
+   "tipo": "img",
+   "ini": 2951,
+   "fin": 2956,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2958,
+   "fin": 3000,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "INVERNADERO I Óleo sobre tabla I 122 x 100"
+  },
+  {
+   "tipo": "title",
+   "ini": 2958,
+   "fin": 2969,
+   "texto": "INVERNADERO"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2972,
+   "fin": 2988,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2991,
+   "fin": 3000,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122 x 100"
+  },
+  {
+   "tipo": "height",
+   "ini": 2991,
+   "fin": 2994,
+   "texto": "122"
+  },
+  {
+   "tipo": "width",
+   "ini": 2997,
+   "fin": 3000,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3002,
+   "fin": 3052
+  },
+  {
+   "tipo": "img",
+   "ini": 3002,
+   "fin": 3007,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3009,
+   "fin": 3052,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "JARDÍN MUSEO I Óleo sobre tabla I 122 x 100"
+  },
+  {
+   "tipo": "title",
+   "ini": 3009,
+   "fin": 3021,
+   "texto": "JARDÍN MUSEO"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3024,
+   "fin": 3040,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3043,
+   "fin": 3052,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122 x 100"
+  },
+  {
+   "tipo": "height",
+   "ini": 3043,
+   "fin": 3046,
+   "texto": "122"
+  },
+  {
+   "tipo": "width",
+   "ini": 3049,
+   "fin": 3052,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3054,
+   "fin": 3108
+  },
+  {
+   "tipo": "img",
+   "ini": 3054,
+   "fin": 3059,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3061,
+   "fin": 3108,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "VES DEL PARAISO I Mixta sobre tabla I 122 x 100"
+  },
+  {
+   "tipo": "title",
+   "ini": 3061,
+   "fin": 3076,
+   "texto": "VES DEL PARAISO"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3079,
+   "fin": 3096,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3099,
+   "fin": 3108,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122 x 100"
+  },
+  {
+   "tipo": "height",
+   "ini": 3099,
+   "fin": 3102,
+   "texto": "122"
+  },
+  {
+   "tipo": "width",
+   "ini": 3105,
+   "fin": 3108,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3110,
+   "fin": 3155
+  },
+  {
+   "tipo": "img",
+   "ini": 3110,
+   "fin": 3115,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3117,
+   "fin": 3155,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "TIERRA I Mixta sobre tabla I 122 x 100"
+  },
+  {
+   "tipo": "title",
+   "ini": 3117,
+   "fin": 3123,
+   "texto": "TIERRA"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3126,
+   "fin": 3143,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3146,
+   "fin": 3155,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122 x 100"
+  },
+  {
+   "tipo": "height",
+   "ini": 3146,
+   "fin": 3149,
+   "texto": "122"
+  },
+  {
+   "tipo": "width",
+   "ini": 3152,
+   "fin": 3155,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3157,
+   "fin": 3200
+  },
+  {
+   "tipo": "img",
+   "ini": 3157,
+   "fin": 3162,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3164,
+   "fin": 3200,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "SELVA I Mixta sobre tabla I 122 x 48"
+  },
+  {
+   "tipo": "title",
+   "ini": 3164,
+   "fin": 3169,
+   "texto": "SELVA"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3172,
+   "fin": 3189,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3192,
+   "fin": 3200,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122 x 48"
+  },
+  {
+   "tipo": "height",
+   "ini": 3192,
+   "fin": 3195,
+   "texto": "122"
+  },
+  {
+   "tipo": "width",
+   "ini": 3198,
+   "fin": 3200,
+   "texto": "48"
+  },
+  {
+   "tipo": "img",
+   "ini": 3202,
+   "fin": 3207,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 3208,
+   "fin": 3213,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 3214,
+   "fin": 3219,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3221,
+   "fin": 3280,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "JUGANDO EN LA CASA DEL ARBOL I Óleo sobre lienzo I 81 x 100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3221,
+   "fin": 3280
+  },
+  {
+   "tipo": "title",
+   "ini": 3221,
+   "fin": 3249,
+   "texto": "JUGANDO EN LA CASA DEL ARBOL"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3252,
+   "fin": 3269,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3272,
+   "fin": 3280,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 100"
+  },
+  {
+   "tipo": "height",
+   "ini": 3272,
+   "fin": 3274,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 3277,
+   "fin": 3280,
+   "texto": "100"
+  },
+  {
+   "tipo": "work",
+   "ini": 3282,
+   "fin": 3340,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "SENTADA EN LA CASA DEL ARBOL I Mixta sobre tabla I 40 x 60"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3282,
+   "fin": 3340
+  },
+  {
+   "tipo": "title",
+   "ini": 3282,
+   "fin": 3310,
+   "texto": "SENTADA EN LA CASA DEL ARBOL"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3313,
+   "fin": 3330,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3333,
+   "fin": 3340,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 60"
+  },
+  {
+   "tipo": "height",
+   "ini": 3333,
+   "fin": 3335,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 3338,
+   "fin": 3340,
+   "texto": "60"
+  },
+  {
+   "tipo": "work",
+   "ini": 3342,
+   "fin": 3402,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ESCONDIDA EN LA CASA DEL ARBOL I Mixta sobre tabla I 40 x 60"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3342,
+   "fin": 3402
+  },
+  {
+   "tipo": "title",
+   "ini": 3342,
+   "fin": 3372,
+   "texto": "ESCONDIDA EN LA CASA DEL ARBOL"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3375,
+   "fin": 3392,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3395,
+   "fin": 3402,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 60"
+  },
+  {
+   "tipo": "height",
+   "ini": 3395,
+   "fin": 3397,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 3400,
+   "fin": 3402,
+   "texto": "60"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3404,
+   "fin": 3454
+  },
+  {
+   "tipo": "img",
+   "ini": 3404,
+   "fin": 3409,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3411,
+   "fin": 3454,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "EL ESTANQUE I Mixta sobre tabla I 100 x 122"
+  },
+  {
+   "tipo": "title",
+   "ini": 3411,
+   "fin": 3422,
+   "texto": "EL ESTANQUE"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3425,
+   "fin": 3442,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3445,
+   "fin": 3454,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 122"
+  },
+  {
+   "tipo": "height",
+   "ini": 3445,
+   "fin": 3448,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 3451,
+   "fin": 3454,
+   "texto": "122"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3456,
+   "fin": 3513
+  },
+  {
+   "tipo": "img",
+   "ini": 3456,
+   "fin": 3461,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3463,
+   "fin": 3513,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "LA CASA DEL BOSQUE I Mixta sobre tabla I 100 x 122"
+  },
+  {
+   "tipo": "title",
+   "ini": 3463,
+   "fin": 3481,
+   "texto": "LA CASA DEL BOSQUE"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3484,
+   "fin": 3501,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3504,
+   "fin": 3513,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 122"
+  },
+  {
+   "tipo": "height",
+   "ini": 3504,
+   "fin": 3507,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 3510,
+   "fin": 3513,
+   "texto": "122"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3515,
+   "fin": 3571
+  },
+  {
+   "tipo": "img",
+   "ini": 3515,
+   "fin": 3520,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3522,
+   "fin": 3571,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "MALDITA PRIMAVERA I Mixta sobre tabla I 100 x 122"
+  },
+  {
+   "tipo": "title",
+   "ini": 3522,
+   "fin": 3539,
+   "texto": "MALDITA PRIMAVERA"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3542,
+   "fin": 3559,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3562,
+   "fin": 3571,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 122"
+  },
+  {
+   "tipo": "height",
+   "ini": 3562,
+   "fin": 3565,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 3568,
+   "fin": 3571,
+   "texto": "122"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3573,
+   "fin": 3633
+  },
+  {
+   "tipo": "img",
+   "ini": 3573,
+   "fin": 3578,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3580,
+   "fin": 3633,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "DISTANCIA DE SEGURIDAD I Mixta sobre tabla I 43 x 122"
+  },
+  {
+   "tipo": "title",
+   "ini": 3580,
+   "fin": 3602,
+   "texto": "DISTANCIA DE SEGURIDAD"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3605,
+   "fin": 3622,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3625,
+   "fin": 3633,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "43 x 122"
+  },
+  {
+   "tipo": "height",
+   "ini": 3625,
+   "fin": 3627,
+   "texto": "43"
+  },
+  {
+   "tipo": "width",
+   "ini": 3630,
+   "fin": 3633,
+   "texto": "122"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3635,
+   "fin": 3688
+  },
+  {
+   "tipo": "img",
+   "ini": 3635,
+   "fin": 3640,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3642,
+   "fin": 3688,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "UN PASO ADELANTE I Óleo sobre tabla I 43 x 122"
+  },
+  {
+   "tipo": "title",
+   "ini": 3642,
+   "fin": 3658,
+   "texto": "UN PASO ADELANTE"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3661,
+   "fin": 3677,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3680,
+   "fin": 3688,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "43 x 122"
+  },
+  {
+   "tipo": "height",
+   "ini": 3680,
+   "fin": 3682,
+   "texto": "43"
+  },
+  {
+   "tipo": "width",
+   "ini": 3685,
+   "fin": 3688,
+   "texto": "122"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3690,
+   "fin": 3735
+  },
+  {
+   "tipo": "img",
+   "ini": 3690,
+   "fin": 3696,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3697,
+   "fin": 3735,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "PONIENTE I Óleo sobre tabla I 43 x 122"
+  },
+  {
+   "tipo": "title",
+   "ini": 3697,
+   "fin": 3705,
+   "texto": "PONIENTE"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3708,
+   "fin": 3724,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3727,
+   "fin": 3735,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "43 x 122"
+  },
+  {
+   "tipo": "height",
+   "ini": 3727,
+   "fin": 3729,
+   "texto": "43"
+  },
+  {
+   "tipo": "width",
+   "ini": 3732,
+   "fin": 3735,
+   "texto": "122"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3737,
+   "fin": 3791
+  },
+  {
+   "tipo": "img",
+   "ini": 3737,
+   "fin": 3742,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3744,
+   "fin": 3791,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "VENTANA AL BOSQUE I Óleo sobre tabla I 43 x 122"
+  },
+  {
+   "tipo": "title",
+   "ini": 3744,
+   "fin": 3761,
+   "texto": "VENTANA AL BOSQUE"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3764,
+   "fin": 3780,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3783,
+   "fin": 3791,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "43 x 122"
+  },
+  {
+   "tipo": "height",
+   "ini": 3783,
+   "fin": 3785,
+   "texto": "43"
+  },
+  {
+   "tipo": "width",
+   "ini": 3788,
+   "fin": 3791,
+   "texto": "122"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3793,
+   "fin": 3855
+  },
+  {
+   "tipo": "img",
+   "ini": 3793,
+   "fin": 3798,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3800,
+   "fin": 3855,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "PAISAJE AMARILLO CARA A I Mixta sobre tabla I 122 x 100"
+  },
+  {
+   "tipo": "title",
+   "ini": 3800,
+   "fin": 3823,
+   "texto": "PAISAJE AMARILLO CARA A"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3826,
+   "fin": 3843,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3846,
+   "fin": 3855,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122 x 100"
+  },
+  {
+   "tipo": "height",
+   "ini": 3846,
+   "fin": 3849,
+   "texto": "122"
+  },
+  {
+   "tipo": "width",
+   "ini": 3852,
+   "fin": 3855,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3857,
+   "fin": 3919
+  },
+  {
+   "tipo": "img",
+   "ini": 3857,
+   "fin": 3862,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3864,
+   "fin": 3919,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "PAISAJE AMARILLO CARA B I Mixta sobre tabla I 122 x 100"
+  },
+  {
+   "tipo": "title",
+   "ini": 3864,
+   "fin": 3887,
+   "texto": "PAISAJE AMARILLO CARA B"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3890,
+   "fin": 3907,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3910,
+   "fin": 3919,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122 x 100"
+  },
+  {
+   "tipo": "height",
+   "ini": 3910,
+   "fin": 3913,
+   "texto": "122"
+  },
+  {
+   "tipo": "width",
+   "ini": 3916,
+   "fin": 3919,
+   "texto": "100"
+  },
+  {
+   "tipo": "img",
+   "ini": 3921,
+   "fin": 3926,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 3927,
+   "fin": 3932,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 3933,
+   "fin": 3938,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 3939,
+   "fin": 3944,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 3945,
+   "fin": 3950,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 3951,
+   "fin": 3956,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3958,
+   "fin": 4011,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "MÁS DURA SERÁ LA SUBIDA I Mixta sobre tabla I 40 x 30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3958,
+   "fin": 4011
+  },
+  {
+   "tipo": "title",
+   "ini": 3958,
+   "fin": 3981,
+   "texto": "MÁS DURA SERÁ LA SUBIDA"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3984,
+   "fin": 4001,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4004,
+   "fin": 4011,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 30"
+  },
+  {
+   "tipo": "height",
+   "ini": 4004,
+   "fin": 4006,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 4009,
+   "fin": 4011,
+   "texto": "30"
+  },
+  {
+   "tipo": "work",
+   "ini": 4013,
+   "fin": 4056,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "LA CASA VERDE I Mixta sobre tabla I 40 x 30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4013,
+   "fin": 4056
+  },
+  {
+   "tipo": "title",
+   "ini": 4013,
+   "fin": 4026,
+   "texto": "LA CASA VERDE"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4029,
+   "fin": 4046,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4049,
+   "fin": 4056,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 30"
+  },
+  {
+   "tipo": "height",
+   "ini": 4049,
+   "fin": 4051,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 4054,
+   "fin": 4056,
+   "texto": "30"
+  },
+  {
+   "tipo": "work",
+   "ini": 4058,
+   "fin": 4109,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "PAIS DE LAS AMARILLAS I Mixta sobre tabla I 40 x 30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4058,
+   "fin": 4109
+  },
+  {
+   "tipo": "title",
+   "ini": 4058,
+   "fin": 4079,
+   "texto": "PAIS DE LAS AMARILLAS"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4082,
+   "fin": 4099,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4102,
+   "fin": 4109,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 30"
+  },
+  {
+   "tipo": "height",
+   "ini": 4102,
+   "fin": 4104,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 4107,
+   "fin": 4109,
+   "texto": "30"
+  },
+  {
+   "tipo": "work",
+   "ini": 4111,
+   "fin": 4153,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "EL HORTELANO I Mixta sobre tabla I 40 x 30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4111,
+   "fin": 4153
+  },
+  {
+   "tipo": "title",
+   "ini": 4111,
+   "fin": 4123,
+   "texto": "EL HORTELANO"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4126,
+   "fin": 4143,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4146,
+   "fin": 4154,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 30\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 4146,
+   "fin": 4148,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 4151,
+   "fin": 4153,
+   "texto": "30"
+  },
+  {
+   "tipo": "work",
+   "ini": 4155,
+   "fin": 4197,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "LA CASA AZUL I Mixta sobre tabla I 40 x 30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4155,
+   "fin": 4197
+  },
+  {
+   "tipo": "title",
+   "ini": 4155,
+   "fin": 4167,
+   "texto": "LA CASA AZUL"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4170,
+   "fin": 4187,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4190,
+   "fin": 4197,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 30"
+  },
+  {
+   "tipo": "height",
+   "ini": 4190,
+   "fin": 4192,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 4195,
+   "fin": 4197,
+   "texto": "30"
+  },
+  {
+   "tipo": "work",
+   "ini": 4199,
+   "fin": 4246,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "EL PODER DEL AGUA I Mixta sobre tabla I 40 x 30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4199,
+   "fin": 4246
+  },
+  {
+   "tipo": "title",
+   "ini": 4199,
+   "fin": 4216,
+   "texto": "EL PODER DEL AGUA"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4219,
+   "fin": 4236,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4239,
+   "fin": 4246,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 30"
+  },
+  {
+   "tipo": "height",
+   "ini": 4239,
+   "fin": 4241,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 4244,
+   "fin": 4246,
+   "texto": "30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4248,
+   "fin": 4294
+  },
+  {
+   "tipo": "img",
+   "ini": 4248,
+   "fin": 4253,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4255,
+   "fin": 4294,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ABANDONO I Óleo sobre tabla I 100 x 122"
+  },
+  {
+   "tipo": "title",
+   "ini": 4255,
+   "fin": 4263,
+   "texto": "ABANDONO"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4266,
+   "fin": 4282,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4285,
+   "fin": 4294,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 122"
+  },
+  {
+   "tipo": "height",
+   "ini": 4285,
+   "fin": 4288,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 4291,
+   "fin": 4294,
+   "texto": "122"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4296,
+   "fin": 4356
+  },
+  {
+   "tipo": "img",
+   "ini": 4296,
+   "fin": 4301,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4303,
+   "fin": 4356,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "PARTITURA DE ORQUÍDEAS I Óleo sobre tabla I 122 x 100"
+  },
+  {
+   "tipo": "title",
+   "ini": 4303,
+   "fin": 4325,
+   "texto": "PARTITURA DE ORQUÍDEAS"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4328,
+   "fin": 4344,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4347,
+   "fin": 4356,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122 x 100"
+  },
+  {
+   "tipo": "height",
+   "ini": 4347,
+   "fin": 4350,
+   "texto": "122"
+  },
+  {
+   "tipo": "width",
+   "ini": 4353,
+   "fin": 4356,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4358,
+   "fin": 4403
+  },
+  {
+   "tipo": "img",
+   "ini": 4358,
+   "fin": 4363,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4365,
+   "fin": 4403,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "VIVERO I Mixta sobre tabla I 100 x 122"
+  },
+  {
+   "tipo": "title",
+   "ini": 4365,
+   "fin": 4371,
+   "texto": "VIVERO"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4374,
+   "fin": 4391,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4394,
+   "fin": 4403,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 122"
+  },
+  {
+   "tipo": "height",
+   "ini": 4394,
+   "fin": 4397,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 4400,
+   "fin": 4403,
+   "texto": "122"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4405,
+   "fin": 4454
+  },
+  {
+   "tipo": "img",
+   "ini": 4405,
+   "fin": 4410,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4412,
+   "fin": 4454,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "LA MANGUERA I Óleo sobre lienzo I 81 x 100"
+  },
+  {
+   "tipo": "title",
+   "ini": 4412,
+   "fin": 4423,
+   "texto": "LA MANGUERA"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4426,
+   "fin": 4443,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4446,
+   "fin": 4454,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 100"
+  },
+  {
+   "tipo": "height",
+   "ini": 4446,
+   "fin": 4448,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 4451,
+   "fin": 4454,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4456,
+   "fin": 4499
+  },
+  {
+   "tipo": "img",
+   "ini": 4456,
+   "fin": 4461,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4463,
+   "fin": 4499,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "CIELO I Óleo sobre tabla I 122 x 100"
+  },
+  {
+   "tipo": "title",
+   "ini": 4463,
+   "fin": 4468,
+   "texto": "CIELO"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4471,
+   "fin": 4487,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4490,
+   "fin": 4499,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122 x 100"
+  },
+  {
+   "tipo": "height",
+   "ini": 4490,
+   "fin": 4493,
+   "texto": "122"
+  },
+  {
+   "tipo": "width",
+   "ini": 4496,
+   "fin": 4499,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4501,
+   "fin": 4556
+  },
+  {
+   "tipo": "img",
+   "ini": 4501,
+   "fin": 4506,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4508,
+   "fin": 4556,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "LA ISLA HABITADA I Mixta sobre tabla I 100 x 122"
+  },
+  {
+   "tipo": "title",
+   "ini": 4508,
+   "fin": 4524,
+   "texto": "LA ISLA HABITADA"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4527,
+   "fin": 4544,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4547,
+   "fin": 4556,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 122"
+  },
+  {
+   "tipo": "height",
+   "ini": 4547,
+   "fin": 4550,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 4553,
+   "fin": 4556,
+   "texto": "122"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4558,
+   "fin": 4621
+  },
+  {
+   "tipo": "img",
+   "ini": 4558,
+   "fin": 4563,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4564,
+   "fin": 4569,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4570,
+   "fin": 4575,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4577,
+   "fin": 4621,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "PAISAJE LUNAR I Mixta sobre tabla I 40 x 122"
+  },
+  {
+   "tipo": "title",
+   "ini": 4577,
+   "fin": 4590,
+   "texto": "PAISAJE LUNAR"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4593,
+   "fin": 4610,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4613,
+   "fin": 4621,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 122"
+  },
+  {
+   "tipo": "height",
+   "ini": 4613,
+   "fin": 4615,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 4618,
+   "fin": 4621,
+   "texto": "122"
+  }
+ ]
+}

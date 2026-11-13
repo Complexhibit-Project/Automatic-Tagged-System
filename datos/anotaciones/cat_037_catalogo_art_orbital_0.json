@@ -1,0 +1,3482 @@
+{
+ "id": "cat_037_catalogo_art_orbital_0",
+ "nombre_original": "CATALOGO+ART+ORBITAL,0",
+ "longitud_texto": 46165,
+ "sha256_texto": "705791583ed6d428f1c718969f4e2b2649a206d8a10b66baba4d835b5eb80374",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 147,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 28,
+   "texto": "ART ORBITAL. Antonio Eguiluz"
+  },
+  {
+   "tipo": "person",
+   "ini": 13,
+   "fin": 28,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Eguiluz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13,
+   "fin": 28,
+   "texto": "Antonio Eguiluz"
+  },
+  {
+   "tipo": "venue",
+   "ini": 29,
+   "fin": 60,
+   "texto": "Sala de Exposiciones Temporales"
+  },
+  {
+   "tipo": "date",
+   "ini": 61,
+   "fin": 92,
+   "rasgos": {
+    "from": "2011-03-01",
+    "to": "2011-04-03"
+   },
+   "texto": "1 de marzo a 3 de abril de 2011"
+  },
+  {
+   "tipo": "institution",
+   "ini": 129,
+   "fin": 147,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Museo de Salamanca"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 138,
+   "fin": 147,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Salamanca"
+  },
+  {
+   "tipo": "person",
+   "ini": 169,
+   "fin": 190,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Eguiluz Carba"
+  },
+  {
+   "tipo": "persName",
+   "ini": 169,
+   "fin": 190,
+   "texto": "Antonio Eguiluz Carba"
+  },
+  {
+   "tipo": "person",
+   "ini": 244,
+   "fin": 265,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Antonio Eguiluz Carba"
+  },
+  {
+   "tipo": "persName",
+   "ini": 244,
+   "fin": 265,
+   "texto": "Antonio Eguiluz Carba"
+  },
+  {
+   "tipo": "person",
+   "ini": 308,
+   "fin": 327,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "Alicia Villar Pérez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 308,
+   "fin": 327,
+   "texto": "Alicia Villar Pérez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 329,
+   "fin": 347,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Museo de Salamanca"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 338,
+   "fin": 347,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Salamanca"
+  },
+  {
+   "tipo": "person",
+   "ini": 362,
+   "fin": 383,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Alberto Bescós Corral"
+  },
+  {
+   "tipo": "persName",
+   "ini": 362,
+   "fin": 383,
+   "texto": "Alberto Bescós Corral"
+  },
+  {
+   "tipo": "institution",
+   "ini": 385,
+   "fin": 403,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Museo de Salamanca"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 394,
+   "fin": 403,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Salamanca"
+  },
+  {
+   "tipo": "title",
+   "ini": 405,
+   "fin": 459,
+   "texto": "Art Orbital. Serie pictórica por Antonio Eguiluz Carba"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 405,
+   "fin": 459,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 438,
+   "fin": 459,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Eguiluz Carba"
+  },
+  {
+   "tipo": "persName",
+   "ini": 438,
+   "fin": 459,
+   "texto": "Antonio Eguiluz Carba"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 722,
+   "fin": 842,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 722,
+   "fin": 750,
+   "texto": "Art Orbital. Antonio Eguiluz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 735,
+   "fin": 750,
+   "texto": "Antonio Eguiluz"
+  },
+  {
+   "tipo": "person",
+   "ini": 735,
+   "fin": 750,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Eguiluz"
+  },
+  {
+   "tipo": "institution",
+   "ini": 752,
+   "fin": 770,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Museo de Salamanca"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 761,
+   "fin": 770,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Salamanca"
+  },
+  {
+   "tipo": "institution",
+   "ini": 772,
+   "fin": 790,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Museo de Salamanca"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 781,
+   "fin": 790,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Salamanca"
+  },
+  {
+   "tipo": "date",
+   "ini": 811,
+   "fin": 842,
+   "rasgos": {
+    "from": "2011-03-01",
+    "to": "2011-04-03"
+   },
+   "texto": "1 de marzo a 3 de abril de 2011"
+  },
+  {
+   "tipo": "title",
+   "ini": 844,
+   "fin": 896,
+   "texto": "ART ORBITAL\nProyecto Expositivo de:\n\nAntonio Eguiluz"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 844,
+   "fin": 896,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 881,
+   "fin": 896,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Eguiluz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 881,
+   "fin": 896,
+   "texto": "Antonio Eguiluz"
+  },
+  {
+   "tipo": "person",
+   "ini": 898,
+   "fin": 961,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Eguiluz Carba nació en Salamanca el 13 de julio de 1946"
+  },
+  {
+   "tipo": "persName",
+   "ini": 898,
+   "fin": 919,
+   "texto": "Antonio Eguiluz Carba"
+  },
+  {
+   "tipo": "birth",
+   "ini": 920,
+   "fin": 961
+  },
+  {
+   "tipo": "placeName",
+   "ini": 929,
+   "fin": 938,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Salamanca"
+  },
+  {
+   "tipo": "date",
+   "ini": 942,
+   "fin": 961,
+   "rasgos": {
+    "when": "1946-07-13"
+   },
+   "texto": "13 de julio de 1946"
+  },
+  {
+   "tipo": "person",
+   "ini": 2633,
+   "fin": 2654,
+   "rasgos": {
+    "role": "craetor"
+   },
+   "texto": "Antonio Eguiluz Carba"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2633,
+   "fin": 2654,
+   "texto": "Antonio Eguiluz Carba"
+  },
+  {
+   "tipo": "person",
+   "ini": 2657,
+   "fin": 2664,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eguiluz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2657,
+   "fin": 2664,
+   "texto": "Eguiluz"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2942,
+   "fin": 2960,
+   "rasgos": {
+    "type": "museum"
+   },
+   "texto": "Museo de Salamanca"
+  },
+  {
+   "tipo": "person",
+   "ini": 3097,
+   "fin": 3104,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eguiluz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3097,
+   "fin": 3104,
+   "texto": "Eguiluz"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 3432,
+   "fin": 40422
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3432,
+   "fin": 5453
+  },
+  {
+   "tipo": "img",
+   "ini": 3432,
+   "fin": 3437,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3439,
+   "fin": 5453,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 3439,
+   "fin": 3474,
+   "texto": "N° 0\n\nGalileo Galilei. Orbital en 8"
+  },
+  {
+   "tipo": "date",
+   "ini": 3476,
+   "fin": 3480,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 3482,
+   "fin": 5453
+  },
+  {
+   "tipo": "title",
+   "ini": 3482,
+   "fin": 3493,
+   "texto": "Art orbital"
+  },
+  {
+   "tipo": "person",
+   "ini": 3800,
+   "fin": 3815,
+   "texto": "Galileo Galilei"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3800,
+   "fin": 3815,
+   "texto": "Galileo Galilei"
+  },
+  {
+   "tipo": "person",
+   "ini": 4352,
+   "fin": 4367,
+   "texto": "Galileo Galilei"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4352,
+   "fin": 4367,
+   "texto": "Galileo Galilei"
+  },
+  {
+   "tipo": "person",
+   "ini": 5399,
+   "fin": 5414,
+   "texto": "Galileo Galilei"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5399,
+   "fin": 5414,
+   "texto": "Galileo Galilei"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5455,
+   "fin": 6586
+  },
+  {
+   "tipo": "img",
+   "ini": 5455,
+   "fin": 5460,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5462,
+   "fin": 6586,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 5462,
+   "fin": 5484,
+   "texto": "N° 1\n\nSol 4.500 grados"
+  },
+  {
+   "tipo": "date",
+   "ini": 5486,
+   "fin": 5490,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 5492,
+   "fin": 6586
+  },
+  {
+   "tipo": "person",
+   "ini": 5502,
+   "fin": 5509,
+   "texto": "Hawkins"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5502,
+   "fin": 5509,
+   "texto": "Hawkins"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6588,
+   "fin": 7660
+  },
+  {
+   "tipo": "img",
+   "ini": 6588,
+   "fin": 6593,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6595,
+   "fin": 7660,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 6595,
+   "fin": 6635,
+   "texto": "N° 2\n\nPropagación, energía + luz celeste"
+  },
+  {
+   "tipo": "date",
+   "ini": 6637,
+   "fin": 6641,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 6643,
+   "fin": 7660
+  },
+  {
+   "tipo": "title",
+   "ini": 6643,
+   "fin": 6661,
+   "texto": "Teoría de Einstein"
+  },
+  {
+   "tipo": "person",
+   "ini": 6653,
+   "fin": 6661,
+   "texto": "Einstein"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6653,
+   "fin": 6661,
+   "texto": "Einstein"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7662,
+   "fin": 9088
+  },
+  {
+   "tipo": "img",
+   "ini": 7662,
+   "fin": 7667,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7669,
+   "fin": 9088,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 7669,
+   "fin": 7697,
+   "texto": "N° 3\n\nNúcleo; hierro líquido"
+  },
+  {
+   "tipo": "date",
+   "ini": 7699,
+   "fin": 7703,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 7705,
+   "fin": 9088
+  },
+  {
+   "tipo": "title",
+   "ini": 7705,
+   "fin": 7736,
+   "texto": "Ley de la Geometría astronómica"
+  },
+  {
+   "tipo": "person",
+   "ini": 7841,
+   "fin": 7855,
+   "texto": "Stanley Miller"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7841,
+   "fin": 7855,
+   "texto": "Stanley Miller"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9090,
+   "fin": 10166
+  },
+  {
+   "tipo": "img",
+   "ini": 9090,
+   "fin": 9095,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9097,
+   "fin": 10165,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 9097,
+   "fin": 9137,
+   "texto": "Nº 4\n\nDía solar, 188,9 (Días terrestres)"
+  },
+  {
+   "tipo": "date",
+   "ini": 9139,
+   "fin": 9143,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 9145,
+   "fin": 10165
+  },
+  {
+   "tipo": "person",
+   "ini": 9145,
+   "fin": 9160,
+   "texto": "Stephan Hawkins"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9145,
+   "fin": 9160,
+   "texto": "Stephan Hawkins"
+  },
+  {
+   "tipo": "date",
+   "ini": 9215,
+   "fin": 9219,
+   "rasgos": {
+    "when": "1946"
+   },
+   "texto": "1946"
+  },
+  {
+   "tipo": "person",
+   "ini": 9413,
+   "fin": 9420,
+   "texto": "Hawkins"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9413,
+   "fin": 9420,
+   "texto": "Hawkins"
+  },
+  {
+   "tipo": "person",
+   "ini": 9549,
+   "fin": 9564,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Eguiluz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9549,
+   "fin": 9564,
+   "texto": "Antonio Eguiluz"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10167,
+   "fin": 11807
+  },
+  {
+   "tipo": "img",
+   "ini": 10167,
+   "fin": 10172,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10174,
+   "fin": 11807,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 10174,
+   "fin": 10207,
+   "texto": "N° 5\n\nÁtomos solares; luz y calor"
+  },
+  {
+   "tipo": "date",
+   "ini": 10209,
+   "fin": 10213,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 10215,
+   "fin": 11807
+  },
+  {
+   "tipo": "title",
+   "ini": 10215,
+   "fin": 10295,
+   "texto": "“Esperamos nuevas” (para los que creemos en otras formas de vida extraterrestre)"
+  },
+  {
+   "tipo": "person",
+   "ini": 10973,
+   "fin": 10984,
+   "texto": "Seth Shotak"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10973,
+   "fin": 10984,
+   "texto": "Seth Shotak"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11809,
+   "fin": 13030
+  },
+  {
+   "tipo": "img",
+   "ini": 11809,
+   "fin": 11814,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11816,
+   "fin": 13030,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 11816,
+   "fin": 11854,
+   "texto": "N° 6\n\nProtuberancia; hidrógeno y helio"
+  },
+  {
+   "tipo": "date",
+   "ini": 11856,
+   "fin": 11860,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 11862,
+   "fin": 13030
+  },
+  {
+   "tipo": "title",
+   "ini": 11862,
+   "fin": 11883,
+   "texto": "El Universo acelerado"
+  },
+  {
+   "tipo": "person",
+   "ini": 13013,
+   "fin": 13021,
+   "texto": "Einstein"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13013,
+   "fin": 13021,
+   "texto": "Einstein"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13032,
+   "fin": 14523
+  },
+  {
+   "tipo": "img",
+   "ini": 13032,
+   "fin": 13037,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 13039,
+   "fin": 14523,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 13039,
+   "fin": 13061,
+   "texto": "N° 7\n\n¿Por qué flotan?"
+  },
+  {
+   "tipo": "date",
+   "ini": 13063,
+   "fin": 13067,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 13069,
+   "fin": 14523
+  },
+  {
+   "tipo": "title",
+   "ini": 13069,
+   "fin": 13107,
+   "texto": "La transparencia; colores del universo"
+  },
+  {
+   "tipo": "date",
+   "ini": 14070,
+   "fin": 14074,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14525,
+   "fin": 15917
+  },
+  {
+   "tipo": "img",
+   "ini": 14525,
+   "fin": 14530,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14532,
+   "fin": 15916,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 14532,
+   "fin": 14551,
+   "texto": "Nº 8\n\nDeslizamiento"
+  },
+  {
+   "tipo": "date",
+   "ini": 14553,
+   "fin": 14557,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 14559,
+   "fin": 15916
+  },
+  {
+   "tipo": "title",
+   "ini": 14559,
+   "fin": 14595,
+   "texto": "La constante cosmológica de Einstein"
+  },
+  {
+   "tipo": "person",
+   "ini": 14984,
+   "fin": 14992,
+   "texto": "Einstein"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14984,
+   "fin": 14992,
+   "texto": "Einstein"
+  },
+  {
+   "tipo": "person",
+   "ini": 15380,
+   "fin": 15388,
+   "texto": "Einstein"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15380,
+   "fin": 15388,
+   "texto": "Einstein"
+  },
+  {
+   "tipo": "person",
+   "ini": 15538,
+   "fin": 15546,
+   "texto": "Einstein"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15538,
+   "fin": 15546,
+   "texto": "Einstein"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15918,
+   "fin": 16976
+  },
+  {
+   "tipo": "img",
+   "ini": 15918,
+   "fin": 15923,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15925,
+   "fin": 16976,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 15925,
+   "fin": 15941,
+   "texto": "N° 9\n\nLa presión"
+  },
+  {
+   "tipo": "date",
+   "ini": 15943,
+   "fin": 15947,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 15949,
+   "fin": 16976
+  },
+  {
+   "tipo": "title",
+   "ini": 15949,
+   "fin": 15959,
+   "texto": "La presión"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 16136,
+   "fin": 16141,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Suiza"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 16144,
+   "fin": 16151,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Ginebra"
+  },
+  {
+   "tipo": "date",
+   "ini": 16177,
+   "fin": 16181,
+   "rasgos": {
+    "when": "1970"
+   },
+   "texto": "1970"
+  },
+  {
+   "tipo": "institution",
+   "ini": 16635,
+   "fin": 16689,
+   "texto": "Comité del Laboratorio Europeo de Física de partículas"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16978,
+   "fin": 18152
+  },
+  {
+   "tipo": "img",
+   "ini": 16978,
+   "fin": 16983,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16985,
+   "fin": 18152,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 16985,
+   "fin": 17003,
+   "texto": "Nº 10\n\nExplosiones"
+  },
+  {
+   "tipo": "date",
+   "ini": 17005,
+   "fin": 17009,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 17011,
+   "fin": 18152
+  },
+  {
+   "tipo": "title",
+   "ini": 17011,
+   "fin": 17022,
+   "texto": "Explosiones"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18154,
+   "fin": 19764
+  },
+  {
+   "tipo": "img",
+   "ini": 18154,
+   "fin": 18159,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18161,
+   "fin": 19764,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 18161,
+   "fin": 18180,
+   "texto": "N° 11\n\nViento solar"
+  },
+  {
+   "tipo": "date",
+   "ini": 18182,
+   "fin": 18186,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 18188,
+   "fin": 19764
+  },
+  {
+   "tipo": "title",
+   "ini": 18188,
+   "fin": 18200,
+   "texto": "Viento solar"
+  },
+  {
+   "tipo": "person",
+   "ini": 19157,
+   "fin": 19170,
+   "texto": "David Barrado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19157,
+   "fin": 19170,
+   "texto": "David Barrado"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 19174,
+   "fin": 19183,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Navascúes"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19766,
+   "fin": 21251
+  },
+  {
+   "tipo": "img",
+   "ini": 19766,
+   "fin": 19771,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19773,
+   "fin": 21251,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 19773,
+   "fin": 19806,
+   "texto": "Nº 12\n\nPlanetas fríos y calientes"
+  },
+  {
+   "tipo": "date",
+   "ini": 19808,
+   "fin": 19812,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 19814,
+   "fin": 21259
+  },
+  {
+   "tipo": "title",
+   "ini": 19814,
+   "fin": 19840,
+   "texto": "Planetas calientes y fríos"
+  },
+  {
+   "tipo": "institution",
+   "ini": 21162,
+   "fin": 21166,
+   "texto": "NASA"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21253,
+   "fin": 22840
+  },
+  {
+   "tipo": "img",
+   "ini": 21253,
+   "fin": 21258,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 21260,
+   "fin": 22840,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 21260,
+   "fin": 21297,
+   "texto": "Nº 13\n\nV. de la luz. 300.000 kms x sg"
+  },
+  {
+   "tipo": "date",
+   "ini": 21299,
+   "fin": 21303,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 21305,
+   "fin": 22840
+  },
+  {
+   "tipo": "title",
+   "ini": 21305,
+   "fin": 21338,
+   "texto": "La Gravedad repulsiva de Einstein"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22272,
+   "fin": 22280,
+   "texto": "Einstein"
+  },
+  {
+   "tipo": "person",
+   "ini": 22272,
+   "fin": 22280,
+   "texto": "Einstein"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22842,
+   "fin": 24176
+  },
+  {
+   "tipo": "img",
+   "ini": 22842,
+   "fin": 22847,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 22849,
+   "fin": 24176,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 22849,
+   "fin": 22880,
+   "texto": "N° 14\n\nViento solar “radiación”"
+  },
+  {
+   "tipo": "date",
+   "ini": 22882,
+   "fin": 22886,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 22888,
+   "fin": 24176
+  },
+  {
+   "tipo": "title",
+   "ini": 22888,
+   "fin": 22940,
+   "texto": "La partícula “divina” del “Cosmos” entero se acelera"
+  },
+  {
+   "tipo": "person",
+   "ini": 23056,
+   "fin": 23064,
+   "texto": "Einstein"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23056,
+   "fin": 23064,
+   "texto": "Einstein"
+  },
+  {
+   "tipo": "date",
+   "ini": 23634,
+   "fin": 23638,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "person",
+   "ini": 23831,
+   "fin": 23836,
+   "texto": "Higgs"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24178,
+   "fin": 25692
+  },
+  {
+   "tipo": "img",
+   "ini": 24178,
+   "fin": 24183,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24185,
+   "fin": 25692,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 24185,
+   "fin": 24220,
+   "texto": "N° 15\n\nPartículas, energía y átomos"
+  },
+  {
+   "tipo": "date",
+   "ini": 24222,
+   "fin": 24226,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 24228,
+   "fin": 25692
+  },
+  {
+   "tipo": "title",
+   "ini": 24228,
+   "fin": 24244,
+   "texto": "Súper partículas"
+  },
+  {
+   "tipo": "person",
+   "ini": 24813,
+   "fin": 24824,
+   "texto": "James Croin"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24813,
+   "fin": 24824,
+   "texto": "James Croin"
+  },
+  {
+   "tipo": "person",
+   "ini": 25657,
+   "fin": 25668,
+   "texto": "James Croin"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25657,
+   "fin": 25668,
+   "texto": "James Croin"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25694,
+   "fin": 27229
+  },
+  {
+   "tipo": "img",
+   "ini": 25694,
+   "fin": 25699,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25701,
+   "fin": 27229,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 25701,
+   "fin": 25737,
+   "texto": "N° 16\n\nMateria oscura “fondo ocho c”"
+  },
+  {
+   "tipo": "date",
+   "ini": 25739,
+   "fin": 25743,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 25745,
+   "fin": 27229
+  },
+  {
+   "tipo": "title",
+   "ini": 25745,
+   "fin": 25766,
+   "texto": "La partícula “divina”"
+  },
+  {
+   "tipo": "date",
+   "ini": 25800,
+   "fin": 25814,
+   "rasgos": {
+    "from": "2008-09-22",
+    "to": "2008-12-21"
+   },
+   "texto": "otoño del 2008"
+  },
+  {
+   "tipo": "person",
+   "ini": 26648,
+   "fin": 26661,
+   "texto": "Walter & Luis"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26648,
+   "fin": 26661,
+   "texto": "Walter & Luis"
+  },
+  {
+   "tipo": "institution",
+   "ini": 26678,
+   "fin": 26717,
+   "texto": "Centro Europeo de Investigación Nuclear"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 27231,
+   "fin": 28779
+  },
+  {
+   "tipo": "img",
+   "ini": 27231,
+   "fin": 27236,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 27238,
+   "fin": 28779,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 27238,
+   "fin": 27272,
+   "texto": "N°17\n\nLa tierra “nubes de colores”"
+  },
+  {
+   "tipo": "date",
+   "ini": 27274,
+   "fin": 27278,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 27280,
+   "fin": 28779
+  },
+  {
+   "tipo": "title",
+   "ini": 27280,
+   "fin": 27311,
+   "texto": "Así surgió la vida en la Tierra"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 27384,
+   "fin": 27393,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Australia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 27549,
+   "fin": 27558,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Monterrey"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28781,
+   "fin": 30751
+  },
+  {
+   "tipo": "img",
+   "ini": 28781,
+   "fin": 28786,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28788,
+   "fin": 30751,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 28788,
+   "fin": 28811,
+   "texto": "N° 18\n\nExplosión átomos"
+  },
+  {
+   "tipo": "date",
+   "ini": 28813,
+   "fin": 28817,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 28819,
+   "fin": 30751
+  },
+  {
+   "tipo": "title",
+   "ini": 28819,
+   "fin": 28843,
+   "texto": "La “chispa” que no vemos"
+  },
+  {
+   "tipo": "person",
+   "ini": 29093,
+   "fin": 29108,
+   "texto": "Stephen Hawkins"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29093,
+   "fin": 29108,
+   "texto": "Stephen Hawkins"
+  },
+  {
+   "tipo": "person",
+   "ini": 29758,
+   "fin": 29771,
+   "texto": "León Lederman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29758,
+   "fin": 29771,
+   "texto": "León Lederman"
+  },
+  {
+   "tipo": "date",
+   "ini": 29773,
+   "fin": 29777,
+   "rasgos": {
+    "when": "1994"
+   },
+   "texto": "1994"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30753,
+   "fin": 31929
+  },
+  {
+   "tipo": "img",
+   "ini": 30753,
+   "fin": 30758,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30760,
+   "fin": 31929,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 30760,
+   "fin": 30785,
+   "texto": "Nº 19\n\nDesolado y árido M"
+  },
+  {
+   "tipo": "date",
+   "ini": 30787,
+   "fin": 30791,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 30793,
+   "fin": 31937
+  },
+  {
+   "tipo": "title",
+   "ini": 30793,
+   "fin": 30816,
+   "texto": "El décimo planeta solar"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 31931,
+   "fin": 33137
+  },
+  {
+   "tipo": "img",
+   "ini": 31931,
+   "fin": 31936,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 31938,
+   "fin": 33137,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 31938,
+   "fin": 31962,
+   "texto": "Nº 20\n\nMontañas redondas"
+  },
+  {
+   "tipo": "date",
+   "ini": 31964,
+   "fin": 31968,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 31970,
+   "fin": 33137
+  },
+  {
+   "tipo": "title",
+   "ini": 31970,
+   "fin": 31991,
+   "texto": "Planetas extrasolares"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 33139,
+   "fin": 34797
+  },
+  {
+   "tipo": "img",
+   "ini": 33139,
+   "fin": 33144,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 33146,
+   "fin": 34797,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 33146,
+   "fin": 33168,
+   "texto": "N° 21\n\nRocas metálicas"
+  },
+  {
+   "tipo": "date",
+   "ini": 33170,
+   "fin": 33174,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 33176,
+   "fin": 34797
+  },
+  {
+   "tipo": "title",
+   "ini": 33176,
+   "fin": 33201,
+   "texto": "La galaxia del “ladrillo”"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34799,
+   "fin": 36366
+  },
+  {
+   "tipo": "img",
+   "ini": 34799,
+   "fin": 34804,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 34806,
+   "fin": 36366,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 34806,
+   "fin": 34828,
+   "texto": "N°22\n\nExplosiones en M"
+  },
+  {
+   "tipo": "date",
+   "ini": 34830,
+   "fin": 34834,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 34836,
+   "fin": 36374
+  },
+  {
+   "tipo": "title",
+   "ini": 34836,
+   "fin": 34868,
+   "texto": "El universo, “un mar de colores”"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 36368,
+   "fin": 37573
+  },
+  {
+   "tipo": "img",
+   "ini": 36368,
+   "fin": 36373,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 36375,
+   "fin": 37574,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 36375,
+   "fin": 36396,
+   "texto": "N°23\n\nUn día=(59 d T)"
+  },
+  {
+   "tipo": "date",
+   "ini": 36398,
+   "fin": 36402,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 36404,
+   "fin": 37574
+  },
+  {
+   "tipo": "title",
+   "ini": 36404,
+   "fin": 36438,
+   "texto": "La Vía Láctea en el brazo de Orión"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 37576,
+   "fin": 39261
+  },
+  {
+   "tipo": "img",
+   "ini": 37576,
+   "fin": 37581,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 37583,
+   "fin": 39262,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 37583,
+   "fin": 37602,
+   "texto": "N°24\n\nPerfiles de M"
+  },
+  {
+   "tipo": "date",
+   "ini": 37604,
+   "fin": 37608,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 37610,
+   "fin": 39261
+  },
+  {
+   "tipo": "title",
+   "ini": 37610,
+   "fin": 37656,
+   "texto": "Teoría de Copérnico & Galileo y la Inquisición"
+  },
+  {
+   "tipo": "person",
+   "ini": 37620,
+   "fin": 37629,
+   "texto": "Copérnico"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37620,
+   "fin": 37629,
+   "texto": "Copérnico"
+  },
+  {
+   "tipo": "person",
+   "ini": 37632,
+   "fin": 37639,
+   "texto": "Galileo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37632,
+   "fin": 37639,
+   "texto": "Galileo"
+  },
+  {
+   "tipo": "person",
+   "ini": 37721,
+   "fin": 37730,
+   "texto": "Copérnico"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37721,
+   "fin": 37730,
+   "texto": "Copérnico"
+  },
+  {
+   "tipo": "person",
+   "ini": 37826,
+   "fin": 37835,
+   "texto": "Copérnico"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37826,
+   "fin": 37835,
+   "texto": "Copérnico"
+  },
+  {
+   "tipo": "person",
+   "ini": 37874,
+   "fin": 37889,
+   "texto": "Galileo Galilei"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37874,
+   "fin": 37889,
+   "texto": "Galileo Galilei"
+  },
+  {
+   "tipo": "person",
+   "ini": 38134,
+   "fin": 38141,
+   "texto": "Galileo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38134,
+   "fin": 38141,
+   "texto": "Galileo"
+  },
+  {
+   "tipo": "person",
+   "ini": 38242,
+   "fin": 38251,
+   "texto": "Copérnico"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38242,
+   "fin": 38251,
+   "texto": "Copérnico"
+  },
+  {
+   "tipo": "person",
+   "ini": 38391,
+   "fin": 38400,
+   "texto": "Copérnico"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38391,
+   "fin": 38400,
+   "texto": "Copérnico"
+  },
+  {
+   "tipo": "person",
+   "ini": 38524,
+   "fin": 38539,
+   "texto": "Galileo Galilei"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38524,
+   "fin": 38539,
+   "texto": "Galileo Galilei"
+  },
+  {
+   "tipo": "date",
+   "ini": 38632,
+   "fin": 38636,
+   "rasgos": {
+    "when": "1916"
+   },
+   "texto": "1916"
+  },
+  {
+   "tipo": "person",
+   "ini": 38886,
+   "fin": 38893,
+   "texto": "Galileo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38886,
+   "fin": 38893,
+   "texto": "Galileo"
+  },
+  {
+   "tipo": "person",
+   "ini": 38972,
+   "fin": 38979,
+   "texto": "Galileo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38972,
+   "fin": 38979,
+   "texto": "Galileo"
+  },
+  {
+   "tipo": "person",
+   "ini": 39074,
+   "fin": 39090,
+   "texto": "Claudio Ptolomeo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39074,
+   "fin": 39090,
+   "texto": "Claudio Ptolomeo"
+  },
+  {
+   "tipo": "person",
+   "ini": 39092,
+   "fin": 39099,
+   "texto": "Galileo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39092,
+   "fin": 39099,
+   "texto": "Galileo"
+  },
+  {
+   "tipo": "person",
+   "ini": 39193,
+   "fin": 39200,
+   "texto": "Galileo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39193,
+   "fin": 39200,
+   "texto": "Galileo"
+  },
+  {
+   "tipo": "checklist",
+   "ini": 39263,
+   "fin": 40422
+  },
+  {
+   "tipo": "institution",
+   "ini": 39322,
+   "fin": 39340,
+   "rasgos": {
+    "type": "museum"
+   },
+   "texto": "MUSEO DE\nSALAMANCA"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 39331,
+   "fin": 39340,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "SALAMANCA"
+  },
+  {
+   "tipo": "date",
+   "ini": 39345,
+   "fin": 39377,
+   "rasgos": {
+    "from": "2011-03-01",
+    "to": "2011-04-03"
+   },
+   "texto": "1 DE MARZO AL 3 DE ABRIL DE 2011"
+  },
+  {
+   "tipo": "work",
+   "ini": 39380,
+   "fin": 39427,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "0\n\nGalileo Galilei. Orbital en 8\n\n61 x 60\n\n2009"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39380,
+   "fin": 39427
+  },
+  {
+   "tipo": "title",
+   "ini": 39383,
+   "fin": 39412,
+   "texto": "Galileo Galilei. Orbital en 8"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39414,
+   "fin": 39421,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 60"
+  },
+  {
+   "tipo": "height",
+   "ini": 39414,
+   "fin": 39416,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 39419,
+   "fin": 39421,
+   "texto": "60"
+  },
+  {
+   "tipo": "date",
+   "ini": 39423,
+   "fin": 39427,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "work",
+   "ini": 39429,
+   "fin": 39463,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "1\n\nSol 4.500 grados\n\n62 x 61\n\n2007"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39429,
+   "fin": 39463
+  },
+  {
+   "tipo": "title",
+   "ini": 39432,
+   "fin": 39448,
+   "texto": "Sol 4.500 grados"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39450,
+   "fin": 39457,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "62 x 61"
+  },
+  {
+   "tipo": "height",
+   "ini": 39450,
+   "fin": 39452,
+   "texto": "62"
+  },
+  {
+   "tipo": "width",
+   "ini": 39455,
+   "fin": 39457,
+   "texto": "61"
+  },
+  {
+   "tipo": "date",
+   "ini": 39459,
+   "fin": 39463,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "work",
+   "ini": 39465,
+   "fin": 39517,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "2\n\nPropagación; energía + luz celeste\n\n66 x 66\n\n2007"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39465,
+   "fin": 39517
+  },
+  {
+   "tipo": "title",
+   "ini": 39468,
+   "fin": 39502,
+   "texto": "Propagación; energía + luz celeste"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39504,
+   "fin": 39511,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "66 x 66"
+  },
+  {
+   "tipo": "height",
+   "ini": 39504,
+   "fin": 39506,
+   "texto": "66"
+  },
+  {
+   "tipo": "width",
+   "ini": 39509,
+   "fin": 39511,
+   "texto": "66"
+  },
+  {
+   "tipo": "date",
+   "ini": 39513,
+   "fin": 39517,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "work",
+   "ini": 39519,
+   "fin": 39559,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "3\n\nNúcleo; hierro liquido\n\n61 x 59\n\n2007"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39519,
+   "fin": 39559
+  },
+  {
+   "tipo": "title",
+   "ini": 39522,
+   "fin": 39544,
+   "texto": "Núcleo; hierro liquido"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39546,
+   "fin": 39553,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 59"
+  },
+  {
+   "tipo": "height",
+   "ini": 39546,
+   "fin": 39548,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 39551,
+   "fin": 39553,
+   "texto": "59"
+  },
+  {
+   "tipo": "date",
+   "ini": 39555,
+   "fin": 39559,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "work",
+   "ini": 39561,
+   "fin": 39614,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "4\n\nDía solar; 188,9 (días terrestres)”\n\n62 x 51\n\n2007"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39561,
+   "fin": 39614
+  },
+  {
+   "tipo": "title",
+   "ini": 39564,
+   "fin": 39599,
+   "texto": "Día solar; 188,9 (días terrestres)”"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39601,
+   "fin": 39608,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "62 x 51"
+  },
+  {
+   "tipo": "height",
+   "ini": 39601,
+   "fin": 39603,
+   "texto": "62"
+  },
+  {
+   "tipo": "width",
+   "ini": 39606,
+   "fin": 39608,
+   "texto": "51"
+  },
+  {
+   "tipo": "date",
+   "ini": 39610,
+   "fin": 39614,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "work",
+   "ini": 39616,
+   "fin": 39661,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "5\n\nÁtomos solares; luz & calor\n\n62 x 62\n\n2007"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39616,
+   "fin": 39661
+  },
+  {
+   "tipo": "title",
+   "ini": 39619,
+   "fin": 39646,
+   "texto": "Átomos solares; luz & calor"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39648,
+   "fin": 39655,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "62 x 62"
+  },
+  {
+   "tipo": "height",
+   "ini": 39648,
+   "fin": 39650,
+   "texto": "62"
+  },
+  {
+   "tipo": "width",
+   "ini": 39653,
+   "fin": 39655,
+   "texto": "62"
+  },
+  {
+   "tipo": "date",
+   "ini": 39657,
+   "fin": 39661,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "work",
+   "ini": 39663,
+   "fin": 39713,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "6\n\nProtuberancia; hidrógeno & helio\n\n63 x 62\n\n2007"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39663,
+   "fin": 39713
+  },
+  {
+   "tipo": "title",
+   "ini": 39666,
+   "fin": 39698,
+   "texto": "Protuberancia; hidrógeno & helio"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39700,
+   "fin": 39707,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "63 x 62"
+  },
+  {
+   "tipo": "height",
+   "ini": 39700,
+   "fin": 39702,
+   "texto": "63"
+  },
+  {
+   "tipo": "width",
+   "ini": 39705,
+   "fin": 39707,
+   "texto": "62"
+  },
+  {
+   "tipo": "date",
+   "ini": 39709,
+   "fin": 39713,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "work",
+   "ini": 39715,
+   "fin": 39749,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "7\n\n¿Por qué flotan?\n\n63 x 62\n\n2008"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39715,
+   "fin": 39749
+  },
+  {
+   "tipo": "title",
+   "ini": 39718,
+   "fin": 39734,
+   "texto": "¿Por qué flotan?"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39736,
+   "fin": 39743,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "63 x 62"
+  },
+  {
+   "tipo": "height",
+   "ini": 39736,
+   "fin": 39738,
+   "texto": "63"
+  },
+  {
+   "tipo": "width",
+   "ini": 39741,
+   "fin": 39743,
+   "texto": "62"
+  },
+  {
+   "tipo": "date",
+   "ini": 39745,
+   "fin": 39749,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "work",
+   "ini": 39751,
+   "fin": 39782,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "8\n\nDeslizamiento\n\n48 x 47\n\n2008"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39751,
+   "fin": 39782
+  },
+  {
+   "tipo": "title",
+   "ini": 39754,
+   "fin": 39767,
+   "texto": "Deslizamiento"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39769,
+   "fin": 39776,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "48 x 47"
+  },
+  {
+   "tipo": "height",
+   "ini": 39769,
+   "fin": 39771,
+   "texto": "48"
+  },
+  {
+   "tipo": "width",
+   "ini": 39774,
+   "fin": 39776,
+   "texto": "47"
+  },
+  {
+   "tipo": "date",
+   "ini": 39778,
+   "fin": 39782,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "work",
+   "ini": 39784,
+   "fin": 39812,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "9\n\nLa presión\n\n61 x 61\n\n2008"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39784,
+   "fin": 39812
+  },
+  {
+   "tipo": "title",
+   "ini": 39787,
+   "fin": 39797,
+   "texto": "La presión"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39799,
+   "fin": 39806,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 61"
+  },
+  {
+   "tipo": "height",
+   "ini": 39799,
+   "fin": 39801,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 39804,
+   "fin": 39806,
+   "texto": "61"
+  },
+  {
+   "tipo": "date",
+   "ini": 39808,
+   "fin": 39812,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "work",
+   "ini": 39814,
+   "fin": 39844,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "10\n\nExplosiones\n\n62 x 52\n\n2008"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39814,
+   "fin": 39844
+  },
+  {
+   "tipo": "title",
+   "ini": 39818,
+   "fin": 39829,
+   "texto": "Explosiones"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39831,
+   "fin": 39838,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "62 x 52"
+  },
+  {
+   "tipo": "height",
+   "ini": 39831,
+   "fin": 39833,
+   "texto": "62"
+  },
+  {
+   "tipo": "width",
+   "ini": 39836,
+   "fin": 39838,
+   "texto": "52"
+  },
+  {
+   "tipo": "date",
+   "ini": 39840,
+   "fin": 39844,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "work",
+   "ini": 39846,
+   "fin": 39877,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "11\n\nViento solar\n\n63 x 62\n\n2008"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39846,
+   "fin": 39877
+  },
+  {
+   "tipo": "title",
+   "ini": 39850,
+   "fin": 39862,
+   "texto": "Viento solar"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39864,
+   "fin": 39871,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "63 x 62"
+  },
+  {
+   "tipo": "height",
+   "ini": 39864,
+   "fin": 39866,
+   "texto": "63"
+  },
+  {
+   "tipo": "width",
+   "ini": 39869,
+   "fin": 39871,
+   "texto": "62"
+  },
+  {
+   "tipo": "date",
+   "ini": 39873,
+   "fin": 39877,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "work",
+   "ini": 39879,
+   "fin": 39924,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "12\n\nPlanetas fríos & calientes\n\n63 x 62\n\n2008"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39879,
+   "fin": 39924
+  },
+  {
+   "tipo": "title",
+   "ini": 39883,
+   "fin": 39909,
+   "texto": "Planetas fríos & calientes"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39911,
+   "fin": 39918,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "63 x 62"
+  },
+  {
+   "tipo": "height",
+   "ini": 39911,
+   "fin": 39913,
+   "texto": "63"
+  },
+  {
+   "tipo": "width",
+   "ini": 39916,
+   "fin": 39918,
+   "texto": "62"
+  },
+  {
+   "tipo": "date",
+   "ini": 39920,
+   "fin": 39924,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "work",
+   "ini": 39926,
+   "fin": 39974,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "13\n\nV de la luz; 300.000 km x sg.\n\n61 x 60\n\n2008"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39926,
+   "fin": 39974
+  },
+  {
+   "tipo": "title",
+   "ini": 39930,
+   "fin": 39959,
+   "texto": "V de la luz; 300.000 km x sg."
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39961,
+   "fin": 39968,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 60"
+  },
+  {
+   "tipo": "height",
+   "ini": 39961,
+   "fin": 39963,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 39966,
+   "fin": 39968,
+   "texto": "60"
+  },
+  {
+   "tipo": "date",
+   "ini": 39970,
+   "fin": 39974,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "work",
+   "ini": 39976,
+   "fin": 40019,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "14\n\nViento solar “radiación”\n\n61 x 60\n\n2009"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39976,
+   "fin": 40019
+  },
+  {
+   "tipo": "title",
+   "ini": 39980,
+   "fin": 40004,
+   "texto": "Viento solar “radiación”"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40006,
+   "fin": 40013,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 60"
+  },
+  {
+   "tipo": "height",
+   "ini": 40006,
+   "fin": 40008,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 40011,
+   "fin": 40013,
+   "texto": "60"
+  },
+  {
+   "tipo": "date",
+   "ini": 40015,
+   "fin": 40019,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "work",
+   "ini": 40021,
+   "fin": 40068,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "15\n\nPartículas, energía & átomos\n\n61 x 60\n\n2009"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40021,
+   "fin": 40068
+  },
+  {
+   "tipo": "title",
+   "ini": 40025,
+   "fin": 40053,
+   "texto": "Partículas, energía & átomos"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40055,
+   "fin": 40062,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 60"
+  },
+  {
+   "tipo": "height",
+   "ini": 40055,
+   "fin": 40057,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 40060,
+   "fin": 40062,
+   "texto": "60"
+  },
+  {
+   "tipo": "date",
+   "ini": 40064,
+   "fin": 40068,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "work",
+   "ini": 40070,
+   "fin": 40116,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "16\n\nMateria oscura “fondo ocho”\n\n61 x 60\n\n2009"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40070,
+   "fin": 40116
+  },
+  {
+   "tipo": "title",
+   "ini": 40074,
+   "fin": 40101,
+   "texto": "Materia oscura “fondo ocho”"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40103,
+   "fin": 40110,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 60"
+  },
+  {
+   "tipo": "height",
+   "ini": 40103,
+   "fin": 40105,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 40108,
+   "fin": 40110,
+   "texto": "60"
+  },
+  {
+   "tipo": "date",
+   "ini": 40112,
+   "fin": 40116,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "work",
+   "ini": 40118,
+   "fin": 40165,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "17\n\nLa Tierra “nubes de colores”\n\n61 x 60\n\n2009"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40118,
+   "fin": 40165
+  },
+  {
+   "tipo": "title",
+   "ini": 40122,
+   "fin": 40150,
+   "texto": "La Tierra “nubes de colores”"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40152,
+   "fin": 40159,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 60"
+  },
+  {
+   "tipo": "height",
+   "ini": 40152,
+   "fin": 40154,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 40157,
+   "fin": 40159,
+   "texto": "60"
+  },
+  {
+   "tipo": "date",
+   "ini": 40161,
+   "fin": 40165,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "work",
+   "ini": 40167,
+   "fin": 40202,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "18\n\nExplosión átomos\n\n61 x 60\n\n2009"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40167,
+   "fin": 40202
+  },
+  {
+   "tipo": "title",
+   "ini": 40171,
+   "fin": 40187,
+   "texto": "Explosión átomos"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40189,
+   "fin": 40196,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 60"
+  },
+  {
+   "tipo": "height",
+   "ini": 40189,
+   "fin": 40191,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 40194,
+   "fin": 40196,
+   "texto": "60"
+  },
+  {
+   "tipo": "date",
+   "ini": 40198,
+   "fin": 40202,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "work",
+   "ini": 40204,
+   "fin": 40239,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "19\n\nDesolado y árido\n\n62 x 61\n\n2009"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40204,
+   "fin": 40239
+  },
+  {
+   "tipo": "title",
+   "ini": 40208,
+   "fin": 40224,
+   "texto": "Desolado y árido"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40226,
+   "fin": 40233,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "62 x 61"
+  },
+  {
+   "tipo": "height",
+   "ini": 40226,
+   "fin": 40228,
+   "texto": "62"
+  },
+  {
+   "tipo": "width",
+   "ini": 40231,
+   "fin": 40233,
+   "texto": "61"
+  },
+  {
+   "tipo": "date",
+   "ini": 40235,
+   "fin": 40239,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "work",
+   "ini": 40241,
+   "fin": 40277,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "20\n\nMontañas redondas\n\n62 x 61\n\n2009"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40241,
+   "fin": 40277
+  },
+  {
+   "tipo": "title",
+   "ini": 40245,
+   "fin": 40262,
+   "texto": "Montañas redondas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40264,
+   "fin": 40271,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "62 x 61"
+  },
+  {
+   "tipo": "height",
+   "ini": 40264,
+   "fin": 40266,
+   "texto": "62"
+  },
+  {
+   "tipo": "width",
+   "ini": 40269,
+   "fin": 40271,
+   "texto": "61"
+  },
+  {
+   "tipo": "date",
+   "ini": 40273,
+   "fin": 40277,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "work",
+   "ini": 40279,
+   "fin": 40313,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "21\n\nRocas metálicas\n\n62 x 61\n\n2009"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40279,
+   "fin": 40313
+  },
+  {
+   "tipo": "title",
+   "ini": 40283,
+   "fin": 40298,
+   "texto": "Rocas metálicas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40300,
+   "fin": 40307,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "62 x 61"
+  },
+  {
+   "tipo": "height",
+   "ini": 40300,
+   "fin": 40302,
+   "texto": "62"
+  },
+  {
+   "tipo": "width",
+   "ini": 40305,
+   "fin": 40307,
+   "texto": "61"
+  },
+  {
+   "tipo": "date",
+   "ini": 40309,
+   "fin": 40313,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "work",
+   "ini": 40315,
+   "fin": 40350,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "22\n\nExplosiones en M\n\n62 x 61\n\n2009"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40315,
+   "fin": 40350
+  },
+  {
+   "tipo": "title",
+   "ini": 40319,
+   "fin": 40335,
+   "texto": "Explosiones en M"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40337,
+   "fin": 40344,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "62 x 61"
+  },
+  {
+   "tipo": "height",
+   "ini": 40337,
+   "fin": 40339,
+   "texto": "62"
+  },
+  {
+   "tipo": "width",
+   "ini": 40342,
+   "fin": 40344,
+   "texto": "61"
+  },
+  {
+   "tipo": "date",
+   "ini": 40346,
+   "fin": 40350,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "work",
+   "ini": 40352,
+   "fin": 40388,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "23\n\nUn día = (59 d T)\n\n62 x 61\n\n2009"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40352,
+   "fin": 40388
+  },
+  {
+   "tipo": "title",
+   "ini": 40356,
+   "fin": 40373,
+   "texto": "Un día = (59 d T)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40375,
+   "fin": 40382,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "62 x 61"
+  },
+  {
+   "tipo": "height",
+   "ini": 40375,
+   "fin": 40377,
+   "texto": "62"
+  },
+  {
+   "tipo": "width",
+   "ini": 40380,
+   "fin": 40382,
+   "texto": "61"
+  },
+  {
+   "tipo": "date",
+   "ini": 40384,
+   "fin": 40388,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "work",
+   "ini": 40390,
+   "fin": 40422,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "24\n\nPerfiles de M\n\n61 x 60\n\n2009"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40390,
+   "fin": 40422
+  },
+  {
+   "tipo": "title",
+   "ini": 40394,
+   "fin": 40407,
+   "texto": "Perfiles de M"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40409,
+   "fin": 40416,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 60"
+  },
+  {
+   "tipo": "height",
+   "ini": 40409,
+   "fin": 40411,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 40414,
+   "fin": 40416,
+   "texto": "60"
+  },
+  {
+   "tipo": "date",
+   "ini": 40418,
+   "fin": 40422,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "person",
+   "ini": 40424,
+   "fin": 40445,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Eguiluz Carba"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40424,
+   "fin": 40445,
+   "texto": "Antonio Eguiluz Carba"
+  }
+ ]
+}

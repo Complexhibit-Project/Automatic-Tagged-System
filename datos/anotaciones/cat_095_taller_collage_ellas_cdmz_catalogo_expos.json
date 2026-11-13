@@ -1,0 +1,798 @@
+{
+ "id": "cat_095_taller_collage_ellas_cdmz_catalogo_expos",
+ "nombre_original": "taller-collage-ellas-CDMZ-catalogo-exposicion",
+ "longitud_texto": 8479,
+ "sha256_texto": "ce9ad799e803be883a7c0883bd2f02dbb89260fd91d03c77675714691e742d47",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "title",
+   "ini": 20,
+   "fin": 58,
+   "texto": "UNA PRIMAVERA DE\n\nCREACIÓN EN FEMENINO"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 60,
+   "fin": 191
+  },
+  {
+   "tipo": "title",
+   "ini": 60,
+   "fin": 84,
+   "texto": "Taller de Collage 'Ellas"
+  },
+  {
+   "tipo": "date",
+   "ini": 113,
+   "fin": 122,
+   "rasgos": {
+    "when": "2021-05-01"
+   },
+   "texto": "MAYO 2021"
+  },
+  {
+   "tipo": "institution",
+   "ini": 123,
+   "fin": 161,
+   "rasgos": {
+    "type": "documentationCenter"
+   },
+   "texto": "Centro de Documentación María Zambrano"
+  },
+  {
+   "tipo": "address",
+   "ini": 162,
+   "fin": 191,
+   "texto": "(C/ Alfonso XII, 52. Sevilla)"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 183,
+   "fin": 190,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 193,
+   "fin": 252
+  },
+  {
+   "tipo": "title",
+   "ini": 193,
+   "fin": 222,
+   "texto": "'ELLAS'\nEXPOSICIÓN\nDE COLLAGE"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 223,
+   "fin": 230,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "date",
+   "ini": 232,
+   "fin": 252,
+   "rasgos": {
+    "from": "2021-04-01",
+    "to": "2021-05-31"
+   },
+   "texto": "abril y mayo de 2021"
+  },
+  {
+   "tipo": "persName",
+   "ini": 384,
+   "fin": 396,
+   "texto": "Rocío Romero"
+  },
+  {
+   "tipo": "person",
+   "ini": 1217,
+   "fin": 1234,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "M. Ángeles Moreno"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1217,
+   "fin": 1234,
+   "texto": "M. Ángeles Moreno"
+  },
+  {
+   "tipo": "person",
+   "ini": 1235,
+   "fin": 1245,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mayi Zoido"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1235,
+   "fin": 1245,
+   "texto": "Mayi Zoido"
+  },
+  {
+   "tipo": "person",
+   "ini": 1246,
+   "fin": 1264,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Evangelina Becerra"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1246,
+   "fin": 1264,
+   "texto": "Evangelina Becerra"
+  },
+  {
+   "tipo": "person",
+   "ini": 1265,
+   "fin": 1276,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nela Rodero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1265,
+   "fin": 1276,
+   "texto": "Nela Rodero"
+  },
+  {
+   "tipo": "person",
+   "ini": 1277,
+   "fin": 1292,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Maribel Serrano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1277,
+   "fin": 1292,
+   "texto": "Maribel Serrano"
+  },
+  {
+   "tipo": "person",
+   "ini": 1297,
+   "fin": 1311,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Yolanda Arroyo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1297,
+   "fin": 1311,
+   "texto": "Yolanda Arroyo"
+  },
+  {
+   "tipo": "person",
+   "ini": 1312,
+   "fin": 1326,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Patricia Luque"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1312,
+   "fin": 1326,
+   "texto": "Patricia Luque"
+  },
+  {
+   "tipo": "person",
+   "ini": 1327,
+   "fin": 1342,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bienvenida Gala"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1327,
+   "fin": 1342,
+   "texto": "Bienvenida Gala"
+  },
+  {
+   "tipo": "person",
+   "ini": 1343,
+   "fin": 1353,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lita Gómez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1343,
+   "fin": 1353,
+   "texto": "Lita Gómez"
+  },
+  {
+   "tipo": "person",
+   "ini": 1354,
+   "fin": 1366,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rocío Romero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1354,
+   "fin": 1366,
+   "texto": "Rocío Romero"
+  },
+  {
+   "tipo": "title",
+   "ini": 1368,
+   "fin": 1397,
+   "texto": "'ELLAS' EXPOSICIÓN DE COLLAGE"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1398,
+   "fin": 1405,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "date",
+   "ini": 1407,
+   "fin": 1427,
+   "rasgos": {
+    "from": "2021-04-01",
+    "to": "2021-05-31"
+   },
+   "texto": "abril y mayo de 2021"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 1429,
+   "fin": 8272
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1429,
+   "fin": 1902
+  },
+  {
+   "tipo": "person",
+   "ini": 1429,
+   "fin": 1446,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "M. ÁNGELES MORENO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1429,
+   "fin": 1446,
+   "texto": "M. ÁNGELES MORENO"
+  },
+  {
+   "tipo": "img",
+   "ini": 1448,
+   "fin": 1453,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1455,
+   "fin": 1901,
+   "rasgos": {
+    "type": "collage"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 1455,
+   "fin": 1472,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "M. ÁNGELES MORENO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1455,
+   "fin": 1472,
+   "texto": "M. ÁNGELES MORENO"
+  },
+  {
+   "tipo": "title",
+   "ini": 1473,
+   "fin": 1497,
+   "texto": "UN KIMONO PARA LA GUERRA"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 1498,
+   "fin": 1901
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1903,
+   "fin": 1920
+  },
+  {
+   "tipo": "img",
+   "ini": 1903,
+   "fin": 1908,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 1910,
+   "fin": 1920,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MAYI ZOIDO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1910,
+   "fin": 1920,
+   "texto": "MAYI ZOIDO"
+  },
+  {
+   "tipo": "work",
+   "ini": 1910,
+   "fin": 1920,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "MAYI ZOIDO"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1923,
+   "fin": 2503
+  },
+  {
+   "tipo": "person",
+   "ini": 1923,
+   "fin": 1941,
+   "rasgos": {
+    "type": "creator"
+   },
+   "texto": "EVANGELINA BECERRA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1923,
+   "fin": 1941,
+   "texto": "EVANGELINA BECERRA"
+  },
+  {
+   "tipo": "img",
+   "ini": 1943,
+   "fin": 1948,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1950,
+   "fin": 2503,
+   "rasgos": {
+    "type": "collage"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 1950,
+   "fin": 1968,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "EVANGELINA BECERRA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1950,
+   "fin": 1968,
+   "texto": "EVANGELINA BECERRA"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 1969,
+   "fin": 2503
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2506,
+   "fin": 2969
+  },
+  {
+   "tipo": "person",
+   "ini": 2506,
+   "fin": 2517,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "NELA RODERO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2506,
+   "fin": 2517,
+   "texto": "NELA RODERO"
+  },
+  {
+   "tipo": "img",
+   "ini": 2519,
+   "fin": 2524,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2526,
+   "fin": 2969,
+   "rasgos": {
+    "type": "collage"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 2526,
+   "fin": 2537,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "NELA RODERO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2526,
+   "fin": 2537,
+   "texto": "NELA RODERO"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 2538,
+   "fin": 2969
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2972,
+   "fin": 6332
+  },
+  {
+   "tipo": "person",
+   "ini": 2972,
+   "fin": 2995,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MARIBEL SERRANO\n\n[img]\n"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2972,
+   "fin": 2987,
+   "texto": "MARIBEL SERRANO"
+  },
+  {
+   "tipo": "img",
+   "ini": 2989,
+   "fin": 2994,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2996,
+   "fin": 6332,
+   "rasgos": {
+    "type": "collage"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 2996,
+   "fin": 3011,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MARIBEL SERRANO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2996,
+   "fin": 3011,
+   "texto": "MARIBEL SERRANO"
+  },
+  {
+   "tipo": "title",
+   "ini": 3012,
+   "fin": 3030,
+   "texto": "RECETARIOS DE VIDA"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 3031,
+   "fin": 6332
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6334,
+   "fin": 6355
+  },
+  {
+   "tipo": "img",
+   "ini": 6334,
+   "fin": 6339,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 6341,
+   "fin": 6355,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "YOLANDA ARROYO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6341,
+   "fin": 6355,
+   "texto": "YOLANDA ARROYO"
+  },
+  {
+   "tipo": "work",
+   "ini": 6341,
+   "fin": 6355,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "YOLANDA ARROYO"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6357,
+   "fin": 6378
+  },
+  {
+   "tipo": "img",
+   "ini": 6357,
+   "fin": 6362,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 6364,
+   "fin": 6378,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "PATRICIA LUQUE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6364,
+   "fin": 6378,
+   "texto": "PATRICIA LUQUE"
+  },
+  {
+   "tipo": "work",
+   "ini": 6364,
+   "fin": 6378,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "PATRICIA LUQUE"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6380,
+   "fin": 6865
+  },
+  {
+   "tipo": "img",
+   "ini": 6380,
+   "fin": 6385,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6387,
+   "fin": 6865,
+   "rasgos": {
+    "type": "collage"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 6387,
+   "fin": 6402,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "BIENVENIDA GALA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6387,
+   "fin": 6402,
+   "texto": "BIENVENIDA GALA"
+  },
+  {
+   "tipo": "title",
+   "ini": 6404,
+   "fin": 6416,
+   "texto": "ROCKET WOMEN"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 6417,
+   "fin": 6865
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6867,
+   "fin": 7507
+  },
+  {
+   "tipo": "img",
+   "ini": 6867,
+   "fin": 6872,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6874,
+   "fin": 7507,
+   "rasgos": {
+    "type": "collage"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 6874,
+   "fin": 6884,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "LITA GÓMEZ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6874,
+   "fin": 6884,
+   "texto": "LITA GÓMEZ"
+  },
+  {
+   "tipo": "title",
+   "ini": 6886,
+   "fin": 6890,
+   "texto": "NENÉ"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 6891,
+   "fin": 7507
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7509,
+   "fin": 8271
+  },
+  {
+   "tipo": "img",
+   "ini": 7509,
+   "fin": 7514,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7516,
+   "fin": 8271,
+   "rasgos": {
+    "type": "collage"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 7516,
+   "fin": 7528,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ROCÍO ROMERO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7516,
+   "fin": 7528,
+   "texto": "ROCÍO ROMERO"
+  },
+  {
+   "tipo": "title",
+   "ini": 7530,
+   "fin": 7539,
+   "texto": "ACORAZADA"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 7540,
+   "fin": 8271
+  },
+  {
+   "tipo": "address",
+   "ini": 8273,
+   "fin": 8306,
+   "texto": "C/ Alfonso XII, 52. 41002 Sevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 8299,
+   "fin": 8306,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  }
+ ]
+}

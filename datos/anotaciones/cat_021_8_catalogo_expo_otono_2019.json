@@ -1,0 +1,3367 @@
+{
+ "id": "cat_021_8_catalogo_expo_otono_2019",
+ "nombre_original": "8. CATALOGO_EXPO_OTONO_2019",
+ "longitud_texto": 19068,
+ "sha256_texto": "44f1274bd57493fb815f8d5d3560f69e98633d13d7713de71c8a517a9a7d960b",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 218,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 0,
+   "fin": 67,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "REAL ACADEMIA DE BELLAS ARTES DE\nSANTA ISABEL DE HUNGRÍA DE SEVILLA"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 60,
+   "fin": 67,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "SEVILLA"
+  },
+  {
+   "tipo": "title",
+   "ini": 69,
+   "fin": 109,
+   "texto": "LXVIII EXPOSICIÓN\nINTERNACIONAL DE OTOÑO"
+  },
+  {
+   "tipo": "date",
+   "ini": 110,
+   "fin": 132,
+   "rasgos": {
+    "from": "2019-11-12",
+    "to": "2019-11-26"
+   },
+   "texto": "12 – 26 Noviembre 2019"
+  },
+  {
+   "tipo": "venue",
+   "ini": 134,
+   "fin": 180,
+   "texto": "Salas de Arte Contemporáneo\nCasa de los Pinelo"
+  },
+  {
+   "tipo": "address",
+   "ini": 181,
+   "fin": 199,
+   "texto": "Abades, 14\nSevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 192,
+   "fin": 199,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "institution",
+   "ini": 201,
+   "fin": 218,
+   "rasgos": {
+    "type": "foundation",
+    "role": "patron"
+   },
+   "texto": "Fundación Cajasol"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 220,
+   "fin": 266,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 220,
+   "fin": 260,
+   "texto": "LXVIII EXPOSICIÓN INTERNACIONAL DE OTOÑO"
+  },
+  {
+   "tipo": "date",
+   "ini": 262,
+   "fin": 266,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 290,
+   "fin": 416,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 290,
+   "fin": 341,
+   "texto": "LXVIII Concurso y Exposición Internacional de Otoño"
+  },
+  {
+   "tipo": "institution",
+   "ini": 348,
+   "fin": 404,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia de Bellas\nArtes de Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 409,
+   "fin": 416,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "institution",
+   "ini": 714,
+   "fin": 727,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1383,
+   "fin": 1396,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real\nAcademia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2611,
+   "fin": 2619,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Academia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2929,
+   "fin": 3001,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Academia (Calle Abades 14 – primera planta, Casa de los\nPinelo, Sevilla)"
+  },
+  {
+   "tipo": "address",
+   "ini": 2939,
+   "fin": 3000,
+   "texto": "Calle Abades 14 – primera planta, Casa de los\nPinelo, Sevilla"
+  },
+  {
+   "tipo": "venue",
+   "ini": 2973,
+   "fin": 2991,
+   "texto": "Casa de los\nPinelo"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2993,
+   "fin": 3000,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3051,
+   "fin": 3064,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4189,
+   "fin": 4202,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4683,
+   "fin": 4691,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Academia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5083,
+   "fin": 5091,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Academia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5439,
+   "fin": 5447,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Academia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5828,
+   "fin": 5836,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Academia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6667,
+   "fin": 6675,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Academia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6984,
+   "fin": 6992,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Academia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 7299,
+   "fin": 7312,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 7546,
+   "fin": 7559,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 7724,
+   "fin": 7732,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Academia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 7839,
+   "fin": 7852,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 8042,
+   "fin": 8071,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia de Bellas Artes"
+  },
+  {
+   "tipo": "institution",
+   "ini": 8509,
+   "fin": 8522,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 8780,
+   "fin": 8863,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia de Bellas Artes de Santa Isabel de\nHungría, calle Abades 14. Sevilla."
+  },
+  {
+   "tipo": "address",
+   "ini": 8838,
+   "fin": 8862,
+   "texto": "calle Abades 14. Sevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 8855,
+   "fin": 8862,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "institution",
+   "ini": 8975,
+   "fin": 8988,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 9320,
+   "fin": 9388,
+   "rasgos": {
+    "ref ": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 9320,
+   "fin": 9360,
+   "texto": "LXVIII EXPOSICIÓN INTERNACIONAL DE OTOÑO"
+  },
+  {
+   "tipo": "date",
+   "ini": 9362,
+   "fin": 9366,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "institution",
+   "ini": 9448,
+   "fin": 9504,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia de Bellas Artes de Santa\nIsabel de Hungría"
+  },
+  {
+   "tipo": "title",
+   "ini": 9640,
+   "fin": 9659,
+   "texto": "Exposición de Otoño"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 9640,
+   "fin": 9659,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 9772,
+   "fin": 9785,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 10158,
+   "fin": 10171,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real\nAcademia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 10491,
+   "fin": 10507,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Corporación"
+  },
+  {
+   "tipo": "work",
+   "ini": 10554,
+   "fin": 10603,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pepe Baena Nieto, por su obra: Salinas de Dolores"
+  },
+  {
+   "tipo": "person",
+   "ini": 10554,
+   "fin": 10570,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pepe Baena Nieto"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10554,
+   "fin": 10570,
+   "texto": "Pepe Baena Nieto"
+  },
+  {
+   "tipo": "title",
+   "ini": 10585,
+   "fin": 10603,
+   "texto": "Salinas de Dolores"
+  },
+  {
+   "tipo": "work",
+   "ini": 10607,
+   "fin": 10654,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Juan Carlos Benigno Busutil, por su obra: Stico"
+  },
+  {
+   "tipo": "person",
+   "ini": 10607,
+   "fin": 10634,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Carlos Benigno Busutil"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10607,
+   "fin": 10634,
+   "texto": "Juan Carlos Benigno Busutil"
+  },
+  {
+   "tipo": "title",
+   "ini": 10649,
+   "fin": 10654,
+   "texto": "Stico"
+  },
+  {
+   "tipo": "work",
+   "ini": 10658,
+   "fin": 10708,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Rocío Cano Guzmán, por su obra: La puerta de atrás"
+  },
+  {
+   "tipo": "person",
+   "ini": 10658,
+   "fin": 10675,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rocío Cano Guzmán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10658,
+   "fin": 10675,
+   "texto": "Rocío Cano Guzmán"
+  },
+  {
+   "tipo": "title",
+   "ini": 10690,
+   "fin": 10708,
+   "texto": "La puerta de atrás"
+  },
+  {
+   "tipo": "work",
+   "ini": 10712,
+   "fin": 10770,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pedro Cansino Calderón, por su obra: Homenaje a Erik Satie"
+  },
+  {
+   "tipo": "person",
+   "ini": 10712,
+   "fin": 10734,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pedro Cansino Calderón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10712,
+   "fin": 10734,
+   "texto": "Pedro Cansino Calderón"
+  },
+  {
+   "tipo": "title",
+   "ini": 10749,
+   "fin": 10770,
+   "texto": "Homenaje a Erik Satie"
+  },
+  {
+   "tipo": "work",
+   "ini": 10774,
+   "fin": 10838,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Joaquín Delgado Ruiz, por su obra: Meditación pintada VIII. Orbe"
+  },
+  {
+   "tipo": "person",
+   "ini": 10774,
+   "fin": 10794,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joaquín Delgado Ruiz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10774,
+   "fin": 10794,
+   "texto": "Joaquín Delgado Ruiz"
+  },
+  {
+   "tipo": "title",
+   "ini": 10809,
+   "fin": 10838,
+   "texto": "Meditación pintada VIII. Orbe"
+  },
+  {
+   "tipo": "work",
+   "ini": 10842,
+   "fin": 10902,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Francisco Fernández Rodríguez, por su obra: Rinoceronte azul"
+  },
+  {
+   "tipo": "person",
+   "ini": 10842,
+   "fin": 10871,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Francisco Fernández Rodríguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10842,
+   "fin": 10871,
+   "texto": "Francisco Fernández Rodríguez"
+  },
+  {
+   "tipo": "title",
+   "ini": 10886,
+   "fin": 10902,
+   "texto": "Rinoceronte azul"
+  },
+  {
+   "tipo": "work",
+   "ini": 10906,
+   "fin": 10951,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Jorge Gallego García, por su obra: La llamada"
+  },
+  {
+   "tipo": "person",
+   "ini": 10906,
+   "fin": 10926,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge Gallego García"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10906,
+   "fin": 10926,
+   "texto": "Jorge Gallego García"
+  },
+  {
+   "tipo": "title",
+   "ini": 10941,
+   "fin": 10951,
+   "texto": "La llamada"
+  },
+  {
+   "tipo": "work",
+   "ini": 10955,
+   "fin": 11029,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Fernando García de Cossío, por su obra: La interacción de los espacios XIX"
+  },
+  {
+   "tipo": "person",
+   "ini": 10955,
+   "fin": 10980,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando García de Cossío"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10955,
+   "fin": 10980,
+   "texto": "Fernando García de Cossío"
+  },
+  {
+   "tipo": "title",
+   "ini": 10995,
+   "fin": 11029,
+   "texto": "La interacción de los espacios XIX"
+  },
+  {
+   "tipo": "work",
+   "ini": 11033,
+   "fin": 11074,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Eduardo Gómez Query, por su obra: La vega"
+  },
+  {
+   "tipo": "person",
+   "ini": 11033,
+   "fin": 11052,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eduardo Gómez Query"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11033,
+   "fin": 11052,
+   "texto": "Eduardo Gómez Query"
+  },
+  {
+   "tipo": "title",
+   "ini": 11067,
+   "fin": 11074,
+   "texto": "La vega"
+  },
+  {
+   "tipo": "work",
+   "ini": 11079,
+   "fin": 11138,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Julia Jiménez Santa Olalla, por su obra: Julia con Carolina"
+  },
+  {
+   "tipo": "person",
+   "ini": 11079,
+   "fin": 11105,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Julia Jiménez Santa Olalla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11079,
+   "fin": 11105,
+   "texto": "Julia Jiménez Santa Olalla"
+  },
+  {
+   "tipo": "title",
+   "ini": 11120,
+   "fin": 11138,
+   "texto": "Julia con Carolina"
+  },
+  {
+   "tipo": "work",
+   "ini": 11143,
+   "fin": 11216,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "David Maldonado López de Carrizosa, por su obra: Paisaje con casa y árbol"
+  },
+  {
+   "tipo": "person",
+   "ini": 11143,
+   "fin": 11177,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Maldonado López de Carrizosa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11143,
+   "fin": 11177,
+   "texto": "David Maldonado López de Carrizosa"
+  },
+  {
+   "tipo": "title",
+   "ini": 11192,
+   "fin": 11216,
+   "texto": "Paisaje con casa y árbol"
+  },
+  {
+   "tipo": "work",
+   "ini": 11221,
+   "fin": 11264,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sonia Manzano Lorenzo, por su obra: Babypig"
+  },
+  {
+   "tipo": "person",
+   "ini": 11221,
+   "fin": 11242,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sonia Manzano Lorenzo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11221,
+   "fin": 11242,
+   "texto": "Sonia Manzano Lorenzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 11257,
+   "fin": 11264,
+   "texto": "Babypig"
+  },
+  {
+   "tipo": "work",
+   "ini": 11269,
+   "fin": 11341,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Guillermo Masedo, por su obra: Me encanta el olor a napalm por la mañana"
+  },
+  {
+   "tipo": "person",
+   "ini": 11269,
+   "fin": 11285,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guillermo Masedo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11269,
+   "fin": 11285,
+   "texto": "Guillermo Masedo"
+  },
+  {
+   "tipo": "title",
+   "ini": 11300,
+   "fin": 11341,
+   "texto": "Me encanta el olor a napalm por la mañana"
+  },
+  {
+   "tipo": "work",
+   "ini": 11346,
+   "fin": 11384,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Ángela Mena Moscoso, por su obra: Nido"
+  },
+  {
+   "tipo": "person",
+   "ini": 11346,
+   "fin": 11365,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ángela Mena Moscoso"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11346,
+   "fin": 11365,
+   "texto": "Ángela Mena Moscoso"
+  },
+  {
+   "tipo": "title",
+   "ini": 11380,
+   "fin": 11384,
+   "texto": "Nido"
+  },
+  {
+   "tipo": "work",
+   "ini": 11389,
+   "fin": 11443,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pedro Moreno Martínez, por su obra: Geometría discreta"
+  },
+  {
+   "tipo": "person",
+   "ini": 11389,
+   "fin": 11410,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pedro Moreno Martínez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11389,
+   "fin": 11410,
+   "texto": "Pedro Moreno Martínez"
+  },
+  {
+   "tipo": "title",
+   "ini": 11425,
+   "fin": 11443,
+   "texto": "Geometría discreta"
+  },
+  {
+   "tipo": "work",
+   "ini": 11448,
+   "fin": 11499,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Jesús Puente Carretero, por su obra: Reconstrucción"
+  },
+  {
+   "tipo": "person",
+   "ini": 11448,
+   "fin": 11470,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jesús Puente Carretero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11448,
+   "fin": 11470,
+   "texto": "Jesús Puente Carretero"
+  },
+  {
+   "tipo": "title",
+   "ini": 11485,
+   "fin": 11499,
+   "texto": "Reconstrucción"
+  },
+  {
+   "tipo": "work",
+   "ini": 11504,
+   "fin": 11547,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sergio Romero Linares, por su obra: Díptico"
+  },
+  {
+   "tipo": "person",
+   "ini": 11504,
+   "fin": 11525,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sergio Romero Linares"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11504,
+   "fin": 11525,
+   "texto": "Sergio Romero Linares"
+  },
+  {
+   "tipo": "title",
+   "ini": 11540,
+   "fin": 11547,
+   "texto": "Díptico"
+  },
+  {
+   "tipo": "work",
+   "ini": 11552,
+   "fin": 11612,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Alonso Sánchez Blesa, por su obra: Procesador 100 (virus 10)"
+  },
+  {
+   "tipo": "person",
+   "ini": 11552,
+   "fin": 11572,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alonso Sánchez Blesa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11552,
+   "fin": 11572,
+   "texto": "Alonso Sánchez Blesa"
+  },
+  {
+   "tipo": "title",
+   "ini": 11587,
+   "fin": 11612,
+   "texto": "Procesador 100 (virus 10)"
+  },
+  {
+   "tipo": "work",
+   "ini": 11617,
+   "fin": 11647,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "David Sancho, por su obra: S/T"
+  },
+  {
+   "tipo": "person",
+   "ini": 11617,
+   "fin": 11629,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Sancho"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11617,
+   "fin": 11629,
+   "texto": "David Sancho"
+  },
+  {
+   "tipo": "title",
+   "ini": 11644,
+   "fin": 11647,
+   "texto": "S/T"
+  },
+  {
+   "tipo": "work",
+   "ini": 11652,
+   "fin": 11713,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Concepción Silva Ojeda, por su obra: No más lágrimas gastadas"
+  },
+  {
+   "tipo": "person",
+   "ini": 11652,
+   "fin": 11674,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Concepción Silva Ojeda"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11652,
+   "fin": 11674,
+   "texto": "Concepción Silva Ojeda"
+  },
+  {
+   "tipo": "title",
+   "ini": 11689,
+   "fin": 11713,
+   "texto": "No más lágrimas gastadas"
+  },
+  {
+   "tipo": "work",
+   "ini": 11718,
+   "fin": 11760,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Israel Tirado García, por su obra: Después"
+  },
+  {
+   "tipo": "person",
+   "ini": 11718,
+   "fin": 11738,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Israel Tirado García"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11718,
+   "fin": 11738,
+   "texto": "Israel Tirado García"
+  },
+  {
+   "tipo": "title",
+   "ini": 11753,
+   "fin": 11760,
+   "texto": "Después"
+  },
+  {
+   "tipo": "work",
+   "ini": 11765,
+   "fin": 11829,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Raul Valero Barrios (Anthony Stark), por su obra: I lovepainting"
+  },
+  {
+   "tipo": "person",
+   "ini": 11765,
+   "fin": 11800,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Raul Valero Barrios (Anthony Stark)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11765,
+   "fin": 11784,
+   "texto": "Raul Valero Barrios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11786,
+   "fin": 11799,
+   "texto": "Anthony Stark"
+  },
+  {
+   "tipo": "title",
+   "ini": 11815,
+   "fin": 11829,
+   "texto": "I lovepainting"
+  },
+  {
+   "tipo": "institution",
+   "ini": 11892,
+   "fin": 11906,
+   "rasgos": {
+    "when": "2019-11-05"
+   },
+   "texto": "5 de noviembre"
+  },
+  {
+   "tipo": "work",
+   "ini": 12137,
+   "fin": 12176,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Ángela Mena Moscoso, por su obra “Nido”"
+  },
+  {
+   "tipo": "person",
+   "ini": 12137,
+   "fin": 12156,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ángela Mena Moscoso"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12137,
+   "fin": 12156,
+   "texto": "Ángela Mena Moscoso"
+  },
+  {
+   "tipo": "title",
+   "ini": 12171,
+   "fin": 12175,
+   "texto": "Nido"
+  },
+  {
+   "tipo": "work",
+   "ini": 12248,
+   "fin": 12290,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Eduardo Gómez Query,\npor su obra “La vega”"
+  },
+  {
+   "tipo": "person",
+   "ini": 12248,
+   "fin": 12267,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eduardo Gómez Query"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12248,
+   "fin": 12267,
+   "texto": "Eduardo Gómez Query"
+  },
+  {
+   "tipo": "title",
+   "ini": 12282,
+   "fin": 12289,
+   "texto": "La vega"
+  },
+  {
+   "tipo": "work",
+   "ini": 12356,
+   "fin": 12430,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "David Maldonado López\nde Carrizosa, por su obra “Paisaje con casa y árbol”"
+  },
+  {
+   "tipo": "person",
+   "ini": 12356,
+   "fin": 12390,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Maldonado López\nde Carrizosa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12356,
+   "fin": 12390,
+   "texto": "David Maldonado López\nde Carrizosa"
+  },
+  {
+   "tipo": "title",
+   "ini": 12405,
+   "fin": 12429,
+   "texto": "Paisaje con casa y árbol"
+  },
+  {
+   "tipo": "work",
+   "ini": 12493,
+   "fin": 12542,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pepe Baena Nieto, por su\nobra “Salina de Dolores”"
+  },
+  {
+   "tipo": "person",
+   "ini": 12493,
+   "fin": 12509,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pepe Baena Nieto"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12493,
+   "fin": 12509,
+   "texto": "Pepe Baena Nieto"
+  },
+  {
+   "tipo": "title",
+   "ini": 12524,
+   "fin": 12541,
+   "texto": "Salina de Dolores"
+  },
+  {
+   "tipo": "work",
+   "ini": 12605,
+   "fin": 12670,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Joaquín Delgado Ruiz, por su\nobra “Meditación pintada VIII. Orbe”"
+  },
+  {
+   "tipo": "person",
+   "ini": 12605,
+   "fin": 12625,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joaquín Delgado Ruiz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12605,
+   "fin": 12625,
+   "texto": "Joaquín Delgado Ruiz"
+  },
+  {
+   "tipo": "title",
+   "ini": 12640,
+   "fin": 12669,
+   "texto": "Meditación pintada VIII. Orbe"
+  },
+  {
+   "tipo": "person",
+   "ini": 12931,
+   "fin": 12951,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Israel Tirado García"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12931,
+   "fin": 12951,
+   "texto": "Israel Tirado García"
+  },
+  {
+   "tipo": "title",
+   "ini": 12966,
+   "fin": 12973,
+   "texto": "Después"
+  },
+  {
+   "tipo": "person",
+   "ini": 12995,
+   "fin": 13016,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sonia Manzano Lorenzo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12995,
+   "fin": 13016,
+   "texto": "Sonia Manzano Lorenzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 13031,
+   "fin": 13039,
+   "texto": "Baby pig"
+  },
+  {
+   "tipo": "title",
+   "ini": 13116,
+   "fin": 13156,
+   "texto": "LXVIII EXPOSICIÓN INTERNACIONAL DE OTOÑO"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 13116,
+   "fin": 13156,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 13160,
+   "fin": 13175,
+   "rasgos": {
+    "when": "2019-11-12"
+   },
+   "texto": "12 de noviembre"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 13209,
+   "fin": 13287,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 13209,
+   "fin": 13249,
+   "texto": "LXVIII Exposición Internacional de\nOtoño"
+  },
+  {
+   "tipo": "institution",
+   "ini": 13270,
+   "fin": 13287,
+   "rasgos": {
+    "type": "foundation",
+    "role": "patron"
+   },
+   "texto": "Fundación Cajasol"
+  },
+  {
+   "tipo": "title",
+   "ini": 13667,
+   "fin": 13686,
+   "texto": "Exposición de Otoño"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 13667,
+   "fin": 13686,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 13746,
+   "fin": 13759,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 13922,
+   "fin": 13930,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Academia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 14043,
+   "fin": 14059,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Corporación"
+  },
+  {
+   "tipo": "title",
+   "ini": 14250,
+   "fin": 14290,
+   "texto": "LXVIII Exposición Internacional\nde Otoño"
+  },
+  {
+   "tipo": "institution",
+   "ini": 14310,
+   "fin": 14327,
+   "rasgos": {
+    "type": "foundation",
+    "role": "patron"
+   },
+   "texto": "Fundación Cajasol"
+  },
+  {
+   "tipo": "work",
+   "ini": 14908,
+   "fin": 14951,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Dª Ángela Mena Moscoso, por su obra:\n“Nido”"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14911,
+   "fin": 14930,
+   "texto": "Ángela Mena Moscoso"
+  },
+  {
+   "tipo": "title",
+   "ini": 14946,
+   "fin": 14950,
+   "texto": "Nido"
+  },
+  {
+   "tipo": "work",
+   "ini": 15163,
+   "fin": 15206,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Eduardo\nGómez Query, por su obra: “La vega”"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15163,
+   "fin": 15182,
+   "texto": "Eduardo\nGómez Query"
+  },
+  {
+   "tipo": "title",
+   "ini": 15198,
+   "fin": 15205,
+   "texto": "La vega"
+  },
+  {
+   "tipo": "work",
+   "ini": 15362,
+   "fin": 15436,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "David\nMaldonado López de Carrizosa, por su obra:“Paisaje con casa y árbol”"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15362,
+   "fin": 15396,
+   "texto": "David\nMaldonado López de Carrizosa"
+  },
+  {
+   "tipo": "title",
+   "ini": 15411,
+   "fin": 15435,
+   "texto": "Paisaje con casa y árbol"
+  },
+  {
+   "tipo": "work",
+   "ini": 15580,
+   "fin": 15630,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "José Baena\nNieto, por su obra: “Salina de Dolores”"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15580,
+   "fin": 15596,
+   "texto": "José Baena\nNieto"
+  },
+  {
+   "tipo": "title",
+   "ini": 15612,
+   "fin": 15629,
+   "texto": "Salina de Dolores"
+  },
+  {
+   "tipo": "work",
+   "ini": 15803,
+   "fin": 15868,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Joaquín Delgado\nRuiz, por su obra: “Meditación pintada VIII.Orbe”"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15803,
+   "fin": 15823,
+   "texto": "Joaquín Delgado\nRuiz"
+  },
+  {
+   "tipo": "title",
+   "ini": 15839,
+   "fin": 15867,
+   "texto": "Meditación pintada VIII.Orbe"
+  },
+  {
+   "tipo": "institution",
+   "ini": 16001,
+   "fin": 16009,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Academia"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 16038,
+   "fin": 19068
+  },
+  {
+   "tipo": "institution",
+   "ini": 16062,
+   "fin": 16102,
+   "rasgos": {
+    "type": "foundation",
+    "role": "funding"
+   },
+   "texto": "REAL MAESTRANZA DE CABALLERIA DE\nSEVILLA"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16137,
+   "fin": 16223
+  },
+  {
+   "tipo": "img",
+   "ini": 16137,
+   "fin": 16142,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16144,
+   "fin": 16223,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Ángela Mena Moscoso\nNido\nTécnica: Óleo y carboncillo sobre lienzo\n100 x 100 cm."
+  },
+  {
+   "tipo": "person",
+   "ini": 16144,
+   "fin": 16163,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ángela Mena Moscoso"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16144,
+   "fin": 16163,
+   "texto": "Ángela Mena Moscoso"
+  },
+  {
+   "tipo": "title",
+   "ini": 16164,
+   "fin": 16168,
+   "texto": "Nido"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16178,
+   "fin": 16209,
+   "rasgos": {
+    "type": "oil, charcoal"
+   },
+   "texto": "Óleo y carboncillo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16210,
+   "fin": 16222,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16210,
+   "fin": 16213,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 16216,
+   "fin": 16219,
+   "texto": "100"
+  },
+  {
+   "tipo": "person",
+   "ini": 16336,
+   "fin": 16355,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "pintora Ángela Mena"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16344,
+   "fin": 16355,
+   "texto": "Ángela Mena"
+  },
+  {
+   "tipo": "institution",
+   "ini": 16364,
+   "fin": 16394,
+   "rasgos": {
+    "type": "institute",
+    "role": "funding"
+   },
+   "texto": "INSTITUTO BRITANICO DE SEVILLA"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16396,
+   "fin": 16482
+  },
+  {
+   "tipo": "img",
+   "ini": 16396,
+   "fin": 16401,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16403,
+   "fin": 16483,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Eduardo Gómez Query\nLa vega\nTécnica: Collage y grafito sobre madera\n81 x 100 cm\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 16403,
+   "fin": 16422,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eduardo Gómez Query"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16403,
+   "fin": 16422,
+   "texto": "Eduardo Gómez Query"
+  },
+  {
+   "tipo": "title",
+   "ini": 16423,
+   "fin": 16430,
+   "texto": "La vega"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16440,
+   "fin": 16470,
+   "rasgos": {
+    "type": "collage, graphite"
+   },
+   "texto": "Collage y grafito sobre madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16471,
+   "fin": 16482,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16471,
+   "fin": 16473,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 16476,
+   "fin": 16479,
+   "texto": "100"
+  },
+  {
+   "tipo": "person",
+   "ini": 16593,
+   "fin": 16619,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "pintor Eduardo Gómez Query"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16600,
+   "fin": 16619,
+   "texto": "Eduardo Gómez Query"
+  },
+  {
+   "tipo": "person",
+   "ini": 16628,
+   "fin": 16652,
+   "rasgos": {
+    "role": "financier"
+   },
+   "texto": "EXCMO. SR. DUQUE DE ALBA"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16654,
+   "fin": 16757
+  },
+  {
+   "tipo": "img",
+   "ini": 16654,
+   "fin": 16659,
+   "rasgos": {
+    "color": "true",
+    "size": "medium",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16661,
+   "fin": 16757,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "David Maldonado López de Carrizosa\nPaisaje con casa y árbol\nTécnica: Óleo sobre tela\n65 x 65 cm."
+  },
+  {
+   "tipo": "person",
+   "ini": 16661,
+   "fin": 16695,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Maldonado López de Carrizosa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16661,
+   "fin": 16695,
+   "texto": "David Maldonado López de Carrizosa"
+  },
+  {
+   "tipo": "title",
+   "ini": 16696,
+   "fin": 16720,
+   "texto": "Paisaje con casa y árbol"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16730,
+   "fin": 16745,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16746,
+   "fin": 16756,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 65 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16746,
+   "fin": 16748,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 16751,
+   "fin": 16753,
+   "texto": "65"
+  },
+  {
+   "tipo": "person",
+   "ini": 16816,
+   "fin": 16857,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "pintor David Maldonado López de Carrizosa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16823,
+   "fin": 16857,
+   "texto": "David Maldonado López de Carrizosa"
+  },
+  {
+   "tipo": "institution",
+   "ini": 16866,
+   "fin": 16885,
+   "rasgos": {
+    "type": "foundation",
+    "role": "funding"
+   },
+   "texto": "FUNDACIÓN CRUZCAMPO"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16887,
+   "fin": 16966
+  },
+  {
+   "tipo": "img",
+   "ini": 16887,
+   "fin": 16892,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16894,
+   "fin": 16966,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "José Baena Nieto\nSalina de Dolores\nTécnica: Óleo sobre lino\n100 x 73 cm."
+  },
+  {
+   "tipo": "person",
+   "ini": 16894,
+   "fin": 16910,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Baena Nieto"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16894,
+   "fin": 16910,
+   "texto": "José Baena Nieto"
+  },
+  {
+   "tipo": "title",
+   "ini": 16911,
+   "fin": 16928,
+   "texto": "Salina de Dolores"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16938,
+   "fin": 16953,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lino"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16954,
+   "fin": 16965,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 73 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16954,
+   "fin": 16957,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 16960,
+   "fin": 16962,
+   "texto": "73"
+  },
+  {
+   "tipo": "person",
+   "ini": 17073,
+   "fin": 17096,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "pintor José Baena Nieto"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17080,
+   "fin": 17096,
+   "texto": "José Baena Nieto"
+  },
+  {
+   "tipo": "institution",
+   "ini": 17105,
+   "fin": 17127,
+   "rasgos": {
+    "type": "company",
+    "role": "funding"
+   },
+   "texto": "EL CORTE INGLÉS, S. A."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17129,
+   "fin": 17237
+  },
+  {
+   "tipo": "img",
+   "ini": 17129,
+   "fin": 17134,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17136,
+   "fin": 17237,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Joaquín Delgado Ruiz\nMeditación pintada VIII. Orbe\nTécnica: Óleo y acrílico sobre lienzo\n100 x 100 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 17136,
+   "fin": 17156,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joaquín Delgado Ruiz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17136,
+   "fin": 17156,
+   "texto": "Joaquín Delgado Ruiz"
+  },
+  {
+   "tipo": "title",
+   "ini": 17157,
+   "fin": 17186,
+   "texto": "Meditación pintada VIII. Orbe"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17196,
+   "fin": 17224,
+   "rasgos": {
+    "type": "oil, acrylic"
+   },
+   "texto": "Óleo y acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17225,
+   "fin": 17237,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17225,
+   "fin": 17228,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 17231,
+   "fin": 17234,
+   "texto": "100"
+  },
+  {
+   "tipo": "institution",
+   "ini": 17298,
+   "fin": 17324,
+   "rasgos": {
+    "type": "compnay",
+    "role": "funding"
+   },
+   "texto": "El Corte Inglés de Sevilla"
+  },
+  {
+   "tipo": "person",
+   "ini": 17364,
+   "fin": 17391,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "pintor Joaquín Delgado Ruiz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17371,
+   "fin": 17391,
+   "texto": "Joaquín Delgado Ruiz"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17415,
+   "fin": 17495
+  },
+  {
+   "tipo": "img",
+   "ini": 17415,
+   "fin": 17420,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17422,
+   "fin": 17495,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Juan Carlos Benigno Busutil\nStico\nTécnica: Mixta sobre tela\n100 x 100 cm."
+  },
+  {
+   "tipo": "person",
+   "ini": 17422,
+   "fin": 17449,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Carlos Benigno Busutil"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17422,
+   "fin": 17449,
+   "texto": "Juan Carlos Benigno Busutil"
+  },
+  {
+   "tipo": "title",
+   "ini": 17450,
+   "fin": 17455,
+   "texto": "Stico"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17465,
+   "fin": 17481,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17482,
+   "fin": 17494,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17482,
+   "fin": 17485,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 17488,
+   "fin": 17491,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17497,
+   "fin": 17577
+  },
+  {
+   "tipo": "img",
+   "ini": 17497,
+   "fin": 17502,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17504,
+   "fin": 17577,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Rocío Cano Guzmán\nPuerta de atrás\nTécnica: Óleo sobre lienzo\n73 x 100 cm."
+  },
+  {
+   "tipo": "person",
+   "ini": 17504,
+   "fin": 17521,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rocío Cano Guzmán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17504,
+   "fin": 17521,
+   "texto": "Rocío Cano Guzmán"
+  },
+  {
+   "tipo": "title",
+   "ini": 17522,
+   "fin": 17537,
+   "texto": "Puerta de atrás"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17547,
+   "fin": 17564,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17565,
+   "fin": 17576,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "73 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17565,
+   "fin": 17567,
+   "texto": "73"
+  },
+  {
+   "tipo": "width",
+   "ini": 17570,
+   "fin": 17573,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17579,
+   "fin": 17663
+  },
+  {
+   "tipo": "img",
+   "ini": 17579,
+   "fin": 17584,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17586,
+   "fin": 17663,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pedro Cansino Calderón\nHomenaje a Erik Satie\nTécnica: Óleo/papel\n100 x 70 cm."
+  },
+  {
+   "tipo": "person",
+   "ini": 17586,
+   "fin": 17608,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pedro Cansino Calderón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17586,
+   "fin": 17608,
+   "texto": "Pedro Cansino Calderón"
+  },
+  {
+   "tipo": "title",
+   "ini": 17609,
+   "fin": 17630,
+   "texto": "Homenaje a Erik Satie"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17640,
+   "fin": 17650,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo/papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17651,
+   "fin": 17662,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17651,
+   "fin": 17654,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 17657,
+   "fin": 17659,
+   "texto": "70"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17665,
+   "fin": 17777
+  },
+  {
+   "tipo": "img",
+   "ini": 17665,
+   "fin": 17670,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17672,
+   "fin": 17777,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Francisco Fernández Rodríguez\nRinoceronte azul\nTécnica: Óleo sobre lienzo, pan de oro, yute\n100 x 100 cm."
+  },
+  {
+   "tipo": "person",
+   "ini": 17672,
+   "fin": 17701,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Francisco Fernández Rodríguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17672,
+   "fin": 17701,
+   "texto": "Francisco Fernández Rodríguez"
+  },
+  {
+   "tipo": "title",
+   "ini": 17702,
+   "fin": 17718,
+   "texto": "Rinoceronte azul"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17728,
+   "fin": 17763,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo, pan de oro, yute"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17764,
+   "fin": 17776,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17764,
+   "fin": 17767,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 17770,
+   "fin": 17773,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17779,
+   "fin": 17871
+  },
+  {
+   "tipo": "img",
+   "ini": 17779,
+   "fin": 17784,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17786,
+   "fin": 17871,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Jorge Gallego García\nLa llamada\nTécnica: Óleo, lino montado en bastidor\n100 x 100 cm."
+  },
+  {
+   "tipo": "person",
+   "ini": 17786,
+   "fin": 17806,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge Gallego García"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17786,
+   "fin": 17806,
+   "texto": "Jorge Gallego García"
+  },
+  {
+   "tipo": "title",
+   "ini": 17807,
+   "fin": 17817,
+   "texto": "La llamada"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17827,
+   "fin": 17857,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo, lino montado en bastidor"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17858,
+   "fin": 17870,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17858,
+   "fin": 17861,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 17864,
+   "fin": 17867,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17873,
+   "fin": 18034
+  },
+  {
+   "tipo": "img",
+   "ini": 17873,
+   "fin": 17878,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17880,
+   "fin": 18034,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Fernando García de Cossío\nLa interacción de los espacios XIX. De la serie Interiores\nTécnica: Acrílico/lienzo sobre tabla/pan de plata y óleo\n92 x 124 cm."
+  },
+  {
+   "tipo": "person",
+   "ini": 17880,
+   "fin": 17905,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando García de Cossío"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17880,
+   "fin": 17905,
+   "texto": "Fernando García de Cossío"
+  },
+  {
+   "tipo": "title",
+   "ini": 17906,
+   "fin": 17964,
+   "texto": "La interacción de los espacios XIX. De la serie Interiores"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17974,
+   "fin": 18021,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico/lienzo sobre tabla/pan de plata y óleo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18022,
+   "fin": 18033,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "92 x 124 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18022,
+   "fin": 18024,
+   "texto": "92"
+  },
+  {
+   "tipo": "width",
+   "ini": 18027,
+   "fin": 18030,
+   "texto": "124"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18036,
+   "fin": 18129
+  },
+  {
+   "tipo": "img",
+   "ini": 18036,
+   "fin": 18041,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18043,
+   "fin": 18129,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Julia Jiménez Santa Olalla\nJulia con Carolina\nTécnica: Óleo sobre lienzo\n100 x 150 cm."
+  },
+  {
+   "tipo": "person",
+   "ini": 18043,
+   "fin": 18069,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Julia Jiménez Santa Olalla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18043,
+   "fin": 18069,
+   "texto": "Julia Jiménez Santa Olalla"
+  },
+  {
+   "tipo": "title",
+   "ini": 18070,
+   "fin": 18088,
+   "texto": "Julia con Carolina"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18098,
+   "fin": 18115,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18116,
+   "fin": 18128,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 150 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18116,
+   "fin": 18119,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 18122,
+   "fin": 18125,
+   "texto": "150"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18131,
+   "fin": 18218
+  },
+  {
+   "tipo": "img",
+   "ini": 18131,
+   "fin": 18136,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18138,
+   "fin": 18218,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sonia Manzano Lorenzo\nBaby Pig\nTécnica: Lápices de color sobre papel\n70 x 50 cm."
+  },
+  {
+   "tipo": "person",
+   "ini": 18138,
+   "fin": 18159,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sonia Manzano Lorenzo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18138,
+   "fin": 18159,
+   "texto": "Sonia Manzano Lorenzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 18160,
+   "fin": 18168,
+   "texto": "Baby Pig"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18178,
+   "fin": 18206,
+   "rasgos": {
+    "type": "colorPencil"
+   },
+   "texto": "Lápices de color sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18207,
+   "fin": 18217,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18207,
+   "fin": 18209,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 18212,
+   "fin": 18214,
+   "texto": "50"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18220,
+   "fin": 18329
+  },
+  {
+   "tipo": "img",
+   "ini": 18220,
+   "fin": 18226,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18227,
+   "fin": 18329,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Guillermo Masedo\nMe encanta el olor a Napalm por la mañana\nTécnica: Acrílico sobre tabla\n100 x 100 cm."
+  },
+  {
+   "tipo": "person",
+   "ini": 18227,
+   "fin": 18243,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guillermo Masedo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18227,
+   "fin": 18243,
+   "texto": "Guillermo Masedo"
+  },
+  {
+   "tipo": "title",
+   "ini": 18244,
+   "fin": 18285,
+   "texto": "Me encanta el olor a Napalm por la mañana"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18295,
+   "fin": 18315,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18316,
+   "fin": 18328,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18316,
+   "fin": 18319,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 18322,
+   "fin": 18325,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18331,
+   "fin": 18442
+  },
+  {
+   "tipo": "img",
+   "ini": 18331,
+   "fin": 18337,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18338,
+   "fin": 18442,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pedro Moreno Martínez\nGeometría discreta\nTécnica: Acrílico (soporte en cartulina reciclada)\n100 x 70 cm."
+  },
+  {
+   "tipo": "person",
+   "ini": 18338,
+   "fin": 18359,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pedro Moreno Martínez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18338,
+   "fin": 18359,
+   "texto": "Pedro Moreno Martínez"
+  },
+  {
+   "tipo": "title",
+   "ini": 18360,
+   "fin": 18378,
+   "texto": "Geometría discreta"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18388,
+   "fin": 18429,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico (soporte en cartulina reciclada)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18430,
+   "fin": 18441,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18430,
+   "fin": 18433,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 18436,
+   "fin": 18438,
+   "texto": "70"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18444,
+   "fin": 18527
+  },
+  {
+   "tipo": "img",
+   "ini": 18444,
+   "fin": 18449,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18451,
+   "fin": 18527,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Jesús Puente Carretero\nReconstrucción\nTécnica: Óleo sobre tabla\n100 x 73 cm."
+  },
+  {
+   "tipo": "person",
+   "ini": 18451,
+   "fin": 18473,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jesús Puente Carretero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18451,
+   "fin": 18473,
+   "texto": "Jesús Puente Carretero"
+  },
+  {
+   "tipo": "title",
+   "ini": 18474,
+   "fin": 18488,
+   "texto": "Reconstrucción"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18498,
+   "fin": 18514,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18515,
+   "fin": 18526,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 73 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18515,
+   "fin": 18518,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 18521,
+   "fin": 18523,
+   "texto": "73"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18529,
+   "fin": 18628
+  },
+  {
+   "tipo": "img",
+   "ini": 18529,
+   "fin": 18534,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 18535,
+   "fin": 18540,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18542,
+   "fin": 18628,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sergio Romero Linares\nDíptico\nTécnica: Óleo sobre madera y lino\n200 x 89 y 35 x 27 cm."
+  },
+  {
+   "tipo": "person",
+   "ini": 18542,
+   "fin": 18563,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sergio Romero Linares"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18542,
+   "fin": 18563,
+   "texto": "Sergio Romero Linares"
+  },
+  {
+   "tipo": "title",
+   "ini": 18564,
+   "fin": 18571,
+   "texto": "Díptico"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18581,
+   "fin": 18605,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre madera y lino"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18606,
+   "fin": 18614,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 89"
+  },
+  {
+   "tipo": "height",
+   "ini": 18606,
+   "fin": 18609,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 18612,
+   "fin": 18614,
+   "texto": "89"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18617,
+   "fin": 18627,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35 x 27 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18617,
+   "fin": 18619,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 18622,
+   "fin": 18624,
+   "texto": "27"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18630,
+   "fin": 18737
+  },
+  {
+   "tipo": "img",
+   "ini": 18630,
+   "fin": 18635,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18637,
+   "fin": 18737,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Alonso Sánchez Blesa\nProcesador 100 (virus 10)\nTécnica: Mixta sobre tela y poliuretano\n100 x 100 cm."
+  },
+  {
+   "tipo": "person",
+   "ini": 18637,
+   "fin": 18657,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alonso Sánchez Blesa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18637,
+   "fin": 18657,
+   "texto": "Alonso Sánchez Blesa"
+  },
+  {
+   "tipo": "title",
+   "ini": 18658,
+   "fin": 18683,
+   "texto": "Procesador 100 (virus 10)"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18693,
+   "fin": 18723,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tela y poliuretano"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18724,
+   "fin": 18736,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18724,
+   "fin": 18727,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 18730,
+   "fin": 18733,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18739,
+   "fin": 18806
+  },
+  {
+   "tipo": "img",
+   "ini": 18739,
+   "fin": 18744,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18746,
+   "fin": 18806,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "David Sancho\nS/T\nTécnica: Acrílico sobre lienzo\n100 x 100 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 18746,
+   "fin": 18758,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Sancho"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18746,
+   "fin": 18758,
+   "texto": "David Sancho"
+  },
+  {
+   "tipo": "title",
+   "ini": 18759,
+   "fin": 18762,
+   "texto": "S/T"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18772,
+   "fin": 18793,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18794,
+   "fin": 18806,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18794,
+   "fin": 18797,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 18800,
+   "fin": 18803,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18808,
+   "fin": 18904
+  },
+  {
+   "tipo": "img",
+   "ini": 18808,
+   "fin": 18813,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18815,
+   "fin": 18904,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Concepción Silva Ojeda\nNo más lágrimas gastadas\nTécnica: Acrílico sobre lienzo\n80 x 80 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 18815,
+   "fin": 18837,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Concepción Silva Ojeda"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18815,
+   "fin": 18837,
+   "texto": "Concepción Silva Ojeda"
+  },
+  {
+   "tipo": "title",
+   "ini": 18838,
+   "fin": 18862,
+   "texto": "No más lágrimas gastadas"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18872,
+   "fin": 18893,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18894,
+   "fin": 18904,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80 x 80 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18894,
+   "fin": 18896,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 18899,
+   "fin": 18901,
+   "texto": "80"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18906,
+   "fin": 18967
+  },
+  {
+   "tipo": "img",
+   "ini": 18906,
+   "fin": 18911,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18913,
+   "fin": 18967,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Israel Tirado García\nDespués\nTécnica mixta\n80 x 80 cm."
+  },
+  {
+   "tipo": "person",
+   "ini": 18913,
+   "fin": 18933,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Israel Tirado García"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18913,
+   "fin": 18933,
+   "texto": "Israel Tirado García"
+  },
+  {
+   "tipo": "title",
+   "ini": 18934,
+   "fin": 18941,
+   "texto": "Después"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18942,
+   "fin": 18955,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18956,
+   "fin": 18966,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80 x 80 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18956,
+   "fin": 18958,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 18961,
+   "fin": 18963,
+   "texto": "80"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18969,
+   "fin": 19067
+  },
+  {
+   "tipo": "img",
+   "ini": 18969,
+   "fin": 18974,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18976,
+   "fin": 19067,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Raul Valero Barrios (Anthony Stark)\nI love Painting\nTécnica: Óleo sobre lienzo\n100 x 100 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 18976,
+   "fin": 19011,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Raul Valero Barrios (Anthony Stark)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18976,
+   "fin": 18995,
+   "texto": "Raul Valero Barrios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18997,
+   "fin": 19010,
+   "texto": "Anthony Stark"
+  },
+  {
+   "tipo": "title",
+   "ini": 19012,
+   "fin": 19027,
+   "texto": "I love Painting"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19037,
+   "fin": 19054,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19055,
+   "fin": 19067,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19055,
+   "fin": 19058,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 19061,
+   "fin": 19064,
+   "texto": "100"
+  }
+ ]
+}

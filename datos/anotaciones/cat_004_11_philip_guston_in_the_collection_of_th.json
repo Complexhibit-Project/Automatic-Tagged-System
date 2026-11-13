@@ -1,0 +1,5413 @@
+{
+ "id": "cat_004_11_philip_guston_in_the_collection_of_th",
+ "nombre_original": "11. Philip Guston in the collection of the Museum of Modern Art",
+ "longitud_texto": 51267,
+ "sha256_texto": "09d13289e4e68fadf10aa6c7f77f6b05810088033c6554418b83c965d8bddbf8",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 154,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 59,
+   "texto": "Philip Guston in the Collection of The Museum of Modern Art"
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 13,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 13,
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "title",
+   "ini": 62,
+   "fin": 118,
+   "texto": "Philip Guston the Collection of The Museum of Modern Art"
+  },
+  {
+   "tipo": "person",
+   "ini": 62,
+   "fin": 75,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 62,
+   "fin": 75,
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "institution",
+   "ini": 120,
+   "fin": 154,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "The Museum of Modern Art, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 146,
+   "fin": 154,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "person",
+   "ini": 215,
+   "fin": 234,
+   "rasgos": {
+    "role": "patron"
+   },
+   "texto": "Mrs. Victor W. Ganz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 220,
+   "fin": 234,
+   "texto": "Victor W. Ganz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 267,
+   "fin": 277,
+   "texto": "Agnes Gund"
+  },
+  {
+   "tipo": "person",
+   "ini": 325,
+   "fin": 338,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 325,
+   "fin": 338,
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 378,
+   "fin": 391,
+   "texto": "Kirk Varnedoe"
+  },
+  {
+   "tipo": "institution",
+   "ini": 506,
+   "fin": 540,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser"
+   },
+   "texto": "The Museum of Modern Art, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 532,
+   "fin": 540,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "person",
+   "ini": 572,
+   "fin": 586,
+   "rasgos": {
+    "role": "catalogueEditor"
+   },
+   "texto": "Harriet S. Bee"
+  },
+  {
+   "tipo": "persName",
+   "ini": 572,
+   "fin": 586,
+   "texto": "Harriet S. Bee"
+  },
+  {
+   "tipo": "person",
+   "ini": 599,
+   "fin": 611,
+   "rasgos": {
+    "role": "catalogueDesigner"
+   },
+   "texto": "Emily Waters"
+  },
+  {
+   "tipo": "persName",
+   "ini": 599,
+   "fin": 611,
+   "texto": "Emily Waters"
+  },
+  {
+   "tipo": "person",
+   "ini": 626,
+   "fin": 638,
+   "rasgos": {
+    "role": "producer"
+   },
+   "texto": "John Donahue"
+  },
+  {
+   "tipo": "persName",
+   "ini": 626,
+   "fin": 638,
+   "texto": "John Donahue"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1372,
+   "fin": 1439,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "The Museum of Modern Art\n51 West 53 Street\nNew York, New York 10019"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1677,
+   "fin": 1701,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "The Museum of Modern Art"
+  },
+  {
+   "tipo": "person",
+   "ini": 1999,
+   "fin": 2012,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1999,
+   "fin": 2012,
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 2531,
+   "fin": 2537,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2531,
+   "fin": 2537,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2604,
+   "fin": 2628,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "The Museum of Modern Art"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3283,
+   "fin": 3307,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "The Museum of Modern Art"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3427,
+   "fin": 3451,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "The Museum of Modern Art"
+  },
+  {
+   "tipo": "person",
+   "ini": 3875,
+   "fin": 3888,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3875,
+   "fin": 3888,
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 4022,
+   "fin": 4028,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4022,
+   "fin": 4028,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 4220,
+   "fin": 4234,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Philip Gus\nton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4220,
+   "fin": 4234,
+   "texto": "Philip Gus\nton"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4256,
+   "fin": 4280,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "The Museum of Modern Art"
+  },
+  {
+   "tipo": "person",
+   "ini": 4549,
+   "fin": 4562,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4549,
+   "fin": 4562,
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 4669,
+   "fin": 4675,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4669,
+   "fin": 4675,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 4702,
+   "fin": 4715,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4702,
+   "fin": 4715,
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 4851,
+   "fin": 4857,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4851,
+   "fin": 4857,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 5112,
+   "fin": 5118,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5112,
+   "fin": 5118,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 6128,
+   "fin": 6134,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "GUSTON"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6128,
+   "fin": 6134,
+   "texto": "GUSTON"
+  },
+  {
+   "tipo": "person",
+   "ini": 6159,
+   "fin": 6172,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6159,
+   "fin": 6172,
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 6391,
+   "fin": 6397,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6391,
+   "fin": 6397,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 6548,
+   "fin": 6554,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6548,
+   "fin": 6554,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 7103,
+   "fin": 7109,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7103,
+   "fin": 7109,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 7463,
+   "fin": 7469,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7463,
+   "fin": 7469,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 7744,
+   "fin": 7750,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7744,
+   "fin": 7750,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 7787,
+   "fin": 7793,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7787,
+   "fin": 7793,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "institution",
+   "ini": 7853,
+   "fin": 7877,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "The Museum of Modern Art"
+  },
+  {
+   "tipo": "person",
+   "ini": 8829,
+   "fin": 8873,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston was born in Montreal, Canada, in 1913"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8829,
+   "fin": 8835,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 9193,
+   "fin": 9199,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9193,
+   "fin": 9199,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 9520,
+   "fin": 9526,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9520,
+   "fin": 9526,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 9907,
+   "fin": 9913,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9907,
+   "fin": 9913,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 10459,
+   "fin": 10465,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10459,
+   "fin": 10465,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 10686,
+   "fin": 10692,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10686,
+   "fin": 10692,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 10921,
+   "fin": 10927,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10921,
+   "fin": 10927,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 11363,
+   "fin": 11369,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11363,
+   "fin": 11369,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 11737,
+   "fin": 11743,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11737,
+   "fin": 11743,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 12006,
+   "fin": 12012,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12006,
+   "fin": 12012,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 12540,
+   "fin": 12546,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12540,
+   "fin": 12546,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 13204,
+   "fin": 13210,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13204,
+   "fin": 13210,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 13531,
+   "fin": 13544,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13531,
+   "fin": 13544,
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 14531,
+   "fin": 14537,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14531,
+   "fin": 14537,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 15220,
+   "fin": 15226,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15220,
+   "fin": 15226,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 15617,
+   "fin": 15623,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15617,
+   "fin": 15623,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 16025,
+   "fin": 16031,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16025,
+   "fin": 16031,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 16311,
+   "fin": 16317,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16311,
+   "fin": 16317,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 16611,
+   "fin": 16617,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 16984,
+   "fin": 16990,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16984,
+   "fin": 16990,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 17476,
+   "fin": 17482,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17476,
+   "fin": 17482,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 17693,
+   "fin": 17699,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17693,
+   "fin": 17699,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 18306,
+   "fin": 18312,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18306,
+   "fin": 18312,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 18675,
+   "fin": 18681,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18675,
+   "fin": 18681,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 18964,
+   "fin": 18970,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18964,
+   "fin": 18970,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 19416,
+   "fin": 19422,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19416,
+   "fin": 19422,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 19750,
+   "fin": 19756,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19750,
+   "fin": 19756,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 20010,
+   "fin": 20016,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20010,
+   "fin": 20016,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 20417,
+   "fin": 20423,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20417,
+   "fin": 20423,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 21112,
+   "fin": 21118,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21112,
+   "fin": 21118,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 23085,
+   "fin": 23091,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23085,
+   "fin": 23091,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 23422,
+   "fin": 23428,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23422,
+   "fin": 23428,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 23697,
+   "fin": 23703,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23697,
+   "fin": 23703,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 23841,
+   "fin": 23847,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23841,
+   "fin": 23847,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 23942,
+   "fin": 23948,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23942,
+   "fin": 23948,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 24368,
+   "fin": 24374,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24368,
+   "fin": 24374,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 24674,
+   "fin": 24680,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24674,
+   "fin": 24680,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 25802,
+   "fin": 25808,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25802,
+   "fin": 25808,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 26905,
+   "fin": 26911,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26905,
+   "fin": 26911,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 27237,
+   "fin": 27243,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27237,
+   "fin": 27243,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 27288,
+   "fin": 27294,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27288,
+   "fin": 27294,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 27588,
+   "fin": 27594,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27588,
+   "fin": 27594,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 27915,
+   "fin": 27921,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27915,
+   "fin": 27921,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 28429,
+   "fin": 28435,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28429,
+   "fin": 28435,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 28876,
+   "fin": 28882,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28876,
+   "fin": 28882,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 29203,
+   "fin": 29209,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29203,
+   "fin": 29209,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 29458,
+   "fin": 29464,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29458,
+   "fin": 29464,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 29970,
+   "fin": 29976,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29970,
+   "fin": 29976,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 30718,
+   "fin": 30724,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30718,
+   "fin": 30724,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 30932,
+   "fin": 30938,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30932,
+   "fin": 30938,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 31324,
+   "fin": 31330,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31324,
+   "fin": 31330,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 31933,
+   "fin": 31939,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31933,
+   "fin": 31939,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 32807,
+   "fin": 32813,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 32807,
+   "fin": 32813,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 33338,
+   "fin": 33344,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 33338,
+   "fin": 33344,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 33573,
+   "fin": 33579,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 33573,
+   "fin": 33579,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 33766,
+   "fin": 33772,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 33766,
+   "fin": 33772,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 34174,
+   "fin": 34180,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 34174,
+   "fin": 34180,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 35189,
+   "fin": 35195,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35189,
+   "fin": 35195,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 35418,
+   "fin": 35424,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35418,
+   "fin": 35424,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 35796,
+   "fin": 35802,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35796,
+   "fin": 35802,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 36185,
+   "fin": 36191,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 36185,
+   "fin": 36191,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 36944,
+   "fin": 36950,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 36944,
+   "fin": 36950,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 37115,
+   "fin": 37121,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37115,
+   "fin": 37121,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 37521,
+   "fin": 37527,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37521,
+   "fin": 37527,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 38200,
+   "fin": 38206,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38200,
+   "fin": 38206,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 38803,
+   "fin": 38809,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38803,
+   "fin": 38809,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 39325,
+   "fin": 39331,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39325,
+   "fin": 39331,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 39413,
+   "fin": 39419,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39413,
+   "fin": 39419,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 40078,
+   "fin": 40084,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40078,
+   "fin": 40084,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 40335,
+   "fin": 40341,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40335,
+   "fin": 40341,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 40805,
+   "fin": 40811,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40805,
+   "fin": 40811,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 40915,
+   "fin": 40921,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40915,
+   "fin": 40921,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 41342,
+   "fin": 41348,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 41342,
+   "fin": 41348,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 43278,
+   "fin": 43284,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 43278,
+   "fin": 43284,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 44072,
+   "fin": 44078,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 44072,
+   "fin": 44078,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 44241,
+   "fin": 44247,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 44241,
+   "fin": 44247,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 44584,
+   "fin": 44590,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 44584,
+   "fin": 44590,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "person",
+   "ini": 45038,
+   "fin": 45044,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 45038,
+   "fin": 45044,
+   "texto": "Guston"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 45166,
+   "fin": 51264
+  },
+  {
+   "tipo": "person",
+   "ini": 45218,
+   "fin": 45231,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "persName",
+   "ini": 45218,
+   "fin": 45231,
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "institution",
+   "ini": 45253,
+   "fin": 45277,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "The Museum of Modern Art"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 45902,
+   "fin": 46010
+  },
+  {
+   "tipo": "work",
+   "ini": 45902,
+   "fin": 46001,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Red Painting. 1950. Oil on canvas, 34 1/8 x 62 1/4 (86.4 x 158.1 cm). Bequest of the artist. 419.81"
+  },
+  {
+   "tipo": "title",
+   "ini": 45902,
+   "fin": 45914,
+   "texto": "Red Painting"
+  },
+  {
+   "tipo": "date",
+   "ini": 45916,
+   "fin": 45920,
+   "rasgos": {
+    "when": "1950"
+   },
+   "texto": "1950"
+  },
+  {
+   "tipo": "technique",
+   "ini": 45922,
+   "fin": 45935,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Oil on canvas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45937,
+   "fin": 45952,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "34 1/8 x 62 1/4"
+  },
+  {
+   "tipo": "height",
+   "ini": 45937,
+   "fin": 45943,
+   "texto": "34 1/8"
+  },
+  {
+   "tipo": "width",
+   "ini": 45946,
+   "fin": 45952,
+   "texto": "62 1/4"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45954,
+   "fin": 45969,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "86.4 x 158.1 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 45954,
+   "fin": 45958,
+   "texto": "86.4"
+  },
+  {
+   "tipo": "width",
+   "ini": 45961,
+   "fin": 45966,
+   "texto": "158.1"
+  },
+  {
+   "tipo": "person",
+   "ini": 45983,
+   "fin": 45993,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "the artist"
+  },
+  {
+   "tipo": "idno",
+   "ini": 45995,
+   "fin": 46001,
+   "texto": "419.81"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46012,
+   "fin": 46112
+  },
+  {
+   "tipo": "work",
+   "ini": 46012,
+   "fin": 46104,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Painting. 1954. Oil on canvas, 63 1/4 x 60 1/8 (160.6 x 152.7 cm). Philip Johnson Fund. 7.56"
+  },
+  {
+   "tipo": "title",
+   "ini": 46012,
+   "fin": 46020,
+   "texto": "Painting"
+  },
+  {
+   "tipo": "date",
+   "ini": 46022,
+   "fin": 46026,
+   "rasgos": {
+    "when": "1954"
+   },
+   "texto": "1954"
+  },
+  {
+   "tipo": "technique",
+   "ini": 46028,
+   "fin": 46041,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Oil on canvas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46043,
+   "fin": 46058,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "63 1/4 x 60 1/8"
+  },
+  {
+   "tipo": "height",
+   "ini": 46043,
+   "fin": 46049,
+   "texto": "63 1/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 46052,
+   "fin": 46058,
+   "texto": "60 1/8"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46060,
+   "fin": 46076,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "160.6 x 152.7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 46060,
+   "fin": 46065,
+   "texto": "160.6"
+  },
+  {
+   "tipo": "width",
+   "ini": 46068,
+   "fin": 46073,
+   "texto": "152.7"
+  },
+  {
+   "tipo": "persName",
+   "ini": 46079,
+   "fin": 46093,
+   "texto": "Philip Johnson"
+  },
+  {
+   "tipo": "idno",
+   "ini": 46100,
+   "fin": 46104,
+   "texto": "7.56"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46115,
+   "fin": 46228
+  },
+  {
+   "tipo": "work",
+   "ini": 46115,
+   "fin": 46219,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "The Clock. 1956-57. Oil on canvas, 6'4\" x 64 1/8\" (193.1 x 163 cm). Gift of Mrs. Bliss Parkinson. 659.59"
+  },
+  {
+   "tipo": "title",
+   "ini": 46115,
+   "fin": 46124,
+   "texto": "The Clock"
+  },
+  {
+   "tipo": "date",
+   "ini": 46126,
+   "fin": 46133,
+   "rasgos": {
+    "from": "1956",
+    "to": "1957"
+   },
+   "texto": "1956-57"
+  },
+  {
+   "tipo": "technique",
+   "ini": 46135,
+   "fin": 46148,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Oil on canvas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46150,
+   "fin": 46164,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "6'4\" x 64 1/8\""
+  },
+  {
+   "tipo": "height",
+   "ini": 46150,
+   "fin": 46154,
+   "texto": "6'4\""
+  },
+  {
+   "tipo": "width",
+   "ini": 46157,
+   "fin": 46164,
+   "texto": "64 1/8\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46166,
+   "fin": 46180,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "193.1 x 163 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 46166,
+   "fin": 46171,
+   "texto": "193.1"
+  },
+  {
+   "tipo": "width",
+   "ini": 46174,
+   "fin": 46177,
+   "texto": "163"
+  },
+  {
+   "tipo": "persName",
+   "ini": 46196,
+   "fin": 46211,
+   "texto": "Bliss Parkinson"
+  },
+  {
+   "tipo": "idno",
+   "ini": 46213,
+   "fin": 46219,
+   "texto": "659.59"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46231,
+   "fin": 46330
+  },
+  {
+   "tipo": "work",
+   "ini": 46231,
+   "fin": 46321,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "North. 1961—62. Oil on canvas, 69\" x 6' 5\" (175.3 x 195.6 cm). Gift of Musa Guston. 365.91"
+  },
+  {
+   "tipo": "title",
+   "ini": 46231,
+   "fin": 46236,
+   "texto": "North"
+  },
+  {
+   "tipo": "date",
+   "ini": 46238,
+   "fin": 46245,
+   "rasgos": {
+    "from": "1961",
+    "to": "1962"
+   },
+   "texto": "1961—62"
+  },
+  {
+   "tipo": "technique",
+   "ini": 46247,
+   "fin": 46260,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Oil on canvas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46262,
+   "fin": 46273,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "69\" x 6' 5\""
+  },
+  {
+   "tipo": "height",
+   "ini": 46262,
+   "fin": 46265,
+   "texto": "69\""
+  },
+  {
+   "tipo": "width",
+   "ini": 46268,
+   "fin": 46273,
+   "texto": "6' 5\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46275,
+   "fin": 46291,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "175.3 x 195.6 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 46275,
+   "fin": 46280,
+   "texto": "175.3"
+  },
+  {
+   "tipo": "width",
+   "ini": 46283,
+   "fin": 46288,
+   "texto": "195.6"
+  },
+  {
+   "tipo": "persName",
+   "ini": 46302,
+   "fin": 46313,
+   "texto": "Musa Guston"
+  },
+  {
+   "tipo": "idno",
+   "ini": 46315,
+   "fin": 46321,
+   "texto": "365.91"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46333,
+   "fin": 46445
+  },
+  {
+   "tipo": "work",
+   "ini": 46333,
+   "fin": 46432,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "City Limits. 1969. Oil on canvas, 6' 5\" x 8' 7 1/4\" (195.6 x 262.2 cm). Gift of Musa Guston. 363.91"
+  },
+  {
+   "tipo": "title",
+   "ini": 46333,
+   "fin": 46344,
+   "texto": "City Limits"
+  },
+  {
+   "tipo": "date",
+   "ini": 46346,
+   "fin": 46350,
+   "rasgos": {
+    "when": "1969"
+   },
+   "texto": "1969"
+  },
+  {
+   "tipo": "technique",
+   "ini": 46352,
+   "fin": 46365,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Oil on canvas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46367,
+   "fin": 46384,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "6' 5\" x 8' 7 1/4\""
+  },
+  {
+   "tipo": "height",
+   "ini": 46367,
+   "fin": 46372,
+   "texto": "6' 5\""
+  },
+  {
+   "tipo": "width",
+   "ini": 46375,
+   "fin": 46384,
+   "texto": "8' 7 1/4\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46386,
+   "fin": 46402,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "195.6 x 262.2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 46386,
+   "fin": 46391,
+   "texto": "195.6"
+  },
+  {
+   "tipo": "width",
+   "ini": 46394,
+   "fin": 46399,
+   "texto": "262.2"
+  },
+  {
+   "tipo": "persName",
+   "ini": 46413,
+   "fin": 46424,
+   "texto": "Musa Guston"
+  },
+  {
+   "tipo": "idno",
+   "ini": 46426,
+   "fin": 46432,
+   "texto": "363.91"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46448,
+   "fin": 46564
+  },
+  {
+   "tipo": "work",
+   "ini": 46448,
+   "fin": 46555,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Untitled. 1969. Synthetic polymer paint on panel, 30 x 32\" (76.2 x 81.2 cm). Bequest of Musa Guston. 201.92"
+  },
+  {
+   "tipo": "title",
+   "ini": 46448,
+   "fin": 46456,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 46458,
+   "fin": 46462,
+   "rasgos": {
+    "when": "1969"
+   },
+   "texto": "1969"
+  },
+  {
+   "tipo": "technique",
+   "ini": 46464,
+   "fin": 46496,
+   "rasgos": {
+    "type": "paint"
+   },
+   "texto": "Synthetic polymer paint on panel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46498,
+   "fin": 46506,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "30 x 32\""
+  },
+  {
+   "tipo": "height",
+   "ini": 46498,
+   "fin": 46500,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 46503,
+   "fin": 46506,
+   "texto": "32\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46508,
+   "fin": 46522,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "76.2 x 81.2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 46508,
+   "fin": 46512,
+   "texto": "76.2"
+  },
+  {
+   "tipo": "width",
+   "ini": 46515,
+   "fin": 46519,
+   "texto": "81.2"
+  },
+  {
+   "tipo": "persName",
+   "ini": 46536,
+   "fin": 46547,
+   "texto": "Musa Guston"
+  },
+  {
+   "tipo": "idno",
+   "ini": 46549,
+   "fin": 46555,
+   "texto": "201.92"
+  },
+  {
+   "tipo": "persName",
+   "ini": 46667,
+   "fin": 46680,
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46683,
+   "fin": 46783
+  },
+  {
+   "tipo": "work",
+   "ini": 46683,
+   "fin": 46774,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Head. 1977. Oil on canvas, 69 1/2\" x 7' 1\" (176.5 x 215.9 cm Bequest of Musa Guston. 200.92"
+  },
+  {
+   "tipo": "title",
+   "ini": 46683,
+   "fin": 46687,
+   "texto": "Head"
+  },
+  {
+   "tipo": "date",
+   "ini": 46689,
+   "fin": 46693,
+   "rasgos": {
+    "when": "1977"
+   },
+   "texto": "1977"
+  },
+  {
+   "tipo": "technique",
+   "ini": 46695,
+   "fin": 46708,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Oil on canvas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46710,
+   "fin": 46725,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "69 1/2\" x 7' 1\""
+  },
+  {
+   "tipo": "height",
+   "ini": 46710,
+   "fin": 46717,
+   "texto": "69 1/2\""
+  },
+  {
+   "tipo": "width",
+   "ini": 46720,
+   "fin": 46725,
+   "texto": "7' 1\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46727,
+   "fin": 46743,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "176.5 x 215.9 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 46727,
+   "fin": 46732,
+   "texto": "176.5"
+  },
+  {
+   "tipo": "width",
+   "ini": 46735,
+   "fin": 46740,
+   "texto": "215.9"
+  },
+  {
+   "tipo": "persName",
+   "ini": 46755,
+   "fin": 46766,
+   "texto": "Musa Guston"
+  },
+  {
+   "tipo": "idno",
+   "ini": 46768,
+   "fin": 46774,
+   "texto": "200.92"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46786,
+   "fin": 46970
+  },
+  {
+   "tipo": "work",
+   "ini": 46786,
+   "fin": 46961,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Tomb. 1978. Oil on canvas, 6' 6 1/8\" x 6' 1 3/4 ' (198.4 x 187.6 cm). Acquired through the A. Conger Goodyear and Elizabeth Bliss Parkinson Funds and gift of the artist. 60.81"
+  },
+  {
+   "tipo": "title",
+   "ini": 46786,
+   "fin": 46790,
+   "texto": "Tomb"
+  },
+  {
+   "tipo": "date",
+   "ini": 46792,
+   "fin": 46796,
+   "rasgos": {
+    "when": "1978"
+   },
+   "texto": "1978"
+  },
+  {
+   "tipo": "technique",
+   "ini": 46798,
+   "fin": 46811,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Oil on canvas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46813,
+   "fin": 46835,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "6' 6 1/8\" x 6' 1 3/4 '"
+  },
+  {
+   "tipo": "height",
+   "ini": 46813,
+   "fin": 46822,
+   "texto": "6' 6 1/8\""
+  },
+  {
+   "tipo": "width",
+   "ini": 46825,
+   "fin": 46835,
+   "texto": "6' 1 3/4 '"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46837,
+   "fin": 46853,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "198.4 x 187.6 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 46837,
+   "fin": 46842,
+   "texto": "198.4"
+  },
+  {
+   "tipo": "width",
+   "ini": 46845,
+   "fin": 46850,
+   "texto": "187.6"
+  },
+  {
+   "tipo": "persName",
+   "ini": 46877,
+   "fin": 46895,
+   "texto": "A. Conger Goodyear"
+  },
+  {
+   "tipo": "persName",
+   "ini": 46900,
+   "fin": 46925,
+   "texto": "Elizabeth Bliss Parkinson"
+  },
+  {
+   "tipo": "person",
+   "ini": 46944,
+   "fin": 46954,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "the artist"
+  },
+  {
+   "tipo": "idno",
+   "ini": 46956,
+   "fin": 46961,
+   "texto": "60.81"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46973,
+   "fin": 47085
+  },
+  {
+   "tipo": "work",
+   "ini": 46973,
+   "fin": 47076,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Box and Shadow. 1978. Oil on canvas, 6 1/8\" x 8' 2 5/8\" (175.6 x 250.5 cm). Gift of Musa Guston. 362.91"
+  },
+  {
+   "tipo": "title",
+   "ini": 46973,
+   "fin": 46987,
+   "texto": "Box and Shadow"
+  },
+  {
+   "tipo": "date",
+   "ini": 46989,
+   "fin": 46993,
+   "rasgos": {
+    "when": "1978"
+   },
+   "texto": "1978"
+  },
+  {
+   "tipo": "technique",
+   "ini": 46995,
+   "fin": 47008,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Oil on canvas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47010,
+   "fin": 47028,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "6 1/8\" x 8' 2 5/8\""
+  },
+  {
+   "tipo": "height",
+   "ini": 47010,
+   "fin": 47016,
+   "texto": "6 1/8\""
+  },
+  {
+   "tipo": "width",
+   "ini": 47019,
+   "fin": 47028,
+   "texto": "8' 2 5/8\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47030,
+   "fin": 47046,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "175.6 x 250.5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 47030,
+   "fin": 47035,
+   "texto": "175.6"
+  },
+  {
+   "tipo": "width",
+   "ini": 47038,
+   "fin": 47043,
+   "texto": "250.5"
+  },
+  {
+   "tipo": "persName",
+   "ini": 47057,
+   "fin": 47068,
+   "texto": "Musa Guston"
+  },
+  {
+   "tipo": "idno",
+   "ini": 47070,
+   "fin": 47076,
+   "texto": "362.91"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 47088,
+   "fin": 47190
+  },
+  {
+   "tipo": "work",
+   "ini": 47088,
+   "fin": 47181,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "East Coker T.S.E. 1979. Oil on canvas, 42 x 48\" (106.7 x 122 cm). Gift of Musa Guston. 364.91"
+  },
+  {
+   "tipo": "title",
+   "ini": 47088,
+   "fin": 47105,
+   "texto": "East Coker T.S.E."
+  },
+  {
+   "tipo": "date",
+   "ini": 47106,
+   "fin": 47110,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "technique",
+   "ini": 47112,
+   "fin": 47125,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Oil on canvas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47127,
+   "fin": 47135,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "42 x 48\""
+  },
+  {
+   "tipo": "height",
+   "ini": 47127,
+   "fin": 47129,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 47132,
+   "fin": 47135,
+   "texto": "48\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47137,
+   "fin": 47151,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "106.7 x 122 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 47137,
+   "fin": 47142,
+   "texto": "106.7"
+  },
+  {
+   "tipo": "width",
+   "ini": 47145,
+   "fin": 47148,
+   "texto": "122"
+  },
+  {
+   "tipo": "persName",
+   "ini": 47162,
+   "fin": 47173,
+   "texto": "Musa Guston"
+  },
+  {
+   "tipo": "idno",
+   "ini": 47175,
+   "fin": 47181,
+   "texto": "364.91"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 47204,
+   "fin": 47310
+  },
+  {
+   "tipo": "work",
+   "ini": 47204,
+   "fin": 47302,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Untitled. (1955). Brush and ink, 17 3/4 x 22 7/8\" (58.1 x 45.1 cm). Gift of Herbert Ferber. 702.76"
+  },
+  {
+   "tipo": "title",
+   "ini": 47204,
+   "fin": 47212,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 47215,
+   "fin": 47219,
+   "rasgos": {
+    "when": "1955"
+   },
+   "texto": "1955"
+  },
+  {
+   "tipo": "technique",
+   "ini": 47222,
+   "fin": 47235,
+   "rasgos": {
+    "type": "paint, ink"
+   },
+   "texto": "Brush and ink"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47237,
+   "fin": 47253,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "17 3/4 x 22 7/8\""
+  },
+  {
+   "tipo": "height",
+   "ini": 47237,
+   "fin": 47243,
+   "texto": "17 3/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 47246,
+   "fin": 47253,
+   "texto": "22 7/8\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47255,
+   "fin": 47269,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "58.1 x 45.1 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 47255,
+   "fin": 47259,
+   "texto": "58.1"
+  },
+  {
+   "tipo": "width",
+   "ini": 47262,
+   "fin": 47266,
+   "texto": "45.1"
+  },
+  {
+   "tipo": "persName",
+   "ini": 47280,
+   "fin": 47294,
+   "texto": "Herbert Ferber"
+  },
+  {
+   "tipo": "idno",
+   "ini": 47296,
+   "fin": 47302,
+   "texto": "702.76"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 47313,
+   "fin": 47410
+  },
+  {
+   "tipo": "work",
+   "ini": 47313,
+   "fin": 47401,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Head — Double View. 1958. Brush and ink, 20 x 24 7/8\" (50.7 x 63.2 cm). Purchase. 130.84"
+  },
+  {
+   "tipo": "title",
+   "ini": 47313,
+   "fin": 47331,
+   "texto": "Head — Double View"
+  },
+  {
+   "tipo": "date",
+   "ini": 47333,
+   "fin": 47337,
+   "rasgos": {
+    "when": "1958"
+   },
+   "texto": "1958"
+  },
+  {
+   "tipo": "technique",
+   "ini": 47339,
+   "fin": 47352,
+   "rasgos": {
+    "type": "paint, ink"
+   },
+   "texto": "Brush and ink"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47354,
+   "fin": 47366,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "20 x 24 7/8\""
+  },
+  {
+   "tipo": "height",
+   "ini": 47354,
+   "fin": 47356,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 47359,
+   "fin": 47366,
+   "texto": "24 7/8\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47368,
+   "fin": 47382,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50.7 x 63.2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 47368,
+   "fin": 47372,
+   "texto": "50.7"
+  },
+  {
+   "tipo": "width",
+   "ini": 47375,
+   "fin": 47379,
+   "texto": "63.2"
+  },
+  {
+   "tipo": "idno",
+   "ini": 47395,
+   "fin": 47401,
+   "texto": "130.84"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 47413,
+   "fin": 47499
+  },
+  {
+   "tipo": "work",
+   "ini": 47413,
+   "fin": 47487,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Wrapped. 1969. Pastel, 17 1/4 x 21 1/2\" (43.7 x 54.4 cm). Purchase. 305.83"
+  },
+  {
+   "tipo": "title",
+   "ini": 47413,
+   "fin": 47420,
+   "texto": "Wrapped"
+  },
+  {
+   "tipo": "date",
+   "ini": 47422,
+   "fin": 47426,
+   "rasgos": {
+    "when": "1969"
+   },
+   "texto": "1969"
+  },
+  {
+   "tipo": "technique",
+   "ini": 47428,
+   "fin": 47434,
+   "rasgos": {
+    "type": "pastel"
+   },
+   "texto": "Pastel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47436,
+   "fin": 47452,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "17 1/4 x 21 1/2\""
+  },
+  {
+   "tipo": "height",
+   "ini": 47436,
+   "fin": 47442,
+   "texto": "17 1/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 47445,
+   "fin": 47452,
+   "texto": "21 1/2\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47454,
+   "fin": 47468,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "43.7 x 54.4 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 47454,
+   "fin": 47458,
+   "texto": "43.7"
+  },
+  {
+   "tipo": "width",
+   "ini": 47461,
+   "fin": 47465,
+   "texto": "54.4"
+  },
+  {
+   "tipo": "idno",
+   "ini": 47481,
+   "fin": 47487,
+   "texto": "305.83"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 47502,
+   "fin": 47602
+  },
+  {
+   "tipo": "work",
+   "ini": 47502,
+   "fin": 47593,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Untitled (Rome, 1971). 1971. Oil, 22 x 30\" (55.9 x 76.2 cm). Bequest of Musa Guston. 202.92"
+  },
+  {
+   "tipo": "title",
+   "ini": 47502,
+   "fin": 47510,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 47518,
+   "fin": 47522,
+   "rasgos": {
+    "when": "1971"
+   },
+   "texto": "1971"
+  },
+  {
+   "tipo": "date",
+   "ini": 47525,
+   "fin": 47529,
+   "rasgos": {
+    "when": "1971"
+   },
+   "texto": "1971"
+  },
+  {
+   "tipo": "technique",
+   "ini": 47531,
+   "fin": 47534,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Oil"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47536,
+   "fin": 47544,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "22 x 30\""
+  },
+  {
+   "tipo": "height",
+   "ini": 47536,
+   "fin": 47538,
+   "texto": "22"
+  },
+  {
+   "tipo": "width",
+   "ini": 47541,
+   "fin": 47544,
+   "texto": "30\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47546,
+   "fin": 47560,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55.9 x 76.2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 47546,
+   "fin": 47550,
+   "texto": "55.9"
+  },
+  {
+   "tipo": "width",
+   "ini": 47553,
+   "fin": 47557,
+   "texto": "76.2"
+  },
+  {
+   "tipo": "persName",
+   "ini": 47574,
+   "fin": 47585,
+   "texto": "Musa Guston"
+  },
+  {
+   "tipo": "idno",
+   "ini": 47587,
+   "fin": 47593,
+   "texto": "202.92"
+  },
+  {
+   "tipo": "work",
+   "ini": 47605,
+   "fin": 47686,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Untitled. (1980). Brush and ink, 18 7/8 x 26 3/8 (48 x 67.1 cm). Purchase. 131.84"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 47605,
+   "fin": 47686
+  },
+  {
+   "tipo": "title",
+   "ini": 47605,
+   "fin": 47613,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 47616,
+   "fin": 47620,
+   "rasgos": {
+    "when": "1980"
+   },
+   "texto": "1980"
+  },
+  {
+   "tipo": "technique",
+   "ini": 47623,
+   "fin": 47636,
+   "rasgos": {
+    "type": "paint, ink"
+   },
+   "texto": "Brush and ink"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47638,
+   "fin": 47653,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "18 7/8 x 26 3/8"
+  },
+  {
+   "tipo": "height",
+   "ini": 47638,
+   "fin": 47644,
+   "texto": "18 7/8"
+  },
+  {
+   "tipo": "width",
+   "ini": 47647,
+   "fin": 47653,
+   "texto": "26 3/8"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47655,
+   "fin": 47667,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "48 x 67.1 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 47655,
+   "fin": 47657,
+   "texto": "48"
+  },
+  {
+   "tipo": "width",
+   "ini": 47660,
+   "fin": 47664,
+   "texto": "67.1"
+  },
+  {
+   "tipo": "idno",
+   "ini": 47680,
+   "fin": 47686,
+   "texto": "131.84"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 47689,
+   "fin": 47802
+  },
+  {
+   "tipo": "work",
+   "ini": 47689,
+   "fin": 47794,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Untitled. (1980). Synthetic polymer paint and ink, 23 x 29\" (58.4 x 73.6 cm). Gift of Musa Guston. 620.87"
+  },
+  {
+   "tipo": "title",
+   "ini": 47689,
+   "fin": 47697,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 47700,
+   "fin": 47704,
+   "rasgos": {
+    "when": "1980"
+   },
+   "texto": "1980"
+  },
+  {
+   "tipo": "technique",
+   "ini": 47707,
+   "fin": 47738,
+   "rasgos": {
+    "type": "paint, ink"
+   },
+   "texto": "Synthetic polymer paint and ink"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47740,
+   "fin": 47748,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "23 x 29\""
+  },
+  {
+   "tipo": "height",
+   "ini": 47740,
+   "fin": 47742,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 47745,
+   "fin": 47748,
+   "texto": "29\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47750,
+   "fin": 47764,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "58.4 x 73.6 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 47750,
+   "fin": 47754,
+   "texto": "58.4"
+  },
+  {
+   "tipo": "width",
+   "ini": 47757,
+   "fin": 47761,
+   "texto": "73.6"
+  },
+  {
+   "tipo": "persName",
+   "ini": 47775,
+   "fin": 47786,
+   "texto": "Musa Guston"
+  },
+  {
+   "tipo": "idno",
+   "ini": 47788,
+   "fin": 47794,
+   "texto": "620.87"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 47805,
+   "fin": 47919
+  },
+  {
+   "tipo": "work",
+   "ini": 47805,
+   "fin": 47910,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Untitled. (1980). Synthetic polymer paint and ink, 23 x 29\" (58.4 x 73.6 cm). Gift of Musa Guston. 621.87"
+  },
+  {
+   "tipo": "title",
+   "ini": 47805,
+   "fin": 47813,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 47816,
+   "fin": 47820,
+   "rasgos": {
+    "when": "1980"
+   },
+   "texto": "1980"
+  },
+  {
+   "tipo": "technique",
+   "ini": 47823,
+   "fin": 47854,
+   "rasgos": {
+    "type": "paint, ink"
+   },
+   "texto": "Synthetic polymer paint and ink"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47856,
+   "fin": 47864,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "23 x 29\""
+  },
+  {
+   "tipo": "height",
+   "ini": 47856,
+   "fin": 47858,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 47861,
+   "fin": 47864,
+   "texto": "29\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47866,
+   "fin": 47880,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "58.4 x 73.6 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 47866,
+   "fin": 47870,
+   "texto": "58.4"
+  },
+  {
+   "tipo": "width",
+   "ini": 47873,
+   "fin": 47877,
+   "texto": "73.6"
+  },
+  {
+   "tipo": "persName",
+   "ini": 47891,
+   "fin": 47902,
+   "texto": "Musa Guston"
+  },
+  {
+   "tipo": "idno",
+   "ini": 47904,
+   "fin": 47910,
+   "texto": "621.87"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47992,
+   "fin": 48006,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50.8 x 76.2 cm"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48017,
+   "fin": 48028,
+   "texto": "Musa Guston"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 48031,
+   "fin": 48157
+  },
+  {
+   "tipo": "work",
+   "ini": 48031,
+   "fin": 48145,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Untitled. (1980). Synthetic polymer paint and ink on board, 20 x 30\" (50.8 x 76.2 cm). Gift of Musa Guston. 622.87"
+  },
+  {
+   "tipo": "title",
+   "ini": 48031,
+   "fin": 48039,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 48042,
+   "fin": 48046,
+   "rasgos": {
+    "when": "1980"
+   },
+   "texto": "1980"
+  },
+  {
+   "tipo": "technique",
+   "ini": 48049,
+   "fin": 48089,
+   "rasgos": {
+    "type": "paint, ink"
+   },
+   "texto": "Synthetic polymer paint and ink on board"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 48091,
+   "fin": 48099,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "20 x 30\""
+  },
+  {
+   "tipo": "height",
+   "ini": 48091,
+   "fin": 48093,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 48096,
+   "fin": 48099,
+   "texto": "30\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 48101,
+   "fin": 48115,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50.8 x 76.2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 48101,
+   "fin": 48105,
+   "texto": "50.8"
+  },
+  {
+   "tipo": "width",
+   "ini": 48108,
+   "fin": 48112,
+   "texto": "76.2"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48126,
+   "fin": 48137,
+   "texto": "Musa Guston"
+  },
+  {
+   "tipo": "idno",
+   "ini": 48139,
+   "fin": 48145,
+   "texto": "622.87"
+  },
+  {
+   "tipo": "work",
+   "ini": 48160,
+   "fin": 48274,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Untitled. (1980). Synthetic polymer paint and ink on board, 20 x 30\" (50.8 x 76.2 cm). Gift of Musa Guston. 623.87"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 48160,
+   "fin": 48274
+  },
+  {
+   "tipo": "title",
+   "ini": 48160,
+   "fin": 48168,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 48171,
+   "fin": 48175,
+   "rasgos": {
+    "when": "1980"
+   },
+   "texto": "1980"
+  },
+  {
+   "tipo": "technique",
+   "ini": 48178,
+   "fin": 48218,
+   "rasgos": {
+    "type": "paint, ink"
+   },
+   "texto": "Synthetic polymer paint and ink on board"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 48220,
+   "fin": 48228,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "20 x 30\""
+  },
+  {
+   "tipo": "height",
+   "ini": 48220,
+   "fin": 48222,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 48225,
+   "fin": 48228,
+   "texto": "30\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 48230,
+   "fin": 48244,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50.8 x 76.2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 48230,
+   "fin": 48234,
+   "texto": "50.8"
+  },
+  {
+   "tipo": "width",
+   "ini": 48237,
+   "fin": 48241,
+   "texto": "76.2"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48255,
+   "fin": 48266,
+   "texto": "Musa Guston"
+  },
+  {
+   "tipo": "idno",
+   "ini": 48268,
+   "fin": 48274,
+   "texto": "623.87"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 48277,
+   "fin": 48400
+  },
+  {
+   "tipo": "work",
+   "ini": 48277,
+   "fin": 48391,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Untitled. (1980). Synthetic polymer paint and ink on board, 20 x 30\" (50.8 x 76.2 cm). Gift of Musa Guston. 624.87"
+  },
+  {
+   "tipo": "title",
+   "ini": 48277,
+   "fin": 48285,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 48288,
+   "fin": 48292,
+   "rasgos": {
+    "when": "1980"
+   },
+   "texto": "1980"
+  },
+  {
+   "tipo": "technique",
+   "ini": 48295,
+   "fin": 48335,
+   "rasgos": {
+    "type": "paint, ink"
+   },
+   "texto": "Synthetic polymer paint and ink on board"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 48337,
+   "fin": 48345,
+   "rasgos": {
+    "unit ": "inches "
+   },
+   "texto": "20 x 30\""
+  },
+  {
+   "tipo": "height",
+   "ini": 48337,
+   "fin": 48339,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 48342,
+   "fin": 48345,
+   "texto": "30\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 48347,
+   "fin": 48361,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50.8 x 76.2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 48347,
+   "fin": 48351,
+   "texto": "50.8"
+  },
+  {
+   "tipo": "width",
+   "ini": 48354,
+   "fin": 48358,
+   "texto": "76.2"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48372,
+   "fin": 48383,
+   "texto": "Musa Guston"
+  },
+  {
+   "tipo": "idno",
+   "ini": 48385,
+   "fin": 48391,
+   "texto": "624.87"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 48403,
+   "fin": 48533
+  },
+  {
+   "tipo": "work",
+   "ini": 48403,
+   "fin": 48524,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Untitled. (1980). Synthetic polymer paint and ink on board, 20 x 30\" (50.8 x 76.2 cm). Gift of Mrs. Philip Guston. 318.89"
+  },
+  {
+   "tipo": "title",
+   "ini": 48403,
+   "fin": 48411,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 48414,
+   "fin": 48418,
+   "rasgos": {
+    "when": "1980"
+   },
+   "texto": "1980"
+  },
+  {
+   "tipo": "technique",
+   "ini": 48421,
+   "fin": 48461,
+   "rasgos": {
+    "type": "paint, ink"
+   },
+   "texto": "Synthetic polymer paint and ink on board"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 48463,
+   "fin": 48471,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "20 x 30\""
+  },
+  {
+   "tipo": "height",
+   "ini": 48463,
+   "fin": 48465,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 48468,
+   "fin": 48471,
+   "texto": "30\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 48473,
+   "fin": 48487,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50.8 x 76.2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 48473,
+   "fin": 48477,
+   "texto": "50.8"
+  },
+  {
+   "tipo": "width",
+   "ini": 48480,
+   "fin": 48484,
+   "texto": "76.2"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48503,
+   "fin": 48516,
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "idno",
+   "ini": 48518,
+   "fin": 48524,
+   "texto": "318.89"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 48536,
+   "fin": 48666
+  },
+  {
+   "tipo": "work",
+   "ini": 48536,
+   "fin": 48657,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Untitled. (1980). Synthetic polymer paint and ink on board, 20 x 30\" (50.8 x 76.2 cm). Gift of Mrs. Philip Guston. 319.89"
+  },
+  {
+   "tipo": "title",
+   "ini": 48536,
+   "fin": 48544,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 48547,
+   "fin": 48551,
+   "rasgos": {
+    "when": "1980"
+   },
+   "texto": "1980"
+  },
+  {
+   "tipo": "technique",
+   "ini": 48554,
+   "fin": 48594,
+   "rasgos": {
+    "type": "paint, ink"
+   },
+   "texto": "Synthetic polymer paint and ink on board"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 48596,
+   "fin": 48604,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "20 x 30\""
+  },
+  {
+   "tipo": "height",
+   "ini": 48596,
+   "fin": 48598,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 48601,
+   "fin": 48604,
+   "texto": "30\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 48606,
+   "fin": 48620,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50.8 x 76.2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 48606,
+   "fin": 48610,
+   "texto": "50.8"
+  },
+  {
+   "tipo": "width",
+   "ini": 48613,
+   "fin": 48617,
+   "texto": "76.2"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48636,
+   "fin": 48649,
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "idno",
+   "ini": 48651,
+   "fin": 48657,
+   "texto": "319.89"
+  },
+  {
+   "tipo": "work",
+   "ini": 48669,
+   "fin": 48782,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Untitled. (1980). Synthetic polymer paint on board, 20 x 30\" (50.8 x 76.2 cm). Gift of Mrs. Philip Guston. 320.89"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 48669,
+   "fin": 48782
+  },
+  {
+   "tipo": "title",
+   "ini": 48669,
+   "fin": 48677,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 48680,
+   "fin": 48684,
+   "rasgos": {
+    "when": "1980"
+   },
+   "texto": "1980"
+  },
+  {
+   "tipo": "technique",
+   "ini": 48687,
+   "fin": 48719,
+   "rasgos": {
+    "type": "paint, ink"
+   },
+   "texto": "Synthetic polymer paint on board"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 48721,
+   "fin": 48729,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "20 x 30\""
+  },
+  {
+   "tipo": "height",
+   "ini": 48721,
+   "fin": 48723,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 48726,
+   "fin": 48729,
+   "texto": "30\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 48731,
+   "fin": 48745,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50.8 x 76.2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 48731,
+   "fin": 48735,
+   "texto": "50.8"
+  },
+  {
+   "tipo": "width",
+   "ini": 48738,
+   "fin": 48742,
+   "texto": "76.2"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48761,
+   "fin": 48774,
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "idno",
+   "ini": 48776,
+   "fin": 48782,
+   "texto": "320.89"
+  },
+  {
+   "tipo": "work",
+   "ini": 48785,
+   "fin": 48906,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Untitled. (1980). Synthetic polymer paint and ink on board, 20 x 30\" (50.8 x 76.2 cm). Gift of Mrs. Philip Guston. 321.89"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 48785,
+   "fin": 48906
+  },
+  {
+   "tipo": "title",
+   "ini": 48785,
+   "fin": 48793,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 48796,
+   "fin": 48800,
+   "rasgos": {
+    "when": "1980"
+   },
+   "texto": "1980"
+  },
+  {
+   "tipo": "technique",
+   "ini": 48803,
+   "fin": 48843,
+   "rasgos": {
+    "type": "paint, ink"
+   },
+   "texto": "Synthetic polymer paint and ink on board"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 48845,
+   "fin": 48853,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "20 x 30\""
+  },
+  {
+   "tipo": "height",
+   "ini": 48845,
+   "fin": 48847,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 48850,
+   "fin": 48853,
+   "texto": "30\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 48855,
+   "fin": 48869,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50.8 x 76.2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 48855,
+   "fin": 48859,
+   "texto": "50.8"
+  },
+  {
+   "tipo": "width",
+   "ini": 48862,
+   "fin": 48866,
+   "texto": "76.2"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48885,
+   "fin": 48898,
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "idno",
+   "ini": 48900,
+   "fin": 48906,
+   "texto": "321.89"
+  },
+  {
+   "tipo": "work",
+   "ini": 48909,
+   "fin": 49030,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Untitled. (1980). Synthetic polymer paint and ink on board, 20 x 30\" (50.8 x 76.2 cm). Gift of Mrs. Philip Guston. 322.89"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 48909,
+   "fin": 49030
+  },
+  {
+   "tipo": "title",
+   "ini": 48909,
+   "fin": 48917,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 48920,
+   "fin": 48924,
+   "rasgos": {
+    "when": "1980"
+   },
+   "texto": "1980"
+  },
+  {
+   "tipo": "technique",
+   "ini": 48927,
+   "fin": 48967,
+   "rasgos": {
+    "type": "paint, ink"
+   },
+   "texto": "Synthetic polymer paint and ink on board"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 48969,
+   "fin": 48977,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "20 x 30\""
+  },
+  {
+   "tipo": "height",
+   "ini": 48969,
+   "fin": 48971,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 48974,
+   "fin": 48977,
+   "texto": "30\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 48979,
+   "fin": 48993,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50.8 x 76.2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 48979,
+   "fin": 48983,
+   "texto": "50.8"
+  },
+  {
+   "tipo": "width",
+   "ini": 48986,
+   "fin": 48990,
+   "texto": "76.2"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49009,
+   "fin": 49022,
+   "texto": "Philip Guston"
+  },
+  {
+   "tipo": "idno",
+   "ini": 49024,
+   "fin": 49030,
+   "texto": "322.89"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 49064,
+   "fin": 49183
+  },
+  {
+   "tipo": "work",
+   "ini": 49064,
+   "fin": 49174,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Untitled. (June 20-26) 1963. Lithograph, 24 1/8 x 31 3/8 (62.5 x 79.7 cm). Gift of Kleiner, Bell & Co. 1095.67"
+  },
+  {
+   "tipo": "title",
+   "ini": 49064,
+   "fin": 49072,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 49074,
+   "fin": 49091,
+   "rasgos": {
+    "from": "1963-06-20",
+    "to": "1963-06-26"
+   },
+   "texto": "(June 20-26) 1963"
+  },
+  {
+   "tipo": "technique",
+   "ini": 49093,
+   "fin": 49103,
+   "rasgos": {
+    "type": "lithograph"
+   },
+   "texto": "Lithograph"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49105,
+   "fin": 49120,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "24 1/8 x 31 3/8"
+  },
+  {
+   "tipo": "height",
+   "ini": 49105,
+   "fin": 49111,
+   "texto": "24 1/8"
+  },
+  {
+   "tipo": "width",
+   "ini": 49114,
+   "fin": 49120,
+   "texto": "31 3/8"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49122,
+   "fin": 49136,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "62.5 x 79.7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 49122,
+   "fin": 49126,
+   "texto": "62.5"
+  },
+  {
+   "tipo": "width",
+   "ini": 49129,
+   "fin": 49133,
+   "texto": "79.7"
+  },
+  {
+   "tipo": "institution",
+   "ini": 49147,
+   "fin": 49165,
+   "rasgos": {
+    "type": "company"
+   },
+   "texto": "Kleiner, Bell & Co"
+  },
+  {
+   "tipo": "idno",
+   "ini": 49167,
+   "fin": 49174,
+   "texto": "1095.67"
+  },
+  {
+   "tipo": "work",
+   "ini": 49186,
+   "fin": 49296,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Untitled. (June 20-26) 1963. Lithograph, 21 1/4 x 28 3/16\" (54 x 71.5 cm). Gift of Kleiner, Bell & Co. 1096.67"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 49186,
+   "fin": 49296
+  },
+  {
+   "tipo": "title",
+   "ini": 49186,
+   "fin": 49194,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 49196,
+   "fin": 49213,
+   "rasgos": {
+    "from": "1963-06-20",
+    "to": "1963-06-26"
+   },
+   "texto": "(June 20-26) 1963"
+  },
+  {
+   "tipo": "technique",
+   "ini": 49215,
+   "fin": 49225,
+   "rasgos": {
+    "type": "lithograph"
+   },
+   "texto": "Lithograph"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49227,
+   "fin": 49244,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "21 1/4 x 28 3/16\""
+  },
+  {
+   "tipo": "height",
+   "ini": 49227,
+   "fin": 49233,
+   "texto": "21 1/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 49236,
+   "fin": 49244,
+   "texto": "28 3/16\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49246,
+   "fin": 49258,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "54 x 71.5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 49246,
+   "fin": 49248,
+   "texto": "54"
+  },
+  {
+   "tipo": "width",
+   "ini": 49251,
+   "fin": 49255,
+   "texto": "71.5"
+  },
+  {
+   "tipo": "institution",
+   "ini": 49269,
+   "fin": 49287,
+   "rasgos": {
+    "type": "company"
+   },
+   "texto": "Kleiner, Bell & Co"
+  },
+  {
+   "tipo": "idno",
+   "ini": 49289,
+   "fin": 49296,
+   "texto": "1096.67"
+  },
+  {
+   "tipo": "work",
+   "ini": 49299,
+   "fin": 49477,
+   "rasgos": {
+    "type": "book"
+   },
+   "texto": "August 1965 from the series Four on Plexiglas. (1965, published 1966). Screenprint, printed in color on Plexiglas, 29 15/16 x 39 7/8 (76 x 101.3 cm). Gift of Lester Avnet. 649.66"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 49299,
+   "fin": 49477
+  },
+  {
+   "tipo": "title",
+   "ini": 49299,
+   "fin": 49344,
+   "texto": "August 1965 from the series Four on Plexiglas"
+  },
+  {
+   "tipo": "date",
+   "ini": 49347,
+   "fin": 49351,
+   "rasgos": {
+    "when": "1965"
+   },
+   "texto": "1965"
+  },
+  {
+   "tipo": "date",
+   "ini": 49363,
+   "fin": 49367,
+   "rasgos": {
+    "when": "1966"
+   },
+   "texto": "1966"
+  },
+  {
+   "tipo": "technique",
+   "ini": 49370,
+   "fin": 49412,
+   "rasgos": {
+    "type": "screenprint"
+   },
+   "texto": "Screenprint, printed in color on Plexiglas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49414,
+   "fin": 49431,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "29 15/16 x 39 7/8"
+  },
+  {
+   "tipo": "height",
+   "ini": 49414,
+   "fin": 49422,
+   "texto": "29 15/16"
+  },
+  {
+   "tipo": "width",
+   "ini": 49425,
+   "fin": 49431,
+   "texto": "39 7/8"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49433,
+   "fin": 49446,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "76 x 101.3 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 49433,
+   "fin": 49435,
+   "texto": "76"
+  },
+  {
+   "tipo": "width",
+   "ini": 49438,
+   "fin": 49443,
+   "texto": "101.3"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49457,
+   "fin": 49469,
+   "texto": "Lester Avnet"
+  },
+  {
+   "tipo": "idno",
+   "ini": 49471,
+   "fin": 49477,
+   "texto": "649.66"
+  },
+  {
+   "tipo": "work",
+   "ini": 49560,
+   "fin": 49652,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Untitled. 1966. Lithograph, 19 13/16 x 29 5/8\" (50.3 x 75.2 cm). John B. Turner Fund. 650.66"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 49560,
+   "fin": 49652
+  },
+  {
+   "tipo": "title",
+   "ini": 49560,
+   "fin": 49568,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 49570,
+   "fin": 49574,
+   "rasgos": {
+    "when": "1966"
+   },
+   "texto": "1966"
+  },
+  {
+   "tipo": "technique",
+   "ini": 49576,
+   "fin": 49586,
+   "rasgos": {
+    "type": "lithograph"
+   },
+   "texto": "Lithograph"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49588,
+   "fin": 49606,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "19 13/16 x 29 5/8\""
+  },
+  {
+   "tipo": "height",
+   "ini": 49588,
+   "fin": 49596,
+   "texto": "19 13/16"
+  },
+  {
+   "tipo": "width",
+   "ini": 49599,
+   "fin": 49606,
+   "texto": "29 5/8\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49608,
+   "fin": 49622,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50.3 x 75.2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 49608,
+   "fin": 49612,
+   "texto": "50.3"
+  },
+  {
+   "tipo": "width",
+   "ini": 49615,
+   "fin": 49619,
+   "texto": "75.2"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49625,
+   "fin": 49639,
+   "texto": "John B. Turner"
+  },
+  {
+   "tipo": "idno",
+   "ini": 49646,
+   "fin": 49652,
+   "texto": "650.66"
+  },
+  {
+   "tipo": "work",
+   "ini": 49655,
+   "fin": 49750,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Nice. 1966. Lithograph, 18 1/4\" x 25 5/8\" (46.3 x 65.1 cm). Abby Aldrich Rockefeller Fund. 6.86"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 49655,
+   "fin": 49750
+  },
+  {
+   "tipo": "title",
+   "ini": 49655,
+   "fin": 49659,
+   "texto": "Nice"
+  },
+  {
+   "tipo": "date",
+   "ini": 49661,
+   "fin": 49665,
+   "rasgos": {
+    "when": "1966"
+   },
+   "texto": "1966"
+  },
+  {
+   "tipo": "technique",
+   "ini": 49667,
+   "fin": 49677,
+   "rasgos": {
+    "type": "lithograph"
+   },
+   "texto": "Lithograph"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49679,
+   "fin": 49696,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "18 1/4\" x 25 5/8\""
+  },
+  {
+   "tipo": "height",
+   "ini": 49679,
+   "fin": 49686,
+   "texto": "18 1/4\""
+  },
+  {
+   "tipo": "width",
+   "ini": 49689,
+   "fin": 49696,
+   "texto": "25 5/8\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49698,
+   "fin": 49712,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46.3 x 65.1 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 49698,
+   "fin": 49702,
+   "texto": "46.3"
+  },
+  {
+   "tipo": "width",
+   "ini": 49705,
+   "fin": 49709,
+   "texto": "65.1"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49715,
+   "fin": 49739,
+   "texto": "Abby Aldrich Rockefeller"
+  },
+  {
+   "tipo": "idno",
+   "ini": 49746,
+   "fin": 49750,
+   "texto": "6.86"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 49753,
+   "fin": 49871
+  },
+  {
+   "tipo": "work",
+   "ini": 49753,
+   "fin": 49862,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Open Washes. 1966. Lithograph, 20 15/16 x 28 9/16 (51.6 x 72.6 cm). Gift of Associated American Artists. 7.86"
+  },
+  {
+   "tipo": "title",
+   "ini": 49753,
+   "fin": 49764,
+   "texto": "Open Washes"
+  },
+  {
+   "tipo": "date",
+   "ini": 49766,
+   "fin": 49770,
+   "rasgos": {
+    "when": "1966"
+   },
+   "texto": "1966"
+  },
+  {
+   "tipo": "technique",
+   "ini": 49772,
+   "fin": 49782,
+   "rasgos": {
+    "type": "lithograph"
+   },
+   "texto": "Lithograph"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49784,
+   "fin": 49802,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "20 15/16 x 28 9/16"
+  },
+  {
+   "tipo": "height",
+   "ini": 49784,
+   "fin": 49792,
+   "texto": "20 15/16"
+  },
+  {
+   "tipo": "width",
+   "ini": 49795,
+   "fin": 49802,
+   "texto": "28 9/16"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49804,
+   "fin": 49818,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "51.6 x 72.6 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 49804,
+   "fin": 49808,
+   "texto": "51.6"
+  },
+  {
+   "tipo": "width",
+   "ini": 49811,
+   "fin": 49815,
+   "texto": "72.6"
+  },
+  {
+   "tipo": "institution",
+   "ini": 49829,
+   "fin": 49856,
+   "rasgos": {
+    "type": "association"
+   },
+   "texto": "Associated American Artists"
+  },
+  {
+   "tipo": "idno",
+   "ini": 49858,
+   "fin": 49862,
+   "texto": "7.86"
+  },
+  {
+   "tipo": "work",
+   "ini": 49874,
+   "fin": 50083,
+   "rasgos": {
+    "type": "engraving"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 49874,
+   "fin": 50083
+  },
+  {
+   "tipo": "title",
+   "ini": 49874,
+   "fin": 49991,
+   "texto": "Sixteen drawings for Ode to Michael Goldberg (s Birth and Other Births) for In Memory of My Feelings by Frank O'Fiara"
+  },
+  {
+   "tipo": "date",
+   "ini": 49994,
+   "fin": 49998,
+   "rasgos": {
+    "when": ""
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "technique",
+   "ini": 50001,
+   "fin": 50015,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Ink on plastic"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 50023,
+   "fin": 50031,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "14 x 11\""
+  },
+  {
+   "tipo": "height",
+   "ini": 50023,
+   "fin": 50025,
+   "texto": "14"
+  },
+  {
+   "tipo": "width",
+   "ini": 50028,
+   "fin": 50031,
+   "texto": "11\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 50033,
+   "fin": 50047,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35.5 x 27.9 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 50033,
+   "fin": 50037,
+   "texto": "35.5"
+  },
+  {
+   "tipo": "width",
+   "ini": 50040,
+   "fin": 50044,
+   "texto": "27.9"
+  },
+  {
+   "tipo": "person",
+   "ini": 50058,
+   "fin": 50068,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "the artist"
+  },
+  {
+   "tipo": "idno",
+   "ini": 50070,
+   "fin": 50083,
+   "texto": "2202.67.20-35"
+  },
+  {
+   "tipo": "work",
+   "ini": 50086,
+   "fin": 50358,
+   "rasgos": {
+    "type": "book"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 50086,
+   "fin": 50358
+  },
+  {
+   "tipo": "title",
+   "ini": 50086,
+   "fin": 50198,
+   "texto": "Six plates for Ode to Michael Goldberg ('s Birth and Other Births) from In Memory of My Feelings by Frank O'Hara"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 50200,
+   "fin": 50208,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "institution",
+   "ini": 50210,
+   "fin": 50234,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "The Museum of Modern Art"
+  },
+  {
+   "tipo": "date",
+   "ini": 50236,
+   "fin": 50240,
+   "rasgos": {
+    "when": "1967"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "technique",
+   "ini": 50242,
+   "fin": 50258,
+   "rasgos": {
+    "type": "photolithograph"
+   },
+   "texto": "Photolithographs"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 50260,
+   "fin": 50267,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "12 x 9\""
+  },
+  {
+   "tipo": "height",
+   "ini": 50260,
+   "fin": 50262,
+   "texto": "12"
+  },
+  {
+   "tipo": "width",
+   "ini": 50265,
+   "fin": 50267,
+   "texto": "9\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 50269,
+   "fin": 50283,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30.5 x 27.9 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 50269,
+   "fin": 50273,
+   "texto": "30.5"
+  },
+  {
+   "tipo": "width",
+   "ini": 50276,
+   "fin": 50280,
+   "texto": "27.9"
+  },
+  {
+   "tipo": "institution",
+   "ini": 50294,
+   "fin": 50345,
+   "rasgos": {
+    "type": "museum"
+   },
+   "texto": "The Museum of Modern Art Department of Publications"
+  },
+  {
+   "tipo": "idno",
+   "ini": 50347,
+   "fin": 50358,
+   "texto": "92.68.26—31"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 50361,
+   "fin": 50535
+  },
+  {
+   "tipo": "work",
+   "ini": 50361,
+   "fin": 50527,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "The Street from the portfolio Ten Lithographs by Ten Artists. 1970 (published 1971). Lithograph, 19 15/16 x 26 3/8\" (50.7 x 67 cm). Gift of Dr. Samuel Mandel. 522.84."
+  },
+  {
+   "tipo": "title",
+   "ini": 50361,
+   "fin": 50421,
+   "texto": "The Street from the portfolio Ten Lithographs by Ten Artists"
+  },
+  {
+   "tipo": "date",
+   "ini": 50423,
+   "fin": 50427,
+   "rasgos": {
+    "when": "1970"
+   },
+   "texto": "1970"
+  },
+  {
+   "tipo": "date",
+   "ini": 50439,
+   "fin": 50443,
+   "rasgos": {
+    "when": "1971"
+   },
+   "texto": "1971"
+  },
+  {
+   "tipo": "technique",
+   "ini": 50446,
+   "fin": 50456,
+   "rasgos": {
+    "type": "lithograph"
+   },
+   "texto": "Lithograph"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 50458,
+   "fin": 50476,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "19 15/16 x 26 3/8\""
+  },
+  {
+   "tipo": "height",
+   "ini": 50458,
+   "fin": 50466,
+   "texto": "19 15/16"
+  },
+  {
+   "tipo": "width",
+   "ini": 50469,
+   "fin": 50476,
+   "texto": "26 3/8\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 50478,
+   "fin": 50490,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50.7 x 67 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 50478,
+   "fin": 50482,
+   "texto": "50.7"
+  },
+  {
+   "tipo": "width",
+   "ini": 50485,
+   "fin": 50487,
+   "texto": "67"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50505,
+   "fin": 50518,
+   "texto": "Samuel Mandel"
+  },
+  {
+   "tipo": "idno",
+   "ini": 50520,
+   "fin": 50526,
+   "texto": "522.84"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 50538,
+   "fin": 50632
+  },
+  {
+   "tipo": "work",
+   "ini": 50538,
+   "fin": 50624,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Coat. 1980. Lithograph, 23 3/4 x 37 5/8\" (60.3 x 95.6 cm). John B. Turner Fund. 155.81"
+  },
+  {
+   "tipo": "title",
+   "ini": 50538,
+   "fin": 50542,
+   "texto": "Coat"
+  },
+  {
+   "tipo": "date",
+   "ini": 50544,
+   "fin": 50548,
+   "rasgos": {
+    "when": "1980"
+   },
+   "texto": "1980"
+  },
+  {
+   "tipo": "technique",
+   "ini": 50550,
+   "fin": 50560,
+   "rasgos": {
+    "type": "lithograph"
+   },
+   "texto": "Lithograph"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 50562,
+   "fin": 50578,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "23 3/4 x 37 5/8\""
+  },
+  {
+   "tipo": "height",
+   "ini": 50562,
+   "fin": 50568,
+   "texto": "23 3/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 50571,
+   "fin": 50578,
+   "texto": "37 5/8\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 50580,
+   "fin": 50594,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60.3 x 95.6 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 50580,
+   "fin": 50584,
+   "texto": "60.3"
+  },
+  {
+   "tipo": "width",
+   "ini": 50587,
+   "fin": 50591,
+   "texto": "95.6"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50597,
+   "fin": 50611,
+   "texto": "John B. Turner"
+  },
+  {
+   "tipo": "idno",
+   "ini": 50618,
+   "fin": 50624,
+   "texto": "155.81"
+  },
+  {
+   "tipo": "work",
+   "ini": 50635,
+   "fin": 50740,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Room. 1980. Lithograph, 28 7/8 x 39 7/8\" (73.3 x 101.3 cm). Gift of Mr. and Mrs. Philip A. Straus. 156.81"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 50635,
+   "fin": 50740
+  },
+  {
+   "tipo": "title",
+   "ini": 50635,
+   "fin": 50639,
+   "texto": "Room"
+  },
+  {
+   "tipo": "date",
+   "ini": 50641,
+   "fin": 50645,
+   "rasgos": {
+    "when": "1980"
+   },
+   "texto": "1980"
+  },
+  {
+   "tipo": "technique",
+   "ini": 50647,
+   "fin": 50657,
+   "rasgos": {
+    "type": "lithograph"
+   },
+   "texto": "Lithograph"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 50659,
+   "fin": 50675,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "28 7/8 x 39 7/8\""
+  },
+  {
+   "tipo": "height",
+   "ini": 50659,
+   "fin": 50665,
+   "texto": "28 7/8"
+  },
+  {
+   "tipo": "width",
+   "ini": 50668,
+   "fin": 50675,
+   "texto": "39 7/8\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 50677,
+   "fin": 50692,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "73.3 x 101.3 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 50677,
+   "fin": 50681,
+   "texto": "73.3"
+  },
+  {
+   "tipo": "width",
+   "ini": 50684,
+   "fin": 50689,
+   "texto": "101.3"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50716,
+   "fin": 50732,
+   "texto": "Philip A. Straus"
+  },
+  {
+   "tipo": "idno",
+   "ini": 50734,
+   "fin": 50740,
+   "texto": "156.81"
+  },
+  {
+   "tipo": "work",
+   "ini": 50743,
+   "fin": 50955,
+   "rasgos": {
+    "type": "engraving"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 50743,
+   "fin": 50955
+  },
+  {
+   "tipo": "title",
+   "ini": 50743,
+   "fin": 50852,
+   "texto": "Remains from the portfolio Eight Lithographs to Benefit the Foundation for Contemporary Performance Arts, Inc"
+  },
+  {
+   "tipo": "date",
+   "ini": 50855,
+   "fin": 50859,
+   "rasgos": {
+    "when": "1980"
+   },
+   "texto": "1980"
+  },
+  {
+   "tipo": "date",
+   "ini": 50871,
+   "fin": 50875,
+   "rasgos": {
+    "when": "1981"
+   },
+   "texto": "1981"
+  },
+  {
+   "tipo": "technique",
+   "ini": 50878,
+   "fin": 50888,
+   "rasgos": {
+    "type": "lithograph"
+   },
+   "texto": "Lithograph"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 50890,
+   "fin": 50907,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "19 5/8 x 29 13/16"
+  },
+  {
+   "tipo": "height",
+   "ini": 50890,
+   "fin": 50896,
+   "texto": "19 5/8"
+  },
+  {
+   "tipo": "width",
+   "ini": 50899,
+   "fin": 50907,
+   "texto": "29 13/16"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 50909,
+   "fin": 50923,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "49.9 x 75.7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 50909,
+   "fin": 50913,
+   "texto": "49.9"
+  },
+  {
+   "tipo": "width",
+   "ini": 50916,
+   "fin": 50920,
+   "texto": "75.7"
+  },
+  {
+   "tipo": "institution",
+   "ini": 50926,
+   "fin": 50945,
+   "rasgos": {
+    "type": "association"
+   },
+   "texto": "The Associates Fund"
+  },
+  {
+   "tipo": "idno",
+   "ini": 50947,
+   "fin": 50955,
+   "texto": "421.87.2"
+  },
+  {
+   "tipo": "work",
+   "ini": 50958,
+   "fin": 51064,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Gulf. (1979, published 1983). Lithograph, 28 1/8 x 38 3/4\" (71.5 x 98.5 cm). Jeanne C. Thayer Fund. 352.87"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 50958,
+   "fin": 51064
+  },
+  {
+   "tipo": "title",
+   "ini": 50958,
+   "fin": 50962,
+   "texto": "Gulf"
+  },
+  {
+   "tipo": "date",
+   "ini": 50965,
+   "fin": 50969,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "date",
+   "ini": 50981,
+   "fin": 50985,
+   "rasgos": {
+    "when": "1983"
+   },
+   "texto": "1983"
+  },
+  {
+   "tipo": "technique",
+   "ini": 50988,
+   "fin": 50998,
+   "rasgos": {
+    "type": "lithograph"
+   },
+   "texto": "Lithograph"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 51000,
+   "fin": 51016,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "28 1/8 x 38 3/4\""
+  },
+  {
+   "tipo": "height",
+   "ini": 51000,
+   "fin": 51006,
+   "texto": "28 1/8"
+  },
+  {
+   "tipo": "width",
+   "ini": 51009,
+   "fin": 51016,
+   "texto": "38 3/4\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 51018,
+   "fin": 51032,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "71.5 x 98.5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 51018,
+   "fin": 51022,
+   "texto": "71.5"
+  },
+  {
+   "tipo": "width",
+   "ini": 51025,
+   "fin": 51029,
+   "texto": "98.5"
+  },
+  {
+   "tipo": "persName",
+   "ini": 51035,
+   "fin": 51051,
+   "texto": "Jeanne C. Thayer"
+  },
+  {
+   "tipo": "idno",
+   "ini": 51058,
+   "fin": 51064,
+   "texto": "352.87"
+  },
+  {
+   "tipo": "work",
+   "ini": 51067,
+   "fin": 51164,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Painter. (1979, published 1983). Lithograph, 29 1/2 x 39 13/16\" (75 x 101.2 cm). Purchase. 353.87"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 51067,
+   "fin": 51164
+  },
+  {
+   "tipo": "title",
+   "ini": 51067,
+   "fin": 51074,
+   "texto": "Painter"
+  },
+  {
+   "tipo": "date",
+   "ini": 51077,
+   "fin": 51081,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "date",
+   "ini": 51093,
+   "fin": 51097,
+   "rasgos": {
+    "when": "1983"
+   },
+   "texto": "1983"
+  },
+  {
+   "tipo": "technique",
+   "ini": 51100,
+   "fin": 51110,
+   "rasgos": {
+    "type": "lithograph"
+   },
+   "texto": "Lithograph"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 51112,
+   "fin": 51130,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "29 1/2 x 39 13/16\""
+  },
+  {
+   "tipo": "height",
+   "ini": 51112,
+   "fin": 51118,
+   "texto": "29 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 51121,
+   "fin": 51130,
+   "texto": "39 13/16\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 51132,
+   "fin": 51145,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "75 x 101.2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 51132,
+   "fin": 51134,
+   "texto": "75"
+  },
+  {
+   "tipo": "width",
+   "ini": 51137,
+   "fin": 51142,
+   "texto": "101.2"
+  },
+  {
+   "tipo": "idno",
+   "ini": 51158,
+   "fin": 51164,
+   "texto": "353.87"
+  }
+ ]
+}

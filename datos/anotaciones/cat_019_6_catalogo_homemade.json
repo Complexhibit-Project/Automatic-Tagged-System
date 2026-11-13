@@ -1,0 +1,2983 @@
+{
+ "id": "cat_019_6_catalogo_homemade",
+ "nombre_original": "6. catalogo homemade",
+ "longitud_texto": 5161,
+ "sha256_texto": "bd691b15a9183a0126ab35b49f5ea94797febfa825ea668261c9576851da7a1c",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 181,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 37,
+   "texto": "HOMEMADE. En la esencia de las cosas."
+  },
+  {
+   "tipo": "person",
+   "ini": 38,
+   "fin": 56,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Julia Santa Olalla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38,
+   "fin": 56,
+   "texto": "Julia Santa Olalla"
+  },
+  {
+   "tipo": "person",
+   "ini": 58,
+   "fin": 75,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Ruiz Pérez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 58,
+   "fin": 75,
+   "texto": "Javier Ruiz Pérez"
+  },
+  {
+   "tipo": "person",
+   "ini": 77,
+   "fin": 91,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Claudia Suarez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 77,
+   "fin": 91,
+   "texto": "Claudia Suarez"
+  },
+  {
+   "tipo": "person",
+   "ini": 93,
+   "fin": 106,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Daniel Franca"
+  },
+  {
+   "tipo": "persName",
+   "ini": 93,
+   "fin": 106,
+   "texto": "Daniel Franca"
+  },
+  {
+   "tipo": "person",
+   "ini": 108,
+   "fin": 120,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rosa Aguilar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 108,
+   "fin": 120,
+   "texto": "Rosa Aguilar"
+  },
+  {
+   "tipo": "person",
+   "ini": 122,
+   "fin": 138,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Barahona"
+  },
+  {
+   "tipo": "persName",
+   "ini": 122,
+   "fin": 138,
+   "texto": "Antonio Barahona"
+  },
+  {
+   "tipo": "person",
+   "ini": 140,
+   "fin": 151,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Laura Vinós"
+  },
+  {
+   "tipo": "persName",
+   "ini": 140,
+   "fin": 151,
+   "texto": "Laura Vinós"
+  },
+  {
+   "tipo": "date",
+   "ini": 152,
+   "fin": 169,
+   "rasgos": {
+    "from": "2020-06-25",
+    "to": "2020-09-19"
+   },
+   "texto": "25/6/20 - 19/9/20"
+  },
+  {
+   "tipo": "institution",
+   "ini": 171,
+   "fin": 181,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Di Gallery"
+  },
+  {
+   "tipo": "title",
+   "ini": 183,
+   "fin": 219,
+   "texto": "HOMEMADE\nEn la esencia de las cosas."
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 183,
+   "fin": 219,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 736,
+   "fin": 744,
+   "texto": "Homemade"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 736,
+   "fin": 744,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "persName",
+   "ini": 1674,
+   "fin": 1680,
+   "texto": "Platón"
+  },
+  {
+   "tipo": "person",
+   "ini": 2087,
+   "fin": 2096,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Juan Cruz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2087,
+   "fin": 2096,
+   "texto": "Juan Cruz"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 2127,
+   "fin": 2256,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 2127,
+   "fin": 2137,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Di Gallery"
+  },
+  {
+   "tipo": "title",
+   "ini": 2139,
+   "fin": 2147,
+   "texto": "HOMEMADE"
+  },
+  {
+   "tipo": "person",
+   "ini": 2149,
+   "fin": 2167,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Julia Santa Olalla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2149,
+   "fin": 2167,
+   "texto": "Julia Santa Olalla"
+  },
+  {
+   "tipo": "person",
+   "ini": 2168,
+   "fin": 2185,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Ruiz Pérez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2168,
+   "fin": 2185,
+   "texto": "Javier Ruiz Pérez"
+  },
+  {
+   "tipo": "person",
+   "ini": 2186,
+   "fin": 2200,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Claudia Suarez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2186,
+   "fin": 2200,
+   "texto": "Claudia Suarez"
+  },
+  {
+   "tipo": "person",
+   "ini": 2201,
+   "fin": 2227,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Daniel Franca\nRosa Aguilar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2201,
+   "fin": 2214,
+   "texto": "Daniel Franca"
+  },
+  {
+   "tipo": "person",
+   "ini": 2215,
+   "fin": 2227,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rosa Aguilar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2215,
+   "fin": 2227,
+   "texto": "Rosa Aguilar"
+  },
+  {
+   "tipo": "person",
+   "ini": 2228,
+   "fin": 2244,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Barahona"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2228,
+   "fin": 2244,
+   "texto": "Antonio Barahona"
+  },
+  {
+   "tipo": "person",
+   "ini": 2245,
+   "fin": 2256,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Laura Vinós"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2245,
+   "fin": 2256,
+   "texto": "Laura Vinós"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 2258,
+   "fin": 4570
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 2258,
+   "fin": 2464
+  },
+  {
+   "tipo": "person",
+   "ini": 2258,
+   "fin": 2276,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JULIA SANTA OLALLA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2258,
+   "fin": 2276,
+   "texto": "JULIA SANTA OLALLA"
+  },
+  {
+   "tipo": "img",
+   "ini": 2277,
+   "fin": 2282,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2284,
+   "fin": 2343
+  },
+  {
+   "tipo": "work",
+   "ini": 2284,
+   "fin": 2337,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Metal\nÓleo sobre lino\n61 x 47 cm + enmarcación\n2019.\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 2284,
+   "fin": 2289,
+   "texto": "Metal"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2290,
+   "fin": 2305,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lino"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2306,
+   "fin": 2330,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 47 cm + enmarcación"
+  },
+  {
+   "tipo": "height",
+   "ini": 2306,
+   "fin": 2308,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 2311,
+   "fin": 2313,
+   "texto": "47"
+  },
+  {
+   "tipo": "date",
+   "ini": 2331,
+   "fin": 2335,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 2338,
+   "fin": 2343,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2345,
+   "fin": 2401
+  },
+  {
+   "tipo": "work",
+   "ini": 2345,
+   "fin": 2394,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ST\nÓleo sobre lino\n61 x 47 cm + enmarcación\n2019."
+  },
+  {
+   "tipo": "title",
+   "ini": 2345,
+   "fin": 2347,
+   "texto": "ST"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2348,
+   "fin": 2363,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lino"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2364,
+   "fin": 2388,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 47 cm + enmarcación"
+  },
+  {
+   "tipo": "height",
+   "ini": 2364,
+   "fin": 2366,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 2369,
+   "fin": 2371,
+   "texto": "47"
+  },
+  {
+   "tipo": "date",
+   "ini": 2389,
+   "fin": 2393,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 2396,
+   "fin": 2401,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2403,
+   "fin": 2464
+  },
+  {
+   "tipo": "work",
+   "ini": 2403,
+   "fin": 2457,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Cristal\nÓleo sobre lino\n61 x 47 cm + enmarcación\n2019."
+  },
+  {
+   "tipo": "title",
+   "ini": 2403,
+   "fin": 2410,
+   "texto": "Cristal"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2411,
+   "fin": 2426,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lino"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2427,
+   "fin": 2451,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 47 cm + enmarcación"
+  },
+  {
+   "tipo": "height",
+   "ini": 2427,
+   "fin": 2429,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 2432,
+   "fin": 2434,
+   "texto": "47"
+  },
+  {
+   "tipo": "date",
+   "ini": 2452,
+   "fin": 2456,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 2459,
+   "fin": 2464,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 2466,
+   "fin": 3276
+  },
+  {
+   "tipo": "person",
+   "ini": 2466,
+   "fin": 2483,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JAVIER RUIZ PÉREZ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2466,
+   "fin": 2483,
+   "texto": "JAVIER RUIZ PÉREZ"
+  },
+  {
+   "tipo": "img",
+   "ini": 2484,
+   "fin": 2489,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2491,
+   "fin": 2544
+  },
+  {
+   "tipo": "work",
+   "ini": 2491,
+   "fin": 2537,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin Título\nÓleo sobre lienzo\n130 x 190 cm\n2020"
+  },
+  {
+   "tipo": "title",
+   "ini": 2491,
+   "fin": 2501,
+   "texto": "Sin Título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2502,
+   "fin": 2519,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2520,
+   "fin": 2532,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 190 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2520,
+   "fin": 2523,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 2526,
+   "fin": 2529,
+   "texto": "190"
+  },
+  {
+   "tipo": "date",
+   "ini": 2533,
+   "fin": 2537,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "img",
+   "ini": 2539,
+   "fin": 2544,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2546,
+   "fin": 2619
+  },
+  {
+   "tipo": "work",
+   "ini": 2546,
+   "fin": 2612,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Toda guerra, es una guerra civil\nÓleo sobre lienzo\n28 x 40 cm\n2020"
+  },
+  {
+   "tipo": "title",
+   "ini": 2546,
+   "fin": 2578,
+   "texto": "Toda guerra, es una guerra civil"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2579,
+   "fin": 2596,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2597,
+   "fin": 2607,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "28 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2597,
+   "fin": 2599,
+   "texto": "28"
+  },
+  {
+   "tipo": "width",
+   "ini": 2602,
+   "fin": 2604,
+   "texto": "40"
+  },
+  {
+   "tipo": "date",
+   "ini": 2608,
+   "fin": 2612,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "img",
+   "ini": 2614,
+   "fin": 2619,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2621,
+   "fin": 2703
+  },
+  {
+   "tipo": "work",
+   "ini": 2621,
+   "fin": 2696,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Apunte retrato Claudia I\nÓleo sobre papel\n10,3 X 12,2 cm + enmarcación\n2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 2621,
+   "fin": 2645,
+   "texto": "Apunte retrato Claudia I"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2646,
+   "fin": 2662,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2663,
+   "fin": 2691,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "10,3 X 12,2 cm + enmarcación"
+  },
+  {
+   "tipo": "height",
+   "ini": 2663,
+   "fin": 2667,
+   "texto": "10,3"
+  },
+  {
+   "tipo": "width",
+   "ini": 2670,
+   "fin": 2674,
+   "texto": "12,2"
+  },
+  {
+   "tipo": "date",
+   "ini": 2692,
+   "fin": 2696,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 2698,
+   "fin": 2703,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2705,
+   "fin": 2786
+  },
+  {
+   "tipo": "work",
+   "ini": 2705,
+   "fin": 2779,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Apunte retrato Claudia II\nÓleo sobre papel\n12 X 14,5 cm + enmarcación\n2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 2705,
+   "fin": 2730,
+   "texto": "Apunte retrato Claudia II"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2731,
+   "fin": 2747,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2748,
+   "fin": 2774,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "12 X 14,5 cm + enmarcación"
+  },
+  {
+   "tipo": "height",
+   "ini": 2748,
+   "fin": 2750,
+   "texto": "12"
+  },
+  {
+   "tipo": "width",
+   "ini": 2753,
+   "fin": 2757,
+   "texto": "14,5"
+  },
+  {
+   "tipo": "date",
+   "ini": 2775,
+   "fin": 2779,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 2781,
+   "fin": 2787,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2788,
+   "fin": 2865
+  },
+  {
+   "tipo": "work",
+   "ini": 2788,
+   "fin": 2858,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Apunte retrato Elena\nÓleo sobre papel\n10,2 X 7,1 cm + enmarcación\n2020"
+  },
+  {
+   "tipo": "title",
+   "ini": 2788,
+   "fin": 2808,
+   "texto": "Apunte retrato Elena"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2809,
+   "fin": 2825,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2826,
+   "fin": 2853,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "10,2 X 7,1 cm + enmarcación"
+  },
+  {
+   "tipo": "height",
+   "ini": 2826,
+   "fin": 2830,
+   "texto": "10,2"
+  },
+  {
+   "tipo": "width",
+   "ini": 2833,
+   "fin": 2836,
+   "texto": "7,1"
+  },
+  {
+   "tipo": "date",
+   "ini": 2854,
+   "fin": 2858,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "img",
+   "ini": 2860,
+   "fin": 2865,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2867,
+   "fin": 2933
+  },
+  {
+   "tipo": "work",
+   "ini": 2867,
+   "fin": 2926,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Apunte X\nÓleo sobre papel\n12,4 X 16,9 cm + enmarcación\n2020"
+  },
+  {
+   "tipo": "title",
+   "ini": 2867,
+   "fin": 2875,
+   "texto": "Apunte X"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2876,
+   "fin": 2892,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2893,
+   "fin": 2921,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "12,4 X 16,9 cm + enmarcación"
+  },
+  {
+   "tipo": "height",
+   "ini": 2893,
+   "fin": 2897,
+   "texto": "12,4"
+  },
+  {
+   "tipo": "width",
+   "ini": 2900,
+   "fin": 2904,
+   "texto": "16,9"
+  },
+  {
+   "tipo": "date",
+   "ini": 2922,
+   "fin": 2926,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "img",
+   "ini": 2928,
+   "fin": 2933,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2935,
+   "fin": 3001
+  },
+  {
+   "tipo": "work",
+   "ini": 2935,
+   "fin": 2994,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Apunte XI\nÓleo sobre papel\n14,2 X 15,8cm + enmarcación\n2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 2935,
+   "fin": 2944,
+   "texto": "Apunte XI"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2945,
+   "fin": 2961,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2962,
+   "fin": 2989,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "14,2 X 15,8cm + enmarcación"
+  },
+  {
+   "tipo": "height",
+   "ini": 2962,
+   "fin": 2966,
+   "texto": "14,2"
+  },
+  {
+   "tipo": "width",
+   "ini": 2969,
+   "fin": 2973,
+   "texto": "15,8"
+  },
+  {
+   "tipo": "date",
+   "ini": 2990,
+   "fin": 2994,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 2996,
+   "fin": 3001,
+   "rasgos": {
+    "color": "true",
+    "size": "medium",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3003,
+   "fin": 3071
+  },
+  {
+   "tipo": "work",
+   "ini": 3003,
+   "fin": 3064,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Apunte XII\nÓleo sobre papel\n13,1 X 20,2 cm + enmarcación\n2020"
+  },
+  {
+   "tipo": "title",
+   "ini": 3003,
+   "fin": 3013,
+   "texto": "Apunte XII"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3014,
+   "fin": 3030,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3031,
+   "fin": 3059,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "13,1 X 20,2 cm + enmarcación"
+  },
+  {
+   "tipo": "height",
+   "ini": 3031,
+   "fin": 3035,
+   "texto": "13,1"
+  },
+  {
+   "tipo": "width",
+   "ini": 3038,
+   "fin": 3042,
+   "texto": "20,2"
+  },
+  {
+   "tipo": "date",
+   "ini": 3060,
+   "fin": 3064,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "img",
+   "ini": 3066,
+   "fin": 3071,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3073,
+   "fin": 3139
+  },
+  {
+   "tipo": "work",
+   "ini": 3073,
+   "fin": 3132,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Apunte XIV\nÓleo sobre papel\n14,1 X 20 cm + enmarcación\n2020"
+  },
+  {
+   "tipo": "title",
+   "ini": 3073,
+   "fin": 3083,
+   "texto": "Apunte XIV"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3084,
+   "fin": 3100,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3101,
+   "fin": 3127,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "14,1 X 20 cm + enmarcación"
+  },
+  {
+   "tipo": "height",
+   "ini": 3101,
+   "fin": 3105,
+   "texto": "14,1"
+  },
+  {
+   "tipo": "width",
+   "ini": 3108,
+   "fin": 3110,
+   "texto": "20"
+  },
+  {
+   "tipo": "date",
+   "ini": 3128,
+   "fin": 3132,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "img",
+   "ini": 3134,
+   "fin": 3139,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3141,
+   "fin": 3209
+  },
+  {
+   "tipo": "work",
+   "ini": 3141,
+   "fin": 3202,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Apunte XVI\nÓleo sobre papel\n10,4 X 16,8 cm + enmarcación\n2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 3141,
+   "fin": 3151,
+   "texto": "Apunte XVI"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3152,
+   "fin": 3168,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3169,
+   "fin": 3197,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "10,4 X 16,8 cm + enmarcación"
+  },
+  {
+   "tipo": "height",
+   "ini": 3169,
+   "fin": 3173,
+   "texto": "10,4"
+  },
+  {
+   "tipo": "width",
+   "ini": 3176,
+   "fin": 3180,
+   "texto": "16,8"
+  },
+  {
+   "tipo": "date",
+   "ini": 3198,
+   "fin": 3202,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 3204,
+   "fin": 3209,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3211,
+   "fin": 3276
+  },
+  {
+   "tipo": "work",
+   "ini": 3211,
+   "fin": 3270,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Apunte XIII\nÓleo sobre papel\n14 X 18 cm + enmarcación\n2019\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 3211,
+   "fin": 3222,
+   "texto": "Apunte XIII"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3223,
+   "fin": 3239,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3240,
+   "fin": 3264,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "14 X 18 cm + enmarcación"
+  },
+  {
+   "tipo": "height",
+   "ini": 3240,
+   "fin": 3242,
+   "texto": "14"
+  },
+  {
+   "tipo": "width",
+   "ini": 3245,
+   "fin": 3247,
+   "texto": "18"
+  },
+  {
+   "tipo": "date",
+   "ini": 3265,
+   "fin": 3269,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 3271,
+   "fin": 3276,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 3278,
+   "fin": 3618
+  },
+  {
+   "tipo": "person",
+   "ini": 3278,
+   "fin": 3293,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "CLAUDIA SUAREZ\n"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3278,
+   "fin": 3293,
+   "texto": "CLAUDIA SUAREZ\n"
+  },
+  {
+   "tipo": "img",
+   "ini": 3293,
+   "fin": 3298,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3301,
+   "fin": 3358
+  },
+  {
+   "tipo": "work",
+   "ini": 3301,
+   "fin": 3352,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ST\nÓleo sobre papel\n20 x 100 cm + enmarcación\n2019\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 3301,
+   "fin": 3303,
+   "texto": "ST"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3304,
+   "fin": 3320,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3321,
+   "fin": 3346,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20 x 100 cm + enmarcación"
+  },
+  {
+   "tipo": "height",
+   "ini": 3321,
+   "fin": 3323,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 3326,
+   "fin": 3329,
+   "texto": "100"
+  },
+  {
+   "tipo": "date",
+   "ini": 3347,
+   "fin": 3352,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019\n"
+  },
+  {
+   "tipo": "img",
+   "ini": 3353,
+   "fin": 3358,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3361,
+   "fin": 3421
+  },
+  {
+   "tipo": "work",
+   "ini": 3361,
+   "fin": 3414,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Delfín\nÓleo sobre papel\n15 x 20 cm + enmarcación\n2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 3361,
+   "fin": 3367,
+   "texto": "Delfín"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3368,
+   "fin": 3384,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3385,
+   "fin": 3409,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "15 x 20 cm + enmarcación"
+  },
+  {
+   "tipo": "height",
+   "ini": 3385,
+   "fin": 3387,
+   "texto": "15"
+  },
+  {
+   "tipo": "width",
+   "ini": 3390,
+   "fin": 3392,
+   "texto": "20"
+  },
+  {
+   "tipo": "date",
+   "ini": 3410,
+   "fin": 3414,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 3416,
+   "fin": 3421,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3423,
+   "fin": 3500
+  },
+  {
+   "tipo": "work",
+   "ini": 3423,
+   "fin": 3492,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ST. Tríptico.\nÓleo sobre papel\n20 x 15 cm (unidad) + enmarcación\n2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 3423,
+   "fin": 3436,
+   "texto": "ST. Tríptico."
+  },
+  {
+   "tipo": "technique",
+   "ini": 3437,
+   "fin": 3453,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3454,
+   "fin": 3487,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20 x 15 cm (unidad) + enmarcación"
+  },
+  {
+   "tipo": "height",
+   "ini": 3454,
+   "fin": 3456,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 3459,
+   "fin": 3461,
+   "texto": "15"
+  },
+  {
+   "tipo": "date",
+   "ini": 3488,
+   "fin": 3492,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 3494,
+   "fin": 3500,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 3501,
+   "fin": 3506,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3508,
+   "fin": 3565
+  },
+  {
+   "tipo": "work",
+   "ini": 3508,
+   "fin": 3558,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "BCN\nÓleo sobre papel\n15 x 25 cm + enmarcación\n2020"
+  },
+  {
+   "tipo": "title",
+   "ini": 3508,
+   "fin": 3511,
+   "texto": "BCN"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3512,
+   "fin": 3528,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3529,
+   "fin": 3553,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "15 x 25 cm + enmarcación"
+  },
+  {
+   "tipo": "height",
+   "ini": 3529,
+   "fin": 3531,
+   "texto": "15"
+  },
+  {
+   "tipo": "width",
+   "ini": 3534,
+   "fin": 3536,
+   "texto": "25"
+  },
+  {
+   "tipo": "date",
+   "ini": 3554,
+   "fin": 3558,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "img",
+   "ini": 3560,
+   "fin": 3565,
+   "rasgos": {
+    "color": "true",
+    "size": "medium",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3567,
+   "fin": 3618
+  },
+  {
+   "tipo": "work",
+   "ini": 3567,
+   "fin": 3611,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El lugar\nÓleo sobre lienzo\n190 X 162 cm\n2020"
+  },
+  {
+   "tipo": "title",
+   "ini": 3567,
+   "fin": 3575,
+   "texto": "El lugar"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3576,
+   "fin": 3593,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3594,
+   "fin": 3606,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "190 X 162 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3594,
+   "fin": 3597,
+   "texto": "190"
+  },
+  {
+   "tipo": "width",
+   "ini": 3600,
+   "fin": 3603,
+   "texto": "162"
+  },
+  {
+   "tipo": "date",
+   "ini": 3607,
+   "fin": 3611,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "img",
+   "ini": 3613,
+   "fin": 3618,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 3620,
+   "fin": 4001
+  },
+  {
+   "tipo": "person",
+   "ini": 3620,
+   "fin": 3634,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "DANIEL FRANCA\n"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3620,
+   "fin": 3633,
+   "texto": "DANIEL FRANCA"
+  },
+  {
+   "tipo": "img",
+   "ini": 3634,
+   "fin": 3639,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3642,
+   "fin": 3704
+  },
+  {
+   "tipo": "work",
+   "ini": 3642,
+   "fin": 3697,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Navidad\nÓleo sobre lienzo\n46 x 38 cm + enmarcación\n2020"
+  },
+  {
+   "tipo": "title",
+   "ini": 3642,
+   "fin": 3649,
+   "texto": "Navidad"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3650,
+   "fin": 3667,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3668,
+   "fin": 3692,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 38 cm + enmarcación"
+  },
+  {
+   "tipo": "height",
+   "ini": 3668,
+   "fin": 3670,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 3673,
+   "fin": 3675,
+   "texto": "38"
+  },
+  {
+   "tipo": "date",
+   "ini": 3693,
+   "fin": 3697,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "img",
+   "ini": 3699,
+   "fin": 3705,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3706,
+   "fin": 3769
+  },
+  {
+   "tipo": "work",
+   "ini": 3706,
+   "fin": 3763,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Edificio\nÓleo sobre lienzo\n46 x 38 cm + enmarcación\n2020\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 3706,
+   "fin": 3714,
+   "texto": "Edificio"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3715,
+   "fin": 3732,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3733,
+   "fin": 3757,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 38 cm + enmarcación"
+  },
+  {
+   "tipo": "height",
+   "ini": 3733,
+   "fin": 3735,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 3738,
+   "fin": 3740,
+   "texto": "38"
+  },
+  {
+   "tipo": "date",
+   "ini": 3758,
+   "fin": 3763,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020\n"
+  },
+  {
+   "tipo": "img",
+   "ini": 3764,
+   "fin": 3769,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3771,
+   "fin": 3838
+  },
+  {
+   "tipo": "work",
+   "ini": 3771,
+   "fin": 3831,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Calle Utopía\nÓleo sobre lienzo\n46 x 38 cm + enmarcación\n2020"
+  },
+  {
+   "tipo": "title",
+   "ini": 3771,
+   "fin": 3783,
+   "texto": "Calle Utopía"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3784,
+   "fin": 3801,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3802,
+   "fin": 3826,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 38 cm + enmarcación"
+  },
+  {
+   "tipo": "height",
+   "ini": 3802,
+   "fin": 3804,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 3807,
+   "fin": 3809,
+   "texto": "38"
+  },
+  {
+   "tipo": "date",
+   "ini": 3827,
+   "fin": 3831,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "img",
+   "ini": 3833,
+   "fin": 3838,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3840,
+   "fin": 3910
+  },
+  {
+   "tipo": "work",
+   "ini": 3840,
+   "fin": 3903,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Soporte anuncio\nÓleo sobre lienzo\n46 x 38 cm + enmarcación\n2020"
+  },
+  {
+   "tipo": "title",
+   "ini": 3840,
+   "fin": 3855,
+   "texto": "Soporte anuncio"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3856,
+   "fin": 3873,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3874,
+   "fin": 3898,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 38 cm + enmarcación"
+  },
+  {
+   "tipo": "height",
+   "ini": 3874,
+   "fin": 3876,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 3879,
+   "fin": 3881,
+   "texto": "38"
+  },
+  {
+   "tipo": "date",
+   "ini": 3899,
+   "fin": 3903,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "img",
+   "ini": 3905,
+   "fin": 3910,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3912,
+   "fin": 4001
+  },
+  {
+   "tipo": "work",
+   "ini": 3912,
+   "fin": 3994,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Bocetos\nÓleo sobre offset imprimado en cartón\n8 x 9 cm + enmarcación. Unidad.\n2018"
+  },
+  {
+   "tipo": "title",
+   "ini": 3912,
+   "fin": 3919,
+   "texto": "Bocetos"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3920,
+   "fin": 3957,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre offset imprimado en cartón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3958,
+   "fin": 3989,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "8 x 9 cm + enmarcación. Unidad."
+  },
+  {
+   "tipo": "height",
+   "ini": 3958,
+   "fin": 3959,
+   "texto": "8"
+  },
+  {
+   "tipo": "width",
+   "ini": 3962,
+   "fin": 3963,
+   "texto": "9"
+  },
+  {
+   "tipo": "date",
+   "ini": 3990,
+   "fin": 3994,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "img",
+   "ini": 3996,
+   "fin": 4001,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 4003,
+   "fin": 4209
+  },
+  {
+   "tipo": "person",
+   "ini": 4003,
+   "fin": 4016,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ROSA AGUILAR\n"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4003,
+   "fin": 4016,
+   "texto": "ROSA AGUILAR\n"
+  },
+  {
+   "tipo": "img",
+   "ini": 4016,
+   "fin": 4021,
+   "rasgos": {
+    "color": "true",
+    "size": "extralarge",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4024,
+   "fin": 4077
+  },
+  {
+   "tipo": "work",
+   "ini": 4024,
+   "fin": 4070,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La plantación\nÓleo sobre tabla\n16 x 21 cm\n2020"
+  },
+  {
+   "tipo": "title",
+   "ini": 4024,
+   "fin": 4037,
+   "texto": "La plantación"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4038,
+   "fin": 4054,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4055,
+   "fin": 4065,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "16 x 21 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4055,
+   "fin": 4057,
+   "texto": "16"
+  },
+  {
+   "tipo": "width",
+   "ini": 4060,
+   "fin": 4062,
+   "texto": "21"
+  },
+  {
+   "tipo": "date",
+   "ini": 4066,
+   "fin": 4070,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "img",
+   "ini": 4072,
+   "fin": 4077,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4079,
+   "fin": 4141
+  },
+  {
+   "tipo": "work",
+   "ini": 4079,
+   "fin": 4134,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El nacimiento del pino\nÓleo sobre tabla\n16 x 21 cm\n2020"
+  },
+  {
+   "tipo": "title",
+   "ini": 4079,
+   "fin": 4101,
+   "texto": "El nacimiento del pino"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4102,
+   "fin": 4118,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4119,
+   "fin": 4129,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "16 x 21 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4119,
+   "fin": 4121,
+   "texto": "16"
+  },
+  {
+   "tipo": "width",
+   "ini": 4124,
+   "fin": 4126,
+   "texto": "21"
+  },
+  {
+   "tipo": "date",
+   "ini": 4130,
+   "fin": 4134,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "img",
+   "ini": 4136,
+   "fin": 4141,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4143,
+   "fin": 4203
+  },
+  {
+   "tipo": "work",
+   "ini": 4143,
+   "fin": 4195,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sombrero y sombra\nÓleo sobre tabla\n150 x 100 cm\n2020"
+  },
+  {
+   "tipo": "title",
+   "ini": 4143,
+   "fin": 4160,
+   "texto": "Sombrero y sombra"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4161,
+   "fin": 4177,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "height",
+   "ini": 4178,
+   "fin": 4181,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 4184,
+   "fin": 4187,
+   "texto": "100"
+  },
+  {
+   "tipo": "date",
+   "ini": 4191,
+   "fin": 4195,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "img",
+   "ini": 4197,
+   "fin": 4202,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4204,
+   "fin": 4209,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 4211,
+   "fin": 4396
+  },
+  {
+   "tipo": "person",
+   "ini": 4211,
+   "fin": 4227,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ANTONIO BARAHONA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4211,
+   "fin": 4227,
+   "texto": "ANTONIO BARAHONA"
+  },
+  {
+   "tipo": "img",
+   "ini": 4228,
+   "fin": 4233,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4236,
+   "fin": 4296
+  },
+  {
+   "tipo": "work",
+   "ini": 4236,
+   "fin": 4289,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Ficción Andaluza\nEsmalte sobre lino\n140 x 120 cm\n2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 4236,
+   "fin": 4252,
+   "texto": "Ficción Andaluza"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4253,
+   "fin": 4271,
+   "rasgos": {
+    "type": "glaze"
+   },
+   "texto": "Esmalte sobre lino"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4272,
+   "fin": 4284,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "140 x 120 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4272,
+   "fin": 4275,
+   "texto": "140"
+  },
+  {
+   "tipo": "width",
+   "ini": 4278,
+   "fin": 4281,
+   "texto": "120"
+  },
+  {
+   "tipo": "date",
+   "ini": 4285,
+   "fin": 4289,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 4291,
+   "fin": 4296,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4298,
+   "fin": 4346
+  },
+  {
+   "tipo": "work",
+   "ini": 4298,
+   "fin": 4340,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Bodegón 2\nÓleo sobre lino\n35 x 27 cm\n2020\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 4298,
+   "fin": 4307,
+   "texto": "Bodegón 2"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4308,
+   "fin": 4323,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lino"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4324,
+   "fin": 4334,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35 x 27 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4324,
+   "fin": 4326,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 4329,
+   "fin": 4331,
+   "texto": "27"
+  },
+  {
+   "tipo": "date",
+   "ini": 4335,
+   "fin": 4340,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020\n"
+  },
+  {
+   "tipo": "img",
+   "ini": 4341,
+   "fin": 4346,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4348,
+   "fin": 4396
+  },
+  {
+   "tipo": "work",
+   "ini": 4348,
+   "fin": 4389,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Bodegón 1\nÓleo sobre lino\n35 x 27 cm\n2020"
+  },
+  {
+   "tipo": "title",
+   "ini": 4348,
+   "fin": 4357,
+   "texto": "Bodegón 1"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4358,
+   "fin": 4373,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lino"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4374,
+   "fin": 4384,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35 x 27 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4374,
+   "fin": 4376,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 4379,
+   "fin": 4381,
+   "texto": "27"
+  },
+  {
+   "tipo": "date",
+   "ini": 4385,
+   "fin": 4389,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "img",
+   "ini": 4391,
+   "fin": 4396,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 4398,
+   "fin": 4570
+  },
+  {
+   "tipo": "persName",
+   "ini": 4398,
+   "fin": 4410,
+   "texto": "LAURA VINÓS\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 4398,
+   "fin": 4409,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "LAURA VINÓS"
+  },
+  {
+   "tipo": "img",
+   "ini": 4410,
+   "fin": 4415,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4418,
+   "fin": 4485
+  },
+  {
+   "tipo": "work",
+   "ini": 4418,
+   "fin": 4477,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pídeme lo que tú quieras\nÓleo sobre tabla\n29,7 x 21 cm\n2020"
+  },
+  {
+   "tipo": "title",
+   "ini": 4418,
+   "fin": 4442,
+   "texto": "Pídeme lo que tú quieras"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4443,
+   "fin": 4459,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4460,
+   "fin": 4472,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29,7 x 21 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4460,
+   "fin": 4464,
+   "texto": "29,7"
+  },
+  {
+   "tipo": "width",
+   "ini": 4467,
+   "fin": 4469,
+   "texto": "21"
+  },
+  {
+   "tipo": "date",
+   "ini": 4473,
+   "fin": 4477,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "img",
+   "ini": 4479,
+   "fin": 4484,
+   "rasgos": {
+    "size": "large",
+    "src": "catalogue",
+    "color ": "true"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4486,
+   "fin": 4570
+  },
+  {
+   "tipo": "work",
+   "ini": 4486,
+   "fin": 4563,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La familia, la propiedad privada y el amor\nÓleo sobre lienzo\n113 x 86 cm\n2020"
+  },
+  {
+   "tipo": "title",
+   "ini": 4486,
+   "fin": 4528,
+   "texto": "La familia, la propiedad privada y el amor"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4529,
+   "fin": 4546,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4547,
+   "fin": 4558,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "113 x 86 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4547,
+   "fin": 4550,
+   "texto": "113"
+  },
+  {
+   "tipo": "width",
+   "ini": 4553,
+   "fin": 4555,
+   "texto": "86"
+  },
+  {
+   "tipo": "date",
+   "ini": 4559,
+   "fin": 4563,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "img",
+   "ini": 4565,
+   "fin": 4570,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 4572,
+   "fin": 5044,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 4572,
+   "fin": 4609,
+   "texto": "HOMEMADE. En la esencia de las cosas."
+  },
+  {
+   "tipo": "person",
+   "ini": 4611,
+   "fin": 4629,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Julia Santa Olalla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4611,
+   "fin": 4629,
+   "texto": "Julia Santa Olalla"
+  },
+  {
+   "tipo": "person",
+   "ini": 4631,
+   "fin": 4648,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Ruiz Pérez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4631,
+   "fin": 4648,
+   "texto": "Javier Ruiz Pérez"
+  },
+  {
+   "tipo": "person",
+   "ini": 4650,
+   "fin": 4664,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Claudia Suarez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4650,
+   "fin": 4664,
+   "texto": "Claudia Suarez"
+  },
+  {
+   "tipo": "person",
+   "ini": 4666,
+   "fin": 4679,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Daniel Franca"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4666,
+   "fin": 4679,
+   "texto": "Daniel Franca"
+  },
+  {
+   "tipo": "person",
+   "ini": 4681,
+   "fin": 4693,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rosa Aguilar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4681,
+   "fin": 4693,
+   "texto": "Rosa Aguilar"
+  },
+  {
+   "tipo": "person",
+   "ini": 4695,
+   "fin": 4711,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Barahona"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4695,
+   "fin": 4711,
+   "texto": "Antonio Barahona"
+  },
+  {
+   "tipo": "person",
+   "ini": 4713,
+   "fin": 4724,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Laura Vinós"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4713,
+   "fin": 4724,
+   "texto": "Laura Vinós"
+  },
+  {
+   "tipo": "person",
+   "ini": 4738,
+   "fin": 4747,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Juan Cruz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4738,
+   "fin": 4747,
+   "texto": "Juan Cruz"
+  },
+  {
+   "tipo": "person",
+   "ini": 4755,
+   "fin": 4764,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Juan Cruz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4755,
+   "fin": 4764,
+   "texto": "Juan Cruz"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4765,
+   "fin": 4827,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Di Art Gallery. Calle Muro de los Navarros 66. 41003, Sevilla."
+  },
+  {
+   "tipo": "address",
+   "ini": 4781,
+   "fin": 4826,
+   "texto": "Calle Muro de los Navarros 66. 41003, Sevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4819,
+   "fin": 4826,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "date",
+   "ini": 4849,
+   "fin": 4868,
+   "rasgos": {
+    "when": "2020-06-25"
+   },
+   "texto": "25 de junio de 2020"
+  },
+  {
+   "tipo": "date",
+   "ini": 4891,
+   "fin": 4915,
+   "rasgos": {
+    "from": "2020-06-25",
+    "to": "2020-09-19"
+   },
+   "texto": "25/6/20 hasta el 19/9/20"
+  },
+  {
+   "tipo": "person",
+   "ini": 5011,
+   "fin": 5020,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Juan Cruz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5011,
+   "fin": 5020,
+   "texto": "Juan Cruz"
+  },
+  {
+   "tipo": "person",
+   "ini": 5023,
+   "fin": 5044,
+   "rasgos": {
+    "role": ""
+   },
+   "texto": "Santiago Bedoya Rueda"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5023,
+   "fin": 5044,
+   "texto": "Santiago Bedoya Rueda"
+  }
+ ]
+}

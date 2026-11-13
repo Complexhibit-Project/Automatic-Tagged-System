@@ -1,0 +1,1614 @@
+{
+ "id": "cat_057_catalogo_penalver_web",
+ "nombre_original": "catalogo-penalver-web",
+ "longitud_texto": 10740,
+ "sha256_texto": "cbc12bc17c0a10f262de61556c32cc09e68203241c4b954c0561cf335d372013",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 24,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 8,
+   "texto": "CUANTICA"
+  },
+  {
+   "tipo": "person",
+   "ini": 9,
+   "fin": 24,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "RAFAEL PEÑALVER"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9,
+   "fin": 24,
+   "texto": "RAFAEL PEÑALVER"
+  },
+  {
+   "tipo": "institution",
+   "ini": 36,
+   "fin": 56,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Galería Cortabitarte"
+  },
+  {
+   "tipo": "persName",
+   "ini": 71,
+   "fin": 84,
+   "texto": "Laura Benítez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 98,
+   "fin": 123,
+   "texto": "Azahara del Campo Granada"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 158,
+   "fin": 163,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Soria"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 165,
+   "fin": 201,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 165,
+   "fin": 173,
+   "texto": "CUANTICA"
+  },
+  {
+   "tipo": "person",
+   "ini": 174,
+   "fin": 189,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rafael Peñalver"
+  },
+  {
+   "tipo": "persName",
+   "ini": 174,
+   "fin": 189,
+   "texto": "Rafael Peñalver"
+  },
+  {
+   "tipo": "date",
+   "ini": 191,
+   "fin": 201,
+   "rasgos": {
+    "when": "2022-01-01"
+   },
+   "texto": "Enero 2022"
+  },
+  {
+   "tipo": "title",
+   "ini": 203,
+   "fin": 211,
+   "texto": "CUANTICA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 246,
+   "fin": 255,
+   "texto": "Kandisnky"
+  },
+  {
+   "tipo": "persName",
+   "ini": 753,
+   "fin": 770,
+   "texto": "Wassily Kandinsky"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1558,
+   "fin": 1567,
+   "texto": "Kandinsky"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2109,
+   "fin": 2124,
+   "texto": "Frantisek Kupka"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2657,
+   "fin": 2662,
+   "texto": "Léger"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3453,
+   "fin": 3458,
+   "texto": "Carra"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3461,
+   "fin": 3469,
+   "texto": "Severini"
+  },
+  {
+   "tipo": "person",
+   "ini": 6143,
+   "fin": 6158,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Rafael Peñalver"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6143,
+   "fin": 6158,
+   "texto": "Rafael Peñalver"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 6160,
+   "fin": 7253
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6160,
+   "fin": 6208
+  },
+  {
+   "tipo": "img",
+   "ini": 6160,
+   "fin": 6165,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6167,
+   "fin": 6208,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pigmentos con base de vinilo\n184 x 130 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 6167,
+   "fin": 6195,
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6167,
+   "fin": 6195,
+   "rasgos": {
+    "type": "pigment, vinyl"
+   },
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6196,
+   "fin": 6208,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "184 x 130 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6196,
+   "fin": 6199,
+   "texto": "184"
+  },
+  {
+   "tipo": "width",
+   "ini": 6202,
+   "fin": 6205,
+   "texto": "130"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6210,
+   "fin": 6257
+  },
+  {
+   "tipo": "img",
+   "ini": 6210,
+   "fin": 6215,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6217,
+   "fin": 6257,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pigmentos con base de vinilo\n99 x 150 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 6217,
+   "fin": 6245,
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6217,
+   "fin": 6245,
+   "rasgos": {
+    "type": "pigment, vinyl"
+   },
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6246,
+   "fin": 6257,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "99 x 150 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6246,
+   "fin": 6248,
+   "texto": "99"
+  },
+  {
+   "tipo": "width",
+   "ini": 6251,
+   "fin": 6254,
+   "texto": "150"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6259,
+   "fin": 6306
+  },
+  {
+   "tipo": "img",
+   "ini": 6259,
+   "fin": 6264,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6266,
+   "fin": 6306,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pigmentos con base de vinilo\n65 x 107 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 6266,
+   "fin": 6294,
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6266,
+   "fin": 6294,
+   "rasgos": {
+    "type": "pigment, vinyl"
+   },
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6295,
+   "fin": 6306,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 107 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6295,
+   "fin": 6297,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 6300,
+   "fin": 6303,
+   "texto": "107"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6308,
+   "fin": 6355
+  },
+  {
+   "tipo": "img",
+   "ini": 6313,
+   "fin": 6314,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6315,
+   "fin": 6355,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pigmentos con base de vinilo\n90 x 140 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 6315,
+   "fin": 6343,
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6315,
+   "fin": 6343,
+   "rasgos": {
+    "type": "pigment, vinyl"
+   },
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6344,
+   "fin": 6355,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "90 x 140 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6344,
+   "fin": 6346,
+   "texto": "90"
+  },
+  {
+   "tipo": "width",
+   "ini": 6349,
+   "fin": 6352,
+   "texto": "140"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6357,
+   "fin": 6405
+  },
+  {
+   "tipo": "img",
+   "ini": 6357,
+   "fin": 6362,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6364,
+   "fin": 6405,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pigmentos con base de vinilo\n140 x 275 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 6364,
+   "fin": 6392,
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6364,
+   "fin": 6392,
+   "rasgos": {
+    "type": "pigment, vinyl"
+   },
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6393,
+   "fin": 6405,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "140 x 275 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6393,
+   "fin": 6396,
+   "texto": "140"
+  },
+  {
+   "tipo": "width",
+   "ini": 6399,
+   "fin": 6402,
+   "texto": "275"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6407,
+   "fin": 6455
+  },
+  {
+   "tipo": "img",
+   "ini": 6407,
+   "fin": 6412,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6414,
+   "fin": 6455,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pigmentos con base de vinilo\n180 x 140 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 6414,
+   "fin": 6442,
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6414,
+   "fin": 6442,
+   "rasgos": {
+    "type": "pigment, vinyl"
+   },
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6443,
+   "fin": 6455,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "180 x 140 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6443,
+   "fin": 6446,
+   "texto": "180"
+  },
+  {
+   "tipo": "width",
+   "ini": 6449,
+   "fin": 6452,
+   "texto": "140"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6457,
+   "fin": 6504
+  },
+  {
+   "tipo": "img",
+   "ini": 6457,
+   "fin": 6462,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6464,
+   "fin": 6504,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pigmentos con base de vinilo\n48 x 100 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 6464,
+   "fin": 6492,
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6464,
+   "fin": 6492,
+   "rasgos": {
+    "type": "pigment, vinyl"
+   },
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6493,
+   "fin": 6504,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "48 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6493,
+   "fin": 6495,
+   "texto": "48"
+  },
+  {
+   "tipo": "width",
+   "ini": 6498,
+   "fin": 6501,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6506,
+   "fin": 6554
+  },
+  {
+   "tipo": "img",
+   "ini": 6506,
+   "fin": 6511,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6513,
+   "fin": 6554,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pigmentos con case de vinilo\n180 x 141 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 6513,
+   "fin": 6541,
+   "texto": "Pigmentos con case de vinilo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6513,
+   "fin": 6541,
+   "rasgos": {
+    "type": "pigment, vinyl"
+   },
+   "texto": "Pigmentos con case de vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6542,
+   "fin": 6554,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "180 x 141 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6542,
+   "fin": 6545,
+   "texto": "180"
+  },
+  {
+   "tipo": "width",
+   "ini": 6548,
+   "fin": 6551,
+   "texto": "141"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6556,
+   "fin": 6604
+  },
+  {
+   "tipo": "img",
+   "ini": 6556,
+   "fin": 6561,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6563,
+   "fin": 6604,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pigmentos con base de vinilo\n141 x 190 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 6563,
+   "fin": 6591,
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6563,
+   "fin": 6591,
+   "rasgos": {
+    "type": "pigment, vinyl"
+   },
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6592,
+   "fin": 6604,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "141 x 190 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6592,
+   "fin": 6595,
+   "texto": "141"
+  },
+  {
+   "tipo": "width",
+   "ini": 6598,
+   "fin": 6601,
+   "texto": "190"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6606,
+   "fin": 6656
+  },
+  {
+   "tipo": "img",
+   "ini": 6606,
+   "fin": 6611,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6613,
+   "fin": 6656,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pigmentos con base de vinilo\n125’5 x 162 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 6613,
+   "fin": 6641,
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6613,
+   "fin": 6641,
+   "rasgos": {
+    "type": "pigment, vinyl"
+   },
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6642,
+   "fin": 6656,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "125’5 x 162 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6642,
+   "fin": 6647,
+   "texto": "125’5"
+  },
+  {
+   "tipo": "width",
+   "ini": 6650,
+   "fin": 6653,
+   "texto": "162"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6658,
+   "fin": 6705
+  },
+  {
+   "tipo": "img",
+   "ini": 6658,
+   "fin": 6663,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6665,
+   "fin": 6705,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pigmentos con base de vinilo\n72 x 120 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 6665,
+   "fin": 6693,
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6665,
+   "fin": 6693,
+   "rasgos": {
+    "type": "pigment, vinyl"
+   },
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6694,
+   "fin": 6705,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "72 x 120 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6694,
+   "fin": 6696,
+   "texto": "72"
+  },
+  {
+   "tipo": "width",
+   "ini": 6699,
+   "fin": 6702,
+   "texto": "120"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6707,
+   "fin": 6757
+  },
+  {
+   "tipo": "img",
+   "ini": 6707,
+   "fin": 6712,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6714,
+   "fin": 6757,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pigmentos con base de vinilo\n142 x 181’5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 6714,
+   "fin": 6742,
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6714,
+   "fin": 6742,
+   "rasgos": {
+    "type": "pigment, vinyl"
+   },
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6743,
+   "fin": 6757,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "142 x 181’5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6743,
+   "fin": 6746,
+   "texto": "142"
+  },
+  {
+   "tipo": "width",
+   "ini": 6749,
+   "fin": 6754,
+   "texto": "181’5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6759,
+   "fin": 6809
+  },
+  {
+   "tipo": "img",
+   "ini": 6759,
+   "fin": 6764,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6766,
+   "fin": 6809,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pigmentos con base de vinilo\n130’5 x 162 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 6766,
+   "fin": 6794,
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6766,
+   "fin": 6794,
+   "rasgos": {
+    "type": "pigment, vinyl"
+   },
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6795,
+   "fin": 6809,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130’5 x 162 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6795,
+   "fin": 6800,
+   "texto": "130’5"
+  },
+  {
+   "tipo": "width",
+   "ini": 6803,
+   "fin": 6806,
+   "texto": "162"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6811,
+   "fin": 6858
+  },
+  {
+   "tipo": "img",
+   "ini": 6811,
+   "fin": 6816,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6818,
+   "fin": 6858,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pigmentos con base de vinilo\n88 x 130 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 6818,
+   "fin": 6846,
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6818,
+   "fin": 6846,
+   "rasgos": {
+    "type": "pigment, vinyl"
+   },
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6847,
+   "fin": 6858,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "88 x 130 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6847,
+   "fin": 6849,
+   "texto": "88"
+  },
+  {
+   "tipo": "width",
+   "ini": 6852,
+   "fin": 6855,
+   "texto": "130"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6860,
+   "fin": 6908
+  },
+  {
+   "tipo": "img",
+   "ini": 6860,
+   "fin": 6865,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6867,
+   "fin": 6908,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pigmentos con base de vinilo\n129 x 162 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 6867,
+   "fin": 6895,
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6867,
+   "fin": 6895,
+   "rasgos": {
+    "type": "pigment, vinyl"
+   },
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6896,
+   "fin": 6908,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "129 x 162 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6896,
+   "fin": 6899,
+   "texto": "129"
+  },
+  {
+   "tipo": "width",
+   "ini": 6902,
+   "fin": 6905,
+   "texto": "162"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6910,
+   "fin": 6958
+  },
+  {
+   "tipo": "img",
+   "ini": 6910,
+   "fin": 6916,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6917,
+   "fin": 6958,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pigmentos con base de vinilo\n141 x 178 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 6917,
+   "fin": 6945,
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6917,
+   "fin": 6945,
+   "rasgos": {
+    "type": "pigment, vinyl"
+   },
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6946,
+   "fin": 6958,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "141 x 178 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6946,
+   "fin": 6949,
+   "texto": "141"
+  },
+  {
+   "tipo": "width",
+   "ini": 6952,
+   "fin": 6955,
+   "texto": "178"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6960,
+   "fin": 7007
+  },
+  {
+   "tipo": "img",
+   "ini": 6960,
+   "fin": 6965,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6967,
+   "fin": 7007,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pigmentos con base de vinilo\n130’5 x 190"
+  },
+  {
+   "tipo": "title",
+   "ini": 6967,
+   "fin": 6995,
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6967,
+   "fin": 6995,
+   "rasgos": {
+    "type": "pigment, vinyl"
+   },
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6996,
+   "fin": 7007,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130’5 x 190"
+  },
+  {
+   "tipo": "height",
+   "ini": 6996,
+   "fin": 7001,
+   "texto": "130’5"
+  },
+  {
+   "tipo": "width",
+   "ini": 7004,
+   "fin": 7007,
+   "texto": "190"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7009,
+   "fin": 7054
+  },
+  {
+   "tipo": "img",
+   "ini": 7009,
+   "fin": 7014,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7016,
+   "fin": 7054,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pigmentos con base de vinilo\n141 x 181"
+  },
+  {
+   "tipo": "title",
+   "ini": 7016,
+   "fin": 7044,
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7016,
+   "fin": 7044,
+   "rasgos": {
+    "type": "pigment, vinyl"
+   },
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7045,
+   "fin": 7054,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "141 x 181"
+  },
+  {
+   "tipo": "height",
+   "ini": 7045,
+   "fin": 7048,
+   "texto": "141"
+  },
+  {
+   "tipo": "width",
+   "ini": 7051,
+   "fin": 7054,
+   "texto": "181"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7056,
+   "fin": 7105
+  },
+  {
+   "tipo": "img",
+   "ini": 7056,
+   "fin": 7061,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7063,
+   "fin": 7105,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pigmentos con base de vinilo\n60’5 x 135 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 7063,
+   "fin": 7091,
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7063,
+   "fin": 7091,
+   "rasgos": {
+    "type": "pigment, vinyl"
+   },
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7092,
+   "fin": 7105,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60’5 x 135 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7092,
+   "fin": 7096,
+   "texto": "60’5"
+  },
+  {
+   "tipo": "width",
+   "ini": 7099,
+   "fin": 7102,
+   "texto": "135"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7107,
+   "fin": 7154
+  },
+  {
+   "tipo": "img",
+   "ini": 7107,
+   "fin": 7112,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7114,
+   "fin": 7154,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pigmentos con base de vinilo\n84 x 137 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 7114,
+   "fin": 7142,
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7114,
+   "fin": 7142,
+   "rasgos": {
+    "type": "pigment, vinyl"
+   },
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7143,
+   "fin": 7154,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "84 x 137 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7143,
+   "fin": 7145,
+   "texto": "84"
+  },
+  {
+   "tipo": "width",
+   "ini": 7148,
+   "fin": 7151,
+   "texto": "137"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7156,
+   "fin": 7203
+  },
+  {
+   "tipo": "img",
+   "ini": 7156,
+   "fin": 7161,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7163,
+   "fin": 7203,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pigmentos con base de vinilo\n54 x 140 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 7163,
+   "fin": 7191,
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7163,
+   "fin": 7191,
+   "rasgos": {
+    "type": "pigment, vinyl"
+   },
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7192,
+   "fin": 7203,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "54 x 140 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7192,
+   "fin": 7194,
+   "texto": "54"
+  },
+  {
+   "tipo": "width",
+   "ini": 7197,
+   "fin": 7200,
+   "texto": "140"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7205,
+   "fin": 7253
+  },
+  {
+   "tipo": "img",
+   "ini": 7205,
+   "fin": 7210,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7212,
+   "fin": 7253,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pigmentos con base de vinilo\n108 x 128 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 7212,
+   "fin": 7240,
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7212,
+   "fin": 7240,
+   "rasgos": {
+    "type": "pigment, vinyl"
+   },
+   "texto": "Pigmentos con base de vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7241,
+   "fin": 7253,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "108 x 128 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7241,
+   "fin": 7244,
+   "texto": "108"
+  },
+  {
+   "tipo": "width",
+   "ini": 7247,
+   "fin": 7250,
+   "texto": "128"
+  },
+  {
+   "tipo": "person",
+   "ini": 7256,
+   "fin": 7438,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rafael Peñalver Andrés\nTrabaja como pintor, video-artista, y en videoinstalaciones, fotomontajes, collages y arte conceptual\nNacido en Madrid se inicia como artista en Cuenca en\n1965"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7256,
+   "fin": 7278,
+   "texto": "Rafael Peñalver Andrés"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7320,
+   "fin": 7338,
+   "rasgos": {
+    "type": "videoInstallation"
+   },
+   "texto": "videoinstalaciones"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7340,
+   "fin": 7352,
+   "rasgos": {
+    "type": ""
+   },
+   "texto": "fotomontajes"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7354,
+   "fin": 7362,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "collages"
+  },
+  {
+   "tipo": "birth",
+   "ini": 7381,
+   "fin": 7438
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7391,
+   "fin": 7397,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7424,
+   "fin": 7430,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Cuenca"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7563,
+   "fin": 7578,
+   "texto": "Fernando Zobell"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7580,
+   "fin": 7594,
+   "texto": "Rafael Canogar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7596,
+   "fin": 7601,
+   "texto": "Monpó"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7603,
+   "fin": 7616,
+   "texto": "Gerardo Rueda"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7618,
+   "fin": 7631,
+   "texto": "Antonio Saura"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7633,
+   "fin": 7641,
+   "texto": "Paz Muro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7740,
+   "fin": 7754,
+   "texto": "Fernando Zobel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8598,
+   "fin": 8618,
+   "texto": "Luís González Robles"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8987,
+   "fin": 9003,
+   "texto": "Fernando Vijande"
+  }
+ ]
+}

@@ -1,0 +1,951 @@
+{
+ "id": "cat_024_alberto_garcia_alix_catalogo",
+ "nombre_original": "alberto-garcia-alix-catalogo",
+ "longitud_texto": 1755,
+ "sha256_texto": "759fb12c6399ab49f3c331cf5567f26f9639f093dd50a19eafdf04024ba5b04e",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 218,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 8,
+   "fin": 18,
+   "rasgos": {
+    "from": "2020-03-01",
+    "to": "2020-03-31"
+   },
+   "texto": "Marzo 2020"
+  },
+  {
+   "tipo": "institution",
+   "ini": 20,
+   "fin": 43,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "PARROTE\ngalería de arte"
+  },
+  {
+   "tipo": "title",
+   "ini": 45,
+   "fin": 62,
+   "texto": "ENTRE LAS SOMBRAS"
+  },
+  {
+   "tipo": "person",
+   "ini": 64,
+   "fin": 85,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ALBERTO GARCÍA - ALIX"
+  },
+  {
+   "tipo": "persName",
+   "ini": 64,
+   "fin": 85,
+   "texto": "ALBERTO GARCÍA - ALIX"
+  },
+  {
+   "tipo": "address",
+   "ini": 86,
+   "fin": 130,
+   "texto": "Paseo de la Dársena, 8 bajo / 15001 A CORUÑA"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 122,
+   "fin": 130,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "A CORUÑA"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 220,
+   "fin": 1647
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 220,
+   "fin": 378
+  },
+  {
+   "tipo": "img",
+   "ini": 220,
+   "fin": 225,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 227,
+   "fin": 378,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "El jardín de Hansel y Gretel, 2010\nHansel and Gretel’s garden, 2010\nTamaño imagen / image size: 47x47 cm\nTécnica / Technique: Barite paper. 2014 print."
+  },
+  {
+   "tipo": "title",
+   "ini": 227,
+   "fin": 255,
+   "texto": "El jardín de Hansel y Gretel"
+  },
+  {
+   "tipo": "date",
+   "ini": 257,
+   "fin": 261,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "translatedTitle",
+   "ini": 262,
+   "fin": 288
+  },
+  {
+   "tipo": "date",
+   "ini": 290,
+   "fin": 294,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 323,
+   "fin": 331,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "47x47 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 323,
+   "fin": 325,
+   "texto": "47"
+  },
+  {
+   "tipo": "width",
+   "ini": 326,
+   "fin": 328,
+   "texto": "47"
+  },
+  {
+   "tipo": "material",
+   "ini": 353,
+   "fin": 365,
+   "rasgos": {
+    "type": "baritePaper"
+   },
+   "texto": "Barite paper"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 367,
+   "fin": 377
+  },
+  {
+   "tipo": "date",
+   "ini": 367,
+   "fin": 371,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 380,
+   "fin": 520
+  },
+  {
+   "tipo": "img",
+   "ini": 380,
+   "fin": 385,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 387,
+   "fin": 520,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Naturaleza de cardos, 2014\nThistle nature, 2014\nTamaño imagen / image size: 110x110 cm\nTécnica / Technique: Barite paper. 2014 print."
+  },
+  {
+   "tipo": "title",
+   "ini": 387,
+   "fin": 407,
+   "texto": "Naturaleza de cardos"
+  },
+  {
+   "tipo": "date",
+   "ini": 409,
+   "fin": 413,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "translatedTitle",
+   "ini": 414,
+   "fin": 428
+  },
+  {
+   "tipo": "date",
+   "ini": 430,
+   "fin": 434,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 463,
+   "fin": 473,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "110x110 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 463,
+   "fin": 466,
+   "texto": "110"
+  },
+  {
+   "tipo": "width",
+   "ini": 467,
+   "fin": 470,
+   "texto": "110"
+  },
+  {
+   "tipo": "material",
+   "ini": 495,
+   "fin": 507,
+   "rasgos": {
+    "type": "baritePaper"
+   },
+   "texto": "Barite paper"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 509,
+   "fin": 519
+  },
+  {
+   "tipo": "date",
+   "ini": 509,
+   "fin": 513,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 522,
+   "fin": 679
+  },
+  {
+   "tipo": "img",
+   "ini": 522,
+   "fin": 527,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 529,
+   "fin": 679,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Entrada al purgatorio II, 2008.\nEntrance to the purgatory II, 2008\nTamaño imagen / image size: 47x47 cm\nTécnica / Technique: Barite paper. 2017 print."
+  },
+  {
+   "tipo": "title",
+   "ini": 529,
+   "fin": 553,
+   "texto": "Entrada al purgatorio II"
+  },
+  {
+   "tipo": "date",
+   "ini": 555,
+   "fin": 559,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "translatedTitle",
+   "ini": 561,
+   "fin": 589
+  },
+  {
+   "tipo": "date",
+   "ini": 591,
+   "fin": 595,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 624,
+   "fin": 632,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "47x47 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 624,
+   "fin": 626,
+   "texto": "47"
+  },
+  {
+   "tipo": "width",
+   "ini": 627,
+   "fin": 629,
+   "texto": "47"
+  },
+  {
+   "tipo": "material",
+   "ini": 654,
+   "fin": 666,
+   "rasgos": {
+    "type": "baritePaper"
+   },
+   "texto": "Barite paper"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 668,
+   "fin": 678
+  },
+  {
+   "tipo": "date",
+   "ini": 668,
+   "fin": 672,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 681,
+   "fin": 843
+  },
+  {
+   "tipo": "img",
+   "ini": 681,
+   "fin": 686,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 688,
+   "fin": 843,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Autorretrato moto dadaista. 2014\nSelfaportrait. Dadaist motorbike, 2014\nTamaño imagen / image size: 47x47 cm\nTécnica / Technique: Barite paper. 2015 print."
+  },
+  {
+   "tipo": "title",
+   "ini": 688,
+   "fin": 714,
+   "texto": "Autorretrato moto dadaista"
+  },
+  {
+   "tipo": "date",
+   "ini": 716,
+   "fin": 720,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "translatedTitle",
+   "ini": 721,
+   "fin": 753
+  },
+  {
+   "tipo": "date",
+   "ini": 755,
+   "fin": 759,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 788,
+   "fin": 796,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "47x47 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 788,
+   "fin": 790,
+   "texto": "47"
+  },
+  {
+   "tipo": "width",
+   "ini": 791,
+   "fin": 793,
+   "texto": "47"
+  },
+  {
+   "tipo": "material",
+   "ini": 818,
+   "fin": 830,
+   "rasgos": {
+    "type": "baritePaper"
+   },
+   "texto": "Barite paper"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 832,
+   "fin": 842
+  },
+  {
+   "tipo": "date",
+   "ini": 832,
+   "fin": 836,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 845,
+   "fin": 993
+  },
+  {
+   "tipo": "img",
+   "ini": 845,
+   "fin": 850,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 852,
+   "fin": 993,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Recuerdo de Valparaiso, 2015\nSouvenir of Valparaiso, 2015\nTamaño imagen / image size: 47x47 cm\nTécnica / Technique: Barite paper. 2017 print."
+  },
+  {
+   "tipo": "title",
+   "ini": 852,
+   "fin": 874,
+   "texto": "Recuerdo de Valparaiso"
+  },
+  {
+   "tipo": "date",
+   "ini": 876,
+   "fin": 880,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "translatedTitle",
+   "ini": 881,
+   "fin": 903
+  },
+  {
+   "tipo": "date",
+   "ini": 905,
+   "fin": 909,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 938,
+   "fin": 946,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "47x47 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 938,
+   "fin": 940,
+   "texto": "47"
+  },
+  {
+   "tipo": "width",
+   "ini": 941,
+   "fin": 943,
+   "texto": "47"
+  },
+  {
+   "tipo": "material",
+   "ini": 968,
+   "fin": 980,
+   "rasgos": {
+    "type": "baritePaper"
+   },
+   "texto": "Barite paper"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 982,
+   "fin": 992
+  },
+  {
+   "tipo": "date",
+   "ini": 982,
+   "fin": 986,
+   "rasgos": {
+    "when": "017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 995,
+   "fin": 1154
+  },
+  {
+   "tipo": "img",
+   "ini": 995,
+   "fin": 1000,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1002,
+   "fin": 1154,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "San Carlos, un horizonte falso 2013\nSan Carlos, a false horizon 2013\nTamaño imagen / image size: 47x47 cm\nTécnica / Technique: Barite paper. 2014 print."
+  },
+  {
+   "tipo": "title",
+   "ini": 1002,
+   "fin": 1032,
+   "texto": "San Carlos, un horizonte falso"
+  },
+  {
+   "tipo": "date",
+   "ini": 1033,
+   "fin": 1037,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "translatedTitle",
+   "ini": 1038,
+   "fin": 1065
+  },
+  {
+   "tipo": "date",
+   "ini": 1066,
+   "fin": 1070,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1099,
+   "fin": 1107,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "47x47 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1099,
+   "fin": 1101,
+   "texto": "47"
+  },
+  {
+   "tipo": "width",
+   "ini": 1102,
+   "fin": 1104,
+   "texto": "47"
+  },
+  {
+   "tipo": "material",
+   "ini": 1129,
+   "fin": 1141,
+   "rasgos": {
+    "type": "baritePaper"
+   },
+   "texto": "Barite paper"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 1143,
+   "fin": 1153
+  },
+  {
+   "tipo": "date",
+   "ini": 1143,
+   "fin": 1147,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1156,
+   "fin": 1314
+  },
+  {
+   "tipo": "img",
+   "ini": 1156,
+   "fin": 1161,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1163,
+   "fin": 1314,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Ciudad olvidada de sí misma, 2013\nA town forgotten of herself, 2013\nTamaño imagen / image size: 47x47 cm\nTécnica / Technique: Barite paper. 2017 print."
+  },
+  {
+   "tipo": "title",
+   "ini": 1163,
+   "fin": 1190,
+   "texto": "Ciudad olvidada de sí misma"
+  },
+  {
+   "tipo": "date",
+   "ini": 1192,
+   "fin": 1196,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "translatedTitle",
+   "ini": 1197,
+   "fin": 1224
+  },
+  {
+   "tipo": "date",
+   "ini": 1226,
+   "fin": 1230,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1259,
+   "fin": 1267,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "47x47 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1259,
+   "fin": 1261,
+   "texto": "47"
+  },
+  {
+   "tipo": "width",
+   "ini": 1262,
+   "fin": 1264,
+   "texto": "47"
+  },
+  {
+   "tipo": "material",
+   "ini": 1289,
+   "fin": 1301,
+   "rasgos": {
+    "type": "baritePaper"
+   },
+   "texto": "Barite paper"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 1303,
+   "fin": 1313
+  },
+  {
+   "tipo": "date",
+   "ini": 1303,
+   "fin": 1307,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1316,
+   "fin": 1471
+  },
+  {
+   "tipo": "img",
+   "ini": 1316,
+   "fin": 1321,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1323,
+   "fin": 1471,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Visión épica de San Carlos, 2014\nEpic vision of San Carlos, 2014\nTamaño imagen / image size: 47x47 cm\nTécnica / Technique: Barite paper. 2017 print."
+  },
+  {
+   "tipo": "title",
+   "ini": 1323,
+   "fin": 1349,
+   "texto": "Visión épica de San Carlos"
+  },
+  {
+   "tipo": "date",
+   "ini": 1351,
+   "fin": 1355,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "translatedTitle",
+   "ini": 1356,
+   "fin": 1381
+  },
+  {
+   "tipo": "date",
+   "ini": 1383,
+   "fin": 1387,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1416,
+   "fin": 1424,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "47x47 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1416,
+   "fin": 1418,
+   "texto": "47"
+  },
+  {
+   "tipo": "width",
+   "ini": 1419,
+   "fin": 1421,
+   "texto": "47"
+  },
+  {
+   "tipo": "material",
+   "ini": 1446,
+   "fin": 1459,
+   "rasgos": {
+    "type": "baritePaper"
+   },
+   "texto": "Barite paper."
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 1460,
+   "fin": 1470
+  },
+  {
+   "tipo": "date",
+   "ini": 1460,
+   "fin": 1464,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1473,
+   "fin": 1646
+  },
+  {
+   "tipo": "img",
+   "ini": 1473,
+   "fin": 1478,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1480,
+   "fin": 1646,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Autorretrato. Escondido en mi miedo, 2009\nSelf - portrait. Hidden in my fear, 2009\nTamaño imagen / image size: 47x47 cm\nTécnica / Technique: Barite paper. 2017 print."
+  },
+  {
+   "tipo": "title",
+   "ini": 1480,
+   "fin": 1515,
+   "texto": "Autorretrato. Escondido en mi miedo"
+  },
+  {
+   "tipo": "date",
+   "ini": 1517,
+   "fin": 1521,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "translatedTitle",
+   "ini": 1522,
+   "fin": 1556
+  },
+  {
+   "tipo": "date",
+   "ini": 1558,
+   "fin": 1562,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1591,
+   "fin": 1599,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "47x47 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1591,
+   "fin": 1593,
+   "texto": "47"
+  },
+  {
+   "tipo": "width",
+   "ini": 1594,
+   "fin": 1596,
+   "texto": "47"
+  },
+  {
+   "tipo": "material",
+   "ini": 1621,
+   "fin": 1633,
+   "rasgos": {
+    "type": "baritePaper"
+   },
+   "texto": "Barite paper"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 1635,
+   "fin": 1645
+  },
+  {
+   "tipo": "date",
+   "ini": 1635,
+   "fin": 1639,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  }
+ ]
+}

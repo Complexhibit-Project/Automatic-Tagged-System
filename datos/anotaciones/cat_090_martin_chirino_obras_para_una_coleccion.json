@@ -1,0 +1,4543 @@
+{
+ "id": "cat_090_martin_chirino_obras_para_una_coleccion",
+ "nombre_original": "Martin__Chirino.__Obras__para__una__coleccion_(10143)",
+ "longitud_texto": 143954,
+ "sha256_texto": "f01be23c8646d96b7f39954a8e67c6a3ada86f8fd2580ac66ead1fb391ccf592",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 1659,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 38,
+   "texto": "Obras para una colección [1956 · 2013]"
+  },
+  {
+   "tipo": "date",
+   "ini": 26,
+   "fin": 37,
+   "rasgos": {
+    "from": "1956",
+    "to": "2013"
+   },
+   "texto": "1956 · 2013"
+  },
+  {
+   "tipo": "person",
+   "ini": 40,
+   "fin": 54,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40,
+   "fin": 54,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "institution",
+   "ini": 70,
+   "fin": 94,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser "
+   },
+   "texto": "CÍRCULO DE BELLAS ARTES\n"
+  },
+  {
+   "tipo": "institution",
+   "ini": 95,
+   "fin": 118,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "CÍRCULO DE BELLAS ARTES"
+  },
+  {
+   "tipo": "person",
+   "ini": 130,
+   "fin": 156,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Miguel Hernández León"
+  },
+  {
+   "tipo": "persName",
+   "ini": 130,
+   "fin": 156,
+   "texto": "Juan Miguel Hernández León"
+  },
+  {
+   "tipo": "person",
+   "ini": 166,
+   "fin": 176,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Juan Barja"
+  },
+  {
+   "tipo": "persName",
+   "ini": 166,
+   "fin": 176,
+   "texto": "Juan Barja"
+  },
+  {
+   "tipo": "person",
+   "ini": 189,
+   "fin": 209,
+   "rasgos": {
+    "role": "subDirector"
+   },
+   "texto": "Javier López-Roberts"
+  },
+  {
+   "tipo": "persName",
+   "ini": 189,
+   "fin": 209,
+   "texto": "Javier López-Roberts"
+  },
+  {
+   "tipo": "person",
+   "ini": 248,
+   "fin": 268,
+   "rasgos": {
+    "role": "organisationDirector"
+   },
+   "texto": "Pilar García Velasco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 248,
+   "fin": 268,
+   "texto": "Pilar García Velasco"
+  },
+  {
+   "tipo": "person",
+   "ini": 314,
+   "fin": 327,
+   "rasgos": {
+    "role": "organiser"
+   },
+   "texto": "Laura Manzano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 314,
+   "fin": 327,
+   "texto": "Laura Manzano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 328,
+   "fin": 344,
+   "texto": "Silvia Martínez\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 328,
+   "fin": 343,
+   "rasgos": {
+    "role": "organiser"
+   },
+   "texto": "Silvia Martínez"
+  },
+  {
+   "tipo": "person",
+   "ini": 362,
+   "fin": 387,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "Montserrat Perero Quintas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 362,
+   "fin": 387,
+   "texto": "Montserrat Perero Quintas"
+  },
+  {
+   "tipo": "person",
+   "ini": 433,
+   "fin": 452,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "Jesús María Castaño"
+  },
+  {
+   "tipo": "persName",
+   "ini": 433,
+   "fin": 452,
+   "texto": "Jesús María Castaño"
+  },
+  {
+   "tipo": "person",
+   "ini": 494,
+   "fin": 509,
+   "rasgos": {
+    "role": "organiser"
+   },
+   "texto": "Lidija Šircelj"
+  },
+  {
+   "tipo": "persName",
+   "ini": 494,
+   "fin": 509,
+   "texto": "Lidija Šircelj"
+  },
+  {
+   "tipo": "institution",
+   "ini": 519,
+   "fin": 547,
+   "rasgos": {
+    "type": "academy",
+    "role": "assembly"
+   },
+   "texto": "Departamento Técnico del CBA"
+  },
+  {
+   "tipo": "person",
+   "ini": 570,
+   "fin": 587,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Carolina del Olmo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 570,
+   "fin": 587,
+   "texto": "Carolina del Olmo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 596,
+   "fin": 614,
+   "rasgos": {
+    "type": "companyInsure"
+   },
+   "texto": "Aon Gil y Carvajal"
+  },
+  {
+   "tipo": "person",
+   "ini": 647,
+   "fin": 658,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Isabel Pozo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 647,
+   "fin": 658,
+   "texto": "Isabel Pozo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 660,
+   "fin": 691,
+   "rasgos": {
+    "type": "company",
+    "role": "organiser"
+   },
+   "texto": "ACCIÓN CULTURAL ESPAÑOLA (AC/E)"
+  },
+  {
+   "tipo": "person",
+   "ini": 729,
+   "fin": 756,
+   "rasgos": {
+    "role": "president"
+   },
+   "texto": "Mª Teresa Lizaranzu Perinat"
+  },
+  {
+   "tipo": "persName",
+   "ini": 729,
+   "fin": 756,
+   "texto": "Mª Teresa Lizaranzu Perinat"
+  },
+  {
+   "tipo": "person",
+   "ini": 769,
+   "fin": 786,
+   "rasgos": {
+    "role": "adviser"
+   },
+   "texto": "María Claver Ruiz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 769,
+   "fin": 786,
+   "texto": "María Claver Ruiz"
+  },
+  {
+   "tipo": "person",
+   "ini": 787,
+   "fin": 813,
+   "rasgos": {
+    "role": "adviser"
+   },
+   "texto": "Fernando Eguidazu Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 787,
+   "fin": 813,
+   "texto": "Fernando Eguidazu Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 814,
+   "fin": 840,
+   "rasgos": {
+    "role": "adviser"
+   },
+   "texto": "Víctor García de la Concha"
+  },
+  {
+   "tipo": "persName",
+   "ini": 814,
+   "fin": 840,
+   "texto": "Víctor García de la Concha"
+  },
+  {
+   "tipo": "person",
+   "ini": 841,
+   "fin": 875,
+   "rasgos": {
+    "role": "adviser"
+   },
+   "texto": "Manuel Ángel de Miguel Monterrubio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 841,
+   "fin": 875,
+   "texto": "Manuel Ángel de Miguel Monterrubio"
+  },
+  {
+   "tipo": "person",
+   "ini": 876,
+   "fin": 898,
+   "rasgos": {
+    "role": "adviser"
+   },
+   "texto": "Valle Ordóñez Carbajal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 876,
+   "fin": 898,
+   "texto": "Valle Ordóñez Carbajal"
+  },
+  {
+   "tipo": "person",
+   "ini": 899,
+   "fin": 921,
+   "rasgos": {
+    "role": "adviser"
+   },
+   "texto": "María Belén Plaza Cruz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 899,
+   "fin": 921,
+   "texto": "María Belén Plaza Cruz"
+  },
+  {
+   "tipo": "person",
+   "ini": 922,
+   "fin": 943,
+   "rasgos": {
+    "role": "adviser"
+   },
+   "texto": "Jesús Prieto de Pedro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 922,
+   "fin": 943,
+   "texto": "Jesús Prieto de Pedro"
+  },
+  {
+   "tipo": "person",
+   "ini": 944,
+   "fin": 969,
+   "rasgos": {
+    "role": "adviser"
+   },
+   "texto": "Miguel Ángel Recio Crespo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 944,
+   "fin": 969,
+   "texto": "Miguel Ángel Recio Crespo"
+  },
+  {
+   "tipo": "person",
+   "ini": 970,
+   "fin": 995,
+   "rasgos": {
+    "role": "adviser"
+   },
+   "texto": "Susana de la Sierra Morón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 970,
+   "fin": 995,
+   "texto": "Susana de la Sierra Morón"
+  },
+  {
+   "tipo": "person",
+   "ini": 996,
+   "fin": 1020,
+   "rasgos": {
+    "role": "adviser"
+   },
+   "texto": "Itziar Taboada Aquerreta"
+  },
+  {
+   "tipo": "persName",
+   "ini": 996,
+   "fin": 1020,
+   "texto": "Itziar Taboada Aquerreta"
+  },
+  {
+   "tipo": "person",
+   "ini": 1021,
+   "fin": 1046,
+   "rasgos": {
+    "role": "adviser"
+   },
+   "texto": "Alberto Valdivielso Cañas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1021,
+   "fin": 1046,
+   "texto": "Alberto Valdivielso Cañas"
+  },
+  {
+   "tipo": "person",
+   "ini": 1070,
+   "fin": 1085,
+   "rasgos": {
+    "role": "secretary"
+   },
+   "texto": "Nuria Díaz Abad"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1070,
+   "fin": 1085,
+   "texto": "Nuria Díaz Abad"
+  },
+  {
+   "tipo": "person",
+   "ini": 1121,
+   "fin": 1142,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Elvira Marco Martínez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1121,
+   "fin": 1142,
+   "texto": "Elvira Marco Martínez"
+  },
+  {
+   "tipo": "person",
+   "ini": 1168,
+   "fin": 1188,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Miguel Albero Suárez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1168,
+   "fin": 1188,
+   "texto": "Miguel Albero Suárez"
+  },
+  {
+   "tipo": "person",
+   "ini": 1209,
+   "fin": 1231,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Carmelo García Ollauri"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1209,
+   "fin": 1231,
+   "texto": "Carmelo García Ollauri"
+  },
+  {
+   "tipo": "person",
+   "ini": 1256,
+   "fin": 1277,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Pilar Gómez Gutiérrez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1256,
+   "fin": 1277,
+   "texto": "Pilar Gómez Gutiérrez"
+  },
+  {
+   "tipo": "person",
+   "ini": 1313,
+   "fin": 1323,
+   "rasgos": {
+    "role": "catalogueEditor"
+   },
+   "texto": "Jordi Doce"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1313,
+   "fin": 1323,
+   "texto": "Jordi Doce"
+  },
+  {
+   "tipo": "person",
+   "ini": 1324,
+   "fin": 1336,
+   "rasgos": {
+    "role": "catalogueEditor"
+   },
+   "texto": "Esther Ramón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1324,
+   "fin": 1336,
+   "texto": "Esther Ramón"
+  },
+  {
+   "tipo": "person",
+   "ini": 1337,
+   "fin": 1372,
+   "rasgos": {
+    "role": "catalogueEditor"
+   },
+   "texto": "Elena Iglesias Serna\nJavier Abellán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1337,
+   "fin": 1357,
+   "texto": "Elena Iglesias Serna"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1358,
+   "fin": 1372,
+   "texto": "Javier Abellán"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1380,
+   "fin": 1403,
+   "rasgos": {
+    "type": "studio",
+    "role": "catalogueDesign"
+   },
+   "texto": "Estudio Joaquín Gallego"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1414,
+   "fin": 1441,
+   "rasgos": {
+    "type": "company",
+    "role": "printer"
+   },
+   "texto": "Brizzolis, arte en gráficas"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1444,
+   "fin": 1525,
+   "rasgos": {
+    "type": "academy",
+    "role": "owner"
+   },
+   "texto": "Círculo de Bellas Artes, 2013\nAlcalá, 42. 28014 Madrid\nwww.circulobellasartes.com"
+  },
+  {
+   "tipo": "date",
+   "ini": 1469,
+   "fin": 1473,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "address",
+   "ini": 1474,
+   "fin": 1498,
+   "texto": "Alcalá, 42. 28014 Madrid"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1492,
+   "fin": 1498,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "person",
+   "ini": 1590,
+   "fin": 1605,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Alfredo Delgado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1590,
+   "fin": 1605,
+   "texto": "Alfredo Delgado"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1661,
+   "fin": 2049,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 1661,
+   "fin": 1699,
+   "texto": "Obras para una colección [1956 · 2013]"
+  },
+  {
+   "tipo": "date",
+   "ini": 1687,
+   "fin": 1698,
+   "rasgos": {
+    "from": "1956",
+    "to": "2013"
+   },
+   "texto": "1956 · 2013"
+  },
+  {
+   "tipo": "person",
+   "ini": 1701,
+   "fin": 1715,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1701,
+   "fin": 1715,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1819,
+   "fin": 1822,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "CBA"
+  },
+  {
+   "tipo": "person",
+   "ini": 1971,
+   "fin": 1985,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1971,
+   "fin": 1985,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 2013,
+   "fin": 2027,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2013,
+   "fin": 2027,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 2058,
+   "fin": 2072,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2058,
+   "fin": 2072,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2151,
+   "fin": 2174,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Círculo de Bellas Artes"
+  },
+  {
+   "tipo": "person",
+   "ini": 2371,
+   "fin": 2378,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2371,
+   "fin": 2378,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2413,
+   "fin": 2420,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Círculo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2510,
+   "fin": 2533,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Círculo de Bellas Artes"
+  },
+  {
+   "tipo": "person",
+   "ini": 2592,
+   "fin": 2641,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino (Las Palmas de Gran Canaria, 1925)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2592,
+   "fin": 2606,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "birth",
+   "ini": 2608,
+   "fin": 2640
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2608,
+   "fin": 2634,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Las Palmas de Gran Canaria"
+  },
+  {
+   "tipo": "date",
+   "ini": 2636,
+   "fin": 2640,
+   "rasgos": {
+    "when": "1925"
+   },
+   "texto": "1925"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2662,
+   "fin": 2665,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "CBA"
+  },
+  {
+   "tipo": "person",
+   "ini": 3248,
+   "fin": 3255,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3248,
+   "fin": 3255,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4705,
+   "fin": 4729,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Círculo de Bellas Artes\n"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 4730,
+   "fin": 4895,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 4730,
+   "fin": 4761,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Acción Cultural Española (AC/E)"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4778,
+   "fin": 4817,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Círculo de Bellas Artes de\nMadrid (CBA)"
+  },
+  {
+   "tipo": "title",
+   "ini": 4854,
+   "fin": 4894,
+   "texto": "Martín Chirino. Obras para una\ncolección"
+  },
+  {
+   "tipo": "person",
+   "ini": 4854,
+   "fin": 4868,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4854,
+   "fin": 4868,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 5164,
+   "fin": 5171,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5164,
+   "fin": 5171,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 5391,
+   "fin": 5405,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5391,
+   "fin": 5405,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 5619,
+   "fin": 5626,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5619,
+   "fin": 5626,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5761,
+   "fin": 5764,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "CBA"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5840,
+   "fin": 5844,
+   "rasgos": {
+    "type": "company",
+    "role": "organiser"
+   },
+   "texto": "AC/E"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6357,
+   "fin": 6361,
+   "rasgos": {
+    "type": "company",
+    "role": "organiser"
+   },
+   "texto": "AC/E"
+  },
+  {
+   "tipo": "person",
+   "ini": 6529,
+   "fin": 6543,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6529,
+   "fin": 6543,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6573,
+   "fin": 6604,
+   "rasgos": {
+    "type": "company",
+    "role": "organiser"
+   },
+   "texto": "Acción Cultural Española (AC/E)"
+  },
+  {
+   "tipo": "person",
+   "ini": 6832,
+   "fin": 6846,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6832,
+   "fin": 6846,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 9165,
+   "fin": 9179,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9165,
+   "fin": 9179,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 10010,
+   "fin": 10024,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10010,
+   "fin": 10024,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 10568,
+   "fin": 10582,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10568,
+   "fin": 10582,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 10951,
+   "fin": 10965,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10951,
+   "fin": 10965,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 12209,
+   "fin": 12223,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12209,
+   "fin": 12223,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 12435,
+   "fin": 12449,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12435,
+   "fin": 12449,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 12613,
+   "fin": 12627,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12613,
+   "fin": 12627,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 12984,
+   "fin": 12998,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12984,
+   "fin": 12998,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 13656,
+   "fin": 13670,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13656,
+   "fin": 13670,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 13779,
+   "fin": 13793,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13779,
+   "fin": 13793,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 14844,
+   "fin": 14858,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín\nChirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14844,
+   "fin": 14858,
+   "texto": "Martín\nChirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 15686,
+   "fin": 15700,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15686,
+   "fin": 15700,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 16399,
+   "fin": 16413,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín\nChirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16399,
+   "fin": 16413,
+   "texto": "Martín\nChirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 16592,
+   "fin": 16606,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16592,
+   "fin": 16606,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 17536,
+   "fin": 17543,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17536,
+   "fin": 17543,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 17570,
+   "fin": 17577,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17570,
+   "fin": 17577,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 17976,
+   "fin": 17990,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17976,
+   "fin": 17990,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 18044,
+   "fin": 18051,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18044,
+   "fin": 18051,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 18612,
+   "fin": 18619,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18612,
+   "fin": 18619,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 19315,
+   "fin": 19329,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19315,
+   "fin": 19329,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 20462,
+   "fin": 20469,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20462,
+   "fin": 20469,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 20835,
+   "fin": 20849,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20835,
+   "fin": 20849,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 21259,
+   "fin": 21273,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21259,
+   "fin": 21273,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 21568,
+   "fin": 21582,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21568,
+   "fin": 21582,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 21746,
+   "fin": 21760,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21746,
+   "fin": 21760,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 21973,
+   "fin": 21987,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21973,
+   "fin": 21987,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 22476,
+   "fin": 22490,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22476,
+   "fin": 22490,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 23187,
+   "fin": 23201,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23187,
+   "fin": 23201,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 23375,
+   "fin": 23389,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23375,
+   "fin": 23389,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 25317,
+   "fin": 25331,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25317,
+   "fin": 25331,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 25655,
+   "fin": 25662,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25655,
+   "fin": 25662,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 26400,
+   "fin": 26414,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26400,
+   "fin": 26414,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 26933,
+   "fin": 26947,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26933,
+   "fin": 26947,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 27214,
+   "fin": 27221,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27214,
+   "fin": 27221,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 27856,
+   "fin": 27863,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27856,
+   "fin": 27863,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 29263,
+   "fin": 29277,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29263,
+   "fin": 29277,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 29778,
+   "fin": 29792,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29778,
+   "fin": 29792,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 30876,
+   "fin": 30890,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30876,
+   "fin": 30890,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 31436,
+   "fin": 31450,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31436,
+   "fin": 31450,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 32024,
+   "fin": 32031,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 32024,
+   "fin": 32031,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 32497,
+   "fin": 32504,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 32497,
+   "fin": 32504,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 32732,
+   "fin": 32739,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 32732,
+   "fin": 32739,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 32891,
+   "fin": 32898,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 32891,
+   "fin": 32898,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 33075,
+   "fin": 33082,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 33075,
+   "fin": 33082,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 34148,
+   "fin": 34155,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 34148,
+   "fin": 34155,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 34569,
+   "fin": 34576,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 34569,
+   "fin": 34576,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 34639,
+   "fin": 34646,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 34639,
+   "fin": 34646,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 35004,
+   "fin": 35011,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35004,
+   "fin": 35011,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 36121,
+   "fin": 36128,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 36121,
+   "fin": 36128,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 37723,
+   "fin": 37730,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37723,
+   "fin": 37730,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 38142,
+   "fin": 38149,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38142,
+   "fin": 38149,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 38573,
+   "fin": 38580,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38573,
+   "fin": 38580,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 40183,
+   "fin": 40197,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40183,
+   "fin": 40197,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 40440,
+   "fin": 40454,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40440,
+   "fin": 40454,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 41543,
+   "fin": 41557,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 41543,
+   "fin": 41557,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 41630,
+   "fin": 41644,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín\nChirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 41630,
+   "fin": 41644,
+   "texto": "Martín\nChirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 41694,
+   "fin": 41708,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 41694,
+   "fin": 41708,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 46002,
+   "fin": 46016,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 46002,
+   "fin": 46016,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 46682,
+   "fin": 46696,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 46682,
+   "fin": 46696,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 47863,
+   "fin": 47877,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 47863,
+   "fin": 47877,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 48850,
+   "fin": 48864,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48850,
+   "fin": 48864,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 49919,
+   "fin": 49926,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49919,
+   "fin": 49926,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 50336,
+   "fin": 50343,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50336,
+   "fin": 50343,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 51271,
+   "fin": 51278,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 51271,
+   "fin": 51278,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 51373,
+   "fin": 51380,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 51373,
+   "fin": 51380,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 51612,
+   "fin": 51626,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 51612,
+   "fin": 51626,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 51655,
+   "fin": 51669,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 51655,
+   "fin": 51669,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 51742,
+   "fin": 51749,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 51742,
+   "fin": 51749,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 52096,
+   "fin": 52110,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 52096,
+   "fin": 52110,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 53420,
+   "fin": 53427,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 53420,
+   "fin": 53427,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 53606,
+   "fin": 53613,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 53606,
+   "fin": 53613,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 54043,
+   "fin": 54057,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 54043,
+   "fin": 54057,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 54636,
+   "fin": 54650,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 54636,
+   "fin": 54650,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 54656,
+   "fin": 54670,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 54656,
+   "fin": 54670,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 56462,
+   "fin": 56476,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56462,
+   "fin": 56476,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 56955,
+   "fin": 56962,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56955,
+   "fin": 56962,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 57931,
+   "fin": 57938,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57931,
+   "fin": 57938,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 58106,
+   "fin": 58120,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 58106,
+   "fin": 58120,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 58148,
+   "fin": 58162,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 58148,
+   "fin": 58162,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 58531,
+   "fin": 58538,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 58531,
+   "fin": 58538,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 59160,
+   "fin": 59167,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 59160,
+   "fin": 59167,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 60017,
+   "fin": 60031,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 60017,
+   "fin": 60031,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 60070,
+   "fin": 60084,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 60070,
+   "fin": 60084,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 60319,
+   "fin": 60333,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 60319,
+   "fin": 60333,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 61745,
+   "fin": 61759,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 61745,
+   "fin": 61759,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 62239,
+   "fin": 62253,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 62239,
+   "fin": 62253,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 62463,
+   "fin": 62477,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 62463,
+   "fin": 62477,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 63005,
+   "fin": 63012,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 63005,
+   "fin": 63012,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 64028,
+   "fin": 64035,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 64028,
+   "fin": 64035,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 68652,
+   "fin": 68666,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín\nChirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 68652,
+   "fin": 68666,
+   "texto": "Martín\nChirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 69942,
+   "fin": 69949,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 69942,
+   "fin": 69949,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 71345,
+   "fin": 71359,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 71345,
+   "fin": 71359,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 71625,
+   "fin": 71632,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 71625,
+   "fin": 71632,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 71860,
+   "fin": 71867,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 71860,
+   "fin": 71867,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 72196,
+   "fin": 72203,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 72196,
+   "fin": 72203,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 72612,
+   "fin": 72619,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 72612,
+   "fin": 72619,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 72799,
+   "fin": 72813,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 72799,
+   "fin": 72813,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 73523,
+   "fin": 73537,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 73523,
+   "fin": 73537,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 73849,
+   "fin": 73863,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 73849,
+   "fin": 73863,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 73869,
+   "fin": 73883,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 73869,
+   "fin": 73883,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 74118,
+   "fin": 74132,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74118,
+   "fin": 74132,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 74408,
+   "fin": 74422,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74408,
+   "fin": 74422,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 74620,
+   "fin": 74634,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74620,
+   "fin": 74634,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 74692,
+   "fin": 74706,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74692,
+   "fin": 74706,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 74722,
+   "fin": 74736,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74722,
+   "fin": 74736,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 74781,
+   "fin": 74795,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74781,
+   "fin": 74795,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 75961,
+   "fin": 75975,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75961,
+   "fin": 75975,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 78774,
+   "fin": 78788,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 78774,
+   "fin": 78788,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 79039,
+   "fin": 79053,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín\nChirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 79039,
+   "fin": 79053,
+   "texto": "Martín\nChirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 80351,
+   "fin": 80365,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 80351,
+   "fin": 80365,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 80393,
+   "fin": 80407,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 80393,
+   "fin": 80407,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 80514,
+   "fin": 80528,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 80514,
+   "fin": 80528,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 80761,
+   "fin": 80775,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 80761,
+   "fin": 80775,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 81695,
+   "fin": 81709,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 81695,
+   "fin": 81709,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 82339,
+   "fin": 82353,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 82339,
+   "fin": 82353,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 83796,
+   "fin": 83810,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 83796,
+   "fin": 83810,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 85624,
+   "fin": 85638,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 85624,
+   "fin": 85638,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 85835,
+   "fin": 85842,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 85835,
+   "fin": 85842,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 87309,
+   "fin": 87316,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 87309,
+   "fin": 87316,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 87728,
+   "fin": 87742,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 87728,
+   "fin": 87742,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 87964,
+   "fin": 87978,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 87964,
+   "fin": 87978,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 88648,
+   "fin": 88655,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 88648,
+   "fin": 88655,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 88901,
+   "fin": 88908,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 88901,
+   "fin": 88908,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 90632,
+   "fin": 90646,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 90632,
+   "fin": 90646,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 92190,
+   "fin": 93938
+  },
+  {
+   "tipo": "title",
+   "ini": 92196,
+   "fin": 92209,
+   "texto": "Alfaguara III"
+  },
+  {
+   "tipo": "date",
+   "ini": 92211,
+   "fin": 92215,
+   "rasgos": {
+    "when": "2000"
+   },
+   "texto": "2000"
+  },
+  {
+   "tipo": "persName",
+   "ini": 92218,
+   "fin": 92234,
+   "texto": "Alfredo Delgado\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 92218,
+   "fin": 92233,
+   "rasgos": {
+    "role": "owner"
+   },
+   "texto": "Alfredo Delgado"
+  },
+  {
+   "tipo": "work",
+   "ini": 92235,
+   "fin": 92355,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "EL VIENTO SOLANO V\nHierro forjado pátina óxido/cera\n2008 (enero) (modificado en octubre 2010)\n286 x 275 x 156 cm\n\n[img]\n"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 92235,
+   "fin": 92354
+  },
+  {
+   "tipo": "title",
+   "ini": 92235,
+   "fin": 92253,
+   "texto": "EL VIENTO SOLANO V"
+  },
+  {
+   "tipo": "technique",
+   "ini": 92254,
+   "fin": 92286,
+   "rasgos": {
+    "type": "iron"
+   },
+   "texto": "Hierro forjado pátina óxido/cera"
+  },
+  {
+   "tipo": "date",
+   "ini": 92287,
+   "fin": 92299,
+   "rasgos": {
+    "from": "2008-01-01",
+    "to": "2008-01-31"
+   },
+   "texto": "2008 (enero)"
+  },
+  {
+   "tipo": "date",
+   "ini": 92315,
+   "fin": 92327,
+   "rasgos": {
+    "from": "2010-10-01",
+    "to": "2010-10-31"
+   },
+   "texto": "octubre 2010"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 92329,
+   "fin": 92347,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "286 x 275 x 156 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 92329,
+   "fin": 92332,
+   "texto": "286"
+  },
+  {
+   "tipo": "width",
+   "ini": 92335,
+   "fin": 92338,
+   "texto": "275"
+  },
+  {
+   "tipo": "depth",
+   "ini": 92341,
+   "fin": 92344,
+   "texto": "156"
+  },
+  {
+   "tipo": "img",
+   "ini": 92349,
+   "fin": 92354,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 92356,
+   "fin": 92439
+  },
+  {
+   "tipo": "work",
+   "ini": 92356,
+   "fin": 92432,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "HOMENAJE SERIE MARINETTI (XV)\nHierro forjado pavonado, 2010\n54 x 149 x 35 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 92356,
+   "fin": 92385,
+   "texto": "HOMENAJE SERIE MARINETTI (XV)"
+  },
+  {
+   "tipo": "technique",
+   "ini": 92386,
+   "fin": 92409,
+   "rasgos": {
+    "type": "iron"
+   },
+   "texto": "Hierro forjado pavonado"
+  },
+  {
+   "tipo": "date",
+   "ini": 92411,
+   "fin": 92415,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 92416,
+   "fin": 92432,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "54 x 149 x 35 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 92416,
+   "fin": 92418,
+   "texto": "54"
+  },
+  {
+   "tipo": "width",
+   "ini": 92421,
+   "fin": 92424,
+   "texto": "149"
+  },
+  {
+   "tipo": "depth",
+   "ini": 92427,
+   "fin": 92429,
+   "texto": "35"
+  },
+  {
+   "tipo": "img",
+   "ini": 92434,
+   "fin": 92439,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 92441,
+   "fin": 92509
+  },
+  {
+   "tipo": "work",
+   "ini": 92441,
+   "fin": 92502,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "PAISAJE (32)\nHierro forjado pavonado, 2010\n36,5 x 148 x 62 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 92441,
+   "fin": 92453,
+   "texto": "PAISAJE (32)"
+  },
+  {
+   "tipo": "technique",
+   "ini": 92454,
+   "fin": 92477,
+   "rasgos": {
+    "type": "iron"
+   },
+   "texto": "Hierro forjado pavonado"
+  },
+  {
+   "tipo": "date",
+   "ini": 92479,
+   "fin": 92483,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 92484,
+   "fin": 92502,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "36,5 x 148 x 62 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 92484,
+   "fin": 92488,
+   "texto": "36,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 92491,
+   "fin": 92494,
+   "texto": "148"
+  },
+  {
+   "tipo": "depth",
+   "ini": 92497,
+   "fin": 92499,
+   "texto": "62"
+  },
+  {
+   "tipo": "img",
+   "ini": 92504,
+   "fin": 92509,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 92511,
+   "fin": 92619
+  },
+  {
+   "tipo": "img",
+   "ini": 92511,
+   "fin": 92517,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 92518,
+   "fin": 92619,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "MOMENTOS III\nREFLEXIÓN SOBRE EL GUERNICA\nHierro forjado pátina óxido/cera, 2008\n107,5 x 159 x 52,5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 92518,
+   "fin": 92558,
+   "texto": "MOMENTOS III\nREFLEXIÓN SOBRE EL GUERNICA"
+  },
+  {
+   "tipo": "technique",
+   "ini": 92559,
+   "fin": 92591,
+   "rasgos": {
+    "type": "iron"
+   },
+   "texto": "Hierro forjado pátina óxido/cera"
+  },
+  {
+   "tipo": "date",
+   "ini": 92593,
+   "fin": 92597,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 92598,
+   "fin": 92619,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "107,5 x 159 x 52,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 92598,
+   "fin": 92603,
+   "texto": "107,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 92606,
+   "fin": 92609,
+   "texto": "159"
+  },
+  {
+   "tipo": "depth",
+   "ini": 92612,
+   "fin": 92616,
+   "texto": "52,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 92621,
+   "fin": 92724
+  },
+  {
+   "tipo": "work",
+   "ini": 92621,
+   "fin": 92717,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "MOMENTOS III\nREFLEXIÓN SOBRE EL GUERNICA\nHierro forjado pátina óxido/cera, 2008\n87 x 126 x 35 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 92621,
+   "fin": 92661,
+   "texto": "MOMENTOS III\nREFLEXIÓN SOBRE EL GUERNICA"
+  },
+  {
+   "tipo": "technique",
+   "ini": 92662,
+   "fin": 92694,
+   "rasgos": {
+    "type": "iron"
+   },
+   "texto": "Hierro forjado pátina óxido/cera"
+  },
+  {
+   "tipo": "date",
+   "ini": 92696,
+   "fin": 92700,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 92701,
+   "fin": 92717,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "87 x 126 x 35 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 92701,
+   "fin": 92703,
+   "texto": "87"
+  },
+  {
+   "tipo": "width",
+   "ini": 92706,
+   "fin": 92709,
+   "texto": "126"
+  },
+  {
+   "tipo": "depth",
+   "ini": 92712,
+   "fin": 92714,
+   "texto": "35"
+  },
+  {
+   "tipo": "img",
+   "ini": 92719,
+   "fin": 92724,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 92725,
+   "fin": 92829,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "\nGIGANTES QUE NO MOLINOS... HOMENAJE A EL QUIJOTE\nHierro forjado, 2005\n370 x 170 x 150 cm (peso: 460 kg)"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 92726,
+   "fin": 92836
+  },
+  {
+   "tipo": "title",
+   "ini": 92726,
+   "fin": 92774,
+   "texto": "GIGANTES QUE NO MOLINOS... HOMENAJE A EL QUIJOTE"
+  },
+  {
+   "tipo": "technique",
+   "ini": 92775,
+   "fin": 92789,
+   "rasgos": {
+    "type": "iron"
+   },
+   "texto": "Hierro forjado"
+  },
+  {
+   "tipo": "date",
+   "ini": 92791,
+   "fin": 92795,
+   "rasgos": {
+    "when": "2005"
+   },
+   "texto": "2005"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 92796,
+   "fin": 92814,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "370 x 170 x 150 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 92796,
+   "fin": 92799,
+   "texto": "370"
+  },
+  {
+   "tipo": "width",
+   "ini": 92802,
+   "fin": 92805,
+   "texto": "170"
+  },
+  {
+   "tipo": "depth",
+   "ini": 92808,
+   "fin": 92811,
+   "texto": "150"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 92822,
+   "fin": 92828,
+   "rasgos": {
+    "unit": "kg"
+   },
+   "texto": "460 kg"
+  },
+  {
+   "tipo": "weight",
+   "ini": 92822,
+   "fin": 92825,
+   "texto": "460"
+  },
+  {
+   "tipo": "img",
+   "ini": 92831,
+   "fin": 92836,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 92838,
+   "fin": 92956
+  },
+  {
+   "tipo": "img",
+   "ini": 92838,
+   "fin": 92843,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 92844,
+   "fin": 92849,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 92851,
+   "fin": 92956,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "HERRAMIENTA POÉTICA E INÚTIL (2)\nHierro forjado, 1956/1957\n(Restaurada en 2011 mayo)\n302,5 x 73 x 22,5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 92851,
+   "fin": 92883,
+   "texto": "HERRAMIENTA POÉTICA E INÚTIL (2)"
+  },
+  {
+   "tipo": "technique",
+   "ini": 92884,
+   "fin": 92898,
+   "rasgos": {
+    "type": "iron"
+   },
+   "texto": "Hierro forjado"
+  },
+  {
+   "tipo": "date",
+   "ini": 92900,
+   "fin": 92909,
+   "rasgos": {
+    "notBefore": "1956",
+    "notAfter": "1957"
+   },
+   "texto": "1956/1957"
+  },
+  {
+   "tipo": "date",
+   "ini": 92925,
+   "fin": 92934,
+   "rasgos": {
+    "from": "2011-05-01",
+    "to": "2011-05-31"
+   },
+   "texto": "2011 mayo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 92936,
+   "fin": 92956,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "302,5 x 73 x 22,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 92936,
+   "fin": 92941,
+   "texto": "302,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 92944,
+   "fin": 92946,
+   "texto": "73"
+  },
+  {
+   "tipo": "depth",
+   "ini": 92949,
+   "fin": 92953,
+   "texto": "22,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 92958,
+   "fin": 93047
+  },
+  {
+   "tipo": "work",
+   "ini": 92958,
+   "fin": 93040,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "MI PATRIA ES UNA ROCA III\nHierro forjado pátina óxido/cera, 2006\n70 x 130 x 130 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 92958,
+   "fin": 92983,
+   "texto": "MI PATRIA ES UNA ROCA III"
+  },
+  {
+   "tipo": "technique",
+   "ini": 92984,
+   "fin": 93016,
+   "rasgos": {
+    "type": "iron"
+   },
+   "texto": "Hierro forjado pátina óxido/cera"
+  },
+  {
+   "tipo": "date",
+   "ini": 93018,
+   "fin": 93022,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 93023,
+   "fin": 93040,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 130 x 130 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 93023,
+   "fin": 93025,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 93028,
+   "fin": 93031,
+   "texto": "130"
+  },
+  {
+   "tipo": "depth",
+   "ini": 93034,
+   "fin": 93037,
+   "texto": "130"
+  },
+  {
+   "tipo": "img",
+   "ini": 93042,
+   "fin": 93047,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 93049,
+   "fin": 93137
+  },
+  {
+   "tipo": "work",
+   "ini": 93049,
+   "fin": 93130,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "MI PATRIA ES UNA ROCA IV\nHierro forjado pátina óxido/cera, 2006\n65 x 130 x 130 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 93049,
+   "fin": 93073,
+   "texto": "MI PATRIA ES UNA ROCA IV"
+  },
+  {
+   "tipo": "technique",
+   "ini": 93074,
+   "fin": 93106,
+   "rasgos": {
+    "type": "iron"
+   },
+   "texto": "Hierro forjado pátina óxido/cera"
+  },
+  {
+   "tipo": "date",
+   "ini": 93108,
+   "fin": 93112,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 93113,
+   "fin": 93130,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 130 x 130 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 93113,
+   "fin": 93115,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 93118,
+   "fin": 93121,
+   "texto": "130"
+  },
+  {
+   "tipo": "depth",
+   "ini": 93124,
+   "fin": 93127,
+   "texto": "130"
+  },
+  {
+   "tipo": "img",
+   "ini": 93132,
+   "fin": 93137,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 93139,
+   "fin": 93235
+  },
+  {
+   "tipo": "work",
+   "ini": 93139,
+   "fin": 93228,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "CABEZA SANTA TERESA II\nCRÓNICA DEL SIGLO XX\nBronce patinado negro, 2007\n33 x 30,5 x 33 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 93139,
+   "fin": 93182,
+   "texto": "CABEZA SANTA TERESA II\nCRÓNICA DEL SIGLO XX"
+  },
+  {
+   "tipo": "technique",
+   "ini": 93183,
+   "fin": 93204,
+   "rasgos": {
+    "type": "bronze"
+   },
+   "texto": "Bronce patinado negro"
+  },
+  {
+   "tipo": "date",
+   "ini": 93206,
+   "fin": 93210,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 93211,
+   "fin": 93228,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "33 x 30,5 x 33 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 93211,
+   "fin": 93213,
+   "texto": "33"
+  },
+  {
+   "tipo": "width",
+   "ini": 93216,
+   "fin": 93220,
+   "texto": "30,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 93223,
+   "fin": 93225,
+   "texto": "33"
+  },
+  {
+   "tipo": "img",
+   "ini": 93230,
+   "fin": 93235,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 93237,
+   "fin": 93316
+  },
+  {
+   "tipo": "work",
+   "ini": 93237,
+   "fin": 93309,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "EL VIENTO\nHierro forjado, 1968\n49,5 x 47,5 x 12 cm\nColección del Artista"
+  },
+  {
+   "tipo": "title",
+   "ini": 93237,
+   "fin": 93246,
+   "texto": "EL VIENTO"
+  },
+  {
+   "tipo": "technique",
+   "ini": 93247,
+   "fin": 93261,
+   "rasgos": {
+    "type": "iron"
+   },
+   "texto": "Hierro forjado"
+  },
+  {
+   "tipo": "date",
+   "ini": 93263,
+   "fin": 93267,
+   "rasgos": {
+    "when": "1968"
+   },
+   "texto": "1968"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 93268,
+   "fin": 93287,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "49,5 x 47,5 x 12 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 93268,
+   "fin": 93272,
+   "texto": "49,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 93275,
+   "fin": 93279,
+   "texto": "47,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 93282,
+   "fin": 93284,
+   "texto": "12"
+  },
+  {
+   "tipo": "img",
+   "ini": 93311,
+   "fin": 93316,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 93318,
+   "fin": 93453
+  },
+  {
+   "tipo": "work",
+   "ini": 93318,
+   "fin": 93446,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "CABEZA.\nCRÓNICA DEL SIGLO XX. (7)\nCABEZA DE GRETA GARBO II\nHierro forjado empavonado,\n1984-1985\n43 x 69 x 43 cm\n© Archivo Azcona"
+  },
+  {
+   "tipo": "title",
+   "ini": 93318,
+   "fin": 93376,
+   "texto": "CABEZA.\nCRÓNICA DEL SIGLO XX. (7)\nCABEZA DE GRETA GARBO II"
+  },
+  {
+   "tipo": "technique",
+   "ini": 93377,
+   "fin": 93402,
+   "rasgos": {
+    "type": "iron"
+   },
+   "texto": "Hierro forjado empavonado"
+  },
+  {
+   "tipo": "date",
+   "ini": 93404,
+   "fin": 93413,
+   "rasgos": {
+    "from": "1984",
+    "to": "1985"
+   },
+   "texto": "1984-1985"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 93414,
+   "fin": 93429,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "43 x 69 x 43 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 93414,
+   "fin": 93416,
+   "texto": "43"
+  },
+  {
+   "tipo": "width",
+   "ini": 93419,
+   "fin": 93421,
+   "texto": "69"
+  },
+  {
+   "tipo": "depth",
+   "ini": 93424,
+   "fin": 93426,
+   "texto": "43"
+  },
+  {
+   "tipo": "institution",
+   "ini": 93432,
+   "fin": 93446,
+   "rasgos": {
+    "type": "archive",
+    "role": "owner"
+   },
+   "texto": "Archivo Azcona"
+  },
+  {
+   "tipo": "img",
+   "ini": 93448,
+   "fin": 93453,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 93455,
+   "fin": 93561
+  },
+  {
+   "tipo": "work",
+   "ini": 93455,
+   "fin": 93554,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "AFROCÁN\nBronce, 2012\n85 x 46,5 x 9 cm\nFundición: Talleres Faurar Art. Rumanía\nColección del Artista"
+  },
+  {
+   "tipo": "title",
+   "ini": 93455,
+   "fin": 93462,
+   "texto": "AFROCÁN"
+  },
+  {
+   "tipo": "technique",
+   "ini": 93463,
+   "fin": 93469,
+   "rasgos": {
+    "type": "bronze"
+   },
+   "texto": "Bronce"
+  },
+  {
+   "tipo": "date",
+   "ini": 93471,
+   "fin": 93475,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 93476,
+   "fin": 93492,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "85 x 46,5 x 9 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 93476,
+   "fin": 93478,
+   "texto": "85"
+  },
+  {
+   "tipo": "width",
+   "ini": 93481,
+   "fin": 93485,
+   "texto": "46,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 93488,
+   "fin": 93489,
+   "texto": "9"
+  },
+  {
+   "tipo": "institution",
+   "ini": 93504,
+   "fin": 93532,
+   "rasgos": {
+    "type": "company",
+    "role": "manufacturer"
+   },
+   "texto": "Talleres Faurar Art. Rumanía"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 93525,
+   "fin": 93532,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Rumanía"
+  },
+  {
+   "tipo": "person",
+   "ini": 93547,
+   "fin": 93554,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "Artista"
+  },
+  {
+   "tipo": "img",
+   "ini": 93556,
+   "fin": 93561,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 93563,
+   "fin": 93669
+  },
+  {
+   "tipo": "work",
+   "ini": 93563,
+   "fin": 93662,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "AFROCÁN\nBronce, 2012\n105 x 50 x 12 cm\nFundición: Talleres Faurar Art. Rumanía\nColección del Artista"
+  },
+  {
+   "tipo": "title",
+   "ini": 93563,
+   "fin": 93570,
+   "texto": "AFROCÁN"
+  },
+  {
+   "tipo": "technique",
+   "ini": 93571,
+   "fin": 93577,
+   "rasgos": {
+    "type": "bronze"
+   },
+   "texto": "Bronce"
+  },
+  {
+   "tipo": "date",
+   "ini": 93579,
+   "fin": 93583,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 93584,
+   "fin": 93600,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "105 x 50 x 12 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 93584,
+   "fin": 93587,
+   "texto": "105"
+  },
+  {
+   "tipo": "width",
+   "ini": 93590,
+   "fin": 93592,
+   "texto": "50"
+  },
+  {
+   "tipo": "depth",
+   "ini": 93595,
+   "fin": 93597,
+   "texto": "12"
+  },
+  {
+   "tipo": "institution",
+   "ini": 93612,
+   "fin": 93641,
+   "rasgos": {
+    "type": "company",
+    "role": "manufacturer"
+   },
+   "texto": "Talleres Faurar Art. Rumanía\n"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 93633,
+   "fin": 93640,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Rumanía"
+  },
+  {
+   "tipo": "person",
+   "ini": 93655,
+   "fin": 93662,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "Artista"
+  },
+  {
+   "tipo": "img",
+   "ini": 93664,
+   "fin": 93669,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 93671,
+   "fin": 93776
+  },
+  {
+   "tipo": "work",
+   "ini": 93671,
+   "fin": 93769,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "CABEZA. CRÓNICA DEL SIGLO XX. (24)\nRETRATO DE DAMA\nHierro forjado empavonado, 2000\n58 x 57 x 37 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 93671,
+   "fin": 93721,
+   "texto": "CABEZA. CRÓNICA DEL SIGLO XX. (24)\nRETRATO DE DAMA"
+  },
+  {
+   "tipo": "technique",
+   "ini": 93722,
+   "fin": 93747,
+   "rasgos": {
+    "type": "iron"
+   },
+   "texto": "Hierro forjado empavonado"
+  },
+  {
+   "tipo": "date",
+   "ini": 93749,
+   "fin": 93753,
+   "rasgos": {
+    "when": "2000"
+   },
+   "texto": "2000"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 93754,
+   "fin": 93769,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "58 x 57 x 37 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 93754,
+   "fin": 93756,
+   "texto": "58"
+  },
+  {
+   "tipo": "width",
+   "ini": 93759,
+   "fin": 93761,
+   "texto": "57"
+  },
+  {
+   "tipo": "depth",
+   "ini": 93764,
+   "fin": 93766,
+   "texto": "37"
+  },
+  {
+   "tipo": "img",
+   "ini": 93771,
+   "fin": 93776,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 93778,
+   "fin": 93872
+  },
+  {
+   "tipo": "work",
+   "ini": 93778,
+   "fin": 93865,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "AFROCÁN\nHierro forjado, 2012\n39,5 x 26,5 x 2 cm\nFundición: Talleres Faurar Art. Rumanía"
+  },
+  {
+   "tipo": "title",
+   "ini": 93778,
+   "fin": 93785,
+   "texto": "AFROCÁN"
+  },
+  {
+   "tipo": "technique",
+   "ini": 93786,
+   "fin": 93800,
+   "rasgos": {
+    "type": "iron"
+   },
+   "texto": "Hierro forjado"
+  },
+  {
+   "tipo": "date",
+   "ini": 93802,
+   "fin": 93806,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 93807,
+   "fin": 93825,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "39,5 x 26,5 x 2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 93807,
+   "fin": 93811,
+   "texto": "39,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 93814,
+   "fin": 93818,
+   "texto": "26,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 93821,
+   "fin": 93822,
+   "texto": "2"
+  },
+  {
+   "tipo": "institution",
+   "ini": 93837,
+   "fin": 93865,
+   "rasgos": {
+    "type": "company",
+    "role": "manufacturer"
+   },
+   "texto": "Talleres Faurar Art. Rumanía"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 93858,
+   "fin": 93865,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Rumanía"
+  },
+  {
+   "tipo": "img",
+   "ini": 93867,
+   "fin": 93872,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 93874,
+   "fin": 93938
+  },
+  {
+   "tipo": "work",
+   "ini": 93874,
+   "fin": 93931,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "VIENTO\nTécnica mixta\nPlomo sobre papel, 2013\n200 x 200 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 93874,
+   "fin": 93880,
+   "texto": "VIENTO"
+  },
+  {
+   "tipo": "technique",
+   "ini": 93881,
+   "fin": 93913,
+   "rasgos": {
+    "type": "mixed, lead "
+   },
+   "texto": "Técnica mixta\nPlomo sobre papel,"
+  },
+  {
+   "tipo": "date",
+   "ini": 93914,
+   "fin": 93918,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 93919,
+   "fin": 93931,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 200 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 93919,
+   "fin": 93922,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 93925,
+   "fin": 93928,
+   "texto": "200"
+  },
+  {
+   "tipo": "img",
+   "ini": 93933,
+   "fin": 93938,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 93951,
+   "fin": 94008,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín CHIRINO nace en Las Palmas de Gran Canaria\nen 1925"
+  },
+  {
+   "tipo": "persName",
+   "ini": 93951,
+   "fin": 93965,
+   "texto": "Martín CHIRINO"
+  },
+  {
+   "tipo": "birth",
+   "ini": 93974,
+   "fin": 94008
+  },
+  {
+   "tipo": "placeName",
+   "ini": 93974,
+   "fin": 94000,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Las Palmas de Gran Canaria"
+  },
+  {
+   "tipo": "date",
+   "ini": 94004,
+   "fin": 94008,
+   "rasgos": {
+    "when": "1925"
+   },
+   "texto": "1925"
+  },
+  {
+   "tipo": "person",
+   "ini": 97056,
+   "fin": 97070,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 97056,
+   "fin": 97070,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 97627,
+   "fin": 97641,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 97627,
+   "fin": 97641,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 98300,
+   "fin": 98314,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 98300,
+   "fin": 98314,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 98660,
+   "fin": 98674,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 98660,
+   "fin": 98674,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 98763,
+   "fin": 98777,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 98763,
+   "fin": 98777,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 98889,
+   "fin": 98896,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 98889,
+   "fin": 98896,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 99797,
+   "fin": 99811,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 99797,
+   "fin": 99811,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 101302,
+   "fin": 101316,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 101302,
+   "fin": 101316,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 101539,
+   "fin": 101546,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 101539,
+   "fin": 101546,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 102371,
+   "fin": 102385,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 102371,
+   "fin": 102385,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 103772,
+   "fin": 103786,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín\nChirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 103772,
+   "fin": 103786,
+   "texto": "Martín\nChirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 104515,
+   "fin": 104529,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 104515,
+   "fin": 104529,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 104675,
+   "fin": 104689,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 104675,
+   "fin": 104689,
+   "texto": "Martín Chirino"
+  }
+ ]
+}

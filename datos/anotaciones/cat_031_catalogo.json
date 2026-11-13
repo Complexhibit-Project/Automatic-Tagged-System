@@ -1,0 +1,1531 @@
+{
+ "id": "cat_031_catalogo",
+ "nombre_original": "catalogo",
+ "longitud_texto": 5581,
+ "sha256_texto": "86cdf6c7317acbe339d77c7252cb30089cae00317a33c8f74864db270da05c78",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 85,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 23,
+   "texto": "FABIOLA URIEN\n\nmomentos"
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 13,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "FABIOLA URIEN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 13,
+   "texto": "FABIOLA URIEN"
+  },
+  {
+   "tipo": "institution",
+   "ini": 25,
+   "fin": 49,
+   "rasgos": {
+    "type": "culturalCenter",
+    "role": "organiser, host"
+   },
+   "texto": "CENTRO CULTURAL LA ELIPA"
+  },
+  {
+   "tipo": "date",
+   "ini": 54,
+   "fin": 85,
+   "rasgos": {
+    "from": "2008-10-16",
+    "to": "2008-11-09"
+   },
+   "texto": "16 de octubre al 9 de noviembre"
+  },
+  {
+   "tipo": "institution",
+   "ini": 162,
+   "fin": 186,
+   "rasgos": {
+    "type": "culturalCenter",
+    "role": "organiser, host"
+   },
+   "texto": "Centro Cultural La Elipa"
+  },
+  {
+   "tipo": "person",
+   "ini": 217,
+   "fin": 230,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fabiola Urién"
+  },
+  {
+   "tipo": "persName",
+   "ini": 217,
+   "fin": 230,
+   "texto": "Fabiola Urién"
+  },
+  {
+   "tipo": "person",
+   "ini": 401,
+   "fin": 414,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fabiola Urién"
+  },
+  {
+   "tipo": "persName",
+   "ini": 401,
+   "fin": 414,
+   "texto": "Fabiola Urién"
+  },
+  {
+   "tipo": "person",
+   "ini": 1028,
+   "fin": 1041,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fabiola Urién"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1028,
+   "fin": 1041,
+   "texto": "Fabiola Urién"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1176,
+   "fin": 1197,
+   "texto": "Manuel Troitiño Pelaz"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1222,
+   "fin": 1247,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Distrito de Ciudad Lineal"
+  },
+  {
+   "tipo": "person",
+   "ini": 1306,
+   "fin": 1319,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fabiola Urién"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1306,
+   "fin": 1319,
+   "texto": "Fabiola Urién"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1369,
+   "fin": 1393,
+   "rasgos": {
+    "type": "culturalCenter",
+    "role": "organiser, host"
+   },
+   "texto": "Centro Cultural La Elipa"
+  },
+  {
+   "tipo": "person",
+   "ini": 2589,
+   "fin": 2601,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Jesús Cámara"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2589,
+   "fin": 2601,
+   "texto": "Jesús Cámara"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 2630,
+   "fin": 3395
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2630,
+   "fin": 2692
+  },
+  {
+   "tipo": "img",
+   "ini": 2630,
+   "fin": 2635,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2637,
+   "fin": 2692,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Transportando agua, 2006. Óleo sobre lienzo. 61 x 46 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2637,
+   "fin": 2655,
+   "texto": "Transportando agua"
+  },
+  {
+   "tipo": "date",
+   "ini": 2657,
+   "fin": 2661,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2663,
+   "fin": 2680,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2682,
+   "fin": 2692,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2682,
+   "fin": 2684,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 2687,
+   "fin": 2689,
+   "texto": "46"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2694,
+   "fin": 2746
+  },
+  {
+   "tipo": "img",
+   "ini": 2694,
+   "fin": 2699,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2701,
+   "fin": 2746,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Amapolas, 2008. Óleo sobre lienzo. 46 x 55 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2701,
+   "fin": 2709,
+   "texto": "Amapolas"
+  },
+  {
+   "tipo": "date",
+   "ini": 2711,
+   "fin": 2715,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2717,
+   "fin": 2734,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2736,
+   "fin": 2746,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 55 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2736,
+   "fin": 2738,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 2741,
+   "fin": 2743,
+   "texto": "55"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2748,
+   "fin": 2799
+  },
+  {
+   "tipo": "img",
+   "ini": 2748,
+   "fin": 2753,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2755,
+   "fin": 2799,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Paisaje, 2008. Óleo sobre lienzo. 22 x 27 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2755,
+   "fin": 2762,
+   "texto": "Paisaje"
+  },
+  {
+   "tipo": "date",
+   "ini": 2764,
+   "fin": 2768,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2770,
+   "fin": 2787,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2789,
+   "fin": 2799,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "22 x 27 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2789,
+   "fin": 2791,
+   "texto": "22"
+  },
+  {
+   "tipo": "width",
+   "ini": 2794,
+   "fin": 2796,
+   "texto": "27"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2801,
+   "fin": 2855
+  },
+  {
+   "tipo": "img",
+   "ini": 2801,
+   "fin": 2806,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2808,
+   "fin": 2855,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Rio Duero, 2006. Óleo sobre lienzo. 100 x 73 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2808,
+   "fin": 2817,
+   "texto": "Rio Duero"
+  },
+  {
+   "tipo": "date",
+   "ini": 2819,
+   "fin": 2823,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2825,
+   "fin": 2842,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2844,
+   "fin": 2855,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 73 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2844,
+   "fin": 2847,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 2850,
+   "fin": 2852,
+   "texto": "73"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2857,
+   "fin": 2906
+  },
+  {
+   "tipo": "img",
+   "ini": 2857,
+   "fin": 2862,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2864,
+   "fin": 2906,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Paisaje, 2008\nÓleo sobre lienzo\n19 x 24 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2864,
+   "fin": 2871,
+   "texto": "Paisaje"
+  },
+  {
+   "tipo": "date",
+   "ini": 2873,
+   "fin": 2877,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2878,
+   "fin": 2895,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2896,
+   "fin": 2906,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "19 x 24 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2896,
+   "fin": 2898,
+   "texto": "19"
+  },
+  {
+   "tipo": "width",
+   "ini": 2901,
+   "fin": 2903,
+   "texto": "24"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2908,
+   "fin": 2955
+  },
+  {
+   "tipo": "img",
+   "ini": 2908,
+   "fin": 2913,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2915,
+   "fin": 2955,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Cielo, 2008\nÓleo sobre lienzo\n60 x 81 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2915,
+   "fin": 2920,
+   "texto": "Cielo"
+  },
+  {
+   "tipo": "date",
+   "ini": 2922,
+   "fin": 2926,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2927,
+   "fin": 2944,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2945,
+   "fin": 2955,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 81 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2945,
+   "fin": 2947,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 2950,
+   "fin": 2952,
+   "texto": "81"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2957,
+   "fin": 3008
+  },
+  {
+   "tipo": "img",
+   "ini": 2957,
+   "fin": 2962,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2964,
+   "fin": 3008,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Secreto, 2008. Óleo sobre lienzo. 61 x 46 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2964,
+   "fin": 2971,
+   "texto": "Secreto"
+  },
+  {
+   "tipo": "date",
+   "ini": 2973,
+   "fin": 2977,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2979,
+   "fin": 2996,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2998,
+   "fin": 3008,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2998,
+   "fin": 3000,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 3003,
+   "fin": 3005,
+   "texto": "46"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3010,
+   "fin": 3065
+  },
+  {
+   "tipo": "img",
+   "ini": 3010,
+   "fin": 3015,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3017,
+   "fin": 3065,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "De espaldas, 2008. Óleo sobre lienzo. 46 x 61 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 3017,
+   "fin": 3028,
+   "texto": "De espaldas"
+  },
+  {
+   "tipo": "date",
+   "ini": 3030,
+   "fin": 3034,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3036,
+   "fin": 3053,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3055,
+   "fin": 3065,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 61 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3055,
+   "fin": 3057,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 3060,
+   "fin": 3062,
+   "texto": "61"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3067,
+   "fin": 3120
+  },
+  {
+   "tipo": "img",
+   "ini": 3067,
+   "fin": 3072,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3074,
+   "fin": 3120,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Marrakech, 2008. Óleo sobre lienzo. 46 x 61 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 3074,
+   "fin": 3083,
+   "texto": "Marrakech"
+  },
+  {
+   "tipo": "date",
+   "ini": 3085,
+   "fin": 3089,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3091,
+   "fin": 3108,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3110,
+   "fin": 3120,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 61 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3110,
+   "fin": 3112,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 3115,
+   "fin": 3117,
+   "texto": "61"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3122,
+   "fin": 3172
+  },
+  {
+   "tipo": "img",
+   "ini": 3122,
+   "fin": 3127,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3129,
+   "fin": 3172,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Orando, 2008. Óleo sobre lienzo. 61 x 46 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 3129,
+   "fin": 3135,
+   "texto": "Orando"
+  },
+  {
+   "tipo": "date",
+   "ini": 3137,
+   "fin": 3141,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3143,
+   "fin": 3160,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3162,
+   "fin": 3172,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3162,
+   "fin": 3164,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 3167,
+   "fin": 3169,
+   "texto": "46"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3174,
+   "fin": 3228
+  },
+  {
+   "tipo": "img",
+   "ini": 3174,
+   "fin": 3179,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3181,
+   "fin": 3228,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El Brasero, 2008. Óleo sobre lienzo. 41 x 33 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 3181,
+   "fin": 3191,
+   "texto": "El Brasero"
+  },
+  {
+   "tipo": "date",
+   "ini": 3193,
+   "fin": 3197,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3199,
+   "fin": 3216,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3218,
+   "fin": 3228,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 33 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3218,
+   "fin": 3220,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 3223,
+   "fin": 3225,
+   "texto": "33"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3230,
+   "fin": 3279
+  },
+  {
+   "tipo": "img",
+   "ini": 3230,
+   "fin": 3235,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3237,
+   "fin": 3279,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Judío, 2008. Óleo sobre lienzo. 87 x 60 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 3237,
+   "fin": 3242,
+   "texto": "Judío"
+  },
+  {
+   "tipo": "date",
+   "ini": 3244,
+   "fin": 3248,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3250,
+   "fin": 3267,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3269,
+   "fin": 3279,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "87 x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3269,
+   "fin": 3271,
+   "texto": "87"
+  },
+  {
+   "tipo": "width",
+   "ini": 3274,
+   "fin": 3276,
+   "texto": "60"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3281,
+   "fin": 3334
+  },
+  {
+   "tipo": "img",
+   "ini": 3281,
+   "fin": 3286,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3288,
+   "fin": 3334,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Tibetanos, 2008. Óleo sobre lienzo. 61 x 46 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 3288,
+   "fin": 3297,
+   "texto": "Tibetanos"
+  },
+  {
+   "tipo": "date",
+   "ini": 3299,
+   "fin": 3303,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3305,
+   "fin": 3322,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3324,
+   "fin": 3334,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3324,
+   "fin": 3326,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 3329,
+   "fin": 3331,
+   "texto": "46"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3336,
+   "fin": 3388
+  },
+  {
+   "tipo": "img",
+   "ini": 3336,
+   "fin": 3341,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3343,
+   "fin": 3388,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Hermanos, 2008. Óleo sobre lienzo. 81 x 60 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 3343,
+   "fin": 3351,
+   "texto": "Hermanos"
+  },
+  {
+   "tipo": "date",
+   "ini": 3353,
+   "fin": 3357,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3359,
+   "fin": 3376,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3378,
+   "fin": 3388,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3378,
+   "fin": 3380,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 3383,
+   "fin": 3385,
+   "texto": "60"
+  },
+  {
+   "tipo": "img",
+   "ini": 3390,
+   "fin": 3395,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3390,
+   "fin": 3395,
+   "texto": "[img]"
+  },
+  {
+   "tipo": "person",
+   "ini": 3397,
+   "fin": 3425,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "FABIOLA URIEN\nNace en Burgos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3397,
+   "fin": 3410,
+   "texto": "FABIOLA URIEN"
+  },
+  {
+   "tipo": "birth",
+   "ini": 3411,
+   "fin": 3425
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3419,
+   "fin": 3425,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Burgos"
+  },
+  {
+   "tipo": "title",
+   "ini": 4863,
+   "fin": 4885,
+   "texto": "FABIOLA URIEN\nmomentos"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 4863,
+   "fin": 4885,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 4863,
+   "fin": 4876,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "FABIOLA URIEN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4863,
+   "fin": 4876,
+   "texto": "FABIOLA URIEN"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4887,
+   "fin": 4909,
+   "rasgos": {
+    "type": "townHall"
+   },
+   "texto": "Ayuntamiento de Madrid"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4903,
+   "fin": 4909,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4910,
+   "fin": 4935,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Distrito de Ciudad Lineal"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4948,
+   "fin": 4954,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "person",
+   "ini": 4955,
+   "fin": 4977,
+   "texto": "Alberto Ruiz Gallardón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4955,
+   "fin": 4977,
+   "texto": "Alberto Ruiz Gallardón"
+  },
+  {
+   "tipo": "person",
+   "ini": 4999,
+   "fin": 5020,
+   "texto": "Manuel Troitiño Pelaz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4999,
+   "fin": 5020,
+   "texto": "Manuel Troitiño Pelaz"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5022,
+   "fin": 5035,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Ciudad Lineal"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5037,
+   "fin": 5048,
+   "rasgos": {
+    "type": "editorial"
+   },
+   "texto": "Línea Artes"
+  },
+  {
+   "tipo": "person",
+   "ini": 5063,
+   "fin": 5074,
+   "texto": "Jesús Carro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5063,
+   "fin": 5074,
+   "texto": "Jesús Carro"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5127,
+   "fin": 5152,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Distrito de Ciudad Lineal"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5153,
+   "fin": 5181,
+   "texto": "Madrid, Arte y Cultura, S.A."
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5153,
+   "fin": 5159,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "person",
+   "ini": 5205,
+   "fin": 5217,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Jesús Cámara"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5205,
+   "fin": 5217,
+   "texto": "Jesús Cámara"
+  },
+  {
+   "tipo": "person",
+   "ini": 5227,
+   "fin": 5244,
+   "texto": "Fernando Palomino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5227,
+   "fin": 5244,
+   "texto": "Fernando Palomino"
+  },
+  {
+   "tipo": "person",
+   "ini": 5278,
+   "fin": 5291,
+   "rasgos": {
+    "role": "photographer, designer"
+   },
+   "texto": "Angel Pereira"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5278,
+   "fin": 5291,
+   "texto": "Angel Pereira"
+  },
+  {
+   "tipo": "work",
+   "ini": 5405,
+   "fin": 5462,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Página 2: Abu-Simbel, 2006. Óleo sobre lienzo. 50 x 70 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5415,
+   "fin": 5425,
+   "texto": "Abu-Simbel"
+  },
+  {
+   "tipo": "date",
+   "ini": 5427,
+   "fin": 5431,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5433,
+   "fin": 5450,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5452,
+   "fin": 5462,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5452,
+   "fin": 5454,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 5457,
+   "fin": 5459,
+   "texto": "70"
+  },
+  {
+   "tipo": "work",
+   "ini": 5463,
+   "fin": 5517,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Página 4: Paisaje, 2008. Óleo sobre lienzo. 24 x 33 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5473,
+   "fin": 5480,
+   "texto": "Paisaje"
+  },
+  {
+   "tipo": "date",
+   "ini": 5482,
+   "fin": 5486,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5488,
+   "fin": 5505,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5507,
+   "fin": 5517,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "24 x 33 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5507,
+   "fin": 5509,
+   "texto": "24"
+  },
+  {
+   "tipo": "width",
+   "ini": 5512,
+   "fin": 5514,
+   "texto": "33"
+  },
+  {
+   "tipo": "work",
+   "ini": 5518,
+   "fin": 5580,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Página 14: Bajo la lluvia, 2006. Óleo sobre lienzo. 65 x 81 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5529,
+   "fin": 5543,
+   "texto": "Bajo la lluvia"
+  },
+  {
+   "tipo": "date",
+   "ini": 5545,
+   "fin": 5549,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5551,
+   "fin": 5568,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5570,
+   "fin": 5580,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 81 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5570,
+   "fin": 5572,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 5575,
+   "fin": 5577,
+   "texto": "81"
+  }
+ ]
+}

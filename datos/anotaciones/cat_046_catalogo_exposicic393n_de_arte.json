@@ -1,0 +1,1661 @@
+{
+ "id": "cat_046_catalogo_exposicic393n_de_arte",
+ "nombre_original": "catalogo-exposicic393n-de-arte",
+ "longitud_texto": 3609,
+ "sha256_texto": "108ad3bcf4214718dc9bad7442928e3f95cfa4cf910148fccd06791c16f31082",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 228,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "venue",
+   "ini": 0,
+   "fin": 41,
+   "texto": "Centro Cultural Municipal Miguel Espinach"
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 0,
+   "fin": 41
+  },
+  {
+   "tipo": "title",
+   "ini": 43,
+   "fin": 79,
+   "texto": "EXPOSICIÓN DE ARTISTAS CAJAMARQUINOS"
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 43,
+   "fin": 79
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 81,
+   "fin": 91
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 93,
+   "fin": 160
+  },
+  {
+   "tipo": "date",
+   "ini": 101,
+   "fin": 136,
+   "rasgos": {
+    "from": "2020-01-06",
+    "to": "2020-02-28"
+   },
+   "texto": "06 de enero\nal 28 de febrero - 2020"
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 162,
+   "fin": 217
+  },
+  {
+   "tipo": "venue",
+   "ini": 181,
+   "fin": 217,
+   "texto": "GALERÍA\nANDRES ZEVALLOS DE LA PUENTE"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 219,
+   "fin": 228,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Cajamarca"
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 219,
+   "fin": 228
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 230,
+   "fin": 383
+  },
+  {
+   "tipo": "institution",
+   "ini": 232,
+   "fin": 341,
+   "rasgos": {
+    "role": "townHall"
+   },
+   "texto": "MUNICIPALIDAD PROVINCIAL DE CAJAMARCA\nGERENCIA DE CULTURA, TURISMO Y CENTRO HISTÓRICO\nSUB GERENCIA DE CULTURA"
+  },
+  {
+   "tipo": "institution",
+   "ini": 342,
+   "fin": 383,
+   "rasgos": {
+    "type": "school",
+    "role": "organiser"
+   },
+   "texto": "ESCUELA DE ARTE MARIO URTEAGA - CAJAMARCA"
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 385,
+   "fin": 457
+  },
+  {
+   "tipo": "person",
+   "ini": 405,
+   "fin": 434,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "FIORELLA SCHEREZADA RODRÍGUEZ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 405,
+   "fin": 434,
+   "texto": "FIORELLA SCHEREZADA RODRÍGUEZ"
+  },
+  {
+   "tipo": "institution",
+   "ini": 435,
+   "fin": 457,
+   "rasgos": {
+    "type": "editorial",
+    "role": "designer"
+   },
+   "texto": "CUERVO BLANCO EDITORES"
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 459,
+   "fin": 500
+  },
+  {
+   "tipo": "institution",
+   "ini": 470,
+   "fin": 500,
+   "rasgos": {
+    "type": "printer"
+   },
+   "texto": "IDEAS SERVICIOS GRÁFICOS S.R.L"
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 502,
+   "fin": 523
+  },
+  {
+   "tipo": "placeName",
+   "ini": 502,
+   "fin": 511,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "CAJAMARCA"
+  },
+  {
+   "tipo": "date",
+   "ini": 513,
+   "fin": 523,
+   "rasgos": {
+    "from": "2020-01-01",
+    "to": "2020-01-31"
+   },
+   "texto": "ENERO 2020"
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 525,
+   "fin": 537
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 539,
+   "fin": 871
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 873,
+   "fin": 1310
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 1312,
+   "fin": 1653
+  },
+  {
+   "tipo": "venue",
+   "ini": 1443,
+   "fin": 1484,
+   "texto": "Centro Cultural Municipal Miguel Espinach"
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 1655,
+   "fin": 2008
+  },
+  {
+   "tipo": "title",
+   "ini": 1667,
+   "fin": 1703,
+   "texto": "exposición de artistas Cajamarquinos"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1667,
+   "fin": 1703,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 2010,
+   "fin": 2117
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 2119,
+   "fin": 2170
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2171,
+   "fin": 2244
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 2172,
+   "fin": 3391
+  },
+  {
+   "tipo": "img",
+   "ini": 2172,
+   "fin": 2177,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2179,
+   "fin": 2245,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Ramón Bazán Figueroa\n“Killa” (Luna)\nÓleo sobre tela\n36cm x 57 cm.\n"
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 2179,
+   "fin": 2244
+  },
+  {
+   "tipo": "person",
+   "ini": 2179,
+   "fin": 2199,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ramón Bazán Figueroa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2179,
+   "fin": 2199,
+   "texto": "Ramón Bazán Figueroa"
+  },
+  {
+   "tipo": "title",
+   "ini": 2200,
+   "fin": 2214,
+   "texto": "“Killa” (Luna)"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2215,
+   "fin": 2230,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2231,
+   "fin": 2243,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "36cm x 57 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2231,
+   "fin": 2233,
+   "texto": "36"
+  },
+  {
+   "tipo": "width",
+   "ini": 2238,
+   "fin": 2240,
+   "texto": "57"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2246,
+   "fin": 2311
+  },
+  {
+   "tipo": "img",
+   "ini": 2246,
+   "fin": 2251,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2253,
+   "fin": 2312,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Daniel Cotrina Rowe\n“Mujer”\nÓleo sobre lienzo\n50cm x 45cm.\n"
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 2253,
+   "fin": 2311
+  },
+  {
+   "tipo": "person",
+   "ini": 2253,
+   "fin": 2272,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Daniel Cotrina Rowe"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2253,
+   "fin": 2272,
+   "texto": "Daniel Cotrina Rowe"
+  },
+  {
+   "tipo": "title",
+   "ini": 2273,
+   "fin": 2280,
+   "texto": "“Mujer”"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2281,
+   "fin": 2298,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2299,
+   "fin": 2310,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50cm x 45cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2299,
+   "fin": 2301,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 2306,
+   "fin": 2308,
+   "texto": "45"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2313,
+   "fin": 2403
+  },
+  {
+   "tipo": "img",
+   "ini": 2313,
+   "fin": 2318,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2320,
+   "fin": 2403,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Duver Chuquiruna Alvarado\n“Señor de la Misericordia\nAcrilico sobre tela\n40cm x 30cm"
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 2320,
+   "fin": 2403
+  },
+  {
+   "tipo": "person",
+   "ini": 2320,
+   "fin": 2345,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Duver Chuquiruna Alvarado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2320,
+   "fin": 2345,
+   "texto": "Duver Chuquiruna Alvarado"
+  },
+  {
+   "tipo": "title",
+   "ini": 2346,
+   "fin": 2371,
+   "texto": "“Señor de la Misericordia"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2372,
+   "fin": 2391,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrilico sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2392,
+   "fin": 2403,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40cm x 30cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2392,
+   "fin": 2394,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 2399,
+   "fin": 2401,
+   "texto": "30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2405,
+   "fin": 2483
+  },
+  {
+   "tipo": "img",
+   "ini": 2405,
+   "fin": 2410,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2412,
+   "fin": 2483,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Eliasar Mariñas Aliaga\n“Retrato Niña”\nLápiz sobre cartulina\n50cm x 40cm"
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 2412,
+   "fin": 2483
+  },
+  {
+   "tipo": "person",
+   "ini": 2412,
+   "fin": 2434,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eliasar Mariñas Aliaga"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2412,
+   "fin": 2434,
+   "texto": "Eliasar Mariñas Aliaga"
+  },
+  {
+   "tipo": "title",
+   "ini": 2435,
+   "fin": 2449,
+   "texto": "“Retrato Niña”"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2450,
+   "fin": 2471,
+   "rasgos": {
+    "type": "pencil"
+   },
+   "texto": "Lápiz sobre cartulina"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2472,
+   "fin": 2483,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50cm x 40cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2472,
+   "fin": 2474,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 2479,
+   "fin": 2481,
+   "texto": "40"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2485,
+   "fin": 2559
+  },
+  {
+   "tipo": "img",
+   "ini": 2485,
+   "fin": 2490,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2492,
+   "fin": 2559,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Jorge Urteaga Quiroz\n“Appu Dominador”\nÓleo sobre tela\n50cm x 70 cm."
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 2492,
+   "fin": 2559
+  },
+  {
+   "tipo": "person",
+   "ini": 2492,
+   "fin": 2512,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge Urteaga Quiroz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2492,
+   "fin": 2512,
+   "texto": "Jorge Urteaga Quiroz"
+  },
+  {
+   "tipo": "title",
+   "ini": 2513,
+   "fin": 2529,
+   "texto": "“Appu Dominador”"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2530,
+   "fin": 2545,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2546,
+   "fin": 2558,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50cm x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2546,
+   "fin": 2548,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 2553,
+   "fin": 2555,
+   "texto": "70"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2561,
+   "fin": 2622
+  },
+  {
+   "tipo": "img",
+   "ini": 2561,
+   "fin": 2566,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2568,
+   "fin": 2623,
+   "rasgos": {
+    "type": "assemblage"
+   },
+   "texto": "Manuel Limay Incil\nSerie “Carne”\nEnsamble\n50cm x 70cm.\n"
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 2568,
+   "fin": 2622
+  },
+  {
+   "tipo": "person",
+   "ini": 2568,
+   "fin": 2586,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel Limay Incil"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2568,
+   "fin": 2586,
+   "texto": "Manuel Limay Incil"
+  },
+  {
+   "tipo": "title",
+   "ini": 2587,
+   "fin": 2600,
+   "texto": "Serie “Carne”"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 2587,
+   "fin": 2600
+  },
+  {
+   "tipo": "technique",
+   "ini": 2601,
+   "fin": 2609,
+   "rasgos": {
+    "type": "assemblage"
+   },
+   "texto": "Ensamble"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2610,
+   "fin": 2621,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50cm x 70cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2610,
+   "fin": 2612,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 2617,
+   "fin": 2619,
+   "texto": "70"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2623,
+   "fin": 2693
+  },
+  {
+   "tipo": "img",
+   "ini": 2624,
+   "fin": 2629,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2631,
+   "fin": 2693,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Milton Bautista Roncal\n“Labriego”\nÓleo sobre MDF\n35cm x 43 cm."
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 2631,
+   "fin": 2693
+  },
+  {
+   "tipo": "person",
+   "ini": 2631,
+   "fin": 2653,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Milton Bautista Roncal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2631,
+   "fin": 2653,
+   "texto": "Milton Bautista Roncal"
+  },
+  {
+   "tipo": "title",
+   "ini": 2654,
+   "fin": 2664,
+   "texto": "“Labriego”"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2665,
+   "fin": 2679,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre MDF"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2680,
+   "fin": 2692,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35cm x 43 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2680,
+   "fin": 2682,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 2687,
+   "fin": 2689,
+   "texto": "43"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2695,
+   "fin": 2744
+  },
+  {
+   "tipo": "img",
+   "ini": 2695,
+   "fin": 2700,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2702,
+   "fin": 2744,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Max Malaver Silva\n“S/T”\nMixta\n50cm x 65cm."
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 2702,
+   "fin": 2744
+  },
+  {
+   "tipo": "person",
+   "ini": 2702,
+   "fin": 2719,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Max Malaver Silva"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2702,
+   "fin": 2719,
+   "texto": "Max Malaver Silva"
+  },
+  {
+   "tipo": "title",
+   "ini": 2720,
+   "fin": 2725,
+   "texto": "“S/T”"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2726,
+   "fin": 2731,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2732,
+   "fin": 2743,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50cm x 65cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2732,
+   "fin": 2734,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 2739,
+   "fin": 2741,
+   "texto": "65"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2746,
+   "fin": 2880
+  },
+  {
+   "tipo": "img",
+   "ini": 2746,
+   "fin": 2751,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2753,
+   "fin": 2880,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "William Goicochea\n“Solo en Sueños Tengo tu Amor a Plemitud”\nÓleo sobre lienzo\n50 cm x 60 cm.\nColección privada William Guillén."
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 2753,
+   "fin": 2880
+  },
+  {
+   "tipo": "person",
+   "ini": 2753,
+   "fin": 2795,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "William Goicochea\n“Solo en Sueños Tengo tu"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2753,
+   "fin": 2770,
+   "texto": "William Goicochea"
+  },
+  {
+   "tipo": "title",
+   "ini": 2771,
+   "fin": 2812,
+   "texto": "“Solo en Sueños Tengo tu Amor a Plemitud”"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2813,
+   "fin": 2830,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2831,
+   "fin": 2844,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 cm x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2831,
+   "fin": 2833,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 2839,
+   "fin": 2841,
+   "texto": "60"
+  },
+  {
+   "tipo": "person",
+   "ini": 2846,
+   "fin": 2879,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "Colección privada William Guillén"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2864,
+   "fin": 2879,
+   "texto": "William Guillén"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2882,
+   "fin": 2957
+  },
+  {
+   "tipo": "img",
+   "ini": 2882,
+   "fin": 2887,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2889,
+   "fin": 2957,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Alexander Tongombol\n“Superviviente”\nMixta sobre cartón\n57cm x 45 cm."
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 2889,
+   "fin": 2957
+  },
+  {
+   "tipo": "person",
+   "ini": 2889,
+   "fin": 2908,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexander Tongombol"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2889,
+   "fin": 2908,
+   "texto": "Alexander Tongombol"
+  },
+  {
+   "tipo": "title",
+   "ini": 2909,
+   "fin": 2924,
+   "texto": "“Superviviente”"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2925,
+   "fin": 2943,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre cartón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2944,
+   "fin": 2956,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "57cm x 45 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2944,
+   "fin": 2946,
+   "texto": "57"
+  },
+  {
+   "tipo": "width",
+   "ini": 2951,
+   "fin": 2953,
+   "texto": "45"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2959,
+   "fin": 3014
+  },
+  {
+   "tipo": "img",
+   "ini": 2959,
+   "fin": 2964,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2966,
+   "fin": 3014,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Jorge Lombardi\n“Ichocan”\nAcuarela\n51 cm x 36 cm."
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 2966,
+   "fin": 3014
+  },
+  {
+   "tipo": "person",
+   "ini": 2966,
+   "fin": 2980,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge Lombardi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2966,
+   "fin": 2980,
+   "texto": "Jorge Lombardi"
+  },
+  {
+   "tipo": "title",
+   "ini": 2981,
+   "fin": 2990,
+   "texto": "“Ichocan”"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2991,
+   "fin": 2999,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3000,
+   "fin": 3013,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "51 cm x 36 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3000,
+   "fin": 3002,
+   "texto": "51"
+  },
+  {
+   "tipo": "width",
+   "ini": 3008,
+   "fin": 3010,
+   "texto": "36"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3016,
+   "fin": 3098
+  },
+  {
+   "tipo": "img",
+   "ini": 3016,
+   "fin": 3021,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3023,
+   "fin": 3098,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Oswaldo Cépeda Rafael\n“Portada Colonial”\nÓleo sobre tela\n33.5 cm x 42.5 cm."
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 3023,
+   "fin": 3098
+  },
+  {
+   "tipo": "person",
+   "ini": 3023,
+   "fin": 3044,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oswaldo Cépeda Rafael"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3023,
+   "fin": 3044,
+   "texto": "Oswaldo Cépeda Rafael"
+  },
+  {
+   "tipo": "title",
+   "ini": 3045,
+   "fin": 3063,
+   "texto": "“Portada Colonial”"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3064,
+   "fin": 3079,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3080,
+   "fin": 3097,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "33.5 cm x 42.5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3080,
+   "fin": 3084,
+   "texto": "33.5"
+  },
+  {
+   "tipo": "width",
+   "ini": 3090,
+   "fin": 3094,
+   "texto": "42.5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3100,
+   "fin": 3165
+  },
+  {
+   "tipo": "img",
+   "ini": 3100,
+   "fin": 3105,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3107,
+   "fin": 3165,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Victor Amado Portal\n“Nocturno”\nÓleo / Lienzo\n60 cm x70 cm."
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 3107,
+   "fin": 3165
+  },
+  {
+   "tipo": "person",
+   "ini": 3107,
+   "fin": 3126,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Victor Amado Portal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3107,
+   "fin": 3126,
+   "texto": "Victor Amado Portal"
+  },
+  {
+   "tipo": "title",
+   "ini": 3127,
+   "fin": 3137,
+   "texto": "“Nocturno”"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3138,
+   "fin": 3151,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / Lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3152,
+   "fin": 3164,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 cm x70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3152,
+   "fin": 3154,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 3159,
+   "fin": 3161,
+   "texto": "70"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3167,
+   "fin": 3253
+  },
+  {
+   "tipo": "img",
+   "ini": 3167,
+   "fin": 3172,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 3173,
+   "fin": 3178,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3180,
+   "fin": 3253,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Fernando Rodríguez Terrones\n“Bellavista”\nTinta sobre papel\n55 cm x 48 cm."
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 3180,
+   "fin": 3253
+  },
+  {
+   "tipo": "person",
+   "ini": 3180,
+   "fin": 3207,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Rodríguez Terrones"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3180,
+   "fin": 3207,
+   "texto": "Fernando Rodríguez Terrones"
+  },
+  {
+   "tipo": "title",
+   "ini": 3208,
+   "fin": 3220,
+   "texto": "“Bellavista”"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3221,
+   "fin": 3238,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3239,
+   "fin": 3252,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55 cm x 48 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3239,
+   "fin": 3241,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 3247,
+   "fin": 3249,
+   "texto": "48"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3254,
+   "fin": 3314
+  },
+  {
+   "tipo": "img",
+   "ini": 3255,
+   "fin": 3260,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3262,
+   "fin": 3314,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Vimore\n“Clarineros”\nÓleo sobre lienzo\n40 cm x 35 cm."
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 3262,
+   "fin": 3314
+  },
+  {
+   "tipo": "person",
+   "ini": 3262,
+   "fin": 3268,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vimore"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3262,
+   "fin": 3268,
+   "texto": "Vimore"
+  },
+  {
+   "tipo": "title",
+   "ini": 3269,
+   "fin": 3281,
+   "texto": "“Clarineros”"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3282,
+   "fin": 3299,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3300,
+   "fin": 3313,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 cm x 35 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3300,
+   "fin": 3302,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 3308,
+   "fin": 3310,
+   "texto": "35"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3316,
+   "fin": 3391
+  },
+  {
+   "tipo": "img",
+   "ini": 3316,
+   "fin": 3321,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3323,
+   "fin": 3391,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Roger Soberon Espinosa\n“Transeúnte”\nÓleo sobre lienzo\n50 cm x 60 cm."
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 3323,
+   "fin": 3391
+  },
+  {
+   "tipo": "person",
+   "ini": 3323,
+   "fin": 3345,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Roger Soberon Espinosa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3323,
+   "fin": 3345,
+   "texto": "Roger Soberon Espinosa"
+  },
+  {
+   "tipo": "title",
+   "ini": 3346,
+   "fin": 3358,
+   "texto": "“Transeúnte”"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3359,
+   "fin": 3376,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3377,
+   "fin": 3390,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 cm x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3377,
+   "fin": 3379,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 3385,
+   "fin": 3387,
+   "texto": "60"
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 3393,
+   "fin": 3414
+  },
+  {
+   "tipo": "person",
+   "ini": 3401,
+   "fin": 3414,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "JORGE URTEAGA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3401,
+   "fin": 3414,
+   "texto": "JORGE URTEAGA"
+  },
+  {
+   "tipo": "venue",
+   "ini": 3416,
+   "fin": 3458,
+   "texto": "Centro Cultural Municipal - Miguel Spinach"
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 3416,
+   "fin": 3458
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 3460,
+   "fin": 3470
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 3472,
+   "fin": 3547
+  },
+  {
+   "tipo": "institution",
+   "ini": 3472,
+   "fin": 3489,
+   "rasgos": {
+    "null": ""
+   },
+   "texto": "Cajamarca es tuya"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3472,
+   "fin": 3481,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Cajamarca"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3490,
+   "fin": 3547,
+   "rasgos": {
+    "type": "school",
+    "role": "organiser"
+   },
+   "texto": "ESFAP \nEscuela de Arte Mario Urteaga Alvarado - Cajamarca"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3538,
+   "fin": 3547,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Cajamarca"
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 3549,
+   "fin": 3558
+  },
+  {
+   "tipo": "paragraph",
+   "ini": 3560,
+   "fin": 3607
+  },
+  {
+   "tipo": "institution",
+   "ini": 3560,
+   "fin": 3582,
+   "rasgos": {
+    "type": "editorial"
+   },
+   "texto": "Cuervo Blanco Editores"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3583,
+   "fin": 3596,
+   "rasgos": {
+    "type": "company"
+   },
+   "texto": "Ingesa S.A.C."
+  },
+  {
+   "tipo": "institution",
+   "ini": 3597,
+   "fin": 3607,
+   "rasgos": {
+    "type": "company"
+   },
+   "texto": "MKT Import"
+  }
+ ]
+}

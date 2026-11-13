@@ -1,0 +1,1548 @@
+{
+ "id": "cat_081_documentos_catalogo_exposicion_cristina",
+ "nombre_original": "documentos-catalogo-exposicion-cristina-romero-es",
+ "longitud_texto": 9450,
+ "sha256_texto": "5fde805650d3b90c1b2d4e8551276af8a6fee57291f3bf65cb5ca7d2cce16a9b",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 698
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 18,
+   "texto": "“URBAN LANDSCAPES”"
+  },
+  {
+   "tipo": "person",
+   "ini": 31,
+   "fin": 43,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "CHRIS ROMERO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31,
+   "fin": 43,
+   "texto": "CHRIS ROMERO"
+  },
+  {
+   "tipo": "institution",
+   "ini": 45,
+   "fin": 71,
+   "rasgos": {
+    "type": "townHall"
+   },
+   "texto": "Ayuntamiento de Crevillent"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 61,
+   "fin": 71,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Crevillent"
+  },
+  {
+   "tipo": "person",
+   "ini": 93,
+   "fin": 121,
+   "texto": "César Augusto Asencio Adsuar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 93,
+   "fin": 121,
+   "texto": "César Augusto Asencio Adsuar"
+  },
+  {
+   "tipo": "person",
+   "ini": 152,
+   "fin": 170,
+   "texto": "Loreto Mallol Sala"
+  },
+  {
+   "tipo": "persName",
+   "ini": 152,
+   "fin": 170,
+   "texto": "Loreto Mallol Sala"
+  },
+  {
+   "tipo": "institution",
+   "ini": 182,
+   "fin": 207,
+   "rasgos": {
+    "type": "culturalCenter",
+    "role": "organiser, host"
+   },
+   "texto": "Casa Municipal de Cultura"
+  },
+  {
+   "tipo": "person",
+   "ini": 208,
+   "fin": 225,
+   "texto": "Ana Satorre Pérez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 208,
+   "fin": 225,
+   "texto": "Ana Satorre Pérez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 251,
+   "fin": 297,
+   "rasgos": {
+    "type": "culturalCenter",
+    "role": "organiser, host"
+   },
+   "texto": "Casa Municipal de Cultura\n“José Candela Lledó”"
+  },
+  {
+   "tipo": "person",
+   "ini": 311,
+   "fin": 322,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Ana Satorre"
+  },
+  {
+   "tipo": "persName",
+   "ini": 311,
+   "fin": 322,
+   "texto": "Ana Satorre"
+  },
+  {
+   "tipo": "person",
+   "ini": 354,
+   "fin": 379,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "Cristina Romero Sanmartín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 354,
+   "fin": 379,
+   "texto": "Cristina Romero Sanmartín"
+  },
+  {
+   "tipo": "person",
+   "ini": 388,
+   "fin": 416,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "César Augusto Asencio Adsuar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 388,
+   "fin": 416,
+   "texto": "César Augusto Asencio Adsuar"
+  },
+  {
+   "tipo": "person",
+   "ini": 417,
+   "fin": 439,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Juana María Balsalobre"
+  },
+  {
+   "tipo": "persName",
+   "ini": 417,
+   "fin": 439,
+   "texto": "Juana María Balsalobre"
+  },
+  {
+   "tipo": "person",
+   "ini": 440,
+   "fin": 457,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Ana Satorre Pérez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 440,
+   "fin": 457,
+   "texto": "Ana Satorre Pérez"
+  },
+  {
+   "tipo": "person",
+   "ini": 467,
+   "fin": 483,
+   "texto": "Carolina Manchón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 467,
+   "fin": 483,
+   "texto": "Carolina Manchón"
+  },
+  {
+   "tipo": "person",
+   "ini": 484,
+   "fin": 498,
+   "texto": "Ramón Martínez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 484,
+   "fin": 498,
+   "texto": "Ramón Martínez"
+  },
+  {
+   "tipo": "person",
+   "ini": 512,
+   "fin": 524,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Chris Romero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 512,
+   "fin": 524,
+   "texto": "Chris Romero"
+  },
+  {
+   "tipo": "person",
+   "ini": 534,
+   "fin": 545,
+   "texto": "Ana Satorre"
+  },
+  {
+   "tipo": "persName",
+   "ini": 534,
+   "fin": 545,
+   "texto": "Ana Satorre"
+  },
+  {
+   "tipo": "institution",
+   "ini": 557,
+   "fin": 566,
+   "rasgos": {
+    "type": "printer"
+   },
+   "texto": "Hurpograf"
+  },
+  {
+   "tipo": "institution",
+   "ini": 568,
+   "fin": 614,
+   "rasgos": {
+    "type": "culturalCenter",
+    "role": "organiser, host"
+   },
+   "texto": "Casa Municipal de Cultura\n“José Candela Lledó”"
+  },
+  {
+   "tipo": "date",
+   "ini": 620,
+   "fin": 659,
+   "rasgos": {
+    "from": "2016-09-02",
+    "to": "2016-10-03"
+   },
+   "texto": "2 de septiembre al 3 de octubre de 2016"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 724,
+   "fin": 804,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 736,
+   "fin": 754,
+   "rasgos": {
+    "when": "2016-09-01"
+   },
+   "texto": "septiembre de 2016"
+  },
+  {
+   "tipo": "title",
+   "ini": 769,
+   "fin": 787,
+   "texto": "“Urban Landscapes”"
+  },
+  {
+   "tipo": "person",
+   "ini": 792,
+   "fin": 804,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chris Romero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 792,
+   "fin": 804,
+   "texto": "Chris Romero"
+  },
+  {
+   "tipo": "person",
+   "ini": 1532,
+   "fin": 1544,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chris Romero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1532,
+   "fin": 1544,
+   "texto": "Chris Romero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1656,
+   "fin": 1684,
+   "texto": "César Augusto Asencio Adsuar"
+  },
+  {
+   "tipo": "title",
+   "ini": 1892,
+   "fin": 1924,
+   "texto": "Entre la pintura y la serigrafía"
+  },
+  {
+   "tipo": "person",
+   "ini": 1941,
+   "fin": 1953,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chris Romero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1941,
+   "fin": 1953,
+   "texto": "Chris Romero"
+  },
+  {
+   "tipo": "person",
+   "ini": 3270,
+   "fin": 3282,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chris Romero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3270,
+   "fin": 3282,
+   "texto": "Chris Romero"
+  },
+  {
+   "tipo": "person",
+   "ini": 4137,
+   "fin": 4149,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chris Romero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4137,
+   "fin": 4149,
+   "texto": "Chris Romero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4762,
+   "fin": 4784,
+   "texto": "Juana María Balsalobre"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4958,
+   "fin": 4977,
+   "texto": "José Fuentes Esteve"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5264,
+   "fin": 5283,
+   "texto": "José Fuentes Esteve"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5286,
+   "fin": 5298,
+   "texto": "Carlos Pérez"
+  },
+  {
+   "tipo": "person",
+   "ini": 5412,
+   "fin": 5424,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chris Romero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5412,
+   "fin": 5424,
+   "texto": "Chris Romero"
+  },
+  {
+   "tipo": "person",
+   "ini": 7291,
+   "fin": 7296,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chris"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7291,
+   "fin": 7296,
+   "texto": "Chris"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7332,
+   "fin": 7340,
+   "texto": "Malevich"
+  },
+  {
+   "tipo": "person",
+   "ini": 7923,
+   "fin": 7935,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chris Romero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7923,
+   "fin": 7935,
+   "texto": "Chris Romero"
+  },
+  {
+   "tipo": "institution",
+   "ini": 7987,
+   "fin": 8012,
+   "rasgos": {
+    "type": "culturalCenter",
+    "role": "organiser, host"
+   },
+   "texto": "Casa Municipal de Cultura"
+  },
+  {
+   "tipo": "person",
+   "ini": 8305,
+   "fin": 8322,
+   "rasgos": {
+    "role": "exhibitionDirector"
+   },
+   "texto": "Ana Satorre Pérez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8305,
+   "fin": 8322,
+   "texto": "Ana Satorre Pérez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 8333,
+   "fin": 8358,
+   "rasgos": {
+    "type": "culturalCenter",
+    "role": "organiser, host"
+   },
+   "texto": "Casa Municipal de Cultura"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 8360,
+   "fin": 9391
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8360,
+   "fin": 8419
+  },
+  {
+   "tipo": "img",
+   "ini": 8360,
+   "fin": 8365,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8367,
+   "fin": 8419,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Calle Peine, 2016\nAcrílico sobre lienzo. 130 x 90 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8367,
+   "fin": 8378,
+   "texto": "Calle Peine"
+  },
+  {
+   "tipo": "date",
+   "ini": 8380,
+   "fin": 8384,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8385,
+   "fin": 8406,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8408,
+   "fin": 8419,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 90 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8408,
+   "fin": 8411,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 8414,
+   "fin": 8416,
+   "texto": "90"
+  },
+  {
+   "tipo": "title",
+   "ini": 8422,
+   "fin": 8438,
+   "texto": "URBAN LANDSCAPES"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8440,
+   "fin": 8514
+  },
+  {
+   "tipo": "img",
+   "ini": 8440,
+   "fin": 8445,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8447,
+   "fin": 8514,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Sagrada Familia, 2016\nSerigrafía directa sobre pantalla. 48 x 36 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8447,
+   "fin": 8462,
+   "texto": "Sagrada Familia"
+  },
+  {
+   "tipo": "date",
+   "ini": 8464,
+   "fin": 8468,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8469,
+   "fin": 8502,
+   "rasgos": {
+    "type": "serigraph"
+   },
+   "texto": "Serigrafía directa sobre pantalla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8504,
+   "fin": 8514,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "48 x 36 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8504,
+   "fin": 8506,
+   "texto": "48"
+  },
+  {
+   "tipo": "width",
+   "ini": 8509,
+   "fin": 8511,
+   "texto": "36"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8516,
+   "fin": 8585
+  },
+  {
+   "tipo": "img",
+   "ini": 8516,
+   "fin": 8521,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8523,
+   "fin": 8585,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Cristalera, 2016\nSerigrafía directa sobre pantalla. 48 x 36 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8523,
+   "fin": 8533,
+   "texto": "Cristalera"
+  },
+  {
+   "tipo": "date",
+   "ini": 8535,
+   "fin": 8539,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8540,
+   "fin": 8573,
+   "rasgos": {
+    "type": "serigraph"
+   },
+   "texto": "Serigrafía directa sobre pantalla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8575,
+   "fin": 8585,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "48 x 36 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8575,
+   "fin": 8577,
+   "texto": "48"
+  },
+  {
+   "tipo": "width",
+   "ini": 8580,
+   "fin": 8582,
+   "texto": "36"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8587,
+   "fin": 8664
+  },
+  {
+   "tipo": "img",
+   "ini": 8587,
+   "fin": 8592,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8594,
+   "fin": 8664,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Estación del Norte, 2016\nSerigrafía directa sobre pantalla. 48 x 36 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8594,
+   "fin": 8612,
+   "texto": "Estación del Norte"
+  },
+  {
+   "tipo": "date",
+   "ini": 8614,
+   "fin": 8618,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8619,
+   "fin": 8652,
+   "rasgos": {
+    "type": "serigraph"
+   },
+   "texto": "Serigrafía directa sobre pantalla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8654,
+   "fin": 8664,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "48 x 36 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8654,
+   "fin": 8656,
+   "texto": "48"
+  },
+  {
+   "tipo": "width",
+   "ini": 8659,
+   "fin": 8661,
+   "texto": "36"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8666,
+   "fin": 8745
+  },
+  {
+   "tipo": "img",
+   "ini": 8666,
+   "fin": 8671,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8673,
+   "fin": 8745,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Catedral de Valencia, 2016\nSerigrafía directa sobre pantalla. 48 x 36 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8673,
+   "fin": 8693,
+   "texto": "Catedral de Valencia"
+  },
+  {
+   "tipo": "date",
+   "ini": 8695,
+   "fin": 8699,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8700,
+   "fin": 8733,
+   "rasgos": {
+    "type": "serigraph"
+   },
+   "texto": "Serigrafía directa sobre pantalla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8735,
+   "fin": 8745,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "48 x 36 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8735,
+   "fin": 8737,
+   "texto": "48"
+  },
+  {
+   "tipo": "width",
+   "ini": 8740,
+   "fin": 8742,
+   "texto": "36"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8747,
+   "fin": 8804
+  },
+  {
+   "tipo": "img",
+   "ini": 8747,
+   "fin": 8752,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8754,
+   "fin": 8804,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La Habana, 2015\nAcrílico sobre lienzo. 146 x 83 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8754,
+   "fin": 8763,
+   "texto": "La Habana"
+  },
+  {
+   "tipo": "date",
+   "ini": 8765,
+   "fin": 8769,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8770,
+   "fin": 8791,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8793,
+   "fin": 8804,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "146 x 83 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8793,
+   "fin": 8796,
+   "texto": "146"
+  },
+  {
+   "tipo": "width",
+   "ini": 8799,
+   "fin": 8801,
+   "texto": "83"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8806,
+   "fin": 8865
+  },
+  {
+   "tipo": "img",
+   "ini": 8806,
+   "fin": 8811,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8813,
+   "fin": 8865,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Casa Batlló, 2016\nAcrílico sobre lienzo. 130 x 90 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8813,
+   "fin": 8824,
+   "texto": "Casa Batlló"
+  },
+  {
+   "tipo": "date",
+   "ini": 8826,
+   "fin": 8830,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8831,
+   "fin": 8852,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8854,
+   "fin": 8865,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 90 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8854,
+   "fin": 8857,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 8860,
+   "fin": 8862,
+   "texto": "90"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8867,
+   "fin": 8926
+  },
+  {
+   "tipo": "img",
+   "ini": 8867,
+   "fin": 8872,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8874,
+   "fin": 8926,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Piedra Roja, 2016\nAcrílico sobre lienzo. 130 x 90 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8874,
+   "fin": 8885,
+   "texto": "Piedra Roja"
+  },
+  {
+   "tipo": "date",
+   "ini": 8887,
+   "fin": 8891,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8892,
+   "fin": 8913,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8915,
+   "fin": 8926,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 90 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8915,
+   "fin": 8918,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 8921,
+   "fin": 8923,
+   "texto": "90"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8928,
+   "fin": 8995
+  },
+  {
+   "tipo": "img",
+   "ini": 8928,
+   "fin": 8933,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8935,
+   "fin": 8995,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Estación de Retiro, 2014\nAcrílico sobre madera. 120 x 180 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8935,
+   "fin": 8953,
+   "texto": "Estación de Retiro"
+  },
+  {
+   "tipo": "date",
+   "ini": 8955,
+   "fin": 8959,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8960,
+   "fin": 8981,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8983,
+   "fin": 8995,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "120 x 180 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8983,
+   "fin": 8986,
+   "texto": "120"
+  },
+  {
+   "tipo": "width",
+   "ini": 8989,
+   "fin": 8992,
+   "texto": "180"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8997,
+   "fin": 9065
+  },
+  {
+   "tipo": "img",
+   "ini": 8997,
+   "fin": 9002,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9004,
+   "fin": 9065,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Evocación Suburbana, 2010\nAcrílico sobre lienzo. 200 x 160 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 9004,
+   "fin": 9023,
+   "texto": "Evocación Suburbana"
+  },
+  {
+   "tipo": "date",
+   "ini": 9025,
+   "fin": 9029,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9030,
+   "fin": 9051,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9053,
+   "fin": 9065,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 160 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 9053,
+   "fin": 9056,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 9059,
+   "fin": 9062,
+   "texto": "160"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9067,
+   "fin": 9133
+  },
+  {
+   "tipo": "img",
+   "ini": 9067,
+   "fin": 9072,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9074,
+   "fin": 9133,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Paisaje Urbano XV, 2015\nAcrílico sobre lienzo. 170 x 200 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 9074,
+   "fin": 9091,
+   "texto": "Paisaje Urbano XV"
+  },
+  {
+   "tipo": "date",
+   "ini": 9093,
+   "fin": 9097,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9098,
+   "fin": 9119,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9121,
+   "fin": 9133,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "170 x 200 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 9121,
+   "fin": 9124,
+   "texto": "170"
+  },
+  {
+   "tipo": "width",
+   "ini": 9127,
+   "fin": 9130,
+   "texto": "200"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9135,
+   "fin": 9202
+  },
+  {
+   "tipo": "img",
+   "ini": 9135,
+   "fin": 9140,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9142,
+   "fin": 9202,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La Pasión de Callosa, 2016\nAcrílico sobre lienzo. 50 x 60 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 9142,
+   "fin": 9162,
+   "texto": "La Pasión de Callosa"
+  },
+  {
+   "tipo": "date",
+   "ini": 9164,
+   "fin": 9168,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9169,
+   "fin": 9190,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9192,
+   "fin": 9202,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 9192,
+   "fin": 9194,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 9197,
+   "fin": 9199,
+   "texto": "60"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9204,
+   "fin": 9264
+  },
+  {
+   "tipo": "img",
+   "ini": 9204,
+   "fin": 9209,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9211,
+   "fin": 9264,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La Estación, 2016\nAcrílico sobre lienzo. 130 x 130 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 9211,
+   "fin": 9222,
+   "texto": "La Estación"
+  },
+  {
+   "tipo": "date",
+   "ini": 9224,
+   "fin": 9228,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9229,
+   "fin": 9250,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9252,
+   "fin": 9264,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 130 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 9252,
+   "fin": 9255,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 9258,
+   "fin": 9261,
+   "texto": "130"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9266,
+   "fin": 9325
+  },
+  {
+   "tipo": "img",
+   "ini": 9266,
+   "fin": 9271,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9273,
+   "fin": 9325,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Caminito, 2010\nAcrílico sobre madera. 140 x 100 cmzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 9273,
+   "fin": 9281,
+   "texto": "Caminito"
+  },
+  {
+   "tipo": "date",
+   "ini": 9283,
+   "fin": 9287,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9288,
+   "fin": 9309,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9311,
+   "fin": 9325,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "140 x 100 cmzo"
+  },
+  {
+   "tipo": "height",
+   "ini": 9311,
+   "fin": 9314,
+   "texto": "140"
+  },
+  {
+   "tipo": "width",
+   "ini": 9317,
+   "fin": 9320,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9327,
+   "fin": 9391
+  },
+  {
+   "tipo": "img",
+   "ini": 9327,
+   "fin": 9332,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9334,
+   "fin": 9391,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Centro Urbano, 2016\nAcrílico sobre lienzo. 100 x 81 cmnzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 9334,
+   "fin": 9347,
+   "texto": "Centro Urbano"
+  },
+  {
+   "tipo": "date",
+   "ini": 9349,
+   "fin": 9353,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9354,
+   "fin": 9375,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9377,
+   "fin": 9391,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 81 cmnzo"
+  },
+  {
+   "tipo": "height",
+   "ini": 9377,
+   "fin": 9380,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 9383,
+   "fin": 9385,
+   "texto": "81"
+  },
+  {
+   "tipo": "institution",
+   "ini": 9393,
+   "fin": 9448,
+   "rasgos": {
+    "type": "townHall"
+   },
+   "texto": "CONCEJALÍA DE CULTURA\nEXCMO. AYUNTAMIENTO DE CREVILLENT"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 9438,
+   "fin": 9448,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "CREVILLENT"
+  }
+ ]
+}

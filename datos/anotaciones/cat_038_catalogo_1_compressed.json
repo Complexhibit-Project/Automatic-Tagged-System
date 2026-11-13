@@ -1,0 +1,3765 @@
+{
+ "id": "cat_038_catalogo_1_compressed",
+ "nombre_original": "catalogo-1_compressed",
+ "longitud_texto": 44280,
+ "sha256_texto": "6a087c48452dc8737db1fa26fbf1587e778f78150cca6fea1cf2e4b506a85960",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 176,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 34,
+   "texto": "Cristino de Vera\nLuz en la pintura"
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 16,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Cristino de Vera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 16,
+   "texto": "Cristino de Vera"
+  },
+  {
+   "tipo": "date",
+   "ini": 36,
+   "fin": 68,
+   "rasgos": {
+    "from": "2019-03-21",
+    "to": "2019-05-25"
+   },
+   "texto": "21 de marzo - 25 de mayo de 2019"
+  },
+  {
+   "tipo": "institution",
+   "ini": 70,
+   "fin": 176,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Fernández-Braso\nGalería de Arte\nVillanueva, 30. 28001. Madrid. 91 575 04 27\nwww.galeriafernandez-braso.com"
+  },
+  {
+   "tipo": "address",
+   "ini": 102,
+   "fin": 131,
+   "texto": "Villanueva, 30. 28001. Madrid"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 125,
+   "fin": 131,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "title",
+   "ini": 179,
+   "fin": 213,
+   "texto": "Cristino de Vera\nLuz en la pintura"
+  },
+  {
+   "tipo": "person",
+   "ini": 179,
+   "fin": 195,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Cristino de Vera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 179,
+   "fin": 195,
+   "texto": "Cristino de Vera"
+  },
+  {
+   "tipo": "person",
+   "ini": 267,
+   "fin": 283,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Cristino de Vera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 267,
+   "fin": 283,
+   "texto": "Cristino de Vera"
+  },
+  {
+   "tipo": "person",
+   "ini": 726,
+   "fin": 742,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Cristino de Vera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 726,
+   "fin": 742,
+   "texto": "Cristino de Vera"
+  },
+  {
+   "tipo": "person",
+   "ini": 941,
+   "fin": 957,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Cristino de Vera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 941,
+   "fin": 957,
+   "texto": "Cristino de Vera"
+  },
+  {
+   "tipo": "person",
+   "ini": 1221,
+   "fin": 1229,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Cristino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1221,
+   "fin": 1229,
+   "texto": "Cristino"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1457,
+   "fin": 1480,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "galería Fernández-Braso"
+  },
+  {
+   "tipo": "person",
+   "ini": 1482,
+   "fin": 1490,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Cristino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1482,
+   "fin": 1490,
+   "texto": "Cristino"
+  },
+  {
+   "tipo": "person",
+   "ini": 1920,
+   "fin": 1936,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Cristino de Vera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1920,
+   "fin": 1936,
+   "texto": "Cristino de Vera"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1938,
+   "fin": 2138,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 1941,
+   "fin": 1958,
+   "texto": "luz en la pintura"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1996,
+   "fin": 2019,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "galería Fernández Braso"
+  },
+  {
+   "tipo": "date",
+   "ini": 2044,
+   "fin": 2055,
+   "rasgos": {
+    "when": "2019-03-21"
+   },
+   "texto": "21 de marzo"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 2141,
+   "fin": 6181
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2161,
+   "fin": 2241
+  },
+  {
+   "tipo": "img",
+   "ini": 2161,
+   "fin": 2166,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2168,
+   "fin": 2241,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Tres tazas atravesadas por dos rayas. 1995.\nÓleo sobre lienzo. 33 x 41 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2168,
+   "fin": 2204,
+   "texto": "Tres tazas atravesadas por dos rayas"
+  },
+  {
+   "tipo": "date",
+   "ini": 2206,
+   "fin": 2210,
+   "rasgos": {
+    "when": "1995"
+   },
+   "texto": "1995"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2212,
+   "fin": 2229,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2231,
+   "fin": 2241,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "33 x 41 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2231,
+   "fin": 2233,
+   "texto": "33"
+  },
+  {
+   "tipo": "width",
+   "ini": 2236,
+   "fin": 2238,
+   "texto": "41"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2243,
+   "fin": 2329
+  },
+  {
+   "tipo": "img",
+   "ini": 2243,
+   "fin": 2248,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2250,
+   "fin": 2329,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Taza de luz, dos velas largas y cementerio. 1997.\nÓleo sobre lienzo. 41 x 33 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2250,
+   "fin": 2292,
+   "texto": "Taza de luz, dos velas largas y cementerio"
+  },
+  {
+   "tipo": "date",
+   "ini": 2294,
+   "fin": 2298,
+   "rasgos": {
+    "when": "1997"
+   },
+   "texto": "1997"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2300,
+   "fin": 2317,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2319,
+   "fin": 2329,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 33 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2319,
+   "fin": 2321,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 2324,
+   "fin": 2326,
+   "texto": "33"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2331,
+   "fin": 2398
+  },
+  {
+   "tipo": "img",
+   "ini": 2331,
+   "fin": 2336,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2338,
+   "fin": 2398,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Cesto, taza y luz blanca. 1997\nÓleo sobre lienzo. 41 x 33 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2338,
+   "fin": 2362,
+   "texto": "Cesto, taza y luz blanca"
+  },
+  {
+   "tipo": "date",
+   "ini": 2364,
+   "fin": 2368,
+   "rasgos": {
+    "when": "1997"
+   },
+   "texto": "1997"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2369,
+   "fin": 2386,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2388,
+   "fin": 2398,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 33 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2388,
+   "fin": 2390,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 2393,
+   "fin": 2395,
+   "texto": "33"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2400,
+   "fin": 2458
+  },
+  {
+   "tipo": "img",
+   "ini": 2400,
+   "fin": 2405,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2407,
+   "fin": 2458,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Cráneo y espejo. 1998\nÓleo sobre lienzo. 73 x 50 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2407,
+   "fin": 2422,
+   "texto": "Cráneo y espejo"
+  },
+  {
+   "tipo": "date",
+   "ini": 2424,
+   "fin": 2428,
+   "rasgos": {
+    "when": "1998"
+   },
+   "texto": "1998"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2429,
+   "fin": 2446,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2448,
+   "fin": 2458,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "73 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2448,
+   "fin": 2450,
+   "texto": "73"
+  },
+  {
+   "tipo": "width",
+   "ini": 2453,
+   "fin": 2455,
+   "texto": "50"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2460,
+   "fin": 2529
+  },
+  {
+   "tipo": "img",
+   "ini": 2460,
+   "fin": 2465,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2467,
+   "fin": 2529,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Dos cestos con florecillas. 1998\nÓleo sobre lienzo. 92 x 65 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2467,
+   "fin": 2493,
+   "texto": "Dos cestos con florecillas"
+  },
+  {
+   "tipo": "date",
+   "ini": 2495,
+   "fin": 2499,
+   "rasgos": {
+    "when": "1998"
+   },
+   "texto": "1998"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2500,
+   "fin": 2517,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2519,
+   "fin": 2529,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "92 x 65 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2519,
+   "fin": 2521,
+   "texto": "92"
+  },
+  {
+   "tipo": "width",
+   "ini": 2524,
+   "fin": 2526,
+   "texto": "65"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2531,
+   "fin": 2614
+  },
+  {
+   "tipo": "img",
+   "ini": 2531,
+   "fin": 2536,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2538,
+   "fin": 2614,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Monacal visión de la Vera Cruz (Segovia). 1998\nÓleo sobre lienzo. 46 x 39 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2538,
+   "fin": 2578,
+   "texto": "Monacal visión de la Vera Cruz (Segovia)"
+  },
+  {
+   "tipo": "date",
+   "ini": 2580,
+   "fin": 2584,
+   "rasgos": {
+    "when": "1998"
+   },
+   "texto": "1998"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2585,
+   "fin": 2602,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2604,
+   "fin": 2614,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 39 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2604,
+   "fin": 2606,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 2609,
+   "fin": 2611,
+   "texto": "39"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2616,
+   "fin": 2675
+  },
+  {
+   "tipo": "img",
+   "ini": 2616,
+   "fin": 2621,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2623,
+   "fin": 2675,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Gran cruz de luz. 2000\nÓleo sobre lienzo. 41 x 33 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2623,
+   "fin": 2639,
+   "texto": "Gran cruz de luz"
+  },
+  {
+   "tipo": "date",
+   "ini": 2641,
+   "fin": 2645,
+   "rasgos": {
+    "when": "2000"
+   },
+   "texto": "2000"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2646,
+   "fin": 2663,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2665,
+   "fin": 2675,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 33 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2665,
+   "fin": 2667,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 2670,
+   "fin": 2672,
+   "texto": "33"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2677,
+   "fin": 2767
+  },
+  {
+   "tipo": "img",
+   "ini": 2677,
+   "fin": 2682,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2684,
+   "fin": 2767,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Dos tazas de luz, dos velas y nubes al infinito. 2002\nÓleo sobre lienzo. 46 x 38 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2684,
+   "fin": 2731,
+   "texto": "Dos tazas de luz, dos velas y nubes al infinito"
+  },
+  {
+   "tipo": "date",
+   "ini": 2733,
+   "fin": 2737,
+   "rasgos": {
+    "when": "2002"
+   },
+   "texto": "2002"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2738,
+   "fin": 2755,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2757,
+   "fin": 2767,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 38 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2757,
+   "fin": 2759,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 2762,
+   "fin": 2764,
+   "texto": "38"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2769,
+   "fin": 2842
+  },
+  {
+   "tipo": "img",
+   "ini": 2769,
+   "fin": 2774,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2776,
+   "fin": 2842,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Figura y dos coronas de flores. 2003\nÓleo sobre lienzo. 55 x 46 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2776,
+   "fin": 2806,
+   "texto": "Figura y dos coronas de flores"
+  },
+  {
+   "tipo": "date",
+   "ini": 2808,
+   "fin": 2812,
+   "rasgos": {
+    "when": "2003"
+   },
+   "texto": "2003"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2813,
+   "fin": 2830,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2832,
+   "fin": 2842,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55 x 46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2832,
+   "fin": 2834,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 2837,
+   "fin": 2839,
+   "texto": "46"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2844,
+   "fin": 2905
+  },
+  {
+   "tipo": "img",
+   "ini": 2844,
+   "fin": 2849,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2851,
+   "fin": 2905,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Cristo y dos tazas. 2004\nÓleo sobre lienzo. 38 x 46 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2851,
+   "fin": 2869,
+   "texto": "Cristo y dos tazas"
+  },
+  {
+   "tipo": "date",
+   "ini": 2871,
+   "fin": 2875,
+   "rasgos": {
+    "when": "2004"
+   },
+   "texto": "2004"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2876,
+   "fin": 2893,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2895,
+   "fin": 2905,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "38 x 46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2895,
+   "fin": 2897,
+   "texto": "38"
+  },
+  {
+   "tipo": "width",
+   "ini": 2900,
+   "fin": 2902,
+   "texto": "46"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2907,
+   "fin": 2980
+  },
+  {
+   "tipo": "img",
+   "ini": 2907,
+   "fin": 2912,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2914,
+   "fin": 2980,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Taza de luz y cesto con flores. 2005\nÓleo sobre lienzo. 33 x 41 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2914,
+   "fin": 2944,
+   "texto": "Taza de luz y cesto con flores"
+  },
+  {
+   "tipo": "date",
+   "ini": 2946,
+   "fin": 2951,
+   "rasgos": {
+    "when": "2005"
+   },
+   "texto": "2005\n"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2951,
+   "fin": 2968,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2970,
+   "fin": 2980,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "33 x 41 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2970,
+   "fin": 2972,
+   "texto": "33"
+  },
+  {
+   "tipo": "width",
+   "ini": 2975,
+   "fin": 2977,
+   "texto": "41"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2982,
+   "fin": 3068
+  },
+  {
+   "tipo": "img",
+   "ini": 2982,
+   "fin": 2987,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2989,
+   "fin": 3068,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Dos velas largas cruzadas por nubes blancas. 2005\nÓleo sobre lienzo. 46 x 33 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2989,
+   "fin": 3032,
+   "texto": "Dos velas largas cruzadas por nubes blancas"
+  },
+  {
+   "tipo": "date",
+   "ini": 3034,
+   "fin": 3038,
+   "rasgos": {
+    "when": "2005"
+   },
+   "texto": "2005"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3039,
+   "fin": 3056,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3058,
+   "fin": 3068,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 33 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3058,
+   "fin": 3060,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 3063,
+   "fin": 3065,
+   "texto": "33"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3070,
+   "fin": 3152
+  },
+  {
+   "tipo": "img",
+   "ini": 3070,
+   "fin": 3075,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3077,
+   "fin": 3152,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Teide atravesado por raya negra y nubes. 2005\nÓleo sobre lienzo. 33 x 41 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 3077,
+   "fin": 3116,
+   "texto": "Teide atravesado por raya negra y nubes"
+  },
+  {
+   "tipo": "date",
+   "ini": 3118,
+   "fin": 3122,
+   "rasgos": {
+    "when": "2005"
+   },
+   "texto": "2005"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3123,
+   "fin": 3140,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3142,
+   "fin": 3152,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "33 x 41 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3142,
+   "fin": 3144,
+   "texto": "33"
+  },
+  {
+   "tipo": "width",
+   "ini": 3147,
+   "fin": 3149,
+   "texto": "41"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3154,
+   "fin": 3233
+  },
+  {
+   "tipo": "img",
+   "ini": 3154,
+   "fin": 3159,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3161,
+   "fin": 3233,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Tres tazas de luz y dos velas largas. 2006\nÓleo sobre lienzo. 41 x 33 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 3161,
+   "fin": 3197,
+   "texto": "Tres tazas de luz y dos velas largas"
+  },
+  {
+   "tipo": "date",
+   "ini": 3199,
+   "fin": 3203,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3204,
+   "fin": 3221,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3223,
+   "fin": 3233,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 33 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3223,
+   "fin": 3225,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 3228,
+   "fin": 3230,
+   "texto": "33"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3235,
+   "fin": 3323
+  },
+  {
+   "tipo": "img",
+   "ini": 3235,
+   "fin": 3240,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3242,
+   "fin": 3323,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Ventana en cruz invadida de luz y taza blanca. 2006\nÓleo sobre lienzo. 41 x 33 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 3242,
+   "fin": 3287,
+   "texto": "Ventana en cruz invadida de luz y taza blanca"
+  },
+  {
+   "tipo": "date",
+   "ini": 3289,
+   "fin": 3293,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3294,
+   "fin": 3311,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3313,
+   "fin": 3323,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 33 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3313,
+   "fin": 3315,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 3318,
+   "fin": 3320,
+   "texto": "33"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3325,
+   "fin": 3409
+  },
+  {
+   "tipo": "img",
+   "ini": 3325,
+   "fin": 3330,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3332,
+   "fin": 3409,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Espiritual luz en ventana con taza blanca. 2006\nÓleo sobre lienzo. 41 x 33 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 3332,
+   "fin": 3373,
+   "texto": "Espiritual luz en ventana con taza blanca"
+  },
+  {
+   "tipo": "date",
+   "ini": 3375,
+   "fin": 3379,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3380,
+   "fin": 3397,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3399,
+   "fin": 3409,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 33 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3399,
+   "fin": 3401,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 3404,
+   "fin": 3406,
+   "texto": "33"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3411,
+   "fin": 3478
+  },
+  {
+   "tipo": "img",
+   "ini": 3411,
+   "fin": 3416,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3418,
+   "fin": 3478,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Dos tazas con raya negra. 2007\nÓleo sobre lienzo. 41 x 33 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 3418,
+   "fin": 3442,
+   "texto": "Dos tazas con raya negra"
+  },
+  {
+   "tipo": "date",
+   "ini": 3444,
+   "fin": 3448,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3449,
+   "fin": 3466,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3468,
+   "fin": 3478,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 33 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3468,
+   "fin": 3470,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 3473,
+   "fin": 3475,
+   "texto": "33"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3480,
+   "fin": 3552
+  },
+  {
+   "tipo": "img",
+   "ini": 3480,
+   "fin": 3485,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3487,
+   "fin": 3552,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Aparecida clara de luz blanca. 2007\nÓleo sobre lienzo. 41 x 33 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 3487,
+   "fin": 3516,
+   "texto": "Aparecida clara de luz blanca"
+  },
+  {
+   "tipo": "date",
+   "ini": 3518,
+   "fin": 3522,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3523,
+   "fin": 3540,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3542,
+   "fin": 3552,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 33 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3542,
+   "fin": 3544,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 3547,
+   "fin": 3549,
+   "texto": "33"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3554,
+   "fin": 3640
+  },
+  {
+   "tipo": "img",
+   "ini": 3554,
+   "fin": 3559,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3561,
+   "fin": 3640,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Muro, tres tazas de luz y tres velas largas. 2007\nÓleo sobre lienzo. 46 x 38 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 3561,
+   "fin": 3604,
+   "texto": "Muro, tres tazas de luz y tres velas largas"
+  },
+  {
+   "tipo": "date",
+   "ini": 3606,
+   "fin": 3610,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3611,
+   "fin": 3628,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3630,
+   "fin": 3640,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 38 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3630,
+   "fin": 3632,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 3635,
+   "fin": 3637,
+   "texto": "38"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3642,
+   "fin": 3702
+  },
+  {
+   "tipo": "img",
+   "ini": 3642,
+   "fin": 3647,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3649,
+   "fin": 3702,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Tres tazas de luz. 2007\nÓleo sobre lienzo. 99 x 81 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 3649,
+   "fin": 3666,
+   "texto": "Tres tazas de luz"
+  },
+  {
+   "tipo": "date",
+   "ini": 3668,
+   "fin": 3672,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3673,
+   "fin": 3690,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3692,
+   "fin": 3702,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "99 x 81 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3692,
+   "fin": 3694,
+   "texto": "99"
+  },
+  {
+   "tipo": "width",
+   "ini": 3697,
+   "fin": 3699,
+   "texto": "81"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3704,
+   "fin": 3803
+  },
+  {
+   "tipo": "img",
+   "ini": 3704,
+   "fin": 3709,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3711,
+   "fin": 3803,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Muro con tres tazas, tres velas largas y espiritual luz. 2008\nÓleo sobre lienzo. 100 x 81 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 3711,
+   "fin": 3766,
+   "texto": "Muro con tres tazas, tres velas largas y espiritual luz"
+  },
+  {
+   "tipo": "date",
+   "ini": 3768,
+   "fin": 3772,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3773,
+   "fin": 3790,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3792,
+   "fin": 3803,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 81 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3792,
+   "fin": 3795,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 3798,
+   "fin": 3800,
+   "texto": "81"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3805,
+   "fin": 3870
+  },
+  {
+   "tipo": "img",
+   "ini": 3805,
+   "fin": 3810,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3812,
+   "fin": 3870,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Cristo y tres espacios. 2008\nÓleo sobre lienzo. 80 x 54 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 3812,
+   "fin": 3834,
+   "texto": "Cristo y tres espacios"
+  },
+  {
+   "tipo": "date",
+   "ini": 3836,
+   "fin": 3840,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3841,
+   "fin": 3858,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3860,
+   "fin": 3870,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80 x 54 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3860,
+   "fin": 3862,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 3865,
+   "fin": 3867,
+   "texto": "54"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3872,
+   "fin": 3962
+  },
+  {
+   "tipo": "img",
+   "ini": 3872,
+   "fin": 3877,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3879,
+   "fin": 3962,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Visión al sur de Tenerife con dos tazas blancas. 2008\nÓleo sobre lienzo. 38 x 46 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 3879,
+   "fin": 3926,
+   "texto": "Visión al sur de Tenerife con dos tazas blancas"
+  },
+  {
+   "tipo": "date",
+   "ini": 3928,
+   "fin": 3932,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3933,
+   "fin": 3950,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3952,
+   "fin": 3962,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "38 x 46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3952,
+   "fin": 3954,
+   "texto": "38"
+  },
+  {
+   "tipo": "width",
+   "ini": 3957,
+   "fin": 3959,
+   "texto": "46"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3964,
+   "fin": 4038
+  },
+  {
+   "tipo": "img",
+   "ini": 3964,
+   "fin": 3969,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3971,
+   "fin": 4038,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Cinco planos y dos tazas de luz. 2009\nÓleo sobre lienzo. 33 x 41 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 3971,
+   "fin": 4002,
+   "texto": "Cinco planos y dos tazas de luz"
+  },
+  {
+   "tipo": "date",
+   "ini": 4004,
+   "fin": 4008,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4009,
+   "fin": 4026,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4028,
+   "fin": 4038,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "33 x 41 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4028,
+   "fin": 4030,
+   "texto": "33"
+  },
+  {
+   "tipo": "width",
+   "ini": 4033,
+   "fin": 4035,
+   "texto": "41"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4040,
+   "fin": 4116
+  },
+  {
+   "tipo": "img",
+   "ini": 4040,
+   "fin": 4045,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4047,
+   "fin": 4116,
+   "rasgos": {
+    "type": ""
+   },
+   "texto": "Teide y ventana en cruz con nubes. 2009\nÓleo sobre lienzo. 41 x 33 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4047,
+   "fin": 4080,
+   "texto": "Teide y ventana en cruz con nubes"
+  },
+  {
+   "tipo": "date",
+   "ini": 4082,
+   "fin": 4086,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4087,
+   "fin": 4104,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4106,
+   "fin": 4116,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 33 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4106,
+   "fin": 4108,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 4111,
+   "fin": 4113,
+   "texto": "33"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4118,
+   "fin": 4204
+  },
+  {
+   "tipo": "img",
+   "ini": 4118,
+   "fin": 4123,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4125,
+   "fin": 4204,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Ventana, dos tazas y velas y espiritual luz. 2010\nÓleo sobre lienzo. 46 x 38 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4125,
+   "fin": 4168,
+   "texto": "Ventana, dos tazas y velas y espiritual luz"
+  },
+  {
+   "tipo": "date",
+   "ini": 4170,
+   "fin": 4174,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4175,
+   "fin": 4192,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4194,
+   "fin": 4204,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 38 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4194,
+   "fin": 4196,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 4199,
+   "fin": 4201,
+   "texto": "38"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4206,
+   "fin": 4265
+  },
+  {
+   "tipo": "img",
+   "ini": 4206,
+   "fin": 4211,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4213,
+   "fin": 4265,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Luz y tres tazas. 2010\nÓleo sobre lienzo. 38 x 46 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4213,
+   "fin": 4229,
+   "texto": "Luz y tres tazas"
+  },
+  {
+   "tipo": "date",
+   "ini": 4231,
+   "fin": 4235,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4236,
+   "fin": 4253,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4255,
+   "fin": 4265,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "38 x 46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4255,
+   "fin": 4257,
+   "texto": "38"
+  },
+  {
+   "tipo": "width",
+   "ini": 4260,
+   "fin": 4262,
+   "texto": "46"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4267,
+   "fin": 4352
+  },
+  {
+   "tipo": "img",
+   "ini": 4267,
+   "fin": 4272,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4274,
+   "fin": 4352,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Tres tazas y tres velas con luz espiritual. 2010\nÓleo sobre lienzo. 41 x 33 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4274,
+   "fin": 4316,
+   "texto": "Tres tazas y tres velas con luz espiritual"
+  },
+  {
+   "tipo": "date",
+   "ini": 4318,
+   "fin": 4322,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4323,
+   "fin": 4340,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4342,
+   "fin": 4352,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 33 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4342,
+   "fin": 4344,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 4347,
+   "fin": 4349,
+   "texto": "33"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4354,
+   "fin": 4423
+  },
+  {
+   "tipo": "img",
+   "ini": 4354,
+   "fin": 4359,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4361,
+   "fin": 4423,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Cristo y dos paños blancos. 2012\nÓleo sobre lienzo. 46 x 38 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4361,
+   "fin": 4387,
+   "texto": "Cristo y dos paños blancos"
+  },
+  {
+   "tipo": "date",
+   "ini": 4389,
+   "fin": 4393,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4394,
+   "fin": 4411,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4413,
+   "fin": 4423,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 38 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4413,
+   "fin": 4415,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 4418,
+   "fin": 4420,
+   "texto": "38"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4425,
+   "fin": 4489
+  },
+  {
+   "tipo": "img",
+   "ini": 4425,
+   "fin": 4430,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4432,
+   "fin": 4489,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Taza blanca el límite. 2013\nÓleo sobre lienzo. 33 x 41 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4432,
+   "fin": 4453,
+   "texto": "Taza blanca el límite"
+  },
+  {
+   "tipo": "date",
+   "ini": 4455,
+   "fin": 4459,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4460,
+   "fin": 4477,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4479,
+   "fin": 4489,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "33 x 41 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4479,
+   "fin": 4481,
+   "texto": "33"
+  },
+  {
+   "tipo": "width",
+   "ini": 4484,
+   "fin": 4486,
+   "texto": "41"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4491,
+   "fin": 4561
+  },
+  {
+   "tipo": "img",
+   "ini": 4491,
+   "fin": 4496,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4498,
+   "fin": 4562,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Dos tazas blancas al límite. 2013\nÓleo sobre lienzo. 41 x 33 cm\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 4498,
+   "fin": 4525,
+   "texto": "Dos tazas blancas al límite"
+  },
+  {
+   "tipo": "date",
+   "ini": 4527,
+   "fin": 4531,
+   "rasgos": {
+    "when": ""
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4532,
+   "fin": 4549,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4551,
+   "fin": 4561,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 33 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4551,
+   "fin": 4553,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 4556,
+   "fin": 4558,
+   "texto": "33"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4563,
+   "fin": 4623
+  },
+  {
+   "tipo": "img",
+   "ini": 4563,
+   "fin": 4568,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4570,
+   "fin": 4623,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Dos tazas blancas. 2013\nÓleo sobre lienzo. 38 x 46 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4570,
+   "fin": 4587,
+   "texto": "Dos tazas blancas"
+  },
+  {
+   "tipo": "date",
+   "ini": 4589,
+   "fin": 4593,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4594,
+   "fin": 4611,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4613,
+   "fin": 4623,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "38 x 46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4613,
+   "fin": 4615,
+   "texto": "38"
+  },
+  {
+   "tipo": "width",
+   "ini": 4618,
+   "fin": 4620,
+   "texto": "46"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4644,
+   "fin": 4729
+  },
+  {
+   "tipo": "img",
+   "ini": 4644,
+   "fin": 4649,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4651,
+   "fin": 4729,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Ventana en cruz y luz de taza blanca. 1998\nTinta china sobre papel. 40 x 35 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4651,
+   "fin": 4687,
+   "texto": "Ventana en cruz y luz de taza blanca"
+  },
+  {
+   "tipo": "date",
+   "ini": 4689,
+   "fin": 4693,
+   "rasgos": {
+    "when": "1998"
+   },
+   "texto": "1998"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4694,
+   "fin": 4717,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4719,
+   "fin": 4729,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 35 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4719,
+   "fin": 4721,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 4724,
+   "fin": 4726,
+   "texto": "35"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4731,
+   "fin": 4809
+  },
+  {
+   "tipo": "img",
+   "ini": 4731,
+   "fin": 4736,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4738,
+   "fin": 4809,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Noche de luna en el Teide. 1999\nTinta china sobre papel. 35,8 x 41,5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4738,
+   "fin": 4763,
+   "texto": "Noche de luna en el Teide"
+  },
+  {
+   "tipo": "date",
+   "ini": 4765,
+   "fin": 4769,
+   "rasgos": {
+    "when": "1999"
+   },
+   "texto": "1999"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4770,
+   "fin": 4793,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4795,
+   "fin": 4809,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35,8 x 41,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4795,
+   "fin": 4799,
+   "texto": "35,8"
+  },
+  {
+   "tipo": "width",
+   "ini": 4802,
+   "fin": 4806,
+   "texto": "41,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4811,
+   "fin": 4901
+  },
+  {
+   "tipo": "img",
+   "ini": 4811,
+   "fin": 4816,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4818,
+   "fin": 4901,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Cestillo y taza blanca con luz espiritual. 1999\nTinta china sobre papel. 40 x 36 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4818,
+   "fin": 4859,
+   "texto": "Cestillo y taza blanca con luz espiritual"
+  },
+  {
+   "tipo": "date",
+   "ini": 4861,
+   "fin": 4865,
+   "rasgos": {
+    "when": "1999"
+   },
+   "texto": "1999"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4866,
+   "fin": 4889,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4891,
+   "fin": 4902,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 36 cm\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 4891,
+   "fin": 4893,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 4896,
+   "fin": 4898,
+   "texto": "36"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4903,
+   "fin": 4998
+  },
+  {
+   "tipo": "img",
+   "ini": 4903,
+   "fin": 4908,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4910,
+   "fin": 4998,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Mesa con objetos blancos y luz al infinito. 2000\nTinta china sobre papel. 40,5 x 35,8 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4910,
+   "fin": 4952,
+   "texto": "Mesa con objetos blancos y luz al infinito"
+  },
+  {
+   "tipo": "date",
+   "ini": 4954,
+   "fin": 4958,
+   "rasgos": {
+    "when": "2000"
+   },
+   "texto": "2000"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4959,
+   "fin": 4982,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4984,
+   "fin": 4998,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40,5 x 35,8 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4984,
+   "fin": 4988,
+   "texto": "40,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 4991,
+   "fin": 4995,
+   "texto": "35,8"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5000,
+   "fin": 5076
+  },
+  {
+   "tipo": "img",
+   "ini": 5000,
+   "fin": 5005,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5007,
+   "fin": 5076,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Dos tazas blancas al límite. 2002\nTinta china sobre papel. 26 x 32 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5007,
+   "fin": 5034,
+   "texto": "Dos tazas blancas al límite"
+  },
+  {
+   "tipo": "date",
+   "ini": 5036,
+   "fin": 5040,
+   "rasgos": {
+    "when": "2002"
+   },
+   "texto": "2002"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5041,
+   "fin": 5064,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5066,
+   "fin": 5076,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "26 x 32 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5066,
+   "fin": 5068,
+   "texto": "26"
+  },
+  {
+   "tipo": "width",
+   "ini": 5071,
+   "fin": 5073,
+   "texto": "32"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5078,
+   "fin": 5162
+  },
+  {
+   "tipo": "img",
+   "ini": 5078,
+   "fin": 5083,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5085,
+   "fin": 5162,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Cuatro velas que ocultan a Cristo. 2004\nTinta china sobre papel. 37,8 x 32 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5085,
+   "fin": 5118,
+   "texto": "Cuatro velas que ocultan a Cristo"
+  },
+  {
+   "tipo": "date",
+   "ini": 5120,
+   "fin": 5124,
+   "rasgos": {
+    "when": "2004"
+   },
+   "texto": "2004"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5125,
+   "fin": 5148,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5150,
+   "fin": 5162,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "37,8 x 32 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5150,
+   "fin": 5154,
+   "texto": "37,8"
+  },
+  {
+   "tipo": "width",
+   "ini": 5157,
+   "fin": 5159,
+   "texto": "32"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5164,
+   "fin": 5248
+  },
+  {
+   "tipo": "img",
+   "ini": 5164,
+   "fin": 5169,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5171,
+   "fin": 5248,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Cráneo blanco iluminado por el rayo. 2004\nTinta china sobre papel. 32 x 25 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5171,
+   "fin": 5206,
+   "texto": "Cráneo blanco iluminado por el rayo"
+  },
+  {
+   "tipo": "date",
+   "ini": 5208,
+   "fin": 5212,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2004"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5213,
+   "fin": 5236,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5238,
+   "fin": 5248,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32 x 25 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5238,
+   "fin": 5240,
+   "texto": "32"
+  },
+  {
+   "tipo": "width",
+   "ini": 5243,
+   "fin": 5245,
+   "texto": "25"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5250,
+   "fin": 5345
+  },
+  {
+   "tipo": "img",
+   "ini": 5250,
+   "fin": 5255,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5257,
+   "fin": 5345,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Dos tazas de luz y Teide cruzado por las nubes. 2005\nTinta china sobre papel. 32 x 38 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5257,
+   "fin": 5303,
+   "texto": "Dos tazas de luz y Teide cruzado por las nubes"
+  },
+  {
+   "tipo": "date",
+   "ini": 5305,
+   "fin": 5309,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2005"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5310,
+   "fin": 5333,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5335,
+   "fin": 5345,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32 x 38 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5335,
+   "fin": 5337,
+   "texto": "32"
+  },
+  {
+   "tipo": "width",
+   "ini": 5340,
+   "fin": 5342,
+   "texto": "38"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5347,
+   "fin": 5440
+  },
+  {
+   "tipo": "img",
+   "ini": 5347,
+   "fin": 5352,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5354,
+   "fin": 5440,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Visión Monacal de la Vera Cruz (Segovia). 2010\nTinta china sobre papel. 32,5 x 24,5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5354,
+   "fin": 5394,
+   "texto": "Visión Monacal de la Vera Cruz (Segovia)"
+  },
+  {
+   "tipo": "date",
+   "ini": 5396,
+   "fin": 5400,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5401,
+   "fin": 5424,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5426,
+   "fin": 5440,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32,5 x 24,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5426,
+   "fin": 5430,
+   "texto": "32,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 5433,
+   "fin": 5437,
+   "texto": "24,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5442,
+   "fin": 5522
+  },
+  {
+   "tipo": "img",
+   "ini": 5442,
+   "fin": 5447,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5449,
+   "fin": 5522,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Ventana en cruz y nubes blancas. 2010\nTinta china sobre papel. 32 x 25 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5449,
+   "fin": 5480,
+   "texto": "Ventana en cruz y nubes blancas"
+  },
+  {
+   "tipo": "date",
+   "ini": 5482,
+   "fin": 5486,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5487,
+   "fin": 5510,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5512,
+   "fin": 5523,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32 x 25 cm\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 5512,
+   "fin": 5514,
+   "texto": "32"
+  },
+  {
+   "tipo": "width",
+   "ini": 5517,
+   "fin": 5519,
+   "texto": "25"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5524,
+   "fin": 5609
+  },
+  {
+   "tipo": "img",
+   "ini": 5524,
+   "fin": 5529,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5531,
+   "fin": 5609,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Visión de la Vera Cruz (Segovia). 2011\nTinta china sobre papel. 31,3 x 25,2 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5531,
+   "fin": 5563,
+   "texto": "Visión de la Vera Cruz (Segovia)"
+  },
+  {
+   "tipo": "date",
+   "ini": 5565,
+   "fin": 5569,
+   "rasgos": {
+    "when": "2011"
+   },
+   "texto": "2011"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5570,
+   "fin": 5593,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5595,
+   "fin": 5609,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "31,3 x 25,2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5595,
+   "fin": 5599,
+   "texto": "31,3"
+  },
+  {
+   "tipo": "width",
+   "ini": 5602,
+   "fin": 5606,
+   "texto": "25,2"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5611,
+   "fin": 5691
+  },
+  {
+   "tipo": "img",
+   "ini": 5611,
+   "fin": 5616,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5618,
+   "fin": 5691,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Teide cruzado por nubes blancas. 2011\nTinta china sobre papel. 25 x 31 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5618,
+   "fin": 5649,
+   "texto": "Teide cruzado por nubes blancas"
+  },
+  {
+   "tipo": "date",
+   "ini": 5651,
+   "fin": 5655,
+   "rasgos": {
+    "when": "2011"
+   },
+   "texto": "2011"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5656,
+   "fin": 5679,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5681,
+   "fin": 5691,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "25 x 31 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5681,
+   "fin": 5683,
+   "texto": "25"
+  },
+  {
+   "tipo": "width",
+   "ini": 5686,
+   "fin": 5688,
+   "texto": "31"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5693,
+   "fin": 5776
+  },
+  {
+   "tipo": "img",
+   "ini": 5693,
+   "fin": 5698,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5700,
+   "fin": 5776,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Cristo disolviéndose en el papel. 2011\nTinta china sobre papel. 33,5 x 29 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5700,
+   "fin": 5732,
+   "texto": "Cristo disolviéndose en el papel"
+  },
+  {
+   "tipo": "date",
+   "ini": 5734,
+   "fin": 5738,
+   "rasgos": {
+    "when": "2011"
+   },
+   "texto": "2011"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5739,
+   "fin": 5762,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5764,
+   "fin": 5776,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "33,5 x 29 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5764,
+   "fin": 5768,
+   "texto": "33,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 5771,
+   "fin": 5773,
+   "texto": "29"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5778,
+   "fin": 5852
+  },
+  {
+   "tipo": "img",
+   "ini": 5778,
+   "fin": 5783,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5785,
+   "fin": 5852,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Tres espacios con tazas. 2014\nTinta china sobre papel. 28 x 27,8 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5785,
+   "fin": 5808,
+   "texto": "Tres espacios con tazas"
+  },
+  {
+   "tipo": "date",
+   "ini": 5810,
+   "fin": 5814,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5815,
+   "fin": 5838,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5840,
+   "fin": 5852,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "28 x 27,8 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5840,
+   "fin": 5842,
+   "texto": "28"
+  },
+  {
+   "tipo": "width",
+   "ini": 5845,
+   "fin": 5849,
+   "texto": "27,8"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5854,
+   "fin": 5952
+  },
+  {
+   "tipo": "img",
+   "ini": 5854,
+   "fin": 5859,
+   "rasgos": {
+    "color": "false",
+    "size": "medium",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5861,
+   "fin": 5952,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Muro de los tres espacios y tres tazas de luz. 2012\nTinta china sobre papel. 27,5 x 27,5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5861,
+   "fin": 5906,
+   "texto": "Muro de los tres espacios y tres tazas de luz"
+  },
+  {
+   "tipo": "date",
+   "ini": 5908,
+   "fin": 5912,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5913,
+   "fin": 5936,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5938,
+   "fin": 5952,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27,5 x 27,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5938,
+   "fin": 5942,
+   "texto": "27,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 5945,
+   "fin": 5949,
+   "texto": "27,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5954,
+   "fin": 6029
+  },
+  {
+   "tipo": "img",
+   "ini": 5954,
+   "fin": 5959,
+   "rasgos": {
+    "size": "medium ",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5961,
+   "fin": 6029,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Teide cruzado por una nube. 2012\nTinta china sobre papel. 24 x 33 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5961,
+   "fin": 5987,
+   "texto": "Teide cruzado por una nube"
+  },
+  {
+   "tipo": "date",
+   "ini": 5989,
+   "fin": 5993,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5994,
+   "fin": 6017,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6019,
+   "fin": 6029,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "24 x 33 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6019,
+   "fin": 6021,
+   "texto": "24"
+  },
+  {
+   "tipo": "width",
+   "ini": 6024,
+   "fin": 6026,
+   "texto": "33"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6031,
+   "fin": 6103
+  },
+  {
+   "tipo": "img",
+   "ini": 6031,
+   "fin": 6036,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6038,
+   "fin": 6103,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Ventana en cruz y nubes. 2014\nTinta china sobre papel. 32 x 25 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 6038,
+   "fin": 6061,
+   "texto": "Ventana en cruz y nubes"
+  },
+  {
+   "tipo": "date",
+   "ini": 6063,
+   "fin": 6067,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6068,
+   "fin": 6091,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6093,
+   "fin": 6103,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32 x 25 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6093,
+   "fin": 6095,
+   "texto": "32"
+  },
+  {
+   "tipo": "width",
+   "ini": 6098,
+   "fin": 6100,
+   "texto": "25"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6105,
+   "fin": 6181
+  },
+  {
+   "tipo": "img",
+   "ini": 6105,
+   "fin": 6110,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6112,
+   "fin": 6181,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Ventana y nubes al infinito. 2014\nTinta china sobre papel. 32 x 25 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 6112,
+   "fin": 6139,
+   "texto": "Ventana y nubes al infinito"
+  },
+  {
+   "tipo": "date",
+   "ini": 6141,
+   "fin": 6145,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6146,
+   "fin": 6169,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6171,
+   "fin": 6181,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32 x 25 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6171,
+   "fin": 6173,
+   "texto": "32"
+  },
+  {
+   "tipo": "width",
+   "ini": 6176,
+   "fin": 6178,
+   "texto": "25"
+  },
+  {
+   "tipo": "person",
+   "ini": 6183,
+   "fin": 6199,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Cristino de Vera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6183,
+   "fin": 6199,
+   "texto": "Cristino de Vera"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 43515,
+   "fin": 43641,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 43515,
+   "fin": 43549,
+   "rasgos": {
+    "from": "2019-03-21",
+    "to": "2019-05-25"
+   },
+   "texto": "2019\nDel 21 de marzo al 25 de mayo"
+  },
+  {
+   "tipo": "title",
+   "ini": 43551,
+   "fin": 43568,
+   "texto": "Luz en la pintura"
+  },
+  {
+   "tipo": "institution",
+   "ini": 43609,
+   "fin": 43640,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, hsot"
+   },
+   "texto": "Galería Fernández-Braso, Madrid"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 43634,
+   "fin": 43640,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "institution",
+   "ini": 44172,
+   "fin": 44278,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Fernández-Braso\nGalería de arte\nVillanueva, 30. 28001. Madrid. 91 575 04 27\nwww.galeriafernandez-braso.com"
+  },
+  {
+   "tipo": "address",
+   "ini": 44204,
+   "fin": 44233,
+   "texto": "Villanueva, 30. 28001. Madrid"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 44227,
+   "fin": 44233,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  }
+ ]
+}

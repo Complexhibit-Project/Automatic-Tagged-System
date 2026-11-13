@@ -1,0 +1,3934 @@
+{
+ "id": "cat_050_catalogo_gonzalo_chillida",
+ "nombre_original": "Catalogo-Gonzalo-Chillida",
+ "longitud_texto": 57286,
+ "sha256_texto": "38077a5dda2fc277eedb0d35b2071d854206f7dd0a255ffe9bbb8812af7b234d",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 54,
+   "texto": "VER Y NO DEJARSE VER\nGONZALO CHILLIDA EN LOS CINCUENTA"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 54,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 21,
+   "fin": 37,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "GONZALO CHILLIDA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21,
+   "fin": 37,
+   "texto": "GONZALO CHILLIDA"
+  },
+  {
+   "tipo": "person",
+   "ini": 56,
+   "fin": 72,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56,
+   "fin": 72,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 103,
+   "fin": 270,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 103,
+   "fin": 157,
+   "texto": "VER Y NO DEJARSE VER\nGONZALO CHILLIDA EN LOS CINCUENTA"
+  },
+  {
+   "tipo": "person",
+   "ini": 124,
+   "fin": 140,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "GONZALO CHILLIDA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 124,
+   "fin": 140,
+   "texto": "GONZALO CHILLIDA"
+  },
+  {
+   "tipo": "date",
+   "ini": 159,
+   "fin": 182,
+   "rasgos": {
+    "from": "2021-04-22",
+    "to": "2021-06-05"
+   },
+   "texto": "22 abril - 5 junio 2021"
+  },
+  {
+   "tipo": "institution",
+   "ini": 185,
+   "fin": 270,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "JOSE DE LA MANO\n\nZorrilla, 21 28014 Madrid\ninfo@josedelamano.com\nwww.josedelamano.com"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 221,
+   "fin": 227,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "person",
+   "ini": 352,
+   "fin": 368,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 352,
+   "fin": 368,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 820,
+   "fin": 1189,
+   "rasgos": {
+    "ref": ""
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 840,
+   "fin": 863,
+   "rasgos": {
+    "type": "gallery",
+    "role": "editor"
+   },
+   "texto": "Galería José de la Mano"
+  },
+  {
+   "tipo": "person",
+   "ini": 881,
+   "fin": 900,
+   "rasgos": {
+    "textAuthor": ""
+   },
+   "texto": "Alfonso de la Torre"
+  },
+  {
+   "tipo": "persName",
+   "ini": 881,
+   "fin": 900,
+   "texto": "Alfonso de la Torre"
+  },
+  {
+   "tipo": "person",
+   "ini": 923,
+   "fin": 945,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Andrés Valentín-Gamazo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 923,
+   "fin": 945,
+   "texto": "Andrés Valentín-Gamazo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 946,
+   "fin": 970,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Archivo Gonzalo Chillida"
+  },
+  {
+   "tipo": "institution",
+   "ini": 971,
+   "fin": 1002,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Museo de Bellas Artes de Bilbao"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 996,
+   "fin": 1002,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Bilbao"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1003,
+   "fin": 1028,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Fundación Pablo Palazuelo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1029,
+   "fin": 1054,
+   "rasgos": {
+    "type": "archive",
+    "role": "photographer"
+   },
+   "texto": "Archivo Colegio de España"
+  },
+  {
+   "tipo": "person",
+   "ini": 1083,
+   "fin": 1102,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Alfonso de la Torre"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1083,
+   "fin": 1102,
+   "texto": "Alfonso de la Torre"
+  },
+  {
+   "tipo": "person",
+   "ini": 1124,
+   "fin": 1139,
+   "rasgos": {
+    "role": "catalogueDesigner"
+   },
+   "texto": "Daniel de Labra"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1124,
+   "fin": 1139,
+   "texto": "Daniel de Labra"
+  },
+  {
+   "tipo": "person",
+   "ini": 1164,
+   "fin": 1189,
+   "rasgos": {
+    "role": "catalogueEditor"
+   },
+   "texto": "Alberto Manrique de Pablo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1164,
+   "fin": 1189,
+   "texto": "Alberto Manrique de Pablo"
+  },
+  {
+   "tipo": "person",
+   "ini": 1202,
+   "fin": 1218,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1202,
+   "fin": 1218,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 1412,
+   "fin": 1428,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1412,
+   "fin": 1428,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 1792,
+   "fin": 1808,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1792,
+   "fin": 1808,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 1880,
+   "fin": 1899,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Alfonso de la Torre"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1880,
+   "fin": 1899,
+   "texto": "Alfonso de la Torre"
+  },
+  {
+   "tipo": "person",
+   "ini": 1985,
+   "fin": 2038,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida Juantegui (San Sebastián, 1926-2008)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1985,
+   "fin": 2011,
+   "texto": "Gonzalo Chillida Juantegui"
+  },
+  {
+   "tipo": "person",
+   "ini": 3487,
+   "fin": 3503,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3487,
+   "fin": 3503,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 4292,
+   "fin": 4308,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4292,
+   "fin": 4308,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 4640,
+   "fin": 4656,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4640,
+   "fin": 4656,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 9521,
+   "fin": 9537,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9521,
+   "fin": 9537,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 9873,
+   "fin": 9889,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9873,
+   "fin": 9889,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 9918,
+   "fin": 9934,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9918,
+   "fin": 9934,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 10002,
+   "fin": 10009,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10002,
+   "fin": 10009,
+   "texto": "Gonzalo"
+  },
+  {
+   "tipo": "person",
+   "ini": 11261,
+   "fin": 11277,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11261,
+   "fin": 11277,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 13492,
+   "fin": 13508,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13492,
+   "fin": 13508,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 13537,
+   "fin": 13553,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13537,
+   "fin": 13553,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 13746,
+   "fin": 13762,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13746,
+   "fin": 13762,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 14839,
+   "fin": 14855,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14839,
+   "fin": 14855,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 14930,
+   "fin": 14946,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14930,
+   "fin": 14946,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 15176,
+   "fin": 15192,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15176,
+   "fin": 15192,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 15897,
+   "fin": 15913,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15897,
+   "fin": 15913,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 17973,
+   "fin": 17989,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo\nChillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17973,
+   "fin": 17989,
+   "texto": "Gonzalo\nChillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 19338,
+   "fin": 19354,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19338,
+   "fin": 19354,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 20193,
+   "fin": 20209,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20193,
+   "fin": 20209,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 20550,
+   "fin": 20566,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20550,
+   "fin": 20566,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 21311,
+   "fin": 21327,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21311,
+   "fin": 21327,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 22714,
+   "fin": 22730,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22714,
+   "fin": 22730,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 22807,
+   "fin": 22823,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22807,
+   "fin": 22823,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 24747,
+   "fin": 24763,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24747,
+   "fin": 24763,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 27979,
+   "fin": 27995,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27979,
+   "fin": 27995,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "institution",
+   "ini": 29050,
+   "fin": 29073,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "galería José de la Mano"
+  },
+  {
+   "tipo": "person",
+   "ini": 31355,
+   "fin": 31371,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31355,
+   "fin": 31371,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 33380,
+   "fin": 33396,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 33380,
+   "fin": 33396,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 36539,
+   "fin": 36555,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 36539,
+   "fin": 36555,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 36929,
+   "fin": 36936,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 36929,
+   "fin": 36936,
+   "texto": "Gonzalo"
+  },
+  {
+   "tipo": "person",
+   "ini": 37479,
+   "fin": 37495,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 39206,
+   "fin": 39222,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39206,
+   "fin": 39222,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 43613,
+   "fin": 43629,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 43613,
+   "fin": 43629,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 43929,
+   "fin": 43936,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 43929,
+   "fin": 43936,
+   "texto": "Gonzalo"
+  },
+  {
+   "tipo": "person",
+   "ini": 45293,
+   "fin": 45309,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 45293,
+   "fin": 45309,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 45318,
+   "fin": 45334,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "GONZALO CHILLIDA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 45318,
+   "fin": 45334,
+   "texto": "GONZALO CHILLIDA"
+  },
+  {
+   "tipo": "person",
+   "ini": 45540,
+   "fin": 45556,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 45540,
+   "fin": 45556,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 46497,
+   "fin": 46513,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 46497,
+   "fin": 46513,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 47385,
+   "fin": 47401,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 47385,
+   "fin": 47401,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 48361,
+   "fin": 48377,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48361,
+   "fin": 48377,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 49229,
+   "fin": 49245,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49229,
+   "fin": 49245,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 49445,
+   "fin": 49461,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49445,
+   "fin": 49461,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 49688,
+   "fin": 49704,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "GONZALO CHILLIDA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49688,
+   "fin": 49704,
+   "texto": "GONZALO CHILLIDA"
+  },
+  {
+   "tipo": "person",
+   "ini": 50657,
+   "fin": 50673,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50657,
+   "fin": 50673,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 51596,
+   "fin": 51612,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 51596,
+   "fin": 51612,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 51681,
+   "fin": 51697,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 51681,
+   "fin": 51697,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "person",
+   "ini": 52252,
+   "fin": 52268,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 52252,
+   "fin": 52267,
+   "texto": "Gonzalo Chillid"
+  },
+  {
+   "tipo": "person",
+   "ini": 52490,
+   "fin": 52506,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 52490,
+   "fin": 52506,
+   "texto": "Gonzalo Chillida"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 53122,
+   "fin": 57286
+  },
+  {
+   "tipo": "img",
+   "ini": 53132,
+   "fin": 53137,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53132,
+   "fin": 53137
+  },
+  {
+   "tipo": "img",
+   "ini": 53138,
+   "fin": 53143,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53138,
+   "fin": 53143
+  },
+  {
+   "tipo": "img",
+   "ini": 53144,
+   "fin": 53149,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53144,
+   "fin": 53149
+  },
+  {
+   "tipo": "img",
+   "ini": 53150,
+   "fin": 53155,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53150,
+   "fin": 53155
+  },
+  {
+   "tipo": "img",
+   "ini": 53156,
+   "fin": 53161,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53156,
+   "fin": 53161
+  },
+  {
+   "tipo": "img",
+   "ini": 53162,
+   "fin": 53167,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53162,
+   "fin": 53167
+  },
+  {
+   "tipo": "img",
+   "ini": 53168,
+   "fin": 53173,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53168,
+   "fin": 53173
+  },
+  {
+   "tipo": "img",
+   "ini": 53174,
+   "fin": 53179,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53174,
+   "fin": 53179
+  },
+  {
+   "tipo": "img",
+   "ini": 53180,
+   "fin": 53185,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53180,
+   "fin": 53185
+  },
+  {
+   "tipo": "img",
+   "ini": 53186,
+   "fin": 53191,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53186,
+   "fin": 53191
+  },
+  {
+   "tipo": "img",
+   "ini": 53192,
+   "fin": 53197,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53192,
+   "fin": 53197
+  },
+  {
+   "tipo": "img",
+   "ini": 53198,
+   "fin": 53203,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53198,
+   "fin": 53203
+  },
+  {
+   "tipo": "img",
+   "ini": 53204,
+   "fin": 53209,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53204,
+   "fin": 53209
+  },
+  {
+   "tipo": "img",
+   "ini": 53210,
+   "fin": 53215,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53210,
+   "fin": 53215
+  },
+  {
+   "tipo": "img",
+   "ini": 53216,
+   "fin": 53221,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53216,
+   "fin": 53221
+  },
+  {
+   "tipo": "img",
+   "ini": 53222,
+   "fin": 53227,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53222,
+   "fin": 53227
+  },
+  {
+   "tipo": "img",
+   "ini": 53228,
+   "fin": 53233,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53228,
+   "fin": 53233
+  },
+  {
+   "tipo": "img",
+   "ini": 53234,
+   "fin": 53239,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53234,
+   "fin": 53239
+  },
+  {
+   "tipo": "img",
+   "ini": 53240,
+   "fin": 53245,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53240,
+   "fin": 53245
+  },
+  {
+   "tipo": "img",
+   "ini": 53246,
+   "fin": 53251,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53246,
+   "fin": 53251
+  },
+  {
+   "tipo": "img",
+   "ini": 53252,
+   "fin": 53257,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53252,
+   "fin": 53257
+  },
+  {
+   "tipo": "img",
+   "ini": 53258,
+   "fin": 53263,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53258,
+   "fin": 53263
+  },
+  {
+   "tipo": "img",
+   "ini": 53264,
+   "fin": 53269,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53264,
+   "fin": 53269
+  },
+  {
+   "tipo": "img",
+   "ini": 53270,
+   "fin": 53275,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53270,
+   "fin": 53275
+  },
+  {
+   "tipo": "img",
+   "ini": 53276,
+   "fin": 53281,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53276,
+   "fin": 53281
+  },
+  {
+   "tipo": "img",
+   "ini": 53282,
+   "fin": 53287,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53282,
+   "fin": 53287
+  },
+  {
+   "tipo": "img",
+   "ini": 53288,
+   "fin": 53293,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53288,
+   "fin": 53293
+  },
+  {
+   "tipo": "img",
+   "ini": 53294,
+   "fin": 53299,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53294,
+   "fin": 53299
+  },
+  {
+   "tipo": "img",
+   "ini": 53300,
+   "fin": 53305,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53300,
+   "fin": 53305
+  },
+  {
+   "tipo": "img",
+   "ini": 53306,
+   "fin": 53311,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53306,
+   "fin": 53311
+  },
+  {
+   "tipo": "img",
+   "ini": 53312,
+   "fin": 53317,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53312,
+   "fin": 53317
+  },
+  {
+   "tipo": "img",
+   "ini": 53318,
+   "fin": 53323,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53318,
+   "fin": 53323
+  },
+  {
+   "tipo": "img",
+   "ini": 53324,
+   "fin": 53329,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53324,
+   "fin": 53329
+  },
+  {
+   "tipo": "img",
+   "ini": 53330,
+   "fin": 53335,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53330,
+   "fin": 53335
+  },
+  {
+   "tipo": "img",
+   "ini": 53336,
+   "fin": 53341,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53336,
+   "fin": 53341
+  },
+  {
+   "tipo": "img",
+   "ini": 53342,
+   "fin": 53347,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53342,
+   "fin": 53347
+  },
+  {
+   "tipo": "img",
+   "ini": 53348,
+   "fin": 53353,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53348,
+   "fin": 53353
+  },
+  {
+   "tipo": "img",
+   "ini": 53354,
+   "fin": 53359,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53354,
+   "fin": 53359
+  },
+  {
+   "tipo": "checklist",
+   "ini": 53361,
+   "fin": 57284
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53380,
+   "fin": 53516
+  },
+  {
+   "tipo": "work",
+   "ini": 53380,
+   "fin": 53501,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "1. Sin título\nc. 1953-1955\nTinta (flo-master) sobre papel\n316 x 92 mm\nFirmado “G.CH” (a lápiz, ángulo\ninferior izquierdo)"
+  },
+  {
+   "tipo": "title",
+   "ini": 53383,
+   "fin": 53393,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 53394,
+   "fin": 53406,
+   "rasgos": {
+    "notBefore": "1953",
+    "notAfter": "1955"
+   },
+   "texto": "c. 1953-1955"
+  },
+  {
+   "tipo": "technique",
+   "ini": 53407,
+   "fin": 53437,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta (flo-master) sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 53438,
+   "fin": 53449,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "316 x 92 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 53438,
+   "fin": 53441,
+   "texto": "316"
+  },
+  {
+   "tipo": "width",
+   "ini": 53444,
+   "fin": 53446,
+   "texto": "92"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 53450,
+   "fin": 53501
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53518,
+   "fin": 53656
+  },
+  {
+   "tipo": "work",
+   "ini": 53518,
+   "fin": 53648,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "2. Sin título\nc. 1953-1955\nTinta (flo-master) sobre papel\n315 x 215 mm\nFirmado “G.CH” (al dorso, a lápiz,\nángulo inferior derecho)"
+  },
+  {
+   "tipo": "title",
+   "ini": 53521,
+   "fin": 53531,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 53532,
+   "fin": 53544,
+   "rasgos": {
+    "notBefore": "1953",
+    "notAfter": "1955"
+   },
+   "texto": "c. 1953-1955"
+  },
+  {
+   "tipo": "technique",
+   "ini": 53545,
+   "fin": 53575,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta (flo-master) sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 53576,
+   "fin": 53588,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "315 x 215 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 53576,
+   "fin": 53579,
+   "texto": "315"
+  },
+  {
+   "tipo": "width",
+   "ini": 53582,
+   "fin": 53585,
+   "texto": "215"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 53589,
+   "fin": 53648
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53658,
+   "fin": 53794
+  },
+  {
+   "tipo": "work",
+   "ini": 53658,
+   "fin": 53778,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "3. Sin título\nc. 1953-1955\nTinta (flo-master) sobre papel\n315 x 126 mm\nFirmado “G.CH” (a lápiz, ángulo\ninferior derecho)"
+  },
+  {
+   "tipo": "title",
+   "ini": 53661,
+   "fin": 53671,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 53672,
+   "fin": 53684,
+   "rasgos": {
+    "notBefore": "1953",
+    "notAfter": "1955"
+   },
+   "texto": "c. 1953-1955"
+  },
+  {
+   "tipo": "technique",
+   "ini": 53685,
+   "fin": 53715,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta (flo-master) sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 53716,
+   "fin": 53728,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "315 x 126 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 53716,
+   "fin": 53719,
+   "texto": "315"
+  },
+  {
+   "tipo": "width",
+   "ini": 53722,
+   "fin": 53725,
+   "texto": "126"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 53729,
+   "fin": 53778
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53796,
+   "fin": 53942
+  },
+  {
+   "tipo": "work",
+   "ini": 53796,
+   "fin": 53934,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "4. Sin título\n1957\nEsgrafiado y grafito sobre cartulina\n257 x 102 mm\nFirmado y fechado “G.CHILLIDA/\n57” (a lápiz, ángulo inferior\nderecho)"
+  },
+  {
+   "tipo": "title",
+   "ini": 53799,
+   "fin": 53809,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 53810,
+   "fin": 53814,
+   "rasgos": {
+    "when": "1957"
+   },
+   "texto": "1957"
+  },
+  {
+   "tipo": "technique",
+   "ini": 53815,
+   "fin": 53851,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Esgrafiado y grafito sobre cartulina"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 53852,
+   "fin": 53864,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "257 x 102 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 53852,
+   "fin": 53855,
+   "texto": "257"
+  },
+  {
+   "tipo": "width",
+   "ini": 53858,
+   "fin": 53861,
+   "texto": "102"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 53865,
+   "fin": 53934
+  },
+  {
+   "tipo": "person",
+   "ini": 53884,
+   "fin": 53894,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "G.CHILLIDA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 53884,
+   "fin": 53894,
+   "texto": "G.CHILLIDA"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53944,
+   "fin": 54061
+  },
+  {
+   "tipo": "work",
+   "ini": 53944,
+   "fin": 54053,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "5. Sin título\nc. 1955-1959\nTinta sobre papel\n272 x 122 mm\nFirmado “G.CH” (a lápiz, ángulo\ninferior izquierdo)"
+  },
+  {
+   "tipo": "title",
+   "ini": 53947,
+   "fin": 53957,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 53958,
+   "fin": 53970,
+   "rasgos": {
+    "notBefore": "1955",
+    "notAfter": "1959"
+   },
+   "texto": "c. 1955-1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 53971,
+   "fin": 53988,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 53989,
+   "fin": 54001,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "272 x 122 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 53989,
+   "fin": 53992,
+   "texto": "272"
+  },
+  {
+   "tipo": "width",
+   "ini": 53995,
+   "fin": 53998,
+   "texto": "122"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 54002,
+   "fin": 54053
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 54063,
+   "fin": 54186
+  },
+  {
+   "tipo": "work",
+   "ini": 54063,
+   "fin": 54169,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "6. Sin título\nc. 1955-1959\nLápiz sobre papel\n211 x 271 mm\nFirmado “G.CH” (a tinta, parte\ninferior derecha)"
+  },
+  {
+   "tipo": "title",
+   "ini": 54066,
+   "fin": 54076,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 54077,
+   "fin": 54089,
+   "rasgos": {
+    "notBefore": "1955",
+    "notAfter": "1959"
+   },
+   "texto": "c. 1955-1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 54090,
+   "fin": 54107,
+   "rasgos": {
+    "type": "pencil"
+   },
+   "texto": "Lápiz sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 54108,
+   "fin": 54120,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "211 x 271 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 54108,
+   "fin": 54111,
+   "texto": "211"
+  },
+  {
+   "tipo": "width",
+   "ini": 54114,
+   "fin": 54117,
+   "texto": "271"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 54121,
+   "fin": 54169
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 54188,
+   "fin": 54313
+  },
+  {
+   "tipo": "work",
+   "ini": 54188,
+   "fin": 54297,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "7. Sin título\nc. 1955-1959\nLápiz sobre papel\n211 x 271 mm\nFirmado “G.CH” (a tinta, ángulo\ninferior izquierdo)"
+  },
+  {
+   "tipo": "title",
+   "ini": 54191,
+   "fin": 54201,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 54202,
+   "fin": 54214,
+   "rasgos": {
+    "notBefore": "1955",
+    "notAfter": "1959"
+   },
+   "texto": "c. 1955-1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 54215,
+   "fin": 54232,
+   "rasgos": {
+    "type": "pencil"
+   },
+   "texto": "Lápiz sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 54233,
+   "fin": 54245,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "211 x 271 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 54233,
+   "fin": 54236,
+   "texto": "211"
+  },
+  {
+   "tipo": "width",
+   "ini": 54239,
+   "fin": 54242,
+   "texto": "271"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 54246,
+   "fin": 54297
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 54315,
+   "fin": 54429
+  },
+  {
+   "tipo": "work",
+   "ini": 54315,
+   "fin": 54421,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "8. Sin título\nc. 1955-1959\nTinta sobre papel\n211 x 137 mm\nFirmado “G.CH” (a tinta, parte\ninferior derecha)"
+  },
+  {
+   "tipo": "title",
+   "ini": 54318,
+   "fin": 54328,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 54329,
+   "fin": 54341,
+   "rasgos": {
+    "notBefore": "1955",
+    "notAfter": "1959"
+   },
+   "texto": "c. 1955-1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 54342,
+   "fin": 54359,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 54360,
+   "fin": 54372,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "211 x 137 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 54360,
+   "fin": 54363,
+   "texto": "211"
+  },
+  {
+   "tipo": "width",
+   "ini": 54366,
+   "fin": 54369,
+   "texto": "137"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 54373,
+   "fin": 54421
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 54431,
+   "fin": 54554
+  },
+  {
+   "tipo": "work",
+   "ini": 54431,
+   "fin": 54537,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "9. Sin título\nc. 1955-1959\nTinta sobre papel\n137 x 211 mm\nFirmado “G.CH” (a tinta, parte\ninferior derecha)"
+  },
+  {
+   "tipo": "title",
+   "ini": 54434,
+   "fin": 54444,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 54445,
+   "fin": 54457,
+   "rasgos": {
+    "notBefore": "1955",
+    "notAfter": "1959"
+   },
+   "texto": "c. 1955-1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 54458,
+   "fin": 54475,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 54476,
+   "fin": 54488,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "137 x 211 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 54476,
+   "fin": 54479,
+   "texto": "137"
+  },
+  {
+   "tipo": "width",
+   "ini": 54482,
+   "fin": 54485,
+   "texto": "211"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 54489,
+   "fin": 54537
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 54556,
+   "fin": 54671
+  },
+  {
+   "tipo": "work",
+   "ini": 54556,
+   "fin": 54663,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "10.\nSin título\nc. 1955-1959\nTinta sobre papel\n271 x 211 mm\nFirmado “G.CH” (a tinta, parte\ninferior derecha)"
+  },
+  {
+   "tipo": "title",
+   "ini": 54560,
+   "fin": 54570,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 54571,
+   "fin": 54583,
+   "rasgos": {
+    "notBefore": "1955",
+    "notAfter": "1959"
+   },
+   "texto": "c. 1955-1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 54584,
+   "fin": 54601,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 54602,
+   "fin": 54614,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "271 x 211 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 54602,
+   "fin": 54605,
+   "texto": "271"
+  },
+  {
+   "tipo": "width",
+   "ini": 54608,
+   "fin": 54611,
+   "texto": "211"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 54615,
+   "fin": 54663
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 54673,
+   "fin": 54796
+  },
+  {
+   "tipo": "work",
+   "ini": 54673,
+   "fin": 54780,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "11. Sin título\nc. 1955-1959\nTinta sobre papel\n137 x 211 mm\nFirmado “G.CH” (a tinta, parte\ninferior derecha)"
+  },
+  {
+   "tipo": "title",
+   "ini": 54677,
+   "fin": 54687,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 54688,
+   "fin": 54700,
+   "rasgos": {
+    "notBefore": "1955",
+    "notAfter": "1959"
+   },
+   "texto": "c. 1955-1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 54701,
+   "fin": 54718,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 54719,
+   "fin": 54731,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "137 x 211 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 54719,
+   "fin": 54722,
+   "texto": "137"
+  },
+  {
+   "tipo": "width",
+   "ini": 54725,
+   "fin": 54728,
+   "texto": "211"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 54732,
+   "fin": 54780
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 54798,
+   "fin": 54915
+  },
+  {
+   "tipo": "work",
+   "ini": 54798,
+   "fin": 54906,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "12. Sin título\nc. 1955-1959\nTinta sobre papel\n272 x 211 mm\nFirmado “G.CH” (a lápiz, ángulo\ninferior derecho)"
+  },
+  {
+   "tipo": "title",
+   "ini": 54802,
+   "fin": 54812,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 54813,
+   "fin": 54825,
+   "rasgos": {
+    "notBefore": "1955",
+    "notAfter": "1959"
+   },
+   "texto": "c. 1955-1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 54826,
+   "fin": 54843,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 54844,
+   "fin": 54856,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "272 x 211 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 54844,
+   "fin": 54847,
+   "texto": "272"
+  },
+  {
+   "tipo": "width",
+   "ini": 54850,
+   "fin": 54853,
+   "texto": "211"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 54857,
+   "fin": 54906
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 54916,
+   "fin": 55038
+  },
+  {
+   "tipo": "work",
+   "ini": 54916,
+   "fin": 55023,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "13. Sin título\nc. 1955-1959\nTinta sobre papel\n211 x 136 mm\nFirmado “G.CH” (a tinta, parte\ninferior derecha)"
+  },
+  {
+   "tipo": "title",
+   "ini": 54920,
+   "fin": 54930,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 54931,
+   "fin": 54943,
+   "rasgos": {
+    "notBefore": "1955",
+    "notAfter": "1959"
+   },
+   "texto": "c. 1955-1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 54944,
+   "fin": 54961,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 54962,
+   "fin": 54974,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "211 x 136 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 54962,
+   "fin": 54965,
+   "texto": "211"
+  },
+  {
+   "tipo": "width",
+   "ini": 54968,
+   "fin": 54971,
+   "texto": "136"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 54975,
+   "fin": 55023
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 55040,
+   "fin": 55163
+  },
+  {
+   "tipo": "work",
+   "ini": 55040,
+   "fin": 55147,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "14. Sin título\nc. 1955-1959\nTinta sobre papel\n272 x 211 mm\nFirmado “G.CH” (a tinta, parte\ninferior derecha)"
+  },
+  {
+   "tipo": "title",
+   "ini": 55044,
+   "fin": 55054,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 55055,
+   "fin": 55067,
+   "rasgos": {
+    "notBefore": "1955",
+    "notAfter": "1959"
+   },
+   "texto": "c. 1955-1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 55068,
+   "fin": 55085,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 55086,
+   "fin": 55098,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "272 x 211 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 55086,
+   "fin": 55089,
+   "texto": "272"
+  },
+  {
+   "tipo": "width",
+   "ini": 55092,
+   "fin": 55095,
+   "texto": "211"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 55099,
+   "fin": 55147
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 55165,
+   "fin": 55280
+  },
+  {
+   "tipo": "work",
+   "ini": 55165,
+   "fin": 55272,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "15. Sin título\nc. 1955-1959\nTinta sobre papel\n216 x 312 mm\nFirmado “G.CH” (a lápiz, parte\ninferior derecha)"
+  },
+  {
+   "tipo": "title",
+   "ini": 55169,
+   "fin": 55179,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 55180,
+   "fin": 55192,
+   "rasgos": {
+    "notBefore": "1955",
+    "notAfter": "1959"
+   },
+   "texto": "c. 1955-1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 55193,
+   "fin": 55210,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 55211,
+   "fin": 55223,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "216 x 312 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 55211,
+   "fin": 55214,
+   "texto": "216"
+  },
+  {
+   "tipo": "width",
+   "ini": 55217,
+   "fin": 55220,
+   "texto": "312"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 55224,
+   "fin": 55272
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 55282,
+   "fin": 55358
+  },
+  {
+   "tipo": "work",
+   "ini": 55282,
+   "fin": 55341,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "16. Sin título\nc. 1959\nTinta china sobre papel\n268 x 348 mm"
+  },
+  {
+   "tipo": "title",
+   "ini": 55286,
+   "fin": 55296,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 55297,
+   "fin": 55304,
+   "rasgos": {
+    "notBefore": "1958",
+    "notAfter": "1960"
+   },
+   "texto": "c. 1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 55305,
+   "fin": 55328,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 55329,
+   "fin": 55341,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "268 x 348 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 55329,
+   "fin": 55332,
+   "texto": "268"
+  },
+  {
+   "tipo": "width",
+   "ini": 55335,
+   "fin": 55338,
+   "texto": "348"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 55360,
+   "fin": 55506
+  },
+  {
+   "tipo": "work",
+   "ini": 55360,
+   "fin": 55490,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "17. Sin título\n1959\nTinta china sobre cartulina\n329 x 504 mm\nFirmado y fechado “G.CHILLIDA/\n59” (a lápiz, ángulo inferior\nderecho)"
+  },
+  {
+   "tipo": "title",
+   "ini": 55364,
+   "fin": 55374,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 55375,
+   "fin": 55379,
+   "rasgos": {
+    "when": "1959"
+   },
+   "texto": "1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 55380,
+   "fin": 55407,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre cartulina"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 55408,
+   "fin": 55420,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "329 x 504 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 55408,
+   "fin": 55411,
+   "texto": "329"
+  },
+  {
+   "tipo": "width",
+   "ini": 55414,
+   "fin": 55417,
+   "texto": "504"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 55421,
+   "fin": 55490
+  },
+  {
+   "tipo": "person",
+   "ini": 55440,
+   "fin": 55450,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "G.CHILLIDA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 55440,
+   "fin": 55450,
+   "texto": "G.CHILLIDA"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 55508,
+   "fin": 55685
+  },
+  {
+   "tipo": "work",
+   "ini": 55508,
+   "fin": 55677,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "18. Sin título\n1959\nTinta china sobre cartulina\n(al dorso, retrato masculino, a lápiz)\n360 x 502 mm\nFirmado y fechado “G.CHILLIDA/\n59” (a lápiz, ángulo inferior\nderecho)"
+  },
+  {
+   "tipo": "title",
+   "ini": 55512,
+   "fin": 55522,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 55523,
+   "fin": 55527,
+   "rasgos": {
+    "when": "1959"
+   },
+   "texto": "1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 55528,
+   "fin": 55555,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre cartulina"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 55595,
+   "fin": 55607,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "360 x 502 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 55595,
+   "fin": 55598,
+   "texto": "360"
+  },
+  {
+   "tipo": "width",
+   "ini": 55601,
+   "fin": 55604,
+   "texto": "502"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 55608,
+   "fin": 55677
+  },
+  {
+   "tipo": "person",
+   "ini": 55627,
+   "fin": 55637,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "G.CHILLIDA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 55627,
+   "fin": 55637,
+   "texto": "G.CHILLIDA"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 55687,
+   "fin": 55767
+  },
+  {
+   "tipo": "work",
+   "ini": 55687,
+   "fin": 55750,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "19. Sin título\nc. 1959\nTinta china sobre cartulina\n503 x 702 mm"
+  },
+  {
+   "tipo": "title",
+   "ini": 55691,
+   "fin": 55701,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 55702,
+   "fin": 55709,
+   "rasgos": {
+    "notBefore": "1958",
+    "notAfter": "1960"
+   },
+   "texto": "c. 1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 55710,
+   "fin": 55737,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre cartulina"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 55738,
+   "fin": 55750,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "503 x 702 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 55738,
+   "fin": 55741,
+   "texto": "503"
+  },
+  {
+   "tipo": "width",
+   "ini": 55744,
+   "fin": 55747,
+   "texto": "702"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 55769,
+   "fin": 55848
+  },
+  {
+   "tipo": "work",
+   "ini": 55769,
+   "fin": 55832,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "20. Sin título\nc. 1959\nTinta china sobre cartulina\n503 x 702 mm"
+  },
+  {
+   "tipo": "title",
+   "ini": 55773,
+   "fin": 55783,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 55784,
+   "fin": 55791,
+   "rasgos": {
+    "notBefore": "1958",
+    "notAfter": "1960"
+   },
+   "texto": "c. 1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 55792,
+   "fin": 55819,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre cartulina"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 55820,
+   "fin": 55832,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "503 x 702 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 55820,
+   "fin": 55823,
+   "texto": "503"
+  },
+  {
+   "tipo": "width",
+   "ini": 55826,
+   "fin": 55829,
+   "texto": "702"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 55850,
+   "fin": 55921
+  },
+  {
+   "tipo": "work",
+   "ini": 55850,
+   "fin": 55913,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "21. Sin título\nc. 1959\nTinta china sobre cartulina\n325 x 499 mm"
+  },
+  {
+   "tipo": "title",
+   "ini": 55854,
+   "fin": 55864,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 55865,
+   "fin": 55872,
+   "rasgos": {
+    "notBefore": "1958",
+    "notAfter": "1960"
+   },
+   "texto": "c. 1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 55873,
+   "fin": 55900,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre cartulina"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 55901,
+   "fin": 55913,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "325 x 499 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 55901,
+   "fin": 55904,
+   "texto": "325"
+  },
+  {
+   "tipo": "width",
+   "ini": 55907,
+   "fin": 55910,
+   "texto": "499"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 55923,
+   "fin": 55993
+  },
+  {
+   "tipo": "work",
+   "ini": 55923,
+   "fin": 55985,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "22. Sin título\nc. 1955-1959\nTinta sobre cartulina\n344 x 223 mm"
+  },
+  {
+   "tipo": "title",
+   "ini": 55927,
+   "fin": 55937,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 55938,
+   "fin": 55950,
+   "rasgos": {
+    "notBefore": "1955",
+    "notAfter": "1959"
+   },
+   "texto": "c. 1955-1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 55951,
+   "fin": 55972,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre cartulina"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 55973,
+   "fin": 55985,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "344 x 223 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 55973,
+   "fin": 55976,
+   "texto": "344"
+  },
+  {
+   "tipo": "width",
+   "ini": 55979,
+   "fin": 55982,
+   "texto": "223"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 55995,
+   "fin": 56067
+  },
+  {
+   "tipo": "work",
+   "ini": 55995,
+   "fin": 56058,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "23. Sin título\nc. 1955-1959\nTinta sobre cartulina \n352 x 251 mm"
+  },
+  {
+   "tipo": "title",
+   "ini": 55999,
+   "fin": 56009,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 56010,
+   "fin": 56022,
+   "rasgos": {
+    "notBefore": "1955",
+    "to": "1959"
+   },
+   "texto": "c. 1955-1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 56023,
+   "fin": 56045,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre cartulina "
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 56046,
+   "fin": 56058,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "352 x 251 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 56046,
+   "fin": 56049,
+   "texto": "352"
+  },
+  {
+   "tipo": "width",
+   "ini": 56052,
+   "fin": 56055,
+   "texto": "251"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 56069,
+   "fin": 56139
+  },
+  {
+   "tipo": "work",
+   "ini": 56069,
+   "fin": 56131,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "24. Sin título\nc. 1955-1959\nTinta sobre cartulina\n351 x 221 mm"
+  },
+  {
+   "tipo": "title",
+   "ini": 56073,
+   "fin": 56083,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 56084,
+   "fin": 56096,
+   "rasgos": {
+    "notBefore": "1955",
+    "notAfter": "1959"
+   },
+   "texto": "c. 1955-1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 56097,
+   "fin": 56118,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre cartulina"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 56119,
+   "fin": 56131,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "351 x 221 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 56119,
+   "fin": 56122,
+   "texto": "351"
+  },
+  {
+   "tipo": "width",
+   "ini": 56125,
+   "fin": 56128,
+   "texto": "221"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 56141,
+   "fin": 56211
+  },
+  {
+   "tipo": "work",
+   "ini": 56141,
+   "fin": 56203,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "25. Sin título\nc. 1955-1959\nTinta sobre cartulina\n247 x 352 mm"
+  },
+  {
+   "tipo": "title",
+   "ini": 56145,
+   "fin": 56155,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 56156,
+   "fin": 56168,
+   "rasgos": {
+    "notBefore": "1955",
+    "notAfter": "1959"
+   },
+   "texto": "c. 1955-1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 56169,
+   "fin": 56190,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre cartulina"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 56191,
+   "fin": 56203,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "247 x 352 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 56191,
+   "fin": 56194,
+   "texto": "247"
+  },
+  {
+   "tipo": "width",
+   "ini": 56197,
+   "fin": 56200,
+   "texto": "352"
+  },
+  {
+   "tipo": "work",
+   "ini": 56213,
+   "fin": 56336,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "26. Sin título\nc. 1955-1959\nTinta sobre cartulina\n350 x 251 mm [p. 51]\n(al dorso, composición figurativa,\nacuarela y lápiz)"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 56213,
+   "fin": 56336
+  },
+  {
+   "tipo": "title",
+   "ini": 56217,
+   "fin": 56227,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 56228,
+   "fin": 56240,
+   "rasgos": {
+    "notBefore": "1955",
+    "notAfter": "1959"
+   },
+   "texto": "c. 1955-1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 56241,
+   "fin": 56262,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre cartulina"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 56263,
+   "fin": 56275,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "350 x 251 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 56263,
+   "fin": 56266,
+   "texto": "350"
+  },
+  {
+   "tipo": "width",
+   "ini": 56269,
+   "fin": 56272,
+   "texto": "251"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 56284,
+   "fin": 56336
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 56338,
+   "fin": 56417
+  },
+  {
+   "tipo": "work",
+   "ini": 56338,
+   "fin": 56400,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "27. Sin título\nc. 1955-1959\nTinta sobre cartulina\n501 x 702 mm"
+  },
+  {
+   "tipo": "title",
+   "ini": 56342,
+   "fin": 56352,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 56353,
+   "fin": 56365,
+   "rasgos": {
+    "notBefore": "1955",
+    "notAfter": "1959"
+   },
+   "texto": "c. 1955-1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 56366,
+   "fin": 56387,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre cartulina"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 56388,
+   "fin": 56400,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "501 x 702 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 56388,
+   "fin": 56391,
+   "texto": "501"
+  },
+  {
+   "tipo": "width",
+   "ini": 56394,
+   "fin": 56397,
+   "texto": "702"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 56419,
+   "fin": 56497
+  },
+  {
+   "tipo": "work",
+   "ini": 56419,
+   "fin": 56481,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "28. Sin título\nc. 1955-1959\nTinta sobre cartulina\n503 x 488 mm"
+  },
+  {
+   "tipo": "title",
+   "ini": 56423,
+   "fin": 56433,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 56434,
+   "fin": 56446,
+   "rasgos": {
+    "notBefore": "1955",
+    "notAfter": "1959"
+   },
+   "texto": "c. 1955-1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 56447,
+   "fin": 56468,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre cartulina"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 56469,
+   "fin": 56481,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "503 x 488 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 56469,
+   "fin": 56472,
+   "texto": "503"
+  },
+  {
+   "tipo": "width",
+   "ini": 56475,
+   "fin": 56478,
+   "texto": "488"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 56499,
+   "fin": 56577
+  },
+  {
+   "tipo": "work",
+   "ini": 56499,
+   "fin": 56560,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "29. Sin título\nc. 1955-1959\nTinta sobre cartulina\n98 x 246 mm"
+  },
+  {
+   "tipo": "title",
+   "ini": 56503,
+   "fin": 56513,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 56514,
+   "fin": 56526,
+   "rasgos": {
+    "notBefore": "1955",
+    "notAfter": "1959"
+   },
+   "texto": "c. 1955-1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 56527,
+   "fin": 56548,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre cartulina"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 56549,
+   "fin": 56560,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "98 x 246 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 56549,
+   "fin": 56551,
+   "texto": "98"
+  },
+  {
+   "tipo": "width",
+   "ini": 56554,
+   "fin": 56557,
+   "texto": "246"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 56579,
+   "fin": 56649
+  },
+  {
+   "tipo": "work",
+   "ini": 56579,
+   "fin": 56641,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "30. Sin título\nc. 1955-1959\nTinta sobre cartulina\n133 x 238 mm"
+  },
+  {
+   "tipo": "title",
+   "ini": 56583,
+   "fin": 56593,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 56594,
+   "fin": 56606,
+   "rasgos": {
+    "notBefore": "1955",
+    "notAfter": "1959"
+   },
+   "texto": "c. 1955-1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 56607,
+   "fin": 56628,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre cartulina"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 56629,
+   "fin": 56641,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "133 x 238 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 56629,
+   "fin": 56632,
+   "texto": "133"
+  },
+  {
+   "tipo": "width",
+   "ini": 56635,
+   "fin": 56638,
+   "texto": "238"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 56651,
+   "fin": 56720
+  },
+  {
+   "tipo": "work",
+   "ini": 56651,
+   "fin": 56712,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "31. Sin título\nc. 1955-1959\nTinta sobre cartulina\n80 x 190 mm"
+  },
+  {
+   "tipo": "title",
+   "ini": 56655,
+   "fin": 56665,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 56666,
+   "fin": 56678,
+   "rasgos": {
+    "notBefore": "1955",
+    "notAfter": "1959"
+   },
+   "texto": "c. 1955-1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 56679,
+   "fin": 56700,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre cartulina"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 56701,
+   "fin": 56712,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "80 x 190 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 56701,
+   "fin": 56703,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 56706,
+   "fin": 56709,
+   "texto": "190"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 56722,
+   "fin": 56800
+  },
+  {
+   "tipo": "work",
+   "ini": 56722,
+   "fin": 56784,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "32. Sin título\nc. 1955-1959\nTinta sobre cartulina\n353 x 414 mm"
+  },
+  {
+   "tipo": "title",
+   "ini": 56726,
+   "fin": 56736,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 56737,
+   "fin": 56749,
+   "rasgos": {
+    "notBefore": "1955",
+    "notAfter": "1959"
+   },
+   "texto": "c. 1955-1959"
+  },
+  {
+   "tipo": "technique",
+   "ini": 56750,
+   "fin": 56771,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre cartulina"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 56772,
+   "fin": 56784,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "353 x 414 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 56772,
+   "fin": 56775,
+   "texto": "353"
+  },
+  {
+   "tipo": "width",
+   "ini": 56778,
+   "fin": 56781,
+   "texto": "414"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 56802,
+   "fin": 57042
+  },
+  {
+   "tipo": "work",
+   "ini": 56802,
+   "fin": 57029,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 56806,
+   "fin": 56812,
+   "texto": "Formas"
+  },
+  {
+   "tipo": "date",
+   "ini": 56813,
+   "fin": 56820,
+   "rasgos": {
+    "notBefore": "1959",
+    "notAfter": "1961"
+   },
+   "texto": "c. 1960"
+  },
+  {
+   "tipo": "technique",
+   "ini": 56821,
+   "fin": 56836,
+   "rasgos": {
+    "type": "relief"
+   },
+   "texto": "Relieve en yeso"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 56837,
+   "fin": 56853,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "6 x 26 x 15,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 56837,
+   "fin": 56838,
+   "texto": "6"
+  },
+  {
+   "tipo": "width",
+   "ini": 56841,
+   "fin": 56843,
+   "texto": "26"
+  },
+  {
+   "tipo": "depth",
+   "ini": 56846,
+   "fin": 56850,
+   "texto": "15,5"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 56854,
+   "fin": 56947
+  },
+  {
+   "tipo": "person",
+   "ini": 56903,
+   "fin": 56914,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "G. CHILLIDA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56903,
+   "fin": 56914,
+   "texto": "G. CHILLIDA"
+  },
+  {
+   "tipo": "institution",
+   "ini": 56948,
+   "fin": 56979,
+   "rasgos": {
+    "type": "museum",
+    "role": "lender"
+   },
+   "texto": "Museo de Bellas Artes de Bilbao"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 56973,
+   "fin": 56979,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Bilbao"
+  },
+  {
+   "tipo": "person",
+   "ini": 56996,
+   "fin": 57012,
+   "rasgos": {
+    "role": "owner"
+   },
+   "texto": "familia Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57004,
+   "fin": 57013,
+   "texto": "Chillida\n"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 57013,
+   "fin": 57020,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Ameztoy"
+  },
+  {
+   "tipo": "idno",
+   "ini": 57022,
+   "fin": 57029,
+   "texto": "DEP2944"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 57044,
+   "fin": 57284
+  },
+  {
+   "tipo": "work",
+   "ini": 57044,
+   "fin": 57271,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 57048,
+   "fin": 57054,
+   "texto": "Formas"
+  },
+  {
+   "tipo": "date",
+   "ini": 57055,
+   "fin": 57062,
+   "rasgos": {
+    "notBefore": "1959",
+    "notAfter": "1961"
+   },
+   "texto": "c. 1960"
+  },
+  {
+   "tipo": "technique",
+   "ini": 57063,
+   "fin": 57078,
+   "rasgos": {
+    "type": "relief"
+   },
+   "texto": "Relieve en yeso"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 57079,
+   "fin": 57095,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "5 x 24 x 15,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 57079,
+   "fin": 57080,
+   "texto": "5"
+  },
+  {
+   "tipo": "width",
+   "ini": 57083,
+   "fin": 57085,
+   "texto": "24"
+  },
+  {
+   "tipo": "depth",
+   "ini": 57088,
+   "fin": 57092,
+   "texto": "15,5"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 57096,
+   "fin": 57189
+  },
+  {
+   "tipo": "person",
+   "ini": 57145,
+   "fin": 57156,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "G. CHILLIDA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57145,
+   "fin": 57156,
+   "texto": "G. CHILLIDA"
+  },
+  {
+   "tipo": "institution",
+   "ini": 57190,
+   "fin": 57221,
+   "rasgos": {
+    "type": "museum",
+    "role": "lender"
+   },
+   "texto": "Museo de Bellas Artes de Bilbao"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 57215,
+   "fin": 57221,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Bilbao"
+  },
+  {
+   "tipo": "person",
+   "ini": 57238,
+   "fin": 57254,
+   "rasgos": {
+    "role": "owner"
+   },
+   "texto": "familia Chillida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57246,
+   "fin": 57255,
+   "texto": "Chillida\n"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 57255,
+   "fin": 57262,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Ameztoy"
+  },
+  {
+   "tipo": "idno",
+   "ini": 57264,
+   "fin": 57271,
+   "texto": "DEP2943"
+  }
+ ]
+}

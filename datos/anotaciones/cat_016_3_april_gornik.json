@@ -1,0 +1,2598 @@
+{
+ "id": "cat_016_3_april_gornik",
+ "nombre_original": "3. April Gornik",
+ "longitud_texto": 16869,
+ "sha256_texto": "f950a9111fda0b34334f84f30b6748a0a06e7d42c024dc434533b918f5075f18",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 282,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 12,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "April Gornik"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 12,
+   "texto": "April Gornik"
+  },
+  {
+   "tipo": "title",
+   "ini": 14,
+   "fin": 33,
+   "texto": "Embodied Landscapes"
+  },
+  {
+   "tipo": "institution",
+   "ini": 35,
+   "fin": 153,
+   "rasgos": {
+    "type": "museum, university",
+    "role": "organiser, lender"
+   },
+   "texto": "ROSENWALD-WOLF GaLLERY, ThE UNIVERSITY OF THE ArTS\nMuseum of American Art of the Pennsylvania Academy of the Fine Arts"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 116,
+   "fin": 128,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Pennsylvania"
+  },
+  {
+   "tipo": "person",
+   "ini": 155,
+   "fin": 167,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "April Gornik"
+  },
+  {
+   "tipo": "persName",
+   "ini": 155,
+   "fin": 167,
+   "texto": "April Gornik"
+  },
+  {
+   "tipo": "title",
+   "ini": 168,
+   "fin": 206,
+   "texto": "Embodied Landscapes\nSelected Paintings"
+  },
+  {
+   "tipo": "institution",
+   "ini": 208,
+   "fin": 258,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "ROSENWALD-WOLF GaLLERY,\nThe University of the Arts"
+  },
+  {
+   "tipo": "date",
+   "ini": 259,
+   "fin": 282,
+   "rasgos": {
+    "from": "1998-01-09",
+    "to": "1998-03-06"
+   },
+   "texto": "9 January-6 March, 1998"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 309,
+   "fin": 1044,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 309,
+   "fin": 376,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Museum of American Art of the\nPennsylvania Academy of the Fine Arts"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 339,
+   "fin": 351,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Pennsylvania"
+  },
+  {
+   "tipo": "date",
+   "ini": 377,
+   "fin": 401,
+   "rasgos": {
+    "from": "1998-01-09",
+    "to": "1998-04-19"
+   },
+   "texto": "9 jANUARY-19 April, 1998"
+  },
+  {
+   "tipo": "person",
+   "ini": 416,
+   "fin": 428,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Leah Douglas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 416,
+   "fin": 428,
+   "texto": "Leah Douglas"
+  },
+  {
+   "tipo": "institution",
+   "ini": 447,
+   "fin": 473,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "The University of the Arts"
+  },
+  {
+   "tipo": "institution",
+   "ini": 512,
+   "fin": 674,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "The Pennsylvania Council on the Arts\nThe Exhibitions Program at The University of the Arts\nThe Museum of American Art of the Pennsylvania Academy of the Fine Arts"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 516,
+   "fin": 528,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Pennsylvania"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 637,
+   "fin": 649,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Pennsylvania"
+  },
+  {
+   "tipo": "person",
+   "ini": 702,
+   "fin": 725,
+   "rasgos": {
+    "role": "lender"
+   },
+   "texto": "Paul and Helaine Cantor"
+  },
+  {
+   "tipo": "persName",
+   "ini": 702,
+   "fin": 706,
+   "texto": "Paul"
+  },
+  {
+   "tipo": "persName",
+   "ini": 711,
+   "fin": 725,
+   "texto": "Helaine Cantor"
+  },
+  {
+   "tipo": "person",
+   "ini": 726,
+   "fin": 749,
+   "rasgos": {
+    "role": "lender"
+   },
+   "texto": "Doris and David\nMortman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 726,
+   "fin": 731,
+   "texto": "Doris"
+  },
+  {
+   "tipo": "persName",
+   "ini": 736,
+   "fin": 749,
+   "texto": "David\nMortman"
+  },
+  {
+   "tipo": "person",
+   "ini": 750,
+   "fin": 761,
+   "rasgos": {
+    "role": "lender"
+   },
+   "texto": "Natalie Rea"
+  },
+  {
+   "tipo": "persName",
+   "ini": 750,
+   "fin": 761,
+   "texto": "Natalie Rea"
+  },
+  {
+   "tipo": "person",
+   "ini": 762,
+   "fin": 782,
+   "rasgos": {
+    "role": "lender"
+   },
+   "texto": "Mary Jane Marcasiano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 762,
+   "fin": 782,
+   "texto": "Mary Jane Marcasiano"
+  },
+  {
+   "tipo": "person",
+   "ini": 787,
+   "fin": 799,
+   "rasgos": {
+    "role": "lender"
+   },
+   "texto": "Ralph Gibson"
+  },
+  {
+   "tipo": "persName",
+   "ini": 787,
+   "fin": 799,
+   "texto": "Ralph Gibson"
+  },
+  {
+   "tipo": "institution",
+   "ini": 800,
+   "fin": 830,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Edward Thorp Gallery, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 822,
+   "fin": 830,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "institution",
+   "ini": 832,
+   "fin": 928,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Rosenwald-Wolf Gallery,\nThe University of the Arts\n320 South Broad Street\nPhiladelphia, pa 19102"
+  },
+  {
+   "tipo": "address",
+   "ini": 883,
+   "fin": 928,
+   "texto": "320 South Broad Street\nPhiladelphia, pa 19102"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 906,
+   "fin": 923,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Philadelphia, pa "
+  },
+  {
+   "tipo": "institution",
+   "ini": 930,
+   "fin": 1043,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Museum of American Art of the\nPennsylvania Academy of the Fine Arts\n118 North Broad Street\nPhiladelphia, PA 19102"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 960,
+   "fin": 972,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Pennsylvania"
+  },
+  {
+   "tipo": "address",
+   "ini": 998,
+   "fin": 1043,
+   "texto": "118 North Broad Street\nPhiladelphia, PA 19102"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1021,
+   "fin": 1037,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Philadelphia, PA"
+  },
+  {
+   "tipo": "person",
+   "ini": 1278,
+   "fin": 1290,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "April Gornik"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1278,
+   "fin": 1290,
+   "texto": "April Gornik"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1293,
+   "fin": 2033,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 1293,
+   "fin": 1352,
+   "texto": "EMBODIED LANDSCAPES: Paintings and Drawings of April Gornik"
+  },
+  {
+   "tipo": "person",
+   "ini": 1340,
+   "fin": 1352,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "April Gornik"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1340,
+   "fin": 1352,
+   "texto": "April Gornik"
+  },
+  {
+   "tipo": "title",
+   "ini": 1354,
+   "fin": 1404,
+   "texto": "THIS EXHIBITION OF LANDSCAPE WORKS bv April Gornik"
+  },
+  {
+   "tipo": "person",
+   "ini": 1392,
+   "fin": 1404,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "April Gornik"
+  },
+  {
+   "tipo": "person",
+   "ini": 1446,
+   "fin": 1452,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1446,
+   "fin": 1452,
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1673,
+   "fin": 1725,
+   "rasgos": {
+    "type": "museum, university",
+    "role": "organiser, host"
+   },
+   "texto": "Rosenwald-Wolf Gallery of The University of the Arts"
+  },
+  {
+   "tipo": "person",
+   "ini": 1743,
+   "fin": 1755,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Leah Douglas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1743,
+   "fin": 1755,
+   "texto": "Leah Douglas"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1804,
+   "fin": 1875,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "the Museum of American Art ot the Pennsylvania Academy of the Fine Arts"
+  },
+  {
+   "tipo": "person",
+   "ini": 1938,
+   "fin": 1944,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1938,
+   "fin": 1944,
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "person",
+   "ini": 2034,
+   "fin": 2065,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Born in Cleveland, Ohio, Gornik"
+  },
+  {
+   "tipo": "birth",
+   "ini": 2042,
+   "fin": 2057
+  },
+  {
+   "tipo": "persName",
+   "ini": 2059,
+   "fin": 2065,
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "person",
+   "ini": 2727,
+   "fin": 2733,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2727,
+   "fin": 2733,
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "person",
+   "ini": 3026,
+   "fin": 3032,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3026,
+   "fin": 3032,
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "person",
+   "ini": 3265,
+   "fin": 3271,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3265,
+   "fin": 3271,
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "person",
+   "ini": 3495,
+   "fin": 3501,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3495,
+   "fin": 3501,
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "person",
+   "ini": 4332,
+   "fin": 4338,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4332,
+   "fin": 4338,
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "person",
+   "ini": 4734,
+   "fin": 4740,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4734,
+   "fin": 4740,
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "person",
+   "ini": 5018,
+   "fin": 5024,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5018,
+   "fin": 5024,
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "person",
+   "ini": 5307,
+   "fin": 5313,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5307,
+   "fin": 5313,
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "person",
+   "ini": 5695,
+   "fin": 5701,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5695,
+   "fin": 5701,
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "person",
+   "ini": 6056,
+   "fin": 6062,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6056,
+   "fin": 6062,
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "person",
+   "ini": 6298,
+   "fin": 6304,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6298,
+   "fin": 6304,
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "person",
+   "ini": 6477,
+   "fin": 6483,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6477,
+   "fin": 6483,
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "person",
+   "ini": 6750,
+   "fin": 6756,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6750,
+   "fin": 6756,
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "person",
+   "ini": 7157,
+   "fin": 7163,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7157,
+   "fin": 7163,
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "person",
+   "ini": 7422,
+   "fin": 7428,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7422,
+   "fin": 7428,
+   "texto": "Gornik"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 8689,
+   "fin": 10264
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8709,
+   "fin": 8764
+  },
+  {
+   "tipo": "img",
+   "ini": 8709,
+   "fin": 8714,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8716,
+   "fin": 8764,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Turning Waterfall, oil on linen, 76\" x 76\", 1997"
+  },
+  {
+   "tipo": "title",
+   "ini": 8716,
+   "fin": 8733,
+   "texto": "Turning Waterfall"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8735,
+   "fin": 8747,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "oil on linen"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8749,
+   "fin": 8758,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "76\" x 76\""
+  },
+  {
+   "tipo": "height",
+   "ini": 8749,
+   "fin": 8751,
+   "texto": "76"
+  },
+  {
+   "tipo": "width",
+   "ini": 8755,
+   "fin": 8757,
+   "texto": "76"
+  },
+  {
+   "tipo": "date",
+   "ini": 8760,
+   "fin": 8764,
+   "rasgos": {
+    "when": "1997"
+   },
+   "texto": "1997"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8766,
+   "fin": 8812
+  },
+  {
+   "tipo": "img",
+   "ini": 8766,
+   "fin": 8771,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8773,
+   "fin": 8812,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Moon Bay, oil on linen, 72\" x 96\", 1996"
+  },
+  {
+   "tipo": "title",
+   "ini": 8773,
+   "fin": 8781,
+   "texto": "Moon Bay"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8783,
+   "fin": 8795,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "oil on linen"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8797,
+   "fin": 8806,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "72\" x 96\""
+  },
+  {
+   "tipo": "height",
+   "ini": 8797,
+   "fin": 8799,
+   "texto": "72"
+  },
+  {
+   "tipo": "width",
+   "ini": 8803,
+   "fin": 8805,
+   "texto": "96"
+  },
+  {
+   "tipo": "date",
+   "ini": 8808,
+   "fin": 8812,
+   "rasgos": {
+    "when": "1996"
+   },
+   "texto": "1996"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8814,
+   "fin": 8861
+  },
+  {
+   "tipo": "img",
+   "ini": 8814,
+   "fin": 8819,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8821,
+   "fin": 8861,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Waterfall, oil on linen, 70\" x 62\", 1995"
+  },
+  {
+   "tipo": "title",
+   "ini": 8821,
+   "fin": 8830,
+   "texto": "Waterfall"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8832,
+   "fin": 8844,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "oil on linen"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8846,
+   "fin": 8855,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "70\" x 62\""
+  },
+  {
+   "tipo": "height",
+   "ini": 8846,
+   "fin": 8848,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 8852,
+   "fin": 8854,
+   "texto": "62"
+  },
+  {
+   "tipo": "date",
+   "ini": 8857,
+   "fin": 8861,
+   "rasgos": {
+    "when": "1995"
+   },
+   "texto": "1995"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8863,
+   "fin": 8917
+  },
+  {
+   "tipo": "img",
+   "ini": 8863,
+   "fin": 8868,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8870,
+   "fin": 8917,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Wind Behind Rain, oil on linen, 79\" x 90\", 1993"
+  },
+  {
+   "tipo": "title",
+   "ini": 8870,
+   "fin": 8886,
+   "texto": "Wind Behind Rain"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8888,
+   "fin": 8900,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "oil on linen"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8902,
+   "fin": 8911,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "79\" x 90\""
+  },
+  {
+   "tipo": "height",
+   "ini": 8902,
+   "fin": 8904,
+   "texto": "79"
+  },
+  {
+   "tipo": "width",
+   "ini": 8908,
+   "fin": 8910,
+   "texto": "90"
+  },
+  {
+   "tipo": "date",
+   "ini": 8913,
+   "fin": 8917,
+   "rasgos": {
+    "when": "1993"
+   },
+   "texto": "1993"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8919,
+   "fin": 8964
+  },
+  {
+   "tipo": "img",
+   "ini": 8919,
+   "fin": 8924,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8926,
+   "fin": 8964,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Smoke, oil on canvas, 76\" x 100\", 1985"
+  },
+  {
+   "tipo": "title",
+   "ini": 8926,
+   "fin": 8931,
+   "texto": "Smoke"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8933,
+   "fin": 8946,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "oil on canvas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8948,
+   "fin": 8958,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "76\" x 100\""
+  },
+  {
+   "tipo": "height",
+   "ini": 8948,
+   "fin": 8950,
+   "texto": "76"
+  },
+  {
+   "tipo": "width",
+   "ini": 8954,
+   "fin": 8957,
+   "texto": "100"
+  },
+  {
+   "tipo": "date",
+   "ini": 8960,
+   "fin": 8964,
+   "rasgos": {
+    "when": "1985"
+   },
+   "texto": "1985"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8992,
+   "fin": 9057
+  },
+  {
+   "tipo": "img",
+   "ini": 8992,
+   "fin": 8997,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8999,
+   "fin": 9057,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Following the Waterway, charcoal on paper, 29\" x 40\", 1995"
+  },
+  {
+   "tipo": "title",
+   "ini": 8999,
+   "fin": 9021,
+   "texto": "Following the Waterway"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9023,
+   "fin": 9040,
+   "rasgos": {
+    "type": "charcoal"
+   },
+   "texto": "charcoal on paper"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9042,
+   "fin": 9051,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "29\" x 40\""
+  },
+  {
+   "tipo": "height",
+   "ini": 9042,
+   "fin": 9044,
+   "texto": "29"
+  },
+  {
+   "tipo": "width",
+   "ini": 9048,
+   "fin": 9050,
+   "texto": "40"
+  },
+  {
+   "tipo": "date",
+   "ini": 9053,
+   "fin": 9057,
+   "rasgos": {
+    "when": "1995"
+   },
+   "texto": "1995"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9059,
+   "fin": 9119
+  },
+  {
+   "tipo": "img",
+   "ini": 9059,
+   "fin": 9064,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9066,
+   "fin": 9119,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Waterway Clearing, charcoal on paper, 38\" x 50\", 1995"
+  },
+  {
+   "tipo": "title",
+   "ini": 9066,
+   "fin": 9083,
+   "texto": "Waterway Clearing"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9085,
+   "fin": 9102,
+   "rasgos": {
+    "type": "charcoal"
+   },
+   "texto": "charcoal on paper"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9104,
+   "fin": 9113,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "38\" x 50\""
+  },
+  {
+   "tipo": "height",
+   "ini": 9104,
+   "fin": 9106,
+   "texto": "38"
+  },
+  {
+   "tipo": "width",
+   "ini": 9110,
+   "fin": 9112,
+   "texto": "50"
+  },
+  {
+   "tipo": "date",
+   "ini": 9115,
+   "fin": 9119,
+   "rasgos": {
+    "when": "1995"
+   },
+   "texto": "1995"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9121,
+   "fin": 9173
+  },
+  {
+   "tipo": "img",
+   "ini": 9121,
+   "fin": 9126,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9128,
+   "fin": 9173,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Two Clouds, charcoal on paper, 38 X 50\", 1994"
+  },
+  {
+   "tipo": "title",
+   "ini": 9128,
+   "fin": 9138,
+   "texto": "Two Clouds"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9140,
+   "fin": 9157,
+   "rasgos": {
+    "type": "charcoal"
+   },
+   "texto": "charcoal on paper"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9159,
+   "fin": 9167,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "38 X 50\""
+  },
+  {
+   "tipo": "height",
+   "ini": 9159,
+   "fin": 9161,
+   "texto": "38"
+  },
+  {
+   "tipo": "width",
+   "ini": 9164,
+   "fin": 9166,
+   "texto": "50"
+  },
+  {
+   "tipo": "date",
+   "ini": 9169,
+   "fin": 9173,
+   "rasgos": {
+    "when": "1994"
+   },
+   "texto": "1994"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9175,
+   "fin": 9223
+  },
+  {
+   "tipo": "img",
+   "ini": 9175,
+   "fin": 9180,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9182,
+   "fin": 9223,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Atlas, charcoal on paper, 38\" x 50\", 1993"
+  },
+  {
+   "tipo": "title",
+   "ini": 9182,
+   "fin": 9187,
+   "texto": "Atlas"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9189,
+   "fin": 9206,
+   "rasgos": {
+    "type": "charcoal"
+   },
+   "texto": "charcoal on paper"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9208,
+   "fin": 9217,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "38\" x 50\""
+  },
+  {
+   "tipo": "height",
+   "ini": 9208,
+   "fin": 9210,
+   "texto": "38"
+  },
+  {
+   "tipo": "width",
+   "ini": 9214,
+   "fin": 9216,
+   "texto": "50"
+  },
+  {
+   "tipo": "date",
+   "ini": 9219,
+   "fin": 9223,
+   "rasgos": {
+    "when": "1993"
+   },
+   "texto": "1993"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9225,
+   "fin": 9278
+  },
+  {
+   "tipo": "img",
+   "ini": 9225,
+   "fin": 9230,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9232,
+   "fin": 9278,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Inside Out, charcoal on paper, 38\" x 43\", 1991"
+  },
+  {
+   "tipo": "title",
+   "ini": 9232,
+   "fin": 9242,
+   "texto": "Inside Out"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9244,
+   "fin": 9261,
+   "rasgos": {
+    "type": "charcoal"
+   },
+   "texto": "charcoal on paper"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9263,
+   "fin": 9272,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "38\" x 43\""
+  },
+  {
+   "tipo": "height",
+   "ini": 9263,
+   "fin": 9265,
+   "texto": "38"
+  },
+  {
+   "tipo": "width",
+   "ini": 9269,
+   "fin": 9271,
+   "texto": "43"
+  },
+  {
+   "tipo": "date",
+   "ini": 9274,
+   "fin": 9278,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9280,
+   "fin": 9339
+  },
+  {
+   "tipo": "img",
+   "ini": 9280,
+   "fin": 9285,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9287,
+   "fin": 9339,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Cloud Plume, charcoal on paper, 53.5\" x 41.25\", 1991"
+  },
+  {
+   "tipo": "title",
+   "ini": 9287,
+   "fin": 9298,
+   "texto": "Cloud Plume"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9300,
+   "fin": 9317,
+   "rasgos": {
+    "type": "charcoal"
+   },
+   "texto": "charcoal on paper"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9319,
+   "fin": 9333,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "53.5\" x 41.25\""
+  },
+  {
+   "tipo": "height",
+   "ini": 9319,
+   "fin": 9323,
+   "texto": "53.5"
+  },
+  {
+   "tipo": "width",
+   "ini": 9327,
+   "fin": 9332,
+   "texto": "41.25"
+  },
+  {
+   "tipo": "date",
+   "ini": 9335,
+   "fin": 9339,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9341,
+   "fin": 9398
+  },
+  {
+   "tipo": "img",
+   "ini": 9341,
+   "fin": 9346,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9348,
+   "fin": 9398,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Impending Rain, charcoal on paper, 38\" x 50\", 1990"
+  },
+  {
+   "tipo": "title",
+   "ini": 9348,
+   "fin": 9362,
+   "texto": "Impending Rain"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9364,
+   "fin": 9381,
+   "rasgos": {
+    "type": "charcoal"
+   },
+   "texto": "charcoal on paper"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9383,
+   "fin": 9392,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "38\" x 50\""
+  },
+  {
+   "tipo": "height",
+   "ini": 9383,
+   "fin": 9385,
+   "texto": "38"
+  },
+  {
+   "tipo": "width",
+   "ini": 9389,
+   "fin": 9391,
+   "texto": "50"
+  },
+  {
+   "tipo": "date",
+   "ini": 9394,
+   "fin": 9398,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9400,
+   "fin": 9440
+  },
+  {
+   "tipo": "img",
+   "ini": 9400,
+   "fin": 9405,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9407,
+   "fin": 9440,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Divide, intaglio, 31\" x 39\", 1994"
+  },
+  {
+   "tipo": "title",
+   "ini": 9407,
+   "fin": 9413,
+   "texto": "Divide"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9415,
+   "fin": 9423,
+   "rasgos": {
+    "type": "intaglio"
+   },
+   "texto": "intaglio"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9425,
+   "fin": 9434,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "31\" x 39\""
+  },
+  {
+   "tipo": "height",
+   "ini": 9425,
+   "fin": 9427,
+   "texto": "31"
+  },
+  {
+   "tipo": "width",
+   "ini": 9431,
+   "fin": 9433,
+   "texto": "39"
+  },
+  {
+   "tipo": "date",
+   "ini": 9436,
+   "fin": 9440,
+   "rasgos": {
+    "when": "1994"
+   },
+   "texto": "1994"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9442,
+   "fin": 9497
+  },
+  {
+   "tipo": "img",
+   "ini": 9442,
+   "fin": 9447,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9449,
+   "fin": 9497,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Light After the Flood, intaglio, 24\" x 41\", 1987"
+  },
+  {
+   "tipo": "title",
+   "ini": 9449,
+   "fin": 9470,
+   "texto": "Light After the Flood"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9472,
+   "fin": 9480,
+   "rasgos": {
+    "type": "intaglio"
+   },
+   "texto": "intaglio"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9482,
+   "fin": 9491,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "24\" x 41\""
+  },
+  {
+   "tipo": "height",
+   "ini": 9482,
+   "fin": 9484,
+   "texto": "24"
+  },
+  {
+   "tipo": "width",
+   "ini": 9488,
+   "fin": 9490,
+   "texto": "41"
+  },
+  {
+   "tipo": "date",
+   "ini": 9493,
+   "fin": 9497,
+   "rasgos": {
+    "when": "1987"
+   },
+   "texto": "1987"
+  },
+  {
+   "tipo": "worklist",
+   "ini": 9500,
+   "fin": 10264
+  },
+  {
+   "tipo": "work",
+   "ini": 9522,
+   "fin": 9574,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "1. TURNING WATERFALL • OIL ON LINEN • 76\" X 76\" 1997"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9522,
+   "fin": 9574
+  },
+  {
+   "tipo": "title",
+   "ini": 9525,
+   "fin": 9542,
+   "texto": "TURNING WATERFALL"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9545,
+   "fin": 9557,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "OIL ON LINEN"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9560,
+   "fin": 9569,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "76\" X 76\""
+  },
+  {
+   "tipo": "height",
+   "ini": 9560,
+   "fin": 9562,
+   "texto": "76"
+  },
+  {
+   "tipo": "width",
+   "ini": 9566,
+   "fin": 9568,
+   "texto": "76"
+  },
+  {
+   "tipo": "date",
+   "ini": 9570,
+   "fin": 9574,
+   "rasgos": {
+    "when": "1997"
+   },
+   "texto": "1997"
+  },
+  {
+   "tipo": "work",
+   "ini": 9575,
+   "fin": 9616,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "2. MOON BAY OIL ON LINEN 72\" X 96\" • 1996"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9575,
+   "fin": 9616
+  },
+  {
+   "tipo": "title",
+   "ini": 9578,
+   "fin": 9586,
+   "texto": "MOON BAY"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9587,
+   "fin": 9599,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "OIL ON LINEN"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9600,
+   "fin": 9609,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "72\" X 96\""
+  },
+  {
+   "tipo": "height",
+   "ini": 9600,
+   "fin": 9602,
+   "texto": "72"
+  },
+  {
+   "tipo": "width",
+   "ini": 9606,
+   "fin": 9608,
+   "texto": "96"
+  },
+  {
+   "tipo": "date",
+   "ini": 9612,
+   "fin": 9616,
+   "rasgos": {
+    "when": "1996"
+   },
+   "texto": "1996"
+  },
+  {
+   "tipo": "work",
+   "ini": 9617,
+   "fin": 9663,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "3. WATERFALL • OIL ON LINEN • 70\" X 62\" • 1995"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9617,
+   "fin": 9663
+  },
+  {
+   "tipo": "title",
+   "ini": 9620,
+   "fin": 9629,
+   "texto": "WATERFALL"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9632,
+   "fin": 9644,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "OIL ON LINEN"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9647,
+   "fin": 9656,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "70\" X 62\""
+  },
+  {
+   "tipo": "height",
+   "ini": 9647,
+   "fin": 9649,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 9653,
+   "fin": 9655,
+   "texto": "62"
+  },
+  {
+   "tipo": "date",
+   "ini": 9659,
+   "fin": 9663,
+   "rasgos": {
+    "when": "1995"
+   },
+   "texto": "1995"
+  },
+  {
+   "tipo": "work",
+   "ini": 9664,
+   "fin": 9716,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "4. STEPPED WATERFALL • OIL ON LINEN 69\" X 65\" • 1995"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9664,
+   "fin": 9716
+  },
+  {
+   "tipo": "title",
+   "ini": 9666,
+   "fin": 9684,
+   "texto": " STEPPED WATERFALL"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9687,
+   "fin": 9699,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "OIL ON LINEN"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9700,
+   "fin": 9709,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "69\" X 65\""
+  },
+  {
+   "tipo": "height",
+   "ini": 9700,
+   "fin": 9702,
+   "texto": "69"
+  },
+  {
+   "tipo": "width",
+   "ini": 9706,
+   "fin": 9708,
+   "texto": "65"
+  },
+  {
+   "tipo": "date",
+   "ini": 9712,
+   "fin": 9716,
+   "rasgos": {
+    "when": "1995"
+   },
+   "texto": "1995"
+  },
+  {
+   "tipo": "work",
+   "ini": 9717,
+   "fin": 9764,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "5. WIND BEHIND RAIN OIL ON LINEN 79\" X 90\" 1993"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9717,
+   "fin": 9764
+  },
+  {
+   "tipo": "title",
+   "ini": 9720,
+   "fin": 9736,
+   "texto": "WIND BEHIND RAIN"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9737,
+   "fin": 9749,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "OIL ON LINEN"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9750,
+   "fin": 9759,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "79\" X 90\""
+  },
+  {
+   "tipo": "height",
+   "ini": 9750,
+   "fin": 9752,
+   "texto": "79"
+  },
+  {
+   "tipo": "width",
+   "ini": 9756,
+   "fin": 9758,
+   "texto": "90"
+  },
+  {
+   "tipo": "date",
+   "ini": 9760,
+   "fin": 9764,
+   "rasgos": {
+    "when": "1993"
+   },
+   "texto": "1993"
+  },
+  {
+   "tipo": "work",
+   "ini": 9765,
+   "fin": 9803,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "6. SMOKE OIL ON CANVAS 76\" X 100\" 1985"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9765,
+   "fin": 9803
+  },
+  {
+   "tipo": "title",
+   "ini": 9768,
+   "fin": 9773,
+   "texto": "SMOKE"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9774,
+   "fin": 9787,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "OIL ON CANVAS"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9788,
+   "fin": 9798,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "76\" X 100\""
+  },
+  {
+   "tipo": "height",
+   "ini": 9788,
+   "fin": 9790,
+   "texto": "76"
+  },
+  {
+   "tipo": "width",
+   "ini": 9794,
+   "fin": 9797,
+   "texto": "100"
+  },
+  {
+   "tipo": "date",
+   "ini": 9799,
+   "fin": 9803,
+   "rasgos": {
+    "when": "1985"
+   },
+   "texto": "1985"
+  },
+  {
+   "tipo": "work",
+   "ini": 9804,
+   "fin": 9864,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "7. FOLLOWING THE WATERWAY CHARCOAL ON PAPER • 29\" X 40\" 1995"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9804,
+   "fin": 9864
+  },
+  {
+   "tipo": "title",
+   "ini": 9807,
+   "fin": 9829,
+   "texto": "FOLLOWING THE WATERWAY"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9830,
+   "fin": 9847,
+   "rasgos": {
+    "type": "charcoal"
+   },
+   "texto": "CHARCOAL ON PAPER"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9850,
+   "fin": 9859,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "29\" X 40\""
+  },
+  {
+   "tipo": "height",
+   "ini": 9850,
+   "fin": 9852,
+   "texto": "29"
+  },
+  {
+   "tipo": "width",
+   "ini": 9856,
+   "fin": 9858,
+   "texto": "40"
+  },
+  {
+   "tipo": "date",
+   "ini": 9860,
+   "fin": 9864,
+   "rasgos": {
+    "when": "1995"
+   },
+   "texto": "1995"
+  },
+  {
+   "tipo": "work",
+   "ini": 9865,
+   "fin": 9919,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "8. WATERWAY CLEARING CHARCOAL ON PAPER 38\" X 50\" 1995 "
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9865,
+   "fin": 9919
+  },
+  {
+   "tipo": "title",
+   "ini": 9868,
+   "fin": 9885,
+   "texto": "WATERWAY CLEARING"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9886,
+   "fin": 9903,
+   "rasgos": {
+    "type": "charcoal"
+   },
+   "texto": "CHARCOAL ON PAPER"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9904,
+   "fin": 9913,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "38\" X 50\""
+  },
+  {
+   "tipo": "height",
+   "ini": 9904,
+   "fin": 9906,
+   "texto": "38"
+  },
+  {
+   "tipo": "width",
+   "ini": 9910,
+   "fin": 9912,
+   "texto": "50"
+  },
+  {
+   "tipo": "date",
+   "ini": 9914,
+   "fin": 9918,
+   "rasgos": {
+    "when": "1995"
+   },
+   "texto": "1995"
+  },
+  {
+   "tipo": "work",
+   "ini": 9920,
+   "fin": 9968,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "9. TWO CLOUDS CHARCOAL ON PAPER 38\" X 50\" • 1994"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9920,
+   "fin": 9968
+  },
+  {
+   "tipo": "title",
+   "ini": 9923,
+   "fin": 9933,
+   "texto": "TWO CLOUDS"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9934,
+   "fin": 9951,
+   "rasgos": {
+    "type": "charcoal"
+   },
+   "texto": "CHARCOAL ON PAPER"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9952,
+   "fin": 9961,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "38\" X 50\""
+  },
+  {
+   "tipo": "height",
+   "ini": 9952,
+   "fin": 9954,
+   "texto": "38"
+  },
+  {
+   "tipo": "width",
+   "ini": 9958,
+   "fin": 9960,
+   "texto": "50"
+  },
+  {
+   "tipo": "date",
+   "ini": 9964,
+   "fin": 9968,
+   "rasgos": {
+    "when": "1994"
+   },
+   "texto": "1994"
+  },
+  {
+   "tipo": "work",
+   "ini": 9969,
+   "fin": 10011,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "10. ATLAS CHARCOAL ON PAPER 38\" X 50\" 1993"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9969,
+   "fin": 10011
+  },
+  {
+   "tipo": "title",
+   "ini": 9973,
+   "fin": 9978,
+   "texto": "ATLAS"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9979,
+   "fin": 9996,
+   "rasgos": {
+    "type": "charcoal"
+   },
+   "texto": "CHARCOAL ON PAPER"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9997,
+   "fin": 10006,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "38\" X 50\""
+  },
+  {
+   "tipo": "height",
+   "ini": 9997,
+   "fin": 9999,
+   "texto": "38"
+  },
+  {
+   "tipo": "width",
+   "ini": 10003,
+   "fin": 10005,
+   "texto": "50"
+  },
+  {
+   "tipo": "date",
+   "ini": 10007,
+   "fin": 10011,
+   "rasgos": {
+    "when": "1993"
+   },
+   "texto": "1993"
+  },
+  {
+   "tipo": "work",
+   "ini": 10012,
+   "fin": 10059,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "11. INSIDE OUT CHARCOAL ON PAPER 38\" X 43\" 1991"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10012,
+   "fin": 10059
+  },
+  {
+   "tipo": "title",
+   "ini": 10016,
+   "fin": 10026,
+   "texto": "INSIDE OUT"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10027,
+   "fin": 10044,
+   "rasgos": {
+    "type": "charcoal"
+   },
+   "texto": "CHARCOAL ON PAPER"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10045,
+   "fin": 10054,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "38\" X 43\""
+  },
+  {
+   "tipo": "height",
+   "ini": 10045,
+   "fin": 10047,
+   "texto": "38"
+  },
+  {
+   "tipo": "width",
+   "ini": 10051,
+   "fin": 10053,
+   "texto": "43"
+  },
+  {
+   "tipo": "date",
+   "ini": 10055,
+   "fin": 10059,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "work",
+   "ini": 10060,
+   "fin": 10115,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "12. CLOUD PLUME CHARCOAL ON PAPER 53.5\" X 41.25\" • 1991"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10060,
+   "fin": 10115
+  },
+  {
+   "tipo": "title",
+   "ini": 10064,
+   "fin": 10075,
+   "texto": "CLOUD PLUME"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10076,
+   "fin": 10093,
+   "rasgos": {
+    "type": "charcoal"
+   },
+   "texto": "CHARCOAL ON PAPER"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10094,
+   "fin": 10108,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "53.5\" X 41.25\""
+  },
+  {
+   "tipo": "height",
+   "ini": 10094,
+   "fin": 10098,
+   "texto": "53.5"
+  },
+  {
+   "tipo": "width",
+   "ini": 10102,
+   "fin": 10107,
+   "texto": "41.25"
+  },
+  {
+   "tipo": "date",
+   "ini": 10111,
+   "fin": 10115,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "work",
+   "ini": 10115,
+   "fin": 10172,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "\n13. IMPENDING RAIN CHARCOAL ON PAPER • 38\" X 50\" • 1990\n"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10116,
+   "fin": 10171
+  },
+  {
+   "tipo": "title",
+   "ini": 10120,
+   "fin": 10134,
+   "texto": "IMPENDING RAIN"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10135,
+   "fin": 10152,
+   "rasgos": {
+    "type": "charcoal"
+   },
+   "texto": "CHARCOAL ON PAPER"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10155,
+   "fin": 10164,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "38\" X 50\""
+  },
+  {
+   "tipo": "height",
+   "ini": 10155,
+   "fin": 10157,
+   "texto": "38"
+  },
+  {
+   "tipo": "width",
+   "ini": 10161,
+   "fin": 10163,
+   "texto": "50"
+  },
+  {
+   "tipo": "date",
+   "ini": 10167,
+   "fin": 10171,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "work",
+   "ini": 10172,
+   "fin": 10210,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "14. DIVIDE INTAGLIO • 31\" X 39\" • 1994"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10172,
+   "fin": 10210
+  },
+  {
+   "tipo": "title",
+   "ini": 10176,
+   "fin": 10182,
+   "texto": "DIVIDE"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10183,
+   "fin": 10191,
+   "rasgos": {
+    "type": "intaglio"
+   },
+   "texto": "INTAGLIO"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10194,
+   "fin": 10203,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "31\" X 39\""
+  },
+  {
+   "tipo": "height",
+   "ini": 10194,
+   "fin": 10196,
+   "texto": "31"
+  },
+  {
+   "tipo": "width",
+   "ini": 10200,
+   "fin": 10202,
+   "texto": "39"
+  },
+  {
+   "tipo": "date",
+   "ini": 10206,
+   "fin": 10210,
+   "rasgos": {
+    "when": "1994"
+   },
+   "texto": "1994"
+  },
+  {
+   "tipo": "work",
+   "ini": 10210,
+   "fin": 10264,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "\n15. LIGHT AFTER THE FLOOD • INTAGLIO • 24\" X 41\" 1987"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10211,
+   "fin": 10264
+  },
+  {
+   "tipo": "title",
+   "ini": 10215,
+   "fin": 10236,
+   "texto": "LIGHT AFTER THE FLOOD"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10239,
+   "fin": 10247,
+   "rasgos": {
+    "type": "intaglio"
+   },
+   "texto": "INTAGLIO"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10250,
+   "fin": 10259,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "24\" X 41\""
+  },
+  {
+   "tipo": "height",
+   "ini": 10250,
+   "fin": 10252,
+   "texto": "24"
+  },
+  {
+   "tipo": "width",
+   "ini": 10256,
+   "fin": 10258,
+   "texto": "41"
+  },
+  {
+   "tipo": "date",
+   "ini": 10260,
+   "fin": 10264,
+   "rasgos": {
+    "when": "1987"
+   },
+   "texto": "1987"
+  },
+  {
+   "tipo": "person",
+   "ini": 10267,
+   "fin": 10279,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "April Gornik"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10267,
+   "fin": 10279,
+   "texto": "April Gornik"
+  }
+ ]
+}

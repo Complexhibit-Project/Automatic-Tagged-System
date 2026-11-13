@@ -1,0 +1,1801 @@
+{
+ "id": "cat_011_180222_catalogo_exposicion_rafael_vidal",
+ "nombre_original": "180222-CATALOGO-EXPOSICION-RAFAEL-VIDAL",
+ "longitud_texto": 5004,
+ "sha256_texto": "b4929ca846eeaa763a41624595b7ecd2fcf220d8944681614ae385ab17a56a53",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 212,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 59,
+   "texto": "FRONTERAS DE SAL\nMálaga: ciudad del paraíso, ciudad abierta"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 17,
+   "fin": 23,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Málaga"
+  },
+  {
+   "tipo": "institution",
+   "ini": 97,
+   "fin": 132,
+   "rasgos": {
+    "type": "culturalCenter",
+    "role": "organiser, host"
+   },
+   "texto": "Centro de Estudios Hispano Marroquí"
+  },
+  {
+   "tipo": "date",
+   "ini": 133,
+   "fin": 151,
+   "rasgos": {
+    "from": "2018-02-01",
+    "to": "2018-03-31"
+   },
+   "texto": "febrero—marzo 2018"
+  },
+  {
+   "tipo": "title",
+   "ini": 153,
+   "fin": 212,
+   "texto": "FRONTERAS DE SAL\nMálaga: ciudad del paraíso, ciudad abierta"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 170,
+   "fin": 176,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Málaga"
+  },
+  {
+   "tipo": "title",
+   "ini": 214,
+   "fin": 230,
+   "texto": "Fronteras de Sal"
+  },
+  {
+   "tipo": "person",
+   "ini": 308,
+   "fin": 330,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "Antonio Romero Sánchez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 308,
+   "fin": 330,
+   "texto": "Antonio Romero Sánchez"
+  },
+  {
+   "tipo": "person",
+   "ini": 342,
+   "fin": 362,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Rafael Vidal Delgado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 342,
+   "fin": 362,
+   "texto": "Rafael Vidal Delgado"
+  },
+  {
+   "tipo": "date",
+   "ini": 380,
+   "fin": 392,
+   "rasgos": {
+    "from": "2018-02-01",
+    "to": "2018-02-28"
+   },
+   "texto": "febrero 2018"
+  },
+  {
+   "tipo": "title",
+   "ini": 421,
+   "fin": 480,
+   "texto": "FRONTERAS DE SAL\nMálaga: ciudad del paraíso, ciudad abierta"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 421,
+   "fin": 480,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "placeName",
+   "ini": 438,
+   "fin": 444,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Málaga"
+  },
+  {
+   "tipo": "persName",
+   "ini": 565,
+   "fin": 584,
+   "texto": "George Bernard Shaw"
+  },
+  {
+   "tipo": "title",
+   "ini": 1322,
+   "fin": 1383,
+   "texto": "\"Fronteras de Sal. Málaga ciudad del Paraíso. Ciudad abierta\""
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1322,
+   "fin": 1383,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1341,
+   "fin": 1347,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Málaga"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1522,
+   "fin": 1531,
+   "texto": "Samí Naïr"
+  },
+  {
+   "tipo": "person",
+   "ini": 2848,
+   "fin": 2878,
+   "rasgos": {
+    "role": "exhibitionCurator, author"
+   },
+   "texto": "ANTONIA MARÍA SAMPER HERNÁNDEZ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2848,
+   "fin": 2878,
+   "texto": "ANTONIA MARÍA SAMPER HERNÁNDEZ"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 2983,
+   "fin": 4853
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2983,
+   "fin": 3057
+  },
+  {
+   "tipo": "img",
+   "ini": 2983,
+   "fin": 2988,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2989,
+   "fin": 3057,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "LA RAÍZ\nTinta sobre papel\nMedidas: 24 x 32\nAutor: Daniel Dı́az Godoy"
+  },
+  {
+   "tipo": "title",
+   "ini": 2989,
+   "fin": 2996,
+   "texto": "LA RAÍZ"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2997,
+   "fin": 3014,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3024,
+   "fin": 3031,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "24 x 32"
+  },
+  {
+   "tipo": "height",
+   "ini": 3024,
+   "fin": 3026,
+   "texto": "24"
+  },
+  {
+   "tipo": "width",
+   "ini": 3029,
+   "fin": 3031,
+   "texto": "32"
+  },
+  {
+   "tipo": "person",
+   "ini": 3039,
+   "fin": 3057,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Daniel Dı́az Godoy"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3039,
+   "fin": 3057,
+   "texto": "Daniel Dı́az Godoy"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3059,
+   "fin": 3134
+  },
+  {
+   "tipo": "img",
+   "ini": 3059,
+   "fin": 3064,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3065,
+   "fin": 3134,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "OLVIDADOS\nMixta sobre tablilla\nMedidas: 39 x 61\nAutora: Patricia Fins"
+  },
+  {
+   "tipo": "title",
+   "ini": 3065,
+   "fin": 3074,
+   "texto": "OLVIDADOS"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3075,
+   "fin": 3095,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tablilla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3105,
+   "fin": 3112,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "39 x 61"
+  },
+  {
+   "tipo": "height",
+   "ini": 3105,
+   "fin": 3107,
+   "texto": "39"
+  },
+  {
+   "tipo": "width",
+   "ini": 3110,
+   "fin": 3112,
+   "texto": "61"
+  },
+  {
+   "tipo": "person",
+   "ini": 3121,
+   "fin": 3134,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Patricia Fins"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3121,
+   "fin": 3134,
+   "texto": "Patricia Fins"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3136,
+   "fin": 3231
+  },
+  {
+   "tipo": "img",
+   "ini": 3136,
+   "fin": 3141,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3142,
+   "fin": 3231,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "BUSCANDO EUROPA\nAcrı́lico sobre tela\nMedidas: 50 x 70\nAutor: José Marı́a Gallardo Gaspar"
+  },
+  {
+   "tipo": "title",
+   "ini": 3142,
+   "fin": 3157,
+   "texto": "BUSCANDO EUROPA"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3158,
+   "fin": 3178,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrı́lico sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3188,
+   "fin": 3195,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 70"
+  },
+  {
+   "tipo": "height",
+   "ini": 3188,
+   "fin": 3190,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 3193,
+   "fin": 3195,
+   "texto": "70"
+  },
+  {
+   "tipo": "person",
+   "ini": 3203,
+   "fin": 3232,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Marı́a Gallardo Gaspar\n"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3203,
+   "fin": 3231,
+   "texto": "José Marı́a Gallardo Gaspar"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3233,
+   "fin": 3310
+  },
+  {
+   "tipo": "img",
+   "ini": 3233,
+   "fin": 3238,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3239,
+   "fin": 3310,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "INOCENCIA DE SAL\nAcrı́lico sobre lienzo\nMedidas :73 x60\nAutor: Lola Gil"
+  },
+  {
+   "tipo": "title",
+   "ini": 3239,
+   "fin": 3255,
+   "texto": "INOCENCIA DE SAL"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3256,
+   "fin": 3278,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrı́lico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3288,
+   "fin": 3294,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "73 x60"
+  },
+  {
+   "tipo": "height",
+   "ini": 3288,
+   "fin": 3290,
+   "texto": "73"
+  },
+  {
+   "tipo": "width",
+   "ini": 3292,
+   "fin": 3295,
+   "texto": "60\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 3302,
+   "fin": 3310,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lola Gil"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3302,
+   "fin": 3310,
+   "texto": "Lola Gil"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3312,
+   "fin": 3399
+  },
+  {
+   "tipo": "img",
+   "ini": 3312,
+   "fin": 3317,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3318,
+   "fin": 3399,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "NOCHE VIOLÁCEA DE OCTUBRE\nOleo sobre lino\nMedidas: 38 x 46\nAutor: Evaristo Guerra"
+  },
+  {
+   "tipo": "title",
+   "ini": 3318,
+   "fin": 3343,
+   "texto": "NOCHE VIOLÁCEA DE OCTUBRE"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3344,
+   "fin": 3359,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Oleo sobre lino"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3369,
+   "fin": 3376,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "38 x 46"
+  },
+  {
+   "tipo": "height",
+   "ini": 3369,
+   "fin": 3371,
+   "texto": "38"
+  },
+  {
+   "tipo": "width",
+   "ini": 3374,
+   "fin": 3376,
+   "texto": "46"
+  },
+  {
+   "tipo": "person",
+   "ini": 3384,
+   "fin": 3399,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Evaristo Guerra"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3384,
+   "fin": 3399,
+   "texto": "Evaristo Guerra"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3401,
+   "fin": 3475
+  },
+  {
+   "tipo": "img",
+   "ini": 3401,
+   "fin": 3406,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3407,
+   "fin": 3475,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "BetAB‐500\nMixta sobre lienzo\nMedidas: 48 x 48\nAutor: Ahmad Ghoreishi"
+  },
+  {
+   "tipo": "title",
+   "ini": 3407,
+   "fin": 3416,
+   "texto": "BetAB‐500"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3417,
+   "fin": 3435,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3445,
+   "fin": 3452,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "48 x 48"
+  },
+  {
+   "tipo": "height",
+   "ini": 3445,
+   "fin": 3447,
+   "texto": "48"
+  },
+  {
+   "tipo": "width",
+   "ini": 3450,
+   "fin": 3452,
+   "texto": "48"
+  },
+  {
+   "tipo": "person",
+   "ini": 3460,
+   "fin": 3475,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ahmad Ghoreishi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3460,
+   "fin": 3475,
+   "texto": "Ahmad Ghoreishi"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3477,
+   "fin": 3554
+  },
+  {
+   "tipo": "img",
+   "ini": 3477,
+   "fin": 3482,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3483,
+   "fin": 3554,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "CAMINO INCIERTO\nOleo sobre lino\nMedidas : 55 x 33.\nAutor : Neno Herrera"
+  },
+  {
+   "tipo": "title",
+   "ini": 3483,
+   "fin": 3498,
+   "texto": "CAMINO INCIERTO"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3499,
+   "fin": 3514,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Oleo sobre lino"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3525,
+   "fin": 3532,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55 x 33"
+  },
+  {
+   "tipo": "height",
+   "ini": 3525,
+   "fin": 3527,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 3530,
+   "fin": 3532,
+   "texto": "33"
+  },
+  {
+   "tipo": "person",
+   "ini": 3542,
+   "fin": 3554,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Neno Herrera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3542,
+   "fin": 3554,
+   "texto": "Neno Herrera"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3556,
+   "fin": 3646
+  },
+  {
+   "tipo": "img",
+   "ini": 3556,
+   "fin": 3561,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3562,
+   "fin": 3646,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "EL CABALLO BLANCO Y LA NIÑA\nOleo sobre tabla\nMedidas: 60 x 50\nAutor: Antonio Hidalgo"
+  },
+  {
+   "tipo": "title",
+   "ini": 3562,
+   "fin": 3589,
+   "texto": "EL CABALLO BLANCO Y LA NIÑA"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3590,
+   "fin": 3607,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Oleo sobre tabla\n"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3616,
+   "fin": 3623,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 50"
+  },
+  {
+   "tipo": "height",
+   "ini": 3616,
+   "fin": 3618,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 3621,
+   "fin": 3623,
+   "texto": "50"
+  },
+  {
+   "tipo": "person",
+   "ini": 3631,
+   "fin": 3646,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Hidalgo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3631,
+   "fin": 3646,
+   "texto": "Antonio Hidalgo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3648,
+   "fin": 3760
+  },
+  {
+   "tipo": "img",
+   "ini": 3648,
+   "fin": 3653,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3654,
+   "fin": 3760,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "PATERAS DE LA MUERTE\nChapa de hierro 1mm, puntillismo, barniz metal\nMedidas 42x 65 x 33\nAutor: Paco Jurado"
+  },
+  {
+   "tipo": "title",
+   "ini": 3654,
+   "fin": 3674,
+   "texto": "PATERAS DE LA MUERTE"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3675,
+   "fin": 3721,
+   "rasgos": {
+    "type": "ironSheet"
+   },
+   "texto": "Chapa de hierro 1mm, puntillismo, barniz metal"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3730,
+   "fin": 3741,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "42x 65 x 33"
+  },
+  {
+   "tipo": "height",
+   "ini": 3730,
+   "fin": 3732,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 3734,
+   "fin": 3736,
+   "texto": "65"
+  },
+  {
+   "tipo": "depth",
+   "ini": 3739,
+   "fin": 3741,
+   "texto": "33"
+  },
+  {
+   "tipo": "person",
+   "ini": 3749,
+   "fin": 3760,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paco Jurado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3749,
+   "fin": 3760,
+   "texto": "Paco Jurado"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3762,
+   "fin": 3870
+  },
+  {
+   "tipo": "img",
+   "ini": 3762,
+   "fin": 3767,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3768,
+   "fin": 3870,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "EL CAMINO DE SANTIAGO. PEREGRINOS\nAguafuerte y manera negra\nMedidas: 46 x 62\nAutor: Valentin Kovatchev"
+  },
+  {
+   "tipo": "title",
+   "ini": 3768,
+   "fin": 3801,
+   "texto": "EL CAMINO DE SANTIAGO. PEREGRINOS"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3802,
+   "fin": 3827,
+   "rasgos": {
+    "type": "etching"
+   },
+   "texto": "Aguafuerte y manera negra"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3837,
+   "fin": 3844,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 62"
+  },
+  {
+   "tipo": "height",
+   "ini": 3837,
+   "fin": 3839,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 3842,
+   "fin": 3844,
+   "texto": "62"
+  },
+  {
+   "tipo": "person",
+   "ini": 3852,
+   "fin": 3870,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Valentin Kovatchev"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3852,
+   "fin": 3870,
+   "texto": "Valentin Kovatchev"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3872,
+   "fin": 3952
+  },
+  {
+   "tipo": "img",
+   "ini": 3872,
+   "fin": 3877,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3878,
+   "fin": 3952,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "MAR DE ALBORÁN\nAcrı́lico sobre papel\nMedidas: 70x 50\nAutora: Concha Mamely"
+  },
+  {
+   "tipo": "title",
+   "ini": 3878,
+   "fin": 3892,
+   "texto": "MAR DE ALBORÁN"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3893,
+   "fin": 3914,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrı́lico sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3924,
+   "fin": 3930,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70x 50"
+  },
+  {
+   "tipo": "height",
+   "ini": 3924,
+   "fin": 3926,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 3928,
+   "fin": 3930,
+   "texto": "50"
+  },
+  {
+   "tipo": "person",
+   "ini": 3939,
+   "fin": 3952,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Concha Mamely"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3939,
+   "fin": 3952,
+   "texto": "Concha Mamely"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3954,
+   "fin": 4026
+  },
+  {
+   "tipo": "img",
+   "ini": 3954,
+   "fin": 3959,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3960,
+   "fin": 4026,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "LIBRES\nOleo sobre lienzo\nMedidas: 70 x 45\nAutora: Victoria Martı́n"
+  },
+  {
+   "tipo": "title",
+   "ini": 3960,
+   "fin": 3966,
+   "texto": "LIBRES"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3967,
+   "fin": 3984,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Oleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3994,
+   "fin": 4001,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 45"
+  },
+  {
+   "tipo": "height",
+   "ini": 3994,
+   "fin": 3996,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 3999,
+   "fin": 4001,
+   "texto": "45"
+  },
+  {
+   "tipo": "person",
+   "ini": 4010,
+   "fin": 4026,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Victoria Martı́n"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4010,
+   "fin": 4026,
+   "texto": "Victoria Martı́n"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4028,
+   "fin": 4109
+  },
+  {
+   "tipo": "img",
+   "ini": 4028,
+   "fin": 4033,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4034,
+   "fin": 4109,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "PIEDAD\nBronce sobre madera\nMedidas: 37 x 17\nAutor: Francisco Martı́n Molina"
+  },
+  {
+   "tipo": "title",
+   "ini": 4034,
+   "fin": 4040,
+   "texto": "PIEDAD"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4041,
+   "fin": 4060,
+   "rasgos": {
+    "type": "steel, wood"
+   },
+   "texto": "Bronce sobre madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4070,
+   "fin": 4077,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "37 x 17"
+  },
+  {
+   "tipo": "height",
+   "ini": 4070,
+   "fin": 4072,
+   "texto": "37"
+  },
+  {
+   "tipo": "width",
+   "ini": 4075,
+   "fin": 4077,
+   "texto": "17"
+  },
+  {
+   "tipo": "person",
+   "ini": 4085,
+   "fin": 4109,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Francisco Martı́n Molina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4085,
+   "fin": 4109,
+   "texto": "Francisco Martı́n Molina"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4111,
+   "fin": 4205
+  },
+  {
+   "tipo": "img",
+   "ini": 4111,
+   "fin": 4116,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4117,
+   "fin": 4205,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "LAS NOCHES HASTA EL ALBA\nMixta / Papel\nMedidas: 40,8 x 30,5\nAutor: Lope Martı́nez Alario"
+  },
+  {
+   "tipo": "title",
+   "ini": 4117,
+   "fin": 4141,
+   "texto": "LAS NOCHES HASTA EL ALBA"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4142,
+   "fin": 4155,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta / Papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4165,
+   "fin": 4176,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40,8 x 30,5"
+  },
+  {
+   "tipo": "height",
+   "ini": 4165,
+   "fin": 4169,
+   "texto": "40,8"
+  },
+  {
+   "tipo": "width",
+   "ini": 4172,
+   "fin": 4176,
+   "texto": "30,5"
+  },
+  {
+   "tipo": "person",
+   "ini": 4184,
+   "fin": 4206,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lope Martı́nez Alario\n"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4184,
+   "fin": 4205,
+   "texto": "Lope Martı́nez Alario"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4206,
+   "fin": 4296
+  },
+  {
+   "tipo": "img",
+   "ini": 4207,
+   "fin": 4212,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4213,
+   "fin": 4294,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "MATERNIDAD EN LA POBREZA\nOleo sobre lienzo\nMedidas: 50 x 65\nAutor: Antonio Montie"
+  },
+  {
+   "tipo": "title",
+   "ini": 4213,
+   "fin": 4237,
+   "texto": "MATERNIDAD EN LA POBREZA"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4238,
+   "fin": 4255,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Oleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4265,
+   "fin": 4272,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 65"
+  },
+  {
+   "tipo": "height",
+   "ini": 4265,
+   "fin": 4267,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 4270,
+   "fin": 4272,
+   "texto": "65"
+  },
+  {
+   "tipo": "person",
+   "ini": 4280,
+   "fin": 4295,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Montiel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4280,
+   "fin": 4295,
+   "texto": "Antonio Montiel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4297,
+   "fin": 4381
+  },
+  {
+   "tipo": "img",
+   "ini": 4297,
+   "fin": 4302,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4303,
+   "fin": 4381,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "EL ESCLAVO\nEscultura en Terracota\nMedidas: 45 x 26\nAutor: Esteban Pérez Palma"
+  },
+  {
+   "tipo": "title",
+   "ini": 4303,
+   "fin": 4313,
+   "texto": "EL ESCLAVO"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4314,
+   "fin": 4336,
+   "rasgos": {
+    "type": "terracottaSculpture"
+   },
+   "texto": "Escultura en Terracota"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4346,
+   "fin": 4353,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "45 x 26"
+  },
+  {
+   "tipo": "height",
+   "ini": 4346,
+   "fin": 4348,
+   "texto": "45"
+  },
+  {
+   "tipo": "width",
+   "ini": 4351,
+   "fin": 4353,
+   "texto": "26"
+  },
+  {
+   "tipo": "person",
+   "ini": 4361,
+   "fin": 4381,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Esteban Pérez Palma"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4361,
+   "fin": 4381,
+   "texto": "Esteban Pérez Palma"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4383,
+   "fin": 4469
+  },
+  {
+   "tipo": "img",
+   "ini": 4383,
+   "fin": 4388,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4389,
+   "fin": 4469,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "BUSCANDO UNA SALIDA\nMixta sobre metacrilato\nMedidas: 70 x 50\nAutor: Javier Ponce"
+  },
+  {
+   "tipo": "title",
+   "ini": 4389,
+   "fin": 4408,
+   "texto": "BUSCANDO UNA SALIDA"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4409,
+   "fin": 4432,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre metacrilato"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4442,
+   "fin": 4449,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 50"
+  },
+  {
+   "tipo": "height",
+   "ini": 4442,
+   "fin": 4444,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 4447,
+   "fin": 4449,
+   "texto": "50"
+  },
+  {
+   "tipo": "person",
+   "ini": 4457,
+   "fin": 4469,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Ponce"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4457,
+   "fin": 4469,
+   "texto": "Javier Ponce"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4471,
+   "fin": 4597
+  },
+  {
+   "tipo": "img",
+   "ini": 4471,
+   "fin": 4476,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4477,
+   "fin": 4597,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "EUROPA CERRADA\n(Fantasía sobre fotografía de Muhammed Muheisen)\nOleo sobre lienzo\nMedidas: 50 x 61\nAutora: Larisa Sarria"
+  },
+  {
+   "tipo": "title",
+   "ini": 4477,
+   "fin": 4540,
+   "texto": "EUROPA CERRADA\n(Fantasía sobre fotografía de Muhammed Muheisen)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4522,
+   "fin": 4539,
+   "texto": "Muhammed Muheisen"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4541,
+   "fin": 4558,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Oleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4568,
+   "fin": 4575,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 61"
+  },
+  {
+   "tipo": "height",
+   "ini": 4568,
+   "fin": 4570,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 4573,
+   "fin": 4575,
+   "texto": "61"
+  },
+  {
+   "tipo": "person",
+   "ini": 4584,
+   "fin": 4597,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Larisa Sarria"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4584,
+   "fin": 4597,
+   "texto": "Larisa Sarria"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4599,
+   "fin": 4684
+  },
+  {
+   "tipo": "img",
+   "ini": 4599,
+   "fin": 4605,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4605,
+   "fin": 4684,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "¡AYÚDENME!\nAcrı́lico sobre tabla\nMedidas: 46 x 67\nAutor: José Manuel Torrejón"
+  },
+  {
+   "tipo": "title",
+   "ini": 4605,
+   "fin": 4615,
+   "texto": "¡AYÚDENME!"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4616,
+   "fin": 4637,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrı́lico sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4647,
+   "fin": 4654,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 67"
+  },
+  {
+   "tipo": "height",
+   "ini": 4647,
+   "fin": 4649,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 4652,
+   "fin": 4654,
+   "texto": "67"
+  },
+  {
+   "tipo": "person",
+   "ini": 4662,
+   "fin": 4684,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Manuel Torrejón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4662,
+   "fin": 4684,
+   "texto": "José Manuel Torrejón"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4686,
+   "fin": 4766
+  },
+  {
+   "tipo": "img",
+   "ini": 4686,
+   "fin": 4691,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4692,
+   "fin": 4766,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "AÚN YACES EN MÍ\nGlicé e. 1/3\nMedidas: 42 x 37.\nAutor: Francisco Trigueros"
+  },
+  {
+   "tipo": "title",
+   "ini": 4692,
+   "fin": 4707,
+   "texto": "AÚN YACES EN MÍ"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4708,
+   "fin": 4721,
+   "rasgos": {
+    "type": "glice"
+   },
+   "texto": "Glicé e. 1/3"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4731,
+   "fin": 4738,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "42 x 37"
+  },
+  {
+   "tipo": "height",
+   "ini": 4731,
+   "fin": 4733,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 4736,
+   "fin": 4738,
+   "texto": "37"
+  },
+  {
+   "tipo": "person",
+   "ini": 4747,
+   "fin": 4766,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Francisco Trigueros"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4747,
+   "fin": 4766,
+   "texto": "Francisco Trigueros"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4768,
+   "fin": 4853
+  },
+  {
+   "tipo": "img",
+   "ini": 4768,
+   "fin": 4773,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4774,
+   "fin": 4853,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "REFUGIADOS\nAcuarela Digital\nMedidas: A3 (42 x 29,7)\nAutor: José Manuel Villena"
+  },
+  {
+   "tipo": "title",
+   "ini": 4774,
+   "fin": 4784,
+   "texto": "REFUGIADOS"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4785,
+   "fin": 4802,
+   "rasgos": {
+    "type": "digitalWatercolour"
+   },
+   "texto": "Acuarela Digital\n"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4811,
+   "fin": 4825,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "A3 (42 x 29,7)"
+  },
+  {
+   "tipo": "height",
+   "ini": 4815,
+   "fin": 4817,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 4820,
+   "fin": 4824,
+   "texto": "29,7"
+  },
+  {
+   "tipo": "person",
+   "ini": 4833,
+   "fin": 4853,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Manuel Villena"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4833,
+   "fin": 4853,
+   "texto": "José Manuel Villena"
+  },
+  {
+   "tipo": "title",
+   "ini": 4855,
+   "fin": 4914,
+   "texto": "FRONTERAS DE SAL\nMálaga: ciudad del paraíso, ciudad abierta"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 4855,
+   "fin": 4914,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4872,
+   "fin": 4878,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Málaga"
+  }
+ ]
+}

@@ -1,0 +1,2812 @@
+{
+ "id": "cat_035_catalogo_par_xiii",
+ "nombre_original": "Catalogo Par XIII",
+ "longitud_texto": 23250,
+ "sha256_texto": "a0c05e3a8587a0527a9709f0effd425d59e11b08734902f62909351e6d3d532d",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 786,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 29,
+   "texto": "Par XIII\nUna nueva percepción"
+  },
+  {
+   "tipo": "institution",
+   "ini": 31,
+   "fin": 52,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Universidad de Oviedo"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 46,
+   "fin": 52,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Oviedo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 66,
+   "fin": 89,
+   "rasgos": {
+    "type": "university",
+    "role": "host, organiser"
+   },
+   "texto": "\nUniversidad de Oviedo\n"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 82,
+   "fin": 88,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Oviedo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 90,
+   "fin": 137,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Departamento de Historia del Arte\ny Musicología"
+  },
+  {
+   "tipo": "person",
+   "ini": 162,
+   "fin": 179,
+   "rasgos": {
+    "role": "exhibitionCurator, assembly"
+   },
+   "texto": "Alessandro Favero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 162,
+   "fin": 179,
+   "texto": "Alessandro Favero"
+  },
+  {
+   "tipo": "person",
+   "ini": 180,
+   "fin": 205,
+   "rasgos": {
+    "role": "exhibitionCurator, assembly"
+   },
+   "texto": "Beatriz Rodríguez Sánchez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 180,
+   "fin": 205,
+   "texto": "Beatriz Rodríguez Sánchez"
+  },
+  {
+   "tipo": "person",
+   "ini": 206,
+   "fin": 227,
+   "rasgos": {
+    "role": "exhibitionCurator, assembly"
+   },
+   "texto": "Coral García Martínez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 206,
+   "fin": 227,
+   "texto": "Coral García Martínez"
+  },
+  {
+   "tipo": "person",
+   "ini": 228,
+   "fin": 249,
+   "rasgos": {
+    "role": "exhibitionCurator, assembly"
+   },
+   "texto": "Lucía Pérez Fernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 228,
+   "fin": 249,
+   "texto": "Lucía Pérez Fernández"
+  },
+  {
+   "tipo": "person",
+   "ini": 250,
+   "fin": 276,
+   "rasgos": {
+    "role": "exhibitionCurator, assembly"
+   },
+   "texto": "Navia de la Torre González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 250,
+   "fin": 276,
+   "texto": "Navia de la Torre González"
+  },
+  {
+   "tipo": "person",
+   "ini": 301,
+   "fin": 327,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "Ana María Fernández García"
+  },
+  {
+   "tipo": "persName",
+   "ini": 301,
+   "fin": 327,
+   "texto": "Ana María Fernández García"
+  },
+  {
+   "tipo": "person",
+   "ini": 328,
+   "fin": 358,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "Sara Vázquez-Canónico Costales"
+  },
+  {
+   "tipo": "persName",
+   "ini": 328,
+   "fin": 358,
+   "texto": "Sara Vázquez-Canónico Costales"
+  },
+  {
+   "tipo": "person",
+   "ini": 378,
+   "fin": 395,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Alessandro Favero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 378,
+   "fin": 395,
+   "texto": "Alessandro Favero"
+  },
+  {
+   "tipo": "person",
+   "ini": 396,
+   "fin": 421,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Beatriz Rodríguez Sánchez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 396,
+   "fin": 421,
+   "texto": "Beatriz Rodríguez Sánchez"
+  },
+  {
+   "tipo": "person",
+   "ini": 422,
+   "fin": 443,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Coral García Martínez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 422,
+   "fin": 443,
+   "texto": "Coral García Martínez"
+  },
+  {
+   "tipo": "person",
+   "ini": 444,
+   "fin": 465,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Lucía Pérez Fernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 444,
+   "fin": 465,
+   "texto": "Lucía Pérez Fernández"
+  },
+  {
+   "tipo": "person",
+   "ini": 466,
+   "fin": 492,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Navia de la Torre González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 466,
+   "fin": 492,
+   "texto": "Navia de la Torre González"
+  },
+  {
+   "tipo": "person",
+   "ini": 507,
+   "fin": 518,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Antoni Abad"
+  },
+  {
+   "tipo": "persName",
+   "ini": 507,
+   "fin": 518,
+   "texto": "Antoni Abad"
+  },
+  {
+   "tipo": "person",
+   "ini": 519,
+   "fin": 533,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Ataulfo Casado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 519,
+   "fin": 533,
+   "texto": "Ataulfo Casado"
+  },
+  {
+   "tipo": "person",
+   "ini": 534,
+   "fin": 550,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Claudio Iglesias"
+  },
+  {
+   "tipo": "persName",
+   "ini": 534,
+   "fin": 550,
+   "texto": "Claudio Iglesias"
+  },
+  {
+   "tipo": "person",
+   "ini": 551,
+   "fin": 562,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Costa Badía"
+  },
+  {
+   "tipo": "persName",
+   "ini": 551,
+   "fin": 562,
+   "texto": "Costa Badía"
+  },
+  {
+   "tipo": "person",
+   "ini": 563,
+   "fin": 577,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "David Escalona"
+  },
+  {
+   "tipo": "persName",
+   "ini": 563,
+   "fin": 577,
+   "texto": "David Escalona"
+  },
+  {
+   "tipo": "person",
+   "ini": 578,
+   "fin": 593,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "José Soto Chica"
+  },
+  {
+   "tipo": "persName",
+   "ini": 578,
+   "fin": 593,
+   "texto": "José Soto Chica"
+  },
+  {
+   "tipo": "person",
+   "ini": 594,
+   "fin": 625,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Juan Diego Angulo Ruiz (Vandal)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 594,
+   "fin": 625,
+   "texto": "Juan Diego Angulo Ruiz (Vandal)"
+  },
+  {
+   "tipo": "person",
+   "ini": 626,
+   "fin": 642,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Juan Isaac Silva"
+  },
+  {
+   "tipo": "persName",
+   "ini": 626,
+   "fin": 642,
+   "texto": "Juan Isaac Silva"
+  },
+  {
+   "tipo": "person",
+   "ini": 643,
+   "fin": 657,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Vicente Marzal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 643,
+   "fin": 657,
+   "texto": "Vicente Marzal"
+  },
+  {
+   "tipo": "person",
+   "ini": 681,
+   "fin": 706,
+   "rasgos": {
+    "role": "layout"
+   },
+   "texto": "Beatriz Rodríguez Sánchez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 681,
+   "fin": 706,
+   "texto": "Beatriz Rodríguez Sánchez"
+  },
+  {
+   "tipo": "person",
+   "ini": 728,
+   "fin": 754,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "Danko Andrés Guerra Molina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 728,
+   "fin": 754,
+   "texto": "Danko Andrés Guerra Molina"
+  },
+  {
+   "tipo": "title",
+   "ini": 757,
+   "fin": 786,
+   "texto": "PAR XIII\nUna nueva percepción"
+  },
+  {
+   "tipo": "person",
+   "ini": 879,
+   "fin": 890,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antoni Abad"
+  },
+  {
+   "tipo": "persName",
+   "ini": 879,
+   "fin": 890,
+   "texto": "Antoni Abad"
+  },
+  {
+   "tipo": "person",
+   "ini": 894,
+   "fin": 908,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ataulfo Casado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 894,
+   "fin": 908,
+   "texto": "Ataulfo Casado"
+  },
+  {
+   "tipo": "person",
+   "ini": 912,
+   "fin": 928,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Claudio Iglesias"
+  },
+  {
+   "tipo": "persName",
+   "ini": 912,
+   "fin": 928,
+   "texto": "Claudio Iglesias"
+  },
+  {
+   "tipo": "person",
+   "ini": 932,
+   "fin": 943,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Costa Badía"
+  },
+  {
+   "tipo": "persName",
+   "ini": 932,
+   "fin": 943,
+   "texto": "Costa Badía"
+  },
+  {
+   "tipo": "person",
+   "ini": 947,
+   "fin": 962,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Escalona\t"
+  },
+  {
+   "tipo": "persName",
+   "ini": 947,
+   "fin": 961,
+   "texto": "David Escalona"
+  },
+  {
+   "tipo": "person",
+   "ini": 967,
+   "fin": 982,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Soto Chica"
+  },
+  {
+   "tipo": "persName",
+   "ini": 967,
+   "fin": 981,
+   "texto": "José Soto Chic"
+  },
+  {
+   "tipo": "person",
+   "ini": 987,
+   "fin": 1009,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Diego Ángulo Ruiz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 987,
+   "fin": 1009,
+   "texto": "Juan Diego Ángulo Ruiz"
+  },
+  {
+   "tipo": "person",
+   "ini": 1013,
+   "fin": 1029,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Isaac Silva"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1013,
+   "fin": 1029,
+   "texto": "Juan Isaac Silva"
+  },
+  {
+   "tipo": "person",
+   "ini": 1034,
+   "fin": 1048,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vicente Marzal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1034,
+   "fin": 1048,
+   "texto": "Vicente Marzal"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 4308,
+   "fin": 22714
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 4326,
+   "fin": 6688
+  },
+  {
+   "tipo": "person",
+   "ini": 4326,
+   "fin": 4355,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antoni Abad\n\nNacido en Lleida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4326,
+   "fin": 4337,
+   "texto": "Antoni Abad"
+  },
+  {
+   "tipo": "text",
+   "ini": 4339,
+   "fin": 5482
+  },
+  {
+   "tipo": "birth",
+   "ini": 4339,
+   "fin": 4355
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4349,
+   "fin": 4355,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Lleida"
+  },
+  {
+   "tipo": "person",
+   "ini": 4473,
+   "fin": 4479,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antoni"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4473,
+   "fin": 4479,
+   "texto": "Antoni"
+  },
+  {
+   "tipo": "title",
+   "ini": 4735,
+   "fin": 4749,
+   "texto": "Últimos deseos"
+  },
+  {
+   "tipo": "person",
+   "ini": 5039,
+   "fin": 5045,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antoni"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5039,
+   "fin": 5045,
+   "texto": "Antoni"
+  },
+  {
+   "tipo": "img",
+   "ini": 5484,
+   "fin": 5489,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5491,
+   "fin": 6688
+  },
+  {
+   "tipo": "work",
+   "ini": 5491,
+   "fin": 5541,
+   "rasgos": {
+    "type": "video"
+   },
+   "texto": "Últimos deseos, 1995\nVideoarte\nCedida por el MACBA"
+  },
+  {
+   "tipo": "title",
+   "ini": 5491,
+   "fin": 5505,
+   "texto": "Últimos deseos"
+  },
+  {
+   "tipo": "date",
+   "ini": 5507,
+   "fin": 5511,
+   "rasgos": {
+    "when": "1995"
+   },
+   "texto": "1995"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5512,
+   "fin": 5521,
+   "rasgos": {
+    "type": "videoArt"
+   },
+   "texto": "Videoarte"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5536,
+   "fin": 5541,
+   "rasgos": {
+    "type": "museum",
+    "role": "lender"
+   },
+   "texto": "MACBA"
+  },
+  {
+   "tipo": "img",
+   "ini": 5543,
+   "fin": 5548,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 5550,
+   "fin": 6688
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 6691,
+   "fin": 8875
+  },
+  {
+   "tipo": "person",
+   "ini": 6691,
+   "fin": 6705,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ataulfo Casado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6691,
+   "fin": 6705,
+   "texto": "Ataulfo Casado"
+  },
+  {
+   "tipo": "text",
+   "ini": 6707,
+   "fin": 8082
+  },
+  {
+   "tipo": "person",
+   "ini": 6707,
+   "fin": 6714,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ataulfo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6707,
+   "fin": 6714,
+   "texto": "Ataulfo"
+  },
+  {
+   "tipo": "person",
+   "ini": 7346,
+   "fin": 7353,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ataulfo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7346,
+   "fin": 7353,
+   "texto": "Ataulfo"
+  },
+  {
+   "tipo": "title",
+   "ini": 7915,
+   "fin": 7925,
+   "texto": "Amaneceres"
+  },
+  {
+   "tipo": "title",
+   "ini": 7927,
+   "fin": 7938,
+   "texto": "Atardeceres"
+  },
+  {
+   "tipo": "title",
+   "ini": 7940,
+   "fin": 7968,
+   "texto": "La intemporalidad del tiempo"
+  },
+  {
+   "tipo": "title",
+   "ini": 7970,
+   "fin": 7977,
+   "texto": "Paredes"
+  },
+  {
+   "tipo": "title",
+   "ini": 7979,
+   "fin": 7987,
+   "texto": "Floresta"
+  },
+  {
+   "tipo": "title",
+   "ini": 7989,
+   "fin": 7998,
+   "texto": "Soledades"
+  },
+  {
+   "tipo": "title",
+   "ini": 8001,
+   "fin": 8006,
+   "texto": "Mares"
+  },
+  {
+   "tipo": "img",
+   "ini": 8084,
+   "fin": 8089,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 8091,
+   "fin": 8875,
+   "rasgos": {
+    "type": "painting",
+    "size": "2"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 8091,
+   "fin": 8102,
+   "texto": "Serie Mares"
+  },
+  {
+   "tipo": "date",
+   "ini": 8104,
+   "fin": 8115,
+   "rasgos": {
+    "from": "2017",
+    "to": "2019"
+   },
+   "texto": "2017 - 2019"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 8117,
+   "fin": 8749
+  },
+  {
+   "tipo": "person",
+   "ini": 8159,
+   "fin": 8166,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ataulfo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8159,
+   "fin": 8166,
+   "texto": "Ataulfo"
+  },
+  {
+   "tipo": "title",
+   "ini": 8193,
+   "fin": 8198,
+   "texto": "Mares"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8752,
+   "fin": 8813
+  },
+  {
+   "tipo": "work",
+   "ini": 8752,
+   "fin": 8806,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ATA038, 2017 - 2019\n100 x 100 cm\nAcrílico sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 8752,
+   "fin": 8758,
+   "texto": "ATA038"
+  },
+  {
+   "tipo": "date",
+   "ini": 8760,
+   "fin": 8771,
+   "rasgos": {
+    "from": "2017",
+    "to": "2019"
+   },
+   "texto": "2017 - 2019"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8772,
+   "fin": 8784,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8772,
+   "fin": 8775,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 8778,
+   "fin": 8781,
+   "texto": "100"
+  },
+  {
+   "tipo": "img",
+   "ini": 8808,
+   "fin": 8813,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8815,
+   "fin": 8875
+  },
+  {
+   "tipo": "work",
+   "ini": 8815,
+   "fin": 8868,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ATA012, 2017 - 2019\n116 x 89 cm\nAcrílico sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 8815,
+   "fin": 8821,
+   "texto": "ATA012"
+  },
+  {
+   "tipo": "date",
+   "ini": 8823,
+   "fin": 8834,
+   "rasgos": {
+    "from": "2017",
+    "to": "2019"
+   },
+   "texto": "2017 - 2019"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8835,
+   "fin": 8846,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "116 x 89 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8835,
+   "fin": 8838,
+   "texto": "116"
+  },
+  {
+   "tipo": "width",
+   "ini": 8841,
+   "fin": 8843,
+   "texto": "89"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8847,
+   "fin": 8868,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "img",
+   "ini": 8870,
+   "fin": 8875,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 8877,
+   "fin": 10023
+  },
+  {
+   "tipo": "person",
+   "ini": 8877,
+   "fin": 8949,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Claudio Iglesias\n\nTrabaja como artesano en su propio taller en Galicia. "
+  },
+  {
+   "tipo": "persName",
+   "ini": 8877,
+   "fin": 8893,
+   "texto": "Claudio Iglesias"
+  },
+  {
+   "tipo": "text",
+   "ini": 8895,
+   "fin": 9288
+  },
+  {
+   "tipo": "placeName",
+   "ini": 8940,
+   "fin": 8947,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Galicia"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9291,
+   "fin": 10023
+  },
+  {
+   "tipo": "work",
+   "ini": 9291,
+   "fin": 9339,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Meditación, 2004\n30 x 20 x 20 cm\nTalla en madera"
+  },
+  {
+   "tipo": "title",
+   "ini": 9291,
+   "fin": 9301,
+   "texto": "Meditación"
+  },
+  {
+   "tipo": "date",
+   "ini": 9303,
+   "fin": 9307,
+   "rasgos": {
+    "when": "2004"
+   },
+   "texto": "2004"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9308,
+   "fin": 9323,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 20 x 20 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 9308,
+   "fin": 9310,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 9313,
+   "fin": 9315,
+   "texto": "20"
+  },
+  {
+   "tipo": "depth",
+   "ini": 9318,
+   "fin": 9320,
+   "texto": "20"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9324,
+   "fin": 9339,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Talla en madera"
+  },
+  {
+   "tipo": "img",
+   "ini": 9341,
+   "fin": 9346,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 9348,
+   "fin": 10023
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 10026,
+   "fin": 12352
+  },
+  {
+   "tipo": "person",
+   "ini": 10026,
+   "fin": 10062,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Costa Badía\n\nNació en Madrid en 1981"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10026,
+   "fin": 10037,
+   "texto": "Costa Badía"
+  },
+  {
+   "tipo": "text",
+   "ini": 10039,
+   "fin": 11238
+  },
+  {
+   "tipo": "birth",
+   "ini": 10039,
+   "fin": 10062
+  },
+  {
+   "tipo": "placeName",
+   "ini": 10048,
+   "fin": 10054,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "date",
+   "ini": 10058,
+   "fin": 10062,
+   "rasgos": {
+    "when": "1981"
+   },
+   "texto": "1981"
+  },
+  {
+   "tipo": "person",
+   "ini": 11042,
+   "fin": 11047,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Badía"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11042,
+   "fin": 11047,
+   "texto": "Badía"
+  },
+  {
+   "tipo": "img",
+   "ini": 11240,
+   "fin": 11245,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 11247,
+   "fin": 12352,
+   "rasgos": {
+    "type": "painting",
+    "size": "4"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 11247,
+   "fin": 11265,
+   "texto": "Electros Nocturnos"
+  },
+  {
+   "tipo": "date",
+   "ini": 11267,
+   "fin": 11271,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 11273,
+   "fin": 12083
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12085,
+   "fin": 12149
+  },
+  {
+   "tipo": "img",
+   "ini": 12085,
+   "fin": 12090,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12092,
+   "fin": 12149,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Electro Nocturno 1, 2020\n6 x 51,5 cm\nAcrílico sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 12092,
+   "fin": 12110,
+   "texto": "Electro Nocturno 1"
+  },
+  {
+   "tipo": "date",
+   "ini": 12112,
+   "fin": 12116,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12117,
+   "fin": 12128,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "6 x 51,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 12117,
+   "fin": 12118,
+   "texto": "6"
+  },
+  {
+   "tipo": "width",
+   "ini": 12121,
+   "fin": 12125,
+   "texto": "51,5"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12129,
+   "fin": 12149,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12151,
+   "fin": 12216
+  },
+  {
+   "tipo": "work",
+   "ini": 12151,
+   "fin": 12209,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Electro Nocturno 2, 2020\n11,2 x 28 cm\nAcrílico sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 12151,
+   "fin": 12169,
+   "texto": "Electro Nocturno 2"
+  },
+  {
+   "tipo": "date",
+   "ini": 12171,
+   "fin": 12175,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12176,
+   "fin": 12188,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "11,2 x 28 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 12176,
+   "fin": 12180,
+   "texto": "11,2"
+  },
+  {
+   "tipo": "width",
+   "ini": 12183,
+   "fin": 12185,
+   "texto": "28"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12189,
+   "fin": 12209,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre papel"
+  },
+  {
+   "tipo": "img",
+   "ini": 12211,
+   "fin": 12217,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12218,
+   "fin": 12283
+  },
+  {
+   "tipo": "work",
+   "ini": 12218,
+   "fin": 12276,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Electro Nocturno 3, 2020\n11,2 x 28 cm\nAcuarela sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 12218,
+   "fin": 12236,
+   "texto": "Electro Nocturno 3"
+  },
+  {
+   "tipo": "date",
+   "ini": 12238,
+   "fin": 12242,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12243,
+   "fin": 12255,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "11,2 x 28 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 12243,
+   "fin": 12247,
+   "texto": "11,2"
+  },
+  {
+   "tipo": "width",
+   "ini": 12250,
+   "fin": 12252,
+   "texto": "28"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12256,
+   "fin": 12276,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela sobre papel"
+  },
+  {
+   "tipo": "img",
+   "ini": 12278,
+   "fin": 12283,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12285,
+   "fin": 12352
+  },
+  {
+   "tipo": "work",
+   "ini": 12285,
+   "fin": 12345,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Electro Nocturno 4, 2020\n11,2 x 34,5 cm\nAcrílico sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 12285,
+   "fin": 12303,
+   "texto": "Electro Nocturno 4"
+  },
+  {
+   "tipo": "date",
+   "ini": 12305,
+   "fin": 12309,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12310,
+   "fin": 12324,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "11,2 x 34,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 12310,
+   "fin": 12314,
+   "texto": "11,2"
+  },
+  {
+   "tipo": "width",
+   "ini": 12317,
+   "fin": 12321,
+   "texto": "34,5"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12325,
+   "fin": 12345,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre papel"
+  },
+  {
+   "tipo": "img",
+   "ini": 12347,
+   "fin": 12352,
+   "rasgos": {
+    "+": "",
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 12354,
+   "fin": 13390
+  },
+  {
+   "tipo": "person",
+   "ini": 12354,
+   "fin": 12368,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Escalona"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12354,
+   "fin": 12368,
+   "texto": "David Escalona"
+  },
+  {
+   "tipo": "text",
+   "ini": 12370,
+   "fin": 13333
+  },
+  {
+   "tipo": "person",
+   "ini": 12370,
+   "fin": 12375,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12370,
+   "fin": 12375,
+   "texto": "David"
+  },
+  {
+   "tipo": "img",
+   "ini": 13335,
+   "fin": 13340,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13342,
+   "fin": 13390
+  },
+  {
+   "tipo": "work",
+   "ini": 13342,
+   "fin": 13383,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Paisaje fisiológico, 2012\n60 x 82 x 15 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 13342,
+   "fin": 13361,
+   "texto": "Paisaje fisiológico"
+  },
+  {
+   "tipo": "date",
+   "ini": 13363,
+   "fin": 13367,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13368,
+   "fin": 13383,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 82 x 15 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 13368,
+   "fin": 13370,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 13373,
+   "fin": 13375,
+   "texto": "82"
+  },
+  {
+   "tipo": "depth",
+   "ini": 13378,
+   "fin": 13380,
+   "texto": "15"
+  },
+  {
+   "tipo": "img",
+   "ini": 13385,
+   "fin": 13390,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 13392,
+   "fin": 15022
+  },
+  {
+   "tipo": "person",
+   "ini": 13392,
+   "fin": 13407,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Soto Chica"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13392,
+   "fin": 13407,
+   "texto": "José Soto Chica"
+  },
+  {
+   "tipo": "text",
+   "ini": 13409,
+   "fin": 14713
+  },
+  {
+   "tipo": "img",
+   "ini": 14715,
+   "fin": 14720,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14722,
+   "fin": 15022
+  },
+  {
+   "tipo": "work",
+   "ini": 14722,
+   "fin": 14751,
+   "rasgos": {
+    "type": "literature"
+   },
+   "texto": "Paradoja y verdad, 2021\nPoema"
+  },
+  {
+   "tipo": "title",
+   "ini": 14722,
+   "fin": 14739,
+   "texto": "Paradoja y verdad"
+  },
+  {
+   "tipo": "date",
+   "ini": 14741,
+   "fin": 14745,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14746,
+   "fin": 14751,
+   "rasgos": {
+    "type": "poem"
+   },
+   "texto": "Poema"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 14753,
+   "fin": 15022
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 15025,
+   "fin": 17273
+  },
+  {
+   "tipo": "person",
+   "ini": 15025,
+   "fin": 15177,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Diego Angulo Ruiz,\nVandal\n\nNacido en Venezuela en 1994, Vandal es un ilustrador actualmente\nafincado en Madrid que trabaja como profesor de dibujo."
+  },
+  {
+   "tipo": "persName",
+   "ini": 15025,
+   "fin": 15047,
+   "texto": "Juan Diego Angulo Ruiz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15049,
+   "fin": 15055,
+   "texto": "Vandal"
+  },
+  {
+   "tipo": "text",
+   "ini": 15057,
+   "fin": 15901
+  },
+  {
+   "tipo": "birth",
+   "ini": 15057,
+   "fin": 15084
+  },
+  {
+   "tipo": "placeName",
+   "ini": 15067,
+   "fin": 15076,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Venezuela"
+  },
+  {
+   "tipo": "date",
+   "ini": 15080,
+   "fin": 15084,
+   "rasgos": {
+    "when": "1994"
+   },
+   "texto": "1994"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15086,
+   "fin": 15092,
+   "texto": "Vandal"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 15110,
+   "fin": 15140
+  },
+  {
+   "tipo": "placeName",
+   "ini": 15134,
+   "fin": 15140,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "img",
+   "ini": 15903,
+   "fin": 15908,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 15910,
+   "fin": 17273,
+   "rasgos": {
+    "type": "drawing",
+    "size": "3"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 15910,
+   "fin": 15915,
+   "texto": "Madre"
+  },
+  {
+   "tipo": "date",
+   "ini": 15917,
+   "fin": 15921,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 15923,
+   "fin": 16967
+  },
+  {
+   "tipo": "title",
+   "ini": 15923,
+   "fin": 15928,
+   "texto": "Madre"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 16048,
+   "fin": 16079,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 16048,
+   "fin": 16078,
+   "texto": "Par XIII: una\nnueva percepción"
+  },
+  {
+   "tipo": "person",
+   "ini": 16107,
+   "fin": 16112,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Diego"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16107,
+   "fin": 16112,
+   "texto": "Diego"
+  },
+  {
+   "tipo": "person",
+   "ini": 16746,
+   "fin": 16752,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vandal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16746,
+   "fin": 16752,
+   "texto": "Vandal"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16969,
+   "fin": 17069
+  },
+  {
+   "tipo": "work",
+   "ini": 16969,
+   "fin": 17062,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Madre 1, 2021\n70 x 70 cm\nTécnica mixta (acuarela, acrílico,\ngouache, grafito y pigmento puro)"
+  },
+  {
+   "tipo": "title",
+   "ini": 16969,
+   "fin": 16976,
+   "texto": "Madre 1"
+  },
+  {
+   "tipo": "date",
+   "ini": 16978,
+   "fin": 16982,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16983,
+   "fin": 16993,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16983,
+   "fin": 16985,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 16988,
+   "fin": 16990,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16994,
+   "fin": 17062,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta (acuarela, acrílico,\ngouache, grafito y pigmento puro)"
+  },
+  {
+   "tipo": "img",
+   "ini": 17064,
+   "fin": 17070,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17071,
+   "fin": 17171
+  },
+  {
+   "tipo": "work",
+   "ini": 17071,
+   "fin": 17164,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Madre 2, 2021\n70 x 70 cm\nTécnica mixta (acuarela, acrílico,\ngouache, grafito y pigmento puro)"
+  },
+  {
+   "tipo": "title",
+   "ini": 17071,
+   "fin": 17078,
+   "texto": "Madre 2"
+  },
+  {
+   "tipo": "date",
+   "ini": 17080,
+   "fin": 17084,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17085,
+   "fin": 17095,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17085,
+   "fin": 17087,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 17090,
+   "fin": 17092,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17096,
+   "fin": 17164,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta (acuarela, acrílico,\ngouache, grafito y pigmento puro)"
+  },
+  {
+   "tipo": "img",
+   "ini": 17166,
+   "fin": 17171,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17173,
+   "fin": 17273
+  },
+  {
+   "tipo": "work",
+   "ini": 17173,
+   "fin": 17266,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Madre 3, 2021\n70 x 70 cm\nTécnica mixta (acuarela, acrílico,\ngouache, grafito y pigmento puro)"
+  },
+  {
+   "tipo": "title",
+   "ini": 17173,
+   "fin": 17180,
+   "texto": "Madre 3"
+  },
+  {
+   "tipo": "date",
+   "ini": 17182,
+   "fin": 17186,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17187,
+   "fin": 17197,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17187,
+   "fin": 17189,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 17192,
+   "fin": 17194,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17198,
+   "fin": 17266,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta (acuarela, acrílico,\ngouache, grafito y pigmento puro)"
+  },
+  {
+   "tipo": "img",
+   "ini": 17268,
+   "fin": 17273,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 17275,
+   "fin": 19263
+  },
+  {
+   "tipo": "person",
+   "ini": 17275,
+   "fin": 17291,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Isaac Silva"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17275,
+   "fin": 17291,
+   "texto": "Juan Isaac Silva"
+  },
+  {
+   "tipo": "text",
+   "ini": 17293,
+   "fin": 18479
+  },
+  {
+   "tipo": "person",
+   "ini": 17379,
+   "fin": 17395,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Isaac Silva"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17379,
+   "fin": 17395,
+   "texto": "Juan Isaac Silva"
+  },
+  {
+   "tipo": "img",
+   "ini": 18481,
+   "fin": 18486,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 18488,
+   "fin": 19263,
+   "rasgos": {
+    "type": "soundArt",
+    "size": "4"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 18488,
+   "fin": 18504,
+   "texto": "Espacio interior"
+  },
+  {
+   "tipo": "date",
+   "ini": 18506,
+   "fin": 18510,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18511,
+   "fin": 18522,
+   "rasgos": {
+    "type": "soundArt"
+   },
+   "texto": "Arte sonoro"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18525,
+   "fin": 18557
+  },
+  {
+   "tipo": "work",
+   "ini": 18525,
+   "fin": 18550,
+   "rasgos": {
+    "type": "photograph, soundArt"
+   },
+   "texto": "Aplauso, 2012\nArte sonoro"
+  },
+  {
+   "tipo": "title",
+   "ini": 18525,
+   "fin": 18532,
+   "texto": "Aplauso"
+  },
+  {
+   "tipo": "date",
+   "ini": 18534,
+   "fin": 18538,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18539,
+   "fin": 18550,
+   "rasgos": {
+    "type": "soundArt"
+   },
+   "texto": "Arte sonoro"
+  },
+  {
+   "tipo": "img",
+   "ini": 18552,
+   "fin": 18557,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18559,
+   "fin": 18590
+  },
+  {
+   "tipo": "work",
+   "ini": 18559,
+   "fin": 18583,
+   "rasgos": {
+    "type": "photograph, soundArt"
+   },
+   "texto": "Pisada, 2012\nArte sonoro"
+  },
+  {
+   "tipo": "title",
+   "ini": 18559,
+   "fin": 18565,
+   "texto": "Pisada"
+  },
+  {
+   "tipo": "date",
+   "ini": 18567,
+   "fin": 18571,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18572,
+   "fin": 18583,
+   "rasgos": {
+    "type": "soundArt"
+   },
+   "texto": "Arte sonoro"
+  },
+  {
+   "tipo": "img",
+   "ini": 18585,
+   "fin": 18590,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 18592,
+   "fin": 19263
+  },
+  {
+   "tipo": "title",
+   "ini": 18598,
+   "fin": 18604,
+   "texto": "Pisada"
+  },
+  {
+   "tipo": "title",
+   "ini": 18610,
+   "fin": 18617,
+   "texto": "Aplauso"
+  },
+  {
+   "tipo": "person",
+   "ini": 19117,
+   "fin": 19133,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Isaac Silva"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19117,
+   "fin": 19133,
+   "texto": "Juan Isaac Silva"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 19266,
+   "fin": 22714
+  },
+  {
+   "tipo": "person",
+   "ini": 19266,
+   "fin": 19280,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vicente Marzal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19266,
+   "fin": 19280,
+   "texto": "Vicente Marzal"
+  },
+  {
+   "tipo": "text",
+   "ini": 19282,
+   "fin": 20478
+  },
+  {
+   "tipo": "person",
+   "ini": 19282,
+   "fin": 19289,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vicente"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19282,
+   "fin": 19289,
+   "texto": "Vicente"
+  },
+  {
+   "tipo": "person",
+   "ini": 19772,
+   "fin": 19779,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vicente"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19772,
+   "fin": 19779,
+   "texto": "Vicente"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 20354,
+   "fin": 20373,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 20365,
+   "fin": 20373,
+   "texto": "Par XIII"
+  },
+  {
+   "tipo": "title",
+   "ini": 20462,
+   "fin": 20477,
+   "texto": "Sonido\nEnredado"
+  },
+  {
+   "tipo": "img",
+   "ini": 20480,
+   "fin": 20486,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20487,
+   "fin": 21056
+  },
+  {
+   "tipo": "work",
+   "ini": 20487,
+   "fin": 20532,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Gramófono, 2014\n30 x 20 cm\nMarmolina y espray"
+  },
+  {
+   "tipo": "title",
+   "ini": 20487,
+   "fin": 20496,
+   "texto": "Gramófono"
+  },
+  {
+   "tipo": "date",
+   "ini": 20498,
+   "fin": 20502,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20503,
+   "fin": 20513,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 20 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20503,
+   "fin": 20505,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 20508,
+   "fin": 20510,
+   "texto": "20"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20514,
+   "fin": 20532,
+   "rasgos": {
+    "type": "marble, spray"
+   },
+   "texto": "Marmolina y espray"
+  },
+  {
+   "tipo": "img",
+   "ini": 20534,
+   "fin": 20539,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 20541,
+   "fin": 21056
+  },
+  {
+   "tipo": "title",
+   "ini": 20541,
+   "fin": 20555,
+   "texto": "Gramófono rojo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21058,
+   "fin": 21741
+  },
+  {
+   "tipo": "work",
+   "ini": 21058,
+   "fin": 21126,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Agua cambiante, 2015\n150 x 120 cm\nAcrílico, rotulador, espray brillo"
+  },
+  {
+   "tipo": "title",
+   "ini": 21058,
+   "fin": 21072,
+   "texto": "Agua cambiante"
+  },
+  {
+   "tipo": "date",
+   "ini": 21074,
+   "fin": 21078,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21079,
+   "fin": 21091,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150 x 120 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21079,
+   "fin": 21082,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 21085,
+   "fin": 21088,
+   "texto": "120"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21092,
+   "fin": 21126,
+   "rasgos": {
+    "type": "acrylic, feltTipPen, spray"
+   },
+   "texto": "Acrílico, rotulador, espray brillo"
+  },
+  {
+   "tipo": "img",
+   "ini": 21128,
+   "fin": 21133,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 21135,
+   "fin": 21741
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21744,
+   "fin": 22714
+  },
+  {
+   "tipo": "work",
+   "ini": 21744,
+   "fin": 21819,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sonido enredado, 2021\n162 x 114 cm\nAcrílico, óleo, rotulador, espray brillo"
+  },
+  {
+   "tipo": "title",
+   "ini": 21744,
+   "fin": 21759,
+   "texto": "Sonido enredado"
+  },
+  {
+   "tipo": "date",
+   "ini": 21761,
+   "fin": 21765,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21766,
+   "fin": 21778,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "162 x 114 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21766,
+   "fin": 21769,
+   "texto": "162"
+  },
+  {
+   "tipo": "width",
+   "ini": 21772,
+   "fin": 21775,
+   "texto": "114"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21779,
+   "fin": 21819,
+   "rasgos": {
+    "type": "acrylic, oil, feltTipPen, spray"
+   },
+   "texto": "Acrílico, óleo, rotulador, espray brillo"
+  },
+  {
+   "tipo": "img",
+   "ini": 21821,
+   "fin": 21826,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 21828,
+   "fin": 22714
+  },
+  {
+   "tipo": "person",
+   "ini": 22228,
+   "fin": 22234,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Marzal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22228,
+   "fin": 22234,
+   "texto": "Marzal"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 22717,
+   "fin": 23248,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 22717,
+   "fin": 22839,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Universidad de Oviedo\n\nSala de Exposiciones del Edificio\nHistórico de la Universidad de Oviedo\n(San Francisco, 1 - Oviedo)"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 22732,
+   "fin": 22738,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Oviedo"
+  },
+  {
+   "tipo": "venue",
+   "ini": 22740,
+   "fin": 22773,
+   "texto": "Sala de Exposiciones del Edificio"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 22805,
+   "fin": 22811,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Oviedo"
+  },
+  {
+   "tipo": "address",
+   "ini": 22812,
+   "fin": 22839,
+   "texto": "(San Francisco, 1 - Oviedo)"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 22832,
+   "fin": 22838,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Oviedo"
+  },
+  {
+   "tipo": "date",
+   "ini": 22840,
+   "fin": 22879,
+   "rasgos": {
+    "from": "2021-07-21",
+    "to": "2021-08-22"
+   },
+   "texto": "Del 21 de Julio al 22 de Agosto de 2021"
+  },
+  {
+   "tipo": "person",
+   "ini": 23042,
+   "fin": 23060,
+   "rasgos": {
+    "role": "collaborator"
+   },
+   "texto": "Andrea Muñoz Soler"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23042,
+   "fin": 23060,
+   "texto": "Andrea Muñoz Soler"
+  },
+  {
+   "tipo": "person",
+   "ini": 23061,
+   "fin": 23087,
+   "rasgos": {
+    "role": "collaborator"
+   },
+   "texto": "Danko Andrés Guerra Molina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23061,
+   "fin": 23087,
+   "texto": "Danko Andrés Guerra Molina"
+  },
+  {
+   "tipo": "person",
+   "ini": 23088,
+   "fin": 23106,
+   "rasgos": {
+    "role": "collaborator"
+   },
+   "texto": "Daniel Gayo Avello"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23088,
+   "fin": 23106,
+   "texto": "Daniel Gayo Avello"
+  },
+  {
+   "tipo": "person",
+   "ini": 23107,
+   "fin": 23128,
+   "rasgos": {
+    "role": "collaborator"
+   },
+   "texto": "Enol Junquera Álvarez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23107,
+   "fin": 23128,
+   "texto": "Enol Junquera Álvarez"
+  },
+  {
+   "tipo": "person",
+   "ini": 23129,
+   "fin": 23152,
+   "rasgos": {
+    "role": "collaborator"
+   },
+   "texto": "Gerardo Quiroga Álvarez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23129,
+   "fin": 23152,
+   "texto": "Gerardo Quiroga Álvarez"
+  },
+  {
+   "tipo": "person",
+   "ini": 23153,
+   "fin": 23174,
+   "rasgos": {
+    "role": "collaborator"
+   },
+   "texto": "Jordán Pascual Espada"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23153,
+   "fin": 23174,
+   "texto": "Jordán Pascual Espada"
+  },
+  {
+   "tipo": "person",
+   "ini": 23175,
+   "fin": 23195,
+   "rasgos": {
+    "role": "collaborator"
+   },
+   "texto": "José Quiroga Álvarez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23175,
+   "fin": 23195,
+   "texto": "José Quiroga Álvarez"
+  },
+  {
+   "tipo": "person",
+   "ini": 23196,
+   "fin": 23209,
+   "rasgos": {
+    "role": "collaborator"
+   },
+   "texto": "Maite Barrera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23196,
+   "fin": 23209,
+   "texto": "Maite Barrera"
+  },
+  {
+   "tipo": "person",
+   "ini": 23210,
+   "fin": 23230,
+   "rasgos": {
+    "role": "collaborator"
+   },
+   "texto": "Miguel Riesco Albizu"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23210,
+   "fin": 23230,
+   "texto": "Miguel Riesco Albizu"
+  },
+  {
+   "tipo": "person",
+   "ini": 23231,
+   "fin": 23248,
+   "rasgos": {
+    "role": "collaborator"
+   },
+   "texto": "Moisés Cima Villa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23231,
+   "fin": 23248,
+   "texto": "Moisés Cima Villa"
+  }
+ ]
+}

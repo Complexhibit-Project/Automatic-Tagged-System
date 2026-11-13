@@ -1,0 +1,2019 @@
+{
+ "id": "cat_007_14_2016_02_22_catalogo_justmad",
+ "nombre_original": "14-2016-02-22-catalogo justmad",
+ "longitud_texto": 4387,
+ "sha256_texto": "118a8bcc9cd00e0ade61165668c7194bd85316526673d2941a752be77c9aa0aa",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 23,
+   "fin": 1190,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 23,
+   "fin": 58,
+   "texto": "JUSTMAD7 / FACULTAD DE BELLAS ARTES"
+  },
+  {
+   "tipo": "venue",
+   "ini": 34,
+   "fin": 58,
+   "texto": "FACULTAD DE BELLAS ARTES"
+  },
+  {
+   "tipo": "institution",
+   "ini": 34,
+   "fin": 58,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "FACULTAD DE BELLAS ARTES"
+  },
+  {
+   "tipo": "person",
+   "ini": 60,
+   "fin": 79,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Llorente Sanz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 60,
+   "fin": 79,
+   "texto": "David Llorente Sanz"
+  },
+  {
+   "tipo": "person",
+   "ini": 80,
+   "fin": 101,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sara Cavero Gutiérrez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 80,
+   "fin": 101,
+   "texto": "Sara Cavero Gutiérrez"
+  },
+  {
+   "tipo": "person",
+   "ini": 102,
+   "fin": 116,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Tamara Jacquin"
+  },
+  {
+   "tipo": "persName",
+   "ini": 102,
+   "fin": 116,
+   "texto": "Tamara Jacquin"
+  },
+  {
+   "tipo": "person",
+   "ini": 117,
+   "fin": 130,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Amaia Salazar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 117,
+   "fin": 130,
+   "texto": "Amaia Salazar"
+  },
+  {
+   "tipo": "person",
+   "ini": 131,
+   "fin": 146,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mia Coll Mariné"
+  },
+  {
+   "tipo": "persName",
+   "ini": 131,
+   "fin": 146,
+   "texto": "Mia Coll Mariné"
+  },
+  {
+   "tipo": "person",
+   "ini": 147,
+   "fin": 167,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Estela Isabel Cortés"
+  },
+  {
+   "tipo": "persName",
+   "ini": 147,
+   "fin": 167,
+   "texto": "Estela Isabel Cortés"
+  },
+  {
+   "tipo": "person",
+   "ini": 168,
+   "fin": 188,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chema Ledrado García"
+  },
+  {
+   "tipo": "persName",
+   "ini": 168,
+   "fin": 188,
+   "texto": "Chema Ledrado García"
+  },
+  {
+   "tipo": "person",
+   "ini": 189,
+   "fin": 198,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Coco Moya"
+  },
+  {
+   "tipo": "persName",
+   "ini": 189,
+   "fin": 198,
+   "texto": "Coco Moya"
+  },
+  {
+   "tipo": "person",
+   "ini": 199,
+   "fin": 220,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Marcos Abella Serrano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 199,
+   "fin": 220,
+   "texto": "Marcos Abella Serrano"
+  },
+  {
+   "tipo": "person",
+   "ini": 221,
+   "fin": 234,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Shirin Salehi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 221,
+   "fin": 234,
+   "texto": "Shirin Salehi"
+  },
+  {
+   "tipo": "person",
+   "ini": 235,
+   "fin": 261,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Raquel Hernández Izquierdo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 235,
+   "fin": 261,
+   "texto": "Raquel Hernández Izquierdo"
+  },
+  {
+   "tipo": "person",
+   "ini": 262,
+   "fin": 273,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Laura Ramis"
+  },
+  {
+   "tipo": "persName",
+   "ini": 262,
+   "fin": 273,
+   "texto": "Laura Ramis"
+  },
+  {
+   "tipo": "person",
+   "ini": 274,
+   "fin": 293,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paula Valdeón Lemus"
+  },
+  {
+   "tipo": "persName",
+   "ini": 274,
+   "fin": 293,
+   "texto": "Paula Valdeón Lemus"
+  },
+  {
+   "tipo": "person",
+   "ini": 294,
+   "fin": 318,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sandra Val & Lucio Zurdo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 294,
+   "fin": 304,
+   "texto": "Sandra Val"
+  },
+  {
+   "tipo": "persName",
+   "ini": 307,
+   "fin": 318,
+   "texto": "Lucio Zurdo"
+  },
+  {
+   "tipo": "person",
+   "ini": 319,
+   "fin": 338,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge Pérez Higuera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 319,
+   "fin": 338,
+   "texto": "Jorge Pérez Higuera"
+  },
+  {
+   "tipo": "person",
+   "ini": 339,
+   "fin": 362,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Rodríguez Lozano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 339,
+   "fin": 362,
+   "texto": "Javier Rodríguez Lozano"
+  },
+  {
+   "tipo": "person",
+   "ini": 363,
+   "fin": 386,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rigoberto Camacho Pérez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 363,
+   "fin": 386,
+   "texto": "Rigoberto Camacho Pérez"
+  },
+  {
+   "tipo": "person",
+   "ini": 387,
+   "fin": 405,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lidia Orán Llarena"
+  },
+  {
+   "tipo": "persName",
+   "ini": 387,
+   "fin": 405,
+   "texto": "Lidia Orán Llarena"
+  },
+  {
+   "tipo": "person",
+   "ini": 406,
+   "fin": 427,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Tania Tsong de O’Pazo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 406,
+   "fin": 427,
+   "texto": "Tania Tsong de O’Pazo"
+  },
+  {
+   "tipo": "venue",
+   "ini": 445,
+   "fin": 511,
+   "texto": "Sala de exposiciones del\nvestíbulo de la Facultad de Bellas Artes."
+  },
+  {
+   "tipo": "institution",
+   "ini": 486,
+   "fin": 510,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Facultad de Bellas Artes"
+  },
+  {
+   "tipo": "date",
+   "ini": 520,
+   "fin": 552,
+   "rasgos": {
+    "from": "2016-02-19",
+    "to": "2016-02-26"
+   },
+   "texto": "Del 19 al 26 de febrero de 2016."
+  },
+  {
+   "tipo": "date",
+   "ini": 567,
+   "fin": 577,
+   "rasgos": {
+    "when": "2016-02-19"
+   },
+   "texto": "viernes 19"
+  },
+  {
+   "tipo": "address",
+   "ini": 601,
+   "fin": 629,
+   "texto": "C/ Pintor el Greco 2, Madrid"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 623,
+   "fin": 629,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "venue",
+   "ini": 677,
+   "fin": 699,
+   "texto": "Stand BBAA UCM Nº 3.22"
+  },
+  {
+   "tipo": "title",
+   "ini": 700,
+   "fin": 722,
+   "texto": "FERIA DE ARTE JUSTMAD7"
+  },
+  {
+   "tipo": "institution",
+   "ini": 725,
+   "fin": 729,
+   "rasgos": {
+    "role": "organiser"
+   },
+   "texto": "COAM"
+  },
+  {
+   "tipo": "address",
+   "ini": 742,
+   "fin": 785,
+   "texto": "C/ Hortaleza 63, distrito Centro de Madrid."
+  },
+  {
+   "tipo": "placeName",
+   "ini": 778,
+   "fin": 784,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "date",
+   "ini": 814,
+   "fin": 827,
+   "rasgos": {
+    "when": "2016-02-23"
+   },
+   "texto": "23 de febrero"
+  },
+  {
+   "tipo": "date",
+   "ini": 837,
+   "fin": 868,
+   "rasgos": {
+    "from": "2016-02-24",
+    "to": "2016-02-28"
+   },
+   "texto": "Del 24 al 28 de febrero de 2016"
+  },
+  {
+   "tipo": "date",
+   "ini": 884,
+   "fin": 891,
+   "rasgos": {
+    "from": "2016-02-24",
+    "to": "2016-02-25"
+   },
+   "texto": "24 y 25"
+  },
+  {
+   "tipo": "date",
+   "ini": 912,
+   "fin": 919,
+   "rasgos": {
+    "from": "2016-02-26",
+    "to": "2016-02-27"
+   },
+   "texto": "26 y 27"
+  },
+  {
+   "tipo": "date",
+   "ini": 939,
+   "fin": 941,
+   "rasgos": {
+    "when": "2016-02-28"
+   },
+   "texto": "28"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1006,
+   "fin": 1030,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Facultad de Bellas Artes"
+  },
+  {
+   "tipo": "person",
+   "ini": 1063,
+   "fin": 1073,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "Xana Kahle"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1063,
+   "fin": 1073,
+   "texto": "Xana Kahle"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1196,
+   "fin": 1260,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Facultad de Bellas Artes de la Universidad Complutense de Madrid"
+  },
+  {
+   "tipo": "venue",
+   "ini": 1196,
+   "fin": 1220,
+   "texto": "Facultad de Bellas Artes"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1254,
+   "fin": 1260,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1725,
+   "fin": 1821,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "venue",
+   "ini": 1765,
+   "fin": 1789,
+   "texto": "Facultad de Bellas Artes"
+  },
+  {
+   "tipo": "venue",
+   "ini": 1795,
+   "fin": 1821,
+   "texto": "Stand en la feria Justmad7"
+  },
+  {
+   "tipo": "title",
+   "ini": 1807,
+   "fin": 1821,
+   "texto": "feria Justmad7"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 1967,
+   "fin": 4387
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1967,
+   "fin": 2032
+  },
+  {
+   "tipo": "work",
+   "ini": 1967,
+   "fin": 2027,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "David Llorente Sanz\nMujer de hierro\nHierro 30 x 30 x 55 cm.\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 1967,
+   "fin": 1986,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Llorente Sanz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1967,
+   "fin": 1986,
+   "texto": "David Llorente Sanz"
+  },
+  {
+   "tipo": "title",
+   "ini": 1987,
+   "fin": 2002,
+   "texto": "Mujer de hierro"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2003,
+   "fin": 2009,
+   "rasgos": {
+    "type": "iron"
+   },
+   "texto": "Hierro"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2010,
+   "fin": 2025,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 30 x 55 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2010,
+   "fin": 2012,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 2015,
+   "fin": 2017,
+   "texto": "30"
+  },
+  {
+   "tipo": "depth",
+   "ini": 2020,
+   "fin": 2022,
+   "texto": "55"
+  },
+  {
+   "tipo": "img",
+   "ini": 2027,
+   "fin": 2032,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2034,
+   "fin": 2131
+  },
+  {
+   "tipo": "work",
+   "ini": 2034,
+   "fin": 2126,
+   "rasgos": {
+    "type": "print"
+   },
+   "texto": "Sara Cavero Gutiérrez\nTodo lo que nunca dije\nImpresión en metacrilato transparente\n80x53 cm\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 2034,
+   "fin": 2055,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sara Cavero Gutiérrez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2034,
+   "fin": 2055,
+   "texto": "Sara Cavero Gutiérrez"
+  },
+  {
+   "tipo": "title",
+   "ini": 2056,
+   "fin": 2078,
+   "texto": "Todo lo que nunca dije"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2079,
+   "fin": 2116,
+   "rasgos": {
+    "type": "print"
+   },
+   "texto": "Impresión en metacrilato transparente"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2117,
+   "fin": 2126,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80x53 cm\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 2117,
+   "fin": 2119,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 2120,
+   "fin": 2122,
+   "texto": "53"
+  },
+  {
+   "tipo": "img",
+   "ini": 2126,
+   "fin": 2131,
+   "rasgos": {
+    "color": "true",
+    "size": "medium",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2133,
+   "fin": 2289
+  },
+  {
+   "tipo": "work",
+   "ini": 2133,
+   "fin": 2262,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Tamara Jacquin\nArquitectura Corporal III: Forma nº6\nFotografía a color impresa en papel\nMuseo Baryta Stain Photo 310gr.\n50x50cm.\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 2133,
+   "fin": 2147,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Tamara Jacquin"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2133,
+   "fin": 2147,
+   "texto": "Tamara Jacquin"
+  },
+  {
+   "tipo": "title",
+   "ini": 2148,
+   "fin": 2184,
+   "texto": "Arquitectura Corporal III: Forma nº6"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2185,
+   "fin": 2252,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía a color impresa en papel\nMuseo Baryta Stain Photo 310gr."
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2253,
+   "fin": 2260,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50x50cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2253,
+   "fin": 2255,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 2256,
+   "fin": 2258,
+   "texto": "50"
+  },
+  {
+   "tipo": "img",
+   "ini": 2262,
+   "fin": 2267,
+   "rasgos": {
+    "color": "true",
+    "size": "medium",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2291,
+   "fin": 2438
+  },
+  {
+   "tipo": "work",
+   "ini": 2291,
+   "fin": 2412,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Amaia Salazar\nObra X - Proyecto Incubus: Entre el Sueño y la Vigilia\nFotografía digital sobre Dibond\n80 x 130 cm Ed. 1/4\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 2291,
+   "fin": 2304,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Amaia Salazar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2291,
+   "fin": 2304,
+   "texto": "Amaia Salazar"
+  },
+  {
+   "tipo": "title",
+   "ini": 2305,
+   "fin": 2359,
+   "texto": "Obra X - Proyecto Incubus: Entre el Sueño y la Vigilia"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2360,
+   "fin": 2391,
+   "rasgos": {
+    "type": "digitalPhotograph"
+   },
+   "texto": "Fotografía digital sobre Dibond"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2392,
+   "fin": 2403,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80 x 130 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2392,
+   "fin": 2394,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 2397,
+   "fin": 2400,
+   "texto": "130"
+  },
+  {
+   "tipo": "img",
+   "ini": 2412,
+   "fin": 2417,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2440,
+   "fin": 2604
+  },
+  {
+   "tipo": "work",
+   "ini": 2440,
+   "fin": 2573,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Mia Coll Marinév\nHabitar la sombra\nFotografía digital. Impresión pigmentaria sobre papel Hahnemühle\nPhoto Rag 308 gr\n29,7 cm x 21 cm\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 2440,
+   "fin": 2456,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mia Coll Marinév"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2440,
+   "fin": 2456,
+   "texto": "Mia Coll Marinév"
+  },
+  {
+   "tipo": "title",
+   "ini": 2457,
+   "fin": 2474,
+   "texto": "Habitar la sombra"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2475,
+   "fin": 2556,
+   "rasgos": {
+    "type": "digitalPhotograph"
+   },
+   "texto": "Fotografía digital. Impresión pigmentaria sobre papel Hahnemühle\nPhoto Rag 308 gr"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2557,
+   "fin": 2573,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29,7 cm x 21 cm\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 2557,
+   "fin": 2561,
+   "texto": "29,7"
+  },
+  {
+   "tipo": "width",
+   "ini": 2567,
+   "fin": 2569,
+   "texto": "21"
+  },
+  {
+   "tipo": "img",
+   "ini": 2573,
+   "fin": 2578,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2606,
+   "fin": 2681
+  },
+  {
+   "tipo": "work",
+   "ini": 2606,
+   "fin": 2676,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Estela Isabel Cortés\nTeaser\nTécnica mixta sobre papel tintado\n50x70cm\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 2606,
+   "fin": 2626,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Estela Isabel Cortés"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2606,
+   "fin": 2626,
+   "texto": "Estela Isabel Cortés"
+  },
+  {
+   "tipo": "title",
+   "ini": 2627,
+   "fin": 2633,
+   "texto": "Teaser"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2634,
+   "fin": 2667,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre papel tintado"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2668,
+   "fin": 2676,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50x70cm\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 2668,
+   "fin": 2670,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 2671,
+   "fin": 2673,
+   "texto": "70"
+  },
+  {
+   "tipo": "img",
+   "ini": 2676,
+   "fin": 2681,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2683,
+   "fin": 2868
+  },
+  {
+   "tipo": "work",
+   "ini": 2683,
+   "fin": 2863,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Chema Ledrado García\nBiblioteca de las Escuelas Pías de Madrid\nFotografía estenopeica (nº12) positivada por contacto en papel baritado. 10 días de toma ininterrumpida\n50 x 60 cms.\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 2683,
+   "fin": 2703,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chema Ledrado García"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2683,
+   "fin": 2703,
+   "texto": "Chema Ledrado García"
+  },
+  {
+   "tipo": "title",
+   "ini": 2704,
+   "fin": 2745,
+   "texto": "Biblioteca de las Escuelas Pías de Madrid"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2746,
+   "fin": 2849,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía estenopeica (nº12) positivada por contacto en papel baritado. 10 días de toma ininterrumpida"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2850,
+   "fin": 2861,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 60 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 2850,
+   "fin": 2852,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 2855,
+   "fin": 2857,
+   "texto": "60"
+  },
+  {
+   "tipo": "img",
+   "ini": 2863,
+   "fin": 2868,
+   "rasgos": {
+    "color": "true",
+    "size": "medium",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2870,
+   "fin": 2985
+  },
+  {
+   "tipo": "work",
+   "ini": 2870,
+   "fin": 2963,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Coco Moya\nEl castillo de Kafka\nFotografía digital impresa a color sobre Basik 240gr.\n50x70cm\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 2870,
+   "fin": 2879,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Coco Moya"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2870,
+   "fin": 2879,
+   "texto": "Coco Moya"
+  },
+  {
+   "tipo": "title",
+   "ini": 2880,
+   "fin": 2900,
+   "texto": "El castillo de Kafka"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2901,
+   "fin": 2954,
+   "rasgos": {
+    "type": "digitalPhotograph"
+   },
+   "texto": "Fotografía digital impresa a color sobre Basik 240gr."
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2955,
+   "fin": 2963,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50x70cm\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 2955,
+   "fin": 2957,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 2958,
+   "fin": 2960,
+   "texto": "70"
+  },
+  {
+   "tipo": "img",
+   "ini": 2963,
+   "fin": 2968,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2987,
+   "fin": 3069
+  },
+  {
+   "tipo": "work",
+   "ini": 2987,
+   "fin": 3064,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Marcos Abella Serrano\nAmusement\nXilografía sobre papel Hahnemuhle\n53 X 77 cm\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 2987,
+   "fin": 3008,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Marcos Abella Serrano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2987,
+   "fin": 3008,
+   "texto": "Marcos Abella Serrano"
+  },
+  {
+   "tipo": "title",
+   "ini": 3009,
+   "fin": 3018,
+   "texto": "Amusement"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3019,
+   "fin": 3052,
+   "rasgos": {
+    "type": "xylography"
+   },
+   "texto": "Xilografía sobre papel Hahnemuhle"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3053,
+   "fin": 3064,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "53 X 77 cm\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 3053,
+   "fin": 3055,
+   "texto": "53"
+  },
+  {
+   "tipo": "width",
+   "ini": 3058,
+   "fin": 3060,
+   "texto": "77"
+  },
+  {
+   "tipo": "img",
+   "ini": 3064,
+   "fin": 3069,
+   "rasgos": {
+    "color": "true",
+    "size": "medium",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3071,
+   "fin": 3288
+  },
+  {
+   "tipo": "work",
+   "ini": 3071,
+   "fin": 3262,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Shirin Salehi\nLibro de artista\nAguafuerte y aguatinta sobre papel negro Somerset velvet 280 gr.,\ntexto sobre papel japonés Shin Inbe 30 gr.\nEdición de diez ejemplares\n28 cm x 38.5 cm x 2 cm.\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 3071,
+   "fin": 3084,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Shirin Salehi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3071,
+   "fin": 3084,
+   "texto": "Shirin Salehi"
+  },
+  {
+   "tipo": "title",
+   "ini": 3085,
+   "fin": 3101,
+   "texto": "Libro de artista"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3102,
+   "fin": 3210,
+   "rasgos": {
+    "type": "etching"
+   },
+   "texto": "Aguafuerte y aguatinta sobre papel negro Somerset velvet 280 gr.,\ntexto sobre papel japonés Shin Inbe 30 gr."
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 3211,
+   "fin": 3237
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3238,
+   "fin": 3260,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "28 cm x 38.5 cm x 2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3238,
+   "fin": 3240,
+   "texto": "28"
+  },
+  {
+   "tipo": "width",
+   "ini": 3246,
+   "fin": 3250,
+   "texto": "38.5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 3256,
+   "fin": 3257,
+   "texto": "2"
+  },
+  {
+   "tipo": "img",
+   "ini": 3262,
+   "fin": 3267,
+   "rasgos": {
+    "color": "true",
+    "size": "medium",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3290,
+   "fin": 3398
+  },
+  {
+   "tipo": "work",
+   "ini": 3290,
+   "fin": 3393,
+   "rasgos": {
+    "type": "print"
+   },
+   "texto": "Raquel Hernández Izquierdo\nFase III\nManera negra en Cobre.\nEstampado sobre papel de 65 cm de diámetro.\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 3290,
+   "fin": 3316,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Raquel Hernández Izquierdo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3290,
+   "fin": 3316,
+   "texto": "Raquel Hernández Izquierdo"
+  },
+  {
+   "tipo": "title",
+   "ini": 3317,
+   "fin": 3325,
+   "texto": "Fase III"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3326,
+   "fin": 3348,
+   "rasgos": {
+    "type": "print"
+   },
+   "texto": "Manera negra en Cobre."
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3374,
+   "fin": 3393,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 cm de diámetro.\n"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 3374,
+   "fin": 3376,
+   "texto": "65"
+  },
+  {
+   "tipo": "img",
+   "ini": 3393,
+   "fin": 3398,
+   "rasgos": {
+    "color": "true",
+    "size": "thumbnail",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3400,
+   "fin": 3527
+  },
+  {
+   "tipo": "work",
+   "ini": 3400,
+   "fin": 3503,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Laura Ramis\nGeometric Pattern I\nVinilo adhesivo sobre cartón pluma, metacrilato y cristal. 51 x 51 cm.\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 3400,
+   "fin": 3426,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Laura Ramis\nGeometric Patt"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3400,
+   "fin": 3411,
+   "texto": "Laura Ramis"
+  },
+  {
+   "tipo": "title",
+   "ini": 3412,
+   "fin": 3431,
+   "texto": "Geometric Pattern I"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3432,
+   "fin": 3489,
+   "rasgos": {
+    "type": "vynil"
+   },
+   "texto": "Vinilo adhesivo sobre cartón pluma, metacrilato y cristal"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3491,
+   "fin": 3503,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "51 x 51 cm.\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 3491,
+   "fin": 3493,
+   "texto": "51"
+  },
+  {
+   "tipo": "width",
+   "ini": 3496,
+   "fin": 3498,
+   "texto": "51"
+  },
+  {
+   "tipo": "img",
+   "ini": 3503,
+   "fin": 3508,
+   "rasgos": {
+    "color": "true",
+    "size": "medium",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3529,
+   "fin": 3600
+  },
+  {
+   "tipo": "work",
+   "ini": 3529,
+   "fin": 3595,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Paula Valdeón Lemus\nPrivacy Show. Serie I.\nTécnica mixta.\n20x28cm\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 3529,
+   "fin": 3548,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paula Valdeón Lemus"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3529,
+   "fin": 3548,
+   "texto": "Paula Valdeón Lemus"
+  },
+  {
+   "tipo": "title",
+   "ini": 3549,
+   "fin": 3571,
+   "texto": "Privacy Show. Serie I."
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 3563,
+   "fin": 3571
+  },
+  {
+   "tipo": "technique",
+   "ini": 3572,
+   "fin": 3586,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta."
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3587,
+   "fin": 3595,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20x28cm\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 3587,
+   "fin": 3589,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 3590,
+   "fin": 3592,
+   "texto": "28"
+  },
+  {
+   "tipo": "img",
+   "ini": 3595,
+   "fin": 3601,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3602,
+   "fin": 3786
+  },
+  {
+   "tipo": "work",
+   "ini": 3602,
+   "fin": 3735,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Sandra Val y Lucio Zurdo\nCaos y Catarsis. Figura 1\nMadera,vidrio, escayola cerámica, cráneo animal y cabello humano.\n110 x 46 x 15 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 3602,
+   "fin": 3626,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sandra Val y Lucio Zurdo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3602,
+   "fin": 3626,
+   "texto": "Sandra Val y Lucio Zurdo"
+  },
+  {
+   "tipo": "title",
+   "ini": 3627,
+   "fin": 3652,
+   "texto": "Caos y Catarsis. Figura 1"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3653,
+   "fin": 3718,
+   "rasgos": {
+    "type": "wood, glass, plaster, cercamic, bone, humanHair"
+   },
+   "texto": "Madera,vidrio, escayola cerámica, cráneo animal y cabello humano."
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3719,
+   "fin": 3736,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "110 x 46 x 15 cm\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 3719,
+   "fin": 3722,
+   "texto": "110"
+  },
+  {
+   "tipo": "width",
+   "ini": 3725,
+   "fin": 3727,
+   "texto": "46"
+  },
+  {
+   "tipo": "depth",
+   "ini": 3730,
+   "fin": 3732,
+   "texto": "15"
+  },
+  {
+   "tipo": "img",
+   "ini": 3736,
+   "fin": 3741,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3788,
+   "fin": 3940
+  },
+  {
+   "tipo": "work",
+   "ini": 3788,
+   "fin": 3914,
+   "rasgos": {
+    "type": "print"
+   },
+   "texto": "Jorge Perez Higuera\nSin título. Serie “The Other Side”\nImpresión cromogénica en papel Ilford\nGallerie Fibre Silk 310\n50x75 cm\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 3788,
+   "fin": 3807,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge Perez Higuera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3788,
+   "fin": 3807,
+   "texto": "Jorge Perez Higuera"
+  },
+  {
+   "tipo": "title",
+   "ini": 3808,
+   "fin": 3818,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 3820,
+   "fin": 3842
+  },
+  {
+   "tipo": "title",
+   "ini": 3826,
+   "fin": 3842,
+   "texto": "“The Other Side”"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3843,
+   "fin": 3880,
+   "rasgos": {
+    "type": "print"
+   },
+   "texto": "Impresión cromogénica en papel Ilford"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3881,
+   "fin": 3904,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Gallerie Fibre Silk 310"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3905,
+   "fin": 3914,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50x75 cm\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 3905,
+   "fin": 3907,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 3908,
+   "fin": 3910,
+   "texto": "75"
+  },
+  {
+   "tipo": "img",
+   "ini": 3914,
+   "fin": 3919,
+   "rasgos": {
+    "color": "true",
+    "size": "thumbnail",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3942,
+   "fin": 4055
+  },
+  {
+   "tipo": "work",
+   "ini": 3942,
+   "fin": 4009,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Javier Rodríguez Lozano\nFortress\ngrafito sobre madera\n125 x 150 cm\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 3942,
+   "fin": 3965,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Rodríguez Lozano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3942,
+   "fin": 3965,
+   "texto": "Javier Rodríguez Lozano"
+  },
+  {
+   "tipo": "title",
+   "ini": 3966,
+   "fin": 3974,
+   "texto": "Fortress"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3975,
+   "fin": 3995,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "grafito sobre madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3996,
+   "fin": 4009,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "125 x 150 cm\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 3996,
+   "fin": 3999,
+   "texto": "125"
+  },
+  {
+   "tipo": "width",
+   "ini": 4002,
+   "fin": 4005,
+   "texto": "150"
+  },
+  {
+   "tipo": "img",
+   "ini": 4009,
+   "fin": 4014,
+   "rasgos": {
+    "color": "true",
+    "size": "medium",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4057,
+   "fin": 4181
+  },
+  {
+   "tipo": "work",
+   "ini": 4057,
+   "fin": 4176,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Rigoberto Camacho\nPequeños sueños\nResina de poliester policromada, madera, masilla de carrocero y\nacrílicos.\n66x35x174\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 4057,
+   "fin": 4074,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rigoberto Camacho"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4057,
+   "fin": 4074,
+   "texto": "Rigoberto Camacho"
+  },
+  {
+   "tipo": "title",
+   "ini": 4075,
+   "fin": 4090,
+   "texto": "Pequeños sueños"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4091,
+   "fin": 4165,
+   "rasgos": {
+    "type": "resin, wood, acrylic"
+   },
+   "texto": "Resina de poliester policromada, madera, masilla de carrocero y\nacrílicos."
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4166,
+   "fin": 4176,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "66x35x174\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 4166,
+   "fin": 4168,
+   "texto": "66"
+  },
+  {
+   "tipo": "width",
+   "ini": 4169,
+   "fin": 4171,
+   "texto": "35"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4172,
+   "fin": 4181,
+   "texto": "174\n[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 4176,
+   "fin": 4181,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4183,
+   "fin": 4290
+  },
+  {
+   "tipo": "work",
+   "ini": 4183,
+   "fin": 4257,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Lidia Orán Llarena\nPresencia de ausencias\nFotografía digital\n10,5 x 15 cm\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 4183,
+   "fin": 4201,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lidia Orán Llarena"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4183,
+   "fin": 4201,
+   "texto": "Lidia Orán Llarena"
+  },
+  {
+   "tipo": "title",
+   "ini": 4202,
+   "fin": 4224,
+   "texto": "Presencia de ausencias"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4225,
+   "fin": 4243,
+   "rasgos": {
+    "type": "digitalPhotograph"
+   },
+   "texto": "Fotografía digital"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4244,
+   "fin": 4257,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "10,5 x 15 cm\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 4244,
+   "fin": 4248,
+   "texto": "10,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 4251,
+   "fin": 4253,
+   "texto": "15"
+  },
+  {
+   "tipo": "img",
+   "ini": 4257,
+   "fin": 4262,
+   "rasgos": {
+    "color": "true",
+    "size": "medium",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4292,
+   "fin": 4385
+  },
+  {
+   "tipo": "work",
+   "ini": 4292,
+   "fin": 4380,
+   "rasgos": {
+    "type": "textile"
+   },
+   "texto": "Tania Tsong de O´pazo\nIt’s a grand illusion\nTela, hilo y fideos sobre lienzo\n23 x 16 cm\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 4292,
+   "fin": 4313,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Tania Tsong de O´pazo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4292,
+   "fin": 4313,
+   "texto": "Tania Tsong de O´pazo"
+  },
+  {
+   "tipo": "title",
+   "ini": 4314,
+   "fin": 4335,
+   "texto": "It’s a grand illusion"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4336,
+   "fin": 4368,
+   "rasgos": {
+    "type": "thread, fabric"
+   },
+   "texto": "Tela, hilo y fideos sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4369,
+   "fin": 4380,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "23 x 16 cm\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 4369,
+   "fin": 4371,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 4374,
+   "fin": 4376,
+   "texto": "16"
+  },
+  {
+   "tipo": "img",
+   "ini": 4380,
+   "fin": 4385,
+   "rasgos": {
+    "color": "true",
+    "size": "thumbnail",
+    "src": "catalogue"
+   }
+  }
+ ]
+}

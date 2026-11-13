@@ -1,0 +1,1217 @@
+{
+ "id": "cat_020_7_catalogo_literal",
+ "nombre_original": "7. catalogo LITERAL",
+ "longitud_texto": 7102,
+ "sha256_texto": "e91f7802f89eb29b7bd4d61ab46a0b1b6f4d4a4598a775739b2c45c6587dc761",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 37,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 25,
+   "texto": "LITERAL\n\nMANUEL M. ROMERO"
+  },
+  {
+   "tipo": "person",
+   "ini": 9,
+   "fin": 25,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MANUEL M. ROMERO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9,
+   "fin": 25,
+   "texto": "MANUEL M. ROMERO"
+  },
+  {
+   "tipo": "institution",
+   "ini": 27,
+   "fin": 37,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Di Gallery"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 39,
+   "fin": 109,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 39,
+   "fin": 63,
+   "texto": "LITERAL\nMANUEL M. ROMERO"
+  },
+  {
+   "tipo": "person",
+   "ini": 47,
+   "fin": 63,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MANUEL M. ROMERO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 47,
+   "fin": 63,
+   "texto": "MANUEL M. ROMERO"
+  },
+  {
+   "tipo": "person",
+   "ini": 81,
+   "fin": 90,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Juan Cruz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 81,
+   "fin": 90,
+   "texto": "Juan Cruz"
+  },
+  {
+   "tipo": "date",
+   "ini": 93,
+   "fin": 109,
+   "rasgos": {
+    "from": "2019-06-21",
+    "to": "2019-07-27"
+   },
+   "texto": "21/6 - 27/7 2019"
+  },
+  {
+   "tipo": "person",
+   "ini": 111,
+   "fin": 127,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel M. Romero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 111,
+   "fin": 127,
+   "texto": "Manuel M. Romero"
+  },
+  {
+   "tipo": "person",
+   "ini": 960,
+   "fin": 992,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel M. Romero (Sevilla, 1993)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 960,
+   "fin": 976,
+   "texto": "Manuel M. Romero"
+  },
+  {
+   "tipo": "birth",
+   "ini": 977,
+   "fin": 992
+  },
+  {
+   "tipo": "placeName",
+   "ini": 978,
+   "fin": 985,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "date",
+   "ini": 987,
+   "fin": 991,
+   "rasgos": {
+    "when": "1993"
+   },
+   "texto": "1993"
+  },
+  {
+   "tipo": "person",
+   "ini": 1229,
+   "fin": 1241,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "el sevillano"
+  },
+  {
+   "tipo": "person",
+   "ini": 2165,
+   "fin": 2181,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel M. Romero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2165,
+   "fin": 2181,
+   "texto": "Manuel M. Romero"
+  },
+  {
+   "tipo": "person",
+   "ini": 2385,
+   "fin": 2395,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "el artista"
+  },
+  {
+   "tipo": "person",
+   "ini": 2627,
+   "fin": 2643,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel M. Romero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2627,
+   "fin": 2643,
+   "texto": "Manuel M. Romero"
+  },
+  {
+   "tipo": "person",
+   "ini": 3302,
+   "fin": 3318,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel M. Romero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3302,
+   "fin": 3318,
+   "texto": "Manuel M. Romero"
+  },
+  {
+   "tipo": "person",
+   "ini": 3426,
+   "fin": 3438,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "El sevillano"
+  },
+  {
+   "tipo": "person",
+   "ini": 4988,
+   "fin": 5004,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel M. Romero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4988,
+   "fin": 5004,
+   "texto": "Manuel M. Romero"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 5894,
+   "fin": 6661
+  },
+  {
+   "tipo": "title",
+   "ini": 5894,
+   "fin": 5901,
+   "texto": "LITERAL"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5903,
+   "fin": 5971
+  },
+  {
+   "tipo": "work",
+   "ini": 5903,
+   "fin": 5964,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "St.\nImprimación y cera sobre madera\n20x13 cm\n2019\n220 € + VAT"
+  },
+  {
+   "tipo": "title",
+   "ini": 5903,
+   "fin": 5906,
+   "texto": "St."
+  },
+  {
+   "tipo": "technique",
+   "ini": 5907,
+   "fin": 5938,
+   "rasgos": {
+    "type": "priming, crayon"
+   },
+   "texto": "Imprimación y cera sobre madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5939,
+   "fin": 5947,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20x13 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5939,
+   "fin": 5941,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 5942,
+   "fin": 5944,
+   "texto": "13"
+  },
+  {
+   "tipo": "date",
+   "ini": 5948,
+   "fin": 5952,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "price",
+   "ini": 5953,
+   "fin": 5964,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 5966,
+   "fin": 5971,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5973,
+   "fin": 6116
+  },
+  {
+   "tipo": "img",
+   "ini": 5973,
+   "fin": 5978,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 5979,
+   "fin": 5984,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 5985,
+   "fin": 5990,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 5991,
+   "fin": 5996,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5997,
+   "fin": 6116,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "St.\nÓleo, esmalte, ceras y spray sobre tela\nCera, spray y manchas del proceso sobre papel\n202x234 cm\n2019\n2.300 € + VAT"
+  },
+  {
+   "tipo": "title",
+   "ini": 5997,
+   "fin": 6000,
+   "texto": "St."
+  },
+  {
+   "tipo": "technique",
+   "ini": 6001,
+   "fin": 6086,
+   "rasgos": {
+    "type": "oil, glaze, crayon, spray"
+   },
+   "texto": "Óleo, esmalte, ceras y spray sobre tela\nCera, spray y manchas del proceso sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6087,
+   "fin": 6097,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "202x234 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6087,
+   "fin": 6090,
+   "texto": "202"
+  },
+  {
+   "tipo": "width",
+   "ini": 6091,
+   "fin": 6094,
+   "texto": "234"
+  },
+  {
+   "tipo": "date",
+   "ini": 6098,
+   "fin": 6102,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "price",
+   "ini": 6103,
+   "fin": 6116,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6118,
+   "fin": 6206
+  },
+  {
+   "tipo": "img",
+   "ini": 6118,
+   "fin": 6123,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6124,
+   "fin": 6201,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "St.\nSpray, óleo y lija desgastada sobre lienzo\n195x130 cm\n2018\n1.680 € + VAT\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 6124,
+   "fin": 6127,
+   "texto": "St."
+  },
+  {
+   "tipo": "technique",
+   "ini": 6128,
+   "fin": 6170,
+   "rasgos": {
+    "type": "spray, oil, sandpaper"
+   },
+   "texto": "Spray, óleo y lija desgastada sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6171,
+   "fin": 6181,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "195x130 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6171,
+   "fin": 6174,
+   "texto": "195"
+  },
+  {
+   "tipo": "width",
+   "ini": 6175,
+   "fin": 6178,
+   "texto": "130"
+  },
+  {
+   "tipo": "date",
+   "ini": 6182,
+   "fin": 6186,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "price",
+   "ini": 6187,
+   "fin": 6200,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6201,
+   "fin": 6206,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6208,
+   "fin": 6285
+  },
+  {
+   "tipo": "img",
+   "ini": 6208,
+   "fin": 6213,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6214,
+   "fin": 6273,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "St.\nÓleo y spray sobre lienzo\n195x130 cm\n2018\n1.680 € + VAT"
+  },
+  {
+   "tipo": "title",
+   "ini": 6214,
+   "fin": 6217,
+   "texto": "St."
+  },
+  {
+   "tipo": "technique",
+   "ini": 6218,
+   "fin": 6243,
+   "rasgos": {
+    "type": "oil, spray"
+   },
+   "texto": "Óleo y spray sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6244,
+   "fin": 6254,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "195x130 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6244,
+   "fin": 6247,
+   "texto": "195"
+  },
+  {
+   "tipo": "width",
+   "ini": 6248,
+   "fin": 6251,
+   "texto": "130"
+  },
+  {
+   "tipo": "date",
+   "ini": 6255,
+   "fin": 6259,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "price",
+   "ini": 6260,
+   "fin": 6273,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6274,
+   "fin": 6279,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6280,
+   "fin": 6285,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6287,
+   "fin": 6374
+  },
+  {
+   "tipo": "img",
+   "ini": 6287,
+   "fin": 6292,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catallogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6293,
+   "fin": 6356,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "St.\nCera e imprimación sobre madera\n27x16,5 cm\n2019\n320 € + VAT"
+  },
+  {
+   "tipo": "title",
+   "ini": 6293,
+   "fin": 6296,
+   "texto": "St."
+  },
+  {
+   "tipo": "technique",
+   "ini": 6297,
+   "fin": 6328,
+   "rasgos": {
+    "type": "priming, crayon"
+   },
+   "texto": "Cera e imprimación sobre madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6329,
+   "fin": 6339,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27x16,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6329,
+   "fin": 6331,
+   "texto": "27"
+  },
+  {
+   "tipo": "width",
+   "ini": 6332,
+   "fin": 6336,
+   "texto": "16,5"
+  },
+  {
+   "tipo": "date",
+   "ini": 6340,
+   "fin": 6344,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "price",
+   "ini": 6345,
+   "fin": 6357,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6357,
+   "fin": 6362,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6363,
+   "fin": 6368,
+   "rasgos": {
+    "size": "medium",
+    "src": "catalogue",
+    "color ": "true"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6369,
+   "fin": 6374,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6376,
+   "fin": 6448
+  },
+  {
+   "tipo": "work",
+   "ini": 6376,
+   "fin": 6441,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "St.\nCera y spray sobre loneta cruda\n181x114 cm\n2019\n1.530 € + VAT"
+  },
+  {
+   "tipo": "title",
+   "ini": 6376,
+   "fin": 6379,
+   "texto": "St."
+  },
+  {
+   "tipo": "technique",
+   "ini": 6380,
+   "fin": 6411,
+   "rasgos": {
+    "type": "spray, crayon"
+   },
+   "texto": "Cera y spray sobre loneta cruda"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6412,
+   "fin": 6422,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "181x114 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6412,
+   "fin": 6415,
+   "texto": "181"
+  },
+  {
+   "tipo": "width",
+   "ini": 6416,
+   "fin": 6419,
+   "texto": "114"
+  },
+  {
+   "tipo": "date",
+   "ini": 6423,
+   "fin": 6427,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "price",
+   "ini": 6428,
+   "fin": 6441,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6442,
+   "fin": 6447,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6449,
+   "fin": 6529
+  },
+  {
+   "tipo": "img",
+   "ini": 6449,
+   "fin": 6454,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6455,
+   "fin": 6529,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "St.\nSpray, óleo, esmalte y ceras sobre lienzo\n162x97 cm\n2019\n1.370 € + VAT"
+  },
+  {
+   "tipo": "title",
+   "ini": 6455,
+   "fin": 6457,
+   "texto": "St"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6459,
+   "fin": 6500,
+   "rasgos": {
+    "type": "spray, oil, glaze, crayon"
+   },
+   "texto": "Spray, óleo, esmalte y ceras sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6501,
+   "fin": 6510,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "162x97 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6501,
+   "fin": 6504,
+   "texto": "162"
+  },
+  {
+   "tipo": "width",
+   "ini": 6505,
+   "fin": 6507,
+   "texto": "97"
+  },
+  {
+   "tipo": "date",
+   "ini": 6511,
+   "fin": 6515,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "price",
+   "ini": 6516,
+   "fin": 6529,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6531,
+   "fin": 6661
+  },
+  {
+   "tipo": "img",
+   "ini": 6531,
+   "fin": 6536,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6537,
+   "fin": 6542,
+   "rasgos": {
+    "color": "true",
+    "size": "medium",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6543,
+   "fin": 6548,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6549,
+   "fin": 6554,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6555,
+   "fin": 6560,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6561,
+   "fin": 6566,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6567,
+   "fin": 6572,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6573,
+   "fin": 6578,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6579,
+   "fin": 6584,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6585,
+   "fin": 6590,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6591,
+   "fin": 6656,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "St.\nDibujos sobre papel\n30x21 cm aprox.\n2019\n170 € + VAT unidad.\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 6591,
+   "fin": 6594,
+   "texto": "St."
+  },
+  {
+   "tipo": "technique",
+   "ini": 6595,
+   "fin": 6614,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Dibujos sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6615,
+   "fin": 6623,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30x21 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6615,
+   "fin": 6617,
+   "texto": "30"
+  },
+  {
+   "tipo": "date",
+   "ini": 6631,
+   "fin": 6635,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "price",
+   "ini": 6636,
+   "fin": 6655,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6656,
+   "fin": 6661,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 6663,
+   "fin": 7100,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 6663,
+   "fin": 6709,
+   "texto": "LITERAL EXPOSICIÓN INDIVIDUAL\nMANUEL M. ROMERO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6693,
+   "fin": 6709,
+   "texto": "MANUEL M. ROMERO"
+  },
+  {
+   "tipo": "person",
+   "ini": 6693,
+   "fin": 6709,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MANUEL M. ROMERO"
+  },
+  {
+   "tipo": "date",
+   "ini": 6711,
+   "fin": 6729,
+   "rasgos": {
+    "from": "2019-06-21",
+    "to": "2019-07-27"
+   },
+   "texto": "21/6 - 27/7 | 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 6731,
+   "fin": 6778,
+   "texto": "LITERAL\nExposición individual.\nManuel M. Romero"
+  },
+  {
+   "tipo": "person",
+   "ini": 6762,
+   "fin": 6778,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel M. Romero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6762,
+   "fin": 6778,
+   "texto": "Manuel M. Romero"
+  },
+  {
+   "tipo": "person",
+   "ini": 6792,
+   "fin": 6801,
+   "rasgos": {
+    "type": "exhibitionCurator"
+   },
+   "texto": "Juan Cruz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6792,
+   "fin": 6801,
+   "texto": "Juan Cruz"
+  },
+  {
+   "tipo": "person",
+   "ini": 6810,
+   "fin": 6834,
+   "rasgos": {
+    "type": "author"
+   },
+   "texto": "Carlos Delgado Mayordomo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6810,
+   "fin": 6834,
+   "texto": "Carlos Delgado Mayordomo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6861,
+   "fin": 6871,
+   "texto": "Juan Cruz "
+  },
+  {
+   "tipo": "person",
+   "ini": 6861,
+   "fin": 6870,
+   "rasgos": {
+    "role": "directorGallery"
+   },
+   "texto": "Juan Cruz"
+  },
+  {
+   "tipo": "person",
+   "ini": 6873,
+   "fin": 6888,
+   "rasgos": {
+    "role": "directorGallery"
+   },
+   "texto": "Santiago Bedoya"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6873,
+   "fin": 6888,
+   "texto": "Santiago Bedoya"
+  },
+  {
+   "tipo": "date",
+   "ini": 6897,
+   "fin": 6946,
+   "rasgos": {
+    "from": "2019-06-21",
+    "to": "2019-07-27"
+   },
+   "texto": "Desde el 21 de junio hasta el 27 de julio de 2019"
+  },
+  {
+   "tipo": "date",
+   "ini": 6965,
+   "fin": 6976,
+   "rasgos": {
+    "when": "2019-06-21"
+   },
+   "texto": "21 de junio"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6992,
+   "fin": 7100,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Calle Muro de los Navarros 66. 41003, Sevilla | 667 265 896 | www.diartgallery.com | holadigallery@gmail.com"
+  },
+  {
+   "tipo": "address",
+   "ini": 6992,
+   "fin": 7037,
+   "texto": "Calle Muro de los Navarros 66. 41003, Sevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7030,
+   "fin": 7037,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  }
+ ]
+}

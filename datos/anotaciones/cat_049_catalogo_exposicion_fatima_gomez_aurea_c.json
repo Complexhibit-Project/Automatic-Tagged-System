@@ -1,0 +1,2150 @@
+{
+ "id": "cat_049_catalogo_exposicion_fatima_gomez_aurea_c",
+ "nombre_original": "catalogo-exposicion-fatima-gomez-aurea-convento-capuchinos",
+ "longitud_texto": 5519,
+ "sha256_texto": "ae3ec8f6a1b919cf59328c213cf33d48b212c50c961bf5c01c3e37afceab77bb",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 108,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 24,
+   "texto": "Exposición\n\nFátima\nGómez"
+  },
+  {
+   "tipo": "person",
+   "ini": 12,
+   "fin": 24,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fátima\nGómez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12,
+   "fin": 24,
+   "texto": "Fátima\nGómez"
+  },
+  {
+   "tipo": "date",
+   "ini": 29,
+   "fin": 54,
+   "rasgos": {
+    "null": ""
+   },
+   "texto": "25 DE MARZO\nAL 29 DE MAYO"
+  },
+  {
+   "tipo": "venue",
+   "ini": 56,
+   "fin": 84,
+   "texto": "Áurea Convento Capuchinos 5*"
+  },
+  {
+   "tipo": "institution",
+   "ini": 86,
+   "fin": 108,
+   "rasgos": {
+    "type": "hotel",
+    "role": "organiser, host"
+   },
+   "texto": "Eurostars\nexposiciones"
+  },
+  {
+   "tipo": "institution",
+   "ini": 110,
+   "fin": 132,
+   "rasgos": {
+    "type": "hotel",
+    "role": "organiser, host"
+   },
+   "texto": "Eurostars\nExposiciones"
+  },
+  {
+   "tipo": "institution",
+   "ini": 189,
+   "fin": 201,
+   "rasgos": {
+    "type": "company",
+    "role": "organiser"
+   },
+   "texto": "Grupo Hotusa"
+  },
+  {
+   "tipo": "institution",
+   "ini": 368,
+   "fin": 384,
+   "rasgos": {
+    "type": "hotel",
+    "role": "organiser, host"
+   },
+   "texto": "Eurostars Hotels"
+  },
+  {
+   "tipo": "institution",
+   "ini": 705,
+   "fin": 721,
+   "rasgos": {
+    "type": "hotel",
+    "role": "organiser, host"
+   },
+   "texto": "Eurostars Hotels"
+  },
+  {
+   "tipo": "institution",
+   "ini": 841,
+   "fin": 853,
+   "rasgos": {
+    "type": "company",
+    "role": "organiser"
+   },
+   "texto": "Grupo Hotusa"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1038,
+   "fin": 1059,
+   "rasgos": {
+    "type": "hotel",
+    "role": "organiser, host"
+   },
+   "texto": "Eurostars Exhibitions"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1289,
+   "fin": 1305,
+   "rasgos": {
+    "type": "hotel",
+    "role": "organiser, host"
+   },
+   "texto": "Eurostars Hotels"
+  },
+  {
+   "tipo": "person",
+   "ini": 1391,
+   "fin": 1403,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fátima Gómez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1391,
+   "fin": 1403,
+   "texto": "Fátima Gómez"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1408,
+   "fin": 1463,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "venue",
+   "ini": 1432,
+   "fin": 1463,
+   "texto": "hotel Áurea Convento Capuchinos"
+  },
+  {
+   "tipo": "person",
+   "ini": 1788,
+   "fin": 1837,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nacida en Toledo en 1995, la artista Fátima Gómez"
+  },
+  {
+   "tipo": "birth",
+   "ini": 1788,
+   "fin": 1812
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1798,
+   "fin": 1804,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Toledo"
+  },
+  {
+   "tipo": "date",
+   "ini": 1808,
+   "fin": 1812,
+   "rasgos": {
+    "when": "1995"
+   },
+   "texto": "1995"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1825,
+   "fin": 1837,
+   "texto": "Fátima Gómez"
+  },
+  {
+   "tipo": "person",
+   "ini": 2071,
+   "fin": 2077,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fátima"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2071,
+   "fin": 2077,
+   "texto": "Fátima"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 2360,
+   "fin": 2689,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 2388,
+   "fin": 2400,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fátima Gómez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2388,
+   "fin": 2400,
+   "texto": "Fátima Gómez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2492,
+   "fin": 2504,
+   "rasgos": {
+    "type": "company",
+    "role": "organiser"
+   },
+   "texto": "Grupo Hotusa"
+  },
+  {
+   "tipo": "venue",
+   "ini": 2613,
+   "fin": 2658,
+   "texto": "hotel Áurea Convento Capuchinos 5* de Segovia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2651,
+   "fin": 2658,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Segovia"
+  },
+  {
+   "tipo": "date",
+   "ini": 2663,
+   "fin": 2688,
+   "texto": "25 de marzo\nal 29 de mayo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 2696,
+   "fin": 2749,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "venue",
+   "ini": 2718,
+   "fin": 2749,
+   "texto": "Hotel Áurea Convento Capuchinos"
+  },
+  {
+   "tipo": "person",
+   "ini": 2817,
+   "fin": 2829,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fátima Gómez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2817,
+   "fin": 2829,
+   "texto": "Fátima Gómez"
+  },
+  {
+   "tipo": "person",
+   "ini": 3042,
+   "fin": 3089,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Born in Toledo in 1995, the artist Fátima Gómez"
+  },
+  {
+   "tipo": "birth",
+   "ini": 3042,
+   "fin": 3064
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3050,
+   "fin": 3056,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Toledo"
+  },
+  {
+   "tipo": "date",
+   "ini": 3060,
+   "fin": 3064,
+   "rasgos": {
+    "when": "1995"
+   },
+   "texto": "1995"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3077,
+   "fin": 3089,
+   "texto": "Fátima Gómez"
+  },
+  {
+   "tipo": "person",
+   "ini": 3291,
+   "fin": 3297,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fátima"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3291,
+   "fin": 3297,
+   "texto": "Fátima"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 3562,
+   "fin": 3861,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 3591,
+   "fin": 3603,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fátima Gómez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3591,
+   "fin": 3603,
+   "texto": "Fátima Gómez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3675,
+   "fin": 3687,
+   "rasgos": {
+    "type": "company",
+    "role": "organiser"
+   },
+   "texto": "Hotusa Group"
+  },
+  {
+   "tipo": "venue",
+   "ini": 3791,
+   "fin": 3836,
+   "texto": "Áurea Convento Capuchinos 5*\nhotel in Segovia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3829,
+   "fin": 3836,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Segovia"
+  },
+  {
+   "tipo": "date",
+   "ini": 3837,
+   "fin": 3860,
+   "texto": "from 25 March to 29 May"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 3863,
+   "fin": 5341
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3863,
+   "fin": 3914
+  },
+  {
+   "tipo": "img",
+   "ini": 3863,
+   "fin": 3868,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3870,
+   "fin": 3914,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Brotes de nebulosa\n80 x 118\nFotografía\n250 €"
+  },
+  {
+   "tipo": "title",
+   "ini": 3870,
+   "fin": 3888,
+   "texto": "Brotes de nebulosa"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3889,
+   "fin": 3897,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80 x 118"
+  },
+  {
+   "tipo": "height",
+   "ini": 3889,
+   "fin": 3891,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 3894,
+   "fin": 3897,
+   "texto": "118"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3898,
+   "fin": 3908,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "price",
+   "ini": 3909,
+   "fin": 3914,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3916,
+   "fin": 3966
+  },
+  {
+   "tipo": "img",
+   "ini": 3916,
+   "fin": 3921,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3923,
+   "fin": 3966,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Difumino en verde\n80 x 118\nFotografía\n250 €"
+  },
+  {
+   "tipo": "title",
+   "ini": 3923,
+   "fin": 3940,
+   "texto": "Difumino en verde"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3941,
+   "fin": 3949,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80 x 118"
+  },
+  {
+   "tipo": "height",
+   "ini": 3941,
+   "fin": 3943,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 3946,
+   "fin": 3949,
+   "texto": "118"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3950,
+   "fin": 3960,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "price",
+   "ini": 3961,
+   "fin": 3966,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3968,
+   "fin": 4010
+  },
+  {
+   "tipo": "img",
+   "ini": 3968,
+   "fin": 3973,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3975,
+   "fin": 4010,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Espejismo\n118 x 80\nFotografía\n250 €"
+  },
+  {
+   "tipo": "title",
+   "ini": 3975,
+   "fin": 3984,
+   "texto": "Espejismo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3985,
+   "fin": 3993,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "118 x 80"
+  },
+  {
+   "tipo": "height",
+   "ini": 3985,
+   "fin": 3988,
+   "texto": "118"
+  },
+  {
+   "tipo": "width",
+   "ini": 3991,
+   "fin": 3993,
+   "texto": "80"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3994,
+   "fin": 4004,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "price",
+   "ini": 4005,
+   "fin": 4010,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4012,
+   "fin": 4063
+  },
+  {
+   "tipo": "img",
+   "ini": 4012,
+   "fin": 4017,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4019,
+   "fin": 4063,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Espesura Reflejada\n80 x 118\nFotografía\n250 €"
+  },
+  {
+   "tipo": "title",
+   "ini": 4019,
+   "fin": 4037,
+   "texto": "Espesura Reflejada"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4038,
+   "fin": 4046,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80 x 118"
+  },
+  {
+   "tipo": "height",
+   "ini": 4038,
+   "fin": 4040,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 4043,
+   "fin": 4046,
+   "texto": "118"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4047,
+   "fin": 4057,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "price",
+   "ini": 4058,
+   "fin": 4063,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4065,
+   "fin": 4107
+  },
+  {
+   "tipo": "img",
+   "ini": 4065,
+   "fin": 4070,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4072,
+   "fin": 4107,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Un origen\n80 x 118\nFotografía\n250 €"
+  },
+  {
+   "tipo": "title",
+   "ini": 4072,
+   "fin": 4081,
+   "texto": "Un origen"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4082,
+   "fin": 4090,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80 x 118"
+  },
+  {
+   "tipo": "height",
+   "ini": 4082,
+   "fin": 4084,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 4087,
+   "fin": 4090,
+   "texto": "118"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4091,
+   "fin": 4101,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "price",
+   "ini": 4102,
+   "fin": 4107,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4109,
+   "fin": 4153
+  },
+  {
+   "tipo": "img",
+   "ini": 4109,
+   "fin": 4114,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4116,
+   "fin": 4153,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Haces de Luz\n55 x 79\nFotografía\n150 €"
+  },
+  {
+   "tipo": "title",
+   "ini": 4116,
+   "fin": 4128,
+   "texto": "Haces de Luz"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4129,
+   "fin": 4136,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55 x 79"
+  },
+  {
+   "tipo": "height",
+   "ini": 4129,
+   "fin": 4131,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 4134,
+   "fin": 4136,
+   "texto": "79"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4137,
+   "fin": 4147,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "price",
+   "ini": 4148,
+   "fin": 4153,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4155,
+   "fin": 4203
+  },
+  {
+   "tipo": "img",
+   "ini": 4155,
+   "fin": 4160,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4162,
+   "fin": 4203,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Lámina Pantanosa\n55 x 79\nFotografía\n150 €"
+  },
+  {
+   "tipo": "title",
+   "ini": 4162,
+   "fin": 4178,
+   "texto": "Lámina Pantanosa"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4179,
+   "fin": 4186,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55 x 79"
+  },
+  {
+   "tipo": "height",
+   "ini": 4179,
+   "fin": 4181,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 4184,
+   "fin": 4186,
+   "texto": "79"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4187,
+   "fin": 4197,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "price",
+   "ini": 4198,
+   "fin": 4203,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4205,
+   "fin": 4276
+  },
+  {
+   "tipo": "img",
+   "ini": 4205,
+   "fin": 4210,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4212,
+   "fin": 4276,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Atardecer en el río Pusa\n41 x 27,5\nTinta china sobre papel\n150 €"
+  },
+  {
+   "tipo": "title",
+   "ini": 4212,
+   "fin": 4236,
+   "texto": "Atardecer en el río Pusa"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4237,
+   "fin": 4246,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 27,5"
+  },
+  {
+   "tipo": "height",
+   "ini": 4237,
+   "fin": 4239,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 4242,
+   "fin": 4246,
+   "texto": "27,5"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4247,
+   "fin": 4270,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre papel"
+  },
+  {
+   "tipo": "price",
+   "ini": 4271,
+   "fin": 4276,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4278,
+   "fin": 4341
+  },
+  {
+   "tipo": "img",
+   "ini": 4278,
+   "fin": 4283,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4285,
+   "fin": 4341,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Un paseo por Aranjuez\n41 x 28\nAcuarela sobre papel\n400 €"
+  },
+  {
+   "tipo": "title",
+   "ini": 4285,
+   "fin": 4306,
+   "texto": "Un paseo por Aranjuez"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4307,
+   "fin": 4314,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 28"
+  },
+  {
+   "tipo": "height",
+   "ini": 4307,
+   "fin": 4309,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 4312,
+   "fin": 4314,
+   "texto": "28"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4315,
+   "fin": 4335,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela sobre papel"
+  },
+  {
+   "tipo": "price",
+   "ini": 4336,
+   "fin": 4341,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4343,
+   "fin": 4411
+  },
+  {
+   "tipo": "img",
+   "ini": 4343,
+   "fin": 4348,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4350,
+   "fin": 4411,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Sobre el puente de la Isla\n32,5 x 39\nPastel sobre papel\n150 €"
+  },
+  {
+   "tipo": "title",
+   "ini": 4350,
+   "fin": 4376,
+   "texto": "Sobre el puente de la Isla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4377,
+   "fin": 4386,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32,5 x 39"
+  },
+  {
+   "tipo": "height",
+   "ini": 4377,
+   "fin": 4381,
+   "texto": "32,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 4384,
+   "fin": 4386,
+   "texto": "39"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4387,
+   "fin": 4405,
+   "rasgos": {
+    "type": "pastel"
+   },
+   "texto": "Pastel sobre papel"
+  },
+  {
+   "tipo": "price",
+   "ini": 4406,
+   "fin": 4411,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4413,
+   "fin": 4470
+  },
+  {
+   "tipo": "img",
+   "ini": 4413,
+   "fin": 4418,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4420,
+   "fin": 4470,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Contemplando el mar\n29 x 42\nÓleo sobre tabla\n400 €"
+  },
+  {
+   "tipo": "title",
+   "ini": 4420,
+   "fin": 4439,
+   "texto": "Contemplando el mar"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4440,
+   "fin": 4447,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29 x 42"
+  },
+  {
+   "tipo": "height",
+   "ini": 4440,
+   "fin": 4442,
+   "texto": "29"
+  },
+  {
+   "tipo": "width",
+   "ini": 4445,
+   "fin": 4447,
+   "texto": "42"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4448,
+   "fin": 4464,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "price",
+   "ini": 4465,
+   "fin": 4470,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4472,
+   "fin": 4517
+  },
+  {
+   "tipo": "img",
+   "ini": 4472,
+   "fin": 4477,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4479,
+   "fin": 4517,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Ester\n40 x 28\nPastel sobre papel\n150 €"
+  },
+  {
+   "tipo": "title",
+   "ini": 4479,
+   "fin": 4484,
+   "texto": "Ester"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4485,
+   "fin": 4492,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 28"
+  },
+  {
+   "tipo": "height",
+   "ini": 4485,
+   "fin": 4487,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 4490,
+   "fin": 4492,
+   "texto": "28"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4493,
+   "fin": 4511,
+   "rasgos": {
+    "type": "pastel"
+   },
+   "texto": "Pastel sobre papel"
+  },
+  {
+   "tipo": "price",
+   "ini": 4512,
+   "fin": 4517,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4519,
+   "fin": 4561
+  },
+  {
+   "tipo": "img",
+   "ini": 4519,
+   "fin": 4524,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4526,
+   "fin": 4561,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Dama\n29 x 42\nÓleo sobre tabla\n250 €"
+  },
+  {
+   "tipo": "title",
+   "ini": 4526,
+   "fin": 4530,
+   "texto": "Dama"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4531,
+   "fin": 4538,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29 x 42"
+  },
+  {
+   "tipo": "height",
+   "ini": 4531,
+   "fin": 4533,
+   "texto": "29"
+  },
+  {
+   "tipo": "width",
+   "ini": 4536,
+   "fin": 4538,
+   "texto": "42"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4539,
+   "fin": 4555,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "price",
+   "ini": 4556,
+   "fin": 4561,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4563,
+   "fin": 4612
+  },
+  {
+   "tipo": "img",
+   "ini": 4563,
+   "fin": 4568,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4570,
+   "fin": 4612,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Abuela\n32,5 x 50\nGouache sobre papel\n300 €"
+  },
+  {
+   "tipo": "title",
+   "ini": 4570,
+   "fin": 4576,
+   "texto": "Abuela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4577,
+   "fin": 4586,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32,5 x 50"
+  },
+  {
+   "tipo": "height",
+   "ini": 4577,
+   "fin": 4581,
+   "texto": "32,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 4584,
+   "fin": 4586,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4587,
+   "fin": 4606,
+   "rasgos": {
+    "type": "gouache"
+   },
+   "texto": "Gouache sobre papel"
+  },
+  {
+   "tipo": "price",
+   "ini": 4607,
+   "fin": 4612,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4614,
+   "fin": 4677
+  },
+  {
+   "tipo": "img",
+   "ini": 4614,
+   "fin": 4619,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4621,
+   "fin": 4677,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Adán, Eva y la amapola\n84 x 103\nPastel sobre tabla\n300 €"
+  },
+  {
+   "tipo": "title",
+   "ini": 4621,
+   "fin": 4643,
+   "texto": "Adán, Eva y la amapola"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4644,
+   "fin": 4652,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "84 x 103"
+  },
+  {
+   "tipo": "height",
+   "ini": 4644,
+   "fin": 4646,
+   "texto": "84"
+  },
+  {
+   "tipo": "width",
+   "ini": 4649,
+   "fin": 4652,
+   "texto": "103"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4653,
+   "fin": 4671,
+   "rasgos": {
+    "type": "pastel"
+   },
+   "texto": "Pastel sobre tabla"
+  },
+  {
+   "tipo": "price",
+   "ini": 4672,
+   "fin": 4677,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4679,
+   "fin": 4736
+  },
+  {
+   "tipo": "img",
+   "ini": 4679,
+   "fin": 4684,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4686,
+   "fin": 4736,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Híbrido\n70 x 70\nTécnica mixta sobre bastidor\n300 €"
+  },
+  {
+   "tipo": "title",
+   "ini": 4686,
+   "fin": 4693,
+   "texto": "Híbrido"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4694,
+   "fin": 4701,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 70"
+  },
+  {
+   "tipo": "height",
+   "ini": 4694,
+   "fin": 4696,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 4699,
+   "fin": 4701,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4702,
+   "fin": 4730,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre bastidor"
+  },
+  {
+   "tipo": "price",
+   "ini": 4731,
+   "fin": 4736,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4738,
+   "fin": 4792
+  },
+  {
+   "tipo": "img",
+   "ini": 4738,
+   "fin": 4743,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4745,
+   "fin": 4792,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Mate al peón\n81 x 116\nÓleo sobre lienzo\n1.100 €"
+  },
+  {
+   "tipo": "title",
+   "ini": 4745,
+   "fin": 4757,
+   "texto": "Mate al peón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4758,
+   "fin": 4766,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 116"
+  },
+  {
+   "tipo": "height",
+   "ini": 4758,
+   "fin": 4760,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 4763,
+   "fin": 4766,
+   "texto": "116"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4767,
+   "fin": 4784,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "price",
+   "ini": 4785,
+   "fin": 4792,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4794,
+   "fin": 4852
+  },
+  {
+   "tipo": "img",
+   "ini": 4794,
+   "fin": 4799,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4801,
+   "fin": 4852,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Marioneta dorada\n81 x 116\nÓleo sobre lienzo\n1.100 €"
+  },
+  {
+   "tipo": "title",
+   "ini": 4801,
+   "fin": 4817,
+   "texto": "Marioneta dorada"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4818,
+   "fin": 4826,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 116"
+  },
+  {
+   "tipo": "height",
+   "ini": 4818,
+   "fin": 4820,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 4823,
+   "fin": 4826,
+   "texto": "116"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4827,
+   "fin": 4844,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "price",
+   "ini": 4845,
+   "fin": 4852,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4854,
+   "fin": 4916
+  },
+  {
+   "tipo": "img",
+   "ini": 4854,
+   "fin": 4859,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4861,
+   "fin": 4916,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Muñecas en el olvido\n81 x 116\nÓleo sobre lienzo\n1.100 €"
+  },
+  {
+   "tipo": "title",
+   "ini": 4861,
+   "fin": 4881,
+   "texto": "Muñecas en el olvido"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4882,
+   "fin": 4890,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 116"
+  },
+  {
+   "tipo": "height",
+   "ini": 4882,
+   "fin": 4884,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 4887,
+   "fin": 4890,
+   "texto": "116"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4891,
+   "fin": 4908,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "price",
+   "ini": 4909,
+   "fin": 4916,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4918,
+   "fin": 4976
+  },
+  {
+   "tipo": "img",
+   "ini": 4918,
+   "fin": 4923,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4925,
+   "fin": 4976,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Fuego a la bruja\n81 x 116\nÓleo sobre lienzo\n1.100 €"
+  },
+  {
+   "tipo": "title",
+   "ini": 4925,
+   "fin": 4941,
+   "texto": "Fuego a la bruja"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4942,
+   "fin": 4950,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 116"
+  },
+  {
+   "tipo": "height",
+   "ini": 4942,
+   "fin": 4944,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 4947,
+   "fin": 4950,
+   "texto": "116"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4951,
+   "fin": 4968,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "price",
+   "ini": 4969,
+   "fin": 4976,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4978,
+   "fin": 5054
+  },
+  {
+   "tipo": "img",
+   "ini": 4978,
+   "fin": 4983,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4985,
+   "fin": 5054,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "24º48´50\"N 80º49´02\"W 1,84 km\n60 x 30\nTécnica mixta sobre tabla\n350 €"
+  },
+  {
+   "tipo": "title",
+   "ini": 4985,
+   "fin": 5014,
+   "texto": "24º48´50\"N 80º49´02\"W 1,84 km"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5015,
+   "fin": 5022,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 30"
+  },
+  {
+   "tipo": "height",
+   "ini": 5015,
+   "fin": 5017,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 5020,
+   "fin": 5022,
+   "texto": "30"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5023,
+   "fin": 5048,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre tabla"
+  },
+  {
+   "tipo": "price",
+   "ini": 5049,
+   "fin": 5054,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5056,
+   "fin": 5132
+  },
+  {
+   "tipo": "img",
+   "ini": 5056,
+   "fin": 5061,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5063,
+   "fin": 5132,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "15º07´21\"S 50º25´01\"E 3,72 km\n60 x 30\nTécnica mixta sobre tabla\n350 €"
+  },
+  {
+   "tipo": "title",
+   "ini": 5063,
+   "fin": 5092,
+   "texto": "15º07´21\"S 50º25´01\"E 3,72 km"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5093,
+   "fin": 5100,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 30"
+  },
+  {
+   "tipo": "height",
+   "ini": 5093,
+   "fin": 5095,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 5098,
+   "fin": 5100,
+   "texto": "30"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5101,
+   "fin": 5126,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre tabla"
+  },
+  {
+   "tipo": "price",
+   "ini": 5127,
+   "fin": 5132,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5134,
+   "fin": 5210
+  },
+  {
+   "tipo": "img",
+   "ini": 5134,
+   "fin": 5139,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5141,
+   "fin": 5210,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "22º31´18\"N 59º46´09\"E 3,46 km\n60 x 30\nTécnica mixta sobre tabla\n350 €"
+  },
+  {
+   "tipo": "title",
+   "ini": 5141,
+   "fin": 5170,
+   "texto": "22º31´18\"N 59º46´09\"E 3,46 km"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5171,
+   "fin": 5178,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 30"
+  },
+  {
+   "tipo": "height",
+   "ini": 5171,
+   "fin": 5173,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 5176,
+   "fin": 5178,
+   "texto": "30"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5179,
+   "fin": 5204,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre tabla"
+  },
+  {
+   "tipo": "price",
+   "ini": 5205,
+   "fin": 5210,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5212,
+   "fin": 5288
+  },
+  {
+   "tipo": "img",
+   "ini": 5212,
+   "fin": 5217,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5219,
+   "fin": 5288,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "15º45´51\"S 50º19´50\"E 3,34 km\n60 x 30\nTécnica mixta sobre tabla\n350 €"
+  },
+  {
+   "tipo": "title",
+   "ini": 5219,
+   "fin": 5248,
+   "texto": "15º45´51\"S 50º19´50\"E 3,34 km"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5249,
+   "fin": 5256,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 30"
+  },
+  {
+   "tipo": "height",
+   "ini": 5249,
+   "fin": 5251,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 5254,
+   "fin": 5256,
+   "texto": "30"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5257,
+   "fin": 5282,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre tabla"
+  },
+  {
+   "tipo": "price",
+   "ini": 5283,
+   "fin": 5288,
+   "rasgos": {
+    "unit": "cm"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5290,
+   "fin": 5341
+  },
+  {
+   "tipo": "img",
+   "ini": 5290,
+   "fin": 5295,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5297,
+   "fin": 5341,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Camino\n162 x 114\nÓleo sobre bastidor\n1.000 €"
+  },
+  {
+   "tipo": "title",
+   "ini": 5297,
+   "fin": 5303,
+   "texto": "Camino"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5304,
+   "fin": 5313,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "162 x 114"
+  },
+  {
+   "tipo": "height",
+   "ini": 5304,
+   "fin": 5307,
+   "texto": "162"
+  },
+  {
+   "tipo": "width",
+   "ini": 5310,
+   "fin": 5313,
+   "texto": "114"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5314,
+   "fin": 5333,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre bastidor"
+  },
+  {
+   "tipo": "price",
+   "ini": 5334,
+   "fin": 5341,
+   "rasgos": {
+    "unit": "euro"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 5352,
+   "fin": 5379,
+   "rasgos": {
+    "type": "company",
+    "role": "organiser"
+   },
+   "texto": "DEPARTAMENTO ARTE Y CULTURA"
+  },
+  {
+   "tipo": "person",
+   "ini": 5380,
+   "fin": 5400,
+   "rasgos": {
+    "null": ""
+   },
+   "texto": "Erika Martí Martínez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5380,
+   "fin": 5400,
+   "texto": "Erika Martí Martínez"
+  },
+  {
+   "tipo": "person",
+   "ini": 5431,
+   "fin": 5518,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ARTISTA\nFátima Gómez\nfatimagomezstream@gmail.com\nfatimagomez.site\nInstagram: @fg.stream"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5439,
+   "fin": 5451,
+   "texto": "Fátima Gómez"
+  }
+ ]
+}

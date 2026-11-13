@@ -1,0 +1,1454 @@
+{
+ "id": "cat_002_1_transfiguraciones_fabio_gomes",
+ "nombre_original": "1. ) TRANSFIGURACIONES( fabio gomes",
+ "longitud_texto": 5289,
+ "sha256_texto": "d05b2bb67517c7f969c2d80ca6d734887a4a4b6e0c26b842536d74ade540ceae",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 31
+  },
+  {
+   "tipo": "title",
+   "ini": 1,
+   "fin": 18,
+   "texto": "TRANSFIGURACIONES"
+  },
+  {
+   "tipo": "person",
+   "ini": 20,
+   "fin": 31,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "fabio gomes"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20,
+   "fin": 31,
+   "texto": "fabio gomes"
+  },
+  {
+   "tipo": "person",
+   "ini": 33,
+   "fin": 83,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fabio Bastos Gomes (Palmares do Sul, Brasil, 1979)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 33,
+   "fin": 51,
+   "texto": "Fabio Bastos Gomes"
+  },
+  {
+   "tipo": "birth",
+   "ini": 52,
+   "fin": 83
+  },
+  {
+   "tipo": "placeName",
+   "ini": 53,
+   "fin": 76,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Palmares do Sul, Brasil"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 901,
+   "fin": 1192
+  },
+  {
+   "tipo": "title",
+   "ini": 912,
+   "fin": 931,
+   "texto": "‘Transfiguraciones’"
+  },
+  {
+   "tipo": "person",
+   "ini": 935,
+   "fin": 946,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "persName",
+   "ini": 935,
+   "fin": 946,
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "title",
+   "ini": 956,
+   "fin": 969,
+   "texto": "‘UJA.Talento’"
+  },
+  {
+   "tipo": "date",
+   "ini": 975,
+   "fin": 1019,
+   "rasgos": {
+    "from": "2020-12-03",
+    "to": "2021-01-08"
+   },
+   "texto": "3 de diciembre de 2020 al 8 de enero de 2021"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1020,
+   "fin": 1192,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "Sala de Exposiciones. Edificio Zabaleta (Campus Las Lagunillas)\n)Servicio de Actividades Culturales\nVicerrectorado de Proyección de la Cultura y Deporte\nUniversidad de Jaén"
+  },
+  {
+   "tipo": "venue",
+   "ini": 1020,
+   "fin": 1083,
+   "texto": "Sala de Exposiciones. Edificio Zabaleta (Campus Las Lagunillas)"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1188,
+   "fin": 1192,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Jaén"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1200,
+   "fin": 1252,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "Vicerrectorado de Proyección de la Cultura y Deporte"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1279,
+   "fin": 1285,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "España"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1299,
+   "fin": 1304,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Spain"
+  },
+  {
+   "tipo": "title",
+   "ini": 1321,
+   "fin": 1338,
+   "texto": "Transfiguraciones"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1321,
+   "fin": 1338,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 1483,
+   "fin": 1502,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "Universidad de Jaén"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1498,
+   "fin": 1502,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Jaén"
+  },
+  {
+   "tipo": "title",
+   "ini": 2270,
+   "fin": 2287,
+   "texto": "Transfiguraciones"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4287,
+   "fin": 4337
+  },
+  {
+   "tipo": "img",
+   "ini": 4287,
+   "fin": 4292,
+   "rasgos": {
+    "color": "catalogue",
+    "size": "large",
+    "src": "true"
+   }
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 4294,
+   "fin": 5289
+  },
+  {
+   "tipo": "work",
+   "ini": 4294,
+   "fin": 4337,
+   "rasgos": {
+    "type": "textile"
+   },
+   "texto": ") TOM (\nFabio Gomes, 2019\nTricot\n98 x 83 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4296,
+   "fin": 4299,
+   "texto": "TOM"
+  },
+  {
+   "tipo": "person",
+   "ini": 4302,
+   "fin": 4313,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4302,
+   "fin": 4313,
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "date",
+   "ini": 4315,
+   "fin": 4319,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4320,
+   "fin": 4326,
+   "rasgos": {
+    "type": "tricot"
+   },
+   "texto": "Tricot"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4327,
+   "fin": 4337,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "98 x 83 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4327,
+   "fin": 4329,
+   "texto": "98"
+  },
+  {
+   "tipo": "width",
+   "ini": 4332,
+   "fin": 4334,
+   "texto": "83"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4339,
+   "fin": 4394
+  },
+  {
+   "tipo": "img",
+   "ini": 4339,
+   "fin": 4344,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4346,
+   "fin": 4394,
+   "rasgos": {
+    "type": "textile"
+   },
+   "texto": ") MARICÓN (\nFabio Gomes, 2019\nTricot\n110 x 84 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4348,
+   "fin": 4355,
+   "texto": "MARICÓN"
+  },
+  {
+   "tipo": "person",
+   "ini": 4358,
+   "fin": 4369,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4358,
+   "fin": 4369,
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "date",
+   "ini": 4371,
+   "fin": 4375,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4376,
+   "fin": 4382,
+   "rasgos": {
+    "type": "tricot"
+   },
+   "texto": "Tricot"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4383,
+   "fin": 4394,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "110 x 84 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4383,
+   "fin": 4386,
+   "texto": "110"
+  },
+  {
+   "tipo": "width",
+   "ini": 4389,
+   "fin": 4391,
+   "texto": "84"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4396,
+   "fin": 4448
+  },
+  {
+   "tipo": "img",
+   "ini": 4396,
+   "fin": 4401,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4403,
+   "fin": 4448,
+   "rasgos": {
+    "type": "textile"
+   },
+   "texto": ") DIANA (\nFabio Gomes, 2019\nTricot\n72 x 81 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4405,
+   "fin": 4410,
+   "texto": "DIANA"
+  },
+  {
+   "tipo": "person",
+   "ini": 4413,
+   "fin": 4424,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4413,
+   "fin": 4424,
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "date",
+   "ini": 4426,
+   "fin": 4430,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4431,
+   "fin": 4437,
+   "rasgos": {
+    "type": "tricot"
+   },
+   "texto": "Tricot"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4438,
+   "fin": 4448,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "72 x 81 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4438,
+   "fin": 4440,
+   "texto": "72"
+  },
+  {
+   "tipo": "width",
+   "ini": 4443,
+   "fin": 4445,
+   "texto": "81"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4450,
+   "fin": 4518
+  },
+  {
+   "tipo": "img",
+   "ini": 4450,
+   "fin": 4455,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4457,
+   "fin": 4518,
+   "rasgos": {
+    "type": "textile"
+   },
+   "texto": ") PERSPECTIVE (\nFabio Gomes, 2020\nTricot y bordado\n65 x 56 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4459,
+   "fin": 4470,
+   "texto": "PERSPECTIVE"
+  },
+  {
+   "tipo": "person",
+   "ini": 4473,
+   "fin": 4484,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4473,
+   "fin": 4484,
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "date",
+   "ini": 4486,
+   "fin": 4490,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4491,
+   "fin": 4507,
+   "rasgos": {
+    "type": "tricot, embroidery"
+   },
+   "texto": "Tricot y bordado"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4508,
+   "fin": 4518,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 56 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4508,
+   "fin": 4510,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 4513,
+   "fin": 4515,
+   "texto": "56"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4520,
+   "fin": 4580
+  },
+  {
+   "tipo": "img",
+   "ini": 4520,
+   "fin": 4525,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4527,
+   "fin": 4580,
+   "rasgos": {
+    "type": "textile"
+   },
+   "texto": ") PINK TRIANGLE (\nFabio Gomes, 2020\nTricot\n66 x 82 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4529,
+   "fin": 4542,
+   "texto": "PINK TRIANGLE"
+  },
+  {
+   "tipo": "person",
+   "ini": 4545,
+   "fin": 4556,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4545,
+   "fin": 4556,
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "date",
+   "ini": 4558,
+   "fin": 4562,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4563,
+   "fin": 4569,
+   "rasgos": {
+    "type": "tricot"
+   },
+   "texto": "Tricot"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4570,
+   "fin": 4580,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "66 x 82 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4570,
+   "fin": 4572,
+   "texto": "66"
+  },
+  {
+   "tipo": "width",
+   "ini": 4575,
+   "fin": 4577,
+   "texto": "82"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4582,
+   "fin": 4643
+  },
+  {
+   "tipo": "img",
+   "ini": 4582,
+   "fin": 4587,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4589,
+   "fin": 4643,
+   "rasgos": {
+    "type": "textile"
+   },
+   "texto": ") LOVE (\nFabio Gomes, 2020\nTricot y bordado\n56 x 62 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4591,
+   "fin": 4595,
+   "texto": "LOVE"
+  },
+  {
+   "tipo": "person",
+   "ini": 4598,
+   "fin": 4609,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4598,
+   "fin": 4609,
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "date",
+   "ini": 4611,
+   "fin": 4615,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4616,
+   "fin": 4632,
+   "rasgos": {
+    "type": "embroidery, tricot"
+   },
+   "texto": "Tricot y bordado"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4633,
+   "fin": 4643,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "56 x 62 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4633,
+   "fin": 4635,
+   "texto": "56"
+  },
+  {
+   "tipo": "width",
+   "ini": 4638,
+   "fin": 4640,
+   "texto": "62"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4645,
+   "fin": 4698
+  },
+  {
+   "tipo": "img",
+   "ini": 4645,
+   "fin": 4650,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4652,
+   "fin": 4698,
+   "rasgos": {
+    "type": "textile"
+   },
+   "texto": ") SANGRE (\nFabio Gomes, 2019\nTricot\n78 x 80 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4654,
+   "fin": 4660,
+   "texto": "SANGRE"
+  },
+  {
+   "tipo": "person",
+   "ini": 4663,
+   "fin": 4674,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4663,
+   "fin": 4674,
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "date",
+   "ini": 4676,
+   "fin": 4680,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4681,
+   "fin": 4687,
+   "rasgos": {
+    "type": "tricot"
+   },
+   "texto": "Tricot"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4688,
+   "fin": 4698,
+   "rasgos": {
+    "unit": ""
+   },
+   "texto": "78 x 80 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4688,
+   "fin": 4690,
+   "texto": "78"
+  },
+  {
+   "tipo": "width",
+   "ini": 4693,
+   "fin": 4695,
+   "texto": "80"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4700,
+   "fin": 4757
+  },
+  {
+   "tipo": "img",
+   "ini": 4700,
+   "fin": 4705,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4707,
+   "fin": 4757,
+   "rasgos": {
+    "type": "textile"
+   },
+   "texto": ") bePrEPared (\nFabio Gomes, 2019\nTricot\n38 x 89 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4709,
+   "fin": 4719,
+   "texto": "bePrEPared"
+  },
+  {
+   "tipo": "person",
+   "ini": 4722,
+   "fin": 4733,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4722,
+   "fin": 4733,
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "date",
+   "ini": 4735,
+   "fin": 4739,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4740,
+   "fin": 4746,
+   "rasgos": {
+    "type": "tricot"
+   },
+   "texto": "Tricot"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4747,
+   "fin": 4757,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "38 x 89 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4747,
+   "fin": 4749,
+   "texto": "38"
+  },
+  {
+   "tipo": "width",
+   "ini": 4752,
+   "fin": 4754,
+   "texto": "89"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4782,
+   "fin": 5005
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 4782,
+   "fin": 4886,
+   "rasgos": {
+    "type": "textile",
+    "size": "20"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 4784,
+   "fin": 4811,
+   "texto": "CANCIONES DEL AMOR Y TIEMPO"
+  },
+  {
+   "tipo": "person",
+   "ini": 4814,
+   "fin": 4825,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4814,
+   "fin": 4825,
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "date",
+   "ini": 4827,
+   "fin": 4831,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4832,
+   "fin": 4852,
+   "rasgos": {
+    "type": "embroidery"
+   },
+   "texto": "Bordado sobre tejido"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4858,
+   "fin": 4868,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "39 x 28 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4858,
+   "fin": 4860,
+   "texto": "39"
+  },
+  {
+   "tipo": "height",
+   "ini": 4863,
+   "fin": 4865,
+   "texto": "28"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4875,
+   "fin": 4886,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "21 x 16 cm\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 4875,
+   "fin": 4877,
+   "texto": "21"
+  },
+  {
+   "tipo": "width",
+   "ini": 4880,
+   "fin": 4882,
+   "texto": "16"
+  },
+  {
+   "tipo": "img",
+   "ini": 4886,
+   "fin": 4891,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4892,
+   "fin": 4897,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4898,
+   "fin": 4903,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4904,
+   "fin": 4909,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4910,
+   "fin": 4915,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4916,
+   "fin": 4921,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4922,
+   "fin": 4927,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4928,
+   "fin": 4933,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4934,
+   "fin": 4939,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4940,
+   "fin": 4945,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4946,
+   "fin": 4951,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4952,
+   "fin": 4957,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4958,
+   "fin": 4963,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4964,
+   "fin": 4969,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4970,
+   "fin": 4975,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4976,
+   "fin": 4981,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4982,
+   "fin": 4987,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4988,
+   "fin": 4993,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4994,
+   "fin": 4999,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 5000,
+   "fin": 5005,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5008,
+   "fin": 5110
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 5008,
+   "fin": 5099,
+   "rasgos": {
+    "type": "drawing",
+    "size": "2"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 5010,
+   "fin": 5022,
+   "texto": "AUTORRETRATO"
+  },
+  {
+   "tipo": "person",
+   "ini": 5025,
+   "fin": 5036,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5025,
+   "fin": 5036,
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "date",
+   "ini": 5038,
+   "fin": 5042,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5043,
+   "fin": 5075,
+   "rasgos": {
+    "type": "pen, crayon"
+   },
+   "texto": "Dibujo con bolígrafos y\ncrayones"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5076,
+   "fin": 5086,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 14 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5076,
+   "fin": 5078,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 5081,
+   "fin": 5083,
+   "texto": "14"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5088,
+   "fin": 5099,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 21 cm\n"
+  },
+  {
+   "tipo": "width",
+   "ini": 5093,
+   "fin": 5095,
+   "texto": "21"
+  },
+  {
+   "tipo": "img",
+   "ini": 5099,
+   "fin": 5104,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 5105,
+   "fin": 5110,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5113,
+   "fin": 5210
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 5113,
+   "fin": 5199,
+   "rasgos": {
+    "type": "photograph",
+    "size": "2"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 5115,
+   "fin": 5152,
+   "texto": "AUTORRETRATO EN\nROJO, AMARILLO Y AZUL"
+  },
+  {
+   "tipo": "person",
+   "ini": 5155,
+   "fin": 5166,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5155,
+   "fin": 5166,
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "date",
+   "ini": 5168,
+   "fin": 5172,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5173,
+   "fin": 5183,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5188,
+   "fin": 5199,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20 x 23 cm\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 5188,
+   "fin": 5190,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 5193,
+   "fin": 5195,
+   "texto": "23"
+  },
+  {
+   "tipo": "img",
+   "ini": 5199,
+   "fin": 5204,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 5205,
+   "fin": 5210,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5213,
+   "fin": 5288
+  },
+  {
+   "tipo": "work",
+   "ini": 5213,
+   "fin": 5283,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": ") noSELFIEsteem (\nFabio Gomes, 2019\nCollage de fotografías\n22 x 42 cm\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 5215,
+   "fin": 5228,
+   "texto": "noSELFIEsteem"
+  },
+  {
+   "tipo": "person",
+   "ini": 5231,
+   "fin": 5242,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5231,
+   "fin": 5242,
+   "texto": "Fabio Gomes"
+  },
+  {
+   "tipo": "date",
+   "ini": 5244,
+   "fin": 5248,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5249,
+   "fin": 5271,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage de fotografías"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5272,
+   "fin": 5283,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "22 x 42 cm\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 5272,
+   "fin": 5274,
+   "texto": "22"
+  },
+  {
+   "tipo": "width",
+   "ini": 5277,
+   "fin": 5279,
+   "texto": "42"
+  },
+  {
+   "tipo": "img",
+   "ini": 5283,
+   "fin": 5288,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  }
+ ]
+}

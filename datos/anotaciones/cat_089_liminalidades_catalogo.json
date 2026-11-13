@@ -1,0 +1,3030 @@
+{
+ "id": "cat_089_liminalidades_catalogo",
+ "nombre_original": "liminalidades-catalogo",
+ "longitud_texto": 30458,
+ "sha256_texto": "7ca6db8d9a73f5a180df298fa49f72f9092d6719e278f977b734b6ea721642be",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 925,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 51,
+   "texto": "LIMINALIDADES\nCUERPOS, ENTRETEJIDOS Y OTROS LUGARES"
+  },
+  {
+   "tipo": "person",
+   "ini": 53,
+   "fin": 72,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ALEXA CUESTA FLÓREZ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 53,
+   "fin": 72,
+   "texto": "ALEXA CUESTA FLÓREZ"
+  },
+  {
+   "tipo": "person",
+   "ini": 75,
+   "fin": 90,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ALEXANDRA GELIS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75,
+   "fin": 90,
+   "texto": "ALEXANDRA GELIS"
+  },
+  {
+   "tipo": "person",
+   "ini": 93,
+   "fin": 113,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "HELENA MARTÍN FRANCO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 93,
+   "fin": 113,
+   "texto": "HELENA MARTÍN FRANCO"
+  },
+  {
+   "tipo": "person",
+   "ini": 116,
+   "fin": 131,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "LISETTE URQUIJO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 116,
+   "fin": 131,
+   "texto": "LISETTE URQUIJO"
+  },
+  {
+   "tipo": "person",
+   "ini": 134,
+   "fin": 156,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MARÍA EUGENIA TRUJILLO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 134,
+   "fin": 156,
+   "texto": "MARÍA EUGENIA TRUJILLO"
+  },
+  {
+   "tipo": "person",
+   "ini": 159,
+   "fin": 172,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MURIEL ANGULO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 159,
+   "fin": 172,
+   "texto": "MURIEL ANGULO"
+  },
+  {
+   "tipo": "person",
+   "ini": 175,
+   "fin": 190,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MARTHA AMOROCHO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 175,
+   "fin": 190,
+   "texto": "MARTHA AMOROCHO"
+  },
+  {
+   "tipo": "institution",
+   "ini": 193,
+   "fin": 295,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "Universidad Tecnológica de Bolívar. Laboratorio de Investigación e Innovación en Cultura y Desarrollo."
+  },
+  {
+   "tipo": "placeName",
+   "ini": 220,
+   "fin": 227,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Bolívar"
+  },
+  {
+   "tipo": "title",
+   "ini": 296,
+   "fin": 348,
+   "texto": "Liminalidades: cuerpos, entretejidos y otros lugares"
+  },
+  {
+   "tipo": "person",
+   "ini": 351,
+   "fin": 373,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "María Eugenia Trujillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 351,
+   "fin": 373,
+   "texto": "María Eugenia Trujillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 375,
+   "fin": 390,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martha Amorocho"
+  },
+  {
+   "tipo": "persName",
+   "ini": 375,
+   "fin": 390,
+   "texto": "Martha Amorocho"
+  },
+  {
+   "tipo": "person",
+   "ini": 392,
+   "fin": 407,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lisette Urquijo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 392,
+   "fin": 407,
+   "texto": "Lisette Urquijo"
+  },
+  {
+   "tipo": "person",
+   "ini": 409,
+   "fin": 424,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexandra\nGelis"
+  },
+  {
+   "tipo": "persName",
+   "ini": 409,
+   "fin": 424,
+   "texto": "Alexandra\nGelis"
+  },
+  {
+   "tipo": "person",
+   "ini": 426,
+   "fin": 446,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Helena Martin Franco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 426,
+   "fin": 446,
+   "texto": "Helena Martin Franco"
+  },
+  {
+   "tipo": "person",
+   "ini": 448,
+   "fin": 467,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexa Cuesta Flórez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 448,
+   "fin": 467,
+   "texto": "Alexa Cuesta Flórez"
+  },
+  {
+   "tipo": "person",
+   "ini": 469,
+   "fin": 482,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Muriel Angulo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 469,
+   "fin": 482,
+   "texto": "Muriel Angulo"
+  },
+  {
+   "tipo": "person",
+   "ini": 492,
+   "fin": 507,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Martha Amorocho"
+  },
+  {
+   "tipo": "persName",
+   "ini": 492,
+   "fin": 507,
+   "texto": "Martha Amorocho"
+  },
+  {
+   "tipo": "person",
+   "ini": 509,
+   "fin": 531,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Santiago Rueda Fajardo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 509,
+   "fin": 531,
+   "texto": "Santiago Rueda Fajardo"
+  },
+  {
+   "tipo": "person",
+   "ini": 557,
+   "fin": 568,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "José Sierra"
+  },
+  {
+   "tipo": "persName",
+   "ini": 557,
+   "fin": 568,
+   "texto": "José Sierra"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 582,
+   "fin": 601,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Cartagena de Indias"
+  },
+  {
+   "tipo": "institution",
+   "ini": 603,
+   "fin": 752,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "Universidad Tecnológica de Bolívar. Laboratorio de\nInvestigación e Innovación en Cultura y Desarrollo: Centro de Formación de la Cooperación Española"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 630,
+   "fin": 637,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Bolívar"
+  },
+  {
+   "tipo": "institution",
+   "ini": 812,
+   "fin": 858,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "Centro de Formación de la Cooperación Española"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 860,
+   "fin": 879,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Cartagena de Indias"
+  },
+  {
+   "tipo": "date",
+   "ini": 884,
+   "fin": 924,
+   "rasgos": {
+    "from": "2019-09-05",
+    "to": "2019-10-31"
+   },
+   "texto": "5 de septiembre\nal 31 de octubre de 2019"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1149,
+   "fin": 1250,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "Universidad Tecnológica de Bólivar. Laboratorio de Investigación e Innovación en\nCultura y Desarrollo"
+  },
+  {
+   "tipo": "person",
+   "ini": 1256,
+   "fin": 1279,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Trujillo, Maria Eugenia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1256,
+   "fin": 1279,
+   "texto": "Trujillo, Maria Eugenia"
+  },
+  {
+   "tipo": "person",
+   "ini": 1285,
+   "fin": 1301,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Amorocho, Martha"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1285,
+   "fin": 1301,
+   "texto": "Amorocho, Martha"
+  },
+  {
+   "tipo": "person",
+   "ini": 1306,
+   "fin": 1322,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Urquijo, Lisette"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1306,
+   "fin": 1322,
+   "texto": "Urquijo, Lisette"
+  },
+  {
+   "tipo": "person",
+   "ini": 1326,
+   "fin": 1342,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gelis, Alexandra"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1326,
+   "fin": 1342,
+   "texto": "Gelis, Alexandra"
+  },
+  {
+   "tipo": "person",
+   "ini": 1347,
+   "fin": 1368,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martin\nFranco, Helena"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1347,
+   "fin": 1368,
+   "texto": "Martin\nFranco, Helena"
+  },
+  {
+   "tipo": "person",
+   "ini": 1374,
+   "fin": 1394,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Cuesta Flórez, Alexa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1374,
+   "fin": 1394,
+   "texto": "Cuesta Flórez, Alexa"
+  },
+  {
+   "tipo": "person",
+   "ini": 1401,
+   "fin": 1415,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Angulo, Muriel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1401,
+   "fin": 1415,
+   "texto": "Angulo, Muriel"
+  },
+  {
+   "tipo": "person",
+   "ini": 1420,
+   "fin": 1443,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Rueda Fajardo, Santiago"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1420,
+   "fin": 1443,
+   "texto": "Rueda Fajardo, Santiago"
+  },
+  {
+   "tipo": "person",
+   "ini": 1447,
+   "fin": 1459,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Sierra, José"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1447,
+   "fin": 1459,
+   "texto": "Sierra, José"
+  },
+  {
+   "tipo": "person",
+   "ini": 1487,
+   "fin": 1509,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "María Eugenia Trujillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1487,
+   "fin": 1509,
+   "texto": "María Eugenia Trujillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 1510,
+   "fin": 1525,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martha Amorocho"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1510,
+   "fin": 1525,
+   "texto": "Martha Amorocho"
+  },
+  {
+   "tipo": "person",
+   "ini": 1526,
+   "fin": 1541,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lisette Urquijo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1526,
+   "fin": 1541,
+   "texto": "Lisette Urquijo"
+  },
+  {
+   "tipo": "person",
+   "ini": 1542,
+   "fin": 1557,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexandra Gelis"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1542,
+   "fin": 1557,
+   "texto": "Alexandra Gelis"
+  },
+  {
+   "tipo": "person",
+   "ini": 1558,
+   "fin": 1578,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Helena Martin Franco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1558,
+   "fin": 1578,
+   "texto": "Helena Martin Franco"
+  },
+  {
+   "tipo": "person",
+   "ini": 1579,
+   "fin": 1598,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexa Cuesta Flórez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1579,
+   "fin": 1598,
+   "texto": "Alexa Cuesta Flórez"
+  },
+  {
+   "tipo": "person",
+   "ini": 1599,
+   "fin": 1612,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Muriel Angulo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1599,
+   "fin": 1612,
+   "texto": "Muriel Angulo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1631,
+   "fin": 1943,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 1643,
+   "fin": 1697,
+   "texto": "«LIMINALIDADES: cuerpos, entretejidos y otros lugares»"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1699,
+   "fin": 1745,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "Centro de Formación de la Cooperación Española"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1749,
+   "fin": 1768,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Cartagena de\nIndias"
+  },
+  {
+   "tipo": "address",
+   "ini": 1770,
+   "fin": 1817,
+   "texto": "Centro, Carrera 36 No 2-74, Plaza Santo Domingo"
+  },
+  {
+   "tipo": "date",
+   "ini": 1826,
+   "fin": 1866,
+   "rasgos": {
+    "from": "2019-09-05",
+    "to": "2019-10-31"
+   },
+   "texto": "5 de septiembre al 31 de octubre de 2019"
+  },
+  {
+   "tipo": "person",
+   "ini": 1887,
+   "fin": 1902,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Lisette\nUrquijo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1887,
+   "fin": 1902,
+   "texto": "Lisette\nUrquijo"
+  },
+  {
+   "tipo": "person",
+   "ini": 1904,
+   "fin": 1923,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Alexa Cuesta Flórez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1904,
+   "fin": 1923,
+   "texto": "Alexa Cuesta Flórez"
+  },
+  {
+   "tipo": "person",
+   "ini": 1926,
+   "fin": 1941,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Martha Amorocho"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1926,
+   "fin": 1941,
+   "texto": "Martha Amorocho"
+  },
+  {
+   "tipo": "person",
+   "ini": 1960,
+   "fin": 1975,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Martha Amorocho"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1960,
+   "fin": 1975,
+   "texto": "Martha Amorocho"
+  },
+  {
+   "tipo": "person",
+   "ini": 1977,
+   "fin": 1999,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Santiago Rueda Fajardo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1977,
+   "fin": 1999,
+   "texto": "Santiago Rueda Fajardo"
+  },
+  {
+   "tipo": "person",
+   "ini": 2043,
+   "fin": 2054,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "José Sierra"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2043,
+   "fin": 2054,
+   "texto": "José Sierra"
+  },
+  {
+   "tipo": "person",
+   "ini": 2081,
+   "fin": 2094,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "Rafael Blanco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2081,
+   "fin": 2094,
+   "texto": "Rafael Blanco"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2108,
+   "fin": 2154,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "Centro de Formación de la Cooperación Española"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2158,
+   "fin": 2177,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Cartagena de Indias"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2208,
+   "fin": 2319,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "L+id Laboratorio de investigación e innovación en Cultura y Desarrollo de la Universidad\nTecnológica de Bolivar"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2312,
+   "fin": 2319,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Bolivar"
+  },
+  {
+   "tipo": "person",
+   "ini": 2397,
+   "fin": 2413,
+   "texto": "Patricia Giraldo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2397,
+   "fin": 2413,
+   "texto": "Patricia Giraldo"
+  },
+  {
+   "tipo": "person",
+   "ini": 2417,
+   "fin": 2447,
+   "texto": "Maira Alejandra\nBertel Almario"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2417,
+   "fin": 2447,
+   "texto": "Maira Alejandra\nBertel Almario"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2474,
+   "fin": 2543,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "Centro de Formación de la Cooperación Española en Cartagena de Indias"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2524,
+   "fin": 2543,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Cartagena de Indias"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2550,
+   "fin": 2557,
+   "texto": "Redhada"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2765,
+   "fin": 2811,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "Centro de Formación de la Cooperación Española"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2815,
+   "fin": 2834,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Cartagena de Indias"
+  },
+  {
+   "tipo": "title",
+   "ini": 2838,
+   "fin": 2891,
+   "texto": "LIMINALIDADES:\n\nCUERPOS, ENTRETEJIDOS\nY OTROS LUGARES"
+  },
+  {
+   "tipo": "person",
+   "ini": 5115,
+   "fin": 5130,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "MARTHA AMOROCHO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5115,
+   "fin": 5130,
+   "texto": "MARTHA AMOROCHO"
+  },
+  {
+   "tipo": "person",
+   "ini": 9773,
+   "fin": 9795,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "SANTIAGO RUEDA FAJARDO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9773,
+   "fin": 9795,
+   "texto": "SANTIAGO RUEDA FAJARDO"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 9797,
+   "fin": 23116
+  },
+  {
+   "tipo": "person",
+   "ini": 9811,
+   "fin": 9833,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MARÍA EUGENIA TRUJILLO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9811,
+   "fin": 9833,
+   "texto": "MARÍA EUGENIA TRUJILLO"
+  },
+  {
+   "tipo": "person",
+   "ini": 9834,
+   "fin": 9849,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MARTHA AMOROCHO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9834,
+   "fin": 9849,
+   "texto": "MARTHA AMOROCHO"
+  },
+  {
+   "tipo": "person",
+   "ini": 9850,
+   "fin": 9865,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "LISETTE URQUIJO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9850,
+   "fin": 9865,
+   "texto": "LISETTE URQUIJO"
+  },
+  {
+   "tipo": "person",
+   "ini": 9866,
+   "fin": 9881,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ALEXANDRA GELIS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9866,
+   "fin": 9881,
+   "texto": "ALEXANDRA GELIS"
+  },
+  {
+   "tipo": "person",
+   "ini": 9882,
+   "fin": 9902,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "HELENA MARTIN FRANCO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9882,
+   "fin": 9902,
+   "texto": "HELENA MARTIN FRANCO"
+  },
+  {
+   "tipo": "person",
+   "ini": 9903,
+   "fin": 9922,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ALEXA CUESTA FLÓREZ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9903,
+   "fin": 9922,
+   "texto": "ALEXA CUESTA FLÓREZ"
+  },
+  {
+   "tipo": "person",
+   "ini": 9923,
+   "fin": 9936,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MURIEL ANGULO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9923,
+   "fin": 9936,
+   "texto": "MURIEL ANGULO"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 9938,
+   "fin": 11246
+  },
+  {
+   "tipo": "person",
+   "ini": 9938,
+   "fin": 9960,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MARÍA\nEUGENIA\nTRUJILLO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9938,
+   "fin": 9960,
+   "texto": "MARÍA\nEUGENIA\nTRUJILLO"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9962,
+   "fin": 10054
+  },
+  {
+   "tipo": "img",
+   "ini": 9962,
+   "fin": 9967,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 9968,
+   "fin": 9973,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9975,
+   "fin": 10053,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Cartografías íntimas\nInstalación. Bordado sobre algodón\nMedidas variables\n2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 9975,
+   "fin": 9995,
+   "texto": "Cartografías íntimas"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9996,
+   "fin": 10030,
+   "rasgos": {
+    "type": "installation, embroidery"
+   },
+   "texto": "Instalación. Bordado sobre algodón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10031,
+   "fin": 10048,
+   "texto": "Medidas variables"
+  },
+  {
+   "tipo": "date",
+   "ini": 10049,
+   "fin": 10053,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 10055,
+   "fin": 10662
+  },
+  {
+   "tipo": "title",
+   "ini": 10055,
+   "fin": 10075,
+   "texto": "CARTOGRAFÍAS ÍNTIMAS"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10664,
+   "fin": 10757
+  },
+  {
+   "tipo": "img",
+   "ini": 10664,
+   "fin": 10669,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 10670,
+   "fin": 10675,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10677,
+   "fin": 10757,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Exvotos\nInstalación. Objetos y materiales diversos\nMedidas variables\n2016 - 2017"
+  },
+  {
+   "tipo": "title",
+   "ini": 10677,
+   "fin": 10684,
+   "texto": "Exvotos"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10685,
+   "fin": 10727,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Instalación. Objetos y materiales diversos"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10728,
+   "fin": 10745,
+   "texto": "Medidas variables"
+  },
+  {
+   "tipo": "date",
+   "ini": 10746,
+   "fin": 10757,
+   "rasgos": {
+    "from": "2016",
+    "to": "2017"
+   },
+   "texto": "2016 - 2017"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 10759,
+   "fin": 11246
+  },
+  {
+   "tipo": "title",
+   "ini": 10759,
+   "fin": 10766,
+   "texto": "EXVOTOS"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 11248,
+   "fin": 13094
+  },
+  {
+   "tipo": "person",
+   "ini": 11248,
+   "fin": 11263,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MARTHA\nAMOROCHO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11248,
+   "fin": 11263,
+   "texto": "MARTHA\nAMOROCHO"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11265,
+   "fin": 11322
+  },
+  {
+   "tipo": "img",
+   "ini": 11265,
+   "fin": 11270,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11272,
+   "fin": 11322,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "El vestidito de flores\n61 x 110 cm\nFotografía\n2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 11272,
+   "fin": 11294,
+   "texto": "El vestidito de flores"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11295,
+   "fin": 11306,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 110 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11295,
+   "fin": 11297,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 11300,
+   "fin": 11303,
+   "texto": "110"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11307,
+   "fin": 11317,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "date",
+   "ini": 11318,
+   "fin": 11322,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11324,
+   "fin": 11369
+  },
+  {
+   "tipo": "img",
+   "ini": 11324,
+   "fin": 11329,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11331,
+   "fin": 11369,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "El armario\n150 x 93 cm\nFotografía\n2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 11331,
+   "fin": 11341,
+   "texto": "El armario"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11342,
+   "fin": 11353,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150 x 93 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11342,
+   "fin": 11345,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 11348,
+   "fin": 11350,
+   "texto": "93"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11354,
+   "fin": 11364,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "date",
+   "ini": 11365,
+   "fin": 11369,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11371,
+   "fin": 11415
+  },
+  {
+   "tipo": "img",
+   "ini": 11371,
+   "fin": 11376,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11378,
+   "fin": 11415,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Es el amor\n70 x 44 cm\nFotografía\n2015"
+  },
+  {
+   "tipo": "title",
+   "ini": 11378,
+   "fin": 11388,
+   "texto": "Es el amor"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11389,
+   "fin": 11399,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 44 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11389,
+   "fin": 11391,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 11394,
+   "fin": 11396,
+   "texto": "44"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11400,
+   "fin": 11410,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "date",
+   "ini": 11411,
+   "fin": 11415,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 11417,
+   "fin": 13093
+  },
+  {
+   "tipo": "title",
+   "ini": 12726,
+   "fin": 12750,
+   "texto": "«El vestidito de flores»"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 13095,
+   "fin": 14403
+  },
+  {
+   "tipo": "person",
+   "ini": 13095,
+   "fin": 13110,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "LISETTE\nURQUIJO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13095,
+   "fin": 13110,
+   "texto": "LISETTE\nURQUIJO"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13112,
+   "fin": 13198
+  },
+  {
+   "tipo": "img",
+   "ini": 13112,
+   "fin": 13117,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 13118,
+   "fin": 13123,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 13124,
+   "fin": 13129,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 13131,
+   "fin": 13198,
+   "rasgos": {
+    "type": "photograph",
+    "size": "3"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 13131,
+   "fin": 13135,
+   "texto": "DJUP"
+  },
+  {
+   "tipo": "technique",
+   "ini": 13136,
+   "fin": 13170,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Tres fotografías en blanco y negro"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13171,
+   "fin": 13186,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 75 cm c/u"
+  },
+  {
+   "tipo": "height",
+   "ini": 13171,
+   "fin": 13174,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 13177,
+   "fin": 13179,
+   "texto": "75"
+  },
+  {
+   "tipo": "date",
+   "ini": 13187,
+   "fin": 13198,
+   "rasgos": {
+    "from": "2016",
+    "to": "2019"
+   },
+   "texto": "2016 - 2019"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13200,
+   "fin": 13275
+  },
+  {
+   "tipo": "img",
+   "ini": 13200,
+   "fin": 13205,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 13207,
+   "fin": 13275,
+   "rasgos": {
+    "type": "installation",
+    "size": "30"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 13207,
+   "fin": 13214,
+   "texto": "El baño"
+  },
+  {
+   "tipo": "technique",
+   "ini": 13215,
+   "fin": 13231,
+   "rasgos": {
+    "type": "photoInstallation"
+   },
+   "texto": "Foto-instalación"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 13232,
+   "fin": 13270
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13247,
+   "fin": 13261,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "10 x 10 cm c/u"
+  },
+  {
+   "tipo": "height",
+   "ini": 13247,
+   "fin": 13249,
+   "texto": "10"
+  },
+  {
+   "tipo": "width",
+   "ini": 13252,
+   "fin": 13254,
+   "texto": "10"
+  },
+  {
+   "tipo": "date",
+   "ini": 13271,
+   "fin": 13275,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13277,
+   "fin": 13335
+  },
+  {
+   "tipo": "img",
+   "ini": 13277,
+   "fin": 13282,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 13283,
+   "fin": 13288,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 13289,
+   "fin": 13294,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 13296,
+   "fin": 13335,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Quotidié\nObjetos instalados\n136 cm\n2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 13296,
+   "fin": 13304,
+   "texto": "Quotidié"
+  },
+  {
+   "tipo": "technique",
+   "ini": 13305,
+   "fin": 13323,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Objetos instalados"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13324,
+   "fin": 13330,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "136 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 13324,
+   "fin": 13327,
+   "texto": "136"
+  },
+  {
+   "tipo": "date",
+   "ini": 13331,
+   "fin": 13335,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 13337,
+   "fin": 14403
+  },
+  {
+   "tipo": "title",
+   "ini": 13363,
+   "fin": 13376,
+   "texto": "LIMINALIDADES"
+  },
+  {
+   "tipo": "title",
+   "ini": 13484,
+   "fin": 13491,
+   "texto": "El Baño"
+  },
+  {
+   "tipo": "title",
+   "ini": 13686,
+   "fin": 13690,
+   "texto": "DJUP"
+  },
+  {
+   "tipo": "title",
+   "ini": 14045,
+   "fin": 14053,
+   "texto": "Quotidié"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 14405,
+   "fin": 16982
+  },
+  {
+   "tipo": "person",
+   "ini": 14405,
+   "fin": 14420,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ALEXANDRA GELIS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14405,
+   "fin": 14420,
+   "texto": "ALEXANDRA GELIS"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14422,
+   "fin": 14607
+  },
+  {
+   "tipo": "img",
+   "ini": 14422,
+   "fin": 14427,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14429,
+   "fin": 14607,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Transversales, puntos y cabellos\nDe la serie Hacer y deshacer: poemas desde adentro\nDimensiones: variables\nInstalación con videos, fotografías e intervenciones con cabellos.\n2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 14429,
+   "fin": 14461,
+   "texto": "Transversales, puntos y cabellos"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 14468,
+   "fin": 14512
+  },
+  {
+   "tipo": "title",
+   "ini": 14474,
+   "fin": 14512,
+   "texto": "Hacer y deshacer: poemas desde adentro"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14513,
+   "fin": 14535,
+   "texto": "Dimensiones: variables"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14536,
+   "fin": 14602,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Instalación con videos, fotografías e intervenciones con cabellos."
+  },
+  {
+   "tipo": "date",
+   "ini": 14603,
+   "fin": 14607,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14609,
+   "fin": 14700
+  },
+  {
+   "tipo": "img",
+   "ini": 14609,
+   "fin": 14614,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14616,
+   "fin": 14700,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "#1 Radioterapia\n1:03 min\nVideo digital\nIntervención filmada en película de Super 8mm"
+  },
+  {
+   "tipo": "title",
+   "ini": 14616,
+   "fin": 14631,
+   "texto": "#1 Radioterapia"
+  },
+  {
+   "tipo": "duration",
+   "ini": 14632,
+   "fin": 14640
+  },
+  {
+   "tipo": "technique",
+   "ini": 14641,
+   "fin": 14654,
+   "rasgos": {
+    "type": "digitalVideo"
+   },
+   "texto": "Video digital"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14702,
+   "fin": 14849
+  },
+  {
+   "tipo": "img",
+   "ini": 14702,
+   "fin": 14707,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14709,
+   "fin": 14848,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Transversales, puntos y cabellos: entre pelos de muñecas\n54 segmentos de 20x20cms. Fotograma de película 16mm,\nimpresión láser sobre papel."
+  },
+  {
+   "tipo": "title",
+   "ini": 14709,
+   "fin": 14765,
+   "texto": "Transversales, puntos y cabellos: entre pelos de muñecas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14782,
+   "fin": 14790,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20x20cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 14782,
+   "fin": 14784,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 14785,
+   "fin": 14787,
+   "texto": "20"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14792,
+   "fin": 14847,
+   "rasgos": {
+    "type": "laserPrint"
+   },
+   "texto": "Fotograma de película 16mm,\nimpresión láser sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14850,
+   "fin": 15052
+  },
+  {
+   "tipo": "img",
+   "ini": 14850,
+   "fin": 14855,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14857,
+   "fin": 15052,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Transversales, puntos y cabellos: extensiones en la esquina\n54 segmentos de 20x20cms. Fotograma de película 16mm,\nimpresión láser sobre papel\nFotografías de gran formato instaladas en el espacio."
+  },
+  {
+   "tipo": "title",
+   "ini": 14857,
+   "fin": 14916,
+   "texto": "Transversales, puntos y cabellos: extensiones en la esquina"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14933,
+   "fin": 14941,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20x20cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 14933,
+   "fin": 14935,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 14936,
+   "fin": 14938,
+   "texto": "20"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14943,
+   "fin": 15052,
+   "rasgos": {
+    "type": "laserprint"
+   },
+   "texto": "Fotograma de película 16mm,\nimpresión láser sobre papel\nFotografías de gran formato instaladas en el espacio."
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 15054,
+   "fin": 16982
+  },
+  {
+   "tipo": "title",
+   "ini": 15054,
+   "fin": 15086,
+   "texto": "Transversales, puntos y cabellos"
+  },
+  {
+   "tipo": "title",
+   "ini": 15401,
+   "fin": 15439,
+   "texto": "Hacer y Deshacer: Poemas desde Adentro"
+  },
+  {
+   "tipo": "title",
+   "ini": 15443,
+   "fin": 15481,
+   "texto": "Hacer y Deshacer: Poemas desde adentro"
+  },
+  {
+   "tipo": "person",
+   "ini": 15500,
+   "fin": 15515,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexandra Gelis"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15500,
+   "fin": 15515,
+   "texto": "Alexandra Gelis"
+  },
+  {
+   "tipo": "person",
+   "ini": 15546,
+   "fin": 15562,
+   "texto": "Cristina Lombana"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15546,
+   "fin": 15562,
+   "texto": "Cristina Lombana"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15609,
+   "fin": 15617,
+   "texto": "Cristina"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 15745,
+   "fin": 15787,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Casco Viejo (distrito histórico) de Panamá"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 15824,
+   "fin": 15843,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Cartagena, Colombia"
+  },
+  {
+   "tipo": "person",
+   "ini": 15845,
+   "fin": 15850,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gelis"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15845,
+   "fin": 15850,
+   "texto": "Gelis"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 16984,
+   "fin": 19216
+  },
+  {
+   "tipo": "person",
+   "ini": 16984,
+   "fin": 17004,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "HELENA MARTIN\nFRANCO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16984,
+   "fin": 17004,
+   "texto": "HELENA MARTIN\nFRANCO"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17006,
+   "fin": 17057
+  },
+  {
+   "tipo": "img",
+   "ini": 17006,
+   "fin": 17011,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17013,
+   "fin": 17057,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Kit de juguetes 3\nPlotter 118 x 118 cms\n2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 17013,
+   "fin": 17030,
+   "texto": "Kit de juguetes 3"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17031,
+   "fin": 17038,
+   "rasgos": {
+    "type": "plotter"
+   },
+   "texto": "Plotter"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17039,
+   "fin": 17052,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "118 x 118 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 17039,
+   "fin": 17042,
+   "texto": "118"
+  },
+  {
+   "tipo": "width",
+   "ini": 17045,
+   "fin": 17048,
+   "texto": "118"
+  },
+  {
+   "tipo": "date",
+   "ini": 17053,
+   "fin": 17057,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17059,
+   "fin": 17265
+  },
+  {
+   "tipo": "img",
+   "ini": 17059,
+   "fin": 17064,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 17066,
+   "fin": 17265,
+   "rasgos": {
+    "type": "drawing",
+    "size": "16"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 17066,
+   "fin": 17097,
+   "texto": "”La ropa sucia se lava en casa”"
+  },
+  {
+   "tipo": "title",
+   "ini": 17134,
+   "fin": 17160,
+   "texto": "“I loue\nyou / te arriendo”"
+  },
+  {
+   "tipo": "date",
+   "ini": 17162,
+   "fin": 17171,
+   "rasgos": {
+    "from": "2014",
+    "to": "2019"
+   },
+   "texto": "2014-2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17173,
+   "fin": 17265,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Instalación.\nImpresión digital sobre papel bond.\n(43,2 x 27,9 cm), cuerda y ganchos de ropa."
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17223,
+   "fin": 17237,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "43,2 x 27,9 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17223,
+   "fin": 17227,
+   "texto": "43,2"
+  },
+  {
+   "tipo": "width",
+   "ini": 17230,
+   "fin": 17234,
+   "texto": "27,9"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17267,
+   "fin": 17397
+  },
+  {
+   "tipo": "img",
+   "ini": 17267,
+   "fin": 17272,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17274,
+   "fin": 17398,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Fanzine LA NIÑA LA PINTA;\nconfesiones de una mujer elefante.\nInstalación con la banda sonora\n“Agnus Vibrator“, 5min33.\n2019\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 17274,
+   "fin": 17334,
+   "texto": "Fanzine LA NIÑA LA PINTA;\nconfesiones de una mujer elefante."
+  },
+  {
+   "tipo": "technique",
+   "ini": 17335,
+   "fin": 17366,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Instalación con la banda sonora"
+  },
+  {
+   "tipo": "title",
+   "ini": 17367,
+   "fin": 17383,
+   "texto": "“Agnus Vibrator“"
+  },
+  {
+   "tipo": "duration",
+   "ini": 17385,
+   "fin": 17391
+  },
+  {
+   "tipo": "date",
+   "ini": 17393,
+   "fin": 17397,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 17399,
+   "fin": 19215
+  },
+  {
+   "tipo": "title",
+   "ini": 17399,
+   "fin": 17415,
+   "texto": "LA NIÑA LA PINTA"
+  },
+  {
+   "tipo": "title",
+   "ini": 17459,
+   "fin": 17486,
+   "texto": "“I loue* you / te arriendo”"
+  },
+  {
+   "tipo": "date",
+   "ini": 17488,
+   "fin": 17497,
+   "rasgos": {
+    "from": "2014",
+    "to": "2019"
+   },
+   "texto": "2014-2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 17505,
+   "fin": 17557,
+   "texto": "Liminalidades, cuerpos, entretejidos y otros lugares"
+  },
+  {
+   "tipo": "title",
+   "ini": 18721,
+   "fin": 18747,
+   "texto": " I loue* you / te arriendo"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 19217,
+   "fin": 21155
+  },
+  {
+   "tipo": "person",
+   "ini": 19217,
+   "fin": 19236,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ALEXA\nCUESTA FLÓREZ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19217,
+   "fin": 19236,
+   "texto": "ALEXA\nCUESTA FLÓREZ"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19238,
+   "fin": 19577
+  },
+  {
+   "tipo": "img",
+   "ini": 19238,
+   "fin": 19243,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19245,
+   "fin": 19577,
+   "rasgos": {
+    "type": "installation"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 19245,
+   "fin": 19273,
+   "texto": "Intercultural I: Tierrabomba"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19274,
+   "fin": 19342,
+   "rasgos": {
+    "type": "installation, performance"
+   },
+   "texto": "Performance-Instalación\nVideo, fotografias y tres columnas\nflotantes"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19343,
+   "fin": 19360,
+   "rasgos": {
+    "unit": "m"
+   },
+   "texto": "(3,00x0,25x0,25m)"
+  },
+  {
+   "tipo": "height",
+   "ini": 19344,
+   "fin": 19348,
+   "texto": "3,00"
+  },
+  {
+   "tipo": "width",
+   "ini": 19349,
+   "fin": 19353,
+   "texto": "0,25"
+  },
+  {
+   "tipo": "depth",
+   "ini": 19354,
+   "fin": 19358,
+   "texto": "0,25"
+  },
+  {
+   "tipo": "date",
+   "ini": 19361,
+   "fin": 19370,
+   "rasgos": {
+    "from": "2013",
+    "to": "2019"
+   },
+   "texto": "2013-2019"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 19372,
+   "fin": 19577
+  },
+  {
+   "tipo": "person",
+   "ini": 19379,
+   "fin": 19390,
+   "texto": "Mario López"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19379,
+   "fin": 19390,
+   "texto": "Mario López"
+  },
+  {
+   "tipo": "person",
+   "ini": 19404,
+   "fin": 19415,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Edgar Plata"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19404,
+   "fin": 19415,
+   "texto": "Edgar Plata"
+  },
+  {
+   "tipo": "person",
+   "ini": 19425,
+   "fin": 19437,
+   "rasgos": {
+    "role": "editor"
+   },
+   "texto": "Alexa Cuesta"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19425,
+   "fin": 19437,
+   "texto": "Alexa Cuesta"
+  },
+  {
+   "tipo": "person",
+   "ini": 19455,
+   "fin": 19459,
+   "texto": "Lina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19455,
+   "fin": 19459,
+   "texto": "Lina"
+  },
+  {
+   "tipo": "person",
+   "ini": 19461,
+   "fin": 19468,
+   "texto": "Melissa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19461,
+   "fin": 19468,
+   "texto": "Melissa"
+  },
+  {
+   "tipo": "person",
+   "ini": 19470,
+   "fin": 19476,
+   "texto": "Margot"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19470,
+   "fin": 19476,
+   "texto": "Margot"
+  },
+  {
+   "tipo": "person",
+   "ini": 19478,
+   "fin": 19485,
+   "texto": "Alfonso"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19478,
+   "fin": 19485,
+   "texto": "Alfonso"
+  },
+  {
+   "tipo": "person",
+   "ini": 19487,
+   "fin": 19504,
+   "texto": "Elisabeth Vollert"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19487,
+   "fin": 19504,
+   "texto": "Elisabeth Vollert"
+  },
+  {
+   "tipo": "person",
+   "ini": 19506,
+   "fin": 19518,
+   "texto": "Carlos Fúnez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19506,
+   "fin": 19518,
+   "texto": "Carlos Fúnez"
+  },
+  {
+   "tipo": "person",
+   "ini": 19520,
+   "fin": 19529,
+   "texto": "José Covo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19520,
+   "fin": 19529,
+   "texto": "José Covo"
+  },
+  {
+   "tipo": "person",
+   "ini": 19531,
+   "fin": 19535,
+   "texto": "Gito"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19531,
+   "fin": 19535,
+   "texto": "Gito"
+  },
+  {
+   "tipo": "person",
+   "ini": 19537,
+   "fin": 19550,
+   "texto": "Linda Montoya"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19537,
+   "fin": 19550,
+   "texto": "Linda Montoya"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 19565,
+   "fin": 19576,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Tierrabomba"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 19579,
+   "fin": 21155
+  },
+  {
+   "tipo": "title",
+   "ini": 19579,
+   "fin": 19609,
+   "texto": "«Intercultural I: Tierrabomba»"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 19673,
+   "fin": 19692,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "isla de Tierrabomba"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 19711,
+   "fin": 19720,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Cartagena"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 19839,
+   "fin": 19845,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Caribe"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 21157,
+   "fin": 23117
+  },
+  {
+   "tipo": "person",
+   "ini": 21157,
+   "fin": 21170,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MURIEL\nANGULO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21157,
+   "fin": 21170,
+   "texto": "MURIEL\nANGULO"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21172,
+   "fin": 21272
+  },
+  {
+   "tipo": "img",
+   "ini": 21172,
+   "fin": 21177,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 21178,
+   "fin": 21183,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 21185,
+   "fin": 21272,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Tendrás que matarme para\nvencerme\nCollage construido in situ\nDimensiones variables\n2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 21185,
+   "fin": 21218,
+   "texto": "Tendrás que matarme para\nvencerme"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21219,
+   "fin": 21245,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage construido in situ"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21246,
+   "fin": 21267,
+   "texto": "Dimensiones variables"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21246,
+   "fin": 21267,
+   "texto": "Dimensiones variables"
+  },
+  {
+   "tipo": "date",
+   "ini": 21268,
+   "fin": 21272,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 21274,
+   "fin": 23116
+  },
+  {
+   "tipo": "placeName",
+   "ini": 21973,
+   "fin": 21982,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Cartagena"
+  },
+  {
+   "tipo": "person",
+   "ini": 23119,
+   "fin": 23158,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "María Eugenia Trujillo\nNació en Pereira"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23119,
+   "fin": 23141,
+   "texto": "María Eugenia Trujillo"
+  },
+  {
+   "tipo": "birth",
+   "ini": 23142,
+   "fin": 23158
+  },
+  {
+   "tipo": "placeName",
+   "ini": 23151,
+   "fin": 23158,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Pereira"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23722,
+   "fin": 23730,
+   "texto": "Trujillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 23722,
+   "fin": 23730,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Trujillo"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 23855,
+   "fin": 23879
+  },
+  {
+   "tipo": "person",
+   "ini": 23881,
+   "fin": 23970,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martha Amorocho\nArtista franco-colombiana, nace en Cartagena de Indias (Colombia) en 1971"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23881,
+   "fin": 23896,
+   "texto": "Martha Amorocho"
+  },
+  {
+   "tipo": "birth",
+   "ini": 23897,
+   "fin": 23970
+  },
+  {
+   "tipo": "placeName",
+   "ini": 23932,
+   "fin": 23962,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Cartagena de Indias (Colombia)"
+  },
+  {
+   "tipo": "date",
+   "ini": 23966,
+   "fin": 23970,
+   "rasgos": {
+    "when": "1971"
+   },
+   "texto": "1971"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24452,
+   "fin": 24460,
+   "texto": "Amorocho"
+  },
+  {
+   "tipo": "person",
+   "ini": 24452,
+   "fin": 24460,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Amorocho"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 24913,
+   "fin": 24952
+  },
+  {
+   "tipo": "person",
+   "ini": 25018,
+   "fin": 25033,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lisette Urquijo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25018,
+   "fin": 25033,
+   "texto": "Lisette Urquijo"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 25649,
+   "fin": 25779
+  },
+  {
+   "tipo": "person",
+   "ini": 25781,
+   "fin": 25796,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexandra Gelis"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25781,
+   "fin": 25796,
+   "texto": "Alexandra Gelis"
+  },
+  {
+   "tipo": "person",
+   "ini": 25797,
+   "fin": 25812,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexandra Gelis"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25797,
+   "fin": 25812,
+   "texto": "Alexandra Gelis"
+  },
+  {
+   "tipo": "person",
+   "ini": 26323,
+   "fin": 26328,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gelis"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26323,
+   "fin": 26328,
+   "texto": "Gelis"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 26976,
+   "fin": 27010
+  },
+  {
+   "tipo": "person",
+   "ini": 27012,
+   "fin": 27047,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexa Cuesta Flórez\nCartagena, 1970"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27012,
+   "fin": 27031,
+   "texto": "Alexa Cuesta Flórez"
+  },
+  {
+   "tipo": "birth",
+   "ini": 27032,
+   "fin": 27047
+  },
+  {
+   "tipo": "placeName",
+   "ini": 27032,
+   "fin": 27041,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Cartagena"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 28137,
+   "fin": 28166
+  },
+  {
+   "tipo": "person",
+   "ini": 28232,
+   "fin": 28252,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Helena Martin Franco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28232,
+   "fin": 28252,
+   "texto": "Helena Martin Franco"
+  },
+  {
+   "tipo": "person",
+   "ini": 28253,
+   "fin": 28292,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Helena Martin Franco nació en Cartagena"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28253,
+   "fin": 28273,
+   "texto": "Helena Martin Franco"
+  },
+  {
+   "tipo": "birth",
+   "ini": 28273,
+   "fin": 28292
+  },
+  {
+   "tipo": "placeName",
+   "ini": 28283,
+   "fin": 28292,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Cartagena"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 29495,
+   "fin": 29532
+  },
+  {
+   "tipo": "person",
+   "ini": 29534,
+   "fin": 29547,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Muriel Angulo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29534,
+   "fin": 29547,
+   "texto": "Muriel Angulo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29600,
+   "fin": 29618,
+   "texto": "Simone de Beauvoir"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29620,
+   "fin": 29636,
+   "texto": "Jean Paul Sartre"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30044,
+   "fin": 30048,
+   "texto": "Marx"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30050,
+   "fin": 30059,
+   "texto": "Althusser"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30061,
+   "fin": 30066,
+   "texto": "Freud"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30069,
+   "fin": 30077,
+   "texto": "Foucault"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 30433,
+   "fin": 30457
+  }
+ ]
+}

@@ -1,0 +1,2219 @@
+{
+ "id": "cat_097_tierra_blanda_catalogo_qr",
+ "nombre_original": "tierra-blanda-catalogo-qr",
+ "longitud_texto": 19509,
+ "sha256_texto": "b524ab1899edbf5ea8a3ec25a50a1bb02e0a3d48180b89dea9e8235fb7862b69",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 28,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 14,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Federico Jaime"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 14,
+   "texto": "Federico Jaime"
+  },
+  {
+   "tipo": "title",
+   "ini": 15,
+   "fin": 28,
+   "texto": "Tierra Blanda"
+  },
+  {
+   "tipo": "title",
+   "ini": 30,
+   "fin": 43,
+   "texto": "Tierra Blanda"
+  },
+  {
+   "tipo": "person",
+   "ini": 45,
+   "fin": 59,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Federico Jaime"
+  },
+  {
+   "tipo": "persName",
+   "ini": 45,
+   "fin": 59,
+   "texto": "Federico Jaime"
+  },
+  {
+   "tipo": "person",
+   "ini": 77,
+   "fin": 89,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Juan Lacomba"
+  },
+  {
+   "tipo": "persName",
+   "ini": 77,
+   "fin": 89,
+   "texto": "Juan Lacomba"
+  },
+  {
+   "tipo": "person",
+   "ini": 90,
+   "fin": 104,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Fernando Mañes"
+  },
+  {
+   "tipo": "persName",
+   "ini": 90,
+   "fin": 104,
+   "texto": "Fernando Mañes"
+  },
+  {
+   "tipo": "person",
+   "ini": 126,
+   "fin": 141,
+   "texto": "Víctor González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 126,
+   "fin": 141,
+   "texto": "Víctor González"
+  },
+  {
+   "tipo": "person",
+   "ini": 153,
+   "fin": 168,
+   "texto": "Víctor González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 153,
+   "fin": 168,
+   "texto": "Víctor González"
+  },
+  {
+   "tipo": "person",
+   "ini": 237,
+   "fin": 251,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Federico Jaime"
+  },
+  {
+   "tipo": "persName",
+   "ini": 237,
+   "fin": 251,
+   "texto": "Federico Jaime"
+  },
+  {
+   "tipo": "person",
+   "ini": 327,
+   "fin": 357,
+   "texto": "Aguas Santas Jiménez Sarmiento"
+  },
+  {
+   "tipo": "persName",
+   "ini": 327,
+   "fin": 357,
+   "texto": "Aguas Santas Jiménez Sarmiento"
+  },
+  {
+   "tipo": "person",
+   "ini": 359,
+   "fin": 382,
+   "texto": "Alejandro Muñoz\nJiménez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 359,
+   "fin": 382,
+   "texto": "Alejandro Muñoz\nJiménez"
+  },
+  {
+   "tipo": "person",
+   "ini": 384,
+   "fin": 402,
+   "texto": "Elisabetta de Luca"
+  },
+  {
+   "tipo": "persName",
+   "ini": 384,
+   "fin": 402,
+   "texto": "Elisabetta de Luca"
+  },
+  {
+   "tipo": "person",
+   "ini": 404,
+   "fin": 426,
+   "texto": "Felipe Ortega-Regalado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 404,
+   "fin": 426,
+   "texto": "Felipe Ortega-Regalado"
+  },
+  {
+   "tipo": "person",
+   "ini": 428,
+   "fin": 450,
+   "texto": "Juan Fernández Lacomba"
+  },
+  {
+   "tipo": "persName",
+   "ini": 428,
+   "fin": 450,
+   "texto": "Juan Fernández Lacomba"
+  },
+  {
+   "tipo": "person",
+   "ini": 452,
+   "fin": 473,
+   "texto": "Simón Arrebola Parras"
+  },
+  {
+   "tipo": "persName",
+   "ini": 452,
+   "fin": 473,
+   "texto": "Simón Arrebola Parras"
+  },
+  {
+   "tipo": "person",
+   "ini": 475,
+   "fin": 490,
+   "texto": "Víctor González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 475,
+   "fin": 490,
+   "texto": "Víctor González"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 551,
+   "fin": 627,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 551,
+   "fin": 565,
+   "texto": "Federico Jaime"
+  },
+  {
+   "tipo": "persName",
+   "ini": 551,
+   "fin": 565,
+   "texto": "Federico Jaime"
+  },
+  {
+   "tipo": "title",
+   "ini": 566,
+   "fin": 579,
+   "texto": "Tierra Blanda"
+  },
+  {
+   "tipo": "institution",
+   "ini": 600,
+   "fin": 618,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Magasé Art Gallery"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 620,
+   "fin": 627,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 631,
+   "fin": 636,
+   "texto": "Rocío"
+  },
+  {
+   "tipo": "persName",
+   "ini": 640,
+   "fin": 643,
+   "texto": "Sol"
+  },
+  {
+   "tipo": "persName",
+   "ini": 645,
+   "fin": 649,
+   "texto": "Inés"
+  },
+  {
+   "tipo": "persName",
+   "ini": 652,
+   "fin": 660,
+   "texto": "Federico"
+  },
+  {
+   "tipo": "institution",
+   "ini": 714,
+   "fin": 732,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Magasé Art Gallery"
+  },
+  {
+   "tipo": "person",
+   "ini": 2006,
+   "fin": 2020,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Federico Jaime"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2006,
+   "fin": 2020,
+   "texto": "Federico Jaime"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2605,
+   "fin": 2627,
+   "texto": "Juan Fernández Lacomba"
+  },
+  {
+   "tipo": "person",
+   "ini": 2964,
+   "fin": 2978,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Federico Jaime"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2964,
+   "fin": 2978,
+   "texto": "Federico Jaime"
+  },
+  {
+   "tipo": "person",
+   "ini": 3221,
+   "fin": 3245,
+   "rasgos": {
+    "role": "author, galleryDirector"
+   },
+   "texto": "Fernando Mañes Izquierdo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3221,
+   "fin": 3245,
+   "texto": "Fernando Mañes Izquierdo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3246,
+   "fin": 3264,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Magasé Art Gallery"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6274,
+   "fin": 6280,
+   "texto": "Ortega"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6877,
+   "fin": 6891,
+   "texto": "George Steiner"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8379,
+   "fin": 8386,
+   "texto": "Steiner"
+  },
+  {
+   "tipo": "person",
+   "ini": 10679,
+   "fin": 10693,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Federico Jaime"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10679,
+   "fin": 10693,
+   "texto": "Federico Jaime"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10905,
+   "fin": 10918,
+   "texto": "Maurice Denis"
+  },
+  {
+   "tipo": "person",
+   "ini": 11994,
+   "fin": 12008,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Federico Jaime"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11994,
+   "fin": 12008,
+   "texto": "Federico Jaime"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13983,
+   "fin": 13991,
+   "texto": "Leonardo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15164,
+   "fin": 15168,
+   "texto": "Klee"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15170,
+   "fin": 15174,
+   "texto": "Miró"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15176,
+   "fin": 15182,
+   "texto": "Calder"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15185,
+   "fin": 15197,
+   "texto": "Milton Avery"
+  },
+  {
+   "tipo": "person",
+   "ini": 15697,
+   "fin": 15711,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Federico Jaime"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15697,
+   "fin": 15711,
+   "texto": "Federico Jaime"
+  },
+  {
+   "tipo": "person",
+   "ini": 15976,
+   "fin": 15990,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Federico Jaime"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15976,
+   "fin": 15990,
+   "texto": "Federico Jaime"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16533,
+   "fin": 16549,
+   "texto": "Gaston Bachelard"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17042,
+   "fin": 17048,
+   "texto": "Rothko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17398,
+   "fin": 17420,
+   "texto": "Juan Fernández Lacomba"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18020,
+   "fin": 18032,
+   "texto": "G. Bachelard"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 18079,
+   "fin": 19506
+  },
+  {
+   "tipo": "img",
+   "ini": 18100,
+   "fin": 18105,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18107,
+   "fin": 18158
+  },
+  {
+   "tipo": "img",
+   "ini": 18107,
+   "fin": 18112,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18114,
+   "fin": 18158,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Forma roja\nÓleo sobre lienzo\n195x162 cm\n2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 18114,
+   "fin": 18124,
+   "texto": "Forma roja"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18125,
+   "fin": 18142,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18143,
+   "fin": 18153,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "195x162 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18143,
+   "fin": 18146,
+   "texto": "195"
+  },
+  {
+   "tipo": "width",
+   "ini": 18147,
+   "fin": 18150,
+   "texto": "162"
+  },
+  {
+   "tipo": "date",
+   "ini": 18154,
+   "fin": 18158,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18160,
+   "fin": 18210
+  },
+  {
+   "tipo": "img",
+   "ini": 18160,
+   "fin": 18165,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18167,
+   "fin": 18210,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Tierra Ocre\nÓleo sobre lienzo\n46x38 cm\n2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 18167,
+   "fin": 18178,
+   "texto": "Tierra Ocre"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18179,
+   "fin": 18196,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18197,
+   "fin": 18205,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46x38 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18197,
+   "fin": 18199,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 18200,
+   "fin": 18202,
+   "texto": "38"
+  },
+  {
+   "tipo": "date",
+   "ini": 18206,
+   "fin": 18210,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18212,
+   "fin": 18332
+  },
+  {
+   "tipo": "img",
+   "ini": 18212,
+   "fin": 18217,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 18218,
+   "fin": 18223,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 18224,
+   "fin": 18229,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 18230,
+   "fin": 18235,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 18237,
+   "fin": 18332,
+   "rasgos": {
+    "type": "painting",
+    "size": "4"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 18237,
+   "fin": 18250,
+   "texto": "Álbum (serie)"
+  },
+  {
+   "tipo": "title",
+   "ini": 18251,
+   "fin": 18259,
+   "texto": "Dibujo 1"
+  },
+  {
+   "tipo": "title",
+   "ini": 18260,
+   "fin": 18268,
+   "texto": "Dibujo 2"
+  },
+  {
+   "tipo": "title",
+   "ini": 18269,
+   "fin": 18277,
+   "texto": "Dibujo 3"
+  },
+  {
+   "tipo": "title",
+   "ini": 18278,
+   "fin": 18286,
+   "texto": "Dibujo 4"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18287,
+   "fin": 18313,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Pastel al óleo\nsobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18314,
+   "fin": 18324,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "21x29,7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18314,
+   "fin": 18316,
+   "texto": "21"
+  },
+  {
+   "tipo": "width",
+   "ini": 18317,
+   "fin": 18321,
+   "texto": "29,7"
+  },
+  {
+   "tipo": "date",
+   "ini": 18325,
+   "fin": 18332,
+   "rasgos": {
+    "notBefore": "2020",
+    "notAfter": "2021"
+   },
+   "texto": "2020/21"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18334,
+   "fin": 18378
+  },
+  {
+   "tipo": "img",
+   "ini": 18334,
+   "fin": 18339,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18341,
+   "fin": 18378,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Coral\nÓleo sobre lienzo\n41x33 cm\n2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 18341,
+   "fin": 18346,
+   "texto": "Coral"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18347,
+   "fin": 18364,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18365,
+   "fin": 18373,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41x33 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18365,
+   "fin": 18367,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 18368,
+   "fin": 18370,
+   "texto": "33"
+  },
+  {
+   "tipo": "date",
+   "ini": 18374,
+   "fin": 18378,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18380,
+   "fin": 18424
+  },
+  {
+   "tipo": "img",
+   "ini": 18380,
+   "fin": 18385,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18387,
+   "fin": 18424,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Negro\nÓleo sobre lienzo\n41x33 cm\n2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 18387,
+   "fin": 18392,
+   "texto": "Negro"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18393,
+   "fin": 18410,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18411,
+   "fin": 18419,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41x33 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18411,
+   "fin": 18413,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 18414,
+   "fin": 18416,
+   "texto": "33"
+  },
+  {
+   "tipo": "date",
+   "ini": 18420,
+   "fin": 18424,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18426,
+   "fin": 18477
+  },
+  {
+   "tipo": "img",
+   "ini": 18426,
+   "fin": 18431,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18433,
+   "fin": 18477,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Recuerdo (I)\nÓleo sobre lienzo\n24x33 cm\n2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 18433,
+   "fin": 18445,
+   "texto": "Recuerdo (I)"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18446,
+   "fin": 18463,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18464,
+   "fin": 18472,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "24x33 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18464,
+   "fin": 18466,
+   "texto": "24"
+  },
+  {
+   "tipo": "width",
+   "ini": 18467,
+   "fin": 18469,
+   "texto": "33"
+  },
+  {
+   "tipo": "date",
+   "ini": 18473,
+   "fin": 18477,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18479,
+   "fin": 18531
+  },
+  {
+   "tipo": "img",
+   "ini": 18479,
+   "fin": 18484,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18486,
+   "fin": 18531,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Recuerdo (II)\nÓleo sobre lienzo\n33x24 cm\n2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 18486,
+   "fin": 18499,
+   "texto": "Recuerdo (II)"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18500,
+   "fin": 18517,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18518,
+   "fin": 18526,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "33x24 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18518,
+   "fin": 18520,
+   "texto": "33"
+  },
+  {
+   "tipo": "width",
+   "ini": 18521,
+   "fin": 18523,
+   "texto": "24"
+  },
+  {
+   "tipo": "date",
+   "ini": 18527,
+   "fin": 18531,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18533,
+   "fin": 18638
+  },
+  {
+   "tipo": "img",
+   "ini": 18533,
+   "fin": 18538,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 18539,
+   "fin": 18544,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 18545,
+   "fin": 18550,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 18552,
+   "fin": 18638,
+   "rasgos": {
+    "type": "painting",
+    "size": "3"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 18552,
+   "fin": 18565,
+   "texto": "Álbum (serie)"
+  },
+  {
+   "tipo": "title",
+   "ini": 18566,
+   "fin": 18574,
+   "texto": "Dibujo 5"
+  },
+  {
+   "tipo": "title",
+   "ini": 18575,
+   "fin": 18583,
+   "texto": "Dibujo 6"
+  },
+  {
+   "tipo": "title",
+   "ini": 18584,
+   "fin": 18592,
+   "texto": "Dibujo 7"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18593,
+   "fin": 18619,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Pastel al óleo\nsobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18620,
+   "fin": 18630,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "21x29,7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18620,
+   "fin": 18622,
+   "texto": "21"
+  },
+  {
+   "tipo": "width",
+   "ini": 18623,
+   "fin": 18627,
+   "texto": "29,7"
+  },
+  {
+   "tipo": "date",
+   "ini": 18631,
+   "fin": 18638,
+   "rasgos": {
+    "notBefore": "2020",
+    "notAfter": "2021"
+   },
+   "texto": "2020/21"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18640,
+   "fin": 18686
+  },
+  {
+   "tipo": "img",
+   "ini": 18640,
+   "fin": 18645,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18647,
+   "fin": 18686,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Dibujo 8\nPastel al óleo\n29,7x21 cm\n2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 18647,
+   "fin": 18655,
+   "texto": "Dibujo 8"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18656,
+   "fin": 18670,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Pastel al óleo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18671,
+   "fin": 18681,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29,7x21 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18671,
+   "fin": 18675,
+   "texto": "29,7"
+  },
+  {
+   "tipo": "width",
+   "ini": 18676,
+   "fin": 18678,
+   "texto": "21"
+  },
+  {
+   "tipo": "date",
+   "ini": 18682,
+   "fin": 18686,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18688,
+   "fin": 18733
+  },
+  {
+   "tipo": "img",
+   "ini": 18688,
+   "fin": 18693,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18695,
+   "fin": 18733,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Velado\nÓleo sobre lienzo\n27x35 cm\n2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 18695,
+   "fin": 18701,
+   "texto": "Velado"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18702,
+   "fin": 18719,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18720,
+   "fin": 18728,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27x35 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18720,
+   "fin": 18722,
+   "texto": "27"
+  },
+  {
+   "tipo": "width",
+   "ini": 18723,
+   "fin": 18725,
+   "texto": "35"
+  },
+  {
+   "tipo": "date",
+   "ini": 18729,
+   "fin": 18733,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18735,
+   "fin": 18796
+  },
+  {
+   "tipo": "img",
+   "ini": 18735,
+   "fin": 18740,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18742,
+   "fin": 18796,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Blanco, azul, amarillo\nÓleo sobre lienzo\n27x35 cm\n2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 18742,
+   "fin": 18764,
+   "texto": "Blanco, azul, amarillo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18765,
+   "fin": 18782,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18783,
+   "fin": 18791,
+   "rasgos": {
+    "unit": ""
+   },
+   "texto": "27x35 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18783,
+   "fin": 18785,
+   "texto": "27"
+  },
+  {
+   "tipo": "width",
+   "ini": 18786,
+   "fin": 18788,
+   "texto": "35"
+  },
+  {
+   "tipo": "date",
+   "ini": 18792,
+   "fin": 18796,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18798,
+   "fin": 18844
+  },
+  {
+   "tipo": "img",
+   "ini": 18798,
+   "fin": 18803,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18805,
+   "fin": 18844,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Emblema\nÓleo sobre lienzo\n35x27 cm\n2020"
+  },
+  {
+   "tipo": "title",
+   "ini": 18805,
+   "fin": 18812,
+   "texto": "Emblema"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18813,
+   "fin": 18830,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18831,
+   "fin": 18839,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35x27 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18831,
+   "fin": 18833,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 18834,
+   "fin": 18836,
+   "texto": "27"
+  },
+  {
+   "tipo": "date",
+   "ini": 18840,
+   "fin": 18844,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "img",
+   "ini": 18846,
+   "fin": 18851,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 18852,
+   "fin": 18857,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18859,
+   "fin": 18908
+  },
+  {
+   "tipo": "img",
+   "ini": 18859,
+   "fin": 18864,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18866,
+   "fin": 18908,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Nocturno\nÓleo sobre lienzo\n146x162 cm\n2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 18866,
+   "fin": 18874,
+   "texto": "Nocturno"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18875,
+   "fin": 18892,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18893,
+   "fin": 18903,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "146x162 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18893,
+   "fin": 18896,
+   "texto": "146"
+  },
+  {
+   "tipo": "width",
+   "ini": 18897,
+   "fin": 18900,
+   "texto": "162"
+  },
+  {
+   "tipo": "date",
+   "ini": 18904,
+   "fin": 18908,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 18910,
+   "fin": 18915,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 18916,
+   "fin": 18921,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "false",
+    "src": "catallogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18923,
+   "fin": 18968
+  },
+  {
+   "tipo": "img",
+   "ini": 18923,
+   "fin": 18928,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18930,
+   "fin": 18968,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Calado\nÓleo sobre lienzo\n55x46 cm\n2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 18930,
+   "fin": 18936,
+   "texto": "Calado"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18937,
+   "fin": 18954,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18955,
+   "fin": 18963,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55x46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18955,
+   "fin": 18957,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 18958,
+   "fin": 18960,
+   "texto": "46"
+  },
+  {
+   "tipo": "date",
+   "ini": 18964,
+   "fin": 18968,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18970,
+   "fin": 19017
+  },
+  {
+   "tipo": "img",
+   "ini": 18970,
+   "fin": 18975,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18977,
+   "fin": 19017,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Abertura\nÓleo sobre lienzo\n81x65 cm\n2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 18977,
+   "fin": 18985,
+   "texto": "Abertura"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18986,
+   "fin": 19003,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19004,
+   "fin": 19012,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81x65 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19004,
+   "fin": 19006,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 19007,
+   "fin": 19009,
+   "texto": "65"
+  },
+  {
+   "tipo": "date",
+   "ini": 19013,
+   "fin": 19017,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "img",
+   "ini": 19019,
+   "fin": 19024,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 19025,
+   "fin": 19030,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19032,
+   "fin": 19098
+  },
+  {
+   "tipo": "img",
+   "ini": 19032,
+   "fin": 19037,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19039,
+   "fin": 19098,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Secuencia (serie)\nPintura 1\nÓleo sobre lienzo\n27x22 cm\n2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 19039,
+   "fin": 19056,
+   "texto": "Secuencia (serie)"
+  },
+  {
+   "tipo": "title",
+   "ini": 19057,
+   "fin": 19066,
+   "texto": "Pintura 1"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19067,
+   "fin": 19084,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19085,
+   "fin": 19093,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27x22 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19085,
+   "fin": 19087,
+   "texto": "27"
+  },
+  {
+   "tipo": "width",
+   "ini": 19088,
+   "fin": 19090,
+   "texto": "22"
+  },
+  {
+   "tipo": "date",
+   "ini": 19094,
+   "fin": 19098,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19100,
+   "fin": 19166
+  },
+  {
+   "tipo": "img",
+   "ini": 19100,
+   "fin": 19105,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19107,
+   "fin": 19166,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Secuencia (serie)\nPintura 2\nÓleo sobre lienzo\n27x22 cm\n2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 19107,
+   "fin": 19124,
+   "texto": "Secuencia (serie)"
+  },
+  {
+   "tipo": "title",
+   "ini": 19125,
+   "fin": 19134,
+   "texto": "Pintura 2"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19135,
+   "fin": 19152,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19153,
+   "fin": 19161,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27x22 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19153,
+   "fin": 19155,
+   "texto": "27"
+  },
+  {
+   "tipo": "width",
+   "ini": 19156,
+   "fin": 19158,
+   "texto": "22"
+  },
+  {
+   "tipo": "date",
+   "ini": 19162,
+   "fin": 19166,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19168,
+   "fin": 19234
+  },
+  {
+   "tipo": "img",
+   "ini": 19168,
+   "fin": 19173,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19175,
+   "fin": 19234,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Secuencia (serie)\nPintura 3\nÓleo sobre lienzo\n27x22 cm\n2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 19175,
+   "fin": 19192,
+   "texto": "Secuencia (serie)"
+  },
+  {
+   "tipo": "title",
+   "ini": 19193,
+   "fin": 19202,
+   "texto": "Pintura 3"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19203,
+   "fin": 19220,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19221,
+   "fin": 19229,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27x22 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19221,
+   "fin": 19223,
+   "texto": "27"
+  },
+  {
+   "tipo": "width",
+   "ini": 19224,
+   "fin": 19226,
+   "texto": "22"
+  },
+  {
+   "tipo": "date",
+   "ini": 19230,
+   "fin": 19234,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19236,
+   "fin": 19302
+  },
+  {
+   "tipo": "img",
+   "ini": 19236,
+   "fin": 19241,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19243,
+   "fin": 19302,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Secuencia (serie)\nPintura 4\nÓleo sobre lienzo\n27x22 cm\n2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 19243,
+   "fin": 19260,
+   "texto": "Secuencia (serie)"
+  },
+  {
+   "tipo": "title",
+   "ini": 19261,
+   "fin": 19270,
+   "texto": "Pintura 4"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19271,
+   "fin": 19288,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19289,
+   "fin": 19297,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27x22 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19289,
+   "fin": 19291,
+   "texto": "27"
+  },
+  {
+   "tipo": "width",
+   "ini": 19292,
+   "fin": 19294,
+   "texto": "22"
+  },
+  {
+   "tipo": "date",
+   "ini": 19298,
+   "fin": 19302,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19304,
+   "fin": 19370
+  },
+  {
+   "tipo": "img",
+   "ini": 19304,
+   "fin": 19309,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19311,
+   "fin": 19370,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Secuencia (serie)\nPintura 5\nÓleo sobre lienzo\n27x22 cm\n2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 19311,
+   "fin": 19328,
+   "texto": "Secuencia (serie)"
+  },
+  {
+   "tipo": "title",
+   "ini": 19329,
+   "fin": 19338,
+   "texto": "Pintura 5"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19339,
+   "fin": 19356,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19357,
+   "fin": 19365,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27x22 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19357,
+   "fin": 19359,
+   "texto": "27"
+  },
+  {
+   "tipo": "width",
+   "ini": 19360,
+   "fin": 19362,
+   "texto": "22"
+  },
+  {
+   "tipo": "date",
+   "ini": 19366,
+   "fin": 19370,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19372,
+   "fin": 19438
+  },
+  {
+   "tipo": "img",
+   "ini": 19372,
+   "fin": 19377,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19379,
+   "fin": 19438,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Secuencia (serie)\nPintura 6\nÓleo sobre lienzo\n27x22 cm\n2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 19379,
+   "fin": 19396,
+   "texto": "Secuencia (serie)"
+  },
+  {
+   "tipo": "title",
+   "ini": 19397,
+   "fin": 19406,
+   "texto": "Pintura 6"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19407,
+   "fin": 19424,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19425,
+   "fin": 19433,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27x22 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19425,
+   "fin": 19427,
+   "texto": "27"
+  },
+  {
+   "tipo": "width",
+   "ini": 19428,
+   "fin": 19430,
+   "texto": "22"
+  },
+  {
+   "tipo": "date",
+   "ini": 19434,
+   "fin": 19438,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19440,
+   "fin": 19506
+  },
+  {
+   "tipo": "img",
+   "ini": 19440,
+   "fin": 19445,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19447,
+   "fin": 19506,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Secuencia (serie)\nPintura 7\nÓleo sobre lienzo\n27x22 cm\n2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 19447,
+   "fin": 19464,
+   "texto": "Secuencia (serie)"
+  },
+  {
+   "tipo": "title",
+   "ini": 19465,
+   "fin": 19474,
+   "texto": "Pintura 7"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19475,
+   "fin": 19492,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19493,
+   "fin": 19501,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27x22 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19493,
+   "fin": 19495,
+   "texto": "27"
+  },
+  {
+   "tipo": "width",
+   "ini": 19496,
+   "fin": 19498,
+   "texto": "22"
+  },
+  {
+   "tipo": "date",
+   "ini": 19502,
+   "fin": 19506,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  }
+ ]
+}

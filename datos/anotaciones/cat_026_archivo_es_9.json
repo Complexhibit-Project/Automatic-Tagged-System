@@ -1,0 +1,4435 @@
+{
+ "id": "cat_026_archivo_es_9",
+ "nombre_original": "archivo_es-9",
+ "longitud_texto": 164500,
+ "sha256_texto": "cfc23c7be73a40e9b429d9fd82f3fcae56f5c7cff58a9a5ac47caeb9c369251e",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 91,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 14,
+   "texto": "Equipo Crónica"
+  },
+  {
+   "tipo": "person ",
+   "ini": 0,
+   "fin": 14,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 16,
+   "fin": 29,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   }
+  },
+  {
+   "tipo": "persName",
+   "ini": 16,
+   "fin": 29,
+   "texto": "Tomàs Llorens"
+  },
+  {
+   "tipo": "institution",
+   "ini": 31,
+   "fin": 90,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Bilboko Arte Ederren Museoa\nMuseo de Bellas Artes de Bilbao"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 84,
+   "fin": 90,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Bilbao"
+  },
+  {
+   "tipo": "institution",
+   "ini": 760,
+   "fin": 839,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Bilboko Arte Ederren Museoa Fundazioa-Fundación Museo de Bellas Artes de Bilbao"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 833,
+   "fin": 839,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Bilbao"
+  },
+  {
+   "tipo": "person ",
+   "ini": 842,
+   "fin": 856,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 1072,
+   "fin": 1131,
+   "rasgos": {
+    "type": "museum",
+    "role": "photographer"
+   },
+   "texto": "Bilboko Arte Ederren Museoa-Museo de Bellas Artes de Bilbao"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1125,
+   "fin": 1131,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Bilbao"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1389,
+   "fin": 1545,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 1446,
+   "fin": 1460,
+   "texto": "Equipo Crónica"
+  },
+  {
+   "tipo": "person ",
+   "ini": 1446,
+   "fin": 1460,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 1478,
+   "fin": 1509,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Museo de Bellas\nArtes de Bilbao"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1503,
+   "fin": 1509,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Bilbao"
+  },
+  {
+   "tipo": "date",
+   "ini": 1511,
+   "fin": 1543,
+   "rasgos": {
+    "from": "2015-02-10",
+    "to": "2015-05-18"
+   },
+   "texto": "10 de febrero-18 de mayo de 2015"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 1570,
+   "fin": 164500
+  },
+  {
+   "tipo": "text",
+   "ini": 1570,
+   "fin": 29267
+  },
+  {
+   "tipo": "person ",
+   "ini": 1572,
+   "fin": 1599,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1591,
+   "fin": 1599,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Valencia"
+  },
+  {
+   "tipo": "person ",
+   "ini": 1619,
+   "fin": 1633,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 1634,
+   "fin": 1648,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 2001,
+   "fin": 2016,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 6057,
+   "fin": 6072,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 8295,
+   "fin": 8310,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 8784,
+   "fin": 8811,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "placeName",
+   "ini": 8803,
+   "fin": 8811,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Valencia"
+  },
+  {
+   "tipo": "person ",
+   "ini": 8842,
+   "fin": 8857,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 9101,
+   "fin": 9116,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 9889,
+   "fin": 9904,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 11463,
+   "fin": 11478,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 12260,
+   "fin": 12275,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 12332,
+   "fin": 12346,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 12582,
+   "fin": 12597,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 12932,
+   "fin": 12946,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 13099,
+   "fin": 13114,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 13231,
+   "fin": 13246,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 15110,
+   "fin": 15125,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 15240,
+   "fin": 15255,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 15837,
+   "fin": 15852,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 15854,
+   "fin": 15881,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "placeName",
+   "ini": 15873,
+   "fin": 15881,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Valencia"
+  },
+  {
+   "tipo": "person ",
+   "ini": 16040,
+   "fin": 16055,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 16547,
+   "fin": 16562,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 17377,
+   "fin": 17392,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 19074,
+   "fin": 19088,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 19411,
+   "fin": 19425,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 19527,
+   "fin": 19541,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 19634,
+   "fin": 19640,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 19743,
+   "fin": 19758,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 19813,
+   "fin": 19827,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 19959,
+   "fin": 19973,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 19996,
+   "fin": 20011,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 20042,
+   "fin": 20048,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 20302,
+   "fin": 20308,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 20380,
+   "fin": 20386,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 20948,
+   "fin": 20962,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 21340,
+   "fin": 21354,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 21357,
+   "fin": 21384,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "placeName",
+   "ini": 21376,
+   "fin": 21384,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Valencia"
+  },
+  {
+   "tipo": "person ",
+   "ini": 21433,
+   "fin": 21460,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "placeName",
+   "ini": 21452,
+   "fin": 21460,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Valencia"
+  },
+  {
+   "tipo": "person ",
+   "ini": 22178,
+   "fin": 22205,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "placeName",
+   "ini": 22197,
+   "fin": 22205,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Valencia"
+  },
+  {
+   "tipo": "person ",
+   "ini": 22672,
+   "fin": 22699,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "placeName",
+   "ini": 22691,
+   "fin": 22699,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Valencia"
+  },
+  {
+   "tipo": "person ",
+   "ini": 23765,
+   "fin": 23792,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 26427,
+   "fin": 26441,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 27051,
+   "fin": 27065,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 27458,
+   "fin": 27472,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 27801,
+   "fin": 27815,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 27874,
+   "fin": 27880,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 29269,
+   "fin": 29395
+  },
+  {
+   "tipo": "img",
+   "ini": 29269,
+   "fin": 29274,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 29276,
+   "fin": 29395,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "1. Estampa Popular de Valencia\nCalendario de 1966 (mes de mayo), 1965\nOffset sobre papel\n44 x 30,8 cm\nColección privada"
+  },
+  {
+   "tipo": "person ",
+   "ini": 29279,
+   "fin": 29306,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "placeName",
+   "ini": 29298,
+   "fin": 29306,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Valencia"
+  },
+  {
+   "tipo": "title",
+   "ini": 29307,
+   "fin": 29339,
+   "texto": "Calendario de 1966 (mes de mayo)"
+  },
+  {
+   "tipo": "date",
+   "ini": 29341,
+   "fin": 29345,
+   "rasgos": {
+    "when": "1965"
+   },
+   "texto": "1965"
+  },
+  {
+   "tipo": "technique",
+   "ini": 29346,
+   "fin": 29364,
+   "rasgos": {
+    "type": "offset"
+   },
+   "texto": "Offset sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 29365,
+   "fin": 29377,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "44 x 30,8 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 29365,
+   "fin": 29367,
+   "texto": "44"
+  },
+  {
+   "tipo": "width",
+   "ini": 29370,
+   "fin": 29374,
+   "texto": "30,8"
+  },
+  {
+   "tipo": "person ",
+   "ini": 29378,
+   "fin": 29395,
+   "rasgos": {
+    "role": "lender, owner"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 29397,
+   "fin": 29524
+  },
+  {
+   "tipo": "img",
+   "ini": 29397,
+   "fin": 29402,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 29404,
+   "fin": 29524,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "2. Estampa Popular de Valencia\nCalendario de 1966 (mes de julio), 1965\nOffset sobre papel\n44 x 30,8 cm\nColección privada"
+  },
+  {
+   "tipo": "person ",
+   "ini": 29407,
+   "fin": 29434,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "placeName",
+   "ini": 29426,
+   "fin": 29434,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Valencia"
+  },
+  {
+   "tipo": "title",
+   "ini": 29435,
+   "fin": 29468,
+   "texto": "Calendario de 1966 (mes de julio)"
+  },
+  {
+   "tipo": "date",
+   "ini": 29470,
+   "fin": 29474,
+   "rasgos": {
+    "when": "1965"
+   },
+   "texto": "1965"
+  },
+  {
+   "tipo": "technique",
+   "ini": 29475,
+   "fin": 29493,
+   "rasgos": {
+    "type": "offset"
+   },
+   "texto": "Offset sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 29494,
+   "fin": 29506,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "44 x 30,8 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 29494,
+   "fin": 29496,
+   "texto": "44"
+  },
+  {
+   "tipo": "width",
+   "ini": 29499,
+   "fin": 29503,
+   "texto": "30,8"
+  },
+  {
+   "tipo": "person ",
+   "ini": 29507,
+   "fin": 29524,
+   "rasgos": {
+    "role": "lender, owner"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 29526,
+   "fin": 29648
+  },
+  {
+   "tipo": "img",
+   "ini": 29526,
+   "fin": 29531,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 29533,
+   "fin": 29648,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "3. Estampa Popular de Valencia\nCalendario de 1966 (portada), 1965\nOffset sobre papel\n44 x 30,8 cm\nColección privada"
+  },
+  {
+   "tipo": "person ",
+   "ini": 29536,
+   "fin": 29563,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "placeName",
+   "ini": 29555,
+   "fin": 29563,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Valencia"
+  },
+  {
+   "tipo": "title",
+   "ini": 29564,
+   "fin": 29592,
+   "texto": "Calendario de 1966 (portada)"
+  },
+  {
+   "tipo": "date",
+   "ini": 29594,
+   "fin": 29598,
+   "rasgos": {
+    "when": "1965"
+   },
+   "texto": "1965"
+  },
+  {
+   "tipo": "technique",
+   "ini": 29599,
+   "fin": 29617,
+   "rasgos": {
+    "type": "offset"
+   },
+   "texto": "Offset sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 29618,
+   "fin": 29630,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "44 x 30,8 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 29618,
+   "fin": 29620,
+   "texto": "44"
+  },
+  {
+   "tipo": "width",
+   "ini": 29623,
+   "fin": 29627,
+   "texto": "30,8"
+  },
+  {
+   "tipo": "person ",
+   "ini": 29631,
+   "fin": 29648,
+   "rasgos": {
+    "role": "lender, owner"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 29650,
+   "fin": 29772
+  },
+  {
+   "tipo": "img",
+   "ini": 29650,
+   "fin": 29655,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 29657,
+   "fin": 29772,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "4. Equipo Crónica\nFolclore, 1965\nAcrílico sobre táblex\n100 x 70 cm\nColección Guillermo Caballero de Luján, Valencia"
+  },
+  {
+   "tipo": "person ",
+   "ini": 29660,
+   "fin": 29674,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 29675,
+   "fin": 29683,
+   "texto": "Folclore"
+  },
+  {
+   "tipo": "date",
+   "ini": 29685,
+   "fin": 29689,
+   "rasgos": {
+    "when": "1965"
+   },
+   "texto": "1965"
+  },
+  {
+   "tipo": "technique",
+   "ini": 29690,
+   "fin": 29711,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre táblex"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 29712,
+   "fin": 29723,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 29712,
+   "fin": 29715,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 29718,
+   "fin": 29720,
+   "texto": "70"
+  },
+  {
+   "tipo": "person ",
+   "ini": 29724,
+   "fin": 29772,
+   "rasgos": {
+    "role": "lender, owner"
+   }
+  },
+  {
+   "tipo": "persName",
+   "ini": 29734,
+   "fin": 29762,
+   "texto": "Guillermo Caballero de Luján"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 29764,
+   "fin": 29772,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Valencia"
+  },
+  {
+   "tipo": "text",
+   "ini": 29774,
+   "fin": 37998
+  },
+  {
+   "tipo": "person ",
+   "ini": 29944,
+   "fin": 29958,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 31220,
+   "fin": 31234,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 31337,
+   "fin": 31351,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 32017,
+   "fin": 32023,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 32594,
+   "fin": 32608,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 33009,
+   "fin": 33023,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 33872,
+   "fin": 33878,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 34547,
+   "fin": 34553,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 36200,
+   "fin": 36206,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 36653,
+   "fin": 36667,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 37019,
+   "fin": 37025,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 37220,
+   "fin": 37226,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 37864,
+   "fin": 37878,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 38000,
+   "fin": 38146
+  },
+  {
+   "tipo": "img",
+   "ini": 38000,
+   "fin": 38005,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 38007,
+   "fin": 38146,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "5. Equipo Crónica\nEl industrial, 1966\nSerigrafía sobre papel\nEdición 6/50\n39,5 x 54,9 cm (papel); 23,7 x 32,9 cm (huella)\nColección privada"
+  },
+  {
+   "tipo": "person ",
+   "ini": 38010,
+   "fin": 38024,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 38025,
+   "fin": 38038,
+   "texto": "El industrial"
+  },
+  {
+   "tipo": "date",
+   "ini": 38040,
+   "fin": 38044,
+   "rasgos": {
+    "when": "1966"
+   },
+   "texto": "1966"
+  },
+  {
+   "tipo": "technique",
+   "ini": 38045,
+   "fin": 38067,
+   "rasgos": {
+    "type": "serigraph"
+   },
+   "texto": "Serigrafía sobre papel"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 38068,
+   "fin": 38080
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 38081,
+   "fin": 38103,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "39,5 x 54,9 cm (papel)"
+  },
+  {
+   "tipo": "height",
+   "ini": 38081,
+   "fin": 38085,
+   "texto": "39,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 38088,
+   "fin": 38092,
+   "texto": "54,9"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 38105,
+   "fin": 38128,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "23,7 x 32,9 cm (huella)"
+  },
+  {
+   "tipo": "height",
+   "ini": 38105,
+   "fin": 38109,
+   "texto": "23,7"
+  },
+  {
+   "tipo": "width",
+   "ini": 38112,
+   "fin": 38116,
+   "texto": "32,9"
+  },
+  {
+   "tipo": "person ",
+   "ini": 38129,
+   "fin": 38146,
+   "rasgos": {
+    "role": "lender, owner"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 38148,
+   "fin": 39248
+  },
+  {
+   "tipo": "person ",
+   "ini": 38270,
+   "fin": 38276,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 38927,
+   "fin": 38933,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 39233,
+   "fin": 39247,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39250,
+   "fin": 39345
+  },
+  {
+   "tipo": "img",
+   "ini": 39250,
+   "fin": 39255,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 39257,
+   "fin": 39345,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "6. Equipo Crónica\nLatin lover, 1967\nAcrílico sobre lienzo\n120 x 120 cm\nColección privada"
+  },
+  {
+   "tipo": "person ",
+   "ini": 39260,
+   "fin": 39274,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 39275,
+   "fin": 39286,
+   "texto": "Latin lover"
+  },
+  {
+   "tipo": "date",
+   "ini": 39288,
+   "fin": 39292,
+   "rasgos": {
+    "when": "1967"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "technique",
+   "ini": 39293,
+   "fin": 39314,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39315,
+   "fin": 39327,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "120 x 120 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 39315,
+   "fin": 39318,
+   "texto": "120"
+  },
+  {
+   "tipo": "width",
+   "ini": 39321,
+   "fin": 39324,
+   "texto": "120"
+  },
+  {
+   "tipo": "person ",
+   "ini": 39328,
+   "fin": 39345,
+   "rasgos": {
+    "role": "lender, owner"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 39348,
+   "fin": 47623
+  },
+  {
+   "tipo": "person ",
+   "ini": 39493,
+   "fin": 39507,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 40237,
+   "fin": 40243,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 41040,
+   "fin": 41046,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 41426,
+   "fin": 41440,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 41491,
+   "fin": 41497,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 42190,
+   "fin": 42196,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 42576,
+   "fin": 42582,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 42950,
+   "fin": 42964,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 43399,
+   "fin": 43413,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 43445,
+   "fin": 43459,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 43489,
+   "fin": 43503,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 44921,
+   "fin": 44935,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 46489,
+   "fin": 46495,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 47290,
+   "fin": 47296,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 47625,
+   "fin": 47810
+  },
+  {
+   "tipo": "img",
+   "ini": 47625,
+   "fin": 47630,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 47632,
+   "fin": 47810,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "7. Equipo Crónica\nLas estructuras cambian, las esencias permanecen, 1968\nSerie La recuperación\nAcrílico sobre lienzo\n130 x 160 cm\nColección Guillermo Caballero de Luján, Valencia"
+  },
+  {
+   "tipo": "person ",
+   "ini": 47635,
+   "fin": 47649,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 47650,
+   "fin": 47698,
+   "texto": "Las estructuras cambian, las esencias permanecen"
+  },
+  {
+   "tipo": "date",
+   "ini": 47700,
+   "fin": 47704,
+   "rasgos": {
+    "when": "1968"
+   },
+   "texto": "1968"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 47705,
+   "fin": 47726
+  },
+  {
+   "tipo": "title",
+   "ini": 47711,
+   "fin": 47726,
+   "texto": "La recuperación"
+  },
+  {
+   "tipo": "technique",
+   "ini": 47727,
+   "fin": 47748,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47749,
+   "fin": 47761,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 160 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 47749,
+   "fin": 47752,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 47755,
+   "fin": 47758,
+   "texto": "160"
+  },
+  {
+   "tipo": "person ",
+   "ini": 47762,
+   "fin": 47810,
+   "rasgos": {
+    "role": "lender, owner"
+   }
+  },
+  {
+   "tipo": "persName",
+   "ini": 47772,
+   "fin": 47800,
+   "texto": "Guillermo Caballero de Luján"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 47802,
+   "fin": 47810,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Valencia"
+  },
+  {
+   "tipo": "text",
+   "ini": 47812,
+   "fin": 54292
+  },
+  {
+   "tipo": "person ",
+   "ini": 48200,
+   "fin": 48214,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 48411,
+   "fin": 48417,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 48921,
+   "fin": 48927,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 49239,
+   "fin": 49253,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 50730,
+   "fin": 50736,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 50792,
+   "fin": 50798,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 52355,
+   "fin": 52369,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 53548,
+   "fin": 53562,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 54294,
+   "fin": 54459
+  },
+  {
+   "tipo": "img",
+   "ini": 54294,
+   "fin": 54299,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 54301,
+   "fin": 54459,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "8. Equipo Crónica\nEl embalaje, 1969\nSerie Guernica 69\nAcrílico sobre lienzo\n120 x 120 cm\nColección de arte contemporáneo\nFundación “la Caixa”\nN.º inv. ACF0147"
+  },
+  {
+   "tipo": "person ",
+   "ini": 54304,
+   "fin": 54318,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 54319,
+   "fin": 54330,
+   "texto": "El embalaje"
+  },
+  {
+   "tipo": "date",
+   "ini": 54332,
+   "fin": 54336,
+   "rasgos": {
+    "when": "1969"
+   },
+   "texto": "1969"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 54337,
+   "fin": 54354
+  },
+  {
+   "tipo": "title",
+   "ini": 54343,
+   "fin": 54354,
+   "texto": "Guernica 69"
+  },
+  {
+   "tipo": "technique",
+   "ini": 54355,
+   "fin": 54376,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 54377,
+   "fin": 54389,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "120 x 120 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 54377,
+   "fin": 54380,
+   "texto": "120"
+  },
+  {
+   "tipo": "width",
+   "ini": 54383,
+   "fin": 54386,
+   "texto": "120"
+  },
+  {
+   "tipo": "institution",
+   "ini": 54390,
+   "fin": 54442,
+   "rasgos": {
+    "type": "foundation",
+    "role": "lender, owner"
+   },
+   "texto": "Colección de arte contemporáneo\nFundación “la Caixa”"
+  },
+  {
+   "tipo": "idno",
+   "ini": 54443,
+   "fin": 54459,
+   "texto": "N.º inv. ACF0147"
+  },
+  {
+   "tipo": "text",
+   "ini": 54461,
+   "fin": 60828
+  },
+  {
+   "tipo": "person ",
+   "ini": 55070,
+   "fin": 55084,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 55444,
+   "fin": 55450,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 55628,
+   "fin": 55642,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 56577,
+   "fin": 56591,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 56626,
+   "fin": 56640,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 57574,
+   "fin": 57588,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 58002,
+   "fin": 58008,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 58540,
+   "fin": 58554,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 60217,
+   "fin": 60223,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 60637,
+   "fin": 60643,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 60795,
+   "fin": 60809,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 60830,
+   "fin": 61045
+  },
+  {
+   "tipo": "img",
+   "ini": 60830,
+   "fin": 60835,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 60837,
+   "fin": 61045,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 60840,
+   "fin": 60854,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 60855,
+   "fin": 60889,
+   "texto": "Autorretrato en palacio o El perro"
+  },
+  {
+   "tipo": "date",
+   "ini": 60891,
+   "fin": 60895,
+   "rasgos": {
+    "when": "1970"
+   },
+   "texto": "1970"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 60896,
+   "fin": 60923
+  },
+  {
+   "tipo": "title",
+   "ini": 60902,
+   "fin": 60923,
+   "texto": "Autopsia de un oficio"
+  },
+  {
+   "tipo": "technique",
+   "ini": 60924,
+   "fin": 60945,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 60946,
+   "fin": 60958,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 60946,
+   "fin": 60949,
+   "texto": "122"
+  },
+  {
+   "tipo": "width",
+   "ini": 60952,
+   "fin": 60955,
+   "texto": "100"
+  },
+  {
+   "tipo": "institution",
+   "ini": 60959,
+   "fin": 61029,
+   "rasgos": {
+    "type": "museum",
+    "role": "lender, owner"
+   },
+   "texto": "Colección Arte Siglo XX. MACA, Museo de Arte Contemporáneo de Alicante"
+  },
+  {
+   "tipo": "idno",
+   "ini": 61030,
+   "fin": 61045,
+   "texto": "N.º inv. XX.044"
+  },
+  {
+   "tipo": "text",
+   "ini": 61047,
+   "fin": 65140
+  },
+  {
+   "tipo": "person ",
+   "ini": 61347,
+   "fin": 61353,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 62257,
+   "fin": 62263,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 63036,
+   "fin": 63050,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 65142,
+   "fin": 65299
+  },
+  {
+   "tipo": "img",
+   "ini": 65142,
+   "fin": 65147,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 65149,
+   "fin": 65299,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "10. Equipo Crónica\nEstructura cerrada, 1971\nSerie Policía y cultura\nAcrílico sobre lienzo\n200 x 200 cm\nColección Guillermo Caballero de Luján\nValencia"
+  },
+  {
+   "tipo": "person ",
+   "ini": 65153,
+   "fin": 65167,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 65168,
+   "fin": 65186,
+   "texto": "Estructura cerrada"
+  },
+  {
+   "tipo": "date",
+   "ini": 65188,
+   "fin": 65192,
+   "rasgos": {
+    "when": "1971"
+   },
+   "texto": "1971"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 65193,
+   "fin": 65216
+  },
+  {
+   "tipo": "title",
+   "ini": 65199,
+   "fin": 65216,
+   "texto": "Policía y cultura"
+  },
+  {
+   "tipo": "technique",
+   "ini": 65217,
+   "fin": 65238,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 65239,
+   "fin": 65251,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 200 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 65239,
+   "fin": 65242,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 65245,
+   "fin": 65248,
+   "texto": "200"
+  },
+  {
+   "tipo": "persName",
+   "ini": 65262,
+   "fin": 65290,
+   "texto": "Guillermo Caballero de Luján"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 65291,
+   "fin": 65299,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Valencia"
+  },
+  {
+   "tipo": "text",
+   "ini": 65301,
+   "fin": 79787
+  },
+  {
+   "tipo": "person ",
+   "ini": 65624,
+   "fin": 65630,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 67286,
+   "fin": 67292,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 67762,
+   "fin": 67768,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 70288,
+   "fin": 70294,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 70644,
+   "fin": 70650,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 71070,
+   "fin": 71076,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 72726,
+   "fin": 72740,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 73492,
+   "fin": 73498,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 73934,
+   "fin": 73940,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 74445,
+   "fin": 74459,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 74521,
+   "fin": 74527,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 75235,
+   "fin": 75241,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 75406,
+   "fin": 75412,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 76466,
+   "fin": 76472,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 77182,
+   "fin": 77188,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 78668,
+   "fin": 78674,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 79515,
+   "fin": 79521,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 79632,
+   "fin": 79638,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 79754,
+   "fin": 79768,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 79789,
+   "fin": 79957
+  },
+  {
+   "tipo": "img",
+   "ini": 79789,
+   "fin": 79794,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 79796,
+   "fin": 79957,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "11. Equipo Crónica\nPintar es como golpear, 1972\nSerie negra\nAcrílico sobre lienzo\n150 x 200 cm\nMuseo Nacional Centro de Arte Reina Sofía, Madrid\nN.º inv. AD00376"
+  },
+  {
+   "tipo": "person ",
+   "ini": 79800,
+   "fin": 79814,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 79815,
+   "fin": 79837,
+   "texto": "Pintar es como golpear"
+  },
+  {
+   "tipo": "date",
+   "ini": 79839,
+   "fin": 79843,
+   "rasgos": {
+    "when": "1972"
+   },
+   "texto": "1972"
+  },
+  {
+   "tipo": "title",
+   "ini": 79843,
+   "fin": 79855,
+   "texto": "\nSerie negra"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 79844,
+   "fin": 79855
+  },
+  {
+   "tipo": "technique",
+   "ini": 79856,
+   "fin": 79877,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 79878,
+   "fin": 79890,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150 x 200 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 79878,
+   "fin": 79881,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 79884,
+   "fin": 79887,
+   "texto": "200"
+  },
+  {
+   "tipo": "institution",
+   "ini": 79891,
+   "fin": 79940,
+   "rasgos": {
+    "type": "museum",
+    "role": "lender, owner"
+   },
+   "texto": "Museo Nacional Centro de Arte Reina Sofía, Madrid"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 79934,
+   "fin": 79940,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "idno",
+   "ini": 79941,
+   "fin": 79957,
+   "texto": "N.º inv. AD00376"
+  },
+  {
+   "tipo": "text",
+   "ini": 79959,
+   "fin": 89879
+  },
+  {
+   "tipo": "person ",
+   "ini": 81842,
+   "fin": 81848,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 84503,
+   "fin": 84517,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 84686,
+   "fin": 84700,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 85386,
+   "fin": 85400,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 85596,
+   "fin": 85602,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 85892,
+   "fin": 85898,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 86677,
+   "fin": 86683,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 87256,
+   "fin": 87262,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 87578,
+   "fin": 87584,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 87822,
+   "fin": 87828,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 88391,
+   "fin": 88397,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 88658,
+   "fin": 88672,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 88790,
+   "fin": 88796,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 89666,
+   "fin": 89672,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 89793,
+   "fin": 89799,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 89804,
+   "fin": 89818,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 89881,
+   "fin": 90075
+  },
+  {
+   "tipo": "img",
+   "ini": 89881,
+   "fin": 89886,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 89888,
+   "fin": 90075,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "12. Equipo Crónica\nLa comida, 1972\nSerie Retratos, bodegones y paisajes\nAcrílico sobre lienzo y marco\n140 x 140 x 6,5 cm\nMuseo Nacional Centro de Arte Reina Sofía, Madrid\nN.º inv. AD03787"
+  },
+  {
+   "tipo": "person ",
+   "ini": 89892,
+   "fin": 89906,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 89907,
+   "fin": 89916,
+   "texto": "La comida"
+  },
+  {
+   "tipo": "date",
+   "ini": 89918,
+   "fin": 89922,
+   "rasgos": {
+    "when": "1972"
+   },
+   "texto": "1972"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 89923,
+   "fin": 89959
+  },
+  {
+   "tipo": "title",
+   "ini": 89929,
+   "fin": 89959,
+   "texto": "Retratos, bodegones y paisajes"
+  },
+  {
+   "tipo": "technique",
+   "ini": 89960,
+   "fin": 89989,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo y marco"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 89990,
+   "fin": 90008,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "140 x 140 x 6,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 89990,
+   "fin": 89993,
+   "texto": "140"
+  },
+  {
+   "tipo": "width",
+   "ini": 89996,
+   "fin": 89999,
+   "texto": "140"
+  },
+  {
+   "tipo": "depth",
+   "ini": 90002,
+   "fin": 90005,
+   "texto": "6,5"
+  },
+  {
+   "tipo": "institution",
+   "ini": 90009,
+   "fin": 90058,
+   "rasgos": {
+    "type": "museum",
+    "role": "lender, owner"
+   },
+   "texto": "Museo Nacional Centro de Arte Reina Sofía, Madrid"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 90052,
+   "fin": 90058,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "idno",
+   "ini": 90059,
+   "fin": 90075,
+   "texto": "N.º inv. AD03787"
+  },
+  {
+   "tipo": "text",
+   "ini": 90077,
+   "fin": 94763
+  },
+  {
+   "tipo": "person ",
+   "ini": 90546,
+   "fin": 90552,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 91067,
+   "fin": 91073,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 91402,
+   "fin": 91408,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 91627,
+   "fin": 91633,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 91980,
+   "fin": 91994,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 92138,
+   "fin": 92144,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 92199,
+   "fin": 92213,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 93827,
+   "fin": 93833,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 94164,
+   "fin": 94170,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 94765,
+   "fin": 94895
+  },
+  {
+   "tipo": "img",
+   "ini": 94765,
+   "fin": 94770,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 94772,
+   "fin": 94895,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "13. Equipo Crónica\nEl pintor, 1973\nSerie Oficio y oficiantes\nPintura sobre cartón piedra\n165 x 95 x 54 cm\nColección privada"
+  },
+  {
+   "tipo": "person ",
+   "ini": 94776,
+   "fin": 94790,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 94791,
+   "fin": 94800,
+   "texto": "El pintor"
+  },
+  {
+   "tipo": "date",
+   "ini": 94802,
+   "fin": 94806,
+   "rasgos": {
+    "when": "1973"
+   },
+   "texto": "1973"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 94807,
+   "fin": 94832
+  },
+  {
+   "tipo": "title",
+   "ini": 94813,
+   "fin": 94832,
+   "texto": "Oficio y oficiantes"
+  },
+  {
+   "tipo": "technique",
+   "ini": 94833,
+   "fin": 94860,
+   "rasgos": {
+    "type": "paint"
+   },
+   "texto": "Pintura sobre cartón piedra"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 94861,
+   "fin": 94877,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "165 x 95 x 54 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 94861,
+   "fin": 94864,
+   "texto": "165"
+  },
+  {
+   "tipo": "width",
+   "ini": 94867,
+   "fin": 94869,
+   "texto": "95"
+  },
+  {
+   "tipo": "depth",
+   "ini": 94872,
+   "fin": 94874,
+   "texto": "54"
+  },
+  {
+   "tipo": "person ",
+   "ini": 94878,
+   "fin": 94895,
+   "rasgos": {
+    "role": "lender, owner"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 94897,
+   "fin": 104017
+  },
+  {
+   "tipo": "person ",
+   "ini": 95445,
+   "fin": 95451,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 96813,
+   "fin": 96819,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 97034,
+   "fin": 97040,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 97688,
+   "fin": 97694,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 98173,
+   "fin": 98179,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 99054,
+   "fin": 99060,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 99314,
+   "fin": 99320,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 99852,
+   "fin": 99866,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 99926,
+   "fin": 99940,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 100299,
+   "fin": 100305,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 100844,
+   "fin": 100850,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 100956,
+   "fin": 100962,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 101745,
+   "fin": 101751,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 102118,
+   "fin": 102124,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 102654,
+   "fin": 102660,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 103879,
+   "fin": 103885,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 103984,
+   "fin": 103998,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 104019,
+   "fin": 104209
+  },
+  {
+   "tipo": "img",
+   "ini": 104019,
+   "fin": 104024,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 104026,
+   "fin": 104209,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "14. Equipo Crónica\nTestigo ocular, 1974\nSerie Los fusilamientos\nAcrílico sobre lienzo y marco\n181 x 221 cm\nStiftung Museum Kunstpalast, Düsseldorf. Adquisición, 1977\nN.º inv. 0.1977.3"
+  },
+  {
+   "tipo": "person ",
+   "ini": 104030,
+   "fin": 104044,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 104045,
+   "fin": 104059,
+   "texto": "Testigo ocular"
+  },
+  {
+   "tipo": "date",
+   "ini": 104061,
+   "fin": 104065,
+   "rasgos": {
+    "when": "1974"
+   },
+   "texto": "1974"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 104066,
+   "fin": 104089
+  },
+  {
+   "tipo": "title",
+   "ini": 104072,
+   "fin": 104089,
+   "texto": "Los fusilamientos"
+  },
+  {
+   "tipo": "technique",
+   "ini": 104090,
+   "fin": 104119,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo y marco"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 104120,
+   "fin": 104132,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "181 x 221 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 104120,
+   "fin": 104123,
+   "texto": "181"
+  },
+  {
+   "tipo": "width",
+   "ini": 104126,
+   "fin": 104129,
+   "texto": "221"
+  },
+  {
+   "tipo": "institution",
+   "ini": 104133,
+   "fin": 104172,
+   "rasgos": {
+    "type": "museum",
+    "role": "lender, owner"
+   },
+   "texto": "Stiftung Museum Kunstpalast, Düsseldorf"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 104162,
+   "fin": 104172,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Düsseldorf"
+  },
+  {
+   "tipo": "idno",
+   "ini": 104192,
+   "fin": 104209,
+   "texto": "N.º inv. 0.1977.3"
+  },
+  {
+   "tipo": "text",
+   "ini": 104211,
+   "fin": 109515
+  },
+  {
+   "tipo": "person ",
+   "ini": 106660,
+   "fin": 106666,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 107405,
+   "fin": 107419,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 107679,
+   "fin": 107685,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 107993,
+   "fin": 108007,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 108276,
+   "fin": 108290,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 108414,
+   "fin": 108420,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 108524,
+   "fin": 108530,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 109032,
+   "fin": 109038,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 109099,
+   "fin": 109113,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 109248,
+   "fin": 109262,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 109449,
+   "fin": 109463,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 109517,
+   "fin": 109724
+  },
+  {
+   "tipo": "img",
+   "ini": 109517,
+   "fin": 109522,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 109524,
+   "fin": 109724,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "15. Equipo Crónica\nEspectador de espectadores, 1972\nMúltiple hecho para los Encuentros de Pamplona de 1972\nPintura sobre cartón piedra\n127 x 49 x 82,5 cm\nMuseo de Bellas Artes de Bilbao\nN.º inv. 90/47"
+  },
+  {
+   "tipo": "person ",
+   "ini": 109528,
+   "fin": 109542,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 109543,
+   "fin": 109569,
+   "texto": "Espectador de espectadores"
+  },
+  {
+   "tipo": "date",
+   "ini": 109571,
+   "fin": 109575,
+   "rasgos": {
+    "when": "1972"
+   },
+   "texto": "1972"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 109576,
+   "fin": 109630
+  },
+  {
+   "tipo": "placeName",
+   "ini": 109614,
+   "fin": 109622,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Pamplona"
+  },
+  {
+   "tipo": "date",
+   "ini": 109626,
+   "fin": 109630,
+   "rasgos": {
+    "when": "1972"
+   },
+   "texto": "1972"
+  },
+  {
+   "tipo": "technique",
+   "ini": 109631,
+   "fin": 109658,
+   "rasgos": {
+    "type": "paint"
+   },
+   "texto": "Pintura sobre cartón piedra"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 109659,
+   "fin": 109677,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "127 x 49 x 82,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 109659,
+   "fin": 109662,
+   "texto": "127"
+  },
+  {
+   "tipo": "width",
+   "ini": 109665,
+   "fin": 109667,
+   "texto": "49"
+  },
+  {
+   "tipo": "depth",
+   "ini": 109670,
+   "fin": 109674,
+   "texto": "82,5"
+  },
+  {
+   "tipo": "institution",
+   "ini": 109678,
+   "fin": 109709,
+   "rasgos": {
+    "type": "museum",
+    "role": "lender, owner"
+   },
+   "texto": "Museo de Bellas Artes de Bilbao"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 109703,
+   "fin": 109709,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Bilbao"
+  },
+  {
+   "tipo": "idno",
+   "ini": 109710,
+   "fin": 109724,
+   "texto": "N.º inv. 90/47"
+  },
+  {
+   "tipo": "text",
+   "ini": 109726,
+   "fin": 114799
+  },
+  {
+   "tipo": "person ",
+   "ini": 109869,
+   "fin": 109875,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 111702,
+   "fin": 111716,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 112185,
+   "fin": 112191,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 113472,
+   "fin": 113478,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 113735,
+   "fin": 113741,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 114553,
+   "fin": 114567,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 114801,
+   "fin": 114940
+  },
+  {
+   "tipo": "img",
+   "ini": 114801,
+   "fin": 114806,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 114808,
+   "fin": 114940,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "16. Equipo Crónica\nLa calle, 1973\nSerie El cartel\nAcrílico sobre lienzo\n200 x 200 cm\nColección Guillermo Caballero de Luján\nValencia"
+  },
+  {
+   "tipo": "person ",
+   "ini": 114812,
+   "fin": 114826,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 114827,
+   "fin": 114835,
+   "texto": "La calle"
+  },
+  {
+   "tipo": "date",
+   "ini": 114837,
+   "fin": 114841,
+   "rasgos": {
+    "when": "1973"
+   },
+   "texto": "1973"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 114842,
+   "fin": 114857
+  },
+  {
+   "tipo": "title",
+   "ini": 114848,
+   "fin": 114856,
+   "texto": "El carte"
+  },
+  {
+   "tipo": "technique",
+   "ini": 114858,
+   "fin": 114879,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 114880,
+   "fin": 114892,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 200 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 114880,
+   "fin": 114883,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 114886,
+   "fin": 114889,
+   "texto": "200"
+  },
+  {
+   "tipo": "person ",
+   "ini": 114893,
+   "fin": 114940,
+   "rasgos": {
+    "role": "lender, owner"
+   }
+  },
+  {
+   "tipo": "persName",
+   "ini": 114903,
+   "fin": 114931,
+   "texto": "Guillermo Caballero de Luján"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 114932,
+   "fin": 114940,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Valencia"
+  },
+  {
+   "tipo": "text",
+   "ini": 114942,
+   "fin": 117245
+  },
+  {
+   "tipo": "person ",
+   "ini": 115003,
+   "fin": 115009,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 116550,
+   "fin": 116556,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 116925,
+   "fin": 116939,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 117166,
+   "fin": 117172,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 117246,
+   "fin": 117252,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 117247,
+   "fin": 117360
+  },
+  {
+   "tipo": "work",
+   "ini": 117254,
+   "fin": 117360,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "17. Equipo Crónica\nParedón III, 1975\nSerie El paredón\nAcrílico sobre lienzo\n150 x 150 cm\nColección privada"
+  },
+  {
+   "tipo": "person ",
+   "ini": 117258,
+   "fin": 117272,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 117273,
+   "fin": 117284,
+   "texto": "Paredón III"
+  },
+  {
+   "tipo": "date",
+   "ini": 117286,
+   "fin": 117290,
+   "rasgos": {
+    "when": "1975"
+   },
+   "texto": "1975"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 117291,
+   "fin": 117307
+  },
+  {
+   "tipo": "title",
+   "ini": 117297,
+   "fin": 117307,
+   "texto": "El paredón"
+  },
+  {
+   "tipo": "technique",
+   "ini": 117308,
+   "fin": 117329,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 117330,
+   "fin": 117342,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150 x 150 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 117330,
+   "fin": 117333,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 117336,
+   "fin": 117339,
+   "texto": "150"
+  },
+  {
+   "tipo": "person ",
+   "ini": 117343,
+   "fin": 117360,
+   "rasgos": {
+    "role": "lender, owner"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 117362,
+   "fin": 131639
+  },
+  {
+   "tipo": "person ",
+   "ini": 117431,
+   "fin": 117437,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 117600,
+   "fin": 117606,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 118586,
+   "fin": 118592,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 119612,
+   "fin": 119618,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 121229,
+   "fin": 121243,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 121499,
+   "fin": 121505,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 121750,
+   "fin": 121756,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 121979,
+   "fin": 121985,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 122916,
+   "fin": 122922,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 122988,
+   "fin": 123002,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 123026,
+   "fin": 123040,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 123671,
+   "fin": 123685,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 125336,
+   "fin": 125350,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 125790,
+   "fin": 125804,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 126183,
+   "fin": 126189,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 126646,
+   "fin": 126660,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 127953,
+   "fin": 127959,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 128466,
+   "fin": 128472,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 128554,
+   "fin": 128560,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 131265,
+   "fin": 131279,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 131547,
+   "fin": 131553,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 131558,
+   "fin": 131572,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 131640,
+   "fin": 131646,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 131641,
+   "fin": 131762
+  },
+  {
+   "tipo": "work",
+   "ini": 131648,
+   "fin": 131762,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "18. Equipo Crónica\nEl bosque maravilloso, 1977\nSerie El billar\nAcrílico sobre lienzo\n175 x 275 cm\nColección Arango"
+  },
+  {
+   "tipo": "person ",
+   "ini": 131652,
+   "fin": 131666,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 131667,
+   "fin": 131688,
+   "texto": "El bosque maravilloso"
+  },
+  {
+   "tipo": "date",
+   "ini": 131690,
+   "fin": 131694,
+   "rasgos": {
+    "when": "1977"
+   },
+   "texto": "1977"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 131695,
+   "fin": 131710
+  },
+  {
+   "tipo": "title",
+   "ini": 131701,
+   "fin": 131710,
+   "texto": "El billar"
+  },
+  {
+   "tipo": "technique",
+   "ini": 131711,
+   "fin": 131732,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 131733,
+   "fin": 131745,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "175 x 275 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 131733,
+   "fin": 131736,
+   "texto": "175"
+  },
+  {
+   "tipo": "width",
+   "ini": 131739,
+   "fin": 131742,
+   "texto": "275"
+  },
+  {
+   "tipo": "person ",
+   "ini": 131746,
+   "fin": 131762,
+   "rasgos": {
+    "role": "lender, owner"
+   }
+  },
+  {
+   "tipo": "persName",
+   "ini": 131756,
+   "fin": 131762,
+   "texto": "Arango"
+  },
+  {
+   "tipo": "text",
+   "ini": 131764,
+   "fin": 146326
+  },
+  {
+   "tipo": "person ",
+   "ini": 133497,
+   "fin": 133503,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 133972,
+   "fin": 133978,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 134452,
+   "fin": 134458,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 134736,
+   "fin": 134742,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 136097,
+   "fin": 136111,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 136754,
+   "fin": 136768,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 139497,
+   "fin": 139511,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 140578,
+   "fin": 140592,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 141192,
+   "fin": 141198,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 141417,
+   "fin": 141423,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 141855,
+   "fin": 141861,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 142767,
+   "fin": 142773,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 143917,
+   "fin": 143931,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 145242,
+   "fin": 145248,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 146287,
+   "fin": 146301,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 146328,
+   "fin": 146495
+  },
+  {
+   "tipo": "img",
+   "ini": 146328,
+   "fin": 146333,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 146335,
+   "fin": 146495,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "19. Equipo Crónica\nEl coloso del miedo, 1977\nSerie A modo de parábola\nAcrílico sobre lienzo. 200 x 150 cm\nPatrimonio histórico-artístico del Senado\nN.º inv. 164"
+  },
+  {
+   "tipo": "person ",
+   "ini": 146339,
+   "fin": 146353,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 146354,
+   "fin": 146373,
+   "texto": "El coloso del miedo"
+  },
+  {
+   "tipo": "date",
+   "ini": 146375,
+   "fin": 146379,
+   "rasgos": {
+    "when": "1977"
+   },
+   "texto": "1977"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 146380,
+   "fin": 146404
+  },
+  {
+   "tipo": "title",
+   "ini": 146386,
+   "fin": 146404,
+   "texto": "A modo de parábola"
+  },
+  {
+   "tipo": "technique",
+   "ini": 146405,
+   "fin": 146426,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 146428,
+   "fin": 146440,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 150 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 146428,
+   "fin": 146431,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 146434,
+   "fin": 146437,
+   "texto": "150"
+  },
+  {
+   "tipo": "institution",
+   "ini": 146441,
+   "fin": 146482,
+   "rasgos": {
+    "type": "administration",
+    "role": "lender, owner"
+   },
+   "texto": "Patrimonio histórico-artístico del Senado"
+  },
+  {
+   "tipo": "idno",
+   "ini": 146483,
+   "fin": 146495,
+   "texto": "N.º inv. 164"
+  },
+  {
+   "tipo": "text",
+   "ini": 146498,
+   "fin": 160498
+  },
+  {
+   "tipo": "person ",
+   "ini": 147788,
+   "fin": 147802,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 150492,
+   "fin": 150498,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 151366,
+   "fin": 151372,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 151648,
+   "fin": 151654,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 152651,
+   "fin": 152657,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 153031,
+   "fin": 153037,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 153574,
+   "fin": 153580,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 154494,
+   "fin": 154500,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 154682,
+   "fin": 154696,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 154850,
+   "fin": 154864,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 154895,
+   "fin": 154909,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 155415,
+   "fin": 155429,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 156826,
+   "fin": 156840,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 159002,
+   "fin": 159008,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 159309,
+   "fin": 159315,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 159560,
+   "fin": 159566,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 160500,
+   "fin": 160690
+  },
+  {
+   "tipo": "img",
+   "ini": 160500,
+   "fin": 160505,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 160507,
+   "fin": 160690,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "20. Equipo Crónica\nLa fotografía o El personaje, 1980\nSerie Crónica de la transición\nÓleo, collage y acrílico sobre lienzo. 160 x 130 cm\nMuseo de Bellas Artes de Bilbao\nN.º inv. 87/31"
+  },
+  {
+   "tipo": "person ",
+   "ini": 160511,
+   "fin": 160525,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 160526,
+   "fin": 160554,
+   "texto": "La fotografía o El personaje"
+  },
+  {
+   "tipo": "date",
+   "ini": 160556,
+   "fin": 160560,
+   "rasgos": {
+    "when": "1980"
+   },
+   "texto": "1980"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 160561,
+   "fin": 160591
+  },
+  {
+   "tipo": "title",
+   "ini": 160567,
+   "fin": 160591,
+   "texto": "Crónica de la transición"
+  },
+  {
+   "tipo": "technique",
+   "ini": 160592,
+   "fin": 160629,
+   "rasgos": {
+    "type": "oil, collage, acrylic"
+   },
+   "texto": "Óleo, collage y acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 160631,
+   "fin": 160643,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "160 x 130 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 160631,
+   "fin": 160634,
+   "texto": "160"
+  },
+  {
+   "tipo": "width",
+   "ini": 160637,
+   "fin": 160640,
+   "texto": "130"
+  },
+  {
+   "tipo": "institution",
+   "ini": 160644,
+   "fin": 160675,
+   "rasgos": {
+    "type": "museum",
+    "role": "lender, owner"
+   },
+   "texto": "Museo de Bellas Artes de Bilbao"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 160669,
+   "fin": 160675,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Bilbao"
+  },
+  {
+   "tipo": "idno",
+   "ini": 160676,
+   "fin": 160690,
+   "texto": "N.º inv. 87/31"
+  },
+  {
+   "tipo": "text",
+   "ini": 160692,
+   "fin": 162079
+  },
+  {
+   "tipo": "person ",
+   "ini": 161011,
+   "fin": 161025,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 161121,
+   "fin": 161127,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 161616,
+   "fin": 161622,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 162080,
+   "fin": 162215
+  },
+  {
+   "tipo": "img",
+   "ini": 162080,
+   "fin": 162085,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 162087,
+   "fin": 162215,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "21. Equipo Crónica\nRuedo ibérico, 1981\nSerie Crónica de la transición\nÓleo y collage sobre lienzo\n170 x 240 cm\nColección privada"
+  },
+  {
+   "tipo": "person ",
+   "ini": 162091,
+   "fin": 162105,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 162106,
+   "fin": 162119,
+   "texto": "Ruedo ibérico"
+  },
+  {
+   "tipo": "date",
+   "ini": 162121,
+   "fin": 162125,
+   "rasgos": {
+    "when": "1981"
+   },
+   "texto": "1981"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 162126,
+   "fin": 162156
+  },
+  {
+   "tipo": "title",
+   "ini": 162132,
+   "fin": 162156,
+   "texto": "Crónica de la transición"
+  },
+  {
+   "tipo": "technique",
+   "ini": 162157,
+   "fin": 162184,
+   "rasgos": {
+    "type": "oil, collage"
+   },
+   "texto": "Óleo y collage sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 162185,
+   "fin": 162197,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "170 x 240 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 162185,
+   "fin": 162188,
+   "texto": "170"
+  },
+  {
+   "tipo": "width",
+   "ini": 162191,
+   "fin": 162194,
+   "texto": "240"
+  },
+  {
+   "tipo": "person ",
+   "ini": 162198,
+   "fin": 162215,
+   "rasgos": {
+    "role": "lender, owner"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 162217,
+   "fin": 164498
+  },
+  {
+   "tipo": "person ",
+   "ini": 162572,
+   "fin": 162586,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "person ",
+   "ini": 164107,
+   "fin": 164113,
+   "rasgos": {
+    "role": "creator"
+   }
+  }
+ ]
+}

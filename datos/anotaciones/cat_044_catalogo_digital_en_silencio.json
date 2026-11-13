@@ -1,0 +1,2261 @@
+{
+ "id": "cat_044_catalogo_digital_en_silencio",
+ "nombre_original": "CATALOGO-DIGITAL-EN-SILENCIO",
+ "longitud_texto": 16545,
+ "sha256_texto": "4dc390dde5772ddea4ea062c2a5131e4d3f2dc6cb8ec42fb8283b01f62eb0b0a",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 148,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 11,
+   "texto": "En silencio"
+  },
+  {
+   "tipo": "person",
+   "ini": 14,
+   "fin": 22,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Herminio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14,
+   "fin": 22,
+   "texto": "Herminio"
+  },
+  {
+   "tipo": "person",
+   "ini": 24,
+   "fin": 31,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lisardo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24,
+   "fin": 31,
+   "texto": "Lisardo"
+  },
+  {
+   "tipo": "person",
+   "ini": 32,
+   "fin": 45,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pablo Armesto"
+  },
+  {
+   "tipo": "persName",
+   "ini": 32,
+   "fin": 45,
+   "texto": "Pablo Armesto"
+  },
+  {
+   "tipo": "person",
+   "ini": 46,
+   "fin": 62,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Izaskum Escandón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 46,
+   "fin": 62,
+   "texto": "Izaskum Escandón"
+  },
+  {
+   "tipo": "date",
+   "ini": 64,
+   "fin": 109,
+   "rasgos": {
+    "from": "2016-09-30",
+    "to": ""
+   },
+   "texto": "Del 30 de septiembre\nal 31 de octubre de 2016"
+  },
+  {
+   "tipo": "institution",
+   "ini": 111,
+   "fin": 148,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Aurora Vigil-Escalera\nGalería de Arte"
+  },
+  {
+   "tipo": "title",
+   "ini": 150,
+   "fin": 161,
+   "texto": "En silencio"
+  },
+  {
+   "tipo": "institution",
+   "ini": 162,
+   "fin": 183,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Aurora Vigil-Escalera"
+  },
+  {
+   "tipo": "institution",
+   "ini": 185,
+   "fin": 222,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Aurora Vigil-Escalera Galería de Arte"
+  },
+  {
+   "tipo": "date",
+   "ini": 237,
+   "fin": 270,
+   "rasgos": {
+    "from": "2016-09-30",
+    "to": "2016-10-31"
+   },
+   "texto": "30 de septiembre al 31 de octubre"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 274,
+   "fin": 298,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 286,
+   "fin": 297,
+   "texto": "En silencio"
+  },
+  {
+   "tipo": "person",
+   "ini": 464,
+   "fin": 472,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Herminio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 464,
+   "fin": 472,
+   "texto": "Herminio"
+  },
+  {
+   "tipo": "person",
+   "ini": 474,
+   "fin": 481,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lisardo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 474,
+   "fin": 481,
+   "texto": "Lisardo"
+  },
+  {
+   "tipo": "person",
+   "ini": 483,
+   "fin": 496,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pablo Armesto"
+  },
+  {
+   "tipo": "persName",
+   "ini": 483,
+   "fin": 496,
+   "texto": "Pablo Armesto"
+  },
+  {
+   "tipo": "person",
+   "ini": 500,
+   "fin": 516,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Izaskum Escandón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 500,
+   "fin": 516,
+   "texto": "Izaskum Escandón"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 644,
+   "fin": 652,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Asturias"
+  },
+  {
+   "tipo": "person",
+   "ini": 771,
+   "fin": 778,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lisardo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 771,
+   "fin": 778,
+   "texto": "Lisardo"
+  },
+  {
+   "tipo": "person",
+   "ini": 781,
+   "fin": 788,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Hermino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 781,
+   "fin": 788,
+   "texto": "Hermino"
+  },
+  {
+   "tipo": "person",
+   "ini": 882,
+   "fin": 895,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pablo Armesto"
+  },
+  {
+   "tipo": "persName",
+   "ini": 882,
+   "fin": 895,
+   "texto": "Pablo Armesto"
+  },
+  {
+   "tipo": "person",
+   "ini": 985,
+   "fin": 1001,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Izaskum Escandón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 985,
+   "fin": 1001,
+   "texto": "Izaskum Escandón"
+  },
+  {
+   "tipo": "date",
+   "ini": 1190,
+   "fin": 1206,
+   "rasgos": {
+    "when": "2016-09-30"
+   },
+   "texto": "30 de septiembre"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1281,
+   "fin": 1318,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Aurora Vigil-Escalera Galería de Arte"
+  },
+  {
+   "tipo": "person",
+   "ini": 1586,
+   "fin": 1609,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Ángel Antonio Rodríguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1586,
+   "fin": 1609,
+   "texto": "Ángel Antonio Rodríguez"
+  },
+  {
+   "tipo": "person",
+   "ini": 2046,
+   "fin": 2051,
+   "texto": "Smith"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2046,
+   "fin": 2051,
+   "texto": "Smith"
+  },
+  {
+   "tipo": "person",
+   "ini": 2053,
+   "fin": 2057,
+   "texto": "Caro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2053,
+   "fin": 2057,
+   "texto": "Caro"
+  },
+  {
+   "tipo": "person",
+   "ini": 2059,
+   "fin": 2071,
+   "texto": "Ad Reinhardt"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2059,
+   "fin": 2071,
+   "texto": "Ad Reinhardt"
+  },
+  {
+   "tipo": "person",
+   "ini": 2073,
+   "fin": 2078,
+   "texto": "Klein"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2073,
+   "fin": 2078,
+   "texto": "Klein"
+  },
+  {
+   "tipo": "person",
+   "ini": 2080,
+   "fin": 2085,
+   "texto": "Ryman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2080,
+   "fin": 2085,
+   "texto": "Ryman"
+  },
+  {
+   "tipo": "person",
+   "ini": 2088,
+   "fin": 2101,
+   "texto": "Richard Serra"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2088,
+   "fin": 2101,
+   "texto": "Richard Serra"
+  },
+  {
+   "tipo": "person",
+   "ini": 2272,
+   "fin": 2282,
+   "texto": "Carl\nAndre"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2272,
+   "fin": 2282,
+   "texto": "Carl\nAndre"
+  },
+  {
+   "tipo": "person",
+   "ini": 2284,
+   "fin": 2297,
+   "texto": "Robert Morris"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2284,
+   "fin": 2297,
+   "texto": "Robert Morris"
+  },
+  {
+   "tipo": "person",
+   "ini": 2299,
+   "fin": 2309,
+   "texto": "Dan Flavin"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2299,
+   "fin": 2309,
+   "texto": "Dan Flavin"
+  },
+  {
+   "tipo": "person",
+   "ini": 2311,
+   "fin": 2321,
+   "texto": "Sol Lewitt"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2311,
+   "fin": 2321,
+   "texto": "Sol Lewitt"
+  },
+  {
+   "tipo": "person",
+   "ini": 2323,
+   "fin": 2337,
+   "texto": "John McCracken"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2323,
+   "fin": 2337,
+   "texto": "John McCracken"
+  },
+  {
+   "tipo": "person",
+   "ini": 2339,
+   "fin": 2350,
+   "texto": "Donald Judd"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2339,
+   "fin": 2350,
+   "texto": "Donald Judd"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3477,
+   "fin": 3506,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "galería\nAurora Vigil-Escalera"
+  },
+  {
+   "tipo": "person",
+   "ini": 4185,
+   "fin": 4212,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Herminio (La Caridad, 1945)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4185,
+   "fin": 4193,
+   "texto": "Herminio"
+  },
+  {
+   "tipo": "birth",
+   "ini": 4195,
+   "fin": 4211
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4195,
+   "fin": 4205,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "La Caridad"
+  },
+  {
+   "tipo": "date",
+   "ini": 4207,
+   "fin": 4211,
+   "rasgos": {
+    "when": "1945"
+   },
+   "texto": "1945"
+  },
+  {
+   "tipo": "person",
+   "ini": 4775,
+   "fin": 4783,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Herminio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4775,
+   "fin": 4783,
+   "texto": "Herminio"
+  },
+  {
+   "tipo": "person",
+   "ini": 5150,
+   "fin": 5158,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Herminio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5150,
+   "fin": 5158,
+   "texto": "Herminio"
+  },
+  {
+   "tipo": "person",
+   "ini": 5198,
+   "fin": 5220,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lisardo (Mieres, 1960)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5198,
+   "fin": 5205,
+   "texto": "Lisardo"
+  },
+  {
+   "tipo": "birth",
+   "ini": 5207,
+   "fin": 5219
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5207,
+   "fin": 5213,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "date",
+   "ini": 5215,
+   "fin": 5219,
+   "rasgos": {
+    "when": "1960"
+   },
+   "texto": "1960"
+  },
+  {
+   "tipo": "person",
+   "ini": 5582,
+   "fin": 5589,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lisardo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5582,
+   "fin": 5589,
+   "texto": "Lisardo"
+  },
+  {
+   "tipo": "person",
+   "ini": 5671,
+   "fin": 5676,
+   "texto": "Ryman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5671,
+   "fin": 5676,
+   "texto": "Ryman"
+  },
+  {
+   "tipo": "person",
+   "ini": 6629,
+   "fin": 6663,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pablo Armesto (Schaffhausen, 1970)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6629,
+   "fin": 6642,
+   "texto": "Pablo Armesto"
+  },
+  {
+   "tipo": "birth",
+   "ini": 6644,
+   "fin": 6662
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6644,
+   "fin": 6656,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Schaffhausen"
+  },
+  {
+   "tipo": "date",
+   "ini": 6658,
+   "fin": 6662,
+   "rasgos": {
+    "when": "1970"
+   },
+   "texto": "1970"
+  },
+  {
+   "tipo": "person",
+   "ini": 7168,
+   "fin": 7175,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Armesto"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7168,
+   "fin": 7175,
+   "texto": "Armesto"
+  },
+  {
+   "tipo": "person",
+   "ini": 7700,
+   "fin": 7713,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pablo Armesto"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7700,
+   "fin": 7713,
+   "texto": "Pablo Armesto"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7833,
+   "fin": 7849,
+   "texto": "Izaskum Escandón"
+  },
+  {
+   "tipo": "birth",
+   "ini": 7851,
+   "fin": 7863
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7851,
+   "fin": 7857,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Bilbao"
+  },
+  {
+   "tipo": "date",
+   "ini": 7859,
+   "fin": 7863,
+   "rasgos": {
+    "when": "1973"
+   },
+   "texto": "1973"
+  },
+  {
+   "tipo": "institution",
+   "ini": 8381,
+   "fin": 8402,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Aurora Vigil-Escalera"
+  },
+  {
+   "tipo": "person",
+   "ini": 8627,
+   "fin": 8634,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Izaskum"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8627,
+   "fin": 8634,
+   "texto": "Izaskum"
+  },
+  {
+   "tipo": "person",
+   "ini": 8627,
+   "fin": 8634,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Izaskum"
+  },
+  {
+   "tipo": "person",
+   "ini": 9336,
+   "fin": 9348,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Rubén Suárez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9336,
+   "fin": 9348,
+   "texto": "Rubén Suárez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10236,
+   "fin": 10244,
+   "texto": "Malevich"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10435,
+   "fin": 10443,
+   "texto": "Malevich"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10606,
+   "fin": 10614,
+   "texto": "Zurbarán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10616,
+   "fin": 10623,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10625,
+   "fin": 10635,
+   "texto": "De Chirico"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10637,
+   "fin": 10651,
+   "texto": "Luis Fernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10654,
+   "fin": 10660,
+   "texto": "Galano"
+  },
+  {
+   "tipo": "person",
+   "ini": 11329,
+   "fin": 11336,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lisardo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11329,
+   "fin": 11336,
+   "texto": "Lisardo"
+  },
+  {
+   "tipo": "person",
+   "ini": 12301,
+   "fin": 12309,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Herminio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12301,
+   "fin": 12309,
+   "texto": "Herminio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12733,
+   "fin": 12742,
+   "texto": "Naum Gabo"
+  },
+  {
+   "tipo": "person",
+   "ini": 13171,
+   "fin": 13184,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pablo Armesto"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13171,
+   "fin": 13184,
+   "texto": "Pablo Armesto"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13394,
+   "fin": 13407,
+   "texto": "Lucio Fontana"
+  },
+  {
+   "tipo": "person",
+   "ini": 13847,
+   "fin": 13862,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Izakum Escandón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13847,
+   "fin": 13862,
+   "texto": "Izakum Escandón"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 14477,
+   "fin": 15942
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 14477,
+   "fin": 14752
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 14477,
+   "fin": 14752
+  },
+  {
+   "tipo": "person",
+   "ini": 14477,
+   "fin": 14485,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Herminio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14477,
+   "fin": 14485,
+   "texto": "Herminio"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14497,
+   "fin": 14584
+  },
+  {
+   "tipo": "img",
+   "ini": 14497,
+   "fin": 14502,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14504,
+   "fin": 14584,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "R. 18\nChapa DM lacada y campos magnéticos\n230 x 105 x 125 cm\nobra única\naño 2016"
+  },
+  {
+   "tipo": "title",
+   "ini": 14504,
+   "fin": 14509,
+   "texto": "R. 18"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14510,
+   "fin": 14545,
+   "rasgos": {
+    "type": "plate"
+   },
+   "texto": "Chapa DM lacada y campos magnéticos"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14546,
+   "fin": 14564,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "230 x 105 x 125 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14546,
+   "fin": 14549,
+   "texto": "230"
+  },
+  {
+   "tipo": "width",
+   "ini": 14552,
+   "fin": 14555,
+   "texto": "105"
+  },
+  {
+   "tipo": "depth",
+   "ini": 14558,
+   "fin": 14561,
+   "texto": "125"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 14565,
+   "fin": 14575
+  },
+  {
+   "tipo": "date",
+   "ini": 14580,
+   "fin": 14584,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14586,
+   "fin": 14667
+  },
+  {
+   "tipo": "img",
+   "ini": 14586,
+   "fin": 14591,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14593,
+   "fin": 14667,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "R. 11\nAluminio lacado, campos magnéticos\n52 x 30 x 20 cm\ned. 1/6,\naño 2016"
+  },
+  {
+   "tipo": "title",
+   "ini": 14593,
+   "fin": 14598,
+   "texto": "R. 11"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14599,
+   "fin": 14633,
+   "rasgos": {
+    "type": "aluminium"
+   },
+   "texto": "Aluminio lacado, campos magnéticos"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14634,
+   "fin": 14649,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "52 x 30 x 20 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14634,
+   "fin": 14636,
+   "texto": "52"
+  },
+  {
+   "tipo": "width",
+   "ini": 14639,
+   "fin": 14641,
+   "texto": "30"
+  },
+  {
+   "tipo": "depth",
+   "ini": 14644,
+   "fin": 14646,
+   "texto": "20"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 14650,
+   "fin": 14657
+  },
+  {
+   "tipo": "date",
+   "ini": 14663,
+   "fin": 14667,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14669,
+   "fin": 14752
+  },
+  {
+   "tipo": "img",
+   "ini": 14669,
+   "fin": 14674,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14676,
+   "fin": 14752,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "R. 16\nTécnica mixta, campos magnéticos\n100 x 100 x 50 cm\nobra única\naño 2016"
+  },
+  {
+   "tipo": "title",
+   "ini": 14676,
+   "fin": 14681,
+   "texto": "R. 16"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14682,
+   "fin": 14714,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta, campos magnéticos"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14715,
+   "fin": 14732,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14715,
+   "fin": 14718,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 14721,
+   "fin": 14724,
+   "texto": "100"
+  },
+  {
+   "tipo": "depth",
+   "ini": 14727,
+   "fin": 14729,
+   "texto": "50"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 14733,
+   "fin": 14743
+  },
+  {
+   "tipo": "date",
+   "ini": 14748,
+   "fin": 14752,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 14755,
+   "fin": 14994
+  },
+  {
+   "tipo": "person",
+   "ini": 14755,
+   "fin": 14762,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lisardo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14755,
+   "fin": 14762,
+   "texto": "Lisardo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14774,
+   "fin": 14830
+  },
+  {
+   "tipo": "img",
+   "ini": 14774,
+   "fin": 14779,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14781,
+   "fin": 14830,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título\nacrílico sobre lino\n130 x 160\naño 2015"
+  },
+  {
+   "tipo": "title",
+   "ini": 14781,
+   "fin": 14791,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14792,
+   "fin": 14811,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico sobre lino"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14812,
+   "fin": 14821,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 160"
+  },
+  {
+   "tipo": "height",
+   "ini": 14812,
+   "fin": 14815,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 14818,
+   "fin": 14821,
+   "texto": "160"
+  },
+  {
+   "tipo": "date",
+   "ini": 14826,
+   "fin": 14830,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14832,
+   "fin": 14888
+  },
+  {
+   "tipo": "img",
+   "ini": 14832,
+   "fin": 14837,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14839,
+   "fin": 14888,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título\nacrílico sobre lino\n150 x 150\naño 2015"
+  },
+  {
+   "tipo": "title",
+   "ini": 14839,
+   "fin": 14849,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14850,
+   "fin": 14869,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico sobre lino"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14870,
+   "fin": 14879,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150 x 150"
+  },
+  {
+   "tipo": "height",
+   "ini": 14870,
+   "fin": 14873,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 14876,
+   "fin": 14879,
+   "texto": "150"
+  },
+  {
+   "tipo": "date",
+   "ini": 14884,
+   "fin": 14888,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14890,
+   "fin": 14946
+  },
+  {
+   "tipo": "img",
+   "ini": 14890,
+   "fin": 14895,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14897,
+   "fin": 14946,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título\nacrílico sobre lino\n160 x 130\naño 2015"
+  },
+  {
+   "tipo": "title",
+   "ini": 14897,
+   "fin": 14907,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14908,
+   "fin": 14927,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico sobre lino"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14928,
+   "fin": 14937,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "160 x 130"
+  },
+  {
+   "tipo": "height",
+   "ini": 14928,
+   "fin": 14931,
+   "texto": "160"
+  },
+  {
+   "tipo": "width",
+   "ini": 14934,
+   "fin": 14937,
+   "texto": "130"
+  },
+  {
+   "tipo": "date",
+   "ini": 14942,
+   "fin": 14946,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14948,
+   "fin": 14994
+  },
+  {
+   "tipo": "img",
+   "ini": 14948,
+   "fin": 14953,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14955,
+   "fin": 14994,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "H1 - A15\nacrílico sobre lino\n60 x 80 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 14955,
+   "fin": 14963,
+   "texto": "H1 - A15"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14964,
+   "fin": 14983,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico sobre lino"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14984,
+   "fin": 14994,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 80 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14984,
+   "fin": 14986,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 14989,
+   "fin": 14991,
+   "texto": "80"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 14997,
+   "fin": 15617
+  },
+  {
+   "tipo": "person",
+   "ini": 14997,
+   "fin": 15010,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pablo\nArmesto"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14997,
+   "fin": 15010,
+   "texto": "Pablo\nArmesto"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15022,
+   "fin": 15128
+  },
+  {
+   "tipo": "img",
+   "ini": 15022,
+   "fin": 15027,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15029,
+   "fin": 15128,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Cuadrados en composición\nMixta MDF lacada, leds y fibra óptica\n58 x 58 x 12 cm\naño 2016\npieza única"
+  },
+  {
+   "tipo": "title",
+   "ini": 15029,
+   "fin": 15053,
+   "texto": "Cuadrados en composición"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15054,
+   "fin": 15091,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta MDF lacada, leds y fibra óptica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15092,
+   "fin": 15107,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "58 x 58 x 12 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15092,
+   "fin": 15094,
+   "texto": "58"
+  },
+  {
+   "tipo": "width",
+   "ini": 15097,
+   "fin": 15099,
+   "texto": "58"
+  },
+  {
+   "tipo": "depth",
+   "ini": 15102,
+   "fin": 15104,
+   "texto": "12"
+  },
+  {
+   "tipo": "date",
+   "ini": 15112,
+   "fin": 15116,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 15117,
+   "fin": 15128
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15130,
+   "fin": 15223
+  },
+  {
+   "tipo": "img",
+   "ini": 15130,
+   "fin": 15135,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15137,
+   "fin": 15223,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Estrella 127\nMixta MDF lacada, leds y fibra óptica\n70 x 70 x 9 cm\naño 2016\npieza única"
+  },
+  {
+   "tipo": "title",
+   "ini": 15137,
+   "fin": 15149,
+   "texto": "Estrella 127"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15150,
+   "fin": 15187,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta MDF lacada, leds y fibra óptica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15188,
+   "fin": 15202,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 70 x 9 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15188,
+   "fin": 15190,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 15193,
+   "fin": 15195,
+   "texto": "70"
+  },
+  {
+   "tipo": "depth",
+   "ini": 15198,
+   "fin": 15199,
+   "texto": "9"
+  },
+  {
+   "tipo": "date",
+   "ini": 15207,
+   "fin": 15211,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 15212,
+   "fin": 15223
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15225,
+   "fin": 15323
+  },
+  {
+   "tipo": "img",
+   "ini": 15225,
+   "fin": 15230,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15232,
+   "fin": 15323,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Límite en blanco\nMixta MDF lacada, leds y fibra óptica\n58 x 58 x 12 cm\naño 2014\npieza única"
+  },
+  {
+   "tipo": "title",
+   "ini": 15232,
+   "fin": 15248,
+   "texto": "Límite en blanco"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15249,
+   "fin": 15286,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta MDF lacada, leds y fibra óptica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15287,
+   "fin": 15302,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "58 x 58 x 12 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15287,
+   "fin": 15289,
+   "texto": "58"
+  },
+  {
+   "tipo": "width",
+   "ini": 15292,
+   "fin": 15294,
+   "texto": "58"
+  },
+  {
+   "tipo": "depth",
+   "ini": 15297,
+   "fin": 15299,
+   "texto": "12"
+  },
+  {
+   "tipo": "date",
+   "ini": 15307,
+   "fin": 15311,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 15312,
+   "fin": 15323
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15325,
+   "fin": 15422
+  },
+  {
+   "tipo": "img",
+   "ini": 15325,
+   "fin": 15330,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15332,
+   "fin": 15422,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Límite en negro\nMixta MDF lacada, leds y fibra óptica\n58 x 58 x 12 cm\naño 2014\npieza única"
+  },
+  {
+   "tipo": "title",
+   "ini": 15332,
+   "fin": 15347,
+   "texto": "Límite en negro"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15348,
+   "fin": 15385,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta MDF lacada, leds y fibra óptica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15386,
+   "fin": 15401,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "58 x 58 x 12 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15386,
+   "fin": 15388,
+   "texto": "58"
+  },
+  {
+   "tipo": "width",
+   "ini": 15391,
+   "fin": 15393,
+   "texto": "58"
+  },
+  {
+   "tipo": "depth",
+   "ini": 15396,
+   "fin": 15398,
+   "texto": "12"
+  },
+  {
+   "tipo": "date",
+   "ini": 15406,
+   "fin": 15410,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 15411,
+   "fin": 15422
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15424,
+   "fin": 15512
+  },
+  {
+   "tipo": "img",
+   "ini": 15424,
+   "fin": 15429,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15431,
+   "fin": 15512,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Solar\nMixta MDF lacada, leds y fibra óptica\n100 x 100 x 9 cm\naño 2016\npieza única"
+  },
+  {
+   "tipo": "title",
+   "ini": 15431,
+   "fin": 15436,
+   "texto": "Solar"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15437,
+   "fin": 15474,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta MDF lacada, leds y fibra óptica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15475,
+   "fin": 15491,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 x 9 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15475,
+   "fin": 15478,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 15481,
+   "fin": 15484,
+   "texto": "100"
+  },
+  {
+   "tipo": "depth",
+   "ini": 15487,
+   "fin": 15488,
+   "texto": "9"
+  },
+  {
+   "tipo": "date",
+   "ini": 15496,
+   "fin": 15500,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "date",
+   "ini": 15500,
+   "fin": 15501,
+   "texto": "\n"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 15501,
+   "fin": 15512
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15514,
+   "fin": 15617
+  },
+  {
+   "tipo": "img",
+   "ini": 15514,
+   "fin": 15519,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15521,
+   "fin": 15617,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Three Folder\nMixta MDF lacada, cristal, leds y fibra óptica\n58 x 58 x 12 cm\naño 2014\npieza única"
+  },
+  {
+   "tipo": "title",
+   "ini": 15521,
+   "fin": 15533,
+   "texto": "Three Folder"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15534,
+   "fin": 15580,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta MDF lacada, cristal, leds y fibra óptica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15581,
+   "fin": 15596,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "58 x 58 x 12 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15581,
+   "fin": 15583,
+   "texto": "58"
+  },
+  {
+   "tipo": "width",
+   "ini": 15586,
+   "fin": 15588,
+   "texto": "58"
+  },
+  {
+   "tipo": "depth",
+   "ini": 15591,
+   "fin": 15593,
+   "texto": "12"
+  },
+  {
+   "tipo": "date",
+   "ini": 15601,
+   "fin": 15605,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 15606,
+   "fin": 15617
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 15620,
+   "fin": 15942
+  },
+  {
+   "tipo": "person",
+   "ini": 15620,
+   "fin": 15636,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Izaskum\nEscandón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15620,
+   "fin": 15636,
+   "texto": "Izaskum\nEscandón"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15648,
+   "fin": 15744
+  },
+  {
+   "tipo": "img",
+   "ini": 15648,
+   "fin": 15653,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15655,
+   "fin": 15744,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "4466_00:00:09:19\nImpresión digital en vinilo sobre metacrilato\n90 x 110 x 170 cm\naño 2015"
+  },
+  {
+   "tipo": "title",
+   "ini": 15655,
+   "fin": 15671,
+   "texto": "4466_00:00:09:19"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15672,
+   "fin": 15717,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital en vinilo sobre metacrilato"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15718,
+   "fin": 15735,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "90 x 110 x 170 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15718,
+   "fin": 15720,
+   "texto": "90"
+  },
+  {
+   "tipo": "width",
+   "ini": 15723,
+   "fin": 15726,
+   "texto": "110"
+  },
+  {
+   "tipo": "depth",
+   "ini": 15729,
+   "fin": 15732,
+   "texto": "170"
+  },
+  {
+   "tipo": "date",
+   "ini": 15740,
+   "fin": 15744,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15746,
+   "fin": 15843
+  },
+  {
+   "tipo": "img",
+   "ini": 15746,
+   "fin": 15751,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15753,
+   "fin": 15843,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "4753_00:00:02:14...\nImpresión digital en vinilo sobre metacrilato\n12 x 81 x 67 cm\naño 2016"
+  },
+  {
+   "tipo": "title",
+   "ini": 15753,
+   "fin": 15772,
+   "texto": "4753_00:00:02:14..."
+  },
+  {
+   "tipo": "technique",
+   "ini": 15773,
+   "fin": 15818,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital en vinilo sobre metacrilato"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15819,
+   "fin": 15834,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "12 x 81 x 67 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15819,
+   "fin": 15821,
+   "texto": "12"
+  },
+  {
+   "tipo": "width",
+   "ini": 15824,
+   "fin": 15826,
+   "texto": "81"
+  },
+  {
+   "tipo": "depth",
+   "ini": 15829,
+   "fin": 15831,
+   "texto": "67"
+  },
+  {
+   "tipo": "date",
+   "ini": 15839,
+   "fin": 15843,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15845,
+   "fin": 15942
+  },
+  {
+   "tipo": "img",
+   "ini": 15845,
+   "fin": 15850,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15852,
+   "fin": 15942,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "4471_00:00:29:05...\nImpresión digital en vinilo sobre metacrilato\n10 x 44 x 37 cm\naño 2016"
+  },
+  {
+   "tipo": "title",
+   "ini": 15852,
+   "fin": 15871,
+   "texto": "4471_00:00:29:05..."
+  },
+  {
+   "tipo": "technique",
+   "ini": 15872,
+   "fin": 15917,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital en vinilo sobre metacrilato"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15918,
+   "fin": 15933,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "10 x 44 x 37 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15918,
+   "fin": 15920,
+   "texto": "10"
+  },
+  {
+   "tipo": "width",
+   "ini": 15923,
+   "fin": 15925,
+   "texto": "44"
+  },
+  {
+   "tipo": "depth",
+   "ini": 15928,
+   "fin": 15930,
+   "texto": "37"
+  },
+  {
+   "tipo": "date",
+   "ini": 15938,
+   "fin": 15942,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "institution",
+   "ini": 15961,
+   "fin": 15998,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Aurora Vigil-Escalera Galería de Arte"
+  },
+  {
+   "tipo": "person",
+   "ini": 16148,
+   "fin": 16169,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Aurora Vigil-Escalera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16148,
+   "fin": 16169,
+   "texto": "Aurora Vigil-Escalera"
+  },
+  {
+   "tipo": "person",
+   "ini": 16178,
+   "fin": 16199,
+   "rasgos": {
+    "role": "exhibitionCoordinator"
+   },
+   "texto": "Aurora Vigil-Escalera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16178,
+   "fin": 16199,
+   "texto": "Aurora Vigil-Escalera"
+  },
+  {
+   "tipo": "person",
+   "ini": 16200,
+   "fin": 16223,
+   "rasgos": {
+    "role": "exhibitionCoordinator"
+   },
+   "texto": "Ángel Antonio Rodríguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16200,
+   "fin": 16223,
+   "texto": "Ángel Antonio Rodríguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16224,
+   "fin": 16236,
+   "texto": "Rubén Suárez"
+  },
+  {
+   "tipo": "person",
+   "ini": 16224,
+   "fin": 16236,
+   "rasgos": {
+    "role": "exhibitionCoordinator"
+   },
+   "texto": "Rubén Suárez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 16264,
+   "fin": 16302,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Aurora Vigil-Escalera, Galería de Arte"
+  },
+  {
+   "tipo": "institution",
+   "ini": 16361,
+   "fin": 16398,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Aurora Vigil-Escalera\nGalería de Arte"
+  }
+ ]
+}

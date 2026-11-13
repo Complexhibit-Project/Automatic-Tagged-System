@@ -1,0 +1,1551 @@
+{
+ "id": "cat_060_catalogo_simbiosis_compressed",
+ "nombre_original": "catalogo-simbiosis_compressed",
+ "longitud_texto": 11691,
+ "sha256_texto": "404f1254a7077e3f83d0642e129d0c30182deaf9fd3f34b495d53838725c329c",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 268,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 21,
+   "texto": "EXPOSICIÓN\nSIMBIOSIS\n"
+  },
+  {
+   "tipo": "date",
+   "ini": 22,
+   "fin": 43,
+   "rasgos": {
+    "from": "2021-07-17",
+    "to": "2021-07-24"
+   },
+   "texto": "17.07.021 - 24.07.021"
+  },
+  {
+   "tipo": "person",
+   "ini": 45,
+   "fin": 58,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "África Blanco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 45,
+   "fin": 58,
+   "texto": "África Blanco"
+  },
+  {
+   "tipo": "person",
+   "ini": 61,
+   "fin": 85,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joséphine Marie Cottrell"
+  },
+  {
+   "tipo": "persName",
+   "ini": 61,
+   "fin": 85,
+   "texto": "Joséphine Marie Cottrell"
+  },
+  {
+   "tipo": "person",
+   "ini": 88,
+   "fin": 103,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eduardo de Elío"
+  },
+  {
+   "tipo": "persName",
+   "ini": 88,
+   "fin": 103,
+   "texto": "Eduardo de Elío"
+  },
+  {
+   "tipo": "person",
+   "ini": 106,
+   "fin": 123,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alejandra Hepburn"
+  },
+  {
+   "tipo": "persName",
+   "ini": 106,
+   "fin": 123,
+   "texto": "Alejandra Hepburn"
+  },
+  {
+   "tipo": "person",
+   "ini": 126,
+   "fin": 141,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ángela Mengíbar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 126,
+   "fin": 141,
+   "texto": "Ángela Mengíbar"
+  },
+  {
+   "tipo": "institution",
+   "ini": 183,
+   "fin": 205,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Universidad de Nebrija"
+  },
+  {
+   "tipo": "venue",
+   "ini": 207,
+   "fin": 245,
+   "texto": "CRUCE arte y pensamiento contemporáneo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 246,
+   "fin": 268,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Universidad de Nebrija"
+  },
+  {
+   "tipo": "title",
+   "ini": 272,
+   "fin": 281,
+   "texto": "SIMBIOSIS"
+  },
+  {
+   "tipo": "institution",
+   "ini": 348,
+   "fin": 367,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Universidad Nebrija"
+  },
+  {
+   "tipo": "venue",
+   "ini": 374,
+   "fin": 397,
+   "texto": "espacio Cruce de\nMadrid"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 391,
+   "fin": 397,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "person",
+   "ini": 1233,
+   "fin": 1240,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eduardo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1233,
+   "fin": 1240,
+   "texto": "Eduardo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1484,
+   "fin": 1490,
+   "texto": "Breton"
+  },
+  {
+   "tipo": "person",
+   "ini": 1504,
+   "fin": 1510,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ángela"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1504,
+   "fin": 1510,
+   "texto": "Ángela"
+  },
+  {
+   "tipo": "person",
+   "ini": 1787,
+   "fin": 1796,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joséphine"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1787,
+   "fin": 1796,
+   "texto": "Joséphine"
+  },
+  {
+   "tipo": "person",
+   "ini": 2035,
+   "fin": 2044,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alejandra"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2035,
+   "fin": 2044,
+   "texto": "Alejandra"
+  },
+  {
+   "tipo": "person",
+   "ini": 2333,
+   "fin": 2339,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "África"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2333,
+   "fin": 2339,
+   "texto": "África"
+  },
+  {
+   "tipo": "person",
+   "ini": 2613,
+   "fin": 2619,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "África"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2613,
+   "fin": 2619,
+   "texto": "África"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2810,
+   "fin": 2829,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Universidad Nebrija"
+  },
+  {
+   "tipo": "date",
+   "ini": 2959,
+   "fin": 2972,
+   "rasgos": {
+    "from": "2021-06-01",
+    "to": "2021-06-30"
+   },
+   "texto": "Junio de 2021"
+  },
+  {
+   "tipo": "person",
+   "ini": 2973,
+   "fin": 2996,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Pablo Álvarez de Toledo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2973,
+   "fin": 2996,
+   "texto": "Pablo Álvarez de Toledo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3034,
+   "fin": 3053,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Universidad Nebrija"
+  },
+  {
+   "tipo": "title",
+   "ini": 3055,
+   "fin": 3064,
+   "texto": "SIMBIOSIS"
+  },
+  {
+   "tipo": "title",
+   "ini": 3079,
+   "fin": 3090,
+   "texto": "“SIMBIOSIS”"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 3079,
+   "fin": 3090,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 3165,
+   "fin": 3178,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "África\nBlanco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3165,
+   "fin": 3178,
+   "texto": "África\nBlanco"
+  },
+  {
+   "tipo": "person",
+   "ini": 3180,
+   "fin": 3204,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joséphine Marie Cottrell"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3180,
+   "fin": 3204,
+   "texto": "Joséphine Marie Cottrell"
+  },
+  {
+   "tipo": "person",
+   "ini": 3206,
+   "fin": 3221,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eduardo de Elío"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3206,
+   "fin": 3221,
+   "texto": "Eduardo de Elío"
+  },
+  {
+   "tipo": "person",
+   "ini": 3223,
+   "fin": 3240,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alejandra Hepburn"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3223,
+   "fin": 3240,
+   "texto": "Alejandra Hepburn"
+  },
+  {
+   "tipo": "person",
+   "ini": 3243,
+   "fin": 3258,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ángela Mengíbar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3243,
+   "fin": 3258,
+   "texto": "Ángela Mengíbar"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3274,
+   "fin": 3303,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "universidad Nebrija de Madrid"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3297,
+   "fin": 3303,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 4732,
+   "fin": 11385
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 4732,
+   "fin": 6412
+  },
+  {
+   "tipo": "person",
+   "ini": 4732,
+   "fin": 4745,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ÁFRICA BLANCO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4732,
+   "fin": 4745,
+   "texto": "ÁFRICA BLANCO"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4746,
+   "fin": 6411
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 4746,
+   "fin": 6296
+  },
+  {
+   "tipo": "title",
+   "ini": 4754,
+   "fin": 4784,
+   "texto": "Imposibilidad de desactivación"
+  },
+  {
+   "tipo": "work",
+   "ini": 4754,
+   "fin": 4784,
+   "texto": "Imposibilidad de desactivación"
+  },
+  {
+   "tipo": "person",
+   "ini": 4982,
+   "fin": 4995,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "África Blanco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4982,
+   "fin": 4995,
+   "texto": "África Blanco"
+  },
+  {
+   "tipo": "img",
+   "ini": 6298,
+   "fin": 6309,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6304,
+   "fin": 6309,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 6310,
+   "fin": 6315,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6317,
+   "fin": 6411,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Imposibilidad de desactivación, 2021\nTécnica mixta\nMedidas variables\nPieza única\nÁfrica Blanco"
+  },
+  {
+   "tipo": "title",
+   "ini": 6317,
+   "fin": 6347,
+   "texto": "Imposibilidad de desactivación"
+  },
+  {
+   "tipo": "date",
+   "ini": 6349,
+   "fin": 6353,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6354,
+   "fin": 6367,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6368,
+   "fin": 6385,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "Medidas variables"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 6386,
+   "fin": 6397
+  },
+  {
+   "tipo": "person",
+   "ini": 6398,
+   "fin": 6411,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "África Blanco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6398,
+   "fin": 6411,
+   "texto": "África Blanco"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 6414,
+   "fin": 7014
+  },
+  {
+   "tipo": "person",
+   "ini": 6414,
+   "fin": 6438,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JOSÉPHINE MARIE COTTRELL"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6414,
+   "fin": 6438,
+   "texto": "JOSÉPHINE MARIE COTTRELL"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 6439,
+   "fin": 6821
+  },
+  {
+   "tipo": "person",
+   "ini": 6453,
+   "fin": 6477,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joséphine Marie Cottrell"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6453,
+   "fin": 6477,
+   "texto": "Joséphine Marie Cottrell"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6823,
+   "fin": 6917
+  },
+  {
+   "tipo": "work",
+   "ini": 6823,
+   "fin": 6910,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Sin Título I, 2021\nRotulador sobre papel\n29 x 42cm\nPieza única\nJoséphine Marie Cottrell"
+  },
+  {
+   "tipo": "title",
+   "ini": 6823,
+   "fin": 6835,
+   "texto": "Sin Título I"
+  },
+  {
+   "tipo": "date",
+   "ini": 6837,
+   "fin": 6841,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6842,
+   "fin": 6863,
+   "rasgos": {
+    "type": "feltTipPen"
+   },
+   "texto": "Rotulador sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6864,
+   "fin": 6873,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29 x 42cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6864,
+   "fin": 6866,
+   "texto": "29"
+  },
+  {
+   "tipo": "width",
+   "ini": 6869,
+   "fin": 6871,
+   "texto": "42"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 6874,
+   "fin": 6885
+  },
+  {
+   "tipo": "person",
+   "ini": 6886,
+   "fin": 6910,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joséphine Marie Cottrell"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6886,
+   "fin": 6910,
+   "texto": "Joséphine Marie Cottrell"
+  },
+  {
+   "tipo": "img",
+   "ini": 6912,
+   "fin": 6917,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6919,
+   "fin": 7014
+  },
+  {
+   "tipo": "img",
+   "ini": 6919,
+   "fin": 6924,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6926,
+   "fin": 7014,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Sin Título II, 2021\nRotulador sobre papel\n29 x 42cm\nPieza única\nJoséphine Marie Cottrell"
+  },
+  {
+   "tipo": "title",
+   "ini": 6926,
+   "fin": 6939,
+   "texto": "Sin Título II"
+  },
+  {
+   "tipo": "date",
+   "ini": 6941,
+   "fin": 6945,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6946,
+   "fin": 6967,
+   "rasgos": {
+    "type": "feltTipPen"
+   },
+   "texto": "Rotulador sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6968,
+   "fin": 6977,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29 x 42cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6968,
+   "fin": 6970,
+   "texto": "29"
+  },
+  {
+   "tipo": "width",
+   "ini": 6973,
+   "fin": 6975,
+   "texto": "42"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 6978,
+   "fin": 6989
+  },
+  {
+   "tipo": "person",
+   "ini": 6990,
+   "fin": 7014,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joséphine Marie Cottrell"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6990,
+   "fin": 7014,
+   "texto": "Joséphine Marie Cottrell"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 7017,
+   "fin": 8564
+  },
+  {
+   "tipo": "person",
+   "ini": 7017,
+   "fin": 7032,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "EDUARDO DE ELÍO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7017,
+   "fin": 7032,
+   "texto": "EDUARDO DE ELÍO"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7033,
+   "fin": 8570
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 7033,
+   "fin": 8387
+  },
+  {
+   "tipo": "title",
+   "ini": 7112,
+   "fin": 7132,
+   "texto": "Un jardín sin\nflores"
+  },
+  {
+   "tipo": "work",
+   "ini": 7112,
+   "fin": 7132,
+   "texto": "Un jardín sin\nflores"
+  },
+  {
+   "tipo": "person",
+   "ini": 7350,
+   "fin": 7365,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eduardo de Elío"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7350,
+   "fin": 7365,
+   "texto": "Eduardo de Elío"
+  },
+  {
+   "tipo": "person",
+   "ini": 8372,
+   "fin": 8387,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Claudia Do Minh"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8372,
+   "fin": 8387,
+   "texto": "Claudia Do Minh"
+  },
+  {
+   "tipo": "img",
+   "ini": 8389,
+   "fin": 8394,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8396,
+   "fin": 8564,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Un jardín sin flores, 2021\nInstalación compuesta por 113\npinturas sobre papel\nAcuarelas pequeñas: 20 x 20cm\ncollage: 30 x 30cm\nInstalación: 2,95 x 2,95m\nEduardo de Elío"
+  },
+  {
+   "tipo": "title",
+   "ini": 8396,
+   "fin": 8416,
+   "texto": "Un jardín sin flores"
+  },
+  {
+   "tipo": "date",
+   "ini": 8418,
+   "fin": 8422,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 8423,
+   "fin": 8473
+  },
+  {
+   "tipo": "technique",
+   "ini": 8474,
+   "fin": 8492,
+   "rasgos": {
+    "type": "watercolor"
+   },
+   "texto": "Acuarelas pequeñas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8494,
+   "fin": 8503,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20 x 20cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8494,
+   "fin": 8496,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 8499,
+   "fin": 8501,
+   "texto": "20"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8504,
+   "fin": 8511,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "collage"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8513,
+   "fin": 8522,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 30cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8513,
+   "fin": 8515,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 8518,
+   "fin": 8520,
+   "texto": "30"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8523,
+   "fin": 8534,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Instalación"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8536,
+   "fin": 8548,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "2,95 x 2,95m"
+  },
+  {
+   "tipo": "height",
+   "ini": 8536,
+   "fin": 8540,
+   "texto": "2,95"
+  },
+  {
+   "tipo": "width",
+   "ini": 8543,
+   "fin": 8547,
+   "texto": "2,95"
+  },
+  {
+   "tipo": "person",
+   "ini": 8549,
+   "fin": 8564,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eduardo de Elío"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8549,
+   "fin": 8564,
+   "texto": "Eduardo de Elío"
+  },
+  {
+   "tipo": "img",
+   "ini": 8565,
+   "fin": 8570,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 8572,
+   "fin": 9939
+  },
+  {
+   "tipo": "person",
+   "ini": 8572,
+   "fin": 8589,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ALEJANDRA HEPBURN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8572,
+   "fin": 8589,
+   "texto": "ALEJANDRA HEPBURN"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 8590,
+   "fin": 9706
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9708,
+   "fin": 9822
+  },
+  {
+   "tipo": "img",
+   "ini": 9708,
+   "fin": 9713,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9715,
+   "fin": 9822,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Sin Título I, 2021\nPapel sobre lienzo, collage y acrílico\n42 x 59,4cm\nPieza única\nAlejandra Hepburn Álvarez"
+  },
+  {
+   "tipo": "title",
+   "ini": 9715,
+   "fin": 9727,
+   "texto": "Sin Título I"
+  },
+  {
+   "tipo": "date",
+   "ini": 9729,
+   "fin": 9733,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9734,
+   "fin": 9772,
+   "rasgos": {
+    "type": "paper, collage, acrylic"
+   },
+   "texto": "Papel sobre lienzo, collage y acrílico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9773,
+   "fin": 9784,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "42 x 59,4cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 9773,
+   "fin": 9775,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 9778,
+   "fin": 9782,
+   "texto": "59,4"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 9785,
+   "fin": 9796
+  },
+  {
+   "tipo": "person",
+   "ini": 9797,
+   "fin": 9822,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alejandra Hepburn Álvarez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9797,
+   "fin": 9822,
+   "texto": "Alejandra Hepburn Álvarez"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9824,
+   "fin": 9939
+  },
+  {
+   "tipo": "img",
+   "ini": 9824,
+   "fin": 9829,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9831,
+   "fin": 9939,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Sin Título II, 2021\nPapel sobre lienzo, collage y acrílico\n42 x 59,4cm\nPieza única\nAlejandra Hepburn Álvarez"
+  },
+  {
+   "tipo": "title",
+   "ini": 9831,
+   "fin": 9844,
+   "texto": "Sin Título II"
+  },
+  {
+   "tipo": "date",
+   "ini": 9846,
+   "fin": 9850,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9851,
+   "fin": 9889,
+   "rasgos": {
+    "type": "collage, acrylic, paper"
+   },
+   "texto": "Papel sobre lienzo, collage y acrílico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9890,
+   "fin": 9901,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "42 x 59,4cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 9890,
+   "fin": 9892,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 9895,
+   "fin": 9899,
+   "texto": "59,4"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 9902,
+   "fin": 9914
+  },
+  {
+   "tipo": "person",
+   "ini": 9914,
+   "fin": 9939,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alejandra Hepburn Álvarez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9914,
+   "fin": 9939,
+   "texto": "Alejandra Hepburn Álvarez"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 9942,
+   "fin": 11384
+  },
+  {
+   "tipo": "person",
+   "ini": 9942,
+   "fin": 9957,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ÁNGELA MENGÍBAR"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9942,
+   "fin": 9957,
+   "texto": "ÁNGELA MENGÍBAR"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 9958,
+   "fin": 10709
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10711,
+   "fin": 10802
+  },
+  {
+   "tipo": "img",
+   "ini": 10711,
+   "fin": 10716,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10718,
+   "fin": 10802,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Suturas, 2021\nHojas de magnolio e hilo\nMedidas variables\nPieza única\nÁngela Mengíbar"
+  },
+  {
+   "tipo": "title",
+   "ini": 10718,
+   "fin": 10725,
+   "texto": "Suturas"
+  },
+  {
+   "tipo": "date",
+   "ini": 10727,
+   "fin": 10731,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10732,
+   "fin": 10756,
+   "rasgos": {
+    "type": ""
+   },
+   "texto": "Hojas de magnolio e hilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10757,
+   "fin": 10774,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "Medidas variables"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 10775,
+   "fin": 10786
+  },
+  {
+   "tipo": "person",
+   "ini": 10787,
+   "fin": 10802,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ángela Mengíbar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10787,
+   "fin": 10802,
+   "texto": "Ángela Mengíbar"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 10804,
+   "fin": 11153
+  },
+  {
+   "tipo": "title",
+   "ini": 10816,
+   "fin": 10846,
+   "texto": "“alrededor de la mesa camilla”"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 10816,
+   "fin": 10846
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11155,
+   "fin": 11253
+  },
+  {
+   "tipo": "img",
+   "ini": 11155,
+   "fin": 11160,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11162,
+   "fin": 11253,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Alrededor de la mesa camilla II, 2021\nPapel e hilo\n30 x 30 x 8cm\nObra única\nÁngela Mengíbar"
+  },
+  {
+   "tipo": "title",
+   "ini": 11162,
+   "fin": 11193,
+   "texto": "Alrededor de la mesa camilla II"
+  },
+  {
+   "tipo": "date",
+   "ini": 11195,
+   "fin": 11199,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11200,
+   "fin": 11212,
+   "rasgos": {
+    "type": "paper, thread"
+   },
+   "texto": "Papel e hilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11213,
+   "fin": 11226,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 30 x 8cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11213,
+   "fin": 11215,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 11218,
+   "fin": 11220,
+   "texto": "30"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 11227,
+   "fin": 11237
+  },
+  {
+   "tipo": "person",
+   "ini": 11238,
+   "fin": 11253,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ángela Mengíbar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11238,
+   "fin": 11253,
+   "texto": "Ángela Mengíbar"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11255,
+   "fin": 11384
+  },
+  {
+   "tipo": "img",
+   "ini": 11255,
+   "fin": 11260,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11262,
+   "fin": 11384,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Recuerdos Concéntricos II, 2021\nMadera perforada, cosida y pintada con acrílico\nDiámetro: 70cm\nPieza única\nÁngela Mengíbar"
+  },
+  {
+   "tipo": "title",
+   "ini": 11262,
+   "fin": 11287,
+   "texto": "Recuerdos Concéntricos II"
+  },
+  {
+   "tipo": "date",
+   "ini": 11289,
+   "fin": 11293,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11294,
+   "fin": 11341,
+   "rasgos": {
+    "type": "wood, acrylic"
+   },
+   "texto": "Madera perforada, cosida y pintada con acrílico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11342,
+   "fin": 11356,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "Diámetro: 70cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 11352,
+   "fin": 11354,
+   "texto": "70"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 11357,
+   "fin": 11368
+  },
+  {
+   "tipo": "person",
+   "ini": 11369,
+   "fin": 11384,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ángela Mengíbar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11369,
+   "fin": 11384,
+   "texto": "Ángela Mengíbar"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 11386,
+   "fin": 11689,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 11397,
+   "fin": 11406,
+   "texto": "SIMBIOSIS"
+  },
+  {
+   "tipo": "institution",
+   "ini": 11462,
+   "fin": 11515,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Universidad\nNebrija, Facultad de Comunicación y Artes"
+  },
+  {
+   "tipo": "venue",
+   "ini": 11525,
+   "fin": 11571,
+   "texto": "galería CRUCE arte y pensamiento\ncontemporáneo"
+  },
+  {
+   "tipo": "date",
+   "ini": 11577,
+   "fin": 11612,
+   "rasgos": {
+    "from": "2021-07-17",
+    "to": "2021-07-24"
+   },
+   "texto": "17 de julio al 24 de julio del 2021"
+  }
+ ]
+}

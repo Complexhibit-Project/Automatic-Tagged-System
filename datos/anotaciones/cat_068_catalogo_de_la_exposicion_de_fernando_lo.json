@@ -1,0 +1,3259 @@
+{
+ "id": "cat_068_catalogo_de_la_exposicion_de_fernando_lo",
+ "nombre_original": "Catalogo_de_la_exposicion_de_Fernando_Lo",
+ "longitud_texto": 75468,
+ "sha256_texto": "a8ebb0ed3f95e6b92c21323eccc3b296d6559d1681a9f89b4d830ed01b7e3d62",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 109,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 24,
+   "texto": "LÓPEZ LAGE\nOBRA RECIENTE"
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 10,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "LÓPEZ LAGE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 10,
+   "texto": "LÓPEZ LAGE"
+  },
+  {
+   "tipo": "title",
+   "ini": 26,
+   "fin": 50,
+   "texto": "LÓPEZ LAGE\nOBRA RECIENTE"
+  },
+  {
+   "tipo": "person",
+   "ini": 26,
+   "fin": 36,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "LÓPEZ LAGE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26,
+   "fin": 36,
+   "texto": "LÓPEZ LAGE"
+  },
+  {
+   "tipo": "date",
+   "ini": 52,
+   "fin": 76,
+   "rasgos": {
+    "from": "2014-09-01",
+    "to": "2014-10-31"
+   },
+   "texto": "Setiembre - Octubre 2014"
+  },
+  {
+   "tipo": "institution",
+   "ini": 77,
+   "fin": 109,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Museo Nacional de Artes Visuales"
+  },
+  {
+   "tipo": "person",
+   "ini": 167,
+   "fin": 186,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 167,
+   "fin": 186,
+   "texto": "Fernando López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 230,
+   "fin": 242,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Alicia Haber"
+  },
+  {
+   "tipo": "persName",
+   "ini": 230,
+   "fin": 242,
+   "texto": "Alicia Haber"
+  },
+  {
+   "tipo": "person",
+   "ini": 265,
+   "fin": 284,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 265,
+   "fin": 284,
+   "texto": "Fernando López Lage"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 441,
+   "fin": 468,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 442,
+   "fin": 467,
+   "texto": "López Lage: Obra Reciente"
+  },
+  {
+   "tipo": "person",
+   "ini": 442,
+   "fin": 452,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 442,
+   "fin": 452,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 528,
+   "fin": 547,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 528,
+   "fin": 547,
+   "texto": "Fernando López Lage"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 764,
+   "fin": 823,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 764,
+   "fin": 789,
+   "texto": "López Lage: Obra Reciente"
+  },
+  {
+   "tipo": "person",
+   "ini": 764,
+   "fin": 774,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 764,
+   "fin": 774,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 811,
+   "fin": 823,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Alicia Haber"
+  },
+  {
+   "tipo": "persName",
+   "ini": 811,
+   "fin": 823,
+   "texto": "Alicia Haber"
+  },
+  {
+   "tipo": "person",
+   "ini": 1203,
+   "fin": 1213,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1203,
+   "fin": 1213,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1290,
+   "fin": 1322,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Museo Nacional de Artes Visuales"
+  },
+  {
+   "tipo": "person",
+   "ini": 1325,
+   "fin": 1344,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1325,
+   "fin": 1344,
+   "texto": "Fernando López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 1386,
+   "fin": 1398,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Alicia Haber"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1386,
+   "fin": 1398,
+   "texto": "Alicia Haber"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1400,
+   "fin": 1640,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 1400,
+   "fin": 1419,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1400,
+   "fin": 1419,
+   "texto": "Fernando López Lage"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1476,
+   "fin": 1515,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Museo Nacional de Artes Visuales (mnav)"
+  },
+  {
+   "tipo": "person",
+   "ini": 2256,
+   "fin": 2266,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2256,
+   "fin": 2266,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 3250,
+   "fin": 3260,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3250,
+   "fin": 3260,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 3708,
+   "fin": 3718,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3708,
+   "fin": 3718,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 4857,
+   "fin": 4867,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López\nLage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4857,
+   "fin": 4867,
+   "texto": "López\nLage"
+  },
+  {
+   "tipo": "person",
+   "ini": 5310,
+   "fin": 5320,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5310,
+   "fin": 5320,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 5725,
+   "fin": 5735,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5725,
+   "fin": 5735,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 7378,
+   "fin": 7388,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López\nLage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7378,
+   "fin": 7388,
+   "texto": "López\nLage"
+  },
+  {
+   "tipo": "person",
+   "ini": 7543,
+   "fin": 7553,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7543,
+   "fin": 7553,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 7618,
+   "fin": 7628,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7618,
+   "fin": 7628,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 9638,
+   "fin": 9648,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9638,
+   "fin": 9648,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 10188,
+   "fin": 10198,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10188,
+   "fin": 10198,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 11353,
+   "fin": 11363,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11353,
+   "fin": 11363,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 11604,
+   "fin": 11614,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11604,
+   "fin": 11614,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 12099,
+   "fin": 12109,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12099,
+   "fin": 12109,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 12959,
+   "fin": 12969,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12959,
+   "fin": 12969,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 13691,
+   "fin": 13701,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13691,
+   "fin": 13701,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 16548,
+   "fin": 16558,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16548,
+   "fin": 16558,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 16998,
+   "fin": 17008,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16998,
+   "fin": 17008,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 18823,
+   "fin": 18833,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18823,
+   "fin": 18833,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 20113,
+   "fin": 20123,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20113,
+   "fin": 20123,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 20242,
+   "fin": 20252,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20242,
+   "fin": 20252,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 21505,
+   "fin": 21515,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21505,
+   "fin": 21515,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 22109,
+   "fin": 22119,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22109,
+   "fin": 22119,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 22215,
+   "fin": 22225,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22215,
+   "fin": 22225,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 23042,
+   "fin": 23052,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23042,
+   "fin": 23052,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 23136,
+   "fin": 23146,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23136,
+   "fin": 23146,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24166,
+   "fin": 24171,
+   "texto": "López"
+  },
+  {
+   "tipo": "person",
+   "ini": 25139,
+   "fin": 25149,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25139,
+   "fin": 25149,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 25792,
+   "fin": 25802,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25792,
+   "fin": 25802,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 26319,
+   "fin": 26329,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26319,
+   "fin": 26329,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 26500,
+   "fin": 26512,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Alicia Haber"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26500,
+   "fin": 26512,
+   "texto": "Alicia Haber"
+  },
+  {
+   "tipo": "person",
+   "ini": 26526,
+   "fin": 26545,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26526,
+   "fin": 26545,
+   "texto": "Fernando López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 26556,
+   "fin": 26568,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Alicia Haber"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26556,
+   "fin": 26568,
+   "texto": "Alicia Haber"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 28825,
+   "fin": 34529
+  },
+  {
+   "tipo": "person",
+   "ini": 33488,
+   "fin": 33507,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 33488,
+   "fin": 33507,
+   "texto": "Fernando López Lage"
+  },
+  {
+   "tipo": "img",
+   "ini": 33799,
+   "fin": 33804,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 33805,
+   "fin": 33810,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 33811,
+   "fin": 33816,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 33817,
+   "fin": 33822,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 33823,
+   "fin": 33828,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 33830,
+   "fin": 33900
+  },
+  {
+   "tipo": "img",
+   "ini": 33830,
+   "fin": 33835,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 33837,
+   "fin": 33900,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "políptico, 2.90 m x 14,60 m\nacrílico sobre tela y bastidor\n2014"
+  },
+  {
+   "tipo": "title",
+   "ini": 33837,
+   "fin": 33846,
+   "texto": "políptico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 33848,
+   "fin": 33864,
+   "rasgos": {
+    "unit": "m"
+   },
+   "texto": "2.90 m x 14,60 m"
+  },
+  {
+   "tipo": "height",
+   "ini": 33848,
+   "fin": 33852,
+   "texto": "2.90"
+  },
+  {
+   "tipo": "width",
+   "ini": 33857,
+   "fin": 33862,
+   "texto": "14,60"
+  },
+  {
+   "tipo": "technique",
+   "ini": 33865,
+   "fin": 33895,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico sobre tela y bastidor"
+  },
+  {
+   "tipo": "date",
+   "ini": 33896,
+   "fin": 33900,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "img",
+   "ini": 33902,
+   "fin": 33907,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 33908,
+   "fin": 33913,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 33914,
+   "fin": 33919,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 33920,
+   "fin": 33925,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 33926,
+   "fin": 33931,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 33932,
+   "fin": 33937,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 33938,
+   "fin": 33943,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 33946,
+   "fin": 34001
+  },
+  {
+   "tipo": "work",
+   "ini": 33946,
+   "fin": 33994,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "sin título\nacrílico sobre tela\n180 x 140 cm\n2013"
+  },
+  {
+   "tipo": "title",
+   "ini": 33946,
+   "fin": 33956,
+   "texto": "sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 33957,
+   "fin": 33976,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 33977,
+   "fin": 33989,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "180 x 140 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 33977,
+   "fin": 33980,
+   "texto": "180"
+  },
+  {
+   "tipo": "width",
+   "ini": 33983,
+   "fin": 33986,
+   "texto": "140"
+  },
+  {
+   "tipo": "date",
+   "ini": 33990,
+   "fin": 33994,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "img",
+   "ini": 33996,
+   "fin": 34001,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34003,
+   "fin": 34058
+  },
+  {
+   "tipo": "work",
+   "ini": 34003,
+   "fin": 34051,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "sin título\nacrílico sobre tela\n180 x 140 cm\n2013"
+  },
+  {
+   "tipo": "title",
+   "ini": 34003,
+   "fin": 34013,
+   "texto": "sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 34014,
+   "fin": 34033,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 34034,
+   "fin": 34046,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "180 x 140 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 34034,
+   "fin": 34037,
+   "texto": "180"
+  },
+  {
+   "tipo": "width",
+   "ini": 34040,
+   "fin": 34043,
+   "texto": "140"
+  },
+  {
+   "tipo": "date",
+   "ini": 34047,
+   "fin": 34051,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "img",
+   "ini": 34053,
+   "fin": 34058,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34060,
+   "fin": 34115
+  },
+  {
+   "tipo": "img",
+   "ini": 34060,
+   "fin": 34065,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 34067,
+   "fin": 34115,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "sin título\nacrílico sobre tela\n180 x 140 cm\n2013"
+  },
+  {
+   "tipo": "title",
+   "ini": 34067,
+   "fin": 34077,
+   "texto": "sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 34078,
+   "fin": 34097,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 34098,
+   "fin": 34110,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "180 x 140 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 34098,
+   "fin": 34101,
+   "texto": "180"
+  },
+  {
+   "tipo": "width",
+   "ini": 34104,
+   "fin": 34107,
+   "texto": "140"
+  },
+  {
+   "tipo": "date",
+   "ini": 34111,
+   "fin": 34115,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34118,
+   "fin": 34173
+  },
+  {
+   "tipo": "work",
+   "ini": 34118,
+   "fin": 34166,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "sin título\nacrílico sobre tela\n180 x 140 cm\n2013"
+  },
+  {
+   "tipo": "title",
+   "ini": 34118,
+   "fin": 34128,
+   "texto": "sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 34129,
+   "fin": 34148,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 34149,
+   "fin": 34161,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "180 x 140 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 34149,
+   "fin": 34152,
+   "texto": "180"
+  },
+  {
+   "tipo": "width",
+   "ini": 34155,
+   "fin": 34158,
+   "texto": "140"
+  },
+  {
+   "tipo": "date",
+   "ini": 34162,
+   "fin": 34166,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "img",
+   "ini": 34168,
+   "fin": 34173,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34175,
+   "fin": 34230
+  },
+  {
+   "tipo": "work",
+   "ini": 34175,
+   "fin": 34223,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "sin título\nacrílico sobre tela\n180 x 140 cm\n2013"
+  },
+  {
+   "tipo": "title",
+   "ini": 34175,
+   "fin": 34185,
+   "texto": "sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 34186,
+   "fin": 34205,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 34206,
+   "fin": 34218,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "180 x 140 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 34206,
+   "fin": 34209,
+   "texto": "180"
+  },
+  {
+   "tipo": "width",
+   "ini": 34212,
+   "fin": 34215,
+   "texto": "140"
+  },
+  {
+   "tipo": "date",
+   "ini": 34219,
+   "fin": 34223,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "img",
+   "ini": 34225,
+   "fin": 34230,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34232,
+   "fin": 34287
+  },
+  {
+   "tipo": "work",
+   "ini": 34232,
+   "fin": 34280,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "sin título\nacrílico sobre tela\n180 x 140 cm\n2013"
+  },
+  {
+   "tipo": "title",
+   "ini": 34232,
+   "fin": 34242,
+   "texto": "sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 34243,
+   "fin": 34262,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 34263,
+   "fin": 34275,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "180 x 140 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 34263,
+   "fin": 34266,
+   "texto": "180"
+  },
+  {
+   "tipo": "width",
+   "ini": 34269,
+   "fin": 34272,
+   "texto": "140"
+  },
+  {
+   "tipo": "date",
+   "ini": 34276,
+   "fin": 34280,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "img",
+   "ini": 34282,
+   "fin": 34287,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34295,
+   "fin": 34350
+  },
+  {
+   "tipo": "img",
+   "ini": 34295,
+   "fin": 34300,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 34302,
+   "fin": 34350,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "sin título\nacrílico sobre tela\n180 x 160 cm\n2013"
+  },
+  {
+   "tipo": "title",
+   "ini": 34302,
+   "fin": 34312,
+   "texto": "sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 34313,
+   "fin": 34332,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 34333,
+   "fin": 34345,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "180 x 160 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 34333,
+   "fin": 34336,
+   "texto": "180"
+  },
+  {
+   "tipo": "width",
+   "ini": 34339,
+   "fin": 34342,
+   "texto": "160"
+  },
+  {
+   "tipo": "date",
+   "ini": 34346,
+   "fin": 34350,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34360,
+   "fin": 34415
+  },
+  {
+   "tipo": "img",
+   "ini": 34360,
+   "fin": 34365,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 34367,
+   "fin": 34415,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "sin título\nacrílico sobre tela\n180 x 140 cm\n2013"
+  },
+  {
+   "tipo": "title",
+   "ini": 34367,
+   "fin": 34377,
+   "texto": "sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 34378,
+   "fin": 34397,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 34398,
+   "fin": 34410,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "180 x 140 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 34398,
+   "fin": 34401,
+   "texto": "180"
+  },
+  {
+   "tipo": "width",
+   "ini": 34404,
+   "fin": 34407,
+   "texto": "140"
+  },
+  {
+   "tipo": "date",
+   "ini": 34411,
+   "fin": 34415,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34417,
+   "fin": 34472
+  },
+  {
+   "tipo": "img",
+   "ini": 34417,
+   "fin": 34422,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 34424,
+   "fin": 34472,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "sin título\nacrílico sobre tela\n180 x 140 cm\n2013"
+  },
+  {
+   "tipo": "title",
+   "ini": 34424,
+   "fin": 34434,
+   "texto": "sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 34435,
+   "fin": 34454,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 34455,
+   "fin": 34467,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "180 x 140 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 34455,
+   "fin": 34458,
+   "texto": "180"
+  },
+  {
+   "tipo": "width",
+   "ini": 34461,
+   "fin": 34464,
+   "texto": "140"
+  },
+  {
+   "tipo": "date",
+   "ini": 34468,
+   "fin": 34472,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34474,
+   "fin": 34529
+  },
+  {
+   "tipo": "work",
+   "ini": 34474,
+   "fin": 34522,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "sin título\nacrílico sobre tela\n180 x 140 cm\n2013"
+  },
+  {
+   "tipo": "title",
+   "ini": 34474,
+   "fin": 34484,
+   "texto": "sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 34485,
+   "fin": 34504,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 34505,
+   "fin": 34517,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "180 x 140 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 34505,
+   "fin": 34508,
+   "texto": "180"
+  },
+  {
+   "tipo": "width",
+   "ini": 34511,
+   "fin": 34514,
+   "texto": "140"
+  },
+  {
+   "tipo": "date",
+   "ini": 34518,
+   "fin": 34522,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "img",
+   "ini": 34524,
+   "fin": 34529,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 34531,
+   "fin": 34569,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando López Lage\n(Montevideo, 1964)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 34531,
+   "fin": 34550,
+   "texto": "Fernando López Lage"
+  },
+  {
+   "tipo": "birth",
+   "ini": 34551,
+   "fin": 34569
+  },
+  {
+   "tipo": "placeName",
+   "ini": 34552,
+   "fin": 34562,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Montevideo"
+  },
+  {
+   "tipo": "date",
+   "ini": 34564,
+   "fin": 34568,
+   "rasgos": {
+    "when": "1964"
+   },
+   "texto": "1964"
+  },
+  {
+   "tipo": "title",
+   "ini": 37938,
+   "fin": 37990,
+   "texto": "López Lage’s exhibition: Obra Reciente (Recent work)"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 37938,
+   "fin": 37990,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 37938,
+   "fin": 37948,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37938,
+   "fin": 37948,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 38055,
+   "fin": 38074,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando\nLópez Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38055,
+   "fin": 38074,
+   "texto": "Fernando\nLópez Lage"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 38292,
+   "fin": 38342,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 38292,
+   "fin": 38317,
+   "texto": "López Lage: Obra Reciente"
+  },
+  {
+   "tipo": "person",
+   "ini": 38292,
+   "fin": 38302,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 38330,
+   "fin": 38342,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Alicia Haber"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38330,
+   "fin": 38342,
+   "texto": "Alicia Haber"
+  },
+  {
+   "tipo": "person",
+   "ini": 38681,
+   "fin": 38691,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38681,
+   "fin": 38691,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "institution",
+   "ini": 38773,
+   "fin": 38805,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Museo Nacional de Artes Visuales"
+  },
+  {
+   "tipo": "person",
+   "ini": 38808,
+   "fin": 38827,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38808,
+   "fin": 38827,
+   "texto": "Fernando López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 38871,
+   "fin": 38883,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Alicia Haber"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38871,
+   "fin": 38883,
+   "texto": "Alicia Haber"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 38885,
+   "fin": 39001,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 38885,
+   "fin": 38904,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38885,
+   "fin": 38904,
+   "texto": "Fernando López Lage"
+  },
+  {
+   "tipo": "institution",
+   "ini": 38963,
+   "fin": 39000,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "National Museum of Visual Arts (mnav)"
+  },
+  {
+   "tipo": "person",
+   "ini": 39709,
+   "fin": 39719,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39709,
+   "fin": 39719,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 40647,
+   "fin": 40657,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40647,
+   "fin": 40657,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 41101,
+   "fin": 41111,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 41101,
+   "fin": 41111,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 42211,
+   "fin": 42222,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage’"
+  },
+  {
+   "tipo": "persName",
+   "ini": 42211,
+   "fin": 42221,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 42657,
+   "fin": 42667,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 42657,
+   "fin": 42667,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 43093,
+   "fin": 43103,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 43093,
+   "fin": 43103,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 44773,
+   "fin": 44783,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 44773,
+   "fin": 44783,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 44947,
+   "fin": 44957,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lopez Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 44947,
+   "fin": 44957,
+   "texto": "Lopez Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 45028,
+   "fin": 45038,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 45028,
+   "fin": 45038,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 45757,
+   "fin": 45767,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 45757,
+   "fin": 45767,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 47043,
+   "fin": 47053,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 47043,
+   "fin": 47053,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 47590,
+   "fin": 47600,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 47590,
+   "fin": 47600,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 48696,
+   "fin": 48706,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48696,
+   "fin": 48706,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 48932,
+   "fin": 48942,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48932,
+   "fin": 48942,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 49854,
+   "fin": 49864,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49854,
+   "fin": 49864,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 50244,
+   "fin": 50254,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50244,
+   "fin": 50254,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 50553,
+   "fin": 50563,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50553,
+   "fin": 50563,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 53671,
+   "fin": 53681,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lopez Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 53671,
+   "fin": 53681,
+   "texto": "Lopez Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 54121,
+   "fin": 54131,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 54121,
+   "fin": 54131,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 55854,
+   "fin": 55864,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 55854,
+   "fin": 55864,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 57272,
+   "fin": 57282,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57272,
+   "fin": 57282,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 58105,
+   "fin": 58115,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 58105,
+   "fin": 58115,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 58421,
+   "fin": 58431,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 58421,
+   "fin": 58431,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 59017,
+   "fin": 59027,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López\nLage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 59017,
+   "fin": 59027,
+   "texto": "López\nLage"
+  },
+  {
+   "tipo": "person",
+   "ini": 59112,
+   "fin": 59122,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 59112,
+   "fin": 59122,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 59889,
+   "fin": 59899,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 59889,
+   "fin": 59899,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 60969,
+   "fin": 60979,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 60969,
+   "fin": 60979,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 61128,
+   "fin": 61138,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 61128,
+   "fin": 61138,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 62604,
+   "fin": 62614,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 62604,
+   "fin": 62614,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 63118,
+   "fin": 63128,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 63118,
+   "fin": 63128,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 63282,
+   "fin": 63294,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Alicia Haber"
+  },
+  {
+   "tipo": "persName",
+   "ini": 63282,
+   "fin": 63294,
+   "texto": "Alicia Haber"
+  },
+  {
+   "tipo": "person",
+   "ini": 63307,
+   "fin": 63326,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 63307,
+   "fin": 63326,
+   "texto": "Fernando López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 63335,
+   "fin": 63347,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Alicia Haber"
+  },
+  {
+   "tipo": "persName",
+   "ini": 63335,
+   "fin": 63347,
+   "texto": "Alicia Haber"
+  },
+  {
+   "tipo": "persName",
+   "ini": 70071,
+   "fin": 70091,
+   "texto": "Fernando López Lage\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 70071,
+   "fin": 70090,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 70446,
+   "fin": 70484,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando López Lage\n(Montevideo, 1964)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 70446,
+   "fin": 70465,
+   "texto": "Fernando López Lage"
+  },
+  {
+   "tipo": "date",
+   "ini": 70479,
+   "fin": 70483,
+   "rasgos": {
+    "when": "1964"
+   },
+   "texto": "1964"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 74013,
+   "fin": 75467,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 74024,
+   "fin": 74036,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Alicia Haber"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74024,
+   "fin": 74036,
+   "texto": "Alicia Haber"
+  },
+  {
+   "tipo": "person",
+   "ini": 74038,
+   "fin": 74053,
+   "rasgos": {
+    "role": "minister"
+   },
+   "texto": "RICARDO EHRLICH"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74038,
+   "fin": 74053,
+   "texto": "RICARDO EHRLICH"
+  },
+  {
+   "tipo": "person",
+   "ini": 74071,
+   "fin": 74083,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Alicia Haber"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74071,
+   "fin": 74083,
+   "texto": "Alicia Haber"
+  },
+  {
+   "tipo": "person",
+   "ini": 74086,
+   "fin": 74096,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74086,
+   "fin": 74096,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 74098,
+   "fin": 74109,
+   "rasgos": {
+    "role": "subsecretary"
+   },
+   "texto": "OSCAR GÓMEZ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74098,
+   "fin": 74109,
+   "texto": "OSCAR GÓMEZ"
+  },
+  {
+   "tipo": "person",
+   "ini": 74146,
+   "fin": 74160,
+   "texto": "Graciela Álvez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74146,
+   "fin": 74160,
+   "texto": "Graciela Álvez"
+  },
+  {
+   "tipo": "person",
+   "ini": 74162,
+   "fin": 74175,
+   "rasgos": {
+    "role": "ganeralDirector"
+   },
+   "texto": "PABLO ÁLVAREZ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74162,
+   "fin": 74175,
+   "texto": "PABLO ÁLVAREZ"
+  },
+  {
+   "tipo": "person",
+   "ini": 74205,
+   "fin": 74222,
+   "rasgos": {
+    "role": "translator"
+   },
+   "texto": "Adriana Butureira"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74205,
+   "fin": 74222,
+   "texto": "Adriana Butureira"
+  },
+  {
+   "tipo": "person",
+   "ini": 74224,
+   "fin": 74236,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "HUGO ACHUGAR"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74224,
+   "fin": 74236,
+   "texto": "HUGO ACHUGAR"
+  },
+  {
+   "tipo": "person",
+   "ini": 74275,
+   "fin": 74291,
+   "rasgos": {
+    "role": "layout"
+   },
+   "texto": "Nicolás Infanzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74275,
+   "fin": 74291,
+   "texto": "Nicolás Infanzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 74293,
+   "fin": 74308,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "ENRIQUE AGUERRE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74293,
+   "fin": 74308,
+   "texto": "ENRIQUE AGUERRE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 74326,
+   "fin": 74355,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Museo Nacional Artes Visuales"
+  },
+  {
+   "tipo": "person",
+   "ini": 74376,
+   "fin": 74387,
+   "rasgos": {
+    "role": "layout"
+   },
+   "texto": "Jorge Vidal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74376,
+   "fin": 74387,
+   "texto": "Jorge Vidal"
+  },
+  {
+   "tipo": "person",
+   "ini": 74390,
+   "fin": 74403,
+   "rasgos": {
+    "role": "layout"
+   },
+   "texto": "Darío Olivera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74390,
+   "fin": 74403,
+   "texto": "Darío Olivera"
+  },
+  {
+   "tipo": "person",
+   "ini": 74439,
+   "fin": 74449,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74439,
+   "fin": 74449,
+   "texto": "López Lage"
+  },
+  {
+   "tipo": "person",
+   "ini": 74450,
+   "fin": 74463,
+   "rasgos": {
+    "role": "assistant"
+   },
+   "texto": "Daniel Seoane"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74450,
+   "fin": 74463,
+   "texto": "Daniel Seoane"
+  },
+  {
+   "tipo": "institution",
+   "ini": 74465,
+   "fin": 74642,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Museo Nacional de Artes Visuales\nTomás Giribaldi 2283 esq. Julio Herrera y Reissig,\nParque Rodó - Montevideo - Uruguay\nTels.: +598 27116054 - 27116124 - 27116127\nwww.mnav.gub.uy"
+  },
+  {
+   "tipo": "address",
+   "ini": 74498,
+   "fin": 74548,
+   "texto": "Tomás Giribaldi 2283 esq. Julio Herrera y Reissig,"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 74549,
+   "fin": 74583,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Parque Rodó - Montevideo - Uruguay"
+  },
+  {
+   "tipo": "person",
+   "ini": 74655,
+   "fin": 74670,
+   "texto": "Alberto Rossini"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74655,
+   "fin": 74670,
+   "texto": "Alberto Rossini"
+  },
+  {
+   "tipo": "person",
+   "ini": 74712,
+   "fin": 74727,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Natalia de León"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74712,
+   "fin": 74727,
+   "texto": "Natalia de León"
+  },
+  {
+   "tipo": "person",
+   "ini": 74765,
+   "fin": 74780,
+   "texto": "Dalila Bartfeld"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74765,
+   "fin": 74780,
+   "texto": "Dalila Bartfeld"
+  },
+  {
+   "tipo": "person",
+   "ini": 74782,
+   "fin": 74797,
+   "texto": "Agustín Sabella"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74782,
+   "fin": 74797,
+   "texto": "Agustín Sabella"
+  },
+  {
+   "tipo": "person",
+   "ini": 74799,
+   "fin": 74812,
+   "texto": "Daniel Seoane"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74799,
+   "fin": 74812,
+   "texto": "Daniel Seoane"
+  },
+  {
+   "tipo": "person",
+   "ini": 74814,
+   "fin": 74832,
+   "texto": "Guillermo Zabaleta"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74814,
+   "fin": 74832,
+   "texto": "Guillermo Zabaleta"
+  },
+  {
+   "tipo": "person",
+   "ini": 74834,
+   "fin": 74840,
+   "texto": "Carlos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74834,
+   "fin": 74840,
+   "texto": "Carlos"
+  },
+  {
+   "tipo": "person",
+   "ini": 74843,
+   "fin": 74857,
+   "texto": "Clara Engelman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74843,
+   "fin": 74857,
+   "texto": "Clara Engelman"
+  },
+  {
+   "tipo": "person",
+   "ini": 74859,
+   "fin": 74871,
+   "texto": "Olga Svirsky"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74859,
+   "fin": 74871,
+   "texto": "Olga Svirsky"
+  },
+  {
+   "tipo": "person",
+   "ini": 74873,
+   "fin": 74887,
+   "texto": "Jaime Lerhaupt"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74873,
+   "fin": 74887,
+   "texto": "Jaime Lerhaupt"
+  },
+  {
+   "tipo": "person",
+   "ini": 74889,
+   "fin": 74903,
+   "texto": "Sebastián Sáez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74889,
+   "fin": 74903,
+   "texto": "Sebastián Sáez"
+  },
+  {
+   "tipo": "person",
+   "ini": 74905,
+   "fin": 74917,
+   "texto": "Maggie Whyte"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74905,
+   "fin": 74917,
+   "texto": "Maggie Whyte"
+  },
+  {
+   "tipo": "person",
+   "ini": 74919,
+   "fin": 74937,
+   "texto": "María Pity\nMascaró"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74919,
+   "fin": 74937,
+   "texto": "María Pity\nMascaró"
+  },
+  {
+   "tipo": "person",
+   "ini": 74939,
+   "fin": 74957,
+   "texto": "Guillermo Lockhart"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74939,
+   "fin": 74957,
+   "texto": "Guillermo Lockhart"
+  },
+  {
+   "tipo": "person",
+   "ini": 74959,
+   "fin": 74977,
+   "texto": "Patricia Bentancur"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74959,
+   "fin": 74977,
+   "texto": "Patricia Bentancur"
+  },
+  {
+   "tipo": "person",
+   "ini": 74979,
+   "fin": 74996,
+   "texto": "Alejandro\nCesarco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74979,
+   "fin": 74996,
+   "texto": "Alejandro\nCesarco"
+  },
+  {
+   "tipo": "person",
+   "ini": 74998,
+   "fin": 75008,
+   "texto": "Clio Bugel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74998,
+   "fin": 75008,
+   "texto": "Clio Bugel"
+  },
+  {
+   "tipo": "person",
+   "ini": 75010,
+   "fin": 75027,
+   "texto": "Angela López Ruiz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75010,
+   "fin": 75027,
+   "texto": "Angela López Ruiz"
+  },
+  {
+   "tipo": "person",
+   "ini": 75029,
+   "fin": 75045,
+   "texto": "Anaclara Talento"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75029,
+   "fin": 75045,
+   "texto": "Anaclara Talento"
+  },
+  {
+   "tipo": "person",
+   "ini": 75047,
+   "fin": 75061,
+   "texto": "Silvia Segovia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75047,
+   "fin": 75061,
+   "texto": "Silvia Segovia"
+  },
+  {
+   "tipo": "person",
+   "ini": 75063,
+   "fin": 75078,
+   "texto": "Natalia de León"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75063,
+   "fin": 75078,
+   "texto": "Natalia de León"
+  },
+  {
+   "tipo": "person",
+   "ini": 75080,
+   "fin": 75095,
+   "texto": "Luciana Damiani"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75080,
+   "fin": 75095,
+   "texto": "Luciana Damiani"
+  },
+  {
+   "tipo": "person",
+   "ini": 75097,
+   "fin": 75109,
+   "texto": "Juane\nBlanco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75097,
+   "fin": 75109,
+   "texto": "Juane\nBlanco"
+  },
+  {
+   "tipo": "person",
+   "ini": 75111,
+   "fin": 75125,
+   "texto": "Marcelo Daglio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75111,
+   "fin": 75125,
+   "texto": "Marcelo Daglio"
+  },
+  {
+   "tipo": "person",
+   "ini": 75127,
+   "fin": 75141,
+   "texto": "Catalina Bunge"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75127,
+   "fin": 75141,
+   "texto": "Catalina Bunge"
+  },
+  {
+   "tipo": "person",
+   "ini": 75143,
+   "fin": 75156,
+   "texto": "Verónica Shaw"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75143,
+   "fin": 75156,
+   "texto": "Verónica Shaw"
+  },
+  {
+   "tipo": "person",
+   "ini": 75158,
+   "fin": 75170,
+   "texto": "Alicia\nHaber"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75158,
+   "fin": 75170,
+   "texto": "Alicia\nHaber"
+  },
+  {
+   "tipo": "person",
+   "ini": 75172,
+   "fin": 75189,
+   "texto": "Jacqueline Lacasa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75172,
+   "fin": 75189,
+   "texto": "Jacqueline Lacasa"
+  },
+  {
+   "tipo": "person",
+   "ini": 75191,
+   "fin": 75208,
+   "texto": "María Clara Rossi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75191,
+   "fin": 75208,
+   "texto": "María Clara Rossi"
+  },
+  {
+   "tipo": "person",
+   "ini": 75210,
+   "fin": 75220,
+   "texto": "Mito Rossi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75210,
+   "fin": 75220,
+   "texto": "Mito Rossi"
+  },
+  {
+   "tipo": "person",
+   "ini": 75222,
+   "fin": 75232,
+   "texto": "Riki\nMusso"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75222,
+   "fin": 75232,
+   "texto": "Riki\nMusso"
+  },
+  {
+   "tipo": "person",
+   "ini": 75234,
+   "fin": 75246,
+   "texto": "Sergio Porro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75234,
+   "fin": 75246,
+   "texto": "Sergio Porro"
+  },
+  {
+   "tipo": "person",
+   "ini": 75248,
+   "fin": 75265,
+   "texto": "Fabricio Guaragna"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75248,
+   "fin": 75265,
+   "texto": "Fabricio Guaragna"
+  },
+  {
+   "tipo": "person",
+   "ini": 75267,
+   "fin": 75278,
+   "texto": "Pía Susaeta"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75267,
+   "fin": 75278,
+   "texto": "Pía Susaeta"
+  },
+  {
+   "tipo": "person",
+   "ini": 75280,
+   "fin": 75291,
+   "texto": "Olga\nBettas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75280,
+   "fin": 75291,
+   "texto": "Olga\nBettas"
+  },
+  {
+   "tipo": "person",
+   "ini": 75293,
+   "fin": 75305,
+   "texto": "Pablo García"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75293,
+   "fin": 75305,
+   "texto": "Pablo García"
+  },
+  {
+   "tipo": "person",
+   "ini": 75307,
+   "fin": 75321,
+   "texto": "Nelson Tirelli"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75307,
+   "fin": 75321,
+   "texto": "Nelson Tirelli"
+  },
+  {
+   "tipo": "person",
+   "ini": 75323,
+   "fin": 75337,
+   "texto": "Zully Di Trane"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75323,
+   "fin": 75337,
+   "texto": "Zully Di Trane"
+  },
+  {
+   "tipo": "person",
+   "ini": 75339,
+   "fin": 75349,
+   "texto": "Mito Rossi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75339,
+   "fin": 75349,
+   "texto": "Mito Rossi"
+  },
+  {
+   "tipo": "person",
+   "ini": 75351,
+   "fin": 75364,
+   "texto": "Pablo Mailhos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75351,
+   "fin": 75364,
+   "texto": "Pablo Mailhos"
+  },
+  {
+   "tipo": "person",
+   "ini": 75366,
+   "fin": 75380,
+   "texto": "Julia Castagno"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75366,
+   "fin": 75380,
+   "texto": "Julia Castagno"
+  },
+  {
+   "tipo": "person",
+   "ini": 75382,
+   "fin": 75396,
+   "texto": "Colette Hillel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75382,
+   "fin": 75396,
+   "texto": "Colette Hillel"
+  },
+  {
+   "tipo": "person",
+   "ini": 75398,
+   "fin": 75413,
+   "texto": "Juliana Rosales"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75398,
+   "fin": 75413,
+   "texto": "Juliana Rosales"
+  },
+  {
+   "tipo": "person",
+   "ini": 75415,
+   "fin": 75430,
+   "texto": "Enrique Aguerre"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75415,
+   "fin": 75430,
+   "texto": "Enrique Aguerre"
+  },
+  {
+   "tipo": "person",
+   "ini": 75449,
+   "fin": 75453,
+   "texto": "Adri"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75449,
+   "fin": 75453,
+   "texto": "Adri"
+  },
+  {
+   "tipo": "person",
+   "ini": 75455,
+   "fin": 75458,
+   "texto": "Ina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75455,
+   "fin": 75458,
+   "texto": "Ina"
+  },
+  {
+   "tipo": "person",
+   "ini": 75461,
+   "fin": 75465,
+   "texto": "Juli"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75461,
+   "fin": 75465,
+   "texto": "Juli"
+  }
+ ]
+}

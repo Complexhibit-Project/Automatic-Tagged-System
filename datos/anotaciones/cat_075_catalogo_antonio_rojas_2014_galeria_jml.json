@@ -1,0 +1,1653 @@
+{
+ "id": "cat_075_catalogo_antonio_rojas_2014_galeria_jml",
+ "nombre_original": "CATÁLOGO-ANTONIO-ROJAS-2014-GALERÍA-JML",
+ "longitud_texto": 19980,
+ "sha256_texto": "0184d16118282e6ea380f04bdfa2ab232f1c9bef7b5471618f45a673aa55cb09",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 61,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 36,
+   "texto": "ANTONIO ROJAS\nARQUITECTURA EMOCIONAL"
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 13,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ANTONIO ROJAS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 13,
+   "texto": "ANTONIO ROJAS"
+  },
+  {
+   "tipo": "date",
+   "ini": 38,
+   "fin": 61,
+   "rasgos": {
+    "from": "2014-06-01",
+    "to": "2014-09-30"
+   },
+   "texto": "JUNIO / SEPTIEMBRE 2014"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 63,
+   "fin": 265,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 63,
+   "fin": 99,
+   "texto": "ANTONIO ROJAS\nARQUITECTURA EMOCIONAL"
+  },
+  {
+   "tipo": "person",
+   "ini": 63,
+   "fin": 76,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ANTONIO ROJAS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 63,
+   "fin": 76,
+   "texto": "ANTONIO ROJAS"
+  },
+  {
+   "tipo": "date",
+   "ini": 101,
+   "fin": 124,
+   "rasgos": {
+    "from": "2014-06-01",
+    "to": "2014-09-30"
+   },
+   "texto": "JUNIO / SEPTIEMBRE 2014"
+  },
+  {
+   "tipo": "institution",
+   "ini": 127,
+   "fin": 265,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Juan Manuel Lumbreras\nGalería de Arte\n\nHENAO, 3 · 48009 BILBAO · TEL. 94 424 45 45\ngaleria@galerialumbreras.com · www.galerialumbreras.com"
+  },
+  {
+   "tipo": "address",
+   "ini": 166,
+   "fin": 189,
+   "texto": "HENAO, 3 · 48009 BILBAO"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 183,
+   "fin": 189,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "BILBAO"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 4804,
+   "fin": 5990
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4816,
+   "fin": 4862
+  },
+  {
+   "tipo": "work",
+   "ini": 4816,
+   "fin": 4855,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "RURAL (2014)\nÓleo s/ lienzo\n150 x 160cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4816,
+   "fin": 4821,
+   "texto": "RURAL"
+  },
+  {
+   "tipo": "date",
+   "ini": 4823,
+   "fin": 4827,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4829,
+   "fin": 4843,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo s/ lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4844,
+   "fin": 4855,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150 x 160cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4844,
+   "fin": 4847,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 4850,
+   "fin": 4853,
+   "texto": "160"
+  },
+  {
+   "tipo": "img",
+   "ini": 4857,
+   "fin": 4862,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4864,
+   "fin": 4925
+  },
+  {
+   "tipo": "img",
+   "ini": 4864,
+   "fin": 4869,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4871,
+   "fin": 4925,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "“LAND ART” EN\nTARIFA (2014)\nÓleo s/ lienzo\n150 x 160cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4871,
+   "fin": 4891,
+   "texto": "“LAND ART” EN\nTARIFA"
+  },
+  {
+   "tipo": "date",
+   "ini": 4893,
+   "fin": 4897,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4899,
+   "fin": 4913,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo s/ lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4914,
+   "fin": 4925,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150 x 160cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4914,
+   "fin": 4917,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 4920,
+   "fin": 4923,
+   "texto": "160"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4928,
+   "fin": 4980
+  },
+  {
+   "tipo": "work",
+   "ini": 4928,
+   "fin": 4973,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "PLANILANDIA (2014)\nÓleo s/ lienzo\n150 x 150cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4928,
+   "fin": 4939,
+   "texto": "PLANILANDIA"
+  },
+  {
+   "tipo": "date",
+   "ini": 4941,
+   "fin": 4945,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4947,
+   "fin": 4961,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo s/ lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4962,
+   "fin": 4973,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150 x 150cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4962,
+   "fin": 4965,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 4968,
+   "fin": 4971,
+   "texto": "150"
+  },
+  {
+   "tipo": "img",
+   "ini": 4975,
+   "fin": 4980,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4982,
+   "fin": 5029
+  },
+  {
+   "tipo": "img",
+   "ini": 4982,
+   "fin": 4987,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4989,
+   "fin": 5029,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ESPEJO (2014)\nÓleo s/ lienzo\n150 x 150cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4989,
+   "fin": 4995,
+   "texto": "ESPEJO"
+  },
+  {
+   "tipo": "date",
+   "ini": 4997,
+   "fin": 5001,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5003,
+   "fin": 5017,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo s/ lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5018,
+   "fin": 5029,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150 x 150cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5018,
+   "fin": 5021,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 5024,
+   "fin": 5027,
+   "texto": "150"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5032,
+   "fin": 5079
+  },
+  {
+   "tipo": "work",
+   "ini": 5032,
+   "fin": 5072,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "PAREJA (2014)\nÓleo s/ lienzo\n150 x 150cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5032,
+   "fin": 5038,
+   "texto": "PAREJA"
+  },
+  {
+   "tipo": "date",
+   "ini": 5040,
+   "fin": 5044,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5046,
+   "fin": 5060,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo s/ lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5061,
+   "fin": 5072,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150 x 150cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5061,
+   "fin": 5064,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 5067,
+   "fin": 5070,
+   "texto": "150"
+  },
+  {
+   "tipo": "img",
+   "ini": 5074,
+   "fin": 5079,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5081,
+   "fin": 5142
+  },
+  {
+   "tipo": "img",
+   "ini": 5081,
+   "fin": 5086,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5088,
+   "fin": 5142,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "SUEÑO DE\nCONSTANTINO (2014)\nÓleo s/ lienzo\n100 x 100cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5088,
+   "fin": 5108,
+   "texto": "SUEÑO DE\nCONSTANTINO"
+  },
+  {
+   "tipo": "date",
+   "ini": 5110,
+   "fin": 5114,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5116,
+   "fin": 5130,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo s/ lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5131,
+   "fin": 5142,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5131,
+   "fin": 5134,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 5137,
+   "fin": 5140,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5145,
+   "fin": 5199
+  },
+  {
+   "tipo": "work",
+   "ini": 5145,
+   "fin": 5192,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "CAJA DE LUCES (2014)\nÓleo s/ lienzo\n100 x 100cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5145,
+   "fin": 5158,
+   "texto": "CAJA DE LUCES"
+  },
+  {
+   "tipo": "date",
+   "ini": 5160,
+   "fin": 5164,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5166,
+   "fin": 5180,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo s/ lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5181,
+   "fin": 5192,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5181,
+   "fin": 5184,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 5187,
+   "fin": 5190,
+   "texto": "100"
+  },
+  {
+   "tipo": "img",
+   "ini": 5194,
+   "fin": 5199,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5201,
+   "fin": 5250
+  },
+  {
+   "tipo": "img",
+   "ini": 5201,
+   "fin": 5206,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5208,
+   "fin": 5250,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "DISTANCIAS (2014)\nÓleo s/ lienzo\n97 x 97cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5208,
+   "fin": 5218,
+   "texto": "DISTANCIAS"
+  },
+  {
+   "tipo": "date",
+   "ini": 5220,
+   "fin": 5224,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5226,
+   "fin": 5240,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo s/ lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5241,
+   "fin": 5250,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "97 x 97cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5241,
+   "fin": 5243,
+   "texto": "97"
+  },
+  {
+   "tipo": "width",
+   "ini": 5246,
+   "fin": 5248,
+   "texto": "97"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5252,
+   "fin": 5301
+  },
+  {
+   "tipo": "img",
+   "ini": 5252,
+   "fin": 5257,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5259,
+   "fin": 5301,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ESPEJISMO (2014)\nÓleo s/ lienzo\n75 x 150cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5259,
+   "fin": 5268,
+   "texto": "ESPEJISMO"
+  },
+  {
+   "tipo": "date",
+   "ini": 5270,
+   "fin": 5274,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5276,
+   "fin": 5290,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo s/ lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5291,
+   "fin": 5301,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "75 x 150cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5291,
+   "fin": 5293,
+   "texto": "75"
+  },
+  {
+   "tipo": "width",
+   "ini": 5296,
+   "fin": 5299,
+   "texto": "150"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5303,
+   "fin": 5357
+  },
+  {
+   "tipo": "img",
+   "ini": 5303,
+   "fin": 5308,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5310,
+   "fin": 5357,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ACCESO ESTELAR (2014)\nÓleo s/ lienzo\n40 x 160cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5310,
+   "fin": 5324,
+   "texto": "ACCESO ESTELAR"
+  },
+  {
+   "tipo": "date",
+   "ini": 5326,
+   "fin": 5330,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5332,
+   "fin": 5346,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo s/ lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5347,
+   "fin": 5357,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 160cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5347,
+   "fin": 5349,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 5352,
+   "fin": 5355,
+   "texto": "160"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5359,
+   "fin": 5415
+  },
+  {
+   "tipo": "img",
+   "ini": 5359,
+   "fin": 5364,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5366,
+   "fin": 5414,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "PLANO E ILUSIÓN (2014)\nÓleo s/ lienzo\n40 x 160cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5366,
+   "fin": 5381,
+   "texto": "PLANO E ILUSIÓN"
+  },
+  {
+   "tipo": "date",
+   "ini": 5383,
+   "fin": 5387,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5389,
+   "fin": 5403,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo s/ lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5404,
+   "fin": 5414,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 160cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5404,
+   "fin": 5406,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 5409,
+   "fin": 5412,
+   "texto": "160"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5416,
+   "fin": 5472
+  },
+  {
+   "tipo": "img",
+   "ini": 5416,
+   "fin": 5421,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5423,
+   "fin": 5472,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "RITMO HORIZONTAL (2014)\nÓleo s/ lienzo\n40 x 160cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5423,
+   "fin": 5439,
+   "texto": "RITMO HORIZONTAL"
+  },
+  {
+   "tipo": "date",
+   "ini": 5441,
+   "fin": 5445,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5447,
+   "fin": 5461,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo s/ lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5462,
+   "fin": 5472,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 160cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5462,
+   "fin": 5464,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 5467,
+   "fin": 5470,
+   "texto": "160"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5474,
+   "fin": 5536
+  },
+  {
+   "tipo": "img",
+   "ini": 5474,
+   "fin": 5479,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5481,
+   "fin": 5536,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ARQUITECTURA EMOCIONAL (2014)\nÓleo s/ lienzo\n40 x 160cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5481,
+   "fin": 5503,
+   "texto": "ARQUITECTURA EMOCIONAL"
+  },
+  {
+   "tipo": "date",
+   "ini": 5505,
+   "fin": 5509,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5511,
+   "fin": 5525,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo s/ lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5526,
+   "fin": 5537,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 160cm\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 5526,
+   "fin": 5528,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 5531,
+   "fin": 5534,
+   "texto": "160"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5538,
+   "fin": 5593
+  },
+  {
+   "tipo": "img",
+   "ini": 5538,
+   "fin": 5543,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5545,
+   "fin": 5593,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "LÍNEA CLARA (2014)\nAcrílico s/ lienzo\n50 x 130cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5545,
+   "fin": 5556,
+   "texto": "LÍNEA CLARA"
+  },
+  {
+   "tipo": "date",
+   "ini": 5558,
+   "fin": 5562,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5564,
+   "fin": 5582,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico s/ lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5583,
+   "fin": 5593,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 130cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5583,
+   "fin": 5585,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 5588,
+   "fin": 5591,
+   "texto": "130"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5595,
+   "fin": 5655
+  },
+  {
+   "tipo": "img",
+   "ini": 5595,
+   "fin": 5600,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5602,
+   "fin": 5655,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "UN DÍA PROMETEDOR (2014)\nAcrílico s/ lienzo\n55 x 81cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5602,
+   "fin": 5619,
+   "texto": "UN DÍA PROMETEDOR"
+  },
+  {
+   "tipo": "date",
+   "ini": 5621,
+   "fin": 5625,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5627,
+   "fin": 5645,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico s/ lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5646,
+   "fin": 5655,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55 x 81cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5646,
+   "fin": 5648,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 5651,
+   "fin": 5653,
+   "texto": "81"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5657,
+   "fin": 5727
+  },
+  {
+   "tipo": "img",
+   "ini": 5657,
+   "fin": 5662,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5664,
+   "fin": 5727,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "LA ESPUMA DE LOS DÍAS (2014)\nAcrílico s/ madera\n85 x 192 x 22cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5664,
+   "fin": 5685,
+   "texto": "LA ESPUMA DE LOS DÍAS"
+  },
+  {
+   "tipo": "date",
+   "ini": 5687,
+   "fin": 5691,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5693,
+   "fin": 5711,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico s/ madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5712,
+   "fin": 5727,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "85 x 192 x 22cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5712,
+   "fin": 5714,
+   "texto": "85"
+  },
+  {
+   "tipo": "width",
+   "ini": 5717,
+   "fin": 5720,
+   "texto": "192"
+  },
+  {
+   "tipo": "depth",
+   "ini": 5723,
+   "fin": 5725,
+   "texto": "22"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5729,
+   "fin": 5785
+  },
+  {
+   "tipo": "img",
+   "ini": 5729,
+   "fin": 5734,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5736,
+   "fin": 5785,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "LEVEDAD (2014)\nAcrílico s/ madera\n83 x 150 x 18cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5736,
+   "fin": 5743,
+   "texto": "LEVEDAD"
+  },
+  {
+   "tipo": "date",
+   "ini": 5745,
+   "fin": 5749,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5751,
+   "fin": 5769,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico s/ madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5770,
+   "fin": 5785,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "83 x 150 x 18cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5770,
+   "fin": 5772,
+   "texto": "83"
+  },
+  {
+   "tipo": "width",
+   "ini": 5775,
+   "fin": 5778,
+   "texto": "150"
+  },
+  {
+   "tipo": "depth",
+   "ini": 5781,
+   "fin": 5783,
+   "texto": "18"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5787,
+   "fin": 5842
+  },
+  {
+   "tipo": "img",
+   "ini": 5787,
+   "fin": 5793,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5794,
+   "fin": 5842,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "BILBAO (2014)\nAcrílico s/ madera\n76 x 143 x 23cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5794,
+   "fin": 5800,
+   "texto": "BILBAO"
+  },
+  {
+   "tipo": "date",
+   "ini": 5802,
+   "fin": 5806,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5808,
+   "fin": 5826,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico s/ madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5827,
+   "fin": 5842,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "76 x 143 x 23cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5827,
+   "fin": 5829,
+   "texto": "76"
+  },
+  {
+   "tipo": "width",
+   "ini": 5832,
+   "fin": 5835,
+   "texto": "143"
+  },
+  {
+   "tipo": "depth",
+   "ini": 5838,
+   "fin": 5840,
+   "texto": "23"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5845,
+   "fin": 5914
+  },
+  {
+   "tipo": "work",
+   "ini": 5845,
+   "fin": 5907,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "RECORRIDO Y PINTURA\nFLOTANTE (2013)\nÓleo s/ madera\n116 x 116cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5845,
+   "fin": 5873,
+   "texto": "RECORRIDO Y PINTURA\nFLOTANTE"
+  },
+  {
+   "tipo": "date",
+   "ini": 5875,
+   "fin": 5879,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5881,
+   "fin": 5895,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo s/ madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5896,
+   "fin": 5907,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "116 x 116cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5896,
+   "fin": 5899,
+   "texto": "116"
+  },
+  {
+   "tipo": "width",
+   "ini": 5902,
+   "fin": 5905,
+   "texto": "116"
+  },
+  {
+   "tipo": "img",
+   "ini": 5909,
+   "fin": 5914,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5916,
+   "fin": 5990
+  },
+  {
+   "tipo": "img",
+   "ini": 5916,
+   "fin": 5921,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5923,
+   "fin": 5990,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "DALÍ PINTA SU\nAUTORRETRATO (2014)\nAcrílico s/ madera\n56 x 96 x 22cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 5923,
+   "fin": 5949,
+   "texto": "DALÍ PINTA SU\nAUTORRETRATO"
+  },
+  {
+   "tipo": "date",
+   "ini": 5951,
+   "fin": 5955,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5957,
+   "fin": 5975,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico s/ madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5976,
+   "fin": 5990,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "56 x 96 x 22cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5976,
+   "fin": 5978,
+   "texto": "56"
+  },
+  {
+   "tipo": "width",
+   "ini": 5981,
+   "fin": 5983,
+   "texto": "96"
+  },
+  {
+   "tipo": "depth",
+   "ini": 5986,
+   "fin": 5988,
+   "texto": "22"
+  },
+  {
+   "tipo": "person",
+   "ini": 6006,
+   "fin": 6033,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ANTONIO ROJAS\nTarifa, 1962."
+  },
+  {
+   "tipo": "persName",
+   "ini": 6006,
+   "fin": 6019,
+   "texto": "ANTONIO ROJAS"
+  },
+  {
+   "tipo": "birth",
+   "ini": 6020,
+   "fin": 6032
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6020,
+   "fin": 6026,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Tarifa"
+  },
+  {
+   "tipo": "date",
+   "ini": 6028,
+   "fin": 6032,
+   "rasgos": {
+    "when": "1962"
+   },
+   "texto": "1962"
+  },
+  {
+   "tipo": "date",
+   "ini": 6060,
+   "fin": 6064,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "title",
+   "ini": 6066,
+   "fin": 6088,
+   "texto": "Arquitectura emocional"
+  },
+  {
+   "tipo": "person",
+   "ini": 19791,
+   "fin": 19806,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "EDWIN A. ABBOTT"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19791,
+   "fin": 19806,
+   "texto": "EDWIN A. ABBOTT"
+  },
+  {
+   "tipo": "person",
+   "ini": 19868,
+   "fin": 19881,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "ANTONIO ROJAS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19868,
+   "fin": 19881,
+   "texto": "ANTONIO ROJAS"
+  },
+  {
+   "tipo": "person",
+   "ini": 19904,
+   "fin": 19925,
+   "rasgos": {
+    "role": "catalogueDesigner"
+   },
+   "texto": "JUAN MANUEL LUMBRERAS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19904,
+   "fin": 19925,
+   "texto": "JUAN MANUEL LUMBRERAS"
+  },
+  {
+   "tipo": "person",
+   "ini": 19926,
+   "fin": 19942,
+   "rasgos": {
+    "type": "catalogueDesigner"
+   },
+   "texto": "BEGOÑA LUMBRERAS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19926,
+   "fin": 19942,
+   "texto": "BEGOÑA LUMBRERAS"
+  },
+  {
+   "tipo": "institution",
+   "ini": 19952,
+   "fin": 19968,
+   "rasgos": {
+    "type": "company",
+    "role": "editor"
+   },
+   "texto": "A'G ARTE GESTIÓN"
+  },
+  {
+   "tipo": "date",
+   "ini": 19969,
+   "fin": 19977,
+   "rasgos": {
+    "when": "2014-08-13"
+   },
+   "texto": "13/08/14"
+  }
+ ]
+}

@@ -1,0 +1,6603 @@
+{
+ "id": "cat_013_2_albert_paley",
+ "nombre_original": "2. Albert Paley",
+ "longitud_texto": 49449,
+ "sha256_texto": "a8f92f9e7cb5805c237140c753ea29c515174e44252c09f520c90cc76d28c63a",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 12,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ALBERT PALEY"
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 12,
+   "texto": "ALBERT PALEY"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 12,
+   "texto": "ALBERT PALEY"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 12,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 14,
+   "fin": 285,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 14,
+   "fin": 38,
+   "texto": "ALBERT PALEY\n\nSCULPTUREs"
+  },
+  {
+   "tipo": "person",
+   "ini": 14,
+   "fin": 26,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ALBERT PALEY"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14,
+   "fin": 26,
+   "texto": "ALBERT PALEY"
+  },
+  {
+   "tipo": "institution",
+   "ini": 57,
+   "fin": 175,
+   "rasgos": {
+    "type": "museum, university",
+    "role": "organiser, host"
+   },
+   "texto": "Rosenwald-Wolf Gallery\nPhiladelphia College of Art and Design\nat The University of the Arts\nPhiladelphia, Pennsylvania"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 80,
+   "fin": 92,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Philadelphia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 149,
+   "fin": 175,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Philadelphia, Pennsylvania"
+  },
+  {
+   "tipo": "date",
+   "ini": 176,
+   "fin": 197,
+   "rasgos": {
+    "from": "1991-03-22",
+    "to": "1991-05-04"
+   },
+   "texto": "March 22- May 4, 1991"
+  },
+  {
+   "tipo": "institution",
+   "ini": 199,
+   "fin": 247,
+   "rasgos": {
+    "type": "artCenter",
+    "role": "organiser, host"
+   },
+   "texto": "Philharmonic Center for the Arts\nNaples, Florida"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 232,
+   "fin": 247,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Naples, Florida"
+  },
+  {
+   "tipo": "date",
+   "ini": 248,
+   "fin": 285,
+   "rasgos": {
+    "from": "1991-09-23",
+    "to": "1992-02-01"
+   },
+   "texto": "September 23, 1991 - February 1, 1992"
+  },
+  {
+   "tipo": "person",
+   "ini": 961,
+   "fin": 974,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "Joseph Rapone"
+  },
+  {
+   "tipo": "persName",
+   "ini": 961,
+   "fin": 974,
+   "texto": "Joseph Rapone"
+  },
+  {
+   "tipo": "person",
+   "ini": 983,
+   "fin": 999,
+   "rasgos": {
+    "role": "editor"
+   },
+   "texto": "Gerald Zeigerman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 983,
+   "fin": 999,
+   "texto": "Gerald Zeigerman"
+  },
+  {
+   "tipo": "person",
+   "ini": 1012,
+   "fin": 1024,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Bruce Miller"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1012,
+   "fin": 1024,
+   "texto": "Bruce Miller"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1166,
+   "fin": 1284,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 1191,
+   "fin": 1269,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Rosenwald-Wolf Gallery \nThe University of the Arts \nPhiladelphia, Pennsylvania"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1243,
+   "fin": 1269,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Philadelphia, Pennsylvania"
+  },
+  {
+   "tipo": "person",
+   "ini": 1272,
+   "fin": 1284,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Leah Douglas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1272,
+   "fin": 1284,
+   "texto": "Leah Douglas"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1286,
+   "fin": 1675,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 1287,
+   "fin": 1311,
+   "texto": "Albert Paley: Sculptures"
+  },
+  {
+   "tipo": "person",
+   "ini": 1287,
+   "fin": 1299,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Albert Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1287,
+   "fin": 1299,
+   "texto": "Albert Paley"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1341,
+   "fin": 1367,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "The University of the Arts"
+  },
+  {
+   "tipo": "person",
+   "ini": 1381,
+   "fin": 1393,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Albert Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1381,
+   "fin": 1393,
+   "texto": "Albert Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 1569,
+   "fin": 1581,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Albert Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1569,
+   "fin": 1581,
+   "texto": "Albert Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 1710,
+   "fin": 1715,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1710,
+   "fin": 1715,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 2005,
+   "fin": 2010,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2005,
+   "fin": 2010,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 2336,
+   "fin": 2341,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2336,
+   "fin": 2341,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 3268,
+   "fin": 3280,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Albert Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3268,
+   "fin": 3280,
+   "texto": "Albert Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 3803,
+   "fin": 3808,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3803,
+   "fin": 3808,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 4111,
+   "fin": 4116,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4111,
+   "fin": 4116,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 4587,
+   "fin": 4592,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4587,
+   "fin": 4592,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 4955,
+   "fin": 4960,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4955,
+   "fin": 4960,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 5287,
+   "fin": 5299,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Albert Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5287,
+   "fin": 5299,
+   "texto": "Albert Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 5406,
+   "fin": 5411,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5406,
+   "fin": 5411,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 5612,
+   "fin": 5624,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Albert Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5612,
+   "fin": 5624,
+   "texto": "Albert Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 7726,
+   "fin": 7738,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Albert Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7726,
+   "fin": 7738,
+   "texto": "Albert Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 7882,
+   "fin": 7894,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Albert Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7882,
+   "fin": 7894,
+   "texto": "Albert Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 8380,
+   "fin": 8392,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Albert Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8380,
+   "fin": 8392,
+   "texto": "Albert Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 9906,
+   "fin": 9911,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9906,
+   "fin": 9911,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 10315,
+   "fin": 10320,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10315,
+   "fin": 10320,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 10703,
+   "fin": 10708,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10703,
+   "fin": 10708,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 11244,
+   "fin": 11249,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11244,
+   "fin": 11249,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 11520,
+   "fin": 11525,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11520,
+   "fin": 11525,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 11670,
+   "fin": 11675,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11670,
+   "fin": 11675,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 12537,
+   "fin": 12542,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12537,
+   "fin": 12542,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 12855,
+   "fin": 12860,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12855,
+   "fin": 12860,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 13063,
+   "fin": 13338,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 13064,
+   "fin": 13088,
+   "texto": "Albert Paley: Sculptures"
+  },
+  {
+   "tipo": "person",
+   "ini": 13064,
+   "fin": 13076,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Albert Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13064,
+   "fin": 13076,
+   "texto": "Albert Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 13210,
+   "fin": 13215,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13210,
+   "fin": 13215,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 13411,
+   "fin": 13416,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13411,
+   "fin": 13416,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 13681,
+   "fin": 13686,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13681,
+   "fin": 13686,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 14151,
+   "fin": 14156,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14151,
+   "fin": 14156,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 14423,
+   "fin": 14428,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14423,
+   "fin": 14428,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 14641,
+   "fin": 14646,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14641,
+   "fin": 14646,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 15391,
+   "fin": 15396,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15391,
+   "fin": 15396,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 15665,
+   "fin": 15670,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15665,
+   "fin": 15670,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 16557,
+   "fin": 16562,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16557,
+   "fin": 16562,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 18651,
+   "fin": 18656,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18651,
+   "fin": 18656,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 18921,
+   "fin": 18926,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18921,
+   "fin": 18926,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 19303,
+   "fin": 19308,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19303,
+   "fin": 19308,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 20504,
+   "fin": 20509,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20504,
+   "fin": 20509,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 20991,
+   "fin": 20996,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20991,
+   "fin": 20996,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 21358,
+   "fin": 21363,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21358,
+   "fin": 21363,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 21597,
+   "fin": 21602,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21597,
+   "fin": 21602,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 22170,
+   "fin": 22175,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 22519,
+   "fin": 22524,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22519,
+   "fin": 22524,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 22870,
+   "fin": 22875,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22870,
+   "fin": 22875,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 23462,
+   "fin": 23467,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23462,
+   "fin": 23467,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 24145,
+   "fin": 24150,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24145,
+   "fin": 24150,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 24589,
+   "fin": 24594,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24589,
+   "fin": 24594,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24706,
+   "fin": 24711,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 25950,
+   "fin": 25955,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25950,
+   "fin": 25955,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 26271,
+   "fin": 26276,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26271,
+   "fin": 26276,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 27080,
+   "fin": 27085,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27080,
+   "fin": 27085,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 27143,
+   "fin": 27148,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27143,
+   "fin": 27148,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 27577,
+   "fin": 27582,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27577,
+   "fin": 27582,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 28014,
+   "fin": 28019,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28014,
+   "fin": 28019,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 28381,
+   "fin": 28386,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28381,
+   "fin": 28386,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 28667,
+   "fin": 28672,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28667,
+   "fin": 28672,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 28814,
+   "fin": 28819,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28814,
+   "fin": 28819,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 29293,
+   "fin": 29298,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29293,
+   "fin": 29298,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 29604,
+   "fin": 29609,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29604,
+   "fin": 29609,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 30107,
+   "fin": 30112,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30107,
+   "fin": 30112,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 30755,
+   "fin": 30760,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30755,
+   "fin": 30760,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 31005,
+   "fin": 31010,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31005,
+   "fin": 31010,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 31275,
+   "fin": 31280,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31275,
+   "fin": 31280,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 31529,
+   "fin": 31534,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31529,
+   "fin": 31534,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "person",
+   "ini": 31700,
+   "fin": 31705,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31700,
+   "fin": 31705,
+   "texto": "Paley"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 32030,
+   "fin": 47990
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 32030,
+   "fin": 32111
+  },
+  {
+   "tipo": "work",
+   "ini": 32030,
+   "fin": 32104,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Moment\nForged and fabricated mild steel \nChemically blackened patina \n1991"
+  },
+  {
+   "tipo": "title",
+   "ini": 32030,
+   "fin": 32036,
+   "texto": "Moment"
+  },
+  {
+   "tipo": "technique",
+   "ini": 32037,
+   "fin": 32099,
+   "rasgos": {
+    "type": "steel, patina"
+   },
+   "texto": "Forged and fabricated mild steel \nChemically blackened patina "
+  },
+  {
+   "tipo": "date",
+   "ini": 32100,
+   "fin": 32104,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "img",
+   "ini": 32106,
+   "fin": 32111,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 32113,
+   "fin": 32181
+  },
+  {
+   "tipo": "img",
+   "ini": 32113,
+   "fin": 32118,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 32120,
+   "fin": 32181,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Cardiff\nForged and fabricated mild steel \nNatural Patina\n1990"
+  },
+  {
+   "tipo": "title",
+   "ini": 32120,
+   "fin": 32127,
+   "texto": "Cardiff"
+  },
+  {
+   "tipo": "technique",
+   "ini": 32128,
+   "fin": 32176,
+   "rasgos": {
+    "type": "steel"
+   },
+   "texto": "Forged and fabricated mild steel \nNatural Patina"
+  },
+  {
+   "tipo": "date",
+   "ini": 32177,
+   "fin": 32181,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 32183,
+   "fin": 32247
+  },
+  {
+   "tipo": "work",
+   "ini": 32183,
+   "fin": 32240,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Hector\nForged and fabricated mild steel \nMonochromed\n1990"
+  },
+  {
+   "tipo": "title",
+   "ini": 32183,
+   "fin": 32189,
+   "texto": "Hector"
+  },
+  {
+   "tipo": "technique",
+   "ini": 32190,
+   "fin": 32235,
+   "rasgos": {
+    "type": "steel"
+   },
+   "texto": "Forged and fabricated mild steel \nMonochromed"
+  },
+  {
+   "tipo": "date",
+   "ini": 32236,
+   "fin": 32240,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "img",
+   "ini": 32242,
+   "fin": 32247,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 32249,
+   "fin": 32319
+  },
+  {
+   "tipo": "img",
+   "ini": 32249,
+   "fin": 32254,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 32256,
+   "fin": 32320,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Sculpture IV\nForged and fabricated mild steel \nMonochromed\n1989\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 32256,
+   "fin": 32268,
+   "texto": "Sculpture IV"
+  },
+  {
+   "tipo": "technique",
+   "ini": 32269,
+   "fin": 32314,
+   "rasgos": {
+    "type": "steel"
+   },
+   "texto": "Forged and fabricated mild steel \nMonochromed"
+  },
+  {
+   "tipo": "date",
+   "ini": 32315,
+   "fin": 32319,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 32321,
+   "fin": 32393
+  },
+  {
+   "tipo": "work",
+   "ini": 32321,
+   "fin": 32386,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Composition #1\nForged and fabricated mild sreel \nMonochromed\n1991"
+  },
+  {
+   "tipo": "title",
+   "ini": 32321,
+   "fin": 32335,
+   "texto": "Composition #1"
+  },
+  {
+   "tipo": "technique",
+   "ini": 32336,
+   "fin": 32381,
+   "rasgos": {
+    "type": "steel"
+   },
+   "texto": "Forged and fabricated mild sreel \nMonochromed"
+  },
+  {
+   "tipo": "date",
+   "ini": 32382,
+   "fin": 32386,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "img",
+   "ini": 32388,
+   "fin": 32393,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 32395,
+   "fin": 32462
+  },
+  {
+   "tipo": "img",
+   "ini": 32395,
+   "fin": 32400,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 32402,
+   "fin": 32462,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ZigZag\nForged and fabricated mild steel \nNatural patina\n1991"
+  },
+  {
+   "tipo": "title",
+   "ini": 32402,
+   "fin": 32408,
+   "texto": "ZigZag"
+  },
+  {
+   "tipo": "technique",
+   "ini": 32409,
+   "fin": 32457,
+   "rasgos": {
+    "type": "steel, patina"
+   },
+   "texto": "Forged and fabricated mild steel \nNatural patina"
+  },
+  {
+   "tipo": "date",
+   "ini": 32458,
+   "fin": 32462,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 32464,
+   "fin": 32533
+  },
+  {
+   "tipo": "work",
+   "ini": 32464,
+   "fin": 32526,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Diagonal\nForged and fabricated mild steel \nNatural patina\n1991"
+  },
+  {
+   "tipo": "title",
+   "ini": 32464,
+   "fin": 32472,
+   "texto": "Diagonal"
+  },
+  {
+   "tipo": "technique",
+   "ini": 32473,
+   "fin": 32521,
+   "rasgos": {
+    "type": "steel, patina"
+   },
+   "texto": "Forged and fabricated mild steel \nNatural patina"
+  },
+  {
+   "tipo": "date",
+   "ini": 32522,
+   "fin": 32526,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "img",
+   "ini": 32528,
+   "fin": 32533,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 32535,
+   "fin": 32622
+  },
+  {
+   "tipo": "img",
+   "ini": 32535,
+   "fin": 32540,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 32542,
+   "fin": 32622,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Double Twist\nForged and fabricated mild steel \nChemically blackened patina \n1991"
+  },
+  {
+   "tipo": "title",
+   "ini": 32542,
+   "fin": 32554,
+   "texto": "Double Twist"
+  },
+  {
+   "tipo": "technique",
+   "ini": 32555,
+   "fin": 32617,
+   "rasgos": {
+    "type": "steel, patina"
+   },
+   "texto": "Forged and fabricated mild steel \nChemically blackened patina "
+  },
+  {
+   "tipo": "date",
+   "ini": 32618,
+   "fin": 32622,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 32624,
+   "fin": 32708
+  },
+  {
+   "tipo": "work",
+   "ini": 32624,
+   "fin": 32701,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Periphery\nForged and fabricated mild steel \nChemically blackened patina \n1991"
+  },
+  {
+   "tipo": "title",
+   "ini": 32624,
+   "fin": 32633,
+   "texto": "Periphery"
+  },
+  {
+   "tipo": "technique",
+   "ini": 32634,
+   "fin": 32696,
+   "rasgos": {
+    "type": "steel, patina"
+   },
+   "texto": "Forged and fabricated mild steel \nChemically blackened patina "
+  },
+  {
+   "tipo": "date",
+   "ini": 32697,
+   "fin": 32701,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "img",
+   "ini": 32703,
+   "fin": 32708,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 32710,
+   "fin": 32797
+  },
+  {
+   "tipo": "img",
+   "ini": 32710,
+   "fin": 32715,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 32716,
+   "fin": 32721,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 32722,
+   "fin": 32727,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 32728,
+   "fin": 32733,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 32735,
+   "fin": 32790,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Star\nForged and fabricated mild steel \nMonochromed\n1991"
+  },
+  {
+   "tipo": "title",
+   "ini": 32735,
+   "fin": 32739,
+   "texto": "Star"
+  },
+  {
+   "tipo": "technique",
+   "ini": 32740,
+   "fin": 32785,
+   "rasgos": {
+    "type": "steel"
+   },
+   "texto": "Forged and fabricated mild steel \nMonochromed"
+  },
+  {
+   "tipo": "date",
+   "ini": 32786,
+   "fin": 32790,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "img",
+   "ini": 32792,
+   "fin": 32797,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 32799,
+   "fin": 32874
+  },
+  {
+   "tipo": "img",
+   "ini": 32799,
+   "fin": 32804,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 32806,
+   "fin": 32874,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Sculpture Proposal #1 \nSketchbook Preliminary Drawing \nGraphite\n1989"
+  },
+  {
+   "tipo": "title",
+   "ini": 32806,
+   "fin": 32828,
+   "texto": "Sculpture Proposal #1 "
+  },
+  {
+   "tipo": "technique",
+   "ini": 32861,
+   "fin": 32869,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Graphite"
+  },
+  {
+   "tipo": "date",
+   "ini": 32870,
+   "fin": 32874,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 32876,
+   "fin": 32958
+  },
+  {
+   "tipo": "work",
+   "ini": 32876,
+   "fin": 32951,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Sculpture Proposal #1\nForged and fabricated mild steel \nNatural patina\n1989"
+  },
+  {
+   "tipo": "title",
+   "ini": 32876,
+   "fin": 32897,
+   "texto": "Sculpture Proposal #1"
+  },
+  {
+   "tipo": "technique",
+   "ini": 32898,
+   "fin": 32946,
+   "rasgos": {
+    "type": "steel, patina"
+   },
+   "texto": "Forged and fabricated mild steel \nNatural patina"
+  },
+  {
+   "tipo": "date",
+   "ini": 32947,
+   "fin": 32951,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "img",
+   "ini": 32953,
+   "fin": 32958,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 32960,
+   "fin": 33041
+  },
+  {
+   "tipo": "img",
+   "ini": 32960,
+   "fin": 32965,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 32967,
+   "fin": 33041,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Olympia, (detail) Preliminary Design Phase \nFelt marker and graphite \n1990"
+  },
+  {
+   "tipo": "title",
+   "ini": 32967,
+   "fin": 32974,
+   "texto": "Olympia"
+  },
+  {
+   "tipo": "technique",
+   "ini": 33011,
+   "fin": 33036,
+   "rasgos": {
+    "type": "feltMarker, graphite"
+   },
+   "texto": "Felt marker and graphite "
+  },
+  {
+   "tipo": "date",
+   "ini": 33037,
+   "fin": 33041,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 33043,
+   "fin": 33126
+  },
+  {
+   "tipo": "work",
+   "ini": 33043,
+   "fin": 33118,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Olympia, Proposal Model \nForged and fabricated mild steel \nPolychromed\n1990"
+  },
+  {
+   "tipo": "title",
+   "ini": 33043,
+   "fin": 33067,
+   "texto": "Olympia, Proposal Model "
+  },
+  {
+   "tipo": "technique",
+   "ini": 33068,
+   "fin": 33113,
+   "rasgos": {
+    "type": "steel"
+   },
+   "texto": "Forged and fabricated mild steel \nPolychromed"
+  },
+  {
+   "tipo": "date",
+   "ini": 33114,
+   "fin": 33118,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "img",
+   "ini": 33120,
+   "fin": 33125,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 33127,
+   "fin": 33222
+  },
+  {
+   "tipo": "img",
+   "ini": 33127,
+   "fin": 33132,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 33134,
+   "fin": 33222,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Stairway Sculptures (detail)\nWortham Center for the Performing Arts \nHouston, Texas\n1987"
+  },
+  {
+   "tipo": "title",
+   "ini": 33134,
+   "fin": 33153,
+   "texto": "Stairway Sculptures"
+  },
+  {
+   "tipo": "institution",
+   "ini": 33163,
+   "fin": 33217,
+   "rasgos": {
+    "type": "artCenter",
+    "role": "client"
+   },
+   "texto": "Wortham Center for the Performing Arts \nHouston, Texas"
+  },
+  {
+   "tipo": "date",
+   "ini": 33218,
+   "fin": 33222,
+   "rasgos": {
+    "when": "1987"
+   },
+   "texto": "1987"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 33224,
+   "fin": 33278
+  },
+  {
+   "tipo": "img",
+   "ini": 33224,
+   "fin": 33229,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 33231,
+   "fin": 33278,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Synergy Proposal \nFinal Drawings \nGraphite\n1986"
+  },
+  {
+   "tipo": "title",
+   "ini": 33231,
+   "fin": 33248,
+   "texto": "Synergy Proposal "
+  },
+  {
+   "tipo": "technique",
+   "ini": 33265,
+   "fin": 33273,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Graphite"
+  },
+  {
+   "tipo": "date",
+   "ini": 33274,
+   "fin": 33278,
+   "rasgos": {
+    "when": "1986"
+   },
+   "texto": "1986"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 33280,
+   "fin": 33342
+  },
+  {
+   "tipo": "work",
+   "ini": 33280,
+   "fin": 33335,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Synergy\nMuseum Towers \nPhiladelphia, Pennsylvania \n1987"
+  },
+  {
+   "tipo": "title",
+   "ini": 33280,
+   "fin": 33287,
+   "texto": "Synergy"
+  },
+  {
+   "tipo": "institution",
+   "ini": 33288,
+   "fin": 33302,
+   "rasgos": {
+    "type": "museum",
+    "role": "client"
+   },
+   "texto": "Museum Towers "
+  },
+  {
+   "tipo": "placeName",
+   "ini": 33303,
+   "fin": 33330,
+   "rasgos": {
+    "role": "poblation"
+   },
+   "texto": "Philadelphia, Pennsylvania "
+  },
+  {
+   "tipo": "date",
+   "ini": 33331,
+   "fin": 33335,
+   "rasgos": {
+    "when": "1987"
+   },
+   "texto": "1987"
+  },
+  {
+   "tipo": "img",
+   "ini": 33337,
+   "fin": 33342,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 33344,
+   "fin": 33399,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Albert Paley\n\n1944\n\nBorn in Philadelphia, Pennsylvania."
+  },
+  {
+   "tipo": "text",
+   "ini": 33358,
+   "fin": 42888
+  },
+  {
+   "tipo": "birth",
+   "ini": 33358,
+   "fin": 33399
+  },
+  {
+   "tipo": "date",
+   "ini": 33358,
+   "fin": 33362,
+   "rasgos": {
+    "when": "1944"
+   },
+   "texto": "1944"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 33372,
+   "fin": 33398,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Philadelphia, Pennsylvania"
+  },
+  {
+   "tipo": "worklist",
+   "ini": 42891,
+   "fin": 47990
+  },
+  {
+   "tipo": "work",
+   "ini": 43032,
+   "fin": 43126,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "#89-2\nForged and fabricated mild steel \nChemically Blackend Patina \n1989\n93 x 19 x 16\n200 lbs."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43032,
+   "fin": 43126
+  },
+  {
+   "tipo": "title",
+   "ini": 43032,
+   "fin": 43037,
+   "texto": "#89-2"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43038,
+   "fin": 43099,
+   "rasgos": {
+    "type": "steel, patina"
+   },
+   "texto": "Forged and fabricated mild steel \nChemically Blackend Patina "
+  },
+  {
+   "tipo": "date",
+   "ini": 43100,
+   "fin": 43104,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43105,
+   "fin": 43117,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "93 x 19 x 16"
+  },
+  {
+   "tipo": "height",
+   "ini": 43105,
+   "fin": 43107,
+   "texto": "93"
+  },
+  {
+   "tipo": "width",
+   "ini": 43110,
+   "fin": 43112,
+   "texto": "19"
+  },
+  {
+   "tipo": "depth",
+   "ini": 43115,
+   "fin": 43117,
+   "texto": "16"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43118,
+   "fin": 43125,
+   "rasgos": {
+    "unit": "libra"
+   },
+   "texto": "200 lbs"
+  },
+  {
+   "tipo": "weight",
+   "ini": 43118,
+   "fin": 43121,
+   "texto": "200"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43129,
+   "fin": 43221
+  },
+  {
+   "tipo": "work",
+   "ini": 43129,
+   "fin": 43220,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Cardiff\nForged and fabricated mild steel \nNatural Patina\n1990\n100 1/2 x 36 circum.\n805 lbs."
+  },
+  {
+   "tipo": "title",
+   "ini": 43129,
+   "fin": 43136,
+   "texto": "Cardiff"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43137,
+   "fin": 43185,
+   "rasgos": {
+    "type": "steel, patina"
+   },
+   "texto": "Forged and fabricated mild steel \nNatural Patina"
+  },
+  {
+   "tipo": "date",
+   "ini": 43186,
+   "fin": 43190,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43191,
+   "fin": 43203,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "100 1/2 x 36"
+  },
+  {
+   "tipo": "height",
+   "ini": 43191,
+   "fin": 43198,
+   "texto": "100 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 43201,
+   "fin": 43203,
+   "texto": "36"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43212,
+   "fin": 43219,
+   "rasgos": {
+    "unit": "libra"
+   },
+   "texto": "805 lbs"
+  },
+  {
+   "tipo": "weight",
+   "ini": 43212,
+   "fin": 43215,
+   "texto": "805"
+  },
+  {
+   "tipo": "work",
+   "ini": 43223,
+   "fin": 43317,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Composition #1\nForged and fabricated mild steel Monochromed\n1991\n138 x 36 1/2 x 35\n3100 lbs. t"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43223,
+   "fin": 43317
+  },
+  {
+   "tipo": "title",
+   "ini": 43223,
+   "fin": 43237,
+   "texto": "Composition #1"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43238,
+   "fin": 43282,
+   "rasgos": {
+    "type": "steel"
+   },
+   "texto": "Forged and fabricated mild steel Monochromed"
+  },
+  {
+   "tipo": "date",
+   "ini": 43283,
+   "fin": 43287,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43288,
+   "fin": 43305,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "138 x 36 1/2 x 35"
+  },
+  {
+   "tipo": "height",
+   "ini": 43288,
+   "fin": 43291,
+   "texto": "138"
+  },
+  {
+   "tipo": "width",
+   "ini": 43294,
+   "fin": 43300,
+   "texto": "36 1/2"
+  },
+  {
+   "tipo": "depth",
+   "ini": 43303,
+   "fin": 43305,
+   "texto": "35"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43306,
+   "fin": 43314,
+   "rasgos": {
+    "unit": "libra"
+   },
+   "texto": "3100 lbs"
+  },
+  {
+   "tipo": "weight",
+   "ini": 43306,
+   "fin": 43310,
+   "texto": "3100"
+  },
+  {
+   "tipo": "work",
+   "ini": 43320,
+   "fin": 43422,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Composition #2\nForged and fabricated mild steel Monochromed\n1991\n111 1/2 x 44 1/2 x 30 3/4\n2360 lbs. t"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43320,
+   "fin": 43422
+  },
+  {
+   "tipo": "title",
+   "ini": 43320,
+   "fin": 43334,
+   "rasgos": {
+    "type": "steel, patina"
+   },
+   "texto": "Composition #2"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43335,
+   "fin": 43379,
+   "rasgos": {
+    "type": "steel"
+   },
+   "texto": "Forged and fabricated mild steel Monochromed"
+  },
+  {
+   "tipo": "date",
+   "ini": 43380,
+   "fin": 43384,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43385,
+   "fin": 43410,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "111 1/2 x 44 1/2 x 30 3/4"
+  },
+  {
+   "tipo": "height",
+   "ini": 43385,
+   "fin": 43392,
+   "texto": "111 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 43395,
+   "fin": 43401,
+   "texto": "44 1/2"
+  },
+  {
+   "tipo": "depth",
+   "ini": 43404,
+   "fin": 43410,
+   "texto": "30 3/4"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43411,
+   "fin": 43419,
+   "rasgos": {
+    "unit": "libra"
+   },
+   "texto": "2360 lbs"
+  },
+  {
+   "tipo": "weight",
+   "ini": 43411,
+   "fin": 43415,
+   "texto": "2360"
+  },
+  {
+   "tipo": "work",
+   "ini": 43425,
+   "fin": 43518,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Diagonal\nForged and tabricared mild steel Natural patina\n1991\n132 1/2 x 22 1/2 x 24\n1600 lbs."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43425,
+   "fin": 43518
+  },
+  {
+   "tipo": "title",
+   "ini": 43425,
+   "fin": 43433,
+   "texto": "Diagonal"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43434,
+   "fin": 43481,
+   "rasgos": {
+    "type": "steel, patina"
+   },
+   "texto": "Forged and tabricared mild steel Natural patina"
+  },
+  {
+   "tipo": "date",
+   "ini": 43482,
+   "fin": 43486,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43487,
+   "fin": 43508,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "132 1/2 x 22 1/2 x 24"
+  },
+  {
+   "tipo": "height",
+   "ini": 43487,
+   "fin": 43494,
+   "texto": "132 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 43497,
+   "fin": 43503,
+   "texto": "22 1/2"
+  },
+  {
+   "tipo": "depth",
+   "ini": 43506,
+   "fin": 43508,
+   "texto": "24"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43509,
+   "fin": 43517,
+   "rasgos": {
+    "unit": "libra"
+   },
+   "texto": "1600 lbs"
+  },
+  {
+   "tipo": "weight",
+   "ini": 43509,
+   "fin": 43513,
+   "texto": "1600"
+  },
+  {
+   "tipo": "work",
+   "ini": 43521,
+   "fin": 43635,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Double Twist\nForged and fabricated mild steel \nChemically blackened patina 1991\n143 1/2 x 21 3/4 x 13 1/4\n820 lbs."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43521,
+   "fin": 43635
+  },
+  {
+   "tipo": "title",
+   "ini": 43521,
+   "fin": 43533,
+   "texto": "Double Twist"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43534,
+   "fin": 43595,
+   "rasgos": {
+    "type": "steel, patina"
+   },
+   "texto": "Forged and fabricated mild steel \nChemically blackened patina"
+  },
+  {
+   "tipo": "date",
+   "ini": 43596,
+   "fin": 43600,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43601,
+   "fin": 43626,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "143 1/2 x 21 3/4 x 13 1/4"
+  },
+  {
+   "tipo": "height",
+   "ini": 43601,
+   "fin": 43608,
+   "texto": "143 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 43611,
+   "fin": 43617,
+   "texto": "21 3/4"
+  },
+  {
+   "tipo": "depth",
+   "ini": 43620,
+   "fin": 43626,
+   "texto": "13 1/4"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43627,
+   "fin": 43634,
+   "rasgos": {
+    "unit": "libra"
+   },
+   "texto": "820 lbs"
+  },
+  {
+   "tipo": "weight",
+   "ini": 43627,
+   "fin": 43630,
+   "texto": "820"
+  },
+  {
+   "tipo": "work",
+   "ini": 43638,
+   "fin": 43721,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Hector\nForged and fabricated mild steel Monochromed\n1990\n104 x 31 1/4 x 23\n880 lbs."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43638,
+   "fin": 43721
+  },
+  {
+   "tipo": "title",
+   "ini": 43638,
+   "fin": 43644,
+   "texto": "Hector"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43645,
+   "fin": 43689,
+   "rasgos": {
+    "type": "steel"
+   },
+   "texto": "Forged and fabricated mild steel Monochromed"
+  },
+  {
+   "tipo": "date",
+   "ini": 43690,
+   "fin": 43694,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43695,
+   "fin": 43712,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "104 x 31 1/4 x 23"
+  },
+  {
+   "tipo": "height",
+   "ini": 43695,
+   "fin": 43698,
+   "texto": "104"
+  },
+  {
+   "tipo": "width",
+   "ini": 43701,
+   "fin": 43707,
+   "texto": "31 1/4"
+  },
+  {
+   "tipo": "depth",
+   "ini": 43710,
+   "fin": 43712,
+   "texto": "23"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43713,
+   "fin": 43720,
+   "rasgos": {
+    "unit": "libra"
+   },
+   "texto": "880 lbs"
+  },
+  {
+   "tipo": "weight",
+   "ini": 43713,
+   "fin": 43716,
+   "texto": "880"
+  },
+  {
+   "tipo": "work",
+   "ini": 43724,
+   "fin": 43826,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Moment\nForged and fabricated mild steel \nChemically blackened patina \n1991\n132 3/4 x 35 x 21\n1100 lbs."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43724,
+   "fin": 43826
+  },
+  {
+   "tipo": "title",
+   "ini": 43724,
+   "fin": 43730,
+   "texto": "Moment"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43731,
+   "fin": 43793,
+   "rasgos": {
+    "type": "steel, patina"
+   },
+   "texto": "Forged and fabricated mild steel \nChemically blackened patina "
+  },
+  {
+   "tipo": "date",
+   "ini": 43794,
+   "fin": 43798,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43799,
+   "fin": 43816,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "132 3/4 x 35 x 21"
+  },
+  {
+   "tipo": "height",
+   "ini": 43799,
+   "fin": 43806,
+   "texto": "132 3/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 43809,
+   "fin": 43811,
+   "texto": "35"
+  },
+  {
+   "tipo": "depth",
+   "ini": 43814,
+   "fin": 43816,
+   "texto": "21"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43817,
+   "fin": 43825,
+   "rasgos": {
+    "unit": "libra"
+   },
+   "texto": "1100 lbs"
+  },
+  {
+   "tipo": "weight",
+   "ini": 43817,
+   "fin": 43821,
+   "texto": "1100"
+  },
+  {
+   "tipo": "work",
+   "ini": 43829,
+   "fin": 43967,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Olympia, Proposal Model \nForged and fabricated mild steel \nPolychromed\n1990\n65 3/4 x 28 x 15 1/2\n210 lbs.\nFinal Project: 25 feet in height"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43829,
+   "fin": 43967
+  },
+  {
+   "tipo": "title",
+   "ini": 43829,
+   "fin": 43853,
+   "texto": "Olympia, Proposal Model "
+  },
+  {
+   "tipo": "technique",
+   "ini": 43854,
+   "fin": 43899,
+   "rasgos": {
+    "type": "steel"
+   },
+   "texto": "Forged and fabricated mild steel \nPolychromed"
+  },
+  {
+   "tipo": "date",
+   "ini": 43900,
+   "fin": 43904,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43905,
+   "fin": 43925,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "65 3/4 x 28 x 15 1/2"
+  },
+  {
+   "tipo": "height",
+   "ini": 43905,
+   "fin": 43911,
+   "texto": "65 3/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 43914,
+   "fin": 43916,
+   "texto": "28"
+  },
+  {
+   "tipo": "depth",
+   "ini": 43919,
+   "fin": 43925,
+   "texto": "15 1/2"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43926,
+   "fin": 43933,
+   "rasgos": {
+    "unit": "libra"
+   },
+   "texto": "210 lbs"
+  },
+  {
+   "tipo": "weight",
+   "ini": 43926,
+   "fin": 43929,
+   "texto": "210"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43950,
+   "fin": 43967,
+   "rasgos": {
+    "unit": "feet"
+   },
+   "texto": "25 feet in height"
+  },
+  {
+   "tipo": "height",
+   "ini": 43950,
+   "fin": 43952,
+   "texto": "25"
+  },
+  {
+   "tipo": "work",
+   "ini": 43970,
+   "fin": 44074,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Periphery\nForged and fabricated mild steel \nChemically blackened patina \n1991\n109 1/2 x 42 x 24\n230 lbs."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43970,
+   "fin": 44074
+  },
+  {
+   "tipo": "title",
+   "ini": 43970,
+   "fin": 43979,
+   "texto": "Periphery"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43980,
+   "fin": 44042,
+   "rasgos": {
+    "type": "steel, patina"
+   },
+   "texto": "Forged and fabricated mild steel \nChemically blackened patina "
+  },
+  {
+   "tipo": "date",
+   "ini": 44043,
+   "fin": 44047,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44048,
+   "fin": 44065,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "109 1/2 x 42 x 24"
+  },
+  {
+   "tipo": "height",
+   "ini": 44048,
+   "fin": 44055,
+   "texto": "109 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 44058,
+   "fin": 44060,
+   "texto": "42"
+  },
+  {
+   "tipo": "depth",
+   "ini": 44063,
+   "fin": 44065,
+   "texto": "24"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44066,
+   "fin": 44073,
+   "rasgos": {
+    "unit": "libra"
+   },
+   "texto": "230 lbs"
+  },
+  {
+   "tipo": "weight",
+   "ini": 44066,
+   "fin": 44069,
+   "texto": "230"
+  },
+  {
+   "tipo": "work",
+   "ini": 44077,
+   "fin": 44169,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Sculpture 1\nForged and fabricated mild steel \nWhite zinc plated\n1989\n95 x 10 circum.\n85 lbs."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44077,
+   "fin": 44169
+  },
+  {
+   "tipo": "title",
+   "ini": 44077,
+   "fin": 44088,
+   "texto": "Sculpture 1"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44089,
+   "fin": 44140,
+   "rasgos": {
+    "type": "steel"
+   },
+   "texto": "Forged and fabricated mild steel \nWhite zinc plated"
+  },
+  {
+   "tipo": "date",
+   "ini": 44141,
+   "fin": 44145,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44146,
+   "fin": 44153,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "95 x 10"
+  },
+  {
+   "tipo": "height",
+   "ini": 44146,
+   "fin": 44148,
+   "texto": "95"
+  },
+  {
+   "tipo": "width",
+   "ini": 44151,
+   "fin": 44153,
+   "texto": "10"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44162,
+   "fin": 44168,
+   "rasgos": {
+    "unit": "libra"
+   },
+   "texto": "85 lbs"
+  },
+  {
+   "tipo": "weight",
+   "ini": 44162,
+   "fin": 44164,
+   "texto": "85"
+  },
+  {
+   "tipo": "work",
+   "ini": 44173,
+   "fin": 44268,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Sculpture II\nForged and fabricated mild steel \nYellow zinc plated\n1989\n96 x 24 circum.\n215 lbs."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44173,
+   "fin": 44268
+  },
+  {
+   "tipo": "title",
+   "ini": 44173,
+   "fin": 44185,
+   "texto": "Sculpture II"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44186,
+   "fin": 44238,
+   "rasgos": {
+    "type": "steel"
+   },
+   "texto": "Forged and fabricated mild steel \nYellow zinc plated"
+  },
+  {
+   "tipo": "date",
+   "ini": 44239,
+   "fin": 44243,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44244,
+   "fin": 44251,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "96 x 24"
+  },
+  {
+   "tipo": "height",
+   "ini": 44244,
+   "fin": 44246,
+   "texto": "96"
+  },
+  {
+   "tipo": "width",
+   "ini": 44249,
+   "fin": 44251,
+   "texto": "24"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44260,
+   "fin": 44267,
+   "rasgos": {
+    "unit": "libra"
+   },
+   "texto": "215 lbs"
+  },
+  {
+   "tipo": "weight",
+   "ini": 44260,
+   "fin": 44263,
+   "texto": "215"
+  },
+  {
+   "tipo": "work",
+   "ini": 44271,
+   "fin": 44356,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Sculpture IV\nForged and fabricated mild steel \nMonochromed\n1989\n96 x 21 x 13\n340 lbs."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44271,
+   "fin": 44356
+  },
+  {
+   "tipo": "title",
+   "ini": 44271,
+   "fin": 44283,
+   "texto": "Sculpture IV"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44284,
+   "fin": 44329,
+   "rasgos": {
+    "type": "steel"
+   },
+   "texto": "Forged and fabricated mild steel \nMonochromed"
+  },
+  {
+   "tipo": "date",
+   "ini": 44330,
+   "fin": 44334,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44335,
+   "fin": 44347,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "96 x 21 x 13"
+  },
+  {
+   "tipo": "height",
+   "ini": 44335,
+   "fin": 44337,
+   "texto": "96"
+  },
+  {
+   "tipo": "width",
+   "ini": 44340,
+   "fin": 44342,
+   "texto": "21"
+  },
+  {
+   "tipo": "depth",
+   "ini": 44345,
+   "fin": 44347,
+   "texto": "13"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44348,
+   "fin": 44355,
+   "rasgos": {
+    "unit": "libra"
+   },
+   "texto": "340 lbs"
+  },
+  {
+   "tipo": "weight",
+   "ini": 44348,
+   "fin": 44351,
+   "texto": "340"
+  },
+  {
+   "tipo": "work",
+   "ini": 44359,
+   "fin": 44452,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Sculpture VI\nForged and fabricated mild steel \nMonochromed\n1989\n116 x 40 5/8 x 28\n1275 lbs. t"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44359,
+   "fin": 44452
+  },
+  {
+   "tipo": "title",
+   "ini": 44359,
+   "fin": 44371,
+   "texto": "Sculpture VI"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44372,
+   "fin": 44417,
+   "rasgos": {
+    "type": "steel"
+   },
+   "texto": "Forged and fabricated mild steel \nMonochromed"
+  },
+  {
+   "tipo": "date",
+   "ini": 44418,
+   "fin": 44422,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44423,
+   "fin": 44440,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "116 x 40 5/8 x 28"
+  },
+  {
+   "tipo": "height",
+   "ini": 44423,
+   "fin": 44426,
+   "texto": "116"
+  },
+  {
+   "tipo": "width",
+   "ini": 44429,
+   "fin": 44435,
+   "texto": "40 5/8"
+  },
+  {
+   "tipo": "depth",
+   "ini": 44438,
+   "fin": 44440,
+   "texto": "28"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44441,
+   "fin": 44449,
+   "rasgos": {
+    "unit": "libra"
+   },
+   "texto": "1275 lbs"
+  },
+  {
+   "tipo": "weight",
+   "ini": 44441,
+   "fin": 44445,
+   "texto": "1275"
+  },
+  {
+   "tipo": "work",
+   "ini": 44456,
+   "fin": 44581,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Sculpture Proposal #1\nForged and fabricated mild steel \nNatural patina\n(Proposed at 40 feet in height) \n1989\n53 x 28\n180 lbs."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44456,
+   "fin": 44581
+  },
+  {
+   "tipo": "title",
+   "ini": 44456,
+   "fin": 44477,
+   "texto": "Sculpture Proposal #1"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44478,
+   "fin": 44526,
+   "rasgos": {
+    "type": "steel, patina"
+   },
+   "texto": "Forged and fabricated mild steel \nNatural patina"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44540,
+   "fin": 44557,
+   "rasgos": {
+    "unit": "feet"
+   },
+   "texto": "40 feet in height"
+  },
+  {
+   "tipo": "height",
+   "ini": 44540,
+   "fin": 44542,
+   "texto": "40"
+  },
+  {
+   "tipo": "date",
+   "ini": 44560,
+   "fin": 44564,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44565,
+   "fin": 44572,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "53 x 28"
+  },
+  {
+   "tipo": "height",
+   "ini": 44565,
+   "fin": 44567,
+   "texto": "53"
+  },
+  {
+   "tipo": "width",
+   "ini": 44570,
+   "fin": 44572,
+   "texto": "28"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44573,
+   "fin": 44580,
+   "rasgos": {
+    "unit": "libra"
+   },
+   "texto": "180 lbs"
+  },
+  {
+   "tipo": "weight",
+   "ini": 44573,
+   "fin": 44576,
+   "texto": "180"
+  },
+  {
+   "tipo": "work",
+   "ini": 44584,
+   "fin": 44724,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Sculpture Proposal #2\nForged and fabricated mild steel \nCopper plated\n1990\n26 3/4 x 15 1/8 x 13 1/2\n(Proposed at 18 feet in height) -10 lbs."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44584,
+   "fin": 44724
+  },
+  {
+   "tipo": "title",
+   "ini": 44584,
+   "fin": 44605,
+   "texto": "Sculpture Proposal #2"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44606,
+   "fin": 44653,
+   "rasgos": {
+    "type": "steelel, patina"
+   },
+   "texto": "Forged and fabricated mild steel \nCopper plated"
+  },
+  {
+   "tipo": "date",
+   "ini": 44654,
+   "fin": 44658,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44659,
+   "fin": 44683,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "26 3/4 x 15 1/8 x 13 1/2"
+  },
+  {
+   "tipo": "height",
+   "ini": 44659,
+   "fin": 44665,
+   "texto": "26 3/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 44668,
+   "fin": 44674,
+   "texto": "15 1/8"
+  },
+  {
+   "tipo": "depth",
+   "ini": 44677,
+   "fin": 44683,
+   "texto": "13 1/2"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44697,
+   "fin": 44714,
+   "rasgos": {
+    "unit": "feet"
+   },
+   "texto": "18 feet in height"
+  },
+  {
+   "tipo": "height",
+   "ini": 44697,
+   "fin": 44699,
+   "texto": "18"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44717,
+   "fin": 44723,
+   "rasgos": {
+    "unit": "libra"
+   },
+   "texto": "10 lbs"
+  },
+  {
+   "tipo": "weight",
+   "ini": 44717,
+   "fin": 44719,
+   "texto": "10"
+  },
+  {
+   "tipo": "work",
+   "ini": 44728,
+   "fin": 44858,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Sculpture Proposal #3\nForged and fabricated mild steel \nCopper plated\n1991\n51 x 30 x 16\n(Proposed at 25 feet in height )\n180 lbs ."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44728,
+   "fin": 44858
+  },
+  {
+   "tipo": "title",
+   "ini": 44728,
+   "fin": 44749,
+   "texto": "Sculpture Proposal #3"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44750,
+   "fin": 44797,
+   "rasgos": {
+    "type": "steel"
+   },
+   "texto": "Forged and fabricated mild steel \nCopper plated"
+  },
+  {
+   "tipo": "date",
+   "ini": 44798,
+   "fin": 44802,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44803,
+   "fin": 44815,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "51 x 30 x 16"
+  },
+  {
+   "tipo": "height",
+   "ini": 44803,
+   "fin": 44805,
+   "texto": "51"
+  },
+  {
+   "tipo": "width",
+   "ini": 44808,
+   "fin": 44810,
+   "texto": "30"
+  },
+  {
+   "tipo": "depth",
+   "ini": 44813,
+   "fin": 44815,
+   "texto": "16"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44829,
+   "fin": 44846,
+   "rasgos": {
+    "unit": "feet"
+   },
+   "texto": "25 feet in height"
+  },
+  {
+   "tipo": "height",
+   "ini": 44829,
+   "fin": 44831,
+   "texto": "25"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44849,
+   "fin": 44856,
+   "rasgos": {
+    "unit": "libra"
+   },
+   "texto": "180 lbs"
+  },
+  {
+   "tipo": "weight",
+   "ini": 44849,
+   "fin": 44852,
+   "texto": "180"
+  },
+  {
+   "tipo": "work",
+   "ini": 44861,
+   "fin": 44947,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Star\nForged and fabricared mild steel \nMonochromed\n1991\n127 x 102 1/2 x 70\n2650 lbs . "
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44861,
+   "fin": 44947
+  },
+  {
+   "tipo": "title",
+   "ini": 44861,
+   "fin": 44865,
+   "texto": "Star"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44866,
+   "fin": 44911,
+   "rasgos": {
+    "type": "steel"
+   },
+   "texto": "Forged and fabricared mild steel \nMonochromed"
+  },
+  {
+   "tipo": "date",
+   "ini": 44912,
+   "fin": 44916,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44917,
+   "fin": 44935,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "127 x 102 1/2 x 70"
+  },
+  {
+   "tipo": "height",
+   "ini": 44917,
+   "fin": 44920,
+   "texto": "127"
+  },
+  {
+   "tipo": "width",
+   "ini": 44923,
+   "fin": 44930,
+   "texto": "102 1/2"
+  },
+  {
+   "tipo": "depth",
+   "ini": 44933,
+   "fin": 44935,
+   "texto": "70"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44936,
+   "fin": 44944,
+   "rasgos": {
+    "unit": "libra"
+   },
+   "texto": "2650 lbs"
+  },
+  {
+   "tipo": "weight",
+   "ini": 44936,
+   "fin": 44940,
+   "texto": "2650"
+  },
+  {
+   "tipo": "work",
+   "ini": 44950,
+   "fin": 45034,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Wedge\nForged and fabricated mild steel \nNatural patina\n1991\n152 x 70 x 62\n3480 lbs ."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44950,
+   "fin": 45034
+  },
+  {
+   "tipo": "title",
+   "ini": 44950,
+   "fin": 44955,
+   "texto": "Wedge"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44956,
+   "fin": 45004,
+   "rasgos": {
+    "type": "steel, patina"
+   },
+   "texto": "Forged and fabricated mild steel \nNatural patina"
+  },
+  {
+   "tipo": "date",
+   "ini": 45005,
+   "fin": 45009,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45010,
+   "fin": 45023,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "152 x 70 x 62"
+  },
+  {
+   "tipo": "height",
+   "ini": 45010,
+   "fin": 45013,
+   "texto": "152"
+  },
+  {
+   "tipo": "width",
+   "ini": 45016,
+   "fin": 45018,
+   "texto": "70"
+  },
+  {
+   "tipo": "depth",
+   "ini": 45021,
+   "fin": 45023,
+   "texto": "62"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45024,
+   "fin": 45032,
+   "rasgos": {
+    "unit": "libra"
+   },
+   "texto": "3480 lbs"
+  },
+  {
+   "tipo": "weight",
+   "ini": 45024,
+   "fin": 45028,
+   "texto": "3480"
+  },
+  {
+   "tipo": "work",
+   "ini": 45037,
+   "fin": 45123,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Zig Zag\nForged and fabricated mild steel \nNatural patina\n1991\n120 x 38 x 31\n1450 lbs ."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 45037,
+   "fin": 45123
+  },
+  {
+   "tipo": "title",
+   "ini": 45037,
+   "fin": 45044,
+   "texto": "Zig Zag"
+  },
+  {
+   "tipo": "technique",
+   "ini": 45045,
+   "fin": 45093,
+   "rasgos": {
+    "type": "steel, patina"
+   },
+   "texto": "Forged and fabricated mild steel \nNatural patina"
+  },
+  {
+   "tipo": "date",
+   "ini": 45094,
+   "fin": 45098,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45099,
+   "fin": 45112,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "120 x 38 x 31"
+  },
+  {
+   "tipo": "height",
+   "ini": 45099,
+   "fin": 45102,
+   "texto": "120"
+  },
+  {
+   "tipo": "width",
+   "ini": 45105,
+   "fin": 45107,
+   "texto": "38"
+  },
+  {
+   "tipo": "depth",
+   "ini": 45110,
+   "fin": 45112,
+   "texto": "31"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45113,
+   "fin": 45121,
+   "rasgos": {
+    "unit": "libra"
+   },
+   "texto": "1450 lbs"
+  },
+  {
+   "tipo": "weight",
+   "ini": 45113,
+   "fin": 45117,
+   "texto": "1450"
+  },
+  {
+   "tipo": "work",
+   "ini": 45137,
+   "fin": 45218,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Fan\nSketchbook Preliminary Drawing \nGraphite and felt marker\n1990\n20 1/4 x 13 1/2"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 45137,
+   "fin": 45218
+  },
+  {
+   "tipo": "title",
+   "ini": 45137,
+   "fin": 45140,
+   "texto": "Fan"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 45141,
+   "fin": 45171
+  },
+  {
+   "tipo": "technique",
+   "ini": 45173,
+   "fin": 45197,
+   "rasgos": {
+    "type": "graphite, feltMarker"
+   },
+   "texto": "Graphite and felt marker"
+  },
+  {
+   "tipo": "date",
+   "ini": 45198,
+   "fin": 45202,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45203,
+   "fin": 45218,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "20 1/4 x 13 1/2"
+  },
+  {
+   "tipo": "height",
+   "ini": 45203,
+   "fin": 45209,
+   "texto": "20 1/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 45212,
+   "fin": 45218,
+   "texto": "13 1/2"
+  },
+  {
+   "tipo": "work",
+   "ini": 45221,
+   "fin": 45312,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Interior Sculpture \nProposal Drawing\n(Proposed at 25 feet in height )\nGraphite\n1990\n44 x 35"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 45221,
+   "fin": 45312
+  },
+  {
+   "tipo": "title",
+   "ini": 45221,
+   "fin": 45240,
+   "texto": "Interior Sculpture "
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 45241,
+   "fin": 45290
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45271,
+   "fin": 45288,
+   "rasgos": {
+    "unit": "feet"
+   },
+   "texto": "25 feet in height"
+  },
+  {
+   "tipo": "height",
+   "ini": 45271,
+   "fin": 45273,
+   "texto": "25"
+  },
+  {
+   "tipo": "technique",
+   "ini": 45291,
+   "fin": 45299,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Graphite"
+  },
+  {
+   "tipo": "date",
+   "ini": 45300,
+   "fin": 45304,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45305,
+   "fin": 45312,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "44 x 35"
+  },
+  {
+   "tipo": "height",
+   "ini": 45305,
+   "fin": 45307,
+   "texto": "44"
+  },
+  {
+   "tipo": "width",
+   "ini": 45310,
+   "fin": 45312,
+   "texto": "35"
+  },
+  {
+   "tipo": "work",
+   "ini": 45315,
+   "fin": 45391,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Olympia \nPreliminary Design Phase\nFelt marker and graphite \n1990\n47 x 26 3/4"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 45315,
+   "fin": 45391
+  },
+  {
+   "tipo": "title",
+   "ini": 45315,
+   "fin": 45322,
+   "texto": "Olympia"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 45324,
+   "fin": 45348
+  },
+  {
+   "tipo": "technique",
+   "ini": 45349,
+   "fin": 45374,
+   "rasgos": {
+    "type": "feltMarker, graphite"
+   },
+   "texto": "Felt marker and graphite "
+  },
+  {
+   "tipo": "date",
+   "ini": 45375,
+   "fin": 45379,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45380,
+   "fin": 45391,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "47 x 26 3/4"
+  },
+  {
+   "tipo": "height",
+   "ini": 45380,
+   "fin": 45382,
+   "texto": "47"
+  },
+  {
+   "tipo": "width",
+   "ini": 45385,
+   "fin": 45391,
+   "texto": "26 3/4"
+  },
+  {
+   "tipo": "work",
+   "ini": 45394,
+   "fin": 45466,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Olympia\nSketchbook Preliminary Drawing\nFelt marker \n1990\n20 1/8 x 13 5/8"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 45394,
+   "fin": 45466
+  },
+  {
+   "tipo": "title",
+   "ini": 45394,
+   "fin": 45401,
+   "texto": "Olympia"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 45402,
+   "fin": 45432
+  },
+  {
+   "tipo": "technique",
+   "ini": 45433,
+   "fin": 45445,
+   "rasgos": {
+    "type": "feltMarker"
+   },
+   "texto": "Felt marker "
+  },
+  {
+   "tipo": "date",
+   "ini": 45446,
+   "fin": 45450,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45451,
+   "fin": 45466,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "20 1/8 x 13 5/8"
+  },
+  {
+   "tipo": "height",
+   "ini": 45451,
+   "fin": 45457,
+   "texto": "20 1/8"
+  },
+  {
+   "tipo": "width",
+   "ini": 45460,
+   "fin": 45466,
+   "texto": "13 5/8"
+  },
+  {
+   "tipo": "work",
+   "ini": 45469,
+   "fin": 45550,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Olympia\nSketchbook Preliminary Drawing \nGraphite and felt marker\n1989\n28 3/4 x 19"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 45469,
+   "fin": 45550
+  },
+  {
+   "tipo": "title",
+   "ini": 45469,
+   "fin": 45476,
+   "texto": "Olympia"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 45477,
+   "fin": 45507
+  },
+  {
+   "tipo": "technique",
+   "ini": 45509,
+   "fin": 45533,
+   "rasgos": {
+    "type": "graphite, feltMarker"
+   },
+   "texto": "Graphite and felt marker"
+  },
+  {
+   "tipo": "date",
+   "ini": 45534,
+   "fin": 45538,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45539,
+   "fin": 45550,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "28 3/4 x 19"
+  },
+  {
+   "tipo": "height",
+   "ini": 45539,
+   "fin": 45545,
+   "texto": "28 3/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 45548,
+   "fin": 45550,
+   "texto": "19"
+  },
+  {
+   "tipo": "work",
+   "ini": 45553,
+   "fin": 45641,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Plaza Sculpture\nFinal Drawing\n(Proposed at 18 feet in height )\nGraphite\n1989\n44 x 34 7/8"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 45553,
+   "fin": 45641
+  },
+  {
+   "tipo": "title",
+   "ini": 45553,
+   "fin": 45568,
+   "texto": "Plaza Sculpture"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 45569,
+   "fin": 45615
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45596,
+   "fin": 45613,
+   "rasgos": {
+    "unit": "feet"
+   },
+   "texto": "18 feet in height"
+  },
+  {
+   "tipo": "height",
+   "ini": 45596,
+   "fin": 45598,
+   "texto": "18"
+  },
+  {
+   "tipo": "technique",
+   "ini": 45616,
+   "fin": 45624,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Graphite"
+  },
+  {
+   "tipo": "date",
+   "ini": 45625,
+   "fin": 45629,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45630,
+   "fin": 45641,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "44 x 34 7/8"
+  },
+  {
+   "tipo": "height",
+   "ini": 45630,
+   "fin": 45632,
+   "texto": "44"
+  },
+  {
+   "tipo": "width",
+   "ini": 45635,
+   "fin": 45641,
+   "texto": "34 7/8"
+  },
+  {
+   "tipo": "work",
+   "ini": 45644,
+   "fin": 45731,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Sculpture Proposal\nFinal Drawing\n(Proposed at 40 feet in height )\nGraphite\n1989\n44 x 35"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 45644,
+   "fin": 45731
+  },
+  {
+   "tipo": "title",
+   "ini": 45644,
+   "fin": 45662,
+   "texto": "Sculpture Proposal"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 45663,
+   "fin": 45709
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45690,
+   "fin": 45707,
+   "rasgos": {
+    "unit": "feet"
+   },
+   "texto": "40 feet in height"
+  },
+  {
+   "tipo": "height",
+   "ini": 45690,
+   "fin": 45692,
+   "texto": "40"
+  },
+  {
+   "tipo": "technique",
+   "ini": 45710,
+   "fin": 45718,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Graphite"
+  },
+  {
+   "tipo": "date",
+   "ini": 45719,
+   "fin": 45723,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45724,
+   "fin": 45731,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "44 x 35"
+  },
+  {
+   "tipo": "height",
+   "ini": 45724,
+   "fin": 45726,
+   "texto": "44"
+  },
+  {
+   "tipo": "width",
+   "ini": 45729,
+   "fin": 45731,
+   "texto": "35"
+  },
+  {
+   "tipo": "work",
+   "ini": 45734,
+   "fin": 45860,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Sculpture Proposal\nFinal Drawing\n(Proposed at 18 feet in height )\nClient: Birmingham Museum of Fine Arts\nGraphite\n1989\n44 x 35"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 45734,
+   "fin": 45860
+  },
+  {
+   "tipo": "title",
+   "ini": 45734,
+   "fin": 45752,
+   "texto": "Sculpture Proposal"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 45753,
+   "fin": 45838
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45780,
+   "fin": 45797,
+   "rasgos": {
+    "unit": "feet"
+   },
+   "texto": "18 feet in height"
+  },
+  {
+   "tipo": "height",
+   "ini": 45780,
+   "fin": 45782,
+   "texto": "18"
+  },
+  {
+   "tipo": "institution",
+   "ini": 45808,
+   "fin": 45838,
+   "rasgos": {
+    "type": "museum",
+    "role": "client"
+   },
+   "texto": "Birmingham Museum of Fine Arts"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 45808,
+   "fin": 45818,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Birmingham"
+  },
+  {
+   "tipo": "technique",
+   "ini": 45839,
+   "fin": 45847,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Graphite"
+  },
+  {
+   "tipo": "date",
+   "ini": 45848,
+   "fin": 45852,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45853,
+   "fin": 45860,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "44 x 35"
+  },
+  {
+   "tipo": "height",
+   "ini": 45853,
+   "fin": 45855,
+   "texto": "44"
+  },
+  {
+   "tipo": "width",
+   "ini": 45858,
+   "fin": 45860,
+   "texto": "35"
+  },
+  {
+   "tipo": "work",
+   "ini": 45863,
+   "fin": 46004,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Sculpture Proposal\nDevelopment for Birmingham Museum \nof Fine Arts\nMultiple Sketchbook Drawings \nGraphite and colored pencil\n1989\n28 5/8 x 19"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 45863,
+   "fin": 46004
+  },
+  {
+   "tipo": "title",
+   "ini": 45863,
+   "fin": 45881,
+   "texto": "Sculpture Proposal"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 45882,
+   "fin": 45959
+  },
+  {
+   "tipo": "institution",
+   "ini": 45898,
+   "fin": 45929,
+   "rasgos": {
+    "type": "museum",
+    "role": "client"
+   },
+   "texto": "Birmingham Museum \nof Fine Arts"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 45898,
+   "fin": 45908,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Birmingham"
+  },
+  {
+   "tipo": "technique",
+   "ini": 45960,
+   "fin": 45987,
+   "rasgos": {
+    "type": "graphite, colorPencil"
+   },
+   "texto": "Graphite and colored pencil"
+  },
+  {
+   "tipo": "date",
+   "ini": 45988,
+   "fin": 45992,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45993,
+   "fin": 46004,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "28 5/8 x 19"
+  },
+  {
+   "tipo": "height",
+   "ini": 45993,
+   "fin": 45999,
+   "texto": "28 5/8"
+  },
+  {
+   "tipo": "width",
+   "ini": 46002,
+   "fin": 46004,
+   "texto": "19"
+  },
+  {
+   "tipo": "work",
+   "ini": 46007,
+   "fin": 46148,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Sculpture Proposal\nDevelopment for Birmingham Museum \nof Fine Arts\nMultiple Sketchbook Drawings \nGraphite and colored pencil\n1989\n28 5/8 x 19"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46007,
+   "fin": 46148
+  },
+  {
+   "tipo": "title",
+   "ini": 46007,
+   "fin": 46025,
+   "texto": "Sculpture Proposal"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 46026,
+   "fin": 46103
+  },
+  {
+   "tipo": "institution",
+   "ini": 46042,
+   "fin": 46073,
+   "rasgos": {
+    "type": "museum",
+    "role": "client"
+   },
+   "texto": "Birmingham Museum \nof Fine Arts"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 46042,
+   "fin": 46052,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Birmingham"
+  },
+  {
+   "tipo": "technique",
+   "ini": 46104,
+   "fin": 46131,
+   "rasgos": {
+    "type": "graphite, colorPencil"
+   },
+   "texto": "Graphite and colored pencil"
+  },
+  {
+   "tipo": "date",
+   "ini": 46132,
+   "fin": 46136,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46137,
+   "fin": 46148,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "28 5/8 x 19"
+  },
+  {
+   "tipo": "height",
+   "ini": 46137,
+   "fin": 46143,
+   "texto": "28 5/8"
+  },
+  {
+   "tipo": "width",
+   "ini": 46146,
+   "fin": 46148,
+   "texto": "19"
+  },
+  {
+   "tipo": "work",
+   "ini": 46151,
+   "fin": 46277,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Sculpture Proposal\nDevelopment for Birmingham Museum \nof Fine Arts\nMultiple Sketchbook Drawings \nGraphite\n1989\n32 1/4 x 26 1/2"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46151,
+   "fin": 46277
+  },
+  {
+   "tipo": "title",
+   "ini": 46151,
+   "fin": 46169,
+   "texto": "Sculpture Proposal"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 46170,
+   "fin": 46246
+  },
+  {
+   "tipo": "institution",
+   "ini": 46186,
+   "fin": 46217,
+   "rasgos": {
+    "type": "client",
+    "role": "museum"
+   },
+   "texto": "Birmingham Museum \nof Fine Arts"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 46186,
+   "fin": 46196,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Birmingham"
+  },
+  {
+   "tipo": "technique",
+   "ini": 46248,
+   "fin": 46256,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Graphite"
+  },
+  {
+   "tipo": "date",
+   "ini": 46257,
+   "fin": 46261,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46262,
+   "fin": 46277,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "32 1/4 x 26 1/2"
+  },
+  {
+   "tipo": "height",
+   "ini": 46262,
+   "fin": 46268,
+   "texto": "32 1/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 46271,
+   "fin": 46277,
+   "texto": "26 1/2"
+  },
+  {
+   "tipo": "work",
+   "ini": 46280,
+   "fin": 46397,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Sculpture Proposal\nDevelopment for Birmingham Museum of Fine Arts\nSketchbook Drawings\nColored pencil\n1989\n28 3/4 x 19"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46280,
+   "fin": 46397
+  },
+  {
+   "tipo": "title",
+   "ini": 46280,
+   "fin": 46298,
+   "texto": "Sculpture Proposal"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 46299,
+   "fin": 46365
+  },
+  {
+   "tipo": "institution",
+   "ini": 46315,
+   "fin": 46345,
+   "rasgos": {
+    "type": "museum",
+    "role": "client"
+   },
+   "texto": "Birmingham Museum of Fine Arts"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 46315,
+   "fin": 46325,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Birmingham"
+  },
+  {
+   "tipo": "technique",
+   "ini": 46366,
+   "fin": 46380,
+   "rasgos": {
+    "type": "colorPencil"
+   },
+   "texto": "Colored pencil"
+  },
+  {
+   "tipo": "date",
+   "ini": 46381,
+   "fin": 46385,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46386,
+   "fin": 46397,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "28 3/4 x 19"
+  },
+  {
+   "tipo": "height",
+   "ini": 46386,
+   "fin": 46392,
+   "texto": "28 3/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 46395,
+   "fin": 46397,
+   "texto": "19"
+  },
+  {
+   "tipo": "work",
+   "ini": 46400,
+   "fin": 46476,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Sculpture Proposals \nForged and fabricated series \nGraphite\n1989\n30 1/2 x 21"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46400,
+   "fin": 46476
+  },
+  {
+   "tipo": "title",
+   "ini": 46400,
+   "fin": 46420,
+   "texto": "Sculpture Proposals "
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 46421,
+   "fin": 46450
+  },
+  {
+   "tipo": "technique",
+   "ini": 46451,
+   "fin": 46459,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Graphite"
+  },
+  {
+   "tipo": "date",
+   "ini": 46460,
+   "fin": 46464,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46465,
+   "fin": 46476,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "30 1/2 x 21"
+  },
+  {
+   "tipo": "height",
+   "ini": 46465,
+   "fin": 46471,
+   "texto": "30 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 46474,
+   "fin": 46476,
+   "texto": "21"
+  },
+  {
+   "tipo": "work",
+   "ini": 46479,
+   "fin": 46599,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Stairway Sculptures\nFinal Drawings\nWortham Center tor the Performing Arts, \nHouston, Texas\nGraphite\n1985\n37 1/2 x 41 5/8"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46479,
+   "fin": 46599
+  },
+  {
+   "tipo": "title",
+   "ini": 46479,
+   "fin": 46498,
+   "texto": "Stairway Sculptures"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 46499,
+   "fin": 46569
+  },
+  {
+   "tipo": "institution",
+   "ini": 46514,
+   "fin": 46569,
+   "rasgos": {
+    "type": "artCenter",
+    "role": "client"
+   },
+   "texto": "Wortham Center tor the Performing Arts, \nHouston, Texas"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 46555,
+   "fin": 46569,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Houston, Texas"
+  },
+  {
+   "tipo": "technique",
+   "ini": 46570,
+   "fin": 46578,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Graphite"
+  },
+  {
+   "tipo": "date",
+   "ini": 46579,
+   "fin": 46583,
+   "rasgos": {
+    "when": "1985"
+   },
+   "texto": "1985"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46584,
+   "fin": 46599,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "37 1/2 x 41 5/8"
+  },
+  {
+   "tipo": "height",
+   "ini": 46584,
+   "fin": 46590,
+   "texto": "37 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 46593,
+   "fin": 46599,
+   "texto": "41 5/8"
+  },
+  {
+   "tipo": "work",
+   "ini": 46602,
+   "fin": 46674,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Star Olympia\nSketchbook Preliminary Drawing\nFelt marker\n1991\n28 5/8 x 19"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46602,
+   "fin": 46674
+  },
+  {
+   "tipo": "title",
+   "ini": 46602,
+   "fin": 46614,
+   "texto": "Star Olympia"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 46615,
+   "fin": 46645
+  },
+  {
+   "tipo": "technique",
+   "ini": 46646,
+   "fin": 46657,
+   "rasgos": {
+    "type": "feltMarker"
+   },
+   "texto": "Felt marker"
+  },
+  {
+   "tipo": "date",
+   "ini": 46658,
+   "fin": 46662,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46663,
+   "fin": 46674,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "28 5/8 x 19"
+  },
+  {
+   "tipo": "height",
+   "ini": 46663,
+   "fin": 46669,
+   "texto": "28 5/8"
+  },
+  {
+   "tipo": "width",
+   "ini": 46672,
+   "fin": 46674,
+   "texto": "19"
+  },
+  {
+   "tipo": "work",
+   "ini": 46677,
+   "fin": 46739,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Synergy Proposal \nFinal Drawings\nGraphite\n1986\n45 3/4 x 59 1/8"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46677,
+   "fin": 46739
+  },
+  {
+   "tipo": "title",
+   "ini": 46677,
+   "fin": 46693,
+   "texto": "Synergy Proposal"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 46695,
+   "fin": 46709
+  },
+  {
+   "tipo": "technique",
+   "ini": 46710,
+   "fin": 46718,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Graphite"
+  },
+  {
+   "tipo": "date",
+   "ini": 46719,
+   "fin": 46723,
+   "rasgos": {
+    "when": "1986"
+   },
+   "texto": "1986"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46724,
+   "fin": 46739,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "45 3/4 x 59 1/8"
+  },
+  {
+   "tipo": "height",
+   "ini": 46724,
+   "fin": 46730,
+   "texto": "45 3/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 46733,
+   "fin": 46739,
+   "texto": "59 1/8"
+  },
+  {
+   "tipo": "work",
+   "ini": 46742,
+   "fin": 46839,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Vertical Fabrication Sculpture \nSketchbook Preliminary Drawings \nFelt marker\n1990\n20 1/4 x 13 1/2"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46742,
+   "fin": 46839
+  },
+  {
+   "tipo": "title",
+   "ini": 46742,
+   "fin": 46772,
+   "texto": "Vertical Fabrication Sculpture"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 46774,
+   "fin": 46806
+  },
+  {
+   "tipo": "technique",
+   "ini": 46807,
+   "fin": 46818,
+   "rasgos": {
+    "type": "feltMarker"
+   },
+   "texto": "Felt marker"
+  },
+  {
+   "tipo": "date",
+   "ini": 46819,
+   "fin": 46823,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46824,
+   "fin": 46839,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "20 1/4 x 13 1/2"
+  },
+  {
+   "tipo": "height",
+   "ini": 46824,
+   "fin": 46830,
+   "texto": "20 1/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 46833,
+   "fin": 46839,
+   "texto": "13 1/2"
+  },
+  {
+   "tipo": "work",
+   "ini": 46842,
+   "fin": 46912,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Wedge\nSketchbook Preliminary Drawing \nFelt marker\n1991\n28 5/8 x 19 1/8"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46842,
+   "fin": 46912
+  },
+  {
+   "tipo": "title",
+   "ini": 46842,
+   "fin": 46847,
+   "texto": "Wedge"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 46848,
+   "fin": 46879
+  },
+  {
+   "tipo": "technique",
+   "ini": 46880,
+   "fin": 46891,
+   "rasgos": {
+    "type": "feltMarker"
+   },
+   "texto": "Felt marker"
+  },
+  {
+   "tipo": "date",
+   "ini": 46892,
+   "fin": 46896,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46897,
+   "fin": 46912,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "28 5/8 x 19 1/8"
+  },
+  {
+   "tipo": "height",
+   "ini": 46897,
+   "fin": 46903,
+   "texto": "28 5/8"
+  },
+  {
+   "tipo": "width",
+   "ini": 46906,
+   "fin": 46912,
+   "texto": "19 1/8"
+  },
+  {
+   "tipo": "work",
+   "ini": 46915,
+   "fin": 46980,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Wedge\nSketchbook Preliminary Drawing\nFelt marker\n1991\n28 3/4 x 19"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46915,
+   "fin": 46980
+  },
+  {
+   "tipo": "title",
+   "ini": 46915,
+   "fin": 46920,
+   "texto": "Wedge"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 46921,
+   "fin": 46951
+  },
+  {
+   "tipo": "technique",
+   "ini": 46952,
+   "fin": 46963,
+   "rasgos": {
+    "type": "feltMarker"
+   },
+   "texto": "Felt marker"
+  },
+  {
+   "tipo": "date",
+   "ini": 46964,
+   "fin": 46968,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46969,
+   "fin": 46980,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "28 3/4 x 19"
+  },
+  {
+   "tipo": "height",
+   "ini": 46969,
+   "fin": 46975,
+   "texto": "28 3/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 46978,
+   "fin": 46980,
+   "texto": "19"
+  },
+  {
+   "tipo": "work",
+   "ini": 46984,
+   "fin": 47076,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Wedge and Moment\nSketchbook Preliminary Drawings \nGraphite and felt marker\n1991\n28 4/4 x 19\n"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46984,
+   "fin": 47075
+  },
+  {
+   "tipo": "title",
+   "ini": 46984,
+   "fin": 47000,
+   "texto": "Wedge and Moment"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 47001,
+   "fin": 47033
+  },
+  {
+   "tipo": "technique",
+   "ini": 47034,
+   "fin": 47058,
+   "rasgos": {
+    "type": "graphite, feltMarker"
+   },
+   "texto": "Graphite and felt marker"
+  },
+  {
+   "tipo": "date",
+   "ini": 47059,
+   "fin": 47063,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47064,
+   "fin": 47075,
+   "texto": "28 4/4 x 19"
+  },
+  {
+   "tipo": "height",
+   "ini": 47064,
+   "fin": 47070,
+   "texto": "28 4/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 47073,
+   "fin": 47075,
+   "texto": "19"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 47079,
+   "fin": 47144
+  },
+  {
+   "tipo": "work",
+   "ini": 47079,
+   "fin": 47143,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Zig Zag\nSketchbook Preliminary Drawing \nInk\n1990\n28 1/2 x 13 5/8"
+  },
+  {
+   "tipo": "title",
+   "ini": 47079,
+   "fin": 47086,
+   "texto": "Zig Zag"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 47087,
+   "fin": 47118
+  },
+  {
+   "tipo": "technique",
+   "ini": 47119,
+   "fin": 47122,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Ink"
+  },
+  {
+   "tipo": "date",
+   "ini": 47123,
+   "fin": 47127,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47128,
+   "fin": 47143,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "28 1/2 x 13 5/8"
+  },
+  {
+   "tipo": "height",
+   "ini": 47128,
+   "fin": 47134,
+   "texto": "28 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 47137,
+   "fin": 47143,
+   "texto": "13 5/8"
+  },
+  {
+   "tipo": "work",
+   "ini": 47147,
+   "fin": 47231,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Zig Zag and Double Twist \nSketchbook Preliminary Drawings \nGraphite\n1991\n28 3/4 x 19"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 47147,
+   "fin": 47231
+  },
+  {
+   "tipo": "title",
+   "ini": 47147,
+   "fin": 47172,
+   "texto": "Zig Zag and Double Twist "
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 47173,
+   "fin": 47205
+  },
+  {
+   "tipo": "technique",
+   "ini": 47206,
+   "fin": 47214,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Graphite"
+  },
+  {
+   "tipo": "date",
+   "ini": 47215,
+   "fin": 47219,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47220,
+   "fin": 47231,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "28 3/4 x 19"
+  },
+  {
+   "tipo": "height",
+   "ini": 47220,
+   "fin": 47226,
+   "texto": "28 3/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 47229,
+   "fin": 47231,
+   "texto": "19"
+  },
+  {
+   "tipo": "work",
+   "ini": 47249,
+   "fin": 47400,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Aurora\nArranged through the Arts Council \nof the Roanoke Valley\nClient: Roanoke Regional Airport\nFinal Proyect: 18 feet in height \n1990\n44 3/4 x 36 5/8"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 47249,
+   "fin": 47400
+  },
+  {
+   "tipo": "title",
+   "ini": 47249,
+   "fin": 47255,
+   "texto": "Aurora"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 47256,
+   "fin": 47379
+  },
+  {
+   "tipo": "institution",
+   "ini": 47273,
+   "fin": 47312,
+   "rasgos": {
+    "type": "artCouncil",
+    "role": "client"
+   },
+   "texto": "the Arts Council \nof the Roanoke Valley"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 47298,
+   "fin": 47305,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Roanoke"
+  },
+  {
+   "tipo": "institution",
+   "ini": 47321,
+   "fin": 47345,
+   "rasgos": {
+    "type": "airport",
+    "role": "client"
+   },
+   "texto": "Roanoke Regional Airport"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 47321,
+   "fin": 47328,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Roanoke"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47361,
+   "fin": 47379,
+   "rasgos": {
+    "unit": "feet"
+   },
+   "texto": "18 feet in height "
+  },
+  {
+   "tipo": "height",
+   "ini": 47361,
+   "fin": 47363,
+   "texto": "18"
+  },
+  {
+   "tipo": "date",
+   "ini": 47380,
+   "fin": 47384,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47385,
+   "fin": 47400,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "44 3/4 x 36 5/8"
+  },
+  {
+   "tipo": "height",
+   "ini": 47385,
+   "fin": 47391,
+   "texto": "44 3/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 47394,
+   "fin": 47400,
+   "texto": "36 5/8"
+  },
+  {
+   "tipo": "work",
+   "ini": 47403,
+   "fin": 47591,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Olympia\nPromenade II Building, Atlanta \nArranged through: Artsources, Inc.\nand Barbara Fendrick Gallery\nClient: Landmarks Group/ATyT \nFinal Project: 25 feet in height \n1990\n44 5/8 x 36 5/8"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 47403,
+   "fin": 47591
+  },
+  {
+   "tipo": "title",
+   "ini": 47403,
+   "fin": 47410,
+   "texto": "Olympia"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 47411,
+   "fin": 47570
+  },
+  {
+   "tipo": "institution",
+   "ini": 47515,
+   "fin": 47535,
+   "rasgos": {
+    "type": "company",
+    "role": "client"
+   },
+   "texto": "Landmarks Group/ATyT"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47552,
+   "fin": 47570,
+   "rasgos": {
+    "unit": "feet"
+   },
+   "texto": "25 feet in height "
+  },
+  {
+   "tipo": "height",
+   "ini": 47552,
+   "fin": 47554,
+   "texto": "25"
+  },
+  {
+   "tipo": "date",
+   "ini": 47571,
+   "fin": 47575,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47576,
+   "fin": 47591,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "44 5/8 x 36 5/8"
+  },
+  {
+   "tipo": "height",
+   "ini": 47576,
+   "fin": 47582,
+   "texto": "44 5/8"
+  },
+  {
+   "tipo": "width",
+   "ini": 47585,
+   "fin": 47591,
+   "texto": "36 5/8"
+  },
+  {
+   "tipo": "work",
+   "ini": 47595,
+   "fin": 47799,
+   "rasgos": {
+    "type": "photograph"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 47595,
+   "fin": 47799
+  },
+  {
+   "tipo": "title",
+   "ini": 47595,
+   "fin": 47614,
+   "texto": "Stairway Sculptures"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 47624,
+   "fin": 47794
+  },
+  {
+   "tipo": "institution",
+   "ini": 47641,
+   "fin": 47665,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Barbara Fendrick Gallery"
+  },
+  {
+   "tipo": "institution",
+   "ini": 47674,
+   "fin": 47729,
+   "rasgos": {
+    "type": "artCenter",
+    "role": "client"
+   },
+   "texto": "Wortham Center for the \nPerforming Arts, Houston, Texas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47771,
+   "fin": 47794,
+   "rasgos": {
+    "unit": "feet"
+   },
+   "texto": "14 to 30 feet in height"
+  },
+  {
+   "tipo": "height",
+   "ini": 47771,
+   "fin": 47779,
+   "texto": "14 to 30"
+  },
+  {
+   "tipo": "date",
+   "ini": 47795,
+   "fin": 47799,
+   "rasgos": {
+    "when": "1987"
+   },
+   "texto": "1987"
+  },
+  {
+   "tipo": "work",
+   "ini": 47803,
+   "fin": 47944,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Synergy\nArranged through the Redevelopment \nAuthority of Philadelphia\nClient: Museum Towers\nFinal Project: 30 feet in height\n1987\n31 1/2 x 40"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 47803,
+   "fin": 47944
+  },
+  {
+   "tipo": "title",
+   "ini": 47803,
+   "fin": 47810,
+   "texto": "Synergy"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 47811,
+   "fin": 47927
+  },
+  {
+   "tipo": "placeName",
+   "ini": 47860,
+   "fin": 47872,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Philadelphia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 47881,
+   "fin": 47894,
+   "rasgos": {
+    "type": "museum",
+    "role": "client"
+   },
+   "texto": "Museum Towers"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47910,
+   "fin": 47927,
+   "rasgos": {
+    "unit": "feet"
+   },
+   "texto": "30 feet in height"
+  },
+  {
+   "tipo": "height",
+   "ini": 47910,
+   "fin": 47912,
+   "texto": "30"
+  },
+  {
+   "tipo": "date",
+   "ini": 47928,
+   "fin": 47932,
+   "rasgos": {
+    "when": "1987"
+   },
+   "texto": "1987"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47933,
+   "fin": 47944,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "31 1/2 x 40"
+  },
+  {
+   "tipo": "height",
+   "ini": 47933,
+   "fin": 47939,
+   "texto": "31 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 47942,
+   "fin": 47944,
+   "texto": "40"
+  },
+  {
+   "tipo": "institution",
+   "ini": 47967,
+   "fin": 47989,
+   "rasgos": {
+    "type": "gallery, museum, university",
+    "role": "host"
+   },
+   "texto": "Rosenwald-Wolf Gallery"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 47994,
+   "fin": 49420,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 47994,
+   "fin": 48173,
+   "rasgos": {
+    "type": "university, college",
+    "role": "organiser"
+   },
+   "texto": "The University of the Arts \nPhiladelphia College of Art and Design \nPhiladelphia College of Performing Arts \nBroad and Pine Streets\nPhiladelphia, Pennsylvania 19102 \n215-875-4800\n"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 48022,
+   "fin": 48034,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Philadelphia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 48062,
+   "fin": 48074,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Philadelphia"
+  },
+  {
+   "tipo": "address",
+   "ini": 48103,
+   "fin": 48172,
+   "texto": "Broad and Pine Streets\nPhiladelphia, Pennsylvania 19102 \n215-875-4800"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 48126,
+   "fin": 48152,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Philadelphia, Pennsylvania"
+  },
+  {
+   "tipo": "person",
+   "ini": 48193,
+   "fin": 48213,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Dorrance H. Hamilton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48193,
+   "fin": 48213,
+   "texto": "Dorrance H. Hamilton"
+  },
+  {
+   "tipo": "person",
+   "ini": 48224,
+   "fin": 48238,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Petet Solmssen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48224,
+   "fin": 48238,
+   "texto": "Petet Solmssen"
+  },
+  {
+   "tipo": "person",
+   "ini": 48250,
+   "fin": 48270,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Marie Louise Beitzel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48250,
+   "fin": 48270,
+   "texto": "Marie Louise Beitzel"
+  },
+  {
+   "tipo": "person",
+   "ini": 48271,
+   "fin": 48288,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Irvin Borowsky J."
+  },
+  {
+   "tipo": "persName",
+   "ini": 48271,
+   "fin": 48288,
+   "texto": "Irvin Borowsky J."
+  },
+  {
+   "tipo": "person",
+   "ini": 48289,
+   "fin": 48310,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Nathaniel R. Bowditch"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48289,
+   "fin": 48310,
+   "texto": "Nathaniel R. Bowditch"
+  },
+  {
+   "tipo": "person",
+   "ini": 48311,
+   "fin": 48333,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Ira Brmd\nEdward Cantot"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48311,
+   "fin": 48319,
+   "texto": "Ira Brmd"
+  },
+  {
+   "tipo": "person",
+   "ini": 48320,
+   "fin": 48333,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Edward Cantot"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48320,
+   "fin": 48333,
+   "texto": "Edward Cantot"
+  },
+  {
+   "tipo": "person",
+   "ini": 48334,
+   "fin": 48354,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Helen S. Chait, Esq."
+  },
+  {
+   "tipo": "persName",
+   "ini": 48334,
+   "fin": 48348,
+   "texto": "Helen S. Chait"
+  },
+  {
+   "tipo": "person",
+   "ini": 48355,
+   "fin": 48373,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Michael M. Coleman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48355,
+   "fin": 48373,
+   "texto": "Michael M. Coleman"
+  },
+  {
+   "tipo": "person",
+   "ini": 48374,
+   "fin": 48390,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "James L. Crowell"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48374,
+   "fin": 48390,
+   "texto": "James L. Crowell"
+  },
+  {
+   "tipo": "person",
+   "ini": 48391,
+   "fin": 48404,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Eleanor Davis"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48391,
+   "fin": 48404,
+   "texto": "Eleanor Davis"
+  },
+  {
+   "tipo": "person",
+   "ini": 48405,
+   "fin": 48421,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Philip Eitzen J."
+  },
+  {
+   "tipo": "persName",
+   "ini": 48405,
+   "fin": 48421,
+   "texto": "Philip Eitzen J."
+  },
+  {
+   "tipo": "person",
+   "ini": 48422,
+   "fin": 48435,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Anne F. Elder"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48422,
+   "fin": 48435,
+   "texto": "Anne F. Elder"
+  },
+  {
+   "tipo": "person",
+   "ini": 48436,
+   "fin": 48458,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Elaine Levitt Gershman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48436,
+   "fin": 48458,
+   "texto": "Elaine Levitt Gershman"
+  },
+  {
+   "tipo": "person",
+   "ini": 48459,
+   "fin": 48478,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Frederick S. Hammer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48459,
+   "fin": 48478,
+   "texto": "Frederick S. Hammer"
+  },
+  {
+   "tipo": "person",
+   "ini": 48479,
+   "fin": 48494,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Marvin D. Heaps"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48479,
+   "fin": 48494,
+   "texto": "Marvin D. Heaps"
+  },
+  {
+   "tipo": "person",
+   "ini": 48495,
+   "fin": 48513,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "H. Ober Hess, Esq."
+  },
+  {
+   "tipo": "persName",
+   "ini": 48495,
+   "fin": 48507,
+   "texto": "H. Ober Hess"
+  },
+  {
+   "tipo": "person",
+   "ini": 48514,
+   "fin": 48532,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Stephen R. Holstad"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48514,
+   "fin": 48532,
+   "texto": "Stephen R. Holstad"
+  },
+  {
+   "tipo": "person",
+   "ini": 48533,
+   "fin": 48547,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Judith Jamison"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48533,
+   "fin": 48547,
+   "texto": "Judith Jamison"
+  },
+  {
+   "tipo": "person",
+   "ini": 48548,
+   "fin": 48562,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Barbara Kaplan"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48548,
+   "fin": 48562,
+   "texto": "Barbara Kaplan"
+  },
+  {
+   "tipo": "person",
+   "ini": 48580,
+   "fin": 48597,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Bruce W. Kautfman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48580,
+   "fin": 48597,
+   "texto": "Bruce W. Kautfman"
+  },
+  {
+   "tipo": "person",
+   "ini": 48598,
+   "fin": 48611,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Raymond Klein"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48598,
+   "fin": 48611,
+   "texto": "Raymond Klein"
+  },
+  {
+   "tipo": "person",
+   "ini": 48612,
+   "fin": 48632,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Harold E. Kohn, Esq."
+  },
+  {
+   "tipo": "persName",
+   "ini": 48612,
+   "fin": 48626,
+   "texto": "Harold E. Kohn"
+  },
+  {
+   "tipo": "person",
+   "ini": 48633,
+   "fin": 48649,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Berton E. Korman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48633,
+   "fin": 48649,
+   "texto": "Berton E. Korman"
+  },
+  {
+   "tipo": "person",
+   "ini": 48650,
+   "fin": 48667,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Irving S. Koslott"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48650,
+   "fin": 48667,
+   "texto": "Irving S. Koslott"
+  },
+  {
+   "tipo": "person",
+   "ini": 48668,
+   "fin": 48684,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "William G. Krebs"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48668,
+   "fin": 48684,
+   "texto": "William G. Krebs"
+  },
+  {
+   "tipo": "person",
+   "ini": 48685,
+   "fin": 48703,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Terrence A. Larsen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48685,
+   "fin": 48703,
+   "texto": "Terrence A. Larsen"
+  },
+  {
+   "tipo": "person",
+   "ini": 48704,
+   "fin": 48721,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Thomas V. Lefevre"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48704,
+   "fin": 48721,
+   "texto": "Thomas V. Lefevre"
+  },
+  {
+   "tipo": "person",
+   "ini": 48722,
+   "fin": 48741,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Al Paul Lefton, Jr."
+  },
+  {
+   "tipo": "persName",
+   "ini": 48722,
+   "fin": 48741,
+   "texto": "Al Paul Lefton, Jr."
+  },
+  {
+   "tipo": "person",
+   "ini": 48742,
+   "fin": 48760,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Seymour G. Mandell"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48742,
+   "fin": 48760,
+   "texto": "Seymour G. Mandell"
+  },
+  {
+   "tipo": "person",
+   "ini": 48761,
+   "fin": 48770,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Noel Mayo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48761,
+   "fin": 48770,
+   "texto": "Noel Mayo"
+  },
+  {
+   "tipo": "person",
+   "ini": 48771,
+   "fin": 48786,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "John W. Merriam"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48771,
+   "fin": 48786,
+   "texto": "John W. Merriam"
+  },
+  {
+   "tipo": "person",
+   "ini": 48787,
+   "fin": 48799,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Sondra Myers"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48787,
+   "fin": 48799,
+   "texto": "Sondra Myers"
+  },
+  {
+   "tipo": "person",
+   "ini": 48800,
+   "fin": 48816,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Ronald Naples J."
+  },
+  {
+   "tipo": "persName",
+   "ini": 48800,
+   "fin": 48816,
+   "texto": "Ronald Naples J."
+  },
+  {
+   "tipo": "person",
+   "ini": 48817,
+   "fin": 48836,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Theodore T. Newbold"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48817,
+   "fin": 48836,
+   "texto": "Theodore T. Newbold"
+  },
+  {
+   "tipo": "person",
+   "ini": 48837,
+   "fin": 48851,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Adolf A. Paier"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48837,
+   "fin": 48851,
+   "texto": "Adolf A. Paier"
+  },
+  {
+   "tipo": "person",
+   "ini": 48852,
+   "fin": 48874,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "John C. Pemberton, Jr."
+  },
+  {
+   "tipo": "persName",
+   "ini": 48852,
+   "fin": 48874,
+   "texto": "John C. Pemberton, Jr."
+  },
+  {
+   "tipo": "person",
+   "ini": 48875,
+   "fin": 48892,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "William L. Rafsky"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48875,
+   "fin": 48892,
+   "texto": "William L. Rafsky"
+  },
+  {
+   "tipo": "person",
+   "ini": 48893,
+   "fin": 48905,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Ronald Rubin"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48893,
+   "fin": 48905,
+   "texto": "Ronald Rubin"
+  },
+  {
+   "tipo": "person",
+   "ini": 48924,
+   "fin": 48942,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Jay T. Snider, Jr."
+  },
+  {
+   "tipo": "persName",
+   "ini": 48924,
+   "fin": 48942,
+   "texto": "Jay T. Snider, Jr."
+  },
+  {
+   "tipo": "person",
+   "ini": 48954,
+   "fin": 48974,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Daniel Harry Waldman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48954,
+   "fin": 48974,
+   "texto": "Daniel Harry Waldman"
+  },
+  {
+   "tipo": "person",
+   "ini": 48989,
+   "fin": 49002,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Sam S. McKeel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48989,
+   "fin": 49002,
+   "texto": "Sam S. McKeel"
+  },
+  {
+   "tipo": "person",
+   "ini": 49003,
+   "fin": 49017,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Howard A. Wolf"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49003,
+   "fin": 49017,
+   "texto": "Howard A. Wolf"
+  },
+  {
+   "tipo": "person",
+   "ini": 49036,
+   "fin": 49054,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Schuyler G. Chapin"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49036,
+   "fin": 49054,
+   "texto": "Schuyler G. Chapin"
+  },
+  {
+   "tipo": "person",
+   "ini": 49055,
+   "fin": 49072,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Josef Jaffe, Esq."
+  },
+  {
+   "tipo": "persName",
+   "ini": 49055,
+   "fin": 49066,
+   "texto": "Josef Jaffe"
+  },
+  {
+   "tipo": "person",
+   "ini": 49073,
+   "fin": 49086,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Bodine Lamont"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49073,
+   "fin": 49086,
+   "texto": "Bodine Lamont"
+  },
+  {
+   "tipo": "person",
+   "ini": 49087,
+   "fin": 49103,
+   "rasgos": {
+    "role": ""
+   },
+   "texto": "Ronald K. Porter"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49087,
+   "fin": 49103,
+   "texto": "Ronald K. Porter"
+  },
+  {
+   "tipo": "person",
+   "ini": 49104,
+   "fin": 49120,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Roger L. Stevens"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49104,
+   "fin": 49120,
+   "texto": "Roger L. Stevens"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49121,
+   "fin": 49140,
+   "texto": "Philip H. Ward, III"
+  },
+  {
+   "tipo": "person",
+   "ini": 49121,
+   "fin": 49135,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Philip H. Ward"
+  },
+  {
+   "tipo": "person",
+   "ini": 49137,
+   "fin": 49162,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "III Dorothy Shipley White"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49142,
+   "fin": 49162,
+   "texto": "orothy Shipley White"
+  },
+  {
+   "tipo": "person",
+   "ini": 49183,
+   "fin": 49213,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "The Honorable Augusta A. Clark"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49197,
+   "fin": 49213,
+   "texto": "Augusta A. Clark"
+  },
+  {
+   "tipo": "person",
+   "ini": 49237,
+   "fin": 49264,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Professor Gerald Greenfield"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49247,
+   "fin": 49264,
+   "texto": "Gerald Greenfield"
+  },
+  {
+   "tipo": "person",
+   "ini": 49291,
+   "fin": 49303,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Leah Douglas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49291,
+   "fin": 49303,
+   "texto": "Leah Douglas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49335,
+   "fin": 49349,
+   "texto": "Mark A. Shaver"
+  },
+  {
+   "tipo": "person",
+   "ini": 49350,
+   "fin": 49371,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "The Honorable Vincent"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49364,
+   "fin": 49371,
+   "texto": "Vincent"
+  },
+  {
+   "tipo": "person",
+   "ini": 49372,
+   "fin": 49401,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "The Honorable Joan L. Specter"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49386,
+   "fin": 49400,
+   "texto": "Joan L. Specte"
+  }
+ ]
+}

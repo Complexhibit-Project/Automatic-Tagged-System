@@ -1,0 +1,816 @@
+{
+ "id": "cat_025_antonio_gavira",
+ "nombre_original": "Antonio-Gavira",
+ "longitud_texto": 10337,
+ "sha256_texto": "fb6bc10bc50d8af5a7fef19eb9c74098080cde393834bdc004d1c9701da98880",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 26,
+   "fin": 355,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 26,
+   "fin": 89,
+   "texto": "“ANTONIO GAVIRA ALBA”.\nESTUDIOS EN TERRACOTA DE PEQUEÑO FORMATO"
+  },
+  {
+   "tipo": "person",
+   "ini": 27,
+   "fin": 46,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ANTONIO GAVIRA ALBA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27,
+   "fin": 46,
+   "texto": "ANTONIO GAVIRA ALBA"
+  },
+  {
+   "tipo": "venue",
+   "ini": 91,
+   "fin": 124,
+   "texto": "SALA VILLEGAS. CASA DE LOS PINELO"
+  },
+  {
+   "tipo": "institution",
+   "ini": 125,
+   "fin": 181,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "REAL ACADEMIA DE BELLAS ARTES DE SANTA ISABEL DE HUNGRÍA"
+  },
+  {
+   "tipo": "address",
+   "ini": 182,
+   "fin": 223,
+   "texto": "C/Abades, 14- Telf. 954 22 11 98. Sevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 216,
+   "fin": 223,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "date",
+   "ini": 238,
+   "fin": 261,
+   "rasgos": {
+    "when": "2018-12-18"
+   },
+   "texto": "18 de diciembre de 2018"
+  },
+  {
+   "tipo": "date",
+   "ini": 303,
+   "fin": 326,
+   "rasgos": {
+    "from": "2018-12-18",
+    "to": "2018-12-28"
+   },
+   "texto": "de 18 a 28 de diciembre"
+  },
+  {
+   "tipo": "institution",
+   "ini": 402,
+   "fin": 458,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia de Bellas Artes de Santa Isabel\nde Hungría"
+  },
+  {
+   "tipo": "person",
+   "ini": 493,
+   "fin": 512,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Gavira Alba"
+  },
+  {
+   "tipo": "persName",
+   "ini": 493,
+   "fin": 512,
+   "texto": "Antonio Gavira Alba"
+  },
+  {
+   "tipo": "person",
+   "ini": 793,
+   "fin": 807,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Gavira"
+  },
+  {
+   "tipo": "persName",
+   "ini": 793,
+   "fin": 807,
+   "texto": "Antonio Gavira"
+  },
+  {
+   "tipo": "institution",
+   "ini": 870,
+   "fin": 926,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "REAL ACADEMIA DE BELLAS ARTES DE SANTA ISABEL DE HUNGRÍA"
+  },
+  {
+   "tipo": "person",
+   "ini": 936,
+   "fin": 978,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "artista nació en Mairena del Alcor en 1929"
+  },
+  {
+   "tipo": "birth",
+   "ini": 944,
+   "fin": 978
+  },
+  {
+   "tipo": "placeName",
+   "ini": 953,
+   "fin": 970,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Mairena del Alcor"
+  },
+  {
+   "tipo": "person",
+   "ini": 3033,
+   "fin": 3055,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "D. Antonio Gavira Alba"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3036,
+   "fin": 3055,
+   "texto": "Antonio Gavira Alba"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3225,
+   "fin": 3281,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia de Bellas Artes de Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "person",
+   "ini": 3381,
+   "fin": 3407,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Juan Miguel González Gómez"
+  },
+  {
+   "tipo": "title",
+   "ini": 3410,
+   "fin": 3472,
+   "texto": "“ANTONIO GAVIRA ALBA”\nESTUDIOS EN TERRACOTA DE PEQUEÑO FORMATO"
+  },
+  {
+   "tipo": "person",
+   "ini": 3509,
+   "fin": 3528,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Gavira Alba"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3509,
+   "fin": 3528,
+   "texto": "Antonio Gavira Alba"
+  },
+  {
+   "tipo": "birth",
+   "ini": 3644,
+   "fin": 3689
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3654,
+   "fin": 3671,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Mairena del Alcor"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5092,
+   "fin": 5143,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia de Santa Isabel de Hungría de Sevilla"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5413,
+   "fin": 5442,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia de Bellas Artes"
+  },
+  {
+   "tipo": "person",
+   "ini": 5479,
+   "fin": 5498,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Gavira Alba"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5479,
+   "fin": 5498,
+   "texto": "Antonio Gavira Alba"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5803,
+   "fin": 5824,
+   "texto": "Francisco\nCortés Somé"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 8733,
+   "fin": 8889,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 8733,
+   "fin": 8737,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "institution",
+   "ini": 8757,
+   "fin": 8813,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia de Bellas Artes de Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 8987,
+   "fin": 10122
+  },
+  {
+   "tipo": "text",
+   "ini": 8994,
+   "fin": 9737
+  },
+  {
+   "tipo": "date",
+   "ini": 9277,
+   "fin": 9285,
+   "rasgos": {
+    "from": "1901",
+    "to": "2000"
+   },
+   "texto": "siglo XX"
+  },
+  {
+   "tipo": "person",
+   "ini": 9393,
+   "fin": 9412,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Gavira Alba"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9393,
+   "fin": 9412,
+   "texto": "Antonio Gavira Alba"
+  },
+  {
+   "tipo": "person",
+   "ini": 9602,
+   "fin": 9613,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gavira Alba"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9602,
+   "fin": 9613,
+   "texto": "Gavira Alba"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9739,
+   "fin": 9775
+  },
+  {
+   "tipo": "img",
+   "ini": 9739,
+   "fin": 9744,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9746,
+   "fin": 9775,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "“Mujer con abanico”\nTerracota"
+  },
+  {
+   "tipo": "title",
+   "ini": 9746,
+   "fin": 9765,
+   "texto": "“Mujer con abanico”"
+  },
+  {
+   "tipo": "material",
+   "ini": 9766,
+   "fin": 9775,
+   "rasgos": {
+    "type": "terracotta"
+   },
+   "texto": "Terracota"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9777,
+   "fin": 9807
+  },
+  {
+   "tipo": "img",
+   "ini": 9777,
+   "fin": 9782,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9784,
+   "fin": 9807,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "“Desconsuelo”\nTerracota"
+  },
+  {
+   "tipo": "title",
+   "ini": 9784,
+   "fin": 9797,
+   "texto": "“Desconsuelo”"
+  },
+  {
+   "tipo": "material",
+   "ini": 9798,
+   "fin": 9807,
+   "rasgos": {
+    "type": "terracotta"
+   },
+   "texto": "Terracota"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9809,
+   "fin": 9835
+  },
+  {
+   "tipo": "img",
+   "ini": 9809,
+   "fin": 9814,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9816,
+   "fin": 9835,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "“Vanidad”\nTerracota"
+  },
+  {
+   "tipo": "title",
+   "ini": 9816,
+   "fin": 9825,
+   "texto": "“Vanidad”"
+  },
+  {
+   "tipo": "material",
+   "ini": 9826,
+   "fin": 9835,
+   "rasgos": {
+    "type": "terracotta"
+   },
+   "texto": "Terracota"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9837,
+   "fin": 9869
+  },
+  {
+   "tipo": "img",
+   "ini": 9837,
+   "fin": 9842,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9844,
+   "fin": 9869,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "“Mujer abatida”\nTerracota"
+  },
+  {
+   "tipo": "title",
+   "ini": 9844,
+   "fin": 9859,
+   "texto": "“Mujer abatida”"
+  },
+  {
+   "tipo": "material",
+   "ini": 9860,
+   "fin": 9869,
+   "rasgos": {
+    "type": "terracotta"
+   },
+   "texto": "Terracota"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9871,
+   "fin": 9903
+  },
+  {
+   "tipo": "img",
+   "ini": 9871,
+   "fin": 9876,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9878,
+   "fin": 9903,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "“Gesto andaluz”\nTerracota"
+  },
+  {
+   "tipo": "title",
+   "ini": 9878,
+   "fin": 9893,
+   "texto": "“Gesto andaluz”"
+  },
+  {
+   "tipo": "material",
+   "ini": 9894,
+   "fin": 9903,
+   "rasgos": {
+    "type": "terracotta"
+   },
+   "texto": "Terracota"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9905,
+   "fin": 9934
+  },
+  {
+   "tipo": "img",
+   "ini": 9905,
+   "fin": 9910,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9912,
+   "fin": 9934,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "“Maternidad”\nTerracota"
+  },
+  {
+   "tipo": "title",
+   "ini": 9912,
+   "fin": 9924,
+   "texto": "“Maternidad”"
+  },
+  {
+   "tipo": "material",
+   "ini": 9925,
+   "fin": 9934,
+   "rasgos": {
+    "type": "terracotta"
+   },
+   "texto": "Terracota"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9936,
+   "fin": 9970
+  },
+  {
+   "tipo": "img",
+   "ini": 9936,
+   "fin": 9941,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9943,
+   "fin": 9978,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "“Salida del baño”\nTerracota\n\n[img]\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 9943,
+   "fin": 9960,
+   "texto": "“Salida del baño”"
+  },
+  {
+   "tipo": "material",
+   "ini": 9961,
+   "fin": 9978,
+   "rasgos": {
+    "type": "terracotta"
+   },
+   "texto": "Terracota\n\n[img]\n"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9972,
+   "fin": 10007
+  },
+  {
+   "tipo": "img",
+   "ini": 9972,
+   "fin": 9977,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9979,
+   "fin": 10007,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "“Mujer en capullo”\nTerracota"
+  },
+  {
+   "tipo": "title",
+   "ini": 9979,
+   "fin": 9997,
+   "texto": "“Mujer en capullo”"
+  },
+  {
+   "tipo": "material",
+   "ini": 9998,
+   "fin": 10007,
+   "rasgos": {
+    "type": "terracotta"
+   },
+   "texto": "Terracota"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10009,
+   "fin": 10043
+  },
+  {
+   "tipo": "img",
+   "ini": 10009,
+   "fin": 10014,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10016,
+   "fin": 10043,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "“Madre en reposo”\nTerracota"
+  },
+  {
+   "tipo": "title",
+   "ini": 10016,
+   "fin": 10033,
+   "texto": "“Madre en reposo”"
+  },
+  {
+   "tipo": "material",
+   "ini": 10034,
+   "fin": 10043,
+   "rasgos": {
+    "type": "terracotta"
+   },
+   "texto": "Terracota"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10045,
+   "fin": 10069
+  },
+  {
+   "tipo": "img",
+   "ini": 10045,
+   "fin": 10050,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10052,
+   "fin": 10069,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "“Pudor”\nTerracota"
+  },
+  {
+   "tipo": "title",
+   "ini": 10052,
+   "fin": 10059,
+   "texto": "“Pudor”"
+  },
+  {
+   "tipo": "material",
+   "ini": 10060,
+   "fin": 10069,
+   "rasgos": {
+    "type": "terracotta"
+   },
+   "texto": "Terracota"
+  },
+  {
+   "tipo": "person",
+   "ini": 10096,
+   "fin": 10122,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Ángel Manuel García Gavira"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10096,
+   "fin": 10122,
+   "texto": "Ángel Manuel García Gavira"
+  },
+  {
+   "tipo": "venue",
+   "ini": 10124,
+   "fin": 10160,
+   "texto": "Sala de Exposiciones “José Villegas”"
+  },
+  {
+   "tipo": "person",
+   "ini": 10183,
+   "fin": 10197,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ANTONIO GAVIRA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10183,
+   "fin": 10197,
+   "texto": "ANTONIO GAVIRA"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 10201,
+   "fin": 10208,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "MAIRENA"
+  },
+  {
+   "tipo": "date",
+   "ini": 10257,
+   "fin": 10276,
+   "rasgos": {
+    "when": "2018-06-19"
+   },
+   "texto": "19 de junio de 2018"
+  },
+  {
+   "tipo": "person",
+   "ini": 10290,
+   "fin": 10304,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Gavira"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10290,
+   "fin": 10304,
+   "texto": "Antonio Gavira"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 10308,
+   "fin": 10335,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Mairena del Alcor (Sevilla)"
+  }
+ ]
+}

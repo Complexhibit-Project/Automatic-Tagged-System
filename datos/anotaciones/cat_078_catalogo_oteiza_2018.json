@@ -1,0 +1,3833 @@
+{
+ "id": "cat_078_catalogo_oteiza_2018",
+ "nombre_original": "Catálogo-Oteiza-2018",
+ "longitud_texto": 56531,
+ "sha256_texto": "a319398720cfda98bbc164cd9246f42c1b3f102471d4ad086ccabacb72d42cfe",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 608,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 0,
+   "fin": 97,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Michel Mejuto\nGalería\nJuan de Ajuriaguerra, 18. 48009 Bilbao\n+34 944 236 998\nwww.michelmejuto.com"
+  },
+  {
+   "tipo": "address",
+   "ini": 22,
+   "fin": 60,
+   "texto": "Juan de Ajuriaguerra, 18. 48009 Bilbao"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 54,
+   "fin": 60,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Bilbao"
+  },
+  {
+   "tipo": "institution",
+   "ini": 99,
+   "fin": 197,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Guillermo de Osma\nGalería\nClaudio Coello, 4. 28001 Madrid\n+34 91 435 59 36\nwww.guillermodeosma.com"
+  },
+  {
+   "tipo": "address",
+   "ini": 125,
+   "fin": 156,
+   "texto": "Claudio Coello, 4. 28001 Madrid"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 150,
+   "fin": 156,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "institution",
+   "ini": 212,
+   "fin": 233,
+   "rasgos": {
+    "type": "gallery",
+    "role": "exhibitionCurator"
+   },
+   "texto": "Galería Michel Mejuto"
+  },
+  {
+   "tipo": "institution",
+   "ini": 246,
+   "fin": 271,
+   "rasgos": {
+    "type": "gallery",
+    "role": "funding"
+   },
+   "texto": "Galería Guillermo de Osma"
+  },
+  {
+   "tipo": "institution",
+   "ini": 274,
+   "fin": 295,
+   "rasgos": {
+    "type": "gallery",
+    "role": "funding"
+   },
+   "texto": "Galería Michel Mejuto"
+  },
+  {
+   "tipo": "person",
+   "ini": 303,
+   "fin": 322,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Alfonso de la Torre"
+  },
+  {
+   "tipo": "persName",
+   "ini": 303,
+   "fin": 322,
+   "texto": "Alfonso de la Torre"
+  },
+  {
+   "tipo": "person",
+   "ini": 345,
+   "fin": 359,
+   "rasgos": {
+    "role": "designer, photographer"
+   },
+   "texto": "Richard Corpas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 345,
+   "fin": 359,
+   "texto": "Richard Corpas"
+  },
+  {
+   "tipo": "institution",
+   "ini": 369,
+   "fin": 385,
+   "rasgos": {
+    "type": "printer"
+   },
+   "texto": " Garcinuño S. L."
+  },
+  {
+   "tipo": "placeName",
+   "ini": 387,
+   "fin": 393,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Bilbao"
+  },
+  {
+   "tipo": "person",
+   "ini": 540,
+   "fin": 552,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 540,
+   "fin": 552,
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "institution",
+   "ini": 569,
+   "fin": 602,
+   "texto": "A+V Agencia de Creadores Visuales"
+  },
+  {
+   "tipo": "date",
+   "ini": 604,
+   "fin": 608,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 609,
+   "fin": 762,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 610,
+   "fin": 622,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JORGE OTEIZA"
+  },
+  {
+   "tipo": "title",
+   "ini": 610,
+   "fin": 622,
+   "texto": "JORGE OTEIZA"
+  },
+  {
+   "tipo": "person",
+   "ini": 640,
+   "fin": 659,
+   "texto": "ALFONSO DE LA TORRE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 640,
+   "fin": 659,
+   "texto": "ALFONSO DE LA TORRE"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 661,
+   "fin": 667,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "BILBAO"
+  },
+  {
+   "tipo": "date",
+   "ini": 673,
+   "fin": 706,
+   "rasgos": {
+    "from": "2018-05-24",
+    "to": "2018-07-27"
+   },
+   "texto": "24 de MAYO al 27 de JULIO de 2018"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 707,
+   "fin": 713,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "MADRID"
+  },
+  {
+   "tipo": "date",
+   "ini": 719,
+   "fin": 762,
+   "rasgos": {
+    "from": "2018-09-13",
+    "to": "2018-11-14"
+   },
+   "texto": "13 de SEPTIEMBRE al 14 de NOVIEMBRE de 2018"
+  },
+  {
+   "tipo": "persName",
+   "ini": 764,
+   "fin": 770,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 942,
+   "fin": 954,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JORGE OTEIZA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 942,
+   "fin": 954,
+   "texto": "JORGE OTEIZA"
+  },
+  {
+   "tipo": "person",
+   "ini": 983,
+   "fin": 1002,
+   "texto": "ALFONSO DE LA TORRE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 983,
+   "fin": 1002,
+   "texto": "ALFONSO DE LA TORRE"
+  },
+  {
+   "tipo": "person",
+   "ini": 1188,
+   "fin": 1200,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1188,
+   "fin": 1200,
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 1245,
+   "fin": 1292,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge Oteiza (Orio, 1908 - San Sebastián,\n2003)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1245,
+   "fin": 1257,
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "birth",
+   "ini": 1259,
+   "fin": 1269
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1259,
+   "fin": 1263,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Orio"
+  },
+  {
+   "tipo": "date",
+   "ini": 1265,
+   "fin": 1269,
+   "rasgos": {
+    "when": "1908"
+   },
+   "texto": "1908"
+  },
+  {
+   "tipo": "death",
+   "ini": 1272,
+   "fin": 1291
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1272,
+   "fin": 1285,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "San Sebastián"
+  },
+  {
+   "tipo": "date",
+   "ini": 1287,
+   "fin": 1291,
+   "rasgos": {
+    "when": "2003"
+   },
+   "texto": "2003"
+  },
+  {
+   "tipo": "person",
+   "ini": 2118,
+   "fin": 2124,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2118,
+   "fin": 2124,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 2390,
+   "fin": 2396,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2390,
+   "fin": 2396,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 2773,
+   "fin": 2779,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2773,
+   "fin": 2779,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 3396,
+   "fin": 3409,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3396,
+   "fin": 3409,
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "person",
+   "ini": 4322,
+   "fin": 4328,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4322,
+   "fin": 4328,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 4690,
+   "fin": 4696,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4690,
+   "fin": 4696,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 5333,
+   "fin": 5345,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5333,
+   "fin": 5345,
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 5870,
+   "fin": 5882,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5870,
+   "fin": 5882,
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 7412,
+   "fin": 7425,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7412,
+   "fin": 7425,
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "person",
+   "ini": 7701,
+   "fin": 7707,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7701,
+   "fin": 7707,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 7755,
+   "fin": 7761,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7755,
+   "fin": 7761,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 8385,
+   "fin": 8391,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8385,
+   "fin": 8391,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 8459,
+   "fin": 8471,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8459,
+   "fin": 8471,
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 8545,
+   "fin": 8551,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8545,
+   "fin": 8551,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 8742,
+   "fin": 8748,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8742,
+   "fin": 8748,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 8816,
+   "fin": 8828,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8816,
+   "fin": 8828,
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 8886,
+   "fin": 8892,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8886,
+   "fin": 8892,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 9349,
+   "fin": 9361,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9349,
+   "fin": 9361,
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 9467,
+   "fin": 9479,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9467,
+   "fin": 9479,
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 9499,
+   "fin": 9505,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "OTEYZA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9499,
+   "fin": 9505,
+   "texto": "OTEYZA"
+  },
+  {
+   "tipo": "person",
+   "ini": 10176,
+   "fin": 10182,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10176,
+   "fin": 10182,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 11161,
+   "fin": 11167,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11161,
+   "fin": 11167,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 11779,
+   "fin": 11785,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11779,
+   "fin": 11785,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 11980,
+   "fin": 11986,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11980,
+   "fin": 11986,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 12195,
+   "fin": 12210,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge de Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12195,
+   "fin": 12210,
+   "texto": "Jorge de Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 12288,
+   "fin": 12301,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12288,
+   "fin": 12301,
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "person",
+   "ini": 12406,
+   "fin": 12421,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge de Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12406,
+   "fin": 12421,
+   "texto": "Jorge de Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 12469,
+   "fin": 12475,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12469,
+   "fin": 12475,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 12593,
+   "fin": 12606,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12593,
+   "fin": 12606,
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "person",
+   "ini": 12669,
+   "fin": 12675,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12669,
+   "fin": 12675,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 12796,
+   "fin": 12809,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12796,
+   "fin": 12809,
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "person",
+   "ini": 13143,
+   "fin": 13155,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13143,
+   "fin": 13155,
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 13720,
+   "fin": 13726,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13720,
+   "fin": 13726,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 14605,
+   "fin": 14611,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14605,
+   "fin": 14611,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 14761,
+   "fin": 14767,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14761,
+   "fin": 14767,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 15354,
+   "fin": 15360,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15354,
+   "fin": 15360,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 15554,
+   "fin": 15560,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15554,
+   "fin": 15560,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 16175,
+   "fin": 16181,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16175,
+   "fin": 16181,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 16368,
+   "fin": 16374,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16368,
+   "fin": 16374,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 16455,
+   "fin": 16461,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16455,
+   "fin": 16461,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 16899,
+   "fin": 16911,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge\nOteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16899,
+   "fin": 16911,
+   "texto": "Jorge\nOteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 17254,
+   "fin": 17266,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17254,
+   "fin": 17266,
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 18315,
+   "fin": 18321,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18315,
+   "fin": 18321,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 19508,
+   "fin": 19514,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19508,
+   "fin": 19514,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 20600,
+   "fin": 20606,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 28049,
+   "fin": 28055,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28049,
+   "fin": 28055,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 28701,
+   "fin": 28707,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28701,
+   "fin": 28707,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 29438,
+   "fin": 29444,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29438,
+   "fin": 29444,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 29792,
+   "fin": 29798,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "OTEYZA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29792,
+   "fin": 29798,
+   "texto": "OTEYZA"
+  },
+  {
+   "tipo": "person",
+   "ini": 30936,
+   "fin": 30942,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30936,
+   "fin": 30942,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 31095,
+   "fin": 31108,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31095,
+   "fin": 31108,
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "person",
+   "ini": 31261,
+   "fin": 31267,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31261,
+   "fin": 31267,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 32022,
+   "fin": 32035,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "persName",
+   "ini": 32022,
+   "fin": 32035,
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "person",
+   "ini": 32652,
+   "fin": 32665,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "persName",
+   "ini": 32652,
+   "fin": 32665,
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "person",
+   "ini": 34184,
+   "fin": 34190,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 34184,
+   "fin": 34190,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 34342,
+   "fin": 34348,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 34342,
+   "fin": 34348,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 34367,
+   "fin": 34380,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "persName",
+   "ini": 34367,
+   "fin": 34380,
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "person",
+   "ini": 34717,
+   "fin": 34723,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 34717,
+   "fin": 34723,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 35277,
+   "fin": 35283,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35277,
+   "fin": 35283,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 35366,
+   "fin": 35378,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35366,
+   "fin": 35378,
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 36453,
+   "fin": 36459,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 36453,
+   "fin": 36459,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 37642,
+   "fin": 37655,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37642,
+   "fin": 37655,
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "person",
+   "ini": 38325,
+   "fin": 38331,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38325,
+   "fin": 38331,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 38351,
+   "fin": 38364,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38351,
+   "fin": 38364,
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "person",
+   "ini": 39450,
+   "fin": 39456,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39450,
+   "fin": 39456,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 39961,
+   "fin": 39967,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39961,
+   "fin": 39967,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 40591,
+   "fin": 40597,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40591,
+   "fin": 40597,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 41272,
+   "fin": 41278,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 41272,
+   "fin": 41278,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 42087,
+   "fin": 42099,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 42087,
+   "fin": 42099,
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 42499,
+   "fin": 42505,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 42499,
+   "fin": 42505,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 44068,
+   "fin": 44074,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 44068,
+   "fin": 44074,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 44535,
+   "fin": 44541,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 44616,
+   "fin": 44622,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 44616,
+   "fin": 44622,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 44984,
+   "fin": 44990,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 44984,
+   "fin": 44990,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 45399,
+   "fin": 45405,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 45399,
+   "fin": 45405,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 45527,
+   "fin": 45533,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 45527,
+   "fin": 45533,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 47445,
+   "fin": 47451,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 47445,
+   "fin": 47451,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 47689,
+   "fin": 47695,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 47689,
+   "fin": 47695,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 47770,
+   "fin": 47776,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 47770,
+   "fin": 47776,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 48191,
+   "fin": 48196,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48191,
+   "fin": 48196,
+   "texto": "Jorge"
+  },
+  {
+   "tipo": "person",
+   "ini": 48808,
+   "fin": 48814,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48808,
+   "fin": 48814,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 49032,
+   "fin": 49038,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49032,
+   "fin": 49038,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 49852,
+   "fin": 49865,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49852,
+   "fin": 49865,
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "person",
+   "ini": 50172,
+   "fin": 50184,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50172,
+   "fin": 50184,
+   "texto": "Jorge Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 50232,
+   "fin": 50238,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50232,
+   "fin": 50238,
+   "texto": "Oteiza"
+  },
+  {
+   "tipo": "person",
+   "ini": 50303,
+   "fin": 50316,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50303,
+   "fin": 50316,
+   "texto": "OTEIZA, Jorge"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 50734,
+   "fin": 56531
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 50753,
+   "fin": 50957
+  },
+  {
+   "tipo": "work",
+   "ini": 50753,
+   "fin": 50950,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "MUJER CON NIÑO MIRANDO CON TEMOR AL CIELO [CRJO 1.9.10.006]\nFundición en bronce. 42 x 28 x 23 cm.\n1949. Edición de 1980–1985.\nInscrito en la escultura “OTEITZA”, “E. PIRIZ” (Sello de la fundición)."
+  },
+  {
+   "tipo": "title",
+   "ini": 50753,
+   "fin": 50812,
+   "texto": "MUJER CON NIÑO MIRANDO CON TEMOR AL CIELO [CRJO 1.9.10.006]"
+  },
+  {
+   "tipo": "technique",
+   "ini": 50813,
+   "fin": 50832,
+   "rasgos": {
+    "type": "smeltingBronze"
+   },
+   "texto": "Fundición en bronce"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 50834,
+   "fin": 50849,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "42 x 28 x 23 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 50834,
+   "fin": 50836,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 50839,
+   "fin": 50841,
+   "texto": "28"
+  },
+  {
+   "tipo": "depth",
+   "ini": 50844,
+   "fin": 50846,
+   "texto": "23"
+  },
+  {
+   "tipo": "date",
+   "ini": 50851,
+   "fin": 50855,
+   "rasgos": {
+    "when": "1949"
+   },
+   "texto": "1949"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 50857,
+   "fin": 50950
+  },
+  {
+   "tipo": "date",
+   "ini": 50868,
+   "fin": 50877,
+   "rasgos": {
+    "from": "1980",
+    "to": "1985"
+   },
+   "texto": "1980–1985"
+  },
+  {
+   "tipo": "img",
+   "ini": 50952,
+   "fin": 50957,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 50959,
+   "fin": 51043
+  },
+  {
+   "tipo": "work",
+   "ini": 50959,
+   "fin": 51036,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "SANTIAGO [CRJO 2.2.17.000]\nVaciado en yeso. 34 x 12 x 9 cm.\n1951. Obra única."
+  },
+  {
+   "tipo": "title",
+   "ini": 50959,
+   "fin": 50985,
+   "texto": "SANTIAGO [CRJO 2.2.17.000]"
+  },
+  {
+   "tipo": "technique",
+   "ini": 50986,
+   "fin": 51001,
+   "rasgos": {
+    "type": "plasterCast"
+   },
+   "texto": "Vaciado en yeso"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 51003,
+   "fin": 51017,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "34 x 12 x 9 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 51003,
+   "fin": 51005,
+   "texto": "34"
+  },
+  {
+   "tipo": "width",
+   "ini": 51008,
+   "fin": 51010,
+   "texto": "12"
+  },
+  {
+   "tipo": "depth",
+   "ini": 51013,
+   "fin": 51014,
+   "texto": "9"
+  },
+  {
+   "tipo": "date",
+   "ini": 51019,
+   "fin": 51023,
+   "rasgos": {
+    "when": "1951"
+   },
+   "texto": "1951"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 51025,
+   "fin": 51036
+  },
+  {
+   "tipo": "img",
+   "ini": 51038,
+   "fin": 51043,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 51045,
+   "fin": 51219
+  },
+  {
+   "tipo": "work",
+   "ini": 51045,
+   "fin": 51212,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "FIGURA DE FRAILE. ARANTZAZU. RETRATOS Y OTRAS ESCULTURAS [CRJO 2.5.32.000]\nVaciado en yeso. 41 x 14 x 10,5 cm.\n1952. Obra única.\nInscrito en la escultura “OTEITZA 52”."
+  },
+  {
+   "tipo": "title",
+   "ini": 51045,
+   "fin": 51119,
+   "texto": "FIGURA DE FRAILE. ARANTZAZU. RETRATOS Y OTRAS ESCULTURAS [CRJO 2.5.32.000]"
+  },
+  {
+   "tipo": "technique",
+   "ini": 51120,
+   "fin": 51135,
+   "rasgos": {
+    "type": "plasterCast"
+   },
+   "texto": "Vaciado en yeso"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 51137,
+   "fin": 51154,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 14 x 10,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 51137,
+   "fin": 51139,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 51142,
+   "fin": 51144,
+   "texto": "14"
+  },
+  {
+   "tipo": "depth",
+   "ini": 51147,
+   "fin": 51151,
+   "texto": "10,5"
+  },
+  {
+   "tipo": "date",
+   "ini": 51156,
+   "fin": 51160,
+   "rasgos": {
+    "when": "1952"
+   },
+   "texto": "1952"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 51162,
+   "fin": 51212
+  },
+  {
+   "tipo": "img",
+   "ini": 51214,
+   "fin": 51219,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 51221,
+   "fin": 51323
+  },
+  {
+   "tipo": "work",
+   "ini": 51221,
+   "fin": 51316,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "PIEDAD [CRJO 3.1.17.000]\nVaciado en cemento tintado en gris. 55 x 50 x 30 cm.\n1969. Obra única."
+  },
+  {
+   "tipo": "title",
+   "ini": 51221,
+   "fin": 51245,
+   "texto": "PIEDAD [CRJO 3.1.17.000]"
+  },
+  {
+   "tipo": "technique",
+   "ini": 51246,
+   "fin": 51280,
+   "rasgos": {
+    "type": "plasterCast"
+   },
+   "texto": "Vaciado en cemento tintado en gris"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 51282,
+   "fin": 51297,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55 x 50 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 51282,
+   "fin": 51284,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 51287,
+   "fin": 51289,
+   "texto": "50"
+  },
+  {
+   "tipo": "depth",
+   "ini": 51292,
+   "fin": 51294,
+   "texto": "30"
+  },
+  {
+   "tipo": "date",
+   "ini": 51299,
+   "fin": 51303,
+   "rasgos": {
+    "when": "1969"
+   },
+   "texto": "1969"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 51305,
+   "fin": 51316
+  },
+  {
+   "tipo": "img",
+   "ini": 51318,
+   "fin": 51323,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 51325,
+   "fin": 51527
+  },
+  {
+   "tipo": "work",
+   "ini": 51325,
+   "fin": 51519,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "CABEZA DE APÓSTOL Nº 9 / PABLO [CRJO 2.3.22.008]\nFundición en bronce, pátina negra. 39 x 23,5 x 31 cm.\nRealizado en 1973. Edición de 8 ejemplares sin numerar.\nInscrito en la escultura “OTEITZA”."
+  },
+  {
+   "tipo": "title",
+   "ini": 51325,
+   "fin": 51373,
+   "texto": "CABEZA DE APÓSTOL Nº 9 / PABLO [CRJO 2.3.22.008]"
+  },
+  {
+   "tipo": "technique",
+   "ini": 51374,
+   "fin": 51407,
+   "rasgos": {
+    "type": "smeltingBronze"
+   },
+   "texto": "Fundición en bronce, pátina negra"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 51409,
+   "fin": 51426,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "39 x 23,5 x 31 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 51409,
+   "fin": 51411,
+   "texto": "39"
+  },
+  {
+   "tipo": "width",
+   "ini": 51414,
+   "fin": 51418,
+   "texto": "23,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 51421,
+   "fin": 51423,
+   "texto": "31"
+  },
+  {
+   "tipo": "date",
+   "ini": 51441,
+   "fin": 51445,
+   "rasgos": {
+    "when": "1973"
+   },
+   "texto": "1973"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 51447,
+   "fin": 51519
+  },
+  {
+   "tipo": "img",
+   "ini": 51521,
+   "fin": 51526,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 51528,
+   "fin": 53845,
+   "rasgos": {
+    "type": "medallion",
+    "size": "12"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 51528,
+   "fin": 51542,
+   "texto": "MEDALLAS, 1987"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 51544,
+   "fin": 51734
+  },
+  {
+   "tipo": "img",
+   "ini": 51544,
+   "fin": 51549,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 51551,
+   "fin": 51734,
+   "rasgos": {
+    "type": "medallion"
+   },
+   "texto": "ÁRBOL DE GERNIKA 1\n16,5 x 16,5 x 2,5 cm.\nVaciado en yeso y madera.\nFundición en bronce,\nsin numerar, de al menos tres\nejemplares [CRJO 3.5.01.001].\nInscrito en la escultura “OTEITZA”."
+  },
+  {
+   "tipo": "title",
+   "ini": 51551,
+   "fin": 51569,
+   "texto": "ÁRBOL DE GERNIKA 1"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 51570,
+   "fin": 51590,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "16,5 x 16,5 x 2,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 51570,
+   "fin": 51574,
+   "texto": "16,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 51577,
+   "fin": 51581,
+   "texto": "16,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 51584,
+   "fin": 51587,
+   "texto": "2,5"
+  },
+  {
+   "tipo": "technique",
+   "ini": 51592,
+   "fin": 51637,
+   "rasgos": {
+    "type": "plasterCast, smeltingBronze, wood"
+   },
+   "texto": "Vaciado en yeso y madera.\nFundición en bronce"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 51618,
+   "fin": 51734
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 51736,
+   "fin": 51874
+  },
+  {
+   "tipo": "img",
+   "ini": 51736,
+   "fin": 51741,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 51743,
+   "fin": 51874,
+   "rasgos": {
+    "type": "medallion"
+   },
+   "texto": "ÁRBOL DE GERNIKA 3\n14 x 14 x 2 cm.\nVaciado en yeso.\nFundición en bronce,\nsin numerar, de al menos dos\nejemplares [CRJO 3.5.03.001]."
+  },
+  {
+   "tipo": "title",
+   "ini": 51743,
+   "fin": 51761,
+   "texto": "ÁRBOL DE GERNIKA 3"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 51762,
+   "fin": 51776,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "14 x 14 x 2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 51762,
+   "fin": 51764,
+   "texto": "14"
+  },
+  {
+   "tipo": "width",
+   "ini": 51767,
+   "fin": 51769,
+   "texto": "14"
+  },
+  {
+   "tipo": "depth",
+   "ini": 51772,
+   "fin": 51773,
+   "texto": "2"
+  },
+  {
+   "tipo": "technique",
+   "ini": 51778,
+   "fin": 51814,
+   "rasgos": {
+    "type": "plasterCast, smeltingBronze"
+   },
+   "texto": "Vaciado en yeso.\nFundición en bronce"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 51795,
+   "fin": 51874
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 51876,
+   "fin": 52057
+  },
+  {
+   "tipo": "img",
+   "ini": 51876,
+   "fin": 51881,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 51883,
+   "fin": 52057,
+   "rasgos": {
+    "type": "medallion"
+   },
+   "texto": "ÁRBOL DE GERNIKA 4\n16,5 x 16,5 x 2,5 cm.\nVaciado en yeso.\nFundición en bronce,\nsin numerar, de al menos tres\nejemplares [CRJO 3.5.04.001].\nInscrito en la escultura “OTEITZA”."
+  },
+  {
+   "tipo": "title",
+   "ini": 51883,
+   "fin": 51901,
+   "texto": "ÁRBOL DE GERNIKA 4"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 51902,
+   "fin": 51922,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "16,5 x 16,5 x 2,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 51902,
+   "fin": 51906,
+   "texto": "16,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 51909,
+   "fin": 51913,
+   "texto": "16,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 51916,
+   "fin": 51919,
+   "texto": "2,5"
+  },
+  {
+   "tipo": "technique",
+   "ini": 51924,
+   "fin": 51960,
+   "rasgos": {
+    "type": "plasterCast, smeltingBronze"
+   },
+   "texto": "Vaciado en yeso.\nFundición en bronce"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 51941,
+   "fin": 52057
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 52059,
+   "fin": 52237
+  },
+  {
+   "tipo": "img",
+   "ini": 52059,
+   "fin": 52064,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 52066,
+   "fin": 52237,
+   "rasgos": {
+    "type": "medallion"
+   },
+   "texto": "CABALLO DE GERNIKA 1\n14 x 14 x 2,5 cm.\nVaciado en yeso.\nFundición en bronce,\nsin numerar, de al menos dos\nejemplares [CRJO 3.5.10.001].\nInscrito en la escultura “OTEITZA”."
+  },
+  {
+   "tipo": "title",
+   "ini": 52066,
+   "fin": 52086,
+   "texto": "CABALLO DE GERNIKA 1"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 52087,
+   "fin": 52103,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "14 x 14 x 2,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 52087,
+   "fin": 52089,
+   "texto": "14"
+  },
+  {
+   "tipo": "width",
+   "ini": 52092,
+   "fin": 52094,
+   "texto": "14"
+  },
+  {
+   "tipo": "depth",
+   "ini": 52097,
+   "fin": 52100,
+   "texto": "2,5"
+  },
+  {
+   "tipo": "technique",
+   "ini": 52105,
+   "fin": 52141,
+   "rasgos": {
+    "type": "plasterCast, smeltingBronze"
+   },
+   "texto": "Vaciado en yeso.\nFundición en bronce"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 52122,
+   "fin": 52237
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 52239,
+   "fin": 52417
+  },
+  {
+   "tipo": "img",
+   "ini": 52239,
+   "fin": 52244,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 52246,
+   "fin": 52417,
+   "rasgos": {
+    "type": "medallion"
+   },
+   "texto": "CABALLO DE GERNIKA 2\n14 x 14 x 2,5 cm.\nVaciado en yeso.\nFundición en bronce,\nsin numerar, de al menos dos\nejemplares [CRJO 3.5.11.001].\nInscrito en la escultura “OTEITZA”."
+  },
+  {
+   "tipo": "title",
+   "ini": 52246,
+   "fin": 52266,
+   "texto": "CABALLO DE GERNIKA 2"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 52267,
+   "fin": 52283,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "14 x 14 x 2,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 52267,
+   "fin": 52269,
+   "texto": "14"
+  },
+  {
+   "tipo": "width",
+   "ini": 52272,
+   "fin": 52274,
+   "texto": "14"
+  },
+  {
+   "tipo": "depth",
+   "ini": 52277,
+   "fin": 52280,
+   "texto": "2,5"
+  },
+  {
+   "tipo": "technique",
+   "ini": 52285,
+   "fin": 52321,
+   "rasgos": {
+    "type": "plasterCast, smeltingBronze"
+   },
+   "texto": "Vaciado en yeso.\nFundición en bronce"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 52302,
+   "fin": 52417
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 52419,
+   "fin": 52666
+  },
+  {
+   "tipo": "img",
+   "ini": 52419,
+   "fin": 52424,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 52426,
+   "fin": 52666,
+   "rasgos": {
+    "type": "medallion"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 52426,
+   "fin": 52510,
+   "texto": "CON DIBUJOS AZILIENSES EN\nLA CABEZA / CABEZA DE LOPE DE\nAGUIRRE DENTRO DE LA JAULA 1"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 52511,
+   "fin": 52529,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27,5 x 26,5 x 3 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 52511,
+   "fin": 52515,
+   "texto": "27,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 52518,
+   "fin": 52522,
+   "texto": "26,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 52525,
+   "fin": 52526,
+   "texto": "3"
+  },
+  {
+   "tipo": "technique",
+   "ini": 52531,
+   "fin": 52567,
+   "rasgos": {
+    "type": "plasterCast, smeltingBronze"
+   },
+   "texto": "Vaciado en yeso.\nFundición en bronce"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 52548,
+   "fin": 52666
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 52668,
+   "fin": 52864
+  },
+  {
+   "tipo": "img",
+   "ini": 52668,
+   "fin": 52673,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 52675,
+   "fin": 52864,
+   "rasgos": {
+    "type": "medallion"
+   },
+   "texto": "CABEZA DE LOPE DE AGUIRRE\nEN UNA JAULA 2\n12 x 12 x 2 cm.\nVaciado en yeso.\nFundición en bronce,\nsin numerar, de al menos dos\nejemplares [CRJO 3.5.13.001].\nInscrito en la escultura “OTEITZA”."
+  },
+  {
+   "tipo": "title",
+   "ini": 52675,
+   "fin": 52715,
+   "texto": "CABEZA DE LOPE DE AGUIRRE\nEN UNA JAULA 2"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 52716,
+   "fin": 52730,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "12 x 12 x 2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 52716,
+   "fin": 52718,
+   "texto": "12"
+  },
+  {
+   "tipo": "width",
+   "ini": 52721,
+   "fin": 52723,
+   "texto": "12"
+  },
+  {
+   "tipo": "depth",
+   "ini": 52726,
+   "fin": 52727,
+   "texto": "2"
+  },
+  {
+   "tipo": "technique",
+   "ini": 52732,
+   "fin": 52768,
+   "rasgos": {
+    "type": "plasterCast, smeltingBronze"
+   },
+   "texto": "Vaciado en yeso.\nFundición en bronce"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 52749,
+   "fin": 52864
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 52866,
+   "fin": 53064
+  },
+  {
+   "tipo": "img",
+   "ini": 52866,
+   "fin": 52871,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 52873,
+   "fin": 53064,
+   "rasgos": {
+    "type": "medallion"
+   },
+   "texto": "CABEZA DE LOPE DE AGUIRRE\nEN UNA JAULA 3\n13 x 13 x 2,5 cm.\nVaciado en yeso.\nFundición en bronce,\nsin numerar, de al menos dos\nejemplares [CRJO 3.5.14.001].\nInscrito en la escultura “OTEITZA”."
+  },
+  {
+   "tipo": "title",
+   "ini": 52873,
+   "fin": 52913,
+   "texto": "CABEZA DE LOPE DE AGUIRRE\nEN UNA JAULA 3"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 52914,
+   "fin": 52930,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "13 x 13 x 2,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 52914,
+   "fin": 52916,
+   "texto": "13"
+  },
+  {
+   "tipo": "width",
+   "ini": 52919,
+   "fin": 52921,
+   "texto": "13"
+  },
+  {
+   "tipo": "depth",
+   "ini": 52924,
+   "fin": 52927,
+   "texto": "2,5"
+  },
+  {
+   "tipo": "technique",
+   "ini": 52932,
+   "fin": 52968,
+   "rasgos": {
+    "type": "plasterCast, smeltingBronze"
+   },
+   "texto": "Vaciado en yeso.\nFundición en bronce"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 52949,
+   "fin": 53064
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53066,
+   "fin": 53266
+  },
+  {
+   "tipo": "img",
+   "ini": 53066,
+   "fin": 53071,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 53073,
+   "fin": 53266,
+   "rasgos": {
+    "type": "medallion"
+   },
+   "texto": "CABEZA DE LOPE DE AGUIRRE\nEN UNA JAULA 4\n19 x 18,5 x 2,5 cm.\nVaciado en yeso.\nFundición en bronce,\nsin numerar, de al menos dos\nejemplares [CRJO 3.5.15.001].\nInscrito en la escultura “OTEITZA”."
+  },
+  {
+   "tipo": "title",
+   "ini": 53073,
+   "fin": 53113,
+   "texto": "CABEZA DE LOPE DE AGUIRRE\nEN UNA JAULA 4"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 53114,
+   "fin": 53132,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "19 x 18,5 x 2,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 53114,
+   "fin": 53116,
+   "texto": "19"
+  },
+  {
+   "tipo": "width",
+   "ini": 53119,
+   "fin": 53123,
+   "texto": "18,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 53126,
+   "fin": 53129,
+   "texto": "2,5"
+  },
+  {
+   "tipo": "technique",
+   "ini": 53134,
+   "fin": 53170,
+   "rasgos": {
+    "type": "plasterCast, smeltingBronze"
+   },
+   "texto": "Vaciado en yeso.\nFundición en bronce"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 53151,
+   "fin": 53265
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53268,
+   "fin": 53494
+  },
+  {
+   "tipo": "img",
+   "ini": 53268,
+   "fin": 53273,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 53275,
+   "fin": 53494,
+   "rasgos": {
+    "type": "medallion"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 53275,
+   "fin": 53345,
+   "texto": "CON LOS SURCOS DE LOS\nCUATRO DEDOS LAS CUATRO\nBARRAS DEL ESCUDO CONDAL"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 53346,
+   "fin": 53360,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "18 x 16 x 2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 53346,
+   "fin": 53348,
+   "texto": "18"
+  },
+  {
+   "tipo": "width",
+   "ini": 53351,
+   "fin": 53353,
+   "texto": "16"
+  },
+  {
+   "tipo": "depth",
+   "ini": 53356,
+   "fin": 53357,
+   "texto": "2"
+  },
+  {
+   "tipo": "technique",
+   "ini": 53362,
+   "fin": 53398,
+   "rasgos": {
+    "type": "plasterCast, smeltingBronze"
+   },
+   "texto": "Vaciado en yeso.\nFundición en bronce"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 53379,
+   "fin": 53494
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53496,
+   "fin": 53672
+  },
+  {
+   "tipo": "img",
+   "ini": 53496,
+   "fin": 53501,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 53503,
+   "fin": 53672,
+   "rasgos": {
+    "type": "medallion"
+   },
+   "texto": "PRÍNCIPE DE VIANA\n20,5 x 20 x 3 cm.\nVaciado en yeso.\nFundición en bronce,\nsin numerar, de al menos tres\nejemplares [CRJO 3.5.19.001].\nInscrito en la escultura “OTEITZA”."
+  },
+  {
+   "tipo": "title",
+   "ini": 53503,
+   "fin": 53520,
+   "texto": "PRÍNCIPE DE VIANA"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 53521,
+   "fin": 53537,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20,5 x 20 x 3 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 53521,
+   "fin": 53525,
+   "texto": "20,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 53528,
+   "fin": 53530,
+   "texto": "20"
+  },
+  {
+   "tipo": "depth",
+   "ini": 53533,
+   "fin": 53534,
+   "texto": "3"
+  },
+  {
+   "tipo": "technique",
+   "ini": 53539,
+   "fin": 53575,
+   "rasgos": {
+    "type": "plasterCast, smeltingBronze"
+   },
+   "texto": "Vaciado en yeso.\nFundición en bronce"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 53556,
+   "fin": 53672
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53674,
+   "fin": 53845
+  },
+  {
+   "tipo": "img",
+   "ini": 53674,
+   "fin": 53679,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 53681,
+   "fin": 53845,
+   "rasgos": {
+    "type": "medallion"
+   },
+   "texto": "RAIMUNDO LULIO\n17 x 17 x 2 cm.\nVaciado en yeso.\nFundición en bronce,\nsin numerar, de al menos tres\nejemplares [CRJO 3.5.20.001].\nInscrito en la escultura “OTEITZA”."
+  },
+  {
+   "tipo": "title",
+   "ini": 53681,
+   "fin": 53695,
+   "texto": "RAIMUNDO LULIO"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 53696,
+   "fin": 53710,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "17 x 17 x 2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 53696,
+   "fin": 53698,
+   "texto": "17"
+  },
+  {
+   "tipo": "width",
+   "ini": 53701,
+   "fin": 53703,
+   "texto": "17"
+  },
+  {
+   "tipo": "depth",
+   "ini": 53706,
+   "fin": 53707,
+   "texto": "2"
+  },
+  {
+   "tipo": "technique",
+   "ini": 53712,
+   "fin": 53748,
+   "rasgos": {
+    "type": "smeltingBronze, plasterCast"
+   },
+   "texto": "Vaciado en yeso.\nFundición en bronce"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 53729,
+   "fin": 53845
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53847,
+   "fin": 53919
+  },
+  {
+   "tipo": "img",
+   "ini": 53847,
+   "fin": 53852,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 53854,
+   "fin": 53919,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "BOCETO PARA ÍTACA [FMJO DI 00611]\nTerracota. 23 x 9 x 9 cm.\n1953."
+  },
+  {
+   "tipo": "title",
+   "ini": 53854,
+   "fin": 53887,
+   "texto": "BOCETO PARA ÍTACA [FMJO DI 00611]"
+  },
+  {
+   "tipo": "technique",
+   "ini": 53888,
+   "fin": 53897,
+   "rasgos": {
+    "type": "terracotta"
+   },
+   "texto": "Terracota"
+  },
+  {
+   "tipo": "height",
+   "ini": 53899,
+   "fin": 53901,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 53904,
+   "fin": 53905,
+   "texto": "9"
+  },
+  {
+   "tipo": "depth",
+   "ini": 53908,
+   "fin": 53909,
+   "texto": "9"
+  },
+  {
+   "tipo": "date",
+   "ini": 53914,
+   "fin": 53918,
+   "rasgos": {
+    "when": "1953"
+   },
+   "texto": "1953"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 53921,
+   "fin": 54142
+  },
+  {
+   "tipo": "img",
+   "ini": 53921,
+   "fin": 53927,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 53928,
+   "fin": 54142,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 53928,
+   "fin": 53995,
+   "texto": "MACLA TERNARIA CON LA MATRIZ MALEVICH.\nAITORKISUN [CRJO 5.7.38.002]"
+  },
+  {
+   "tipo": "technique",
+   "ini": 53996,
+   "fin": 54036,
+   "rasgos": {
+    "type": "smeltingBronze, stone"
+   },
+   "texto": "Fundición en bronce sobre base de piedra"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 54038,
+   "fin": 54050,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "5 x 8 x 6 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 54038,
+   "fin": 54039,
+   "texto": "5"
+  },
+  {
+   "tipo": "width",
+   "ini": 54042,
+   "fin": 54043,
+   "texto": "8"
+  },
+  {
+   "tipo": "depth",
+   "ini": 54046,
+   "fin": 54047,
+   "texto": "6"
+  },
+  {
+   "tipo": "date",
+   "ini": 54052,
+   "fin": 54056,
+   "rasgos": {
+    "when": "1996"
+   },
+   "texto": "1996"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 54058,
+   "fin": 54141
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 54144,
+   "fin": 54911,
+   "rasgos": {
+    "type": "sculpture",
+    "size": "3"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 54144,
+   "fin": 54149,
+   "texto": "CAJAS"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 54151,
+   "fin": 54406
+  },
+  {
+   "tipo": "work",
+   "ini": 54151,
+   "fin": 54399,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 54151,
+   "fin": 54233,
+   "texto": "CAJA METAFÍSICA POR CONJUNCIÓN DE DOS TRIEDROS. VACÍO RESPIRANDO [CRJO 9.1.09.005]"
+  },
+  {
+   "tipo": "technique",
+   "ini": 54234,
+   "fin": 54281,
+   "rasgos": {
+    "type": "construction"
+   },
+   "texto": "Construcción en chapa de acero pintado en negro"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 54283,
+   "fin": 54302,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "28 x 34,5 x 24,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 54283,
+   "fin": 54285,
+   "texto": "28"
+  },
+  {
+   "tipo": "width",
+   "ini": 54288,
+   "fin": 54292,
+   "texto": "34,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 54295,
+   "fin": 54299,
+   "texto": "24,5"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 54304,
+   "fin": 54399
+  },
+  {
+   "tipo": "date",
+   "ini": 54357,
+   "fin": 54366,
+   "rasgos": {
+    "from": "1972",
+    "to": "1974"
+   },
+   "texto": "1972-1974"
+  },
+  {
+   "tipo": "img",
+   "ini": 54401,
+   "fin": 54406,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 54408,
+   "fin": 54676
+  },
+  {
+   "tipo": "img",
+   "ini": 54408,
+   "fin": 54413,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 54415,
+   "fin": 54677,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 54415,
+   "fin": 54523,
+   "texto": "CAJA METAFÍSICA POR CONJUNCIÓN DE DOS TRIEDROS. HOMENAJE A LA ANUNCIACIÓN DE FRAN ANGÉLICO [CRJO 9.1.15.001]"
+  },
+  {
+   "tipo": "technique",
+   "ini": 54524,
+   "fin": 54571,
+   "rasgos": {
+    "type": "construction"
+   },
+   "texto": "Construcción en chapa de acero pintada en negro"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 54573,
+   "fin": 54590,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "22,5 x 32 x 24 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 54573,
+   "fin": 54577,
+   "texto": "22,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 54580,
+   "fin": 54582,
+   "texto": "32"
+  },
+  {
+   "tipo": "depth",
+   "ini": 54585,
+   "fin": 54587,
+   "texto": "24"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 54592,
+   "fin": 54677
+  },
+  {
+   "tipo": "date",
+   "ini": 54634,
+   "fin": 54643,
+   "rasgos": {
+    "from": "1992",
+    "to": "1996"
+   },
+   "texto": "1992–1996"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 54678,
+   "fin": 54911
+  },
+  {
+   "tipo": "img",
+   "ini": 54678,
+   "fin": 54683,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 54685,
+   "fin": 54911,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 54685,
+   "fin": 54715,
+   "texto": "CAJA ABIERTA [CRJO 8.1.34.024]"
+  },
+  {
+   "tipo": "technique",
+   "ini": 54716,
+   "fin": 54730,
+   "rasgos": {
+    "type": "steelSheet"
+   },
+   "texto": "Chapa de acero"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 54732,
+   "fin": 54747,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "23 x 28 x 22 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 54732,
+   "fin": 54734,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 54737,
+   "fin": 54739,
+   "texto": "28"
+  },
+  {
+   "tipo": "depth",
+   "ini": 54742,
+   "fin": 54744,
+   "texto": "22"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 54749,
+   "fin": 54911
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 54914,
+   "fin": 56529,
+   "rasgos": {
+    "type": "sculpture",
+    "size": "6"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 54914,
+   "fin": 54938,
+   "texto": "DEL LABORATORIO DE TIZAS"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 54940,
+   "fin": 55228
+  },
+  {
+   "tipo": "img",
+   "ini": 54940,
+   "fin": 54945,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 54947,
+   "fin": 55228,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 54947,
+   "fin": 55000,
+   "texto": "DEL LABORATORIO DE TIZAS / MÓDULO L [CRJO 6.5.12.000]"
+  },
+  {
+   "tipo": "technique",
+   "ini": 55001,
+   "fin": 55030,
+   "rasgos": {
+    "type": "marble"
+   },
+   "texto": "Talla en mármol rojo de Ereño"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 55032,
+   "fin": 55047,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 37 x 35 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 55032,
+   "fin": 55034,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 55037,
+   "fin": 55039,
+   "texto": "37"
+  },
+  {
+   "tipo": "depth",
+   "ini": 55042,
+   "fin": 55044,
+   "texto": "35"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 55049,
+   "fin": 55228
+  },
+  {
+   "tipo": "date",
+   "ini": 55070,
+   "fin": 55074,
+   "rasgos": {
+    "when": "1973"
+   },
+   "texto": "1973"
+  },
+  {
+   "tipo": "date",
+   "ini": 55147,
+   "fin": 55151,
+   "rasgos": {
+    "when": "1972"
+   },
+   "texto": "1972"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 55230,
+   "fin": 55518
+  },
+  {
+   "tipo": "img",
+   "ini": 55230,
+   "fin": 55235,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 55237,
+   "fin": 55518,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 55237,
+   "fin": 55301,
+   "texto": "PROYECTO PARA EL EDIFICIO BEATRIZ, 2ª VARIANTE [CRJO 6.5.14.001]"
+  },
+  {
+   "tipo": "technique",
+   "ini": 55302,
+   "fin": 55342,
+   "rasgos": {
+    "type": "construction"
+   },
+   "texto": "Construcción con prismas de mármol negro"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 55344,
+   "fin": 55359,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "21 x 40 x 18 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 55344,
+   "fin": 55346,
+   "texto": "21"
+  },
+  {
+   "tipo": "width",
+   "ini": 55349,
+   "fin": 55351,
+   "texto": "40"
+  },
+  {
+   "tipo": "depth",
+   "ini": 55354,
+   "fin": 55356,
+   "texto": "18"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 55361,
+   "fin": 55518
+  },
+  {
+   "tipo": "date",
+   "ini": 55421,
+   "fin": 55425,
+   "rasgos": {
+    "when": "1996"
+   },
+   "texto": "1996"
+  },
+  {
+   "tipo": "date",
+   "ini": 55477,
+   "fin": 55481,
+   "rasgos": {
+    "when": "1972"
+   },
+   "texto": "1972"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 55520,
+   "fin": 55774
+  },
+  {
+   "tipo": "img",
+   "ini": 55520,
+   "fin": 55525,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 55544,
+   "fin": 55774,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 55544,
+   "fin": 55608,
+   "texto": "DEL LABORATORIO DE TIZAS / PARALEPÍPEDO MATRIZ [CRJO 6.4.06.001]"
+  },
+  {
+   "tipo": "technique",
+   "ini": 55609,
+   "fin": 55649,
+   "rasgos": {
+    "type": "construction"
+   },
+   "texto": "Construcción con prismas de mármol negro"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 55651,
+   "fin": 55666,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "23 x 18 x 18 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 55651,
+   "fin": 55653,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 55656,
+   "fin": 55658,
+   "texto": "18"
+  },
+  {
+   "tipo": "depth",
+   "ini": 55661,
+   "fin": 55663,
+   "texto": "18"
+  },
+  {
+   "tipo": "date",
+   "ini": 55668,
+   "fin": 55672,
+   "rasgos": {
+    "when": "1994"
+   },
+   "texto": "1994"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 55674,
+   "fin": 55782
+  },
+  {
+   "tipo": "date",
+   "ini": 55769,
+   "fin": 55773,
+   "rasgos": {
+    "when": "1972"
+   },
+   "texto": "1972"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 55776,
+   "fin": 55988
+  },
+  {
+   "tipo": "img",
+   "ini": 55776,
+   "fin": 55781,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 55783,
+   "fin": 55988,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 55783,
+   "fin": 55825,
+   "texto": "OPOSICIÓN DE DOS DIEDROS [CRJO 9.2.22.003]"
+  },
+  {
+   "tipo": "technique",
+   "ini": 55826,
+   "fin": 55873,
+   "rasgos": {
+    "type": "construction"
+   },
+   "texto": "Construcción en chapa de acero pintado en negro"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 55875,
+   "fin": 55892,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "24,5 x 43 x 34 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 55875,
+   "fin": 55879,
+   "texto": "24,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 55882,
+   "fin": 55884,
+   "texto": "43"
+  },
+  {
+   "tipo": "depth",
+   "ini": 55887,
+   "fin": 55889,
+   "texto": "34"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 55894,
+   "fin": 55988
+  },
+  {
+   "tipo": "date",
+   "ini": 55911,
+   "fin": 55918,
+   "rasgos": {
+    "from": "1970",
+    "to": "1979"
+   },
+   "texto": "años 70"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 55990,
+   "fin": 56222
+  },
+  {
+   "tipo": "img",
+   "ini": 55990,
+   "fin": 55995,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 55997,
+   "fin": 56222,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 55997,
+   "fin": 56041,
+   "texto": "CONVERGENCIA PARA UN VACÍO [CRJO 8.1.14.001]"
+  },
+  {
+   "tipo": "technique",
+   "ini": 56042,
+   "fin": 56109,
+   "rasgos": {
+    "type": "construction"
+   },
+   "texto": "Construcción en chapa de acero pintado de negro sobre eje pivotante"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 56111,
+   "fin": 56128,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 53 x 44,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 56111,
+   "fin": 56113,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 56116,
+   "fin": 56118,
+   "texto": "53"
+  },
+  {
+   "tipo": "depth",
+   "ini": 56121,
+   "fin": 56125,
+   "texto": "44,5"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 56130,
+   "fin": 56222
+  },
+  {
+   "tipo": "date",
+   "ini": 56146,
+   "fin": 56155,
+   "rasgos": {
+    "from": "1971",
+    "to": "1975"
+   },
+   "texto": "1971–1975"
+  },
+  {
+   "tipo": "date",
+   "ini": 56185,
+   "fin": 56189,
+   "rasgos": {
+    "when": "1958"
+   },
+   "texto": "1958"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 56224,
+   "fin": 56529
+  },
+  {
+   "tipo": "img",
+   "ini": 56224,
+   "fin": 56229,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 56231,
+   "fin": 56529,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 56231,
+   "fin": 56305,
+   "texto": "CONSTRUCCIÓN VACÍA CON UNIDADES PLANAS POSITIVO NEGATIVO [CRJO 8.1.06.004]"
+  },
+  {
+   "tipo": "technique",
+   "ini": 56306,
+   "fin": 56349,
+   "rasgos": {
+    "type": "monochromatedSteel"
+   },
+   "texto": "Acero pintado de negro sobre base de piedra"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 56351,
+   "fin": 56370,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27,5 x 38,5 x 29 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 56351,
+   "fin": 56355,
+   "texto": "27,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 56358,
+   "fin": 56362,
+   "texto": "38,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 56365,
+   "fin": 56367,
+   "texto": "29"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 56372,
+   "fin": 56529
+  },
+  {
+   "tipo": "date",
+   "ini": 56388,
+   "fin": 56397,
+   "rasgos": {
+    "from": "1992",
+    "to": "1996"
+   },
+   "texto": "1992-1996"
+  }
+ ]
+}

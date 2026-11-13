@@ -1,0 +1,1637 @@
+{
+ "id": "cat_001_1_catalogo_carlos_lo1_catalogo_carlospez",
+ "nombre_original": "1-Catalogo-carlos-lo1-cATALOGO-Carlospez-paisajes-galeria-cortabitarte",
+ "longitud_texto": 8679,
+ "sha256_texto": "30fb96d9c173b5bfb95e2f9cb4a5211f39f944ee856965e1fe66fdfb439b2bc3",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 22,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 9,
+   "texto": "Paisajes\r"
+  },
+  {
+   "tipo": "person",
+   "ini": 10,
+   "fin": 22,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carlos López"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10,
+   "fin": 22,
+   "texto": "Carlos López"
+  },
+  {
+   "tipo": "institution",
+   "ini": 36,
+   "fin": 56,
+   "rasgos": {
+    "type": "gallery"
+   },
+   "texto": "Galería CortabitArte"
+  },
+  {
+   "tipo": "person",
+   "ini": 73,
+   "fin": 94,
+   "texto": "Sandra Verde González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 73,
+   "fin": 94,
+   "texto": "Sandra Verde González"
+  },
+  {
+   "tipo": "person",
+   "ini": 119,
+   "fin": 138,
+   "texto": "Lara Irigoyen Heras"
+  },
+  {
+   "tipo": "persName",
+   "ini": 119,
+   "fin": 138,
+   "texto": "Lara Irigoyen Heras"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 175,
+   "fin": 180,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Soria"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 184,
+   "fin": 231,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 184,
+   "fin": 192,
+   "texto": "Paisajes"
+  },
+  {
+   "tipo": "person",
+   "ini": 194,
+   "fin": 206,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carlos López"
+  },
+  {
+   "tipo": "persName",
+   "ini": 194,
+   "fin": 206,
+   "texto": "Carlos López"
+  },
+  {
+   "tipo": "date",
+   "ini": 210,
+   "fin": 231,
+   "rasgos": {
+    "null": ""
+   },
+   "texto": "Noviembre / Diciembre"
+  },
+  {
+   "tipo": "person",
+   "ini": 247,
+   "fin": 259,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carlos López"
+  },
+  {
+   "tipo": "persName",
+   "ini": 247,
+   "fin": 259,
+   "texto": "Carlos López"
+  },
+  {
+   "tipo": "person",
+   "ini": 298,
+   "fin": 310,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carlos López"
+  },
+  {
+   "tipo": "persName",
+   "ini": 298,
+   "fin": 310,
+   "texto": "Carlos López"
+  },
+  {
+   "tipo": "person",
+   "ini": 639,
+   "fin": 645,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carlos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 639,
+   "fin": 645,
+   "texto": "Carlos"
+  },
+  {
+   "tipo": "person",
+   "ini": 1247,
+   "fin": 1253,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carlos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1247,
+   "fin": 1253,
+   "texto": "Carlos"
+  },
+  {
+   "tipo": "person",
+   "ini": 1458,
+   "fin": 1464,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carlos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1458,
+   "fin": 1464,
+   "texto": "Carlos"
+  },
+  {
+   "tipo": "person",
+   "ini": 1869,
+   "fin": 1875,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carlos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1869,
+   "fin": 1875,
+   "texto": "Carlos"
+  },
+  {
+   "tipo": "person",
+   "ini": 2964,
+   "fin": 2970,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carlos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2964,
+   "fin": 2970,
+   "texto": "Carlos"
+  },
+  {
+   "tipo": "person",
+   "ini": 2986,
+   "fin": 2992,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carlos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2986,
+   "fin": 2992,
+   "texto": "Carlos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3174,
+   "fin": 3191,
+   "texto": "Benjamín Palencia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3193,
+   "fin": 3199,
+   "texto": "Beulas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3489,
+   "fin": 3497,
+   "texto": "Farreras"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3499,
+   "fin": 3505,
+   "texto": "Tapies"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3507,
+   "fin": 3514,
+   "texto": "Barceló"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3549,
+   "fin": 3555,
+   "texto": "Kiefer"
+  },
+  {
+   "tipo": "person",
+   "ini": 3663,
+   "fin": 3669,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carlos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3663,
+   "fin": 3669,
+   "texto": "Carlos"
+  },
+  {
+   "tipo": "person",
+   "ini": 3916,
+   "fin": 3931,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Juan Belzunegui"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3916,
+   "fin": 3931,
+   "texto": "Juan Belzunegui"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 3936,
+   "fin": 5009
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3936,
+   "fin": 3980
+  },
+  {
+   "tipo": "img",
+   "ini": 3936,
+   "fin": 3941,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3943,
+   "fin": 3980,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Árbol\r\n40x36 cm. - Mixta sobre tabla\r"
+  },
+  {
+   "tipo": "title",
+   "ini": 3943,
+   "fin": 3948,
+   "texto": "Árbol"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3950,
+   "fin": 3958,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40x36 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3950,
+   "fin": 3952,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 3953,
+   "fin": 3955,
+   "texto": "36"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3962,
+   "fin": 3979,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3983,
+   "fin": 4027
+  },
+  {
+   "tipo": "img",
+   "ini": 3983,
+   "fin": 3988,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3991,
+   "fin": 4027,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Árbol\r\n46x34 cm. - Mixta sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 3991,
+   "fin": 3996,
+   "texto": "Árbol"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3998,
+   "fin": 4006,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46x34 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3998,
+   "fin": 4000,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 4001,
+   "fin": 4003,
+   "texto": "34"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4010,
+   "fin": 4027,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4031,
+   "fin": 4084
+  },
+  {
+   "tipo": "img",
+   "ini": 4031,
+   "fin": 4036,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4039,
+   "fin": 4084,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Árbol, Doñana\r\n73x116 cm. - Mixta sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 4039,
+   "fin": 4052,
+   "texto": "Árbol, Doñana"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4054,
+   "fin": 4063,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "73x116 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4054,
+   "fin": 4056,
+   "texto": "73"
+  },
+  {
+   "tipo": "width",
+   "ini": 4057,
+   "fin": 4060,
+   "texto": "116"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4067,
+   "fin": 4084,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4087,
+   "fin": 4140
+  },
+  {
+   "tipo": "img",
+   "ini": 4087,
+   "fin": 4092,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4095,
+   "fin": 4141,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Tormenta\r\nDiámetro 40 cm. - Mixta sobre tabla\r"
+  },
+  {
+   "tipo": "title",
+   "ini": 4095,
+   "fin": 4103,
+   "texto": "Tormenta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4105,
+   "fin": 4119,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "Diámetro 40 cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 4114,
+   "fin": 4116,
+   "texto": "40"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4123,
+   "fin": 4140,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4144,
+   "fin": 4197
+  },
+  {
+   "tipo": "img",
+   "ini": 4144,
+   "fin": 4149,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4152,
+   "fin": 4197,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Tormenta\r\nDiámetro 41 cm. - Mixta sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 4152,
+   "fin": 4160,
+   "texto": "Tormenta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4162,
+   "fin": 4176,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "Diámetro 41 cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 4171,
+   "fin": 4173,
+   "texto": "41"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4180,
+   "fin": 4197,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4201,
+   "fin": 4247
+  },
+  {
+   "tipo": "img",
+   "ini": 4201,
+   "fin": 4206,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4209,
+   "fin": 4247,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Bardena\r\n73x65 cm. - Mixta sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 4209,
+   "fin": 4216,
+   "texto": "Bardena"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4218,
+   "fin": 4226,
+   "rasgos": {
+    "unit": "cn"
+   },
+   "texto": "73x65 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4218,
+   "fin": 4220,
+   "texto": "73"
+  },
+  {
+   "tipo": "width",
+   "ini": 4221,
+   "fin": 4223,
+   "texto": "65"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4230,
+   "fin": 4247,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4251,
+   "fin": 4298
+  },
+  {
+   "tipo": "img",
+   "ini": 4251,
+   "fin": 4256,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4259,
+   "fin": 4298,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Llanura\r\n24x116 cm. - Mixta sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 4259,
+   "fin": 4266,
+   "texto": "Llanura"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4268,
+   "fin": 4277,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "24x116 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4268,
+   "fin": 4270,
+   "texto": "24"
+  },
+  {
+   "tipo": "width",
+   "ini": 4271,
+   "fin": 4274,
+   "texto": "116"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4281,
+   "fin": 4298,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4302,
+   "fin": 4349
+  },
+  {
+   "tipo": "img",
+   "ini": 4302,
+   "fin": 4307,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4310,
+   "fin": 4349,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Llanura\r\n24x116 cm. - Mixta sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 4310,
+   "fin": 4317,
+   "texto": "Llanura"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4319,
+   "fin": 4328,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "24x116 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4319,
+   "fin": 4321,
+   "texto": "24"
+  },
+  {
+   "tipo": "width",
+   "ini": 4322,
+   "fin": 4325,
+   "texto": "116"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4332,
+   "fin": 4349,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4353,
+   "fin": 4399
+  },
+  {
+   "tipo": "img",
+   "ini": 4353,
+   "fin": 4358,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4361,
+   "fin": 4399,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Bardena\r\n35x45 cm. - Mixta sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 4361,
+   "fin": 4368,
+   "texto": "Bardena"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4370,
+   "fin": 4378,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35x45 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4370,
+   "fin": 4372,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 4373,
+   "fin": 4375,
+   "texto": "45"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4382,
+   "fin": 4399,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4402,
+   "fin": 4451
+  },
+  {
+   "tipo": "img",
+   "ini": 4403,
+   "fin": 4408,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4411,
+   "fin": 4451,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Llanura\r\n114x114 cm. - Mixta sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 4411,
+   "fin": 4418,
+   "texto": "Llanura"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4420,
+   "fin": 4430,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "114x114 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4420,
+   "fin": 4423,
+   "texto": "114"
+  },
+  {
+   "tipo": "width",
+   "ini": 4424,
+   "fin": 4427,
+   "texto": "114"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4434,
+   "fin": 4451,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4455,
+   "fin": 4500
+  },
+  {
+   "tipo": "img",
+   "ini": 4455,
+   "fin": 4460,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4463,
+   "fin": 4500,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Llanura\r\n49x99cm. - Mixta sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 4463,
+   "fin": 4470,
+   "texto": "Llanura"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4472,
+   "fin": 4479,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "49x99cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4472,
+   "fin": 4474,
+   "texto": "49"
+  },
+  {
+   "tipo": "width",
+   "ini": 4475,
+   "fin": 4477,
+   "texto": "99"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4483,
+   "fin": 4500,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4504,
+   "fin": 4549
+  },
+  {
+   "tipo": "img",
+   "ini": 4504,
+   "fin": 4509,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4512,
+   "fin": 4549,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Camino\r\n60x96 cm. - Mixta sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 4512,
+   "fin": 4518,
+   "texto": "Camino"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4520,
+   "fin": 4528,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60x96 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4520,
+   "fin": 4522,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 4523,
+   "fin": 4525,
+   "texto": "96"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4532,
+   "fin": 4549,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4553,
+   "fin": 4597
+  },
+  {
+   "tipo": "img",
+   "ini": 4553,
+   "fin": 4558,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4561,
+   "fin": 4597,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Monte\r\n35x45 cm. - Mixta sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 4561,
+   "fin": 4566,
+   "texto": "Monte"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4568,
+   "fin": 4576,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35x45 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4568,
+   "fin": 4570,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 4571,
+   "fin": 4573,
+   "texto": "45"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4580,
+   "fin": 4597,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4601,
+   "fin": 4652
+  },
+  {
+   "tipo": "img",
+   "ini": 4601,
+   "fin": 4606,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4609,
+   "fin": 4652,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Monte nevado\r\n81x81 cm. - Mixta sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 4609,
+   "fin": 4621,
+   "texto": "Monte nevado"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4623,
+   "fin": 4631,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81x81 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4623,
+   "fin": 4625,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 4626,
+   "fin": 4628,
+   "texto": "81"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4635,
+   "fin": 4652,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4656,
+   "fin": 4703
+  },
+  {
+   "tipo": "img",
+   "ini": 4656,
+   "fin": 4661,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4664,
+   "fin": 4703,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Tormenta\r\n35x116cm. - Mixta sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 4664,
+   "fin": 4672,
+   "texto": "Tormenta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4674,
+   "fin": 4682,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35x116cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4674,
+   "fin": 4676,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 4677,
+   "fin": 4680,
+   "texto": "116"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4686,
+   "fin": 4703,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4707,
+   "fin": 4748
+  },
+  {
+   "tipo": "img",
+   "ini": 4707,
+   "fin": 4712,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4715,
+   "fin": 4748,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Mar\r\n31x70 cm - Mixta sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 4715,
+   "fin": 4718,
+   "texto": "Mar"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4720,
+   "fin": 4728,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "31x70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4720,
+   "fin": 4722,
+   "texto": "31"
+  },
+  {
+   "tipo": "width",
+   "ini": 4723,
+   "fin": 4725,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4731,
+   "fin": 4748,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4751,
+   "fin": 4804
+  },
+  {
+   "tipo": "img",
+   "ini": 4752,
+   "fin": 4757,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4760,
+   "fin": 4804,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Mar atardecer\r\n90x130cm. - Mixta sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 4760,
+   "fin": 4773,
+   "texto": "Mar atardecer"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4775,
+   "fin": 4783,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "90x130cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4775,
+   "fin": 4777,
+   "texto": "90"
+  },
+  {
+   "tipo": "width",
+   "ini": 4778,
+   "fin": 4781,
+   "texto": "130"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4787,
+   "fin": 4804,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4808,
+   "fin": 4850
+  },
+  {
+   "tipo": "img",
+   "ini": 4808,
+   "fin": 4813,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4816,
+   "fin": 4850,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Mar\r\n49x36 cm. - Mixta sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 4816,
+   "fin": 4819,
+   "texto": "Mar"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4821,
+   "fin": 4829,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "49x36 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4821,
+   "fin": 4823,
+   "texto": "49"
+  },
+  {
+   "tipo": "width",
+   "ini": 4824,
+   "fin": 4826,
+   "texto": "36"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4833,
+   "fin": 4850,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4854,
+   "fin": 4907
+  },
+  {
+   "tipo": "img",
+   "ini": 4854,
+   "fin": 4859,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4862,
+   "fin": 4907,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Mar en azules\r\n114x92 cm. - Mixta sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 4862,
+   "fin": 4875,
+   "texto": "Mar en azules"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4877,
+   "fin": 4886,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "114x92 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4877,
+   "fin": 4880,
+   "texto": "114"
+  },
+  {
+   "tipo": "width",
+   "ini": 4881,
+   "fin": 4883,
+   "texto": "92"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4890,
+   "fin": 4907,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4911,
+   "fin": 4962
+  },
+  {
+   "tipo": "img",
+   "ini": 4911,
+   "fin": 4916,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4919,
+   "fin": 4962,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Mar Asturias\r\n41x35 cm. - Mixta sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 4919,
+   "fin": 4931,
+   "texto": "Mar Asturias"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4933,
+   "fin": 4941,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41x35 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4933,
+   "fin": 4935,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 4936,
+   "fin": 4938,
+   "texto": "35"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4945,
+   "fin": 4962,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4966,
+   "fin": 5008
+  },
+  {
+   "tipo": "img",
+   "ini": 4966,
+   "fin": 4971,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4974,
+   "fin": 5008,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Mar\r\n73x122cm. - Mixta sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 4974,
+   "fin": 4977,
+   "texto": "Mar"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4979,
+   "fin": 4987,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "73x122cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4979,
+   "fin": 4981,
+   "texto": "73"
+  },
+  {
+   "tipo": "width",
+   "ini": 4982,
+   "fin": 4985,
+   "texto": "122"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4991,
+   "fin": 5008,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tabla"
+  },
+  {
+   "tipo": "person",
+   "ini": 5014,
+   "fin": 5027,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "CARLOS LÓPEZ\r"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5014,
+   "fin": 5026,
+   "texto": "CARLOS LÓPEZ"
+  },
+  {
+   "tipo": "birth",
+   "ini": 5028,
+   "fin": 5050
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5028,
+   "fin": 5045,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Tudela, (Navarra)"
+  },
+  {
+   "tipo": "date",
+   "ini": 5046,
+   "fin": 5050,
+   "rasgos": {
+    "when": "1971"
+   },
+   "texto": "1971"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6529,
+   "fin": 6541,
+   "texto": "Alfredo Sada"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7718,
+   "fin": 7728,
+   "texto": "Pió Baroja"
+  },
+  {
+   "tipo": "institution",
+   "ini": 8552,
+   "fin": 8572,
+   "rasgos": {
+    "type": "government"
+   },
+   "texto": "Diputación de Soria\r"
+  },
+  {
+   "tipo": "institution",
+   "ini": 8582,
+   "fin": 8601,
+   "texto": "Caja rural do Soria"
+  },
+  {
+   "tipo": "address",
+   "ini": 8603,
+   "fin": 8647,
+   "texto": "C/ Mosquera de Bamuevo. 8 42004 - Soria\r\n32\r"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 8637,
+   "fin": 8642,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Soria"
+  }
+ ]
+}

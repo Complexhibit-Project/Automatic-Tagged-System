@@ -1,0 +1,1221 @@
+{
+ "id": "cat_074_catalogo_enero_2013",
+ "nombre_original": "catalógo ENERO 2013",
+ "longitud_texto": 3751,
+ "sha256_texto": "c306fec5e2c1d981a7c8aaae9f3e770316b2bde75d300e5ce4867cfeab13613f",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 259,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 0,
+   "fin": 115,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Vicerrectorado de extensión universitaria y relaciones internacionales\nÁrea de Cultura\nUniversidad de Huelva\nuhu.es"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 102,
+   "fin": 108,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Huelva"
+  },
+  {
+   "tipo": "title",
+   "ini": 117,
+   "fin": 129,
+   "texto": "Miniencuadro"
+  },
+  {
+   "tipo": "person",
+   "ini": 131,
+   "fin": 143,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Laura Millán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 131,
+   "fin": 143,
+   "texto": "Laura Millán"
+  },
+  {
+   "tipo": "date",
+   "ini": 149,
+   "fin": 184,
+   "rasgos": {
+    "from": "2013-01-15",
+    "to": "2013-02-07"
+   },
+   "texto": "15 de enero\nal 7 de febrero\nde 2013"
+  },
+  {
+   "tipo": "venue",
+   "ini": 186,
+   "fin": 259,
+   "texto": "Sala de Exposiciones de la Universidad de Huelva \nCampus Cantero Cuadrado"
+  },
+  {
+   "tipo": "institution",
+   "ini": 213,
+   "fin": 234,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "Universidad de Huelva"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 228,
+   "fin": 234,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Huelva"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 261,
+   "fin": 388,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 261,
+   "fin": 273,
+   "texto": "Miniencuadro"
+  },
+  {
+   "tipo": "date",
+   "ini": 279,
+   "fin": 314,
+   "rasgos": {
+    "from": "2013-01-15",
+    "to": "2013-02-07"
+   },
+   "texto": "15 de enero al 7 de febrero de 2013"
+  },
+  {
+   "tipo": "venue",
+   "ini": 316,
+   "fin": 388,
+   "texto": "Sala de Exposiciones de la Universidad de Huelva\nCampus Cantero Cuadrado"
+  },
+  {
+   "tipo": "institution",
+   "ini": 343,
+   "fin": 364,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Universidad de Huelva"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 358,
+   "fin": 364,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Huelva"
+  },
+  {
+   "tipo": "institution",
+   "ini": 397,
+   "fin": 418,
+   "rasgos": {
+    "type": "university",
+    "role": "editor"
+   },
+   "texto": "Universidad de Huelva"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 412,
+   "fin": 418,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Huelva"
+  },
+  {
+   "tipo": "work",
+   "ini": 428,
+   "fin": 506,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Catrina (01), Collage, 2012\n(50 x 50 cm. Cartulina, cartón pluma y miniaturas)"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 428,
+   "fin": 506
+  },
+  {
+   "tipo": "title",
+   "ini": 428,
+   "fin": 440,
+   "texto": "Catrina (01)"
+  },
+  {
+   "tipo": "technique",
+   "ini": 442,
+   "fin": 449,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "date",
+   "ini": 451,
+   "fin": 455,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 457,
+   "fin": 467,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 457,
+   "fin": 459,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 462,
+   "fin": 464,
+   "texto": "50"
+  },
+  {
+   "tipo": "material",
+   "ini": 469,
+   "fin": 505,
+   "rasgos": {
+    "type": "cardboard, miniature"
+   },
+   "texto": "Cartulina, cartón pluma y miniaturas"
+  },
+  {
+   "tipo": "institution",
+   "ini": 509,
+   "fin": 530,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Universidad de Huelva"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 524,
+   "fin": 530,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Huelva"
+  },
+  {
+   "tipo": "person",
+   "ini": 533,
+   "fin": 545,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Laura Millán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 533,
+   "fin": 545,
+   "texto": "Laura Millán"
+  },
+  {
+   "tipo": "person",
+   "ini": 572,
+   "fin": 615,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Laura Millán\n(1979, Sanlúcar de Bda. Cádiz)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 572,
+   "fin": 584,
+   "texto": "Laura Millán"
+  },
+  {
+   "tipo": "birth",
+   "ini": 586,
+   "fin": 615
+  },
+  {
+   "tipo": "date",
+   "ini": 586,
+   "fin": 590,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 592,
+   "fin": 614,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sanlúcar de Bda. Cádiz"
+  },
+  {
+   "tipo": "institution",
+   "ini": 690,
+   "fin": 716,
+   "rasgos": {
+    "type": "school"
+   },
+   "texto": "Escuela\nde Arte de Sevilla"
+  },
+  {
+   "tipo": "institution",
+   "ini": 772,
+   "fin": 799,
+   "rasgos": {
+    "type": "school"
+   },
+   "texto": "Escola\nMassana de Barcelona"
+  },
+  {
+   "tipo": "title",
+   "ini": 870,
+   "fin": 892,
+   "texto": "‘El envase reversible’"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 944,
+   "fin": 2067,
+   "rasgos": {
+    "type": "collage"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 944,
+   "fin": 958,
+   "texto": "“Miniencuadro”"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 959,
+   "fin": 2067
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 2861,
+   "fin": 3751
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2861,
+   "fin": 2932
+  },
+  {
+   "tipo": "img",
+   "ini": 2861,
+   "fin": 2866,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2868,
+   "fin": 2932,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Tokio\n(04), Collage, 2012\n23 x 23 cm.\nPapel, cartón y miniaturas"
+  },
+  {
+   "tipo": "title",
+   "ini": 2868,
+   "fin": 2878,
+   "texto": "Tokio\n(04)"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2880,
+   "fin": 2887,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "date",
+   "ini": 2889,
+   "fin": 2893,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2894,
+   "fin": 2904,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "23 x 23 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2894,
+   "fin": 2896,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 2899,
+   "fin": 2901,
+   "texto": "23"
+  },
+  {
+   "tipo": "material",
+   "ini": 2906,
+   "fin": 2932,
+   "rasgos": {
+    "type": "paper, cardboard, miniature"
+   },
+   "texto": "Papel, cartón y miniaturas"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2934,
+   "fin": 2998
+  },
+  {
+   "tipo": "img",
+   "ini": 2934,
+   "fin": 2939,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2941,
+   "fin": 2998,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Sombras\n(02), COLLAGE 2012\n23 x 23 cm.\nPapel y miniaturas"
+  },
+  {
+   "tipo": "title",
+   "ini": 2941,
+   "fin": 2953,
+   "texto": "Sombras\n(02)"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2955,
+   "fin": 2962,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "COLLAGE"
+  },
+  {
+   "tipo": "date",
+   "ini": 2963,
+   "fin": 2967,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2968,
+   "fin": 2978,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "23 x 23 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2968,
+   "fin": 2970,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 2973,
+   "fin": 2975,
+   "texto": "23"
+  },
+  {
+   "tipo": "material",
+   "ini": 2980,
+   "fin": 2998,
+   "rasgos": {
+    "type": "paper, miniature"
+   },
+   "texto": "Papel y miniaturas"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3000,
+   "fin": 3090
+  },
+  {
+   "tipo": "img",
+   "ini": 3000,
+   "fin": 3005,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3007,
+   "fin": 3090,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Beso noche\n(05), Collage, 2009\n14 x 14 cm.\nOjos de plástico, cartulina y miniaturas"
+  },
+  {
+   "tipo": "title",
+   "ini": 3007,
+   "fin": 3022,
+   "texto": "Beso noche\n(05)"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3024,
+   "fin": 3031,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "date",
+   "ini": 3033,
+   "fin": 3037,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3038,
+   "fin": 3048,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "14 x 14 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3038,
+   "fin": 3040,
+   "texto": "14"
+  },
+  {
+   "tipo": "width",
+   "ini": 3043,
+   "fin": 3045,
+   "texto": "14"
+  },
+  {
+   "tipo": "material",
+   "ini": 3050,
+   "fin": 3090,
+   "rasgos": {
+    "type": "plasticEye, cardboard, miniature"
+   },
+   "texto": "Ojos de plástico, cartulina y miniaturas"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3092,
+   "fin": 3172
+  },
+  {
+   "tipo": "img",
+   "ini": 3092,
+   "fin": 3097,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3099,
+   "fin": 3172,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "El Hierro\n(02), Collage, 2012\n23 x 23 cm.\nAcetato, cartulina y miniaturas"
+  },
+  {
+   "tipo": "title",
+   "ini": 3099,
+   "fin": 3113,
+   "texto": "El Hierro\n(02)"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3115,
+   "fin": 3122,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "date",
+   "ini": 3124,
+   "fin": 3128,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3129,
+   "fin": 3139,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "23 x 23 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3129,
+   "fin": 3131,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 3134,
+   "fin": 3136,
+   "texto": "23"
+  },
+  {
+   "tipo": "material",
+   "ini": 3141,
+   "fin": 3172,
+   "rasgos": {
+    "type": "acetate, cardboard, miniature"
+   },
+   "texto": "Acetato, cartulina y miniaturas"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3174,
+   "fin": 3252
+  },
+  {
+   "tipo": "img",
+   "ini": 3174,
+   "fin": 3179,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3181,
+   "fin": 3252,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Monopol\n(03), Collage, 2012\n23 x 23 cm.\nTerciopelo, cartón y miniaturas"
+  },
+  {
+   "tipo": "title",
+   "ini": 3181,
+   "fin": 3193,
+   "texto": "Monopol\n(03)"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3195,
+   "fin": 3202,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "date",
+   "ini": 3204,
+   "fin": 3208,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3209,
+   "fin": 3219,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "23 x 23 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3209,
+   "fin": 3211,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 3214,
+   "fin": 3216,
+   "texto": "23"
+  },
+  {
+   "tipo": "material",
+   "ini": 3221,
+   "fin": 3252,
+   "rasgos": {
+    "type": "velvet, cardboard, miniature"
+   },
+   "texto": "Terciopelo, cartón y miniaturas"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3254,
+   "fin": 3322
+  },
+  {
+   "tipo": "img",
+   "ini": 3254,
+   "fin": 3259,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3261,
+   "fin": 3322,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Engranajes\n(08), Collage, 2012\n41 x 21 cm.\nPapel y miniaturas"
+  },
+  {
+   "tipo": "title",
+   "ini": 3261,
+   "fin": 3276,
+   "texto": "Engranajes\n(08)"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3278,
+   "fin": 3285,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "date",
+   "ini": 3287,
+   "fin": 3291,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3292,
+   "fin": 3302,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 21 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3292,
+   "fin": 3294,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 3297,
+   "fin": 3299,
+   "texto": "21"
+  },
+  {
+   "tipo": "material",
+   "ini": 3304,
+   "fin": 3322,
+   "rasgos": {
+    "type": "paper, miniature"
+   },
+   "texto": "Papel y miniaturas"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3324,
+   "fin": 3419
+  },
+  {
+   "tipo": "img",
+   "ini": 3324,
+   "fin": 3329,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3331,
+   "fin": 3419,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Zona franca\n(02), Collage, 2012\n23 x 23 cm.\nCartón pluma, acetato, acrílico y miniaturas"
+  },
+  {
+   "tipo": "title",
+   "ini": 3331,
+   "fin": 3347,
+   "texto": "Zona franca\n(02)"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3349,
+   "fin": 3356,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "date",
+   "ini": 3358,
+   "fin": 3362,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3363,
+   "fin": 3373,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "23 x 23 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3363,
+   "fin": 3365,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 3368,
+   "fin": 3370,
+   "texto": "23"
+  },
+  {
+   "tipo": "material",
+   "ini": 3375,
+   "fin": 3419,
+   "rasgos": {
+    "type": "cardboard, acetate, acrylic, miniature"
+   },
+   "texto": "Cartón pluma, acetato, acrílico y miniaturas"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3421,
+   "fin": 3494
+  },
+  {
+   "tipo": "img",
+   "ini": 3421,
+   "fin": 3426,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3428,
+   "fin": 3494,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Feria\n(02), Collage, 2012\n23 x 23 cm.\nCartulina, lija y miniaturas"
+  },
+  {
+   "tipo": "title",
+   "ini": 3428,
+   "fin": 3438,
+   "texto": "Feria\n(02)"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3440,
+   "fin": 3447,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "date",
+   "ini": 3449,
+   "fin": 3453,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3454,
+   "fin": 3464,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "23 x 23 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3454,
+   "fin": 3456,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 3459,
+   "fin": 3461,
+   "texto": "23"
+  },
+  {
+   "tipo": "material",
+   "ini": 3466,
+   "fin": 3494,
+   "rasgos": {
+    "type": "cardboard, sandpaper, miniature"
+   },
+   "texto": "Cartulina, lija y miniaturas"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3496,
+   "fin": 3576
+  },
+  {
+   "tipo": "img",
+   "ini": 3496,
+   "fin": 3501,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3503,
+   "fin": 3576,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Maratón\n(03), Collage, 2012\n50 x 50 cm.\nAcrílico, foam, hilo y miniaturas"
+  },
+  {
+   "tipo": "title",
+   "ini": 3503,
+   "fin": 3515,
+   "texto": "Maratón\n(03)"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3517,
+   "fin": 3524,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "date",
+   "ini": 3526,
+   "fin": 3530,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3531,
+   "fin": 3541,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3531,
+   "fin": 3533,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 3536,
+   "fin": 3538,
+   "texto": "50"
+  },
+  {
+   "tipo": "material",
+   "ini": 3543,
+   "fin": 3576,
+   "rasgos": {
+    "type": "acrylic, foam, thread, miniature"
+   },
+   "texto": "Acrílico, foam, hilo y miniaturas"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3578,
+   "fin": 3654
+  },
+  {
+   "tipo": "img",
+   "ini": 3578,
+   "fin": 3583,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3585,
+   "fin": 3654,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Limpiacristales\n(01), Collage, 2012\n50 x 50 cm.\nAcrílico y miniaturas"
+  },
+  {
+   "tipo": "title",
+   "ini": 3585,
+   "fin": 3605,
+   "texto": "Limpiacristales\n(01)"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3607,
+   "fin": 3614,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "date",
+   "ini": 3616,
+   "fin": 3620,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3621,
+   "fin": 3631,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3621,
+   "fin": 3623,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 3626,
+   "fin": 3628,
+   "texto": "50"
+  },
+  {
+   "tipo": "material",
+   "ini": 3633,
+   "fin": 3654,
+   "rasgos": {
+    "type": "acrylic, miniature"
+   },
+   "texto": "Acrílico y miniaturas"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3656,
+   "fin": 3749
+  },
+  {
+   "tipo": "img",
+   "ini": 3656,
+   "fin": 3661,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 3662,
+   "fin": 3667,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 3669,
+   "fin": 3749,
+   "rasgos": {
+    "type": "collage",
+    "size": "2"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 3669,
+   "fin": 3682,
+   "texto": "Pintores\n(03)"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3684,
+   "fin": 3691,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "date",
+   "ini": 3693,
+   "fin": 3697,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 3698,
+   "fin": 3715
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3719,
+   "fin": 3729,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "23 x 23 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3719,
+   "fin": 3721,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 3724,
+   "fin": 3726,
+   "texto": "23"
+  },
+  {
+   "tipo": "material",
+   "ini": 3731,
+   "fin": 3749,
+   "rasgos": {
+    "type": "paper, miniature"
+   },
+   "texto": "Papel y miniaturas"
+  }
+ ]
+}

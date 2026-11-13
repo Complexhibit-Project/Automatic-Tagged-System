@@ -1,0 +1,1130 @@
+{
+ "id": "cat_039_catalogo_agustinhernandez",
+ "nombre_original": "catalogo-agustinhernandez",
+ "longitud_texto": 9476,
+ "sha256_texto": "783ccbbd565a5440ee19db993838f144f0f01bf3788c457645e64103f1cc7e75",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 116,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 18,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Agustín Hernández "
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 18,
+   "texto": "Agustín Hernández "
+  },
+  {
+   "tipo": "title",
+   "ini": 19,
+   "fin": 33,
+   "texto": "Davama / Zian\r"
+  },
+  {
+   "tipo": "institution",
+   "ini": 36,
+   "fin": 116,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Universidad de Las Palmas de Gran Canaria\r\nVicerrectorado de Cultura y sociedad\r"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 51,
+   "fin": 77,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Las Palmas de Gran Canaria"
+  },
+  {
+   "tipo": "person",
+   "ini": 157,
+   "fin": 174,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Agustín Hernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 157,
+   "fin": 174,
+   "texto": "Agustín Hernández"
+  },
+  {
+   "tipo": "person",
+   "ini": 625,
+   "fin": 642,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Agustín Hernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 625,
+   "fin": 642,
+   "texto": "Agustín Hernández"
+  },
+  {
+   "tipo": "person",
+   "ini": 1581,
+   "fin": 1598,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Agustín Hernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1581,
+   "fin": 1598,
+   "texto": "Agustín Hernández"
+  },
+  {
+   "tipo": "person",
+   "ini": 2672,
+   "fin": 2689,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Agustín Hernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2672,
+   "fin": 2689,
+   "texto": "Agustín Hernández"
+  },
+  {
+   "tipo": "person",
+   "ini": 3363,
+   "fin": 3380,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Agustín Hernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3363,
+   "fin": 3380,
+   "texto": "Agustín Hernández"
+  },
+  {
+   "tipo": "person",
+   "ini": 5008,
+   "fin": 5025,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Agustín Hernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5008,
+   "fin": 5025,
+   "texto": "Agustín Hernández"
+  },
+  {
+   "tipo": "person",
+   "ini": 5174,
+   "fin": 5191,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Agustín Hernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5174,
+   "fin": 5191,
+   "texto": "Agustín Hernández"
+  },
+  {
+   "tipo": "person",
+   "ini": 5721,
+   "fin": 5738,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Agustín Hernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5721,
+   "fin": 5738,
+   "texto": "Agustín Hernández"
+  },
+  {
+   "tipo": "person",
+   "ini": 6033,
+   "fin": 6050,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Agustín Hernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6033,
+   "fin": 6050,
+   "texto": "Agustín Hernández"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 6195,
+   "fin": 6861
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6195,
+   "fin": 6267
+  },
+  {
+   "tipo": "img",
+   "ini": 6195,
+   "fin": 6200,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6203,
+   "fin": 6267,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "\"DAVAMA\" , 2012-2013.\r\nPino radial, vinilo. 16  x  48  x  16 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 6204,
+   "fin": 6210,
+   "texto": "DAVAMA"
+  },
+  {
+   "tipo": "date",
+   "ini": 6214,
+   "fin": 6223,
+   "rasgos": {
+    "from": "2012",
+    "to": "2013"
+   },
+   "texto": "2012-2013"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6226,
+   "fin": 6245,
+   "rasgos": {
+    "type": "wood, vynil"
+   },
+   "texto": "Pino radial, vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6247,
+   "fin": 6266,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "16  x  48  x  16 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6247,
+   "fin": 6249,
+   "texto": "16"
+  },
+  {
+   "tipo": "width",
+   "ini": 6254,
+   "fin": 6256,
+   "texto": "48"
+  },
+  {
+   "tipo": "depth",
+   "ini": 6261,
+   "fin": 6263,
+   "texto": "16"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6271,
+   "fin": 6343
+  },
+  {
+   "tipo": "img",
+   "ini": 6271,
+   "fin": 6276,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6279,
+   "fin": 6343,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "\"DAVAMA\" , 2012-2013.\r\nPino radial, vinilo. 16  x  40  x  24 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 6280,
+   "fin": 6286,
+   "texto": "DAVAMA"
+  },
+  {
+   "tipo": "date",
+   "ini": 6290,
+   "fin": 6299,
+   "rasgos": {
+    "from": "2012",
+    "to": "2013"
+   },
+   "texto": "2012-2013"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6302,
+   "fin": 6321,
+   "rasgos": {
+    "type": "wood, vynil"
+   },
+   "texto": "Pino radial, vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6323,
+   "fin": 6342,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "16  x  40  x  24 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6323,
+   "fin": 6325,
+   "texto": "16"
+  },
+  {
+   "tipo": "width",
+   "ini": 6330,
+   "fin": 6332,
+   "texto": "40"
+  },
+  {
+   "tipo": "depth",
+   "ini": 6337,
+   "fin": 6339,
+   "texto": "24"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6347,
+   "fin": 6419
+  },
+  {
+   "tipo": "img",
+   "ini": 6347,
+   "fin": 6352,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6355,
+   "fin": 6419,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "\"DAVAMA\" , 2012-2013.\r\nPino radial, vinilo. 28  x  56  x  12 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 6356,
+   "fin": 6362,
+   "texto": "DAVAMA"
+  },
+  {
+   "tipo": "date",
+   "ini": 6366,
+   "fin": 6375,
+   "rasgos": {
+    "from": "2012",
+    "to": "2013"
+   },
+   "texto": "2012-2013"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6378,
+   "fin": 6397,
+   "rasgos": {
+    "type": "wood, vynil"
+   },
+   "texto": "Pino radial, vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6399,
+   "fin": 6418,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "28  x  56  x  12 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6399,
+   "fin": 6401,
+   "texto": "28"
+  },
+  {
+   "tipo": "width",
+   "ini": 6406,
+   "fin": 6408,
+   "texto": "56"
+  },
+  {
+   "tipo": "depth",
+   "ini": 6413,
+   "fin": 6415,
+   "texto": "12"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6423,
+   "fin": 6495
+  },
+  {
+   "tipo": "img",
+   "ini": 6423,
+   "fin": 6428,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6431,
+   "fin": 6495,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "\"DAVAMA\" , 2012-2013.\r\nPino radial, vinilo. 16  x  40  x  24 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 6432,
+   "fin": 6438,
+   "texto": "DAVAMA"
+  },
+  {
+   "tipo": "date",
+   "ini": 6442,
+   "fin": 6451,
+   "rasgos": {
+    "from": "2012",
+    "to": "2013"
+   },
+   "texto": "2012-2013"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6454,
+   "fin": 6473,
+   "rasgos": {
+    "type": "wood, vynil"
+   },
+   "texto": "Pino radial, vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6475,
+   "fin": 6494,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "16  x  40  x  24 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6475,
+   "fin": 6477,
+   "texto": "16"
+  },
+  {
+   "tipo": "width",
+   "ini": 6482,
+   "fin": 6484,
+   "texto": "40"
+  },
+  {
+   "tipo": "depth",
+   "ini": 6489,
+   "fin": 6491,
+   "texto": "24"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6499,
+   "fin": 6569
+  },
+  {
+   "tipo": "img",
+   "ini": 6499,
+   "fin": 6504,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6507,
+   "fin": 6569,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "\"ZIAN\" , 2016-2017.\r\nPino radial, vinilo. 16  x  36  x  32 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 6508,
+   "fin": 6512,
+   "texto": "ZIAN"
+  },
+  {
+   "tipo": "date",
+   "ini": 6516,
+   "fin": 6525,
+   "rasgos": {
+    "from": "2016",
+    "to": "2017"
+   },
+   "texto": "2016-2017"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6528,
+   "fin": 6547,
+   "rasgos": {
+    "type": "wood, vynil"
+   },
+   "texto": "Pino radial, vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6549,
+   "fin": 6568,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "16  x  36  x  32 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6549,
+   "fin": 6551,
+   "texto": "16"
+  },
+  {
+   "tipo": "width",
+   "ini": 6556,
+   "fin": 6558,
+   "texto": "36"
+  },
+  {
+   "tipo": "depth",
+   "ini": 6563,
+   "fin": 6565,
+   "texto": "32"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6573,
+   "fin": 6643
+  },
+  {
+   "tipo": "img",
+   "ini": 6573,
+   "fin": 6578,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6581,
+   "fin": 6643,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "\"ZIAN\" , 2016-2017.\r\nPino radial, vinilo. 16  x  40  x  24 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 6582,
+   "fin": 6586,
+   "texto": "ZIAN"
+  },
+  {
+   "tipo": "date",
+   "ini": 6590,
+   "fin": 6599,
+   "rasgos": {
+    "from": "2016",
+    "to": "2017"
+   },
+   "texto": "2016-2017"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6602,
+   "fin": 6621,
+   "rasgos": {
+    "type": "wood, vynil"
+   },
+   "texto": "Pino radial, vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6623,
+   "fin": 6642,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "16  x  40  x  24 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6623,
+   "fin": 6625,
+   "texto": "16"
+  },
+  {
+   "tipo": "width",
+   "ini": 6630,
+   "fin": 6632,
+   "texto": "40"
+  },
+  {
+   "tipo": "depth",
+   "ini": 6637,
+   "fin": 6639,
+   "texto": "24"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6647,
+   "fin": 6715
+  },
+  {
+   "tipo": "img",
+   "ini": 6647,
+   "fin": 6652,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6655,
+   "fin": 6716,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ZIAN , 2016-2017.\r\nPino radial, vinilo. 16  x  44  x  24 cm.\r"
+  },
+  {
+   "tipo": "title",
+   "ini": 6655,
+   "fin": 6659,
+   "texto": "ZIAN"
+  },
+  {
+   "tipo": "date",
+   "ini": 6662,
+   "fin": 6671,
+   "texto": "2016-2017"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6674,
+   "fin": 6693,
+   "rasgos": {
+    "type": "wood, vynil"
+   },
+   "texto": "Pino radial, vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6695,
+   "fin": 6714,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "16  x  44  x  24 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6695,
+   "fin": 6697,
+   "texto": "16"
+  },
+  {
+   "tipo": "width",
+   "ini": 6702,
+   "fin": 6704,
+   "texto": "44"
+  },
+  {
+   "tipo": "depth",
+   "ini": 6709,
+   "fin": 6711,
+   "texto": "24"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6719,
+   "fin": 6787
+  },
+  {
+   "tipo": "img",
+   "ini": 6719,
+   "fin": 6724,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6727,
+   "fin": 6788,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ZIAN , 2016-2017.\r\nPino radial, vinilo. 16  x  44  x  24 cm.\r"
+  },
+  {
+   "tipo": "title",
+   "ini": 6727,
+   "fin": 6731,
+   "texto": "ZIAN"
+  },
+  {
+   "tipo": "date",
+   "ini": 6734,
+   "fin": 6743,
+   "rasgos": {
+    "from": "2016",
+    "to": "2017"
+   },
+   "texto": "2016-2017"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6746,
+   "fin": 6765,
+   "rasgos": {
+    "type": "wood, vynil"
+   },
+   "texto": "Pino radial, vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6767,
+   "fin": 6786,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "16  x  44  x  24 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6767,
+   "fin": 6769,
+   "texto": "16"
+  },
+  {
+   "tipo": "width",
+   "ini": 6774,
+   "fin": 6776,
+   "texto": "44"
+  },
+  {
+   "tipo": "depth",
+   "ini": 6781,
+   "fin": 6783,
+   "texto": "24"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6791,
+   "fin": 6860
+  },
+  {
+   "tipo": "img",
+   "ini": 6791,
+   "fin": 6796,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6798,
+   "fin": 6861,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "\"ZIAN\" , 2016-2017.\r\nPino radial, vinilo. 16  x  48  x  16 cm.\r"
+  },
+  {
+   "tipo": "title",
+   "ini": 6799,
+   "fin": 6803,
+   "texto": "ZIAN"
+  },
+  {
+   "tipo": "date",
+   "ini": 6807,
+   "fin": 6816,
+   "rasgos": {
+    "from": "2016",
+    "to": "2017"
+   },
+   "texto": "2016-2017"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6819,
+   "fin": 6838,
+   "rasgos": {
+    "type": "wood, vynil"
+   },
+   "texto": "Pino radial, vinilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6840,
+   "fin": 6859,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "16  x  48  x  16 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6840,
+   "fin": 6842,
+   "texto": "16"
+  },
+  {
+   "tipo": "width",
+   "ini": 6847,
+   "fin": 6849,
+   "texto": "48"
+  },
+  {
+   "tipo": "depth",
+   "ini": 6854,
+   "fin": 6856,
+   "texto": "16"
+  },
+  {
+   "tipo": "person",
+   "ini": 6866,
+   "fin": 6884,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Agustin Hernández\r"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 8522,
+   "fin": 8962,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 8530,
+   "fin": 8552,
+   "rasgos": {
+    "role": "rector"
+   },
+   "texto": "Rafael Robaina Romero\r"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8530,
+   "fin": 8551,
+   "texto": "Rafael Robaina Romero"
+  },
+  {
+   "tipo": "person",
+   "ini": 8590,
+   "fin": 8623,
+   "rasgos": {
+    "role": "viceRector"
+   },
+   "texto": "Ma del Pino Quintana Montesdeoca\r"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8590,
+   "fin": 8622,
+   "texto": "Ma del Pino Quintana Montesdeoca"
+  },
+  {
+   "tipo": "person",
+   "ini": 8668,
+   "fin": 8689,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Soraya García Sánchez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8668,
+   "fin": 8689,
+   "texto": "Soraya García Sánchez"
+  },
+  {
+   "tipo": "person",
+   "ini": 8719,
+   "fin": 8730,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "Mapi Moreno"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8719,
+   "fin": 8730,
+   "texto": "Mapi Moreno"
+  },
+  {
+   "tipo": "person",
+   "ini": 8741,
+   "fin": 8757,
+   "rasgos": {
+    "role": "assembler"
+   },
+   "texto": "Fernando Márquez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8741,
+   "fin": 8757,
+   "texto": "Fernando Márquez"
+  },
+  {
+   "tipo": "person",
+   "ini": 8759,
+   "fin": 8770,
+   "rasgos": {
+    "role": "assembler"
+   },
+   "texto": "Mapi Moreno"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8759,
+   "fin": 8770,
+   "texto": "Mapi Moreno"
+  },
+  {
+   "tipo": "person",
+   "ini": 8772,
+   "fin": 8788,
+   "rasgos": {
+    "role": "assebler"
+   },
+   "texto": "Diego Rodríguez\r"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8772,
+   "fin": 8787,
+   "texto": "Diego Rodríguez"
+  },
+  {
+   "tipo": "person",
+   "ini": 8809,
+   "fin": 8824,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Angeles Alemán\r"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8809,
+   "fin": 8823,
+   "texto": "Angeles Alemán"
+  },
+  {
+   "tipo": "person",
+   "ini": 8839,
+   "fin": 8849,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "José Bueno"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8839,
+   "fin": 8849,
+   "texto": "José Bueno"
+  },
+  {
+   "tipo": "person",
+   "ini": 8860,
+   "fin": 8874,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "Pedro J. Pérez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8860,
+   "fin": 8874,
+   "texto": "Pedro J. Pérez"
+  },
+  {
+   "tipo": "person",
+   "ini": 8917,
+   "fin": 8933,
+   "rasgos": {
+    "role": "layout"
+   },
+   "texto": "Diego Rodríguez\r"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8917,
+   "fin": 8932,
+   "texto": "Diego Rodríguez"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 9166,
+   "fin": 9476,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 9166,
+   "fin": 9245,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "universidad de las palmas de gran canaría\r\nVicenrctorado de Cultura y Sociedad\r"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 9181,
+   "fin": 9207,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "las palmas de gran canaría"
+  },
+  {
+   "tipo": "institution",
+   "ini": 9247,
+   "fin": 9306,
+   "rasgos": {
+    "type": "gallery, university",
+    "role": "organiser, host"
+   },
+   "texto": "Galería de Arte\r\nUniversidad de Las Palmas de Gran Canaria\r"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 9279,
+   "fin": 9306,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Las Palmas de Gran Canaria\r"
+  },
+  {
+   "tipo": "address",
+   "ini": 9327,
+   "fin": 9394,
+   "texto": "C/Juan de Quesada,n°30\r\n35001 -Las Palmas de Gran Canaria (España)\r"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 9358,
+   "fin": 9394,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Las Palmas de Gran Canaria (España)\r"
+  },
+  {
+   "tipo": "date",
+   "ini": 9413,
+   "fin": 9450,
+   "rasgos": {
+    "from": "2017-11-10",
+    "to": "2017-12-15"
+   },
+   "texto": "10 de noviembre-15 de diciembre 2017\r"
+  }
+ ]
+}

@@ -1,0 +1,6564 @@
+{
+ "id": "cat_100_xaverio_una_perspectiva_cuantica_catalog",
+ "nombre_original": "xaverio-una-perspectiva-cuantica-catalogo",
+ "longitud_texto": 75167,
+ "sha256_texto": "4c4635ceabf655f7e80c5aa3b6de19837c9470b9e72e0237925f24f2a2ef614a",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 795,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 44,
+   "texto": "Xaverio\nUNA PERSPECTIVA CUÁNTICA\n1975 – 2018"
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 7,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 7,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "date",
+   "ini": 33,
+   "fin": 44,
+   "rasgos": {
+    "from": "1975",
+    "to": "2018"
+   },
+   "texto": "1975 – 2018"
+  },
+  {
+   "tipo": "institution",
+   "ini": 46,
+   "fin": 78,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser, host"
+   },
+   "texto": "Instituto de América de Santa Fe"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 70,
+   "fin": 78,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Santa Fe"
+  },
+  {
+   "tipo": "date",
+   "ini": 79,
+   "fin": 116,
+   "rasgos": {
+    "from": "2018-04-10",
+    "to": "2018-05-20"
+   },
+   "texto": "Del 10 de abril al 20 de mayo de 2018"
+  },
+  {
+   "tipo": "institution",
+   "ini": 119,
+   "fin": 151,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser, hsot"
+   },
+   "texto": "INSTITUTO DE AMÉRICA DE SANTA FE"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 143,
+   "fin": 151,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "SANTA FE"
+  },
+  {
+   "tipo": "person",
+   "ini": 172,
+   "fin": 197,
+   "rasgos": {
+    "role": "mayor"
+   },
+   "texto": "Manuel Alberto Gil Corral"
+  },
+  {
+   "tipo": "persName",
+   "ini": 172,
+   "fin": 197,
+   "texto": "Manuel Alberto Gil Corral"
+  },
+  {
+   "tipo": "person",
+   "ini": 219,
+   "fin": 243,
+   "rasgos": {
+    "role": "cityCouncillor"
+   },
+   "texto": "Patricia Carrasco Flores"
+  },
+  {
+   "tipo": "persName",
+   "ini": 219,
+   "fin": 243,
+   "texto": "Patricia Carrasco Flores"
+  },
+  {
+   "tipo": "person",
+   "ini": 253,
+   "fin": 285,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Juan Antonio Jiménez Villafranca"
+  },
+  {
+   "tipo": "persName",
+   "ini": 253,
+   "fin": 285,
+   "texto": "Juan Antonio Jiménez Villafranca"
+  },
+  {
+   "tipo": "institution",
+   "ini": 308,
+   "fin": 340,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser, host"
+   },
+   "texto": "Instituto de América de Santa Fe"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 332,
+   "fin": 340,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Santa Fe"
+  },
+  {
+   "tipo": "person",
+   "ini": 353,
+   "fin": 385,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Juan Antonio Jiménez Villafranca"
+  },
+  {
+   "tipo": "persName",
+   "ini": 353,
+   "fin": 385,
+   "texto": "Juan Antonio Jiménez Villafranca"
+  },
+  {
+   "tipo": "person",
+   "ini": 386,
+   "fin": 411,
+   "rasgos": {
+    "role": "exhibiitionCurator"
+   },
+   "texto": "José Antonio Ortega Hitos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 386,
+   "fin": 411,
+   "texto": "José Antonio Ortega Hitos"
+  },
+  {
+   "tipo": "person",
+   "ini": 425,
+   "fin": 445,
+   "rasgos": {
+    "role": "compositor"
+   },
+   "texto": "Henry Vincent Kneuer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 425,
+   "fin": 445,
+   "texto": "Henry Vincent Kneuer"
+  },
+  {
+   "tipo": "institution",
+   "ini": 539,
+   "fin": 567,
+   "rasgos": {
+    "type": "company",
+    "role": "printer"
+   },
+   "texto": "Bodonia Artes Gráficas, S.L."
+  },
+  {
+   "tipo": "person",
+   "ini": 579,
+   "fin": 591,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Thomas Busse"
+  },
+  {
+   "tipo": "persName",
+   "ini": 579,
+   "fin": 591,
+   "texto": "Thomas Busse"
+  },
+  {
+   "tipo": "institution",
+   "ini": 598,
+   "fin": 622,
+   "rasgos": {
+    "type": "townHall",
+    "role": "editor"
+   },
+   "texto": "Ayuntamiento de Santa Fe"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 614,
+   "fin": 622,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Santa Fe"
+  },
+  {
+   "tipo": "institution",
+   "ini": 641,
+   "fin": 665,
+   "rasgos": {
+    "type": "townHall",
+    "role": "editor"
+   },
+   "texto": "Ayuntamiento de Santa Fe"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 657,
+   "fin": 665,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Santa Fe"
+  },
+  {
+   "tipo": "person",
+   "ini": 714,
+   "fin": 735,
+   "rasgos": {
+    "role": "ownerPhotograph"
+   },
+   "texto": "Javier Muñoz Bullejos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 714,
+   "fin": 735,
+   "texto": "Javier Muñoz Bullejos"
+  },
+  {
+   "tipo": "person",
+   "ini": 738,
+   "fin": 750,
+   "rasgos": {
+    "role": "ownerPhotograph"
+   },
+   "texto": "Thomas Busse"
+  },
+  {
+   "tipo": "persName",
+   "ini": 738,
+   "fin": 750,
+   "texto": "Thomas Busse"
+  },
+  {
+   "tipo": "person",
+   "ini": 822,
+   "fin": 856,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Thomas Busse\n(25 de enero de 1957)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 822,
+   "fin": 834,
+   "texto": "Thomas Busse"
+  },
+  {
+   "tipo": "date",
+   "ini": 836,
+   "fin": 855,
+   "rasgos": {
+    "when": "1957-01-25"
+   },
+   "texto": "25 de enero de 1957"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1011,
+   "fin": 1067,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 1023,
+   "fin": 1066,
+   "texto": "Xaverio, una perspectiva cuática. 1975-2018"
+  },
+  {
+   "tipo": "person",
+   "ini": 1023,
+   "fin": 1030,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1023,
+   "fin": 1030,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "date",
+   "ini": 1057,
+   "fin": 1066,
+   "rasgos": {
+    "from": "1975",
+    "to": "2018"
+   },
+   "texto": "1975-2018"
+  },
+  {
+   "tipo": "person",
+   "ini": 1140,
+   "fin": 1147,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1140,
+   "fin": 1147,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 1226,
+   "fin": 1273,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Henry Vincent Kneuer\n(28 de septiembre de 1953)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1226,
+   "fin": 1246,
+   "texto": "Henry Vincent Kneuer"
+  },
+  {
+   "tipo": "date",
+   "ini": 1248,
+   "fin": 1272,
+   "rasgos": {
+    "when": "1953-09-28"
+   },
+   "texto": "28 de septiembre de 1953"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1699,
+   "fin": 1755,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 1711,
+   "fin": 1754,
+   "texto": "Xaverio, una perspectiva cuática. 1975-2018"
+  },
+  {
+   "tipo": "person",
+   "ini": 1711,
+   "fin": 1718,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1711,
+   "fin": 1718,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "date",
+   "ini": 1745,
+   "fin": 1754,
+   "rasgos": {
+    "from": "1975",
+    "to": "2018"
+   },
+   "texto": "1975-2018"
+  },
+  {
+   "tipo": "person",
+   "ini": 1804,
+   "fin": 1811,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1804,
+   "fin": 1811,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1812,
+   "fin": 1844,
+   "texto": "Juan Antonio Jiménez Villafranca"
+  },
+  {
+   "tipo": "person",
+   "ini": 1812,
+   "fin": 1844,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Juan Antonio Jiménez Villafranca"
+  },
+  {
+   "tipo": "person",
+   "ini": 1847,
+   "fin": 1854,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1847,
+   "fin": 1854,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 1925,
+   "fin": 1932,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1925,
+   "fin": 1932,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 2017,
+   "fin": 2042,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "José Antonio Ortega Hitos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2017,
+   "fin": 2042,
+   "texto": "José Antonio Ortega Hitos"
+  },
+  {
+   "tipo": "person",
+   "ini": 2593,
+   "fin": 2600,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2593,
+   "fin": 2600,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 3318,
+   "fin": 3325,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3318,
+   "fin": 3325,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 3770,
+   "fin": 3777,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3770,
+   "fin": 3777,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 4003,
+   "fin": 4010,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4003,
+   "fin": 4010,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 4207,
+   "fin": 4437,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 4221,
+   "fin": 4265,
+   "texto": "Xaverio. Una perspectiva cuántica. 1975–2018"
+  },
+  {
+   "tipo": "person",
+   "ini": 4221,
+   "fin": 4228,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4221,
+   "fin": 4228,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "date",
+   "ini": 4256,
+   "fin": 4265,
+   "rasgos": {
+    "from": "1975",
+    "to": "2018"
+   },
+   "texto": "1975–2018"
+  },
+  {
+   "tipo": "person",
+   "ini": 4704,
+   "fin": 4716,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Thomas Busse"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4704,
+   "fin": 4716,
+   "texto": "Thomas Busse"
+  },
+  {
+   "tipo": "person",
+   "ini": 4764,
+   "fin": 4777,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Henry Vincent"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4764,
+   "fin": 4777,
+   "texto": "Henry Vincent"
+  },
+  {
+   "tipo": "person",
+   "ini": 4805,
+   "fin": 4812,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4805,
+   "fin": 4812,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 5391,
+   "fin": 5398,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5391,
+   "fin": 5398,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 6121,
+   "fin": 6128,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6121,
+   "fin": 6128,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 6774,
+   "fin": 6781,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6774,
+   "fin": 6781,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 6938,
+   "fin": 6950,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Thomas Busse"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6938,
+   "fin": 6950,
+   "texto": "Thomas Busse"
+  },
+  {
+   "tipo": "person",
+   "ini": 6953,
+   "fin": 6966,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Henry Vincent"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6953,
+   "fin": 6966,
+   "texto": "Henry Vincent"
+  },
+  {
+   "tipo": "person",
+   "ini": 7398,
+   "fin": 7405,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7398,
+   "fin": 7405,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 7660,
+   "fin": 7667,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7660,
+   "fin": 7667,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 7715,
+   "fin": 7722,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7715,
+   "fin": 7722,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 7738,
+   "fin": 7763,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "José Antonio Ortega Hitos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7738,
+   "fin": 7763,
+   "texto": "José Antonio Ortega Hitos"
+  },
+  {
+   "tipo": "person",
+   "ini": 7878,
+   "fin": 7909,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio (Javier Muñoz Bullejos)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7878,
+   "fin": 7885,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7887,
+   "fin": 7908,
+   "texto": "Javier Muñoz Bullejos"
+  },
+  {
+   "tipo": "person",
+   "ini": 12701,
+   "fin": 12708,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12701,
+   "fin": 12708,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 13015,
+   "fin": 13022,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13015,
+   "fin": 13022,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 13335,
+   "fin": 13347,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Thomas\nBusse"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13335,
+   "fin": 13347,
+   "texto": "Thomas\nBusse"
+  },
+  {
+   "tipo": "person",
+   "ini": 13767,
+   "fin": 13774,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13767,
+   "fin": 13774,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 14096,
+   "fin": 14103,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14096,
+   "fin": 14103,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 14122,
+   "fin": 14129,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14122,
+   "fin": 14129,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 14211,
+   "fin": 14218,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14211,
+   "fin": 14218,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 14836,
+   "fin": 14843,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14836,
+   "fin": 14843,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 15301,
+   "fin": 15308,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15301,
+   "fin": 15308,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 16477,
+   "fin": 16484,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16477,
+   "fin": 16484,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 16913,
+   "fin": 16920,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16913,
+   "fin": 16920,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 17159,
+   "fin": 17166,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17159,
+   "fin": 17166,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 17477,
+   "fin": 17484,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17477,
+   "fin": 17484,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 17884,
+   "fin": 17891,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17884,
+   "fin": 17891,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 18126,
+   "fin": 18133,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18126,
+   "fin": 18133,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 19297,
+   "fin": 19304,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19297,
+   "fin": 19304,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 20465,
+   "fin": 20472,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20465,
+   "fin": 20472,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 20960,
+   "fin": 20967,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20960,
+   "fin": 20967,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 21530,
+   "fin": 21537,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21530,
+   "fin": 21537,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 21638,
+   "fin": 21645,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21638,
+   "fin": 21645,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 21946,
+   "fin": 21953,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21946,
+   "fin": 21953,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 22420,
+   "fin": 22427,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22420,
+   "fin": 22427,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 22712,
+   "fin": 22719,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22712,
+   "fin": 22719,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 23341,
+   "fin": 23348,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23341,
+   "fin": 23348,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 23894,
+   "fin": 23901,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23894,
+   "fin": 23901,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 24194,
+   "fin": 24201,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24194,
+   "fin": 24201,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 24769,
+   "fin": 24776,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24769,
+   "fin": 24776,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 26214,
+   "fin": 26221,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26214,
+   "fin": 26221,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 26470,
+   "fin": 26477,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26470,
+   "fin": 26477,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 26907,
+   "fin": 26914,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26907,
+   "fin": 26914,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 27163,
+   "fin": 27170,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27163,
+   "fin": 27170,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 27571,
+   "fin": 27578,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27571,
+   "fin": 27578,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 27844,
+   "fin": 27851,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27844,
+   "fin": 27851,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 27987,
+   "fin": 27994,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27987,
+   "fin": 27994,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 28117,
+   "fin": 28124,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28117,
+   "fin": 28124,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 28609,
+   "fin": 28616,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28609,
+   "fin": 28616,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 28729,
+   "fin": 28736,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28729,
+   "fin": 28736,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 29411,
+   "fin": 29418,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29411,
+   "fin": 29418,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 29801,
+   "fin": 29808,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29801,
+   "fin": 29808,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 30108,
+   "fin": 30115,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30108,
+   "fin": 30115,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 30543,
+   "fin": 30550,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30543,
+   "fin": 30550,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 30991,
+   "fin": 30998,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30991,
+   "fin": 30998,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 31372,
+   "fin": 31379,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31372,
+   "fin": 31379,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 31852,
+   "fin": 31859,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31852,
+   "fin": 31859,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 33000,
+   "fin": 33007,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 33474,
+   "fin": 33481,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 33474,
+   "fin": 33481,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 34806,
+   "fin": 34813,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 34806,
+   "fin": 34813,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "person",
+   "ini": 35729,
+   "fin": 35736,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35729,
+   "fin": 35736,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 36199,
+   "fin": 42576
+  },
+  {
+   "tipo": "title",
+   "ini": 36199,
+   "fin": 36235,
+   "texto": "UNA PERSPECTIVA CUÁNTICA\n1975 – 2018"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 36237,
+   "fin": 36288
+  },
+  {
+   "tipo": "img",
+   "ini": 36237,
+   "fin": 36242,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 36244,
+   "fin": 36288,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Paisaje. 1975. Óleo sobre madera.18 x 24 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 36244,
+   "fin": 36251,
+   "texto": "Paisaje"
+  },
+  {
+   "tipo": "date",
+   "ini": 36253,
+   "fin": 36257,
+   "rasgos": {
+    "when": "1975"
+   },
+   "texto": "1975"
+  },
+  {
+   "tipo": "material",
+   "ini": 36259,
+   "fin": 36276,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 36277,
+   "fin": 36287,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "18 x 24 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 36277,
+   "fin": 36279,
+   "texto": "18"
+  },
+  {
+   "tipo": "width",
+   "ini": 36282,
+   "fin": 36284,
+   "texto": "24"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 36290,
+   "fin": 36360
+  },
+  {
+   "tipo": "img",
+   "ini": 36290,
+   "fin": 36295,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 36297,
+   "fin": 36360,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Búho. 1976. Sensorio-simbolismo. Tinta sobre papel. 30 x 47 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 36297,
+   "fin": 36301,
+   "texto": "Búho"
+  },
+  {
+   "tipo": "date",
+   "ini": 36303,
+   "fin": 36307,
+   "rasgos": {
+    "when": "1976"
+   },
+   "texto": "1976"
+  },
+  {
+   "tipo": "title",
+   "ini": 36309,
+   "fin": 36328,
+   "texto": "Sensorio-simbolismo"
+  },
+  {
+   "tipo": "material",
+   "ini": 36330,
+   "fin": 36347,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 36349,
+   "fin": 36359,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 47 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 36349,
+   "fin": 36351,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 36354,
+   "fin": 36356,
+   "texto": "47"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 36362,
+   "fin": 36450
+  },
+  {
+   "tipo": "img",
+   "ini": 36362,
+   "fin": 36367,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 36369,
+   "fin": 36450,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Homenaje pueblo gitano. 1976. Sensorio-simbolismo. Tinta sobre papel. 43 x 29 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 36369,
+   "fin": 36391,
+   "texto": "Homenaje pueblo gitano"
+  },
+  {
+   "tipo": "date",
+   "ini": 36393,
+   "fin": 36397,
+   "rasgos": {
+    "when": "1976"
+   },
+   "texto": "1976"
+  },
+  {
+   "tipo": "title",
+   "ini": 36399,
+   "fin": 36418,
+   "texto": "Sensorio-simbolismo"
+  },
+  {
+   "tipo": "material",
+   "ini": 36420,
+   "fin": 36437,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 36439,
+   "fin": 36449,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "43 x 29 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 36439,
+   "fin": 36441,
+   "texto": "43"
+  },
+  {
+   "tipo": "width",
+   "ini": 36444,
+   "fin": 36446,
+   "texto": "29"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 36452,
+   "fin": 36528
+  },
+  {
+   "tipo": "img",
+   "ini": 36452,
+   "fin": 36457,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 36459,
+   "fin": 36528,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Río de oro. 1980. Petral primigenio: carbón y oro 24Kt. 111 x 196 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 36459,
+   "fin": 36469,
+   "texto": "Río de oro"
+  },
+  {
+   "tipo": "date",
+   "ini": 36471,
+   "fin": 36475,
+   "rasgos": {
+    "when": "1980"
+   },
+   "texto": "1980"
+  },
+  {
+   "tipo": "material",
+   "ini": 36477,
+   "fin": 36513,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral primigenio: carbón y oro 24Kt"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 36515,
+   "fin": 36527,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "111 x 196 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 36515,
+   "fin": 36518,
+   "texto": "111"
+  },
+  {
+   "tipo": "width",
+   "ini": 36521,
+   "fin": 36524,
+   "texto": "196"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 36530,
+   "fin": 36577
+  },
+  {
+   "tipo": "img",
+   "ini": 36530,
+   "fin": 36535,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 36537,
+   "fin": 36577,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Pedal. 1984. Petral marino. 87 x 181 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 36537,
+   "fin": 36542,
+   "texto": "Pedal"
+  },
+  {
+   "tipo": "date",
+   "ini": 36544,
+   "fin": 36548,
+   "rasgos": {
+    "when": "1984"
+   },
+   "texto": "1984"
+  },
+  {
+   "tipo": "material",
+   "ini": 36550,
+   "fin": 36563,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral marino"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 36565,
+   "fin": 36576,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "87 x 181 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 36565,
+   "fin": 36567,
+   "texto": "87"
+  },
+  {
+   "tipo": "width",
+   "ini": 36570,
+   "fin": 36573,
+   "texto": "181"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 36579,
+   "fin": 36656
+  },
+  {
+   "tipo": "img",
+   "ini": 36579,
+   "fin": 36584,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 36586,
+   "fin": 36656,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Tortuga. 1985. Petral zoomórfico. 53 x 67 cm. Colección Rafael Aguayo."
+  },
+  {
+   "tipo": "title",
+   "ini": 36586,
+   "fin": 36593,
+   "texto": "Tortuga"
+  },
+  {
+   "tipo": "date",
+   "ini": 36595,
+   "fin": 36599,
+   "rasgos": {
+    "when": "1985"
+   },
+   "texto": "1985"
+  },
+  {
+   "tipo": "material",
+   "ini": 36601,
+   "fin": 36618,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral zoomórfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 36620,
+   "fin": 36630,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "53 x 67 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 36620,
+   "fin": 36622,
+   "texto": "53"
+  },
+  {
+   "tipo": "width",
+   "ini": 36625,
+   "fin": 36627,
+   "texto": "67"
+  },
+  {
+   "tipo": "person",
+   "ini": 36642,
+   "fin": 36655,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "Rafael Aguayo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 36658,
+   "fin": 36710
+  },
+  {
+   "tipo": "img",
+   "ini": 36658,
+   "fin": 36663,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 36665,
+   "fin": 36710,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Ochiní. 1986. Petral zoomórfico. 183 x 32 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 36665,
+   "fin": 36671,
+   "texto": "Ochiní"
+  },
+  {
+   "tipo": "date",
+   "ini": 36673,
+   "fin": 36677,
+   "rasgos": {
+    "when": "1986"
+   },
+   "texto": "1986"
+  },
+  {
+   "tipo": "material",
+   "ini": 36679,
+   "fin": 36696,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral zoomórfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 36698,
+   "fin": 36709,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "183 x 32 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 36698,
+   "fin": 36701,
+   "texto": "183"
+  },
+  {
+   "tipo": "width",
+   "ini": 36704,
+   "fin": 36706,
+   "texto": "32"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 36712,
+   "fin": 36766
+  },
+  {
+   "tipo": "img",
+   "ini": 36712,
+   "fin": 36717,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 36719,
+   "fin": 36766,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Vacuno IV. 1986. Petral zoomórfico. 86 x 77 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 36719,
+   "fin": 36728,
+   "texto": "Vacuno IV"
+  },
+  {
+   "tipo": "date",
+   "ini": 36730,
+   "fin": 36734,
+   "rasgos": {
+    "when": "1986"
+   },
+   "texto": "1986"
+  },
+  {
+   "tipo": "material",
+   "ini": 36736,
+   "fin": 36753,
+   "rasgos": {
+    "type": ""
+   },
+   "texto": "Petral zoomórfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 36755,
+   "fin": 36765,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "86 x 77 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 36755,
+   "fin": 36757,
+   "texto": "86"
+  },
+  {
+   "tipo": "width",
+   "ini": 36760,
+   "fin": 36762,
+   "texto": "77"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 36768,
+   "fin": 36821
+  },
+  {
+   "tipo": "img",
+   "ini": 36768,
+   "fin": 36773,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 36775,
+   "fin": 36821,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Vacuno I. 2018. Petral zoomórfico. 87 x 77 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 36775,
+   "fin": 36783,
+   "texto": "Vacuno I"
+  },
+  {
+   "tipo": "date",
+   "ini": 36785,
+   "fin": 36789,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "material",
+   "ini": 36791,
+   "fin": 36808,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral zoomórfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 36810,
+   "fin": 36820,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "87 x 77 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 36810,
+   "fin": 36812,
+   "texto": "87"
+  },
+  {
+   "tipo": "width",
+   "ini": 36815,
+   "fin": 36817,
+   "texto": "77"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 36823,
+   "fin": 36870
+  },
+  {
+   "tipo": "img",
+   "ini": 36823,
+   "fin": 36828,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 36830,
+   "fin": 36870,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Carán. 1986. Petral gestual. 50 x 37 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 36830,
+   "fin": 36835,
+   "texto": "Carán"
+  },
+  {
+   "tipo": "date",
+   "ini": 36837,
+   "fin": 36841,
+   "rasgos": {
+    "when": "1986"
+   },
+   "texto": "1986"
+  },
+  {
+   "tipo": "material",
+   "ini": 36843,
+   "fin": 36857,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral gestual"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 36859,
+   "fin": 36869,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 37 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 36859,
+   "fin": 36861,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 36864,
+   "fin": 36866,
+   "texto": "37"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 36872,
+   "fin": 36933
+  },
+  {
+   "tipo": "img",
+   "ini": 36872,
+   "fin": 36877,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 36879,
+   "fin": 36933,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Arenas de Marbella. 1987. Petral marino. 122 x 135 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 36879,
+   "fin": 36897,
+   "texto": "Arenas de Marbella"
+  },
+  {
+   "tipo": "date",
+   "ini": 36899,
+   "fin": 36903,
+   "rasgos": {
+    "when": "1987"
+   },
+   "texto": "1987"
+  },
+  {
+   "tipo": "material",
+   "ini": 36905,
+   "fin": 36918,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral marino"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 36920,
+   "fin": 36932,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122 x 135 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 36920,
+   "fin": 36923,
+   "texto": "122"
+  },
+  {
+   "tipo": "width",
+   "ini": 36926,
+   "fin": 36929,
+   "texto": "135"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 36935,
+   "fin": 36986
+  },
+  {
+   "tipo": "img",
+   "ini": 36935,
+   "fin": 36940,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 36942,
+   "fin": 36986,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Magnaola. 1987. Petral marino. 184 x 132 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 36942,
+   "fin": 36950,
+   "texto": "Magnaola"
+  },
+  {
+   "tipo": "date",
+   "ini": 36952,
+   "fin": 36956,
+   "rasgos": {
+    "when": "1987"
+   },
+   "texto": "1987"
+  },
+  {
+   "tipo": "material",
+   "ini": 36958,
+   "fin": 36971,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral marino"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 36973,
+   "fin": 36985,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "184 x 132 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 36973,
+   "fin": 36976,
+   "texto": "184"
+  },
+  {
+   "tipo": "width",
+   "ini": 36979,
+   "fin": 36982,
+   "texto": "132"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 36988,
+   "fin": 37050
+  },
+  {
+   "tipo": "img",
+   "ini": 36988,
+   "fin": 36993,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 36995,
+   "fin": 37050,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Colección azul XII. 1990. Petral gestual. 122 x 122 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 36995,
+   "fin": 37013,
+   "texto": "Colección azul XII"
+  },
+  {
+   "tipo": "date",
+   "ini": 37015,
+   "fin": 37019,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "material",
+   "ini": 37021,
+   "fin": 37035,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral gestual"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 37037,
+   "fin": 37049,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122 x 122 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 37037,
+   "fin": 37040,
+   "texto": "122"
+  },
+  {
+   "tipo": "width",
+   "ini": 37043,
+   "fin": 37046,
+   "texto": "122"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 37052,
+   "fin": 37111
+  },
+  {
+   "tipo": "img",
+   "ini": 37052,
+   "fin": 37057,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 37059,
+   "fin": 37111,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La piel de la Tierra. 1990. Petral. 102.5 x 83.5 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 37059,
+   "fin": 37079,
+   "texto": "La piel de la Tierra"
+  },
+  {
+   "tipo": "date",
+   "ini": 37081,
+   "fin": 37085,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "material",
+   "ini": 37087,
+   "fin": 37093,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 37095,
+   "fin": 37110,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "102.5 x 83.5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 37095,
+   "fin": 37100,
+   "texto": "102.5"
+  },
+  {
+   "tipo": "width",
+   "ini": 37103,
+   "fin": 37107,
+   "texto": "83.5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 37113,
+   "fin": 37218
+  },
+  {
+   "tipo": "img",
+   "ini": 37113,
+   "fin": 37118,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 37120,
+   "fin": 37218,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Petralografía de la firma de Colón. 1992. Petral: arenas del puerto de Palos (Huelva). 60 x 51 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 37120,
+   "fin": 37154,
+   "texto": "Petralografía de la firma de Colón"
+  },
+  {
+   "tipo": "date",
+   "ini": 37156,
+   "fin": 37160,
+   "rasgos": {
+    "when": "1992"
+   },
+   "texto": "1992"
+  },
+  {
+   "tipo": "material",
+   "ini": 37162,
+   "fin": 37205,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral: arenas del puerto de Palos (Huelva)"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 37191,
+   "fin": 37205,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Palos (Huelva)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 37207,
+   "fin": 37217,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 51 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 37207,
+   "fin": 37209,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 37212,
+   "fin": 37214,
+   "texto": "51"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 37220,
+   "fin": 37367
+  },
+  {
+   "tipo": "img",
+   "ini": 37220,
+   "fin": 37225,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 37227,
+   "fin": 37367,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Petral retrato de Colón. 1992-2008. Petral: arenas del puerto de Palos (Huelva),\nmica de América y yeso de Santa Fe (Granada). 145 x 115 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 37227,
+   "fin": 37250,
+   "texto": "Petral retrato de Colón"
+  },
+  {
+   "tipo": "date",
+   "ini": 37252,
+   "fin": 37261,
+   "rasgos": {
+    "from": "1992",
+    "to": "2008"
+   },
+   "texto": "1992-2008"
+  },
+  {
+   "tipo": "material",
+   "ini": 37263,
+   "fin": 37352,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral: arenas del puerto de Palos (Huelva),\nmica de América y yeso de Santa Fe (Granada)"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 37292,
+   "fin": 37306,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Palos (Huelva)"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 37334,
+   "fin": 37352,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Santa Fe (Granada)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 37354,
+   "fin": 37366,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "145 x 115 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 37354,
+   "fin": 37357,
+   "texto": "145"
+  },
+  {
+   "tipo": "width",
+   "ini": 37360,
+   "fin": 37363,
+   "texto": "115"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 37370,
+   "fin": 37549
+  },
+  {
+   "tipo": "img",
+   "ini": 37370,
+   "fin": 37375,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 37376,
+   "fin": 37381,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 37383,
+   "fin": 37549,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Petralografía de la Cruz Roja y la Media Luna Roja. 1992. Petralografía sobre papel\n40 x 30 cm. c/u. Pabellón de la Cruz Roja y la Media Luna Roja Expo 92 de Sevilla."
+  },
+  {
+   "tipo": "title",
+   "ini": 37383,
+   "fin": 37433,
+   "texto": "Petralografía de la Cruz Roja y la Media Luna Roja"
+  },
+  {
+   "tipo": "date",
+   "ini": 37435,
+   "fin": 37439,
+   "rasgos": {
+    "when": "1992"
+   },
+   "texto": "1992"
+  },
+  {
+   "tipo": "material",
+   "ini": 37441,
+   "fin": 37466,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Petralografía sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 37467,
+   "fin": 37477,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 37467,
+   "fin": 37469,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 37472,
+   "fin": 37474,
+   "texto": "30"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 37484,
+   "fin": 37549
+  },
+  {
+   "tipo": "placeName",
+   "ini": 37541,
+   "fin": 37548,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 37552,
+   "fin": 37707
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 37552,
+   "fin": 37682,
+   "rasgos": {
+    "type": "photograph",
+    "size": "6"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 37552,
+   "fin": 37609,
+   "texto": "Instalación la Insectidumbre (Ciudad Encantada de Cuenca)"
+  },
+  {
+   "tipo": "date",
+   "ini": 37611,
+   "fin": 37615,
+   "rasgos": {
+    "when": "1993"
+   },
+   "texto": "1993"
+  },
+  {
+   "tipo": "material",
+   "ini": 37617,
+   "fin": 37637,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petrales zoomórficos"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 37639,
+   "fin": 37665
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 37666,
+   "fin": 37676,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 37666,
+   "fin": 37668,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 37671,
+   "fin": 37673,
+   "texto": "30"
+  },
+  {
+   "tipo": "img",
+   "ini": 37684,
+   "fin": 37689,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 37690,
+   "fin": 37695,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 37696,
+   "fin": 37701,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 37702,
+   "fin": 37707,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 37710,
+   "fin": 37909
+  },
+  {
+   "tipo": "work",
+   "ini": 37710,
+   "fin": 37896,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "La obra Grafosone. 1993. Petral. 65 x 39 cm. reproducida en las dos primeras ilustraciones que\nsiguen, pertenece a la colección del New Mexico Museum of Art, Santa Fe, Nuevo México, EEUU"
+  },
+  {
+   "tipo": "title",
+   "ini": 37710,
+   "fin": 37727,
+   "texto": "La obra Grafosone"
+  },
+  {
+   "tipo": "date",
+   "ini": 37729,
+   "fin": 37733,
+   "rasgos": {
+    "when": "1993"
+   },
+   "texto": "1993"
+  },
+  {
+   "tipo": "material",
+   "ini": 37735,
+   "fin": 37741,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 37743,
+   "fin": 37753,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 39 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 37743,
+   "fin": 37745,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 37748,
+   "fin": 37750,
+   "texto": "39"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 37755,
+   "fin": 37896
+  },
+  {
+   "tipo": "institution",
+   "ini": 37842,
+   "fin": 37896,
+   "rasgos": {
+    "type": "museum",
+    "role": "owner, lender"
+   },
+   "texto": "New Mexico Museum of Art, Santa Fe, Nuevo México, EEUU"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 37868,
+   "fin": 37896,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Santa Fe, Nuevo México, EEUU"
+  },
+  {
+   "tipo": "img",
+   "ini": 37898,
+   "fin": 37903,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 37904,
+   "fin": 37909,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 37912,
+   "fin": 38048
+  },
+  {
+   "tipo": "img",
+   "ini": 37912,
+   "fin": 37917,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 37919,
+   "fin": 38048,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Ruta de las Alpujarras. 1994. Petral: tierra y minerales. 121.5 x 97.5cm.\nColección Fundación Pública Andaluza El Legado Andalusí"
+  },
+  {
+   "tipo": "title",
+   "ini": 37919,
+   "fin": 37941,
+   "texto": "Ruta de las Alpujarras"
+  },
+  {
+   "tipo": "date",
+   "ini": 37943,
+   "fin": 37947,
+   "rasgos": {
+    "when": "1994"
+   },
+   "texto": "1994"
+  },
+  {
+   "tipo": "material",
+   "ini": 37949,
+   "fin": 37975,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral: tierra y minerales"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 37977,
+   "fin": 37991,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "121.5 x 97.5cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 37977,
+   "fin": 37982,
+   "texto": "121.5"
+  },
+  {
+   "tipo": "width",
+   "ini": 37985,
+   "fin": 37989,
+   "texto": "97.5"
+  },
+  {
+   "tipo": "institution",
+   "ini": 38003,
+   "fin": 38048,
+   "rasgos": {
+    "type": "foundation",
+    "role": "owner, lender"
+   },
+   "texto": "Fundación Pública Andaluza El Legado Andalusí"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 38050,
+   "fin": 38093
+  },
+  {
+   "tipo": "img",
+   "ini": 38050,
+   "fin": 38055,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 38057,
+   "fin": 38093,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Alhambra. 1996. Petral. 134 x 85 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 38057,
+   "fin": 38065,
+   "texto": "Alhambra"
+  },
+  {
+   "tipo": "date",
+   "ini": 38067,
+   "fin": 38071,
+   "rasgos": {
+    "when": "1996"
+   },
+   "texto": "1996"
+  },
+  {
+   "tipo": "material",
+   "ini": 38073,
+   "fin": 38079,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 38081,
+   "fin": 38092,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "134 x 85 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 38081,
+   "fin": 38084,
+   "texto": "134"
+  },
+  {
+   "tipo": "width",
+   "ini": 38087,
+   "fin": 38089,
+   "texto": "85"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 38095,
+   "fin": 38141
+  },
+  {
+   "tipo": "img",
+   "ini": 38095,
+   "fin": 38100,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 38102,
+   "fin": 38141,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Idea fugaz. 1995. Petral. 122 x 122 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 38102,
+   "fin": 38112,
+   "texto": "Idea fugaz"
+  },
+  {
+   "tipo": "date",
+   "ini": 38114,
+   "fin": 38118,
+   "rasgos": {
+    "when": "1995"
+   },
+   "texto": "1995"
+  },
+  {
+   "tipo": "material",
+   "ini": 38120,
+   "fin": 38126,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 38128,
+   "fin": 38140,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122 x 122 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 38128,
+   "fin": 38131,
+   "texto": "122"
+  },
+  {
+   "tipo": "width",
+   "ini": 38134,
+   "fin": 38137,
+   "texto": "122"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 38143,
+   "fin": 38262
+  },
+  {
+   "tipo": "img",
+   "ini": 38143,
+   "fin": 38148,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 38150,
+   "fin": 38262,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Fuego eterno. 1997. Hierro soldado y acero fundido. 126 x 104 cm.\nAl fondo de la imagen Centro del Universo 1998"
+  },
+  {
+   "tipo": "title",
+   "ini": 38150,
+   "fin": 38162,
+   "texto": "Fuego eterno"
+  },
+  {
+   "tipo": "date",
+   "ini": 38164,
+   "fin": 38168,
+   "rasgos": {
+    "when": "1997"
+   },
+   "texto": "1997"
+  },
+  {
+   "tipo": "material",
+   "ini": 38170,
+   "fin": 38199,
+   "rasgos": {
+    "type": "iron, steel"
+   },
+   "texto": "Hierro soldado y acero fundid"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 38202,
+   "fin": 38214,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "126 x 104 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 38202,
+   "fin": 38205,
+   "texto": "126"
+  },
+  {
+   "tipo": "width",
+   "ini": 38208,
+   "fin": 38211,
+   "texto": "104"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 38216,
+   "fin": 38262
+  },
+  {
+   "tipo": "date",
+   "ini": 38258,
+   "fin": 38262,
+   "rasgos": {
+    "when": "1998"
+   },
+   "texto": "1998"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 38264,
+   "fin": 38418
+  },
+  {
+   "tipo": "img",
+   "ini": 38264,
+   "fin": 38269,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 38271,
+   "fin": 38418,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Fuego eterno (detalle). 1997. Hierro soldado y acero fundido. 126 x 104 cm.\nAl fondo de la imagen Instalación tierra, aire y mar 2018 y Ochiní 1986"
+  },
+  {
+   "tipo": "title",
+   "ini": 38271,
+   "fin": 38283,
+   "texto": "Fuego eterno"
+  },
+  {
+   "tipo": "date",
+   "ini": 38295,
+   "fin": 38299,
+   "rasgos": {
+    "when": "1997"
+   },
+   "texto": "1997"
+  },
+  {
+   "tipo": "material",
+   "ini": 38301,
+   "fin": 38331,
+   "rasgos": {
+    "type": "iron, steel"
+   },
+   "texto": "Hierro soldado y acero fundido"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 38333,
+   "fin": 38345,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "126 x 104 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 38333,
+   "fin": 38336,
+   "texto": "126"
+  },
+  {
+   "tipo": "width",
+   "ini": 38339,
+   "fin": 38342,
+   "texto": "104"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 38347,
+   "fin": 38418
+  },
+  {
+   "tipo": "date",
+   "ini": 38400,
+   "fin": 38404,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "date",
+   "ini": 38414,
+   "fin": 38418,
+   "rasgos": {
+    "when": "1986"
+   },
+   "texto": "1986"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 38420,
+   "fin": 38479
+  },
+  {
+   "tipo": "img",
+   "ini": 38420,
+   "fin": 38425,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 38427,
+   "fin": 38479,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Noche para Rothko y Miró. 1998. Petral. 100 x 73 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 38427,
+   "fin": 38451,
+   "texto": "Noche para Rothko y Miró"
+  },
+  {
+   "tipo": "date",
+   "ini": 38453,
+   "fin": 38457,
+   "rasgos": {
+    "when": "1998"
+   },
+   "texto": "1998"
+  },
+  {
+   "tipo": "material",
+   "ini": 38459,
+   "fin": 38465,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 38467,
+   "fin": 38478,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 73 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 38467,
+   "fin": 38470,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 38473,
+   "fin": 38475,
+   "texto": "73"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 38481,
+   "fin": 38557
+  },
+  {
+   "tipo": "img",
+   "ini": 38481,
+   "fin": 38486,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 38488,
+   "fin": 38557,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Dos naranjas y un ocre. 2005. Estética cuántica. Petral. 100 x 30 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 38488,
+   "fin": 38510,
+   "texto": "Dos naranjas y un ocre"
+  },
+  {
+   "tipo": "date",
+   "ini": 38512,
+   "fin": 38516,
+   "rasgos": {
+    "when": "2005"
+   },
+   "texto": "2005"
+  },
+  {
+   "tipo": "title",
+   "ini": 38518,
+   "fin": 38535,
+   "texto": "Estética cuántica"
+  },
+  {
+   "tipo": "material",
+   "ini": 38537,
+   "fin": 38543,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 38545,
+   "fin": 38556,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 38545,
+   "fin": 38548,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 38551,
+   "fin": 38553,
+   "texto": "30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 38559,
+   "fin": 38674
+  },
+  {
+   "tipo": "img",
+   "ini": 38559,
+   "fin": 38564,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 38566,
+   "fin": 38674,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Interconexión egipcia (Interconexión cuántica de 4 colores). Estética cuántica. 2005. Petrales. 60 x 260 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 38566,
+   "fin": 38625,
+   "texto": "Interconexión egipcia (Interconexión cuántica de 4 colores)"
+  },
+  {
+   "tipo": "title",
+   "ini": 38627,
+   "fin": 38644,
+   "texto": "Estética cuántica"
+  },
+  {
+   "tipo": "date",
+   "ini": 38646,
+   "fin": 38650,
+   "rasgos": {
+    "when": "2005"
+   },
+   "texto": "2005"
+  },
+  {
+   "tipo": "material",
+   "ini": 38652,
+   "fin": 38660,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petrales"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 38662,
+   "fin": 38673,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 260 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 38662,
+   "fin": 38664,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 38667,
+   "fin": 38670,
+   "texto": "260"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 38676,
+   "fin": 38763
+  },
+  {
+   "tipo": "img",
+   "ini": 38676,
+   "fin": 38681,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 38683,
+   "fin": 38763,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Interconexión de naranja y nácar. 2005. Estética cuántica. Petrales. 90 x 60 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 38683,
+   "fin": 38715,
+   "texto": "Interconexión de naranja y nácar"
+  },
+  {
+   "tipo": "date",
+   "ini": 38717,
+   "fin": 38721,
+   "rasgos": {
+    "when": "2005"
+   },
+   "texto": "2005"
+  },
+  {
+   "tipo": "title",
+   "ini": 38723,
+   "fin": 38740,
+   "texto": "Estética cuántica"
+  },
+  {
+   "tipo": "material",
+   "ini": 38742,
+   "fin": 38750,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petrales"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 38752,
+   "fin": 38762,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "90 x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 38752,
+   "fin": 38754,
+   "texto": "90"
+  },
+  {
+   "tipo": "width",
+   "ini": 38757,
+   "fin": 38759,
+   "texto": "60"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 38765,
+   "fin": 38964
+  },
+  {
+   "tipo": "img",
+   "ini": 38765,
+   "fin": 38770,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 38772,
+   "fin": 38964,
+   "rasgos": {
+    "size": "3",
+    "type": "installation"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 38772,
+   "fin": 38801,
+   "texto": "Instalación Tetraquishexaedro"
+  },
+  {
+   "tipo": "date",
+   "ini": 38803,
+   "fin": 38807,
+   "rasgos": {
+    "when": "2005"
+   },
+   "texto": "2005"
+  },
+  {
+   "tipo": "title",
+   "ini": 38809,
+   "fin": 38826,
+   "texto": "Estética cuántica"
+  },
+  {
+   "tipo": "material",
+   "ini": 38828,
+   "fin": 38844,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Escultura hierro"
+  },
+  {
+   "tipo": "height",
+   "ini": 38846,
+   "fin": 38849,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 38852,
+   "fin": 38855,
+   "texto": "220"
+  },
+  {
+   "tipo": "material",
+   "ini": 38860,
+   "fin": 38897,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral: cristal, fluorita y molibdeno"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 38899,
+   "fin": 38912,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "123 x 125, cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 38899,
+   "fin": 38902,
+   "texto": "123"
+  },
+  {
+   "tipo": "width",
+   "ini": 38905,
+   "fin": 38908,
+   "texto": "125"
+  },
+  {
+   "tipo": "material",
+   "ini": 38914,
+   "fin": 38951,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral: cristal, fluorita y molibdeno"
+  },
+  {
+   "tipo": "height",
+   "ini": 38953,
+   "fin": 38955,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 38958,
+   "fin": 38960,
+   "texto": "40"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 38966,
+   "fin": 39028
+  },
+  {
+   "tipo": "img",
+   "ini": 38966,
+   "fin": 38971,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 38973,
+   "fin": 39028,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Luna de los buenos cambios. 2007. Petral. 120 x 120 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 38973,
+   "fin": 38999,
+   "texto": "Luna de los buenos cambios"
+  },
+  {
+   "tipo": "date",
+   "ini": 39001,
+   "fin": 39005,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "material",
+   "ini": 39007,
+   "fin": 39013,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39015,
+   "fin": 39027,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "120 x 120 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 39015,
+   "fin": 39018,
+   "texto": "120"
+  },
+  {
+   "tipo": "width",
+   "ini": 39021,
+   "fin": 39024,
+   "texto": "120"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39030,
+   "fin": 39177
+  },
+  {
+   "tipo": "img",
+   "ini": 39030,
+   "fin": 39035,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 39037,
+   "fin": 39177,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Gran luna llena. 2009. Petral.118 cm. diámetro.\nInstalación con proyección de video mapping de Thomas Busse y música de Henry Vincent Kneuer"
+  },
+  {
+   "tipo": "title",
+   "ini": 39037,
+   "fin": 39052,
+   "texto": "Gran luna llena"
+  },
+  {
+   "tipo": "date",
+   "ini": 39054,
+   "fin": 39058,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "material",
+   "ini": 39060,
+   "fin": 39066,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 39066,
+   "fin": 39070,
+   "texto": ".118"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39067,
+   "fin": 39083,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "118 cm. diámetro"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 39085,
+   "fin": 39177
+  },
+  {
+   "tipo": "person",
+   "ini": 39132,
+   "fin": 39144,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Thomas Busse"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39132,
+   "fin": 39144,
+   "texto": "Thomas Busse"
+  },
+  {
+   "tipo": "person",
+   "ini": 39157,
+   "fin": 39177,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Henry Vincent Kneuer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39157,
+   "fin": 39177,
+   "texto": "Henry Vincent Kneuer"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39179,
+   "fin": 39304
+  },
+  {
+   "tipo": "img",
+   "ini": 39179,
+   "fin": 39184,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 39186,
+   "fin": 39304,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Fuego eterno (detalle).1997. Hierro soldado y acero fundido. 126 x 104 cm.\nAl fondo de la imagen Gran luna llena 2009."
+  },
+  {
+   "tipo": "title",
+   "ini": 39186,
+   "fin": 39199,
+   "texto": "Fuego eterno "
+  },
+  {
+   "tipo": "date",
+   "ini": 39208,
+   "fin": 39213,
+   "rasgos": {
+    "when": "1997"
+   },
+   "texto": ".1997"
+  },
+  {
+   "tipo": "material",
+   "ini": 39215,
+   "fin": 39245,
+   "rasgos": {
+    "type": "iron, steel"
+   },
+   "texto": "Hierro soldado y acero fundido"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39247,
+   "fin": 39259,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "126 x 104 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 39247,
+   "fin": 39250,
+   "texto": "126"
+  },
+  {
+   "tipo": "width",
+   "ini": 39253,
+   "fin": 39256,
+   "texto": "104"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 39261,
+   "fin": 39303
+  },
+  {
+   "tipo": "date",
+   "ini": 39299,
+   "fin": 39303,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39306,
+   "fin": 39476
+  },
+  {
+   "tipo": "img",
+   "ini": 39306,
+   "fin": 39311,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 39313,
+   "fin": 39476,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Gran luna llena (composición de fases). 2009. Petral. 118 cm. diámetro\nInstalación con proyección de video mapping de Thomas Busse y música de Henry Vincent Kneuer"
+  },
+  {
+   "tipo": "title",
+   "ini": 39313,
+   "fin": 39351,
+   "texto": "Gran luna llena (composición de fases)"
+  },
+  {
+   "tipo": "date",
+   "ini": 39353,
+   "fin": 39357,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "material",
+   "ini": 39359,
+   "fin": 39365,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39367,
+   "fin": 39383,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "118 cm. diámetro"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 39384,
+   "fin": 39476
+  },
+  {
+   "tipo": "person",
+   "ini": 39431,
+   "fin": 39443,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Thomas Busse"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39431,
+   "fin": 39443,
+   "texto": "Thomas Busse"
+  },
+  {
+   "tipo": "person",
+   "ini": 39456,
+   "fin": 39476,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Henry Vincent Kneuer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39456,
+   "fin": 39476,
+   "texto": "Henry Vincent Kneuer"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39478,
+   "fin": 39751
+  },
+  {
+   "tipo": "img",
+   "ini": 39478,
+   "fin": 39483,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 39485,
+   "fin": 39751,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 39485,
+   "fin": 39527,
+   "texto": "Centro del Universo (composición de fases)"
+  },
+  {
+   "tipo": "date",
+   "ini": 39529,
+   "fin": 39533,
+   "rasgos": {
+    "when": "1998"
+   },
+   "texto": "1998"
+  },
+  {
+   "tipo": "title",
+   "ini": 39535,
+   "fin": 39552,
+   "texto": "Estética cuántica"
+  },
+  {
+   "tipo": "material",
+   "ini": 39554,
+   "fin": 39640,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral: minerales, amatistas,\nturquesas, zafiros, agua marina, cristal y pigmento azul"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39642,
+   "fin": 39658,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "195 cm. diámetro"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 39642,
+   "fin": 39645,
+   "texto": "195"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 39659,
+   "fin": 39751
+  },
+  {
+   "tipo": "person",
+   "ini": 39706,
+   "fin": 39718,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Thomas Busse"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39706,
+   "fin": 39718,
+   "texto": "Thomas Busse"
+  },
+  {
+   "tipo": "person",
+   "ini": 39731,
+   "fin": 39751,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Henry Vincent Kneuer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39731,
+   "fin": 39751,
+   "texto": "Henry Vincent Kneuer"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39753,
+   "fin": 39883
+  },
+  {
+   "tipo": "img",
+   "ini": 39753,
+   "fin": 39758,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 39760,
+   "fin": 39883,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Instalación tierra, aire y mar. 2018. Petrales zoomórficos.\nMedidas variables, tres elementos. Colección de José Luís Yuste"
+  },
+  {
+   "tipo": "title",
+   "ini": 39760,
+   "fin": 39790,
+   "texto": "Instalación tierra, aire y mar"
+  },
+  {
+   "tipo": "date",
+   "ini": 39792,
+   "fin": 39796,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "material",
+   "ini": 39798,
+   "fin": 39818,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petrales zoomórficos"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39820,
+   "fin": 39837,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "Medidas variables"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 39839,
+   "fin": 39853
+  },
+  {
+   "tipo": "person",
+   "ini": 39868,
+   "fin": 39883,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Luís Yuste"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39868,
+   "fin": 39883,
+   "texto": "José Luís Yuste"
+  },
+  {
+   "tipo": "checklist",
+   "ini": 39886,
+   "fin": 42576
+  },
+  {
+   "tipo": "work",
+   "ini": 39915,
+   "fin": 39959,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Paisaje, 1975\nÓleo sobre madera. 18 x 24 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39915,
+   "fin": 39959
+  },
+  {
+   "tipo": "title",
+   "ini": 39915,
+   "fin": 39922,
+   "texto": "Paisaje"
+  },
+  {
+   "tipo": "date",
+   "ini": 39924,
+   "fin": 39928,
+   "rasgos": {
+    "when": "1975"
+   },
+   "texto": "1975"
+  },
+  {
+   "tipo": "material",
+   "ini": 39929,
+   "fin": 39946,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39948,
+   "fin": 39958,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "18 x 24 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 39948,
+   "fin": 39950,
+   "texto": "18"
+  },
+  {
+   "tipo": "width",
+   "ini": 39953,
+   "fin": 39955,
+   "texto": "24"
+  },
+  {
+   "tipo": "work",
+   "ini": 39961,
+   "fin": 40024,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Búho, 1976. Sensorio-simbolismo. Tinta sobre papel. 30 x 47 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39961,
+   "fin": 40024
+  },
+  {
+   "tipo": "title",
+   "ini": 39961,
+   "fin": 39965,
+   "texto": "Búho"
+  },
+  {
+   "tipo": "date",
+   "ini": 39967,
+   "fin": 39971,
+   "rasgos": {
+    "when": "1976"
+   },
+   "texto": "1976"
+  },
+  {
+   "tipo": "title",
+   "ini": 39973,
+   "fin": 39992,
+   "texto": "Sensorio-simbolismo"
+  },
+  {
+   "tipo": "material",
+   "ini": 39994,
+   "fin": 40011,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40013,
+   "fin": 40023,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 47 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40013,
+   "fin": 40015,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 40018,
+   "fin": 40020,
+   "texto": "47"
+  },
+  {
+   "tipo": "work",
+   "ini": 40026,
+   "fin": 40108,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Homenaje pueblo gitano, 1976. Sensorio- simbolismo. Tinta sobre papel. 43 x 29 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40026,
+   "fin": 40108
+  },
+  {
+   "tipo": "title",
+   "ini": 40026,
+   "fin": 40047,
+   "texto": "Homenaje pueblo gitan"
+  },
+  {
+   "tipo": "date",
+   "ini": 40050,
+   "fin": 40054,
+   "rasgos": {
+    "when": "1976"
+   },
+   "texto": "1976"
+  },
+  {
+   "tipo": "title",
+   "ini": 40056,
+   "fin": 40076,
+   "texto": "Sensorio- simbolismo"
+  },
+  {
+   "tipo": "material",
+   "ini": 40078,
+   "fin": 40096,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre papel."
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40097,
+   "fin": 40107,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "43 x 29 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40097,
+   "fin": 40099,
+   "texto": "43"
+  },
+  {
+   "tipo": "width",
+   "ini": 40102,
+   "fin": 40104,
+   "texto": "29"
+  },
+  {
+   "tipo": "work",
+   "ini": 40110,
+   "fin": 40179,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Río de oro, 1980. Petral primigenio: carbón y oro 24Kt. 111 x 196 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40110,
+   "fin": 40179
+  },
+  {
+   "tipo": "title",
+   "ini": 40110,
+   "fin": 40120,
+   "texto": "Río de oro"
+  },
+  {
+   "tipo": "date",
+   "ini": 40122,
+   "fin": 40126,
+   "rasgos": {
+    "when": "1980"
+   },
+   "texto": "1980"
+  },
+  {
+   "tipo": "material",
+   "ini": 40128,
+   "fin": 40164,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral primigenio: carbón y oro 24Kt"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40166,
+   "fin": 40178,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "111 x 196 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40166,
+   "fin": 40169,
+   "texto": "111"
+  },
+  {
+   "tipo": "width",
+   "ini": 40172,
+   "fin": 40175,
+   "texto": "196"
+  },
+  {
+   "tipo": "work",
+   "ini": 40181,
+   "fin": 40220,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Pedal, 1984\nPetral marino. 87 x 181 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40181,
+   "fin": 40220
+  },
+  {
+   "tipo": "title",
+   "ini": 40181,
+   "fin": 40186,
+   "texto": "Pedal"
+  },
+  {
+   "tipo": "date",
+   "ini": 40188,
+   "fin": 40192,
+   "rasgos": {
+    "when": "1984"
+   },
+   "texto": "1984"
+  },
+  {
+   "tipo": "material",
+   "ini": 40193,
+   "fin": 40206,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral marino"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40208,
+   "fin": 40219,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "87 x 181 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40208,
+   "fin": 40210,
+   "texto": "87"
+  },
+  {
+   "tipo": "width",
+   "ini": 40213,
+   "fin": 40216,
+   "texto": "181"
+  },
+  {
+   "tipo": "work",
+   "ini": 40222,
+   "fin": 40290,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Tortuga, 1985\nPetral zoomórfico. 53 x 67 cm. Colección Rafael Aguayo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40222,
+   "fin": 40290
+  },
+  {
+   "tipo": "title",
+   "ini": 40222,
+   "fin": 40229,
+   "texto": "Tortuga"
+  },
+  {
+   "tipo": "date",
+   "ini": 40231,
+   "fin": 40235,
+   "rasgos": {
+    "when": "1985"
+   },
+   "texto": "1985"
+  },
+  {
+   "tipo": "material",
+   "ini": 40236,
+   "fin": 40253,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral zoomórfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40255,
+   "fin": 40265,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "53 x 67 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40255,
+   "fin": 40257,
+   "texto": "53"
+  },
+  {
+   "tipo": "width",
+   "ini": 40260,
+   "fin": 40262,
+   "texto": "67"
+  },
+  {
+   "tipo": "person",
+   "ini": 40277,
+   "fin": 40290,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "Rafael Aguayo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40277,
+   "fin": 40290,
+   "texto": "Rafael Aguayo"
+  },
+  {
+   "tipo": "work",
+   "ini": 40292,
+   "fin": 40337,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Ochiní , 1986\nPetral zoomórfico. 183 x 32 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40292,
+   "fin": 40337
+  },
+  {
+   "tipo": "title",
+   "ini": 40292,
+   "fin": 40299,
+   "texto": "Ochiní "
+  },
+  {
+   "tipo": "date",
+   "ini": 40301,
+   "fin": 40305,
+   "rasgos": {
+    "when": "1986"
+   },
+   "texto": "1986"
+  },
+  {
+   "tipo": "material",
+   "ini": 40306,
+   "fin": 40323,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral zoomórfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40325,
+   "fin": 40336,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "183 x 32 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40325,
+   "fin": 40328,
+   "texto": "183"
+  },
+  {
+   "tipo": "width",
+   "ini": 40331,
+   "fin": 40333,
+   "texto": "32"
+  },
+  {
+   "tipo": "work",
+   "ini": 40339,
+   "fin": 40384,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Vacuno I, 1986\nPetral zoomórfico. 86 x 77 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40339,
+   "fin": 40384
+  },
+  {
+   "tipo": "title",
+   "ini": 40339,
+   "fin": 40347,
+   "texto": "Vacuno I"
+  },
+  {
+   "tipo": "date",
+   "ini": 40349,
+   "fin": 40353,
+   "rasgos": {
+    "when": "1986"
+   },
+   "texto": "1986"
+  },
+  {
+   "tipo": "material",
+   "ini": 40354,
+   "fin": 40371,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral zoomórfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40373,
+   "fin": 40383,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "86 x 77 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40373,
+   "fin": 40375,
+   "texto": "86"
+  },
+  {
+   "tipo": "width",
+   "ini": 40378,
+   "fin": 40380,
+   "texto": "77"
+  },
+  {
+   "tipo": "work",
+   "ini": 40386,
+   "fin": 40425,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Carán, 1986\nPetral gestual. 50 x 37 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40386,
+   "fin": 40425
+  },
+  {
+   "tipo": "title",
+   "ini": 40386,
+   "fin": 40391,
+   "texto": "Carán"
+  },
+  {
+   "tipo": "date",
+   "ini": 40393,
+   "fin": 40397,
+   "rasgos": {
+    "when": "1986"
+   },
+   "texto": "1986"
+  },
+  {
+   "tipo": "material",
+   "ini": 40398,
+   "fin": 40412,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral gestual"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40414,
+   "fin": 40424,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 37 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40414,
+   "fin": 40416,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 40419,
+   "fin": 40421,
+   "texto": "37"
+  },
+  {
+   "tipo": "work",
+   "ini": 40427,
+   "fin": 40480,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Arenas de Marbella, 1987 Petral marino. 122 x 135 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40427,
+   "fin": 40480
+  },
+  {
+   "tipo": "title",
+   "ini": 40427,
+   "fin": 40445,
+   "texto": "Arenas de Marbella"
+  },
+  {
+   "tipo": "date",
+   "ini": 40447,
+   "fin": 40451,
+   "rasgos": {
+    "when": "1987"
+   },
+   "texto": "1987"
+  },
+  {
+   "tipo": "material",
+   "ini": 40452,
+   "fin": 40465,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral marino"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40467,
+   "fin": 40479,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122 x 135 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40467,
+   "fin": 40470,
+   "texto": "122"
+  },
+  {
+   "tipo": "width",
+   "ini": 40473,
+   "fin": 40476,
+   "texto": "135"
+  },
+  {
+   "tipo": "work",
+   "ini": 40482,
+   "fin": 40525,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Magnaola, 1987\nPetral marino. 184 x 132 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40482,
+   "fin": 40525
+  },
+  {
+   "tipo": "title",
+   "ini": 40482,
+   "fin": 40490,
+   "texto": "Magnaola"
+  },
+  {
+   "tipo": "date",
+   "ini": 40492,
+   "fin": 40496,
+   "rasgos": {
+    "when": "1987"
+   },
+   "texto": "1987"
+  },
+  {
+   "tipo": "material",
+   "ini": 40497,
+   "fin": 40510,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral marino"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40512,
+   "fin": 40524,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "184 x 132 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40512,
+   "fin": 40515,
+   "texto": "184"
+  },
+  {
+   "tipo": "width",
+   "ini": 40518,
+   "fin": 40521,
+   "texto": "132"
+  },
+  {
+   "tipo": "work",
+   "ini": 40527,
+   "fin": 40581,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Colección azul XII, 1990 Petral gestual. 122 x 122 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40527,
+   "fin": 40581
+  },
+  {
+   "tipo": "title",
+   "ini": 40527,
+   "fin": 40545,
+   "texto": "Colección azul XII"
+  },
+  {
+   "tipo": "date",
+   "ini": 40547,
+   "fin": 40551,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "material",
+   "ini": 40552,
+   "fin": 40566,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral gestual"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40568,
+   "fin": 40580,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122 x 122 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40568,
+   "fin": 40571,
+   "texto": "122"
+  },
+  {
+   "tipo": "width",
+   "ini": 40574,
+   "fin": 40577,
+   "texto": "122"
+  },
+  {
+   "tipo": "work",
+   "ini": 40583,
+   "fin": 40633,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La piel de la Tierra, 1990 Petral.102.5 x 83.5 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40583,
+   "fin": 40633
+  },
+  {
+   "tipo": "title",
+   "ini": 40583,
+   "fin": 40603,
+   "texto": "La piel de la Tierra"
+  },
+  {
+   "tipo": "date",
+   "ini": 40605,
+   "fin": 40609,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "material",
+   "ini": 40610,
+   "fin": 40616,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40617,
+   "fin": 40632,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "102.5 x 83.5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40617,
+   "fin": 40622,
+   "texto": "102.5"
+  },
+  {
+   "tipo": "width",
+   "ini": 40625,
+   "fin": 40629,
+   "texto": "83.5"
+  },
+  {
+   "tipo": "work",
+   "ini": 40635,
+   "fin": 40758,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Instalación petralográfica de la firma de Colón, 1992 Petral: arenas del puerto de Palos (Huelva) y espejo. 60 x 51 cm. c/u"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40635,
+   "fin": 40758
+  },
+  {
+   "tipo": "title",
+   "ini": 40635,
+   "fin": 40682,
+   "texto": "Instalación petralográfica de la firma de Colón"
+  },
+  {
+   "tipo": "date",
+   "ini": 40684,
+   "fin": 40688,
+   "rasgos": {
+    "when": "1992"
+   },
+   "texto": "1992"
+  },
+  {
+   "tipo": "material",
+   "ini": 40689,
+   "fin": 40741,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral: arenas del puerto de Palos (Huelva) y espejo"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 40718,
+   "fin": 40732,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Palos (Huelva)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40743,
+   "fin": 40753,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 51 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40743,
+   "fin": 40745,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 40748,
+   "fin": 40750,
+   "texto": "51"
+  },
+  {
+   "tipo": "work",
+   "ini": 40760,
+   "fin": 40898,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Petral retrato de Colón, 1992-2008\nPetral: arenas del puerto de Palos (Huelva), mica de América y yeso de Santa Fe (Granada) 145 x 115 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40760,
+   "fin": 40898
+  },
+  {
+   "tipo": "title",
+   "ini": 40760,
+   "fin": 40783,
+   "texto": "Petral retrato de Colón"
+  },
+  {
+   "tipo": "date",
+   "ini": 40785,
+   "fin": 40794,
+   "rasgos": {
+    "from": "1992",
+    "to": "2008"
+   },
+   "texto": "1992-2008"
+  },
+  {
+   "tipo": "material",
+   "ini": 40795,
+   "fin": 40884,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral: arenas del puerto de Palos (Huelva), mica de América y yeso de Santa Fe (Granada)"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 40824,
+   "fin": 40838,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Palos (Huelva)"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 40848,
+   "fin": 40855,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "América"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 40866,
+   "fin": 40884,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Santa Fe (Granada)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40885,
+   "fin": 40897,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "145 x 115 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40885,
+   "fin": 40888,
+   "texto": "145"
+  },
+  {
+   "tipo": "width",
+   "ini": 40891,
+   "fin": 40894,
+   "texto": "115"
+  },
+  {
+   "tipo": "work",
+   "ini": 40900,
+   "fin": 41060,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Petralografía de la Cruz Roja y la Media Luna Roja, 1992\nPetralografía sobre papel. 40 x 30 cm. Pabellón de la Cruz Roja y la Media Luna Roja Expo 92 de Sevilla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40900,
+   "fin": 41060
+  },
+  {
+   "tipo": "title",
+   "ini": 40900,
+   "fin": 40950,
+   "texto": "Petralografía de la Cruz Roja y la Media Luna Roja"
+  },
+  {
+   "tipo": "date",
+   "ini": 40952,
+   "fin": 40956,
+   "rasgos": {
+    "when": "1992"
+   },
+   "texto": "1992"
+  },
+  {
+   "tipo": "material",
+   "ini": 40957,
+   "fin": 40982,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Petralografía sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40984,
+   "fin": 40994,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40984,
+   "fin": 40986,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 40989,
+   "fin": 40991,
+   "texto": "30"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 40996,
+   "fin": 41060
+  },
+  {
+   "tipo": "placeName",
+   "ini": 41053,
+   "fin": 41060,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 41062,
+   "fin": 41189
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 41062,
+   "fin": 41189,
+   "rasgos": {
+    "type": "photograph",
+    "size": "6"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 41062,
+   "fin": 41119,
+   "texto": "Instalación la Insectidumbre (Ciudad Encantada de Cuenca)"
+  },
+  {
+   "tipo": "date",
+   "ini": 41122,
+   "fin": 41125,
+   "rasgos": {
+    "when": "1993"
+   },
+   "texto": "993"
+  },
+  {
+   "tipo": "material",
+   "ini": 41126,
+   "fin": 41146,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petrales zoomórficos"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 41148,
+   "fin": 41173
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 41174,
+   "fin": 41184,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 41174,
+   "fin": 41176,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 41179,
+   "fin": 41181,
+   "texto": "30"
+  },
+  {
+   "tipo": "work",
+   "ini": 41191,
+   "fin": 41318,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Ruta de las Alpujarras,1994\nPetral: tierra y minerales. 121.5 x 97.5cm. Colección Fundación Pública Andaluza El Legado Andalusí"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 41191,
+   "fin": 41318
+  },
+  {
+   "tipo": "title",
+   "ini": 41191,
+   "fin": 41213,
+   "texto": "Ruta de las Alpujarras"
+  },
+  {
+   "tipo": "date",
+   "ini": 41214,
+   "fin": 41218,
+   "rasgos": {
+    "when": ""
+   },
+   "texto": "1994"
+  },
+  {
+   "tipo": "material",
+   "ini": 41219,
+   "fin": 41245,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral: tierra y minerales"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 41247,
+   "fin": 41261,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "121.5 x 97.5cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 41247,
+   "fin": 41252,
+   "texto": "121.5"
+  },
+  {
+   "tipo": "width",
+   "ini": 41255,
+   "fin": 41259,
+   "texto": "97.5"
+  },
+  {
+   "tipo": "institution",
+   "ini": 41273,
+   "fin": 41318,
+   "rasgos": {
+    "type": "foundation",
+    "role": "owner, lender"
+   },
+   "texto": "Fundación Pública Andaluza El Legado Andalusí"
+  },
+  {
+   "tipo": "work",
+   "ini": 41320,
+   "fin": 41355,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Alhambra, 1996 Petral. 134 x 85 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 41320,
+   "fin": 41355
+  },
+  {
+   "tipo": "title",
+   "ini": 41320,
+   "fin": 41328,
+   "texto": "Alhambra"
+  },
+  {
+   "tipo": "date",
+   "ini": 41330,
+   "fin": 41334,
+   "rasgos": {
+    "when": "1996"
+   },
+   "texto": "1996"
+  },
+  {
+   "tipo": "material",
+   "ini": 41335,
+   "fin": 41341,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 41343,
+   "fin": 41354,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "134 x 85 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 41343,
+   "fin": 41346,
+   "texto": "134"
+  },
+  {
+   "tipo": "width",
+   "ini": 41349,
+   "fin": 41351,
+   "texto": "85"
+  },
+  {
+   "tipo": "work",
+   "ini": 41357,
+   "fin": 41396,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Idea fugaz , 1995 Petral. 122 x 122 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 41357,
+   "fin": 41396
+  },
+  {
+   "tipo": "title",
+   "ini": 41357,
+   "fin": 41367,
+   "texto": "Idea fugaz"
+  },
+  {
+   "tipo": "date",
+   "ini": 41370,
+   "fin": 41374,
+   "rasgos": {
+    "when": "1995"
+   },
+   "texto": "1995"
+  },
+  {
+   "tipo": "material",
+   "ini": 41375,
+   "fin": 41381,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 41383,
+   "fin": 41395,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122 x 122 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 41383,
+   "fin": 41386,
+   "texto": "122"
+  },
+  {
+   "tipo": "width",
+   "ini": 41389,
+   "fin": 41392,
+   "texto": "122"
+  },
+  {
+   "tipo": "work",
+   "ini": 41398,
+   "fin": 41461,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Fuego eterno, 1997\nHierro soldado y acero fundido 126 x 104 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 41398,
+   "fin": 41461
+  },
+  {
+   "tipo": "title",
+   "ini": 41398,
+   "fin": 41410,
+   "texto": "Fuego eterno"
+  },
+  {
+   "tipo": "date",
+   "ini": 41412,
+   "fin": 41416,
+   "rasgos": {
+    "when": "1997"
+   },
+   "texto": "1997"
+  },
+  {
+   "tipo": "material",
+   "ini": 41417,
+   "fin": 41447,
+   "rasgos": {
+    "type": "iron, steel"
+   },
+   "texto": "Hierro soldado y acero fundido"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 41448,
+   "fin": 41460,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "126 x 104 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 41448,
+   "fin": 41451,
+   "texto": "126"
+  },
+  {
+   "tipo": "width",
+   "ini": 41454,
+   "fin": 41457,
+   "texto": "104"
+  },
+  {
+   "tipo": "work",
+   "ini": 41463,
+   "fin": 41514,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Noche para Rothko y Miró, 1998 Petral. 100 x 73 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 41463,
+   "fin": 41514
+  },
+  {
+   "tipo": "title",
+   "ini": 41463,
+   "fin": 41487,
+   "texto": "Noche para Rothko y Miró"
+  },
+  {
+   "tipo": "date",
+   "ini": 41489,
+   "fin": 41493,
+   "rasgos": {
+    "when": "1998"
+   },
+   "texto": "1998"
+  },
+  {
+   "tipo": "material",
+   "ini": 41494,
+   "fin": 41500,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 41502,
+   "fin": 41513,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 73 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 41502,
+   "fin": 41505,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 41508,
+   "fin": 41510,
+   "texto": "73"
+  },
+  {
+   "tipo": "work",
+   "ini": 41516,
+   "fin": 41584,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Dos naranjas y un ocre, 2005\nEstética cuántica. Petral. 100 x 30 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 41516,
+   "fin": 41584
+  },
+  {
+   "tipo": "title",
+   "ini": 41516,
+   "fin": 41538,
+   "texto": "Dos naranjas y un ocre"
+  },
+  {
+   "tipo": "date",
+   "ini": 41540,
+   "fin": 41544,
+   "rasgos": {
+    "when": "2005"
+   },
+   "texto": "2005"
+  },
+  {
+   "tipo": "title",
+   "ini": 41545,
+   "fin": 41562,
+   "texto": "Estética cuántica"
+  },
+  {
+   "tipo": "material",
+   "ini": 41564,
+   "fin": 41570,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 41572,
+   "fin": 41583,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 41572,
+   "fin": 41575,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 41578,
+   "fin": 41580,
+   "texto": "30"
+  },
+  {
+   "tipo": "work",
+   "ini": 41586,
+   "fin": 41665,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Interconexión de naranja y nácar, 2005 Estética cuántica. Petrales. 90 x 60 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 41586,
+   "fin": 41665
+  },
+  {
+   "tipo": "title",
+   "ini": 41586,
+   "fin": 41618,
+   "texto": "Interconexión de naranja y nácar"
+  },
+  {
+   "tipo": "date",
+   "ini": 41620,
+   "fin": 41624,
+   "rasgos": {
+    "when": "2005"
+   },
+   "texto": "2005"
+  },
+  {
+   "tipo": "title",
+   "ini": 41625,
+   "fin": 41642,
+   "texto": "Estética cuántica"
+  },
+  {
+   "tipo": "material",
+   "ini": 41644,
+   "fin": 41652,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petrales"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 41654,
+   "fin": 41664,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "90 x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 41654,
+   "fin": 41656,
+   "texto": "90"
+  },
+  {
+   "tipo": "width",
+   "ini": 41659,
+   "fin": 41661,
+   "texto": "60"
+  },
+  {
+   "tipo": "work",
+   "ini": 41667,
+   "fin": 41775,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Interconexión egipcia. (Interconexión cuántica de 4 colores). Estética cuántica, 2005 Petrales. 60 x 260 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 41667,
+   "fin": 41775
+  },
+  {
+   "tipo": "title",
+   "ini": 41667,
+   "fin": 41746,
+   "texto": "Interconexión egipcia. (Interconexión cuántica de 4 colores). Estética cuántica"
+  },
+  {
+   "tipo": "date",
+   "ini": 41748,
+   "fin": 41752,
+   "rasgos": {
+    "when": "2005"
+   },
+   "texto": "2005"
+  },
+  {
+   "tipo": "material",
+   "ini": 41753,
+   "fin": 41761,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petrales"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 41763,
+   "fin": 41774,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 260 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 41763,
+   "fin": 41765,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 41768,
+   "fin": 41771,
+   "texto": "260"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 41777,
+   "fin": 41968
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 41777,
+   "fin": 41968,
+   "rasgos": {
+    "size": "3",
+    "type": "installation"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 41777,
+   "fin": 41806,
+   "texto": "Instalación Tetraquishexaedro"
+  },
+  {
+   "tipo": "date",
+   "ini": 41808,
+   "fin": 41812,
+   "rasgos": {
+    "when": "2005"
+   },
+   "texto": "2005"
+  },
+  {
+   "tipo": "title",
+   "ini": 41814,
+   "fin": 41831,
+   "texto": "Estética cuántica"
+  },
+  {
+   "tipo": "material",
+   "ini": 41833,
+   "fin": 41849,
+   "rasgos": {
+    "type": "iron"
+   },
+   "texto": "Escultura hierro"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 41851,
+   "fin": 41863,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 220 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 41851,
+   "fin": 41854,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 41857,
+   "fin": 41860,
+   "texto": "220"
+  },
+  {
+   "tipo": "material",
+   "ini": 41865,
+   "fin": 41902,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral: cristal, fluorita y molibdeno"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 41904,
+   "fin": 41916,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "123 x 125 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 41904,
+   "fin": 41907,
+   "texto": "123"
+  },
+  {
+   "tipo": "width",
+   "ini": 41910,
+   "fin": 41913,
+   "texto": "125"
+  },
+  {
+   "tipo": "material",
+   "ini": 41918,
+   "fin": 41955,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral: cristal, fluorita y molibdeno"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 41957,
+   "fin": 41967,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 41957,
+   "fin": 41959,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 41962,
+   "fin": 41964,
+   "texto": "40"
+  },
+  {
+   "tipo": "work",
+   "ini": 41970,
+   "fin": 42024,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Luna de los buenos cambios, 2007 Petral. 120 x 120 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 41970,
+   "fin": 42024
+  },
+  {
+   "tipo": "title",
+   "ini": 41970,
+   "fin": 41996,
+   "texto": "Luna de los buenos cambios"
+  },
+  {
+   "tipo": "date",
+   "ini": 41998,
+   "fin": 42002,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "material",
+   "ini": 42003,
+   "fin": 42009,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 42011,
+   "fin": 42023,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "120 x 120 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 42011,
+   "fin": 42014,
+   "texto": "120"
+  },
+  {
+   "tipo": "width",
+   "ini": 42017,
+   "fin": 42020,
+   "texto": "120"
+  },
+  {
+   "tipo": "work",
+   "ini": 42026,
+   "fin": 42165,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Gran luna llena, 2009\nPetral. 118 cm. diámetro\nInstalación con proyección de video mapping de Thomas Busse y música de Henry Vincent Kneuer"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 42026,
+   "fin": 42165
+  },
+  {
+   "tipo": "title",
+   "ini": 42026,
+   "fin": 42041,
+   "texto": "Gran luna llena"
+  },
+  {
+   "tipo": "date",
+   "ini": 42043,
+   "fin": 42047,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "material",
+   "ini": 42048,
+   "fin": 42054,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 42056,
+   "fin": 42072,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "118 cm. diámetro"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 42056,
+   "fin": 42059,
+   "texto": "118"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 42072,
+   "fin": 42165
+  },
+  {
+   "tipo": "person",
+   "ini": 42120,
+   "fin": 42132,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Thomas Busse"
+  },
+  {
+   "tipo": "persName",
+   "ini": 42120,
+   "fin": 42132,
+   "texto": "Thomas Busse"
+  },
+  {
+   "tipo": "person",
+   "ini": 42145,
+   "fin": 42165,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Henry Vincent Kneuer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 42145,
+   "fin": 42165,
+   "texto": "Henry Vincent Kneuer"
+  },
+  {
+   "tipo": "work",
+   "ini": 42167,
+   "fin": 42409,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 42167,
+   "fin": 42409
+  },
+  {
+   "tipo": "title",
+   "ini": 42167,
+   "fin": 42186,
+   "texto": "Centro del Universo"
+  },
+  {
+   "tipo": "date",
+   "ini": 42188,
+   "fin": 42192,
+   "rasgos": {
+    "when": ""
+   },
+   "texto": "1998"
+  },
+  {
+   "tipo": "title",
+   "ini": 42194,
+   "fin": 42211,
+   "texto": "Estética cuántica"
+  },
+  {
+   "tipo": "material",
+   "ini": 42212,
+   "fin": 42298,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral: minerales, amatistas, turquesas, zafiros, agua marina, cristal y pigmento azul"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 42299,
+   "fin": 42315,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "195 cm. diámetro"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 42299,
+   "fin": 42302,
+   "texto": "195"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 42317,
+   "fin": 42409
+  },
+  {
+   "tipo": "person",
+   "ini": 42364,
+   "fin": 42376,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Thomas Busse"
+  },
+  {
+   "tipo": "persName",
+   "ini": 42364,
+   "fin": 42376,
+   "texto": "Thomas Busse"
+  },
+  {
+   "tipo": "person",
+   "ini": 42389,
+   "fin": 42409,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Henry Vincent Kneuer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 42389,
+   "fin": 42409,
+   "texto": "Henry Vincent Kneuer"
+  },
+  {
+   "tipo": "work",
+   "ini": 42411,
+   "fin": 42530,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Instalación tierra, aire y mar\n2018\nPetrales zoomórficos\nMedidas variables, tres elementos Colección de José Luís Yuste"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 42411,
+   "fin": 42530
+  },
+  {
+   "tipo": "title",
+   "ini": 42411,
+   "fin": 42441,
+   "texto": "Instalación tierra, aire y mar"
+  },
+  {
+   "tipo": "date",
+   "ini": 42442,
+   "fin": 42446,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "material",
+   "ini": 42447,
+   "fin": 42467,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petrales zoomórficos"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 42468,
+   "fin": 42485,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "Medidas variables"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 42487,
+   "fin": 42501
+  },
+  {
+   "tipo": "person",
+   "ini": 42515,
+   "fin": 42531,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "José Luís Yuste\n"
+  },
+  {
+   "tipo": "persName",
+   "ini": 42515,
+   "fin": 42530,
+   "texto": "José Luís Yuste"
+  },
+  {
+   "tipo": "work",
+   "ini": 42532,
+   "fin": 42576,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Vacuno IV\n2018\nPetral zoomórfico 87 x 77 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 42532,
+   "fin": 42576
+  },
+  {
+   "tipo": "title",
+   "ini": 42532,
+   "fin": 42541,
+   "texto": "Vacuno IV"
+  },
+  {
+   "tipo": "date",
+   "ini": 42542,
+   "fin": 42546,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "material",
+   "ini": 42547,
+   "fin": 42564,
+   "rasgos": {
+    "type": "breastplate"
+   },
+   "texto": "Petral zoomórfico"
+  },
+  {
+   "tipo": "height",
+   "ini": 42565,
+   "fin": 42567,
+   "texto": "87"
+  },
+  {
+   "tipo": "width",
+   "ini": 42570,
+   "fin": 42572,
+   "texto": "77"
+  },
+  {
+   "tipo": "person",
+   "ini": 42590,
+   "fin": 42643,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xaverio (Javier Muñoz Bullejos, Granada, España 1956)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 42590,
+   "fin": 42597,
+   "texto": "Xaverio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 42599,
+   "fin": 42620,
+   "texto": "Javier Muñoz Bullejos"
+  },
+  {
+   "tipo": "birth",
+   "ini": 42622,
+   "fin": 42642
+  },
+  {
+   "tipo": "placeName",
+   "ini": 42622,
+   "fin": 42637,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Granada, España"
+  },
+  {
+   "tipo": "date",
+   "ini": 42638,
+   "fin": 42642,
+   "rasgos": {
+    "when": "1956"
+   },
+   "texto": "1956"
+  },
+  {
+   "tipo": "person",
+   "ini": 46854,
+   "fin": 46881,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Thomas Busse (Berlin, 1957)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 46854,
+   "fin": 46866,
+   "texto": "Thomas Busse"
+  },
+  {
+   "tipo": "birth",
+   "ini": 46868,
+   "fin": 46880
+  },
+  {
+   "tipo": "placeName",
+   "ini": 46868,
+   "fin": 46874,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Berlin"
+  },
+  {
+   "tipo": "date",
+   "ini": 46876,
+   "fin": 46880,
+   "rasgos": {
+    "when": "1957"
+   },
+   "texto": "1957"
+  },
+  {
+   "tipo": "person",
+   "ini": 46910,
+   "fin": 46954,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Henry Vincent Kneuer (Washington D.C.,\n1953)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 46910,
+   "fin": 46931,
+   "texto": "Henry Vincent Kneuer "
+  },
+  {
+   "tipo": "birth",
+   "ini": 46932,
+   "fin": 46953
+  },
+  {
+   "tipo": "placeName",
+   "ini": 46932,
+   "fin": 46947,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Washington D.C."
+  },
+  {
+   "tipo": "date",
+   "ini": 46949,
+   "fin": 46953,
+   "rasgos": {
+    "when": "1953"
+   },
+   "texto": "1953"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 47323,
+   "fin": 47461,
+   "rasgos": {
+    "ref": ""
+   }
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 47491,
+   "fin": 47583,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 47491,
+   "fin": 47495,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "title",
+   "ini": 47497,
+   "fin": 47541,
+   "texto": "Xaverio. Una perspectiva cuántica, 1975-2018"
+  },
+  {
+   "tipo": "date",
+   "ini": 47532,
+   "fin": 47541,
+   "rasgos": {
+    "from": "1975",
+    "to": "2018"
+   },
+   "texto": "1975-2018"
+  },
+  {
+   "tipo": "institution",
+   "ini": 47543,
+   "fin": 47563,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser, host"
+   },
+   "texto": "Instituto de América"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 47565,
+   "fin": 47582,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Santa Fe, Granada"
+  }
+ ]
+}

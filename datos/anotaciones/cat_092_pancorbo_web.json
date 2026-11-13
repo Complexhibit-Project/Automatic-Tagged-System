@@ -1,0 +1,1298 @@
+{
+ "id": "cat_092_pancorbo_web",
+ "nombre_original": "PANCORBO-WEB",
+ "longitud_texto": 5331,
+ "sha256_texto": "06c14cd8856f2c6234efda1eb045644b19ee9fd4e16a22a26095b2d373c3e7b4",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 8,
+   "texto": "Pancorbo"
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 8,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pancorbo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 8,
+   "texto": "Pancorbo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 8,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 23,
+   "fin": 43,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Galería CortabitArte"
+  },
+  {
+   "tipo": "persName",
+   "ini": 61,
+   "fin": 80,
+   "texto": "Laura Benítez Soto\r"
+  },
+  {
+   "tipo": "person",
+   "ini": 61,
+   "fin": 79,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Laura Benítez Soto"
+  },
+  {
+   "tipo": "person",
+   "ini": 104,
+   "fin": 123,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lara Irigoyen Heras"
+  },
+  {
+   "tipo": "persName",
+   "ini": 104,
+   "fin": 123,
+   "texto": "Lara Irigoyen Heras"
+  },
+  {
+   "tipo": "institution",
+   "ini": 137,
+   "fin": 165,
+   "rasgos": {
+    "type": "printer"
+   },
+   "texto": "Imprenta Provincial de Soria"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 160,
+   "fin": 165,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Soria"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 169,
+   "fin": 227,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 169,
+   "fin": 177,
+   "texto": "Pancorbo"
+  },
+  {
+   "tipo": "person",
+   "ini": 169,
+   "fin": 177,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pancorbo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 169,
+   "fin": 177,
+   "texto": "Pancorbo"
+  },
+  {
+   "tipo": "person",
+   "ini": 181,
+   "fin": 197,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alberto Pancorbo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 181,
+   "fin": 197,
+   "texto": "Alberto Pancorbo"
+  },
+  {
+   "tipo": "date",
+   "ini": 201,
+   "fin": 227,
+   "rasgos": {
+    "from": "2019-09-01",
+    "to": "2019-10-31"
+   },
+   "texto": "Septiembre / Octubre 2019\r"
+  },
+  {
+   "tipo": "person",
+   "ini": 1830,
+   "fin": 1847,
+   "rasgos": {
+    "role": "creator, author"
+   },
+   "texto": "Alberto Pancorbo\r"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1830,
+   "fin": 1846,
+   "texto": "Alberto Pancorbo"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 1850,
+   "fin": 2678
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1850,
+   "fin": 1913
+  },
+  {
+   "tipo": "img",
+   "ini": 1850,
+   "fin": 1855,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1858,
+   "fin": 1913,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Génesis de un sueño\r\n162 x 208 cm. - Óleo sobre lienzo\r"
+  },
+  {
+   "tipo": "title",
+   "ini": 1858,
+   "fin": 1878,
+   "texto": "Génesis de un sueño\r"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1879,
+   "fin": 1891,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "162 x 208 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1879,
+   "fin": 1882,
+   "texto": "162"
+  },
+  {
+   "tipo": "width",
+   "ini": 1885,
+   "fin": 1888,
+   "texto": "208"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1895,
+   "fin": 1913,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo\r"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1916,
+   "fin": 1973
+  },
+  {
+   "tipo": "img",
+   "ini": 1916,
+   "fin": 1921,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1924,
+   "fin": 1974,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Camino a Soria\r\n102 x 102 cm. - Óleo sobre lienzo\r"
+  },
+  {
+   "tipo": "title",
+   "ini": 1924,
+   "fin": 1938,
+   "texto": "Camino a Soria"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1940,
+   "fin": 1952,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "102 x 102 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1940,
+   "fin": 1943,
+   "texto": "102"
+  },
+  {
+   "tipo": "width",
+   "ini": 1946,
+   "fin": 1949,
+   "texto": "102"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1956,
+   "fin": 1973,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1977,
+   "fin": 2038
+  },
+  {
+   "tipo": "img",
+   "ini": 1977,
+   "fin": 1982,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1985,
+   "fin": 2039,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Trinidad - Génesis\r\n122 x 148 cm. - Óleo sobre lienzo\r"
+  },
+  {
+   "tipo": "title",
+   "ini": 1985,
+   "fin": 2003,
+   "texto": "Trinidad - Génesis"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2005,
+   "fin": 2017,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122 x 148 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2005,
+   "fin": 2008,
+   "texto": "122"
+  },
+  {
+   "tipo": "width",
+   "ini": 2011,
+   "fin": 2014,
+   "texto": "148"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2021,
+   "fin": 2038,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2042,
+   "fin": 2091
+  },
+  {
+   "tipo": "img",
+   "ini": 2042,
+   "fin": 2047,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2050,
+   "fin": 2092,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Soriana\r\n76 x 102 cm. - Óleo sobre lienzo\r"
+  },
+  {
+   "tipo": "title",
+   "ini": 2050,
+   "fin": 2057,
+   "texto": "Soriana"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2059,
+   "fin": 2070,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "76 x 102 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2059,
+   "fin": 2061,
+   "texto": "76"
+  },
+  {
+   "tipo": "width",
+   "ini": 2064,
+   "fin": 2067,
+   "texto": "102"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2074,
+   "fin": 2092,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo\r"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2095,
+   "fin": 2148
+  },
+  {
+   "tipo": "img",
+   "ini": 2095,
+   "fin": 2100,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2103,
+   "fin": 2149,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Enigma III\r\n122 x 122 cm. • Óleo sobre lienzo\r"
+  },
+  {
+   "tipo": "title",
+   "ini": 2103,
+   "fin": 2113,
+   "texto": "Enigma III"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2115,
+   "fin": 2127,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122 x 122 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2115,
+   "fin": 2118,
+   "texto": "122"
+  },
+  {
+   "tipo": "width",
+   "ini": 2121,
+   "fin": 2124,
+   "texto": "122"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2131,
+   "fin": 2149,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo\r"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2152,
+   "fin": 2217
+  },
+  {
+   "tipo": "img",
+   "ini": 2152,
+   "fin": 2157,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2160,
+   "fin": 2218,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La otra orilla del Duero\r\n41 x 33 cm. - Óleo sobre lienzo\r"
+  },
+  {
+   "tipo": "title",
+   "ini": 2160,
+   "fin": 2184,
+   "texto": "La otra orilla del Duero"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2186,
+   "fin": 2196,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 33 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2186,
+   "fin": 2188,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 2191,
+   "fin": 2193,
+   "texto": "33"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2200,
+   "fin": 2217,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2221,
+   "fin": 2282
+  },
+  {
+   "tipo": "img",
+   "ini": 2221,
+   "fin": 2226,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2229,
+   "fin": 2282,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pescador de sueños\r\n100 x 182 cm. - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 2229,
+   "fin": 2247,
+   "texto": "Pescador de sueños"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2249,
+   "fin": 2261,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 182 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2249,
+   "fin": 2252,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 2255,
+   "fin": 2258,
+   "texto": "182"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2265,
+   "fin": 2282,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2286,
+   "fin": 2338
+  },
+  {
+   "tipo": "img",
+   "ini": 2286,
+   "fin": 2291,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2294,
+   "fin": 2338,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sueño azul\r\n122 x 92 cm. - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 2294,
+   "fin": 2304,
+   "texto": "Sueño azul"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2306,
+   "fin": 2317,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122 x 92 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2306,
+   "fin": 2309,
+   "texto": "122"
+  },
+  {
+   "tipo": "width",
+   "ini": 2312,
+   "fin": 2314,
+   "texto": "92"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2321,
+   "fin": 2338,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2342,
+   "fin": 2393
+  },
+  {
+   "tipo": "img",
+   "ini": 2342,
+   "fin": 2347,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2350,
+   "fin": 2392,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Granadas\r\n70 x 112 cm. - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 2350,
+   "fin": 2358,
+   "texto": "Granadas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2360,
+   "fin": 2371,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 112 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2360,
+   "fin": 2362,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 2365,
+   "fin": 2368,
+   "texto": "112"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2375,
+   "fin": 2392,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2396,
+   "fin": 2452
+  },
+  {
+   "tipo": "img",
+   "ini": 2396,
+   "fin": 2401,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2404,
+   "fin": 2452,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Laberinto azul\r\n50 x 60 cm. - Óleo sobre lienzo\r"
+  },
+  {
+   "tipo": "title",
+   "ini": 2404,
+   "fin": 2419,
+   "texto": "Laberinto azul\r"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2420,
+   "fin": 2430,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2420,
+   "fin": 2422,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 2425,
+   "fin": 2427,
+   "texto": "60"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2434,
+   "fin": 2452,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo\r"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2455,
+   "fin": 2500
+  },
+  {
+   "tipo": "img",
+   "ini": 2455,
+   "fin": 2460,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2463,
+   "fin": 2500,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Toro\r\n56 x 56 cm. - Óleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 2463,
+   "fin": 2467,
+   "texto": "Toro"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2469,
+   "fin": 2479,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "56 x 56 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2469,
+   "fin": 2471,
+   "texto": "56"
+  },
+  {
+   "tipo": "width",
+   "ini": 2474,
+   "fin": 2476,
+   "texto": "56"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2483,
+   "fin": 2500,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2504,
+   "fin": 2556
+  },
+  {
+   "tipo": "img",
+   "ini": 2504,
+   "fin": 2509,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2512,
+   "fin": 2556,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Poema azul\r\n40 x 50 cm. - Óleo sobre lienzo\r"
+  },
+  {
+   "tipo": "title",
+   "ini": 2512,
+   "fin": 2522,
+   "texto": "Poema azul"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2524,
+   "fin": 2534,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2524,
+   "fin": 2526,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 2529,
+   "fin": 2531,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2538,
+   "fin": 2555,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2559,
+   "fin": 2623
+  },
+  {
+   "tipo": "img",
+   "ini": 2559,
+   "fin": 2564,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2566,
+   "fin": 2623,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Bodegón blanco con uvas\r\n92 x 66 cm. - Óleo sobre lienzo\r"
+  },
+  {
+   "tipo": "title",
+   "ini": 2566,
+   "fin": 2589,
+   "texto": "Bodegón blanco con uvas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2591,
+   "fin": 2601,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "92 x 66 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2591,
+   "fin": 2593,
+   "texto": "92"
+  },
+  {
+   "tipo": "width",
+   "ini": 2596,
+   "fin": 2598,
+   "texto": "66"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2605,
+   "fin": 2623,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo\r"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2626,
+   "fin": 2678
+  },
+  {
+   "tipo": "img",
+   "ini": 2626,
+   "fin": 2631,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2634,
+   "fin": 2678,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Cangrejo\r\n152 x 122 cm. - Óleo sobre lienzo\r"
+  },
+  {
+   "tipo": "title",
+   "ini": 2634,
+   "fin": 2642,
+   "texto": "Cangrejo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2644,
+   "fin": 2656,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "152 x 122 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2644,
+   "fin": 2647,
+   "texto": "152"
+  },
+  {
+   "tipo": "width",
+   "ini": 2650,
+   "fin": 2653,
+   "texto": "122"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2660,
+   "fin": 2677,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "person",
+   "ini": 2683,
+   "fin": 2759,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alberto Pancorbo\r\nNace en la ciudad de Soria. España, el 18 de abril de 1956"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2683,
+   "fin": 2699,
+   "texto": "Alberto Pancorbo"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2722,
+   "fin": 2727,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Soria"
+  },
+  {
+   "tipo": "date",
+   "ini": 2740,
+   "fin": 2759,
+   "rasgos": {
+    "when": "1956-04-18"
+   },
+   "texto": "18 de abril de 1956"
+  },
+  {
+   "tipo": "person",
+   "ini": 2761,
+   "fin": 2777,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alberto Pancorbo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2761,
+   "fin": 2777,
+   "texto": "Alberto Pancorbo"
+  },
+  {
+   "tipo": "date",
+   "ini": 3086,
+   "fin": 3090,
+   "rasgos": {
+    "when": "1980"
+   },
+   "texto": "1980"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3132,
+   "fin": 3163,
+   "rasgos": {
+    "type": "gallery"
+   },
+   "texto": "galeria Sala Gaudi de Barcelona"
+  },
+  {
+   "tipo": "date",
+   "ini": 3386,
+   "fin": 3390,
+   "rasgos": {
+    "when": "1982"
+   },
+   "texto": "1982"
+  },
+  {
+   "tipo": "date",
+   "ini": 3469,
+   "fin": 3473,
+   "rasgos": {
+    "when": "1985"
+   },
+   "texto": "1985"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3652,
+   "fin": 3660,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pancorbo"
+  },
+  {
+   "tipo": "date",
+   "ini": 3688,
+   "fin": 3692,
+   "rasgos": {
+    "when": "1986"
+   },
+   "texto": "1986"
+  },
+  {
+   "tipo": "date",
+   "ini": 3698,
+   "fin": 3702,
+   "rasgos": {
+    "when": "1985"
+   },
+   "texto": "1985"
+  },
+  {
+   "tipo": "date",
+   "ini": 3774,
+   "fin": 3778,
+   "rasgos": {
+    "when": "1986"
+   },
+   "texto": "1986"
+  },
+  {
+   "tipo": "date",
+   "ini": 3920,
+   "fin": 3924,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "date",
+   "ini": 3930,
+   "fin": 3934,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4146,
+   "fin": 4168,
+   "rasgos": {
+    "type": "auction"
+   },
+   "texto": "Sotheby's (Nueva York)"
+  },
+  {
+   "tipo": "date",
+   "ini": 4173,
+   "fin": 4177,
+   "rasgos": {
+    "when": "1993"
+   },
+   "texto": "1993"
+  },
+  {
+   "tipo": "date",
+   "ini": 4236,
+   "fin": 4240,
+   "rasgos": {
+    "when": "1994"
+   },
+   "texto": "1994"
+  },
+  {
+   "tipo": "date",
+   "ini": 4343,
+   "fin": 4347,
+   "rasgos": {
+    "when": "1998"
+   },
+   "texto": "1998"
+  },
+  {
+   "tipo": "person",
+   "ini": 4348,
+   "fin": 4356,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pancorbo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4348,
+   "fin": 4356,
+   "texto": "Pancorbo"
+  },
+  {
+   "tipo": "date",
+   "ini": 4449,
+   "fin": 4453,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "date",
+   "ini": 4459,
+   "fin": 4463,
+   "rasgos": {
+    "when": "2001"
+   },
+   "texto": "2001"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4487,
+   "fin": 4508,
+   "rasgos": {
+    "type": "townHall"
+   },
+   "texto": "Ayuntamiento de Soria"
+  },
+  {
+   "tipo": "date",
+   "ini": 4662,
+   "fin": 4666,
+   "rasgos": {
+    "when": "2002"
+   },
+   "texto": "2002"
+  },
+  {
+   "tipo": "date",
+   "ini": 4832,
+   "fin": 4836,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4910,
+   "fin": 4930,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Galería Cortabitarte"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5014,
+   "fin": 5044,
+   "rasgos": {
+    "type": "administration"
+   },
+   "texto": "Diputación Provincial de Soria"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5213,
+   "fin": 5234,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "GALERÍA\r\nCORTABITarte"
+  },
+  {
+   "tipo": "address",
+   "ini": 5235,
+   "fin": 5276,
+   "texto": "C/ Mosquera de Barnuevo. 8 42004 - Soria\r"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5270,
+   "fin": 5275,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Soria"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5310,
+   "fin": 5331,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "GALERIA\r\nCORTABITARTE"
+  }
+ ]
+}

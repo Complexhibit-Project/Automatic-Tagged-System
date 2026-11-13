@@ -1,0 +1,3738 @@
+{
+ "id": "cat_063_catalogo_xvii_aniversario_pdf2",
+ "nombre_original": "catalogo-XVII-aniversario-pdf2",
+ "longitud_texto": 19555,
+ "sha256_texto": "7070cb5ae60d812c500dc4882334fbfa7e9776d5fa4195b5c1b9f79bef7baf0c",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 40,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 0,
+   "fin": 21,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería de Arte VISOL"
+  },
+  {
+   "tipo": "title",
+   "ini": 23,
+   "fin": 40,
+   "texto": "ANIVERSARIO\n\nXVII"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 136,
+   "fin": 223,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 136,
+   "fin": 177,
+   "texto": "XVII ANIVERSARIO\nde\nGalería de Arte VISOL"
+  },
+  {
+   "tipo": "institution",
+   "ini": 156,
+   "fin": 177,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería de Arte VISOL"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 179,
+   "fin": 186,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Ourense"
+  },
+  {
+   "tipo": "date",
+   "ini": 191,
+   "fin": 223,
+   "rasgos": {
+    "from": "2013-04-12",
+    "to": "2013-05-31"
+   },
+   "texto": "12 de Abril a 31 de Mayo de 2013"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 225,
+   "fin": 19530
+  },
+  {
+   "tipo": "text",
+   "ini": 225,
+   "fin": 1977
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1979,
+   "fin": 2026
+  },
+  {
+   "tipo": "work",
+   "ini": 1979,
+   "fin": 2019,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "M. Figueiras\nA Italiana\nmixt/tabla\n49x60"
+  },
+  {
+   "tipo": "person",
+   "ini": 1979,
+   "fin": 1991,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "M. Figueiras"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1979,
+   "fin": 1991,
+   "texto": "M. Figueiras"
+  },
+  {
+   "tipo": "title",
+   "ini": 1992,
+   "fin": 2002,
+   "texto": "A Italiana"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2003,
+   "fin": 2013,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "mixt/tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2014,
+   "fin": 2019,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "49x60"
+  },
+  {
+   "tipo": "height",
+   "ini": 2014,
+   "fin": 2016,
+   "texto": "49"
+  },
+  {
+   "tipo": "width",
+   "ini": 2017,
+   "fin": 2019,
+   "texto": "60"
+  },
+  {
+   "tipo": "img",
+   "ini": 2021,
+   "fin": 2026,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 2028,
+   "fin": 5717
+  },
+  {
+   "tipo": "institution",
+   "ini": 5516,
+   "fin": 5529,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "galería Visol"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5720,
+   "fin": 5760
+  },
+  {
+   "tipo": "work",
+   "ini": 5720,
+   "fin": 5753,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "F. Recuero\nMirada\ncollage\n29 x 29"
+  },
+  {
+   "tipo": "person",
+   "ini": 5720,
+   "fin": 5730,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "F. Recuero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5720,
+   "fin": 5730,
+   "texto": "F. Recuero"
+  },
+  {
+   "tipo": "title",
+   "ini": 5731,
+   "fin": 5737,
+   "texto": "Mirada"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5738,
+   "fin": 5745,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "collage"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5746,
+   "fin": 5753,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29 x 29"
+  },
+  {
+   "tipo": "height",
+   "ini": 5746,
+   "fin": 5748,
+   "texto": "29"
+  },
+  {
+   "tipo": "width",
+   "ini": 5751,
+   "fin": 5753,
+   "texto": "29"
+  },
+  {
+   "tipo": "img",
+   "ini": 5755,
+   "fin": 5760,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 5762,
+   "fin": 5910
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5913,
+   "fin": 5978
+  },
+  {
+   "tipo": "img",
+   "ini": 5913,
+   "fin": 5918,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5920,
+   "fin": 5978,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Tito Lucaveche\nMaternidad entre costuras\nóleo/lienzo\n46x38"
+  },
+  {
+   "tipo": "person",
+   "ini": 5920,
+   "fin": 5934,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Tito Lucaveche"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5920,
+   "fin": 5934,
+   "texto": "Tito Lucaveche"
+  },
+  {
+   "tipo": "title",
+   "ini": 5935,
+   "fin": 5960,
+   "texto": "Maternidad entre costuras"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5961,
+   "fin": 5972,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "óleo/lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5973,
+   "fin": 5978,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46x38"
+  },
+  {
+   "tipo": "text",
+   "ini": 5980,
+   "fin": 7861
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7864,
+   "fin": 7916
+  },
+  {
+   "tipo": "work",
+   "ini": 7864,
+   "fin": 7909,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Karballo\nPremamá\nfresco-acrílico/tabla\n103x99"
+  },
+  {
+   "tipo": "person",
+   "ini": 7864,
+   "fin": 7872,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Karballo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7864,
+   "fin": 7872,
+   "texto": "Karballo"
+  },
+  {
+   "tipo": "title",
+   "ini": 7873,
+   "fin": 7880,
+   "texto": "Premamá"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7881,
+   "fin": 7902,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "fresco-acrílico/tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7903,
+   "fin": 7909,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "103x99"
+  },
+  {
+   "tipo": "height",
+   "ini": 7903,
+   "fin": 7906,
+   "texto": "103"
+  },
+  {
+   "tipo": "width",
+   "ini": 7907,
+   "fin": 7909,
+   "texto": "99"
+  },
+  {
+   "tipo": "img",
+   "ini": 7911,
+   "fin": 7916,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7918,
+   "fin": 7973
+  },
+  {
+   "tipo": "work",
+   "ini": 7918,
+   "fin": 7966,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sula Repani\nCosas de amores\nóleo/tabla\n129x122,5"
+  },
+  {
+   "tipo": "person",
+   "ini": 7918,
+   "fin": 7929,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sula Repani"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7918,
+   "fin": 7929,
+   "texto": "Sula Repani"
+  },
+  {
+   "tipo": "title",
+   "ini": 7930,
+   "fin": 7945,
+   "texto": "Cosas de amores"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7946,
+   "fin": 7956,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "óleo/tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7957,
+   "fin": 7966,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "129x122,5"
+  },
+  {
+   "tipo": "height",
+   "ini": 7957,
+   "fin": 7960,
+   "texto": "129"
+  },
+  {
+   "tipo": "width",
+   "ini": 7961,
+   "fin": 7966,
+   "texto": "122,5"
+  },
+  {
+   "tipo": "img",
+   "ini": 7968,
+   "fin": 7973,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7975,
+   "fin": 8013
+  },
+  {
+   "tipo": "work",
+   "ini": 7975,
+   "fin": 8006,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Eligio\nS/t,\nmixta/lienzo\n116X92"
+  },
+  {
+   "tipo": "person",
+   "ini": 7975,
+   "fin": 7981,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eligio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7975,
+   "fin": 7981,
+   "texto": "Eligio"
+  },
+  {
+   "tipo": "person",
+   "ini": 7975,
+   "fin": 7977,
+   "texto": "El"
+  },
+  {
+   "tipo": "title",
+   "ini": 7982,
+   "fin": 7985,
+   "texto": "S/t"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7987,
+   "fin": 7999,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "mixta/lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8000,
+   "fin": 8006,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "116X92"
+  },
+  {
+   "tipo": "height",
+   "ini": 8000,
+   "fin": 8003,
+   "texto": "116"
+  },
+  {
+   "tipo": "width",
+   "ini": 8004,
+   "fin": 8006,
+   "texto": "92"
+  },
+  {
+   "tipo": "img",
+   "ini": 8008,
+   "fin": 8013,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8015,
+   "fin": 8062
+  },
+  {
+   "tipo": "work",
+   "ini": 8015,
+   "fin": 8055,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Acisclo\nTorso\nbarro refractaria\n60x30x28"
+  },
+  {
+   "tipo": "person",
+   "ini": 8015,
+   "fin": 8022,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Acisclo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8015,
+   "fin": 8022,
+   "texto": "Acisclo"
+  },
+  {
+   "tipo": "title",
+   "ini": 8023,
+   "fin": 8028,
+   "texto": "Torso"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8029,
+   "fin": 8046,
+   "rasgos": {
+    "type": "clay"
+   },
+   "texto": "barro refractaria"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8047,
+   "fin": 8055,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60x30x28"
+  },
+  {
+   "tipo": "height",
+   "ini": 8047,
+   "fin": 8049,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 8050,
+   "fin": 8052,
+   "texto": "30"
+  },
+  {
+   "tipo": "depth",
+   "ini": 8053,
+   "fin": 8055,
+   "texto": "28"
+  },
+  {
+   "tipo": "img",
+   "ini": 8057,
+   "fin": 8062,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 8064,
+   "fin": 8725
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8727,
+   "fin": 8774
+  },
+  {
+   "tipo": "img",
+   "ini": 8727,
+   "fin": 8732,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8734,
+   "fin": 8774,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "X. Poldras\nNai\ncolagrafía e tintas\n78x77"
+  },
+  {
+   "tipo": "person",
+   "ini": 8734,
+   "fin": 8744,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "X. Poldras"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8734,
+   "fin": 8744,
+   "texto": "X. Poldras"
+  },
+  {
+   "tipo": "title",
+   "ini": 8745,
+   "fin": 8748,
+   "texto": "Nai"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8749,
+   "fin": 8768,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "colagrafía e tintas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8769,
+   "fin": 8774,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "78x77"
+  },
+  {
+   "tipo": "height",
+   "ini": 8769,
+   "fin": 8771,
+   "texto": "78"
+  },
+  {
+   "tipo": "width",
+   "ini": 8772,
+   "fin": 8774,
+   "texto": "77"
+  },
+  {
+   "tipo": "text",
+   "ini": 8776,
+   "fin": 9024
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9027,
+   "fin": 9084
+  },
+  {
+   "tipo": "work",
+   "ini": 9027,
+   "fin": 9077,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Virxilio\nPaisaxe con xestas\nmixta/tabla,\n24,5x24,5"
+  },
+  {
+   "tipo": "person",
+   "ini": 9027,
+   "fin": 9035,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Virxilio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9027,
+   "fin": 9035,
+   "texto": "Virxilio"
+  },
+  {
+   "tipo": "title",
+   "ini": 9036,
+   "fin": 9054,
+   "texto": "Paisaxe con xestas"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9055,
+   "fin": 9066,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "mixta/tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9068,
+   "fin": 9077,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "24,5x24,5"
+  },
+  {
+   "tipo": "height",
+   "ini": 9068,
+   "fin": 9072,
+   "texto": "24,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 9073,
+   "fin": 9077,
+   "texto": "24,5"
+  },
+  {
+   "tipo": "img",
+   "ini": 9079,
+   "fin": 9084,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9086,
+   "fin": 9136
+  },
+  {
+   "tipo": "work",
+   "ini": 9086,
+   "fin": 9129,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Lazcano\ns/título\nmixta/cenizas/cartón\n60x81"
+  },
+  {
+   "tipo": "person",
+   "ini": 9086,
+   "fin": 9093,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lazcano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9086,
+   "fin": 9093,
+   "texto": "Lazcano"
+  },
+  {
+   "tipo": "title",
+   "ini": 9094,
+   "fin": 9102,
+   "texto": "s/título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9103,
+   "fin": 9123,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "mixta/cenizas/cartón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9124,
+   "fin": 9129,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60x81"
+  },
+  {
+   "tipo": "height",
+   "ini": 9124,
+   "fin": 9126,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 9127,
+   "fin": 9129,
+   "texto": "81"
+  },
+  {
+   "tipo": "img",
+   "ini": 9131,
+   "fin": 9136,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9138,
+   "fin": 9227
+  },
+  {
+   "tipo": "img",
+   "ini": 9138,
+   "fin": 9143,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9145,
+   "fin": 9227,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Carlos González Villar\ns/título\ngrabado al aceite, ácido directo y aguatinta\n37x78"
+  },
+  {
+   "tipo": "person",
+   "ini": 9145,
+   "fin": 9167,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carlos González Villar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9145,
+   "fin": 9167,
+   "texto": "Carlos González Villar"
+  },
+  {
+   "tipo": "title",
+   "ini": 9168,
+   "fin": 9176,
+   "texto": "s/título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9177,
+   "fin": 9221,
+   "rasgos": {
+    "type": "engraving, aquatint"
+   },
+   "texto": "grabado al aceite, ácido directo y aguatinta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9222,
+   "fin": 9227,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "37x78"
+  },
+  {
+   "tipo": "height",
+   "ini": 9222,
+   "fin": 9224,
+   "texto": "37"
+  },
+  {
+   "tipo": "width",
+   "ini": 9225,
+   "fin": 9227,
+   "texto": "78"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9229,
+   "fin": 9285
+  },
+  {
+   "tipo": "work",
+   "ini": 9229,
+   "fin": 9278,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Guillermo Pedrosa\nSolidez dúctil\nmixta/tela\n40x40"
+  },
+  {
+   "tipo": "person",
+   "ini": 9229,
+   "fin": 9246,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guillermo Pedrosa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9229,
+   "fin": 9246,
+   "texto": "Guillermo Pedrosa"
+  },
+  {
+   "tipo": "title",
+   "ini": 9247,
+   "fin": 9261,
+   "texto": "Solidez dúctil"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9262,
+   "fin": 9272,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "mixta/tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9273,
+   "fin": 9278,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40x40"
+  },
+  {
+   "tipo": "height",
+   "ini": 9273,
+   "fin": 9275,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 9276,
+   "fin": 9278,
+   "texto": "40"
+  },
+  {
+   "tipo": "img",
+   "ini": 9280,
+   "fin": 9285,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9287,
+   "fin": 9349
+  },
+  {
+   "tipo": "img",
+   "ini": 9287,
+   "fin": 9292,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9294,
+   "fin": 9349,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "X. Barreiro\nAtardecer en playa Beluso\nóleo/cartón\n64x65"
+  },
+  {
+   "tipo": "person",
+   "ini": 9294,
+   "fin": 9305,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "X. Barreiro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9294,
+   "fin": 9305,
+   "texto": "X. Barreiro"
+  },
+  {
+   "tipo": "title",
+   "ini": 9306,
+   "fin": 9331,
+   "texto": "Atardecer en playa Beluso"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9332,
+   "fin": 9343,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "óleo/cartón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9344,
+   "fin": 9349,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "64x65"
+  },
+  {
+   "tipo": "height",
+   "ini": 9344,
+   "fin": 9346,
+   "texto": "64"
+  },
+  {
+   "tipo": "width",
+   "ini": 9347,
+   "fin": 9349,
+   "texto": "65"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9351,
+   "fin": 9393
+  },
+  {
+   "tipo": "img",
+   "ini": 9351,
+   "fin": 9356,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9358,
+   "fin": 9393,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Rivada\nAboa\nhierro tratado\n35x26x18"
+  },
+  {
+   "tipo": "person",
+   "ini": 9358,
+   "fin": 9364,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rivada"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9358,
+   "fin": 9364,
+   "texto": "Rivada"
+  },
+  {
+   "tipo": "title",
+   "ini": 9365,
+   "fin": 9369,
+   "texto": "Aboa"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9370,
+   "fin": 9384,
+   "rasgos": {
+    "type": "iron"
+   },
+   "texto": "hierro tratado"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9385,
+   "fin": 9393,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35x26x18"
+  },
+  {
+   "tipo": "height",
+   "ini": 9385,
+   "fin": 9387,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 9388,
+   "fin": 9390,
+   "texto": "26"
+  },
+  {
+   "tipo": "depth",
+   "ini": 9391,
+   "fin": 9393,
+   "texto": "18"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9395,
+   "fin": 9449
+  },
+  {
+   "tipo": "img",
+   "ini": 9395,
+   "fin": 9400,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9402,
+   "fin": 9449,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Ramón Conde\nPaternidad\nfibra de vidrio\n17x17x19"
+  },
+  {
+   "tipo": "person",
+   "ini": 9402,
+   "fin": 9413,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ramón Conde"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9402,
+   "fin": 9413,
+   "texto": "Ramón Conde"
+  },
+  {
+   "tipo": "title",
+   "ini": 9414,
+   "fin": 9424,
+   "texto": "Paternidad"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9425,
+   "fin": 9440,
+   "rasgos": {
+    "type": "fiberglass"
+   },
+   "texto": "fibra de vidrio"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9441,
+   "fin": 9449,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "17x17x19"
+  },
+  {
+   "tipo": "height",
+   "ini": 9441,
+   "fin": 9443,
+   "texto": "17"
+  },
+  {
+   "tipo": "width",
+   "ini": 9444,
+   "fin": 9446,
+   "texto": "17"
+  },
+  {
+   "tipo": "depth",
+   "ini": 9447,
+   "fin": 9449,
+   "texto": "19"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9451,
+   "fin": 9518
+  },
+  {
+   "tipo": "img",
+   "ini": 9451,
+   "fin": 9456,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9458,
+   "fin": 9518,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Yolanda Carbajales\nMatrioska\ngrabado a la manera negra\n60x50"
+  },
+  {
+   "tipo": "person",
+   "ini": 9458,
+   "fin": 9476,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Yolanda Carbajales"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9458,
+   "fin": 9476,
+   "texto": "Yolanda Carbajales"
+  },
+  {
+   "tipo": "title",
+   "ini": 9477,
+   "fin": 9486,
+   "texto": "Matrioska"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9487,
+   "fin": 9512,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "grabado a la manera negra"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9513,
+   "fin": 9518,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60x50"
+  },
+  {
+   "tipo": "height",
+   "ini": 9513,
+   "fin": 9515,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 9516,
+   "fin": 9518,
+   "texto": "50"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9520,
+   "fin": 9560
+  },
+  {
+   "tipo": "img",
+   "ini": 9520,
+   "fin": 9525,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9527,
+   "fin": 9560,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Luis Estévez\nMoza\npedra,\n35x14x16"
+  },
+  {
+   "tipo": "person",
+   "ini": 9527,
+   "fin": 9539,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luis Estévez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9527,
+   "fin": 9539,
+   "texto": "Luis Estévez"
+  },
+  {
+   "tipo": "title",
+   "ini": 9540,
+   "fin": 9544,
+   "texto": "Moza"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9545,
+   "fin": 9550,
+   "rasgos": {
+    "type": "stone"
+   },
+   "texto": "pedra"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9552,
+   "fin": 9560,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35x14x16"
+  },
+  {
+   "tipo": "height",
+   "ini": 9552,
+   "fin": 9554,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 9555,
+   "fin": 9557,
+   "texto": "14"
+  },
+  {
+   "tipo": "text",
+   "ini": 9563,
+   "fin": 10715
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10717,
+   "fin": 10765
+  },
+  {
+   "tipo": "img",
+   "ini": 10717,
+   "fin": 10722,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10724,
+   "fin": 10765,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Lola Catalá\nAlma de cometa\nacuarela\n75x35"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10724,
+   "fin": 10735,
+   "texto": "Lola Catalá"
+  },
+  {
+   "tipo": "person",
+   "ini": 10724,
+   "fin": 10735,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lola Catalá"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10751,
+   "fin": 10759,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "acuarela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10760,
+   "fin": 10765,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "75x35"
+  },
+  {
+   "tipo": "height",
+   "ini": 10760,
+   "fin": 10762,
+   "texto": "75"
+  },
+  {
+   "tipo": "width",
+   "ini": 10763,
+   "fin": 10765,
+   "texto": "35"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10768,
+   "fin": 10833
+  },
+  {
+   "tipo": "work",
+   "ini": 10768,
+   "fin": 10826,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Baldomero Moreiras\nFamilia con cabalo\nacrílico/tabla\n60x60"
+  },
+  {
+   "tipo": "person",
+   "ini": 10768,
+   "fin": 10786,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Baldomero Moreiras"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10768,
+   "fin": 10786,
+   "texto": "Baldomero Moreiras"
+  },
+  {
+   "tipo": "title",
+   "ini": 10787,
+   "fin": 10805,
+   "texto": "Familia con cabalo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10806,
+   "fin": 10820,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico/tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10821,
+   "fin": 10826,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60x60"
+  },
+  {
+   "tipo": "height",
+   "ini": 10821,
+   "fin": 10823,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 10824,
+   "fin": 10826,
+   "texto": "60"
+  },
+  {
+   "tipo": "img",
+   "ini": 10828,
+   "fin": 10833,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10835,
+   "fin": 10882
+  },
+  {
+   "tipo": "work",
+   "ini": 10835,
+   "fin": 10875,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Catoira\nViaje a Egipto\nóleo/lienzo\n25x35"
+  },
+  {
+   "tipo": "person",
+   "ini": 10835,
+   "fin": 10842,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Catoira"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10835,
+   "fin": 10842,
+   "texto": "Catoira"
+  },
+  {
+   "tipo": "title",
+   "ini": 10843,
+   "fin": 10857,
+   "texto": "Viaje a Egipto"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10858,
+   "fin": 10869,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "óleo/lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10870,
+   "fin": 10875,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "25x35"
+  },
+  {
+   "tipo": "height",
+   "ini": 10870,
+   "fin": 10872,
+   "texto": "25"
+  },
+  {
+   "tipo": "width",
+   "ini": 10873,
+   "fin": 10875,
+   "texto": "35"
+  },
+  {
+   "tipo": "img",
+   "ini": 10877,
+   "fin": 10882,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10884,
+   "fin": 10954
+  },
+  {
+   "tipo": "work",
+   "ini": 10884,
+   "fin": 10947,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Amalia Fernández de Córdoba\nDedicado a la madre\nóleo/tela\n37x45"
+  },
+  {
+   "tipo": "person",
+   "ini": 10884,
+   "fin": 10911,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Amalia Fernández de Córdoba"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10884,
+   "fin": 10911,
+   "texto": "Amalia Fernández de Córdoba"
+  },
+  {
+   "tipo": "title",
+   "ini": 10912,
+   "fin": 10931,
+   "texto": "Dedicado a la madre"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10932,
+   "fin": 10941,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "óleo/tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10942,
+   "fin": 10947,
+   "texto": "37x45"
+  },
+  {
+   "tipo": "height",
+   "ini": 10942,
+   "fin": 10944,
+   "texto": "37"
+  },
+  {
+   "tipo": "width",
+   "ini": 10945,
+   "fin": 10947,
+   "texto": "45"
+  },
+  {
+   "tipo": "img",
+   "ini": 10949,
+   "fin": 10954,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10956,
+   "fin": 10997
+  },
+  {
+   "tipo": "img",
+   "ini": 10956,
+   "fin": 10961,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10963,
+   "fin": 10997,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Moxom\nBonita\nmadera de uz\n29x24x22"
+  },
+  {
+   "tipo": "person",
+   "ini": 10963,
+   "fin": 10968,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Moxom"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10963,
+   "fin": 10968,
+   "texto": "Moxom"
+  },
+  {
+   "tipo": "title",
+   "ini": 10969,
+   "fin": 10975,
+   "texto": "Bonita"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10976,
+   "fin": 10988,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera de uz"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10989,
+   "fin": 10997,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29x24x22"
+  },
+  {
+   "tipo": "height",
+   "ini": 10989,
+   "fin": 10991,
+   "texto": "29"
+  },
+  {
+   "tipo": "width",
+   "ini": 10992,
+   "fin": 10994,
+   "texto": "24"
+  },
+  {
+   "tipo": "depth",
+   "ini": 10995,
+   "fin": 10997,
+   "texto": "22"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10999,
+   "fin": 11048
+  },
+  {
+   "tipo": "img",
+   "ini": 10999,
+   "fin": 11004,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11006,
+   "fin": 11048,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Tachibana\nEstrella Polar\nmixta/tabla\n27x22"
+  },
+  {
+   "tipo": "person",
+   "ini": 11006,
+   "fin": 11015,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Tachibana"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11006,
+   "fin": 11015,
+   "texto": "Tachibana"
+  },
+  {
+   "tipo": "title",
+   "ini": 11016,
+   "fin": 11030,
+   "texto": "Estrella Polar"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11031,
+   "fin": 11042,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "mixta/tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11043,
+   "fin": 11048,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27x22"
+  },
+  {
+   "tipo": "height",
+   "ini": 11043,
+   "fin": 11045,
+   "texto": "27"
+  },
+  {
+   "tipo": "width",
+   "ini": 11046,
+   "fin": 11048,
+   "texto": "22"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11050,
+   "fin": 11108
+  },
+  {
+   "tipo": "img",
+   "ini": 11050,
+   "fin": 11055,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11057,
+   "fin": 11108,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Xavier Cuiñas\ns/t\nInstalación madera\nmedidas varias"
+  },
+  {
+   "tipo": "person",
+   "ini": 11057,
+   "fin": 11070,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xavier Cuiñas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11057,
+   "fin": 11070,
+   "texto": "Xavier Cuiñas"
+  },
+  {
+   "tipo": "title",
+   "ini": 11071,
+   "fin": 11074,
+   "texto": "s/t"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11075,
+   "fin": 11093,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Instalación madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11094,
+   "fin": 11108,
+   "texto": "medidas varias"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11111,
+   "fin": 11168
+  },
+  {
+   "tipo": "work",
+   "ini": 11111,
+   "fin": 11161,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pedro Martínez Avial\nFociños\ndibujo y aguada\n12x20"
+  },
+  {
+   "tipo": "person",
+   "ini": 11111,
+   "fin": 11131,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pedro Martínez Avial"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11111,
+   "fin": 11131,
+   "texto": "Pedro Martínez Avial"
+  },
+  {
+   "tipo": "title",
+   "ini": 11132,
+   "fin": 11139,
+   "texto": "Fociños"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11140,
+   "fin": 11155,
+   "rasgos": {
+    "type": "drawing, inkWash"
+   },
+   "texto": "dibujo y aguada"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11156,
+   "fin": 11161,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "12x20"
+  },
+  {
+   "tipo": "height",
+   "ini": 11156,
+   "fin": 11158,
+   "texto": "12"
+  },
+  {
+   "tipo": "width",
+   "ini": 11159,
+   "fin": 11161,
+   "texto": "20"
+  },
+  {
+   "tipo": "img",
+   "ini": 11163,
+   "fin": 11168,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 11170,
+   "fin": 13821
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13823,
+   "fin": 13883
+  },
+  {
+   "tipo": "img",
+   "ini": 13823,
+   "fin": 13828,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 13830,
+   "fin": 13883,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Luis de las Cuevas\nNostalgia\nbronce fundido\n100x81x24"
+  },
+  {
+   "tipo": "person",
+   "ini": 13830,
+   "fin": 13848,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luis de las Cuevas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13830,
+   "fin": 13848,
+   "texto": "Luis de las Cuevas"
+  },
+  {
+   "tipo": "title",
+   "ini": 13849,
+   "fin": 13858,
+   "texto": "Nostalgia"
+  },
+  {
+   "tipo": "technique",
+   "ini": 13859,
+   "fin": 13873,
+   "rasgos": {
+    "type": "bronze"
+   },
+   "texto": "bronce fundido"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13874,
+   "fin": 13891,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100x81x24\n\n[img]\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 13874,
+   "fin": 13877,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 13878,
+   "fin": 13880,
+   "texto": "81"
+  },
+  {
+   "tipo": "depth",
+   "ini": 13881,
+   "fin": 13883,
+   "texto": "24"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13885,
+   "fin": 13930
+  },
+  {
+   "tipo": "img",
+   "ini": 13885,
+   "fin": 13890,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 13892,
+   "fin": 13930,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Carlos Vello\ns/t,\nacrílico/tabla\n50x61"
+  },
+  {
+   "tipo": "person",
+   "ini": 13892,
+   "fin": 13904,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carlos Vello"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13892,
+   "fin": 13904,
+   "texto": "Carlos Vello"
+  },
+  {
+   "tipo": "title",
+   "ini": 13905,
+   "fin": 13908,
+   "texto": "s/t"
+  },
+  {
+   "tipo": "technique",
+   "ini": 13910,
+   "fin": 13924,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico/tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13925,
+   "fin": 13930,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50x61"
+  },
+  {
+   "tipo": "height",
+   "ini": 13925,
+   "fin": 13927,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 13928,
+   "fin": 13930,
+   "texto": "61"
+  },
+  {
+   "tipo": "text",
+   "ini": 13933,
+   "fin": 15195
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15197,
+   "fin": 15251
+  },
+  {
+   "tipo": "img",
+   "ini": 15197,
+   "fin": 15202,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15204,
+   "fin": 15251,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Torres Pato\nSolpor na viña\nacuarela/papel\n70x50"
+  },
+  {
+   "tipo": "person",
+   "ini": 15204,
+   "fin": 15215,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Torres Pato"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15204,
+   "fin": 15215,
+   "texto": "Torres Pato"
+  },
+  {
+   "tipo": "title",
+   "ini": 15216,
+   "fin": 15230,
+   "texto": "Solpor na viña"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15231,
+   "fin": 15245,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "acuarela/papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15246,
+   "fin": 15251,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70x50"
+  },
+  {
+   "tipo": "height",
+   "ini": 15246,
+   "fin": 15248,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 15249,
+   "fin": 15251,
+   "texto": "50"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15254,
+   "fin": 15337
+  },
+  {
+   "tipo": "work",
+   "ini": 15254,
+   "fin": 15330,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "J. Valcárcel\nUn gran paso para la humanidad\nóleo/sobre colalage/lienzo\n60x40"
+  },
+  {
+   "tipo": "person",
+   "ini": 15254,
+   "fin": 15266,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "J. Valcárcel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15254,
+   "fin": 15266,
+   "texto": "J. Valcárcel"
+  },
+  {
+   "tipo": "title",
+   "ini": 15267,
+   "fin": 15297,
+   "texto": "Un gran paso para la humanidad"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15298,
+   "fin": 15324,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "óleo/sobre colalage/lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15325,
+   "fin": 15330,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60x40"
+  },
+  {
+   "tipo": "height",
+   "ini": 15325,
+   "fin": 15327,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 15328,
+   "fin": 15330,
+   "texto": "40"
+  },
+  {
+   "tipo": "img",
+   "ini": 15332,
+   "fin": 15337,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15339,
+   "fin": 15392
+  },
+  {
+   "tipo": "img",
+   "ini": 15339,
+   "fin": 15344,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15346,
+   "fin": 15392,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Hanoos\nHilos de luz, nº 21\nmixta/tabla\n33,5x33"
+  },
+  {
+   "tipo": "person",
+   "ini": 15346,
+   "fin": 15352,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Hanoos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15346,
+   "fin": 15352,
+   "texto": "Hanoos"
+  },
+  {
+   "tipo": "title",
+   "ini": 15353,
+   "fin": 15372,
+   "texto": "Hilos de luz, nº 21"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15373,
+   "fin": 15384,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "mixta/tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15385,
+   "fin": 15392,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "33,5x33"
+  },
+  {
+   "tipo": "height",
+   "ini": 15385,
+   "fin": 15389,
+   "texto": "33,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 15390,
+   "fin": 15392,
+   "texto": "33"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15394,
+   "fin": 15447
+  },
+  {
+   "tipo": "img",
+   "ini": 15394,
+   "fin": 15399,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15401,
+   "fin": 15447,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Tareixa Taboada\nLatidos\nbronce fundido\n15x16x7"
+  },
+  {
+   "tipo": "person",
+   "ini": 15401,
+   "fin": 15416,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Tareixa Taboada"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15401,
+   "fin": 15416,
+   "texto": "Tareixa Taboada"
+  },
+  {
+   "tipo": "title",
+   "ini": 15417,
+   "fin": 15424,
+   "texto": "Latidos"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15425,
+   "fin": 15439,
+   "rasgos": {
+    "type": "bronze"
+   },
+   "texto": "bronce fundido"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15440,
+   "fin": 15447,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "15x16x7"
+  },
+  {
+   "tipo": "height",
+   "ini": 15440,
+   "fin": 15442,
+   "texto": "15"
+  },
+  {
+   "tipo": "width",
+   "ini": 15443,
+   "fin": 15445,
+   "texto": "16"
+  },
+  {
+   "tipo": "depth",
+   "ini": 15446,
+   "fin": 15447,
+   "texto": "7"
+  },
+  {
+   "tipo": "text",
+   "ini": 15450,
+   "fin": 17975
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17978,
+   "fin": 18015
+  },
+  {
+   "tipo": "work",
+   "ini": 17978,
+   "fin": 18008,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Nicolás\nS/t\nmixta/lienzo\n65x54"
+  },
+  {
+   "tipo": "person",
+   "ini": 17978,
+   "fin": 17985,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nicolás"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17978,
+   "fin": 17985,
+   "texto": "Nicolás"
+  },
+  {
+   "tipo": "title",
+   "ini": 17986,
+   "fin": 17989,
+   "texto": "S/t"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17990,
+   "fin": 18002,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "mixta/lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18003,
+   "fin": 18008,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65x54"
+  },
+  {
+   "tipo": "height",
+   "ini": 18003,
+   "fin": 18005,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 18006,
+   "fin": 18008,
+   "texto": "54"
+  },
+  {
+   "tipo": "img",
+   "ini": 18010,
+   "fin": 18015,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18017,
+   "fin": 18057
+  },
+  {
+   "tipo": "img",
+   "ini": 18017,
+   "fin": 18022,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18024,
+   "fin": 18057,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Alexandro\nS/t\nmixta/papel,\n107x78"
+  },
+  {
+   "tipo": "person",
+   "ini": 18024,
+   "fin": 18033,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexandro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18024,
+   "fin": 18033,
+   "texto": "Alexandro"
+  },
+  {
+   "tipo": "title",
+   "ini": 18034,
+   "fin": 18037,
+   "texto": "S/t"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18038,
+   "fin": 18049,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "mixta/papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18051,
+   "fin": 18057,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "107x78"
+  },
+  {
+   "tipo": "height",
+   "ini": 18051,
+   "fin": 18054,
+   "texto": "107"
+  },
+  {
+   "tipo": "width",
+   "ini": 18055,
+   "fin": 18057,
+   "texto": "78"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18059,
+   "fin": 18100
+  },
+  {
+   "tipo": "img",
+   "ini": 18059,
+   "fin": 18064,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18066,
+   "fin": 18100,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Manuel Penín\ns/t\nmixta/papel\n70x50"
+  },
+  {
+   "tipo": "person",
+   "ini": 18066,
+   "fin": 18078,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel Penín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18066,
+   "fin": 18078,
+   "texto": "Manuel Penín"
+  },
+  {
+   "tipo": "title",
+   "ini": 18079,
+   "fin": 18082,
+   "texto": "s/t"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18083,
+   "fin": 18094,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "mixta/papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18095,
+   "fin": 18100,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70x50"
+  },
+  {
+   "tipo": "height",
+   "ini": 18095,
+   "fin": 18097,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 18098,
+   "fin": 18100,
+   "texto": "50"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18103,
+   "fin": 18151
+  },
+  {
+   "tipo": "img",
+   "ini": 18103,
+   "fin": 18108,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18110,
+   "fin": 18151,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Ripollés\nFlautista\ngrabado matérico\n65x45"
+  },
+  {
+   "tipo": "person",
+   "ini": 18110,
+   "fin": 18118,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ripollés"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18110,
+   "fin": 18118,
+   "texto": "Ripollés"
+  },
+  {
+   "tipo": "title",
+   "ini": 18119,
+   "fin": 18128,
+   "texto": "Flautista"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18129,
+   "fin": 18145,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "grabado matérico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18146,
+   "fin": 18151,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65x45"
+  },
+  {
+   "tipo": "height",
+   "ini": 18146,
+   "fin": 18148,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 18149,
+   "fin": 18151,
+   "texto": "45"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18154,
+   "fin": 18245
+  },
+  {
+   "tipo": "work",
+   "ini": 18154,
+   "fin": 18238,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "J.A. Ocaña Martínez\nEl sueño estepario de Hermerico\nmadera de ciprés y asta\n55x46x31"
+  },
+  {
+   "tipo": "person",
+   "ini": 18154,
+   "fin": 18173,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "J.A. Ocaña Martínez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18154,
+   "fin": 18173,
+   "texto": "J.A. Ocaña Martínez"
+  },
+  {
+   "tipo": "title",
+   "ini": 18174,
+   "fin": 18205,
+   "texto": "El sueño estepario de Hermerico"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18206,
+   "fin": 18229,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera de ciprés y asta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18230,
+   "fin": 18238,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55x46x31"
+  },
+  {
+   "tipo": "height",
+   "ini": 18230,
+   "fin": 18232,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 18233,
+   "fin": 18235,
+   "texto": "46"
+  },
+  {
+   "tipo": "depth",
+   "ini": 18236,
+   "fin": 18238,
+   "texto": "31"
+  },
+  {
+   "tipo": "img",
+   "ini": 18240,
+   "fin": 18245,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18247,
+   "fin": 18302
+  },
+  {
+   "tipo": "img",
+   "ini": 18247,
+   "fin": 18252,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18254,
+   "fin": 18302,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Antón Lamazares\nCorazón de nai\nmixta/tabla\n60x60"
+  },
+  {
+   "tipo": "person",
+   "ini": 18254,
+   "fin": 18269,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antón Lamazares"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18254,
+   "fin": 18269,
+   "texto": "Antón Lamazares"
+  },
+  {
+   "tipo": "title",
+   "ini": 18270,
+   "fin": 18284,
+   "texto": "Corazón de nai"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18285,
+   "fin": 18296,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "mixta/tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18297,
+   "fin": 18302,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60x60"
+  },
+  {
+   "tipo": "height",
+   "ini": 18297,
+   "fin": 18299,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 18300,
+   "fin": 18302,
+   "texto": "60"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18304,
+   "fin": 18374
+  },
+  {
+   "tipo": "work",
+   "ini": 18304,
+   "fin": 18367,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Arturo Baltar\nSan Benito de Coba de Lobo\nbarro cocido\n27x12x7,5"
+  },
+  {
+   "tipo": "person",
+   "ini": 18304,
+   "fin": 18317,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Arturo Baltar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18304,
+   "fin": 18317,
+   "texto": "Arturo Baltar"
+  },
+  {
+   "tipo": "title",
+   "ini": 18318,
+   "fin": 18344,
+   "texto": "San Benito de Coba de Lobo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18345,
+   "fin": 18357,
+   "rasgos": {
+    "type": "clay"
+   },
+   "texto": "barro cocido"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18358,
+   "fin": 18367,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27x12x7,5"
+  },
+  {
+   "tipo": "height",
+   "ini": 18358,
+   "fin": 18360,
+   "texto": "27"
+  },
+  {
+   "tipo": "width",
+   "ini": 18361,
+   "fin": 18363,
+   "texto": "12"
+  },
+  {
+   "tipo": "depth",
+   "ini": 18364,
+   "fin": 18367,
+   "texto": "7,5"
+  },
+  {
+   "tipo": "img",
+   "ini": 18369,
+   "fin": 18374,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 18376,
+   "fin": 18517
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 18613,
+   "fin": 19553,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 18643,
+   "fin": 18650,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ACISCLO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18643,
+   "fin": 18650,
+   "texto": "ACISCLO"
+  },
+  {
+   "tipo": "person",
+   "ini": 18651,
+   "fin": 18660,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ALEXANDRO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18651,
+   "fin": 18660,
+   "texto": "ALEXANDRO"
+  },
+  {
+   "tipo": "person",
+   "ini": 18661,
+   "fin": 18674,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Arturo BALTAR"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18661,
+   "fin": 18674,
+   "texto": "Arturo BALTAR"
+  },
+  {
+   "tipo": "person",
+   "ini": 18675,
+   "fin": 18686,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "X. BARREIRO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18675,
+   "fin": 18686,
+   "texto": "X. BARREIRO"
+  },
+  {
+   "tipo": "person",
+   "ini": 18687,
+   "fin": 18705,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Yolanda CARBAJALES"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18687,
+   "fin": 18705,
+   "texto": "Yolanda CARBAJALES"
+  },
+  {
+   "tipo": "person",
+   "ini": 18706,
+   "fin": 18725,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lola CATALÁ\nCATOIRA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18706,
+   "fin": 18725,
+   "texto": "Lola CATALÁ\nCATOIRA"
+  },
+  {
+   "tipo": "person",
+   "ini": 18726,
+   "fin": 18739,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xavier CUIÑAS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18726,
+   "fin": 18739,
+   "texto": "Xavier CUIÑAS"
+  },
+  {
+   "tipo": "person",
+   "ini": 18740,
+   "fin": 18765,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luis de las CUEVAS\nELIGIO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18740,
+   "fin": 18765,
+   "texto": "Luis de las CUEVAS\nELIGIO"
+  },
+  {
+   "tipo": "person",
+   "ini": 18766,
+   "fin": 18778,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luis ESTÉVEZ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18766,
+   "fin": 18778,
+   "texto": "Luis ESTÉVEZ"
+  },
+  {
+   "tipo": "person",
+   "ini": 18779,
+   "fin": 18806,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Amalia FERNÁNDEZ DE\nCÓRDOBA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18779,
+   "fin": 18806,
+   "texto": "Amalia FERNÁNDEZ DE\nCÓRDOBA"
+  },
+  {
+   "tipo": "person",
+   "ini": 18808,
+   "fin": 18820,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "M. FIGUEIRAS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18808,
+   "fin": 18820,
+   "texto": "M. FIGUEIRAS"
+  },
+  {
+   "tipo": "person",
+   "ini": 18821,
+   "fin": 18843,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carlos GONZÁLEZ VILLAR"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18821,
+   "fin": 18843,
+   "texto": "Carlos GONZÁLEZ VILLAR"
+  },
+  {
+   "tipo": "person",
+   "ini": 18844,
+   "fin": 18850,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "HANOOS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18844,
+   "fin": 18850,
+   "texto": "HANOOS"
+  },
+  {
+   "tipo": "person",
+   "ini": 18851,
+   "fin": 18859,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "KARBALLO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18851,
+   "fin": 18859,
+   "texto": "KARBALLO"
+  },
+  {
+   "tipo": "person",
+   "ini": 18860,
+   "fin": 18867,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "LAZCANO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18860,
+   "fin": 18867,
+   "texto": "LAZCANO"
+  },
+  {
+   "tipo": "person",
+   "ini": 18868,
+   "fin": 18883,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antón LAMAZARES"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18868,
+   "fin": 18883,
+   "texto": "Antón LAMAZARES"
+  },
+  {
+   "tipo": "person",
+   "ini": 18884,
+   "fin": 18898,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Tito LUCAVECHE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18884,
+   "fin": 18898,
+   "texto": "Tito LUCAVECHE"
+  },
+  {
+   "tipo": "person",
+   "ini": 18899,
+   "fin": 18907,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MOREIRAS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18899,
+   "fin": 18907,
+   "texto": "MOREIRAS"
+  },
+  {
+   "tipo": "person",
+   "ini": 18908,
+   "fin": 18913,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MOXOM"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18908,
+   "fin": 18913,
+   "texto": "MOXOM"
+  },
+  {
+   "tipo": "person",
+   "ini": 18914,
+   "fin": 18921,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "NICOLÁS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18914,
+   "fin": 18921,
+   "texto": "NICOLÁS"
+  },
+  {
+   "tipo": "person",
+   "ini": 18922,
+   "fin": 18942,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "J. A. OCAÑA MARTÍNEZ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18922,
+   "fin": 18942,
+   "texto": "J. A. OCAÑA MARTÍNEZ"
+  },
+  {
+   "tipo": "person",
+   "ini": 18943,
+   "fin": 18960,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guillermo PEDROSA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18943,
+   "fin": 18960,
+   "texto": "Guillermo PEDROSA"
+  },
+  {
+   "tipo": "person",
+   "ini": 18961,
+   "fin": 18973,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel PENÍN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18961,
+   "fin": 18973,
+   "texto": "Manuel PENÍN"
+  },
+  {
+   "tipo": "person",
+   "ini": 18975,
+   "fin": 18985,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "X. POLDRAS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18975,
+   "fin": 18985,
+   "texto": "X. POLDRAS"
+  },
+  {
+   "tipo": "person",
+   "ini": 18986,
+   "fin": 19003,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Francisco RECUERO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18986,
+   "fin": 19003,
+   "texto": "Francisco RECUERO"
+  },
+  {
+   "tipo": "person",
+   "ini": 19004,
+   "fin": 19015,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sula REPANI"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19004,
+   "fin": 19015,
+   "texto": "Sula REPANI"
+  },
+  {
+   "tipo": "person",
+   "ini": 19016,
+   "fin": 19024,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "RIPOLLÉS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19016,
+   "fin": 19024,
+   "texto": "RIPOLLÉS"
+  },
+  {
+   "tipo": "person",
+   "ini": 19025,
+   "fin": 19031,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "RIVADA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19025,
+   "fin": 19031,
+   "texto": "RIVADA"
+  },
+  {
+   "tipo": "person",
+   "ini": 19032,
+   "fin": 19041,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "TACHIBANA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19032,
+   "fin": 19041,
+   "texto": "TACHIBANA"
+  },
+  {
+   "tipo": "person",
+   "ini": 19042,
+   "fin": 19057,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Tareixa TABOADA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19042,
+   "fin": 19057,
+   "texto": "Tareixa TABOADA"
+  },
+  {
+   "tipo": "person",
+   "ini": 19058,
+   "fin": 19069,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "TORRES PATO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19058,
+   "fin": 19069,
+   "texto": "TORRES PATO"
+  },
+  {
+   "tipo": "person",
+   "ini": 19070,
+   "fin": 19082,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carlos VELLO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19070,
+   "fin": 19082,
+   "texto": "Carlos VELLO"
+  },
+  {
+   "tipo": "person",
+   "ini": 19083,
+   "fin": 19095,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "J. VALCÁRCEL"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19083,
+   "fin": 19095,
+   "texto": "J. VALCÁRCEL"
+  },
+  {
+   "tipo": "person",
+   "ini": 19097,
+   "fin": 19108,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "VIDAL SOUTO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19097,
+   "fin": 19108,
+   "texto": "VIDAL SOUTO"
+  },
+  {
+   "tipo": "person",
+   "ini": 19109,
+   "fin": 19117,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "VIRXILIO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19109,
+   "fin": 19117,
+   "texto": "VIRXILIO"
+  },
+  {
+   "tipo": "person",
+   "ini": 19128,
+   "fin": 19144,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Manolo Figueiras"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19128,
+   "fin": 19144,
+   "texto": "Manolo Figueiras"
+  },
+  {
+   "tipo": "person",
+   "ini": 19155,
+   "fin": 19165,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Xavier Ron"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19155,
+   "fin": 19165,
+   "texto": "Xavier Ron"
+  },
+  {
+   "tipo": "person",
+   "ini": 19182,
+   "fin": 19193,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Lola Catalá"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19182,
+   "fin": 19193,
+   "texto": "Lola Catalá"
+  },
+  {
+   "tipo": "person",
+   "ini": 19208,
+   "fin": 19228,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Pedro Martínez Avial"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19208,
+   "fin": 19228,
+   "texto": "Pedro Martínez Avial"
+  },
+  {
+   "tipo": "person",
+   "ini": 19248,
+   "fin": 19263,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Tareixa Taboada"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19248,
+   "fin": 19263,
+   "texto": "Tareixa Taboada"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19324,
+   "fin": 19348,
+   "texto": "Xoán Antón Vázquez Casas"
+  },
+  {
+   "tipo": "institution",
+   "ini": 19407,
+   "fin": 19482,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería de Arte Visol. Stº Domingo, 33. 32003 OURENSE.\nwww.galeriavisol.com"
+  },
+  {
+   "tipo": "address",
+   "ini": 19430,
+   "fin": 19460,
+   "texto": "Stº Domingo, 33. 32003 OURENSE"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 19453,
+   "fin": 19460,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "OURENSE"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19484,
+   "fin": 19530
+  },
+  {
+   "tipo": "img",
+   "ini": 19484,
+   "fin": 19489,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19491,
+   "fin": 19530,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Vidal Souto,\nVerzas, mixta/lienzo,92x73"
+  },
+  {
+   "tipo": "person",
+   "ini": 19491,
+   "fin": 19502,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vidal Souto"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19491,
+   "fin": 19502,
+   "texto": "Vidal Souto"
+  },
+  {
+   "tipo": "title",
+   "ini": 19504,
+   "fin": 19510,
+   "texto": "Verzas"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19512,
+   "fin": 19524,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "mixta/lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19525,
+   "fin": 19530,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "92x73"
+  },
+  {
+   "tipo": "height",
+   "ini": 19525,
+   "fin": 19527,
+   "texto": "92"
+  },
+  {
+   "tipo": "width",
+   "ini": 19528,
+   "fin": 19530,
+   "texto": "73"
+  },
+  {
+   "tipo": "institution",
+   "ini": 19532,
+   "fin": 19553,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería de Arte VISOL"
+  }
+ ]
+}

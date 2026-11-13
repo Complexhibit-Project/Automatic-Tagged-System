@@ -1,0 +1,3355 @@
+{
+ "id": "cat_015_2011_catalogo_expo_a_guarda",
+ "nombre_original": "2011_catalogo_expo_a_guarda",
+ "longitud_texto": 22023,
+ "sha256_texto": "468e5795195878935ecb72e31e3add8ea3e7c238fcf9b1b437f5bbd17fe8bf88",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 426,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 30,
+   "texto": "A Guarda, as paisaxes de Pousa"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 0,
+   "fin": 8,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "A Guarda"
+  },
+  {
+   "tipo": "person",
+   "ini": 25,
+   "fin": 30,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25,
+   "fin": 30,
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 31,
+   "fin": 39,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "A Guarda"
+  },
+  {
+   "tipo": "date",
+   "ini": 44,
+   "fin": 79,
+   "rasgos": {
+    "from": "2011-07-24",
+    "to": "2011-08-21"
+   },
+   "texto": "24 de xullo ao 21 de agosto de 2011"
+  },
+  {
+   "tipo": "institution",
+   "ini": 106,
+   "fin": 124,
+   "rasgos": {
+    "type": "administration",
+    "role": "organiser"
+   },
+   "texto": "Concello da Guarda"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 118,
+   "fin": 124,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Guarda"
+  },
+  {
+   "tipo": "institution",
+   "ini": 139,
+   "fin": 161,
+   "rasgos": {
+    "type": "foundation",
+    "role": "coordinator"
+   },
+   "texto": "Fundación Xavier Pousa"
+  },
+  {
+   "tipo": "institution",
+   "ini": 171,
+   "fin": 193,
+   "rasgos": {
+    "type": "foundation",
+    "role": "assembly"
+   },
+   "texto": "Fundación Xavier Pousa"
+  },
+  {
+   "tipo": "institution",
+   "ini": 213,
+   "fin": 231,
+   "rasgos": {
+    "type": "administration",
+    "role": "editor"
+   },
+   "texto": "Concello da Guarda"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 225,
+   "fin": 231,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Guarda"
+  },
+  {
+   "tipo": "institution",
+   "ini": 246,
+   "fin": 268,
+   "rasgos": {
+    "type": "foundation",
+    "role": "coordinator"
+   },
+   "texto": "Fundación Xavier Pousa"
+  },
+  {
+   "tipo": "person",
+   "ini": 277,
+   "fin": 308,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Beatriz San Ildefonso Rodríguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 277,
+   "fin": 308,
+   "texto": "Beatriz San Ildefonso Rodríguez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 321,
+   "fin": 343,
+   "rasgos": {
+    "type": "foundation",
+    "role": "photographer"
+   },
+   "texto": "Fundación Xavier Pousa"
+  },
+  {
+   "tipo": "institution",
+   "ini": 366,
+   "fin": 390,
+   "rasgos": {
+    "type": "studio",
+    "role": "desinger, layout"
+   },
+   "texto": "Estudio Modesto Martínez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 402,
+   "fin": 425,
+   "rasgos": {
+    "type": "company",
+    "role": "printer"
+   },
+   "texto": "Donauta Publicidad S.A."
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 460,
+   "fin": 574,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 460,
+   "fin": 490,
+   "texto": "A Guarda, as paisaxes de Pousa"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 460,
+   "fin": 468,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "A Guarda"
+  },
+  {
+   "tipo": "person",
+   "ini": 485,
+   "fin": 490,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 485,
+   "fin": 490,
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "venue",
+   "ini": 492,
+   "fin": 535,
+   "texto": "Casa dos Alonsos (novo concello) - A Guarda"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 527,
+   "fin": 535,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "A Guarda"
+  },
+  {
+   "tipo": "date",
+   "ini": 539,
+   "fin": 574,
+   "rasgos": {
+    "from": "2011-07-24",
+    "to": "2011-08-21"
+   },
+   "texto": "24 de xullo ao 21 de agosto de 2011"
+  },
+  {
+   "tipo": "person",
+   "ini": 870,
+   "fin": 882,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xavier Pousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 870,
+   "fin": 882,
+   "texto": "Xavier Pousa"
+  },
+  {
+   "tipo": "person",
+   "ini": 1076,
+   "fin": 1081,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1076,
+   "fin": 1081,
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "person",
+   "ini": 1333,
+   "fin": 1338,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "title",
+   "ini": 2121,
+   "fin": 2152,
+   "texto": "A Guarda, as paisaxes de Pousa."
+  },
+  {
+   "tipo": "person",
+   "ini": 2146,
+   "fin": 2151,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2146,
+   "fin": 2151,
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "person",
+   "ini": 2285,
+   "fin": 2297,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xavier Pousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2285,
+   "fin": 2297,
+   "texto": "Xavier Pousa"
+  },
+  {
+   "tipo": "person",
+   "ini": 2802,
+   "fin": 2807,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2802,
+   "fin": 2807,
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "person",
+   "ini": 2908,
+   "fin": 2920,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xavier\nPousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2908,
+   "fin": 2920,
+   "texto": "Xavier\nPousa"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3639,
+   "fin": 3661,
+   "rasgos": {
+    "type": "foundation",
+    "role": "coordinator, collaborator"
+   },
+   "texto": "Fundación Xavier\nPousa"
+  },
+  {
+   "tipo": "person",
+   "ini": 3843,
+   "fin": 3848,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3843,
+   "fin": 3848,
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "person",
+   "ini": 3882,
+   "fin": 3887,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3882,
+   "fin": 3887,
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "person",
+   "ini": 4007,
+   "fin": 4012,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4007,
+   "fin": 4012,
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "person",
+   "ini": 4524,
+   "fin": 4529,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4524,
+   "fin": 4529,
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "person",
+   "ini": 4747,
+   "fin": 4752,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4747,
+   "fin": 4752,
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "person",
+   "ini": 6426,
+   "fin": 6431,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6426,
+   "fin": 6431,
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "person",
+   "ini": 6666,
+   "fin": 6678,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xavier Pousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6666,
+   "fin": 6678,
+   "texto": "Xavier Pousa"
+  },
+  {
+   "tipo": "person",
+   "ini": 6783,
+   "fin": 6788,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6783,
+   "fin": 6788,
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "person",
+   "ini": 8040,
+   "fin": 8045,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8040,
+   "fin": 8045,
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "person",
+   "ini": 8317,
+   "fin": 8322,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8317,
+   "fin": 8322,
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "person",
+   "ini": 8540,
+   "fin": 8545,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8540,
+   "fin": 8545,
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "person",
+   "ini": 9537,
+   "fin": 9542,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9537,
+   "fin": 9542,
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "person",
+   "ini": 10882,
+   "fin": 10887,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10882,
+   "fin": 10887,
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "person",
+   "ini": 11649,
+   "fin": 11661,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xavier Pousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11649,
+   "fin": 11661,
+   "texto": "Xavier Pousa"
+  },
+  {
+   "tipo": "person",
+   "ini": 13267,
+   "fin": 13272,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13267,
+   "fin": 13272,
+   "texto": "Pousa"
+  },
+  {
+   "tipo": "person",
+   "ini": 14007,
+   "fin": 14019,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xavier Pousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14007,
+   "fin": 14019,
+   "texto": "Xavier Pousa"
+  },
+  {
+   "tipo": "person",
+   "ini": 14087,
+   "fin": 14099,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xavier Pousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14087,
+   "fin": 14099,
+   "texto": "Xavier Pousa"
+  },
+  {
+   "tipo": "person",
+   "ini": 14462,
+   "fin": 14474,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Xavier Pousa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14462,
+   "fin": 14474,
+   "texto": "Xavier Pousa"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 14542,
+   "fin": 16842
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14562,
+   "fin": 14618
+  },
+  {
+   "tipo": "img",
+   "ini": 14562,
+   "fin": 14567,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14569,
+   "fin": 14618,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "A Marina da Guarda\n1957\nÓleo / papel\n50 x 65 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 14569,
+   "fin": 14587,
+   "texto": "A Marina da Guarda"
+  },
+  {
+   "tipo": "date",
+   "ini": 14588,
+   "fin": 14592,
+   "rasgos": {
+    "when": "1957"
+   },
+   "texto": "1957"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14593,
+   "fin": 14605,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14606,
+   "fin": 14617,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 65 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 14606,
+   "fin": 14608,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 14611,
+   "fin": 14613,
+   "texto": "65"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14620,
+   "fin": 14677
+  },
+  {
+   "tipo": "img",
+   "ini": 14620,
+   "fin": 14625,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14627,
+   "fin": 14677,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "A robaleira\nDécada 1950\nÓleo / tela\n53,5 x 81 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 14627,
+   "fin": 14638,
+   "texto": "A robaleira"
+  },
+  {
+   "tipo": "date",
+   "ini": 14639,
+   "fin": 14650,
+   "rasgos": {
+    "from": "1950"
+   },
+   "texto": "Década 1950"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14651,
+   "fin": 14662,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14663,
+   "fin": 14676,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "53,5 x 81 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 14663,
+   "fin": 14667,
+   "texto": "53,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 14670,
+   "fin": 14672,
+   "texto": "81"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14679,
+   "fin": 14732
+  },
+  {
+   "tipo": "img",
+   "ini": 14679,
+   "fin": 14685,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14686,
+   "fin": 14732,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Marina da Guarda\n1990\nÓleo / tela\n65 x 81 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 14686,
+   "fin": 14702,
+   "texto": "Marina da Guarda"
+  },
+  {
+   "tipo": "date",
+   "ini": 14703,
+   "fin": 14707,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14708,
+   "fin": 14719,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14720,
+   "fin": 14731,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 81 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 14720,
+   "fin": 14722,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 14725,
+   "fin": 14727,
+   "texto": "81"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14734,
+   "fin": 14786
+  },
+  {
+   "tipo": "img",
+   "ini": 14734,
+   "fin": 14739,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14741,
+   "fin": 14786,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Porto da Guarda\n1997\nÓleo / tela\n60 x 73 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 14741,
+   "fin": 14756,
+   "texto": "Porto da Guarda"
+  },
+  {
+   "tipo": "date",
+   "ini": 14757,
+   "fin": 14761,
+   "rasgos": {
+    "when": "1997"
+   },
+   "texto": "1997"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14762,
+   "fin": 14773,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14774,
+   "fin": 14785,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 73 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 14774,
+   "fin": 14776,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 14779,
+   "fin": 14781,
+   "texto": "73"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14788,
+   "fin": 14852
+  },
+  {
+   "tipo": "img",
+   "ini": 14788,
+   "fin": 14793,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14795,
+   "fin": 14852,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pescadores da Guarda\nDécada 1960\nÓleo / tela\n92 x 73 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 14795,
+   "fin": 14815,
+   "texto": "Pescadores da Guarda"
+  },
+  {
+   "tipo": "date",
+   "ini": 14816,
+   "fin": 14827,
+   "rasgos": {
+    "from": "1961",
+    "to": "1970"
+   },
+   "texto": "Década 1960"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14828,
+   "fin": 14839,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14840,
+   "fin": 14851,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "92 x 73 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 14840,
+   "fin": 14842,
+   "texto": "92"
+  },
+  {
+   "tipo": "width",
+   "ini": 14845,
+   "fin": 14847,
+   "texto": "73"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14854,
+   "fin": 14911
+  },
+  {
+   "tipo": "img",
+   "ini": 14854,
+   "fin": 14859,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14861,
+   "fin": 14911,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Mariñeiro\nDécada 1960\nTinta / papel\n66 x 52,5 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 14861,
+   "fin": 14870,
+   "texto": "Mariñeiro"
+  },
+  {
+   "tipo": "date",
+   "ini": 14871,
+   "fin": 14882,
+   "rasgos": {
+    "from": "1961",
+    "to": "1970"
+   },
+   "texto": "Década 1960"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14883,
+   "fin": 14896,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta / papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14897,
+   "fin": 14910,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "66 x 52,5 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 14897,
+   "fin": 14899,
+   "texto": "66"
+  },
+  {
+   "tipo": "width",
+   "ini": 14902,
+   "fin": 14906,
+   "texto": "52,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14913,
+   "fin": 15017
+  },
+  {
+   "tipo": "img",
+   "ini": 14913,
+   "fin": 14918,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14920,
+   "fin": 15017,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Mariñeiros\n1968\nGravado linóleo / papel\n40 x 55 cms.\nObra pertenecente a “Estampa Popular Galega”"
+  },
+  {
+   "tipo": "title",
+   "ini": 14920,
+   "fin": 14930,
+   "texto": "Mariñeiros"
+  },
+  {
+   "tipo": "date",
+   "ini": 14931,
+   "fin": 14935,
+   "rasgos": {
+    "when": "1968"
+   },
+   "texto": "1968"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14936,
+   "fin": 14959,
+   "rasgos": {
+    "type": "linoleum"
+   },
+   "texto": "Gravado linóleo / papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14960,
+   "fin": 14971,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 55 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 14960,
+   "fin": 14962,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 14965,
+   "fin": 14967,
+   "texto": "55"
+  },
+  {
+   "tipo": "institution",
+   "ini": 14993,
+   "fin": 15017,
+   "rasgos": {
+    "type": "association",
+    "role": "lender, owner"
+   },
+   "texto": "“Estampa Popular Galega”"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15019,
+   "fin": 15080
+  },
+  {
+   "tipo": "img",
+   "ini": 15019,
+   "fin": 15024,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15026,
+   "fin": 15080,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Rúa da Guarda\nDécada 1960\nÓleo / tablex\n50 x 65,5 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 15026,
+   "fin": 15039,
+   "texto": "Rúa da Guarda"
+  },
+  {
+   "tipo": "date",
+   "ini": 15040,
+   "fin": 15051,
+   "rasgos": {
+    "from": "1961",
+    "to": "1970"
+   },
+   "texto": "Década 1960"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15052,
+   "fin": 15065,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tablex"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15066,
+   "fin": 15079,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 65,5 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 15066,
+   "fin": 15068,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 15071,
+   "fin": 15075,
+   "texto": "65,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15082,
+   "fin": 15142
+  },
+  {
+   "tipo": "img",
+   "ini": 15082,
+   "fin": 15087,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15089,
+   "fin": 15142,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Casas da Guarda\nDécada 1960\nÓleo / papel\n65 x 50 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 15089,
+   "fin": 15104,
+   "texto": "Casas da Guarda"
+  },
+  {
+   "tipo": "date",
+   "ini": 15105,
+   "fin": 15116,
+   "rasgos": {
+    "from": "1961",
+    "to": "1970"
+   },
+   "texto": "Década 1960"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15117,
+   "fin": 15129,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15130,
+   "fin": 15141,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 50 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 15130,
+   "fin": 15132,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 15135,
+   "fin": 15137,
+   "texto": "50"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15144,
+   "fin": 15189
+  },
+  {
+   "tipo": "img",
+   "ini": 15144,
+   "fin": 15149,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15151,
+   "fin": 15189,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Malteses\n1993\nÓleo / tela\n33 x 24 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 15151,
+   "fin": 15159,
+   "texto": "Malteses"
+  },
+  {
+   "tipo": "date",
+   "ini": 15160,
+   "fin": 15164,
+   "rasgos": {
+    "when": "1993"
+   },
+   "texto": "1993"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15165,
+   "fin": 15176,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15177,
+   "fin": 15188,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "33 x 24 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 15177,
+   "fin": 15179,
+   "texto": "33"
+  },
+  {
+   "tipo": "width",
+   "ini": 15182,
+   "fin": 15184,
+   "texto": "24"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15191,
+   "fin": 15240
+  },
+  {
+   "tipo": "img",
+   "ini": 15191,
+   "fin": 15196,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15198,
+   "fin": 15240,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Rúa do porto\n1995\nÓleo / tela\n65 x 54 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 15198,
+   "fin": 15210,
+   "texto": "Rúa do porto"
+  },
+  {
+   "tipo": "date",
+   "ini": 15211,
+   "fin": 15215,
+   "rasgos": {
+    "when": "1995"
+   },
+   "texto": "1995"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15216,
+   "fin": 15227,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15228,
+   "fin": 15239,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 54 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 15228,
+   "fin": 15230,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 15233,
+   "fin": 15235,
+   "texto": "54"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15242,
+   "fin": 15301
+  },
+  {
+   "tipo": "img",
+   "ini": 15242,
+   "fin": 15247,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15249,
+   "fin": 15301,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "A Guarda. Rúa da Guía\n1964\nÓleo / papel\n50 x 65 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 15249,
+   "fin": 15270,
+   "texto": "A Guarda. Rúa da Guía"
+  },
+  {
+   "tipo": "date",
+   "ini": 15271,
+   "fin": 15275,
+   "rasgos": {
+    "when": "1964"
+   },
+   "texto": "1964"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15276,
+   "fin": 15288,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15289,
+   "fin": 15300,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 65 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 15289,
+   "fin": 15291,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 15294,
+   "fin": 15296,
+   "texto": "65"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15303,
+   "fin": 15349
+  },
+  {
+   "tipo": "img",
+   "ini": 15303,
+   "fin": 15308,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15310,
+   "fin": 15349,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "No Pasaxe\n1990\nÓleo / tela\n60 x 73 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 15310,
+   "fin": 15319,
+   "texto": "No Pasaxe"
+  },
+  {
+   "tipo": "date",
+   "ini": 15320,
+   "fin": 15324,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15325,
+   "fin": 15336,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15337,
+   "fin": 15348,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 73 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 15337,
+   "fin": 15339,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 15342,
+   "fin": 15344,
+   "texto": "73"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15351,
+   "fin": 15414
+  },
+  {
+   "tipo": "img",
+   "ini": 15351,
+   "fin": 15356,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15358,
+   "fin": 15414,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Río Miño desde Camposancos\n1997\nÓleo / tela\n60 x 81 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 15358,
+   "fin": 15384,
+   "texto": "Río Miño desde Camposancos"
+  },
+  {
+   "tipo": "date",
+   "ini": 15385,
+   "fin": 15389,
+   "rasgos": {
+    "when": "1997"
+   },
+   "texto": "1997"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15390,
+   "fin": 15401,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15402,
+   "fin": 15413,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 81 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 15402,
+   "fin": 15404,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 15407,
+   "fin": 15409,
+   "texto": "81"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15416,
+   "fin": 15459
+  },
+  {
+   "tipo": "img",
+   "ini": 15416,
+   "fin": 15421,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15423,
+   "fin": 15459,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Camiña\n1990\nÓleo / tela\n65 x 81 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 15423,
+   "fin": 15429,
+   "texto": "Camiña"
+  },
+  {
+   "tipo": "date",
+   "ini": 15430,
+   "fin": 15434,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15435,
+   "fin": 15446,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15447,
+   "fin": 15458,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 81 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 15447,
+   "fin": 15449,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 15452,
+   "fin": 15454,
+   "texto": "81"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15461,
+   "fin": 15509
+  },
+  {
+   "tipo": "img",
+   "ini": 15461,
+   "fin": 15466,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15468,
+   "fin": 15509,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Camposancos\n1993\nÓleo / tela\n24 x 33 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 15468,
+   "fin": 15479,
+   "texto": "Camposancos"
+  },
+  {
+   "tipo": "date",
+   "ini": 15480,
+   "fin": 15484,
+   "rasgos": {
+    "when": "1993"
+   },
+   "texto": "1993"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15485,
+   "fin": 15496,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15497,
+   "fin": 15508,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "24 x 33 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 15497,
+   "fin": 15499,
+   "texto": "24"
+  },
+  {
+   "tipo": "width",
+   "ini": 15502,
+   "fin": 15504,
+   "texto": "33"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15511,
+   "fin": 15563
+  },
+  {
+   "tipo": "img",
+   "ini": 15511,
+   "fin": 15516,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15518,
+   "fin": 15563,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Néboa no Miño\n1999\nÓleo / tablex\n24 x 24 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 15518,
+   "fin": 15531,
+   "texto": "Néboa no Miño"
+  },
+  {
+   "tipo": "date",
+   "ini": 15532,
+   "fin": 15536,
+   "rasgos": {
+    "when": "1999"
+   },
+   "texto": "1999"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15537,
+   "fin": 15550,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tablex"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15551,
+   "fin": 15562,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "24 x 24 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 15551,
+   "fin": 15553,
+   "texto": "24"
+  },
+  {
+   "tipo": "width",
+   "ini": 15556,
+   "fin": 15558,
+   "texto": "24"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15565,
+   "fin": 15608
+  },
+  {
+   "tipo": "img",
+   "ini": 15565,
+   "fin": 15570,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15572,
+   "fin": 15608,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Camiña\n1991\nÓleo / tela\n65 x 81 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 15572,
+   "fin": 15578,
+   "texto": "Camiña"
+  },
+  {
+   "tipo": "date",
+   "ini": 15579,
+   "fin": 15583,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15584,
+   "fin": 15595,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15596,
+   "fin": 15607,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 81 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 15596,
+   "fin": 15598,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 15601,
+   "fin": 15603,
+   "texto": "81"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15610,
+   "fin": 15670
+  },
+  {
+   "tipo": "img",
+   "ini": 15610,
+   "fin": 15615,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15617,
+   "fin": 15670,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Chimenea de Camposancos\n1991\nÓleo / tela\n60 x 73 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 15617,
+   "fin": 15640,
+   "texto": "Chimenea de Camposancos"
+  },
+  {
+   "tipo": "date",
+   "ini": 15641,
+   "fin": 15645,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15646,
+   "fin": 15657,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15658,
+   "fin": 15669,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 73 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 15658,
+   "fin": 15660,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 15663,
+   "fin": 15665,
+   "texto": "73"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15672,
+   "fin": 15725
+  },
+  {
+   "tipo": "img",
+   "ini": 15672,
+   "fin": 15677,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15679,
+   "fin": 15725,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Asteleiro\nDécada 1990\nÓleo / tela\n54 x 65 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 15679,
+   "fin": 15688,
+   "texto": "Asteleiro"
+  },
+  {
+   "tipo": "date",
+   "ini": 15689,
+   "fin": 15700,
+   "rasgos": {
+    "from": "1991",
+    "to": "2000"
+   },
+   "texto": "Década 1990"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15701,
+   "fin": 15712,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15713,
+   "fin": 15724,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "54 x 65 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 15713,
+   "fin": 15715,
+   "texto": "54"
+  },
+  {
+   "tipo": "width",
+   "ini": 15718,
+   "fin": 15720,
+   "texto": "65"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15727,
+   "fin": 15782
+  },
+  {
+   "tipo": "img",
+   "ini": 15727,
+   "fin": 15732,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15734,
+   "fin": 15782,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Piñeiral da Lamiña\n1999\nÓleo / tela\n33 x 41 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 15734,
+   "fin": 15752,
+   "texto": "Piñeiral da Lamiña"
+  },
+  {
+   "tipo": "date",
+   "ini": 15753,
+   "fin": 15757,
+   "rasgos": {
+    "when": "1999"
+   },
+   "texto": "1999"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15758,
+   "fin": 15769,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15770,
+   "fin": 15781,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "33 x 41 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 15770,
+   "fin": 15772,
+   "texto": "33"
+  },
+  {
+   "tipo": "width",
+   "ini": 15775,
+   "fin": 15777,
+   "texto": "41"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15784,
+   "fin": 15828
+  },
+  {
+   "tipo": "img",
+   "ini": 15784,
+   "fin": 15789,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15791,
+   "fin": 15828,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "A Insúa\n1991\nÓleo / tela\n73 x 92 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 15791,
+   "fin": 15798,
+   "texto": "A Insúa"
+  },
+  {
+   "tipo": "date",
+   "ini": 15799,
+   "fin": 15803,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15804,
+   "fin": 15815,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15816,
+   "fin": 15827,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "73 x 92 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 15816,
+   "fin": 15818,
+   "texto": "73"
+  },
+  {
+   "tipo": "width",
+   "ini": 15821,
+   "fin": 15823,
+   "texto": "92"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15830,
+   "fin": 15878
+  },
+  {
+   "tipo": "img",
+   "ini": 15830,
+   "fin": 15835,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15837,
+   "fin": 15878,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "A Insúa\n1999\nÓleo / cartón\n27 x 34,5 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 15837,
+   "fin": 15844,
+   "texto": "A Insúa"
+  },
+  {
+   "tipo": "date",
+   "ini": 15845,
+   "fin": 15849,
+   "rasgos": {
+    "when": "1999"
+   },
+   "texto": "1999"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15850,
+   "fin": 15863,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / cartón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15864,
+   "fin": 15877,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27 x 34,5 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 15864,
+   "fin": 15866,
+   "texto": "27"
+  },
+  {
+   "tipo": "width",
+   "ini": 15869,
+   "fin": 15873,
+   "texto": "34,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15880,
+   "fin": 15960
+  },
+  {
+   "tipo": "img",
+   "ini": 15880,
+   "fin": 15885,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15887,
+   "fin": 15960,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "A Barra do Miño\n1992\nÓleo / tela\n89 x 116 cms.\nColección Xunta de Galicia"
+  },
+  {
+   "tipo": "title",
+   "ini": 15887,
+   "fin": 15902,
+   "texto": "A Barra do Miño"
+  },
+  {
+   "tipo": "date",
+   "ini": 15903,
+   "fin": 15907,
+   "rasgos": {
+    "when": "1992"
+   },
+   "texto": "1992"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15908,
+   "fin": 15919,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15920,
+   "fin": 15932,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "89 x 116 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 15920,
+   "fin": 15922,
+   "texto": "89"
+  },
+  {
+   "tipo": "width",
+   "ini": 15925,
+   "fin": 15928,
+   "texto": "116"
+  },
+  {
+   "tipo": "institution",
+   "ini": 15944,
+   "fin": 15960,
+   "rasgos": {
+    "type": "administration",
+    "role": "owner, lender"
+   },
+   "texto": "Xunta de Galicia"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15962,
+   "fin": 16014
+  },
+  {
+   "tipo": "img",
+   "ini": 15962,
+   "fin": 15967,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15969,
+   "fin": 16014,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "A Barra do Miño\n1991\nÓleo / tela\n60 x 73 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 15969,
+   "fin": 15984,
+   "texto": "A Barra do Miño"
+  },
+  {
+   "tipo": "date",
+   "ini": 15985,
+   "fin": 15989,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15990,
+   "fin": 16001,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16002,
+   "fin": 16013,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 73 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 16002,
+   "fin": 16004,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 16007,
+   "fin": 16009,
+   "texto": "73"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16016,
+   "fin": 16060
+  },
+  {
+   "tipo": "img",
+   "ini": 16016,
+   "fin": 16021,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16023,
+   "fin": 16060,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "A Insúa\n1994\nÓleo / tela\n50 x 61 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 16023,
+   "fin": 16030,
+   "texto": "A Insúa"
+  },
+  {
+   "tipo": "date",
+   "ini": 16031,
+   "fin": 16035,
+   "rasgos": {
+    "when": "1994"
+   },
+   "texto": "1994"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16036,
+   "fin": 16047,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16048,
+   "fin": 16059,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 61 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 16048,
+   "fin": 16050,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 16053,
+   "fin": 16055,
+   "texto": "61"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16062,
+   "fin": 16126
+  },
+  {
+   "tipo": "img",
+   "ini": 16062,
+   "fin": 16067,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16069,
+   "fin": 16126,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Rocas de Camposancos\nDécada 1990\nÓleo / tela\n38 x 46 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 16069,
+   "fin": 16089,
+   "texto": "Rocas de Camposancos"
+  },
+  {
+   "tipo": "date",
+   "ini": 16090,
+   "fin": 16101,
+   "rasgos": {
+    "from": "1991",
+    "to": "2000"
+   },
+   "texto": "Década 1990"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16102,
+   "fin": 16113,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16114,
+   "fin": 16125,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "38 x 46 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 16114,
+   "fin": 16116,
+   "texto": "38"
+  },
+  {
+   "tipo": "width",
+   "ini": 16119,
+   "fin": 16121,
+   "texto": "46"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16128,
+   "fin": 16192
+  },
+  {
+   "tipo": "img",
+   "ini": 16128,
+   "fin": 16133,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16135,
+   "fin": 16192,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Rocas de Camposancos\nDécada 1990\nÓleo / tela\n46 x 55 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 16135,
+   "fin": 16155,
+   "texto": "Rocas de Camposancos"
+  },
+  {
+   "tipo": "date",
+   "ini": 16156,
+   "fin": 16167,
+   "rasgos": {
+    "from": "1991",
+    "to": "2000"
+   },
+   "texto": "Década 1990"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16168,
+   "fin": 16179,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16180,
+   "fin": 16191,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 55 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 16180,
+   "fin": 16182,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 16185,
+   "fin": 16187,
+   "texto": "55"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16194,
+   "fin": 16255
+  },
+  {
+   "tipo": "img",
+   "ini": 16194,
+   "fin": 16199,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16201,
+   "fin": 16255,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Rocas do Puntal\nDécada 1970\nÓleo / tablex\n55 x 46 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 16201,
+   "fin": 16216,
+   "texto": "Rocas do Puntal"
+  },
+  {
+   "tipo": "date",
+   "ini": 16217,
+   "fin": 16228,
+   "rasgos": {
+    "from": "1971",
+    "to": "1980"
+   },
+   "texto": "Década 1970"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16229,
+   "fin": 16242,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tablex"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16243,
+   "fin": 16254,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55 x 46 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 16243,
+   "fin": 16245,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 16248,
+   "fin": 16250,
+   "texto": "46"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16257,
+   "fin": 16346
+  },
+  {
+   "tipo": "img",
+   "ini": 16257,
+   "fin": 16262,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16264,
+   "fin": 16347,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Esteiro do Miño\n1960\nÓleo / tela\n97 x 130 cms.\nColección Paradores de Turismo. Tui\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 16264,
+   "fin": 16279,
+   "texto": "Esteiro do Miño"
+  },
+  {
+   "tipo": "date",
+   "ini": 16280,
+   "fin": 16284,
+   "rasgos": {
+    "when": "1960"
+   },
+   "texto": "1960"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16285,
+   "fin": 16296,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16297,
+   "fin": 16309,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "97 x 130 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 16297,
+   "fin": 16299,
+   "texto": "97"
+  },
+  {
+   "tipo": "width",
+   "ini": 16302,
+   "fin": 16305,
+   "texto": "130"
+  },
+  {
+   "tipo": "institution",
+   "ini": 16321,
+   "fin": 16346,
+   "rasgos": {
+    "type": "company",
+    "role": "owner, lender"
+   },
+   "texto": "Paradores de Turismo. Tui"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 16343,
+   "fin": 16346,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Tui"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16348,
+   "fin": 16421
+  },
+  {
+   "tipo": "img",
+   "ini": 16348,
+   "fin": 16353,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16355,
+   "fin": 16421,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "A Guarda\n1980\nÓleo / tela\n97 x 145 cms.\nColección Novacaixagalicia"
+  },
+  {
+   "tipo": "title",
+   "ini": 16355,
+   "fin": 16363,
+   "texto": "A Guarda"
+  },
+  {
+   "tipo": "date",
+   "ini": 16364,
+   "fin": 16368,
+   "rasgos": {
+    "when": "1980"
+   },
+   "texto": "1980"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16369,
+   "fin": 16380,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16381,
+   "fin": 16393,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "97 x 145 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 16381,
+   "fin": 16383,
+   "texto": "97"
+  },
+  {
+   "tipo": "width",
+   "ini": 16386,
+   "fin": 16389,
+   "texto": "145"
+  },
+  {
+   "tipo": "institution",
+   "ini": 16405,
+   "fin": 16421,
+   "rasgos": {
+    "type": "entityBank",
+    "role": "owner, lender"
+   },
+   "texto": "Novacaixagalicia"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16423,
+   "fin": 16476
+  },
+  {
+   "tipo": "img",
+   "ini": 16423,
+   "fin": 16428,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16430,
+   "fin": 16476,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Esteiro do Miño\n1960\nÓleo / tela\n81 x 130 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 16430,
+   "fin": 16445,
+   "texto": "Esteiro do Miño"
+  },
+  {
+   "tipo": "date",
+   "ini": 16446,
+   "fin": 16450,
+   "rasgos": {
+    "when": "1960"
+   },
+   "texto": "1960"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16451,
+   "fin": 16462,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16463,
+   "fin": 16475,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 130 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 16463,
+   "fin": 16465,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 16468,
+   "fin": 16471,
+   "texto": "130"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16478,
+   "fin": 16526
+  },
+  {
+   "tipo": "img",
+   "ini": 16478,
+   "fin": 16483,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16485,
+   "fin": 16526,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "O noso mar\n1997\nÓleo / táboa\n19 x 24 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 16485,
+   "fin": 16495,
+   "texto": "O noso mar"
+  },
+  {
+   "tipo": "date",
+   "ini": 16496,
+   "fin": 16500,
+   "rasgos": {
+    "when": "1997"
+   },
+   "texto": "1997"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16501,
+   "fin": 16513,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / táboa"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16514,
+   "fin": 16525,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "19 x 24 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 16514,
+   "fin": 16516,
+   "texto": "19"
+  },
+  {
+   "tipo": "width",
+   "ini": 16519,
+   "fin": 16521,
+   "texto": "24"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16528,
+   "fin": 16572
+  },
+  {
+   "tipo": "img",
+   "ini": 16528,
+   "fin": 16533,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16535,
+   "fin": 16571,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sol-por\n1965\nÓleo / tela\n54 x 81 cms"
+  },
+  {
+   "tipo": "title",
+   "ini": 16535,
+   "fin": 16542,
+   "texto": "Sol-por"
+  },
+  {
+   "tipo": "date",
+   "ini": 16543,
+   "fin": 16547,
+   "rasgos": {
+    "when": "1965"
+   },
+   "texto": "1965"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16548,
+   "fin": 16559,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16560,
+   "fin": 16571,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "54 x 81 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 16560,
+   "fin": 16562,
+   "texto": "54"
+  },
+  {
+   "tipo": "width",
+   "ini": 16565,
+   "fin": 16567,
+   "texto": "81"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16574,
+   "fin": 16627
+  },
+  {
+   "tipo": "img",
+   "ini": 16574,
+   "fin": 16579,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16581,
+   "fin": 16627,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Paisaxe\nDécada 1970\nÓleo / papel\n70 x 100 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 16581,
+   "fin": 16588,
+   "texto": "Paisaxe"
+  },
+  {
+   "tipo": "date",
+   "ini": 16589,
+   "fin": 16600,
+   "rasgos": {
+    "from": "1971",
+    "to": "1980"
+   },
+   "texto": "Década 1970"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16601,
+   "fin": 16613,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16614,
+   "fin": 16626,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 100 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 16614,
+   "fin": 16616,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 16619,
+   "fin": 16622,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16629,
+   "fin": 16694
+  },
+  {
+   "tipo": "img",
+   "ini": 16629,
+   "fin": 16634,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16636,
+   "fin": 16694,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Praia de Area Grande\nDécada 1960\nÓleo / táboa\n54 x 65 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 16636,
+   "fin": 16656,
+   "texto": "Praia de Area Grande"
+  },
+  {
+   "tipo": "date",
+   "ini": 16657,
+   "fin": 16668,
+   "rasgos": {
+    "from": "1961",
+    "to": "1970"
+   },
+   "texto": "Década 1960"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16669,
+   "fin": 16681,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / táboa"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16682,
+   "fin": 16693,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "54 x 65 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 16682,
+   "fin": 16684,
+   "texto": "54"
+  },
+  {
+   "tipo": "width",
+   "ini": 16687,
+   "fin": 16689,
+   "texto": "65"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16696,
+   "fin": 16789
+  },
+  {
+   "tipo": "img",
+   "ini": 16696,
+   "fin": 16701,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16703,
+   "fin": 16789,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Ponte de Camiña\n2000\nÓleo / táboa\n35 x 27 cms.\nDerradeiras pinceladas (obra inacabada)"
+  },
+  {
+   "tipo": "title",
+   "ini": 16703,
+   "fin": 16718,
+   "texto": "Ponte de Camiña"
+  },
+  {
+   "tipo": "date",
+   "ini": 16719,
+   "fin": 16723,
+   "rasgos": {
+    "when": "2000"
+   },
+   "texto": "2000"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16724,
+   "fin": 16736,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / táboa"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16737,
+   "fin": 16748,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35 x 27 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 16737,
+   "fin": 16739,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 16742,
+   "fin": 16744,
+   "texto": "27"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 16750,
+   "fin": 16789
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16791,
+   "fin": 16842
+  },
+  {
+   "tipo": "img",
+   "ini": 16791,
+   "fin": 16796,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16798,
+   "fin": 16842,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Autoretrato\n1975\nCarbón / papel\n55 x 40 cms."
+  },
+  {
+   "tipo": "title",
+   "ini": 16798,
+   "fin": 16809,
+   "texto": "Autoretrato"
+  },
+  {
+   "tipo": "date",
+   "ini": 16810,
+   "fin": 16814,
+   "rasgos": {
+    "when": "1975"
+   },
+   "texto": "1975"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16815,
+   "fin": 16829,
+   "rasgos": {
+    "type": "charcoal"
+   },
+   "texto": "Carbón / papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16830,
+   "fin": 16841,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55 x 40 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 16830,
+   "fin": 16832,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 16835,
+   "fin": 16837,
+   "texto": "40"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 21958,
+   "fin": 22023,
+   "rasgos": {
+    "ref": "exhibition"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 21969,
+   "fin": 21987,
+   "rasgos": {
+    "type": "administration",
+    "role": "organiser"
+   },
+   "texto": "Concello Da Guarda"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 21981,
+   "fin": 21987,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Guarda"
+  },
+  {
+   "tipo": "institution",
+   "ini": 22000,
+   "fin": 22022,
+   "rasgos": {
+    "type": "foundation",
+    "role": "collaborator"
+   },
+   "texto": "Fundación Xavier Pousa"
+  }
+ ]
+}

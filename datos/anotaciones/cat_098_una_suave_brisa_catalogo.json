@@ -1,0 +1,696 @@
+{
+ "id": "cat_098_una_suave_brisa_catalogo",
+ "nombre_original": "una-suave-brisa-catalogo",
+ "longitud_texto": 3088,
+ "sha256_texto": "04bf2dbce52d7d47395ae7e635ba44c474e89282bae8604ad020b3c0ccb883e9",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "date",
+   "ini": 8,
+   "fin": 18,
+   "rasgos": {
+    "from": "2021-04-01",
+    "to": "2021-04-30"
+   },
+   "texto": "Abril 2021"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 20,
+   "fin": 191
+  },
+  {
+   "tipo": "institution",
+   "ini": 20,
+   "fin": 44,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "PARROTE \nGALERÍA DE ARTE"
+  },
+  {
+   "tipo": "title",
+   "ini": 46,
+   "fin": 61,
+   "texto": "Una suave brisa"
+  },
+  {
+   "tipo": "person",
+   "ini": 63,
+   "fin": 78,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "AMELIA PALACIOS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 63,
+   "fin": 78,
+   "texto": "AMELIA PALACIOS"
+  },
+  {
+   "tipo": "address",
+   "ini": 79,
+   "fin": 122,
+   "texto": "Paseo de la Dársena, 5 bajo/ 15001 A CORUÑA"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 114,
+   "fin": 122,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "A CORUÑA"
+  },
+  {
+   "tipo": "title",
+   "ini": 194,
+   "fin": 209,
+   "texto": "Una suave brisa"
+  },
+  {
+   "tipo": "person",
+   "ini": 210,
+   "fin": 225,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Amelia Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 210,
+   "fin": 225,
+   "texto": "Amelia Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 250,
+   "fin": 265,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Amelia Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 250,
+   "fin": 265,
+   "texto": "Amelia Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 649,
+   "fin": 655,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Amelia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 649,
+   "fin": 655,
+   "texto": "Amelia"
+  },
+  {
+   "tipo": "person",
+   "ini": 918,
+   "fin": 924,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Amelia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 918,
+   "fin": 924,
+   "texto": "Amelia"
+  },
+  {
+   "tipo": "person",
+   "ini": 1794,
+   "fin": 1807,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Marta Guirado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1794,
+   "fin": 1807,
+   "texto": "Marta Guirado"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1809,
+   "fin": 1866
+  },
+  {
+   "tipo": "img",
+   "ini": 1809,
+   "fin": 1814,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 1816,
+   "fin": 2642
+  },
+  {
+   "tipo": "work",
+   "ini": 1816,
+   "fin": 1866,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Entre brumas, 2019\nAcrílico sobre tela\n81 x 100 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 1816,
+   "fin": 1828,
+   "texto": "Entre brumas"
+  },
+  {
+   "tipo": "date",
+   "ini": 1830,
+   "fin": 1834,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1835,
+   "fin": 1854,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1855,
+   "fin": 1866,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1855,
+   "fin": 1857,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 1860,
+   "fin": 1863,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1868,
+   "fin": 1926
+  },
+  {
+   "tipo": "img",
+   "ini": 1868,
+   "fin": 1873,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1875,
+   "fin": 1926,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Luz en el agua, 2020\nAcrílico sobre tela\n50 x 50 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 1875,
+   "fin": 1889,
+   "texto": "Luz en el agua"
+  },
+  {
+   "tipo": "date",
+   "ini": 1891,
+   "fin": 1895,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1896,
+   "fin": 1915,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1916,
+   "fin": 1926,
+   "rasgos": {
+    "unit": "cn¡m"
+   },
+   "texto": "50 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1916,
+   "fin": 1918,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 1921,
+   "fin": 1923,
+   "texto": "50"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1928,
+   "fin": 1984
+  },
+  {
+   "tipo": "img",
+   "ini": 1928,
+   "fin": 1933,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1935,
+   "fin": 1984,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "En la orilla, 2020\nAcrílico sobre tela\n50 x 50 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 1935,
+   "fin": 1947,
+   "texto": "En la orilla"
+  },
+  {
+   "tipo": "date",
+   "ini": 1949,
+   "fin": 1953,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1954,
+   "fin": 1973,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1974,
+   "fin": 1984,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1974,
+   "fin": 1976,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 1979,
+   "fin": 1981,
+   "texto": "50"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1986,
+   "fin": 2053
+  },
+  {
+   "tipo": "img",
+   "ini": 1986,
+   "fin": 1991,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1993,
+   "fin": 2053,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La tarde que se acababa, 2020\nAcrílico sobre tela\n40 x 40 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 1993,
+   "fin": 2016,
+   "texto": "La tarde que se acababa"
+  },
+  {
+   "tipo": "date",
+   "ini": 2018,
+   "fin": 2022,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2023,
+   "fin": 2042,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2043,
+   "fin": 2053,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2043,
+   "fin": 2045,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 2048,
+   "fin": 2050,
+   "texto": "40"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2055,
+   "fin": 2122
+  },
+  {
+   "tipo": "img",
+   "ini": 2055,
+   "fin": 2060,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2062,
+   "fin": 2123,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La tarde que se acababa, 2019\nAcrílico sobre tela\n40 x 40 cm\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 2062,
+   "fin": 2085,
+   "texto": "La tarde que se acababa"
+  },
+  {
+   "tipo": "date",
+   "ini": 2087,
+   "fin": 2091,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2092,
+   "fin": 2111,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2112,
+   "fin": 2122,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2112,
+   "fin": 2114,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 2117,
+   "fin": 2119,
+   "texto": "40"
+  },
+  {
+   "tipo": "text",
+   "ini": 2124,
+   "fin": 2518
+  },
+  {
+   "tipo": "persName",
+   "ini": 2473,
+   "fin": 2494,
+   "texto": "Federico García Lorca"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2520,
+   "fin": 2580
+  },
+  {
+   "tipo": "img",
+   "ini": 2520,
+   "fin": 2525,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2527,
+   "fin": 2580,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Barca, 2021\nAcrílico sobre tabla\n50 x 50 cm\n(detalle)"
+  },
+  {
+   "tipo": "title",
+   "ini": 2527,
+   "fin": 2532,
+   "texto": "Barca"
+  },
+  {
+   "tipo": "date",
+   "ini": 2534,
+   "fin": 2538,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2539,
+   "fin": 2559,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2560,
+   "fin": 2570,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2560,
+   "fin": 2562,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 2565,
+   "fin": 2567,
+   "texto": "50"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2582,
+   "fin": 2643
+  },
+  {
+   "tipo": "img",
+   "ini": 2582,
+   "fin": 2587,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2589,
+   "fin": 2642,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Trazos na Marina, 2020\nAcrílico sobre tela\n40 x 40 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2589,
+   "fin": 2605,
+   "texto": "Trazos na Marina"
+  },
+  {
+   "tipo": "date",
+   "ini": 2607,
+   "fin": 2611,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2612,
+   "fin": 2631,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2632,
+   "fin": 2642,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2632,
+   "fin": 2634,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 2637,
+   "fin": 2639,
+   "texto": "40"
+  },
+  {
+   "tipo": "title",
+   "ini": 2644,
+   "fin": 2659,
+   "texto": "Una suave brisa"
+  },
+  {
+   "tipo": "person",
+   "ini": 2660,
+   "fin": 2675,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "AMELIA PALACIOS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2660,
+   "fin": 2675,
+   "texto": "AMELIA PALACIOS"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2676,
+   "fin": 2820,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "WWW.PARROTE.ES\ngaleria@parrote.es\n@parrote_galeria\nPaseo de la Dársena, 5 bajo A Coruña\nMartes a sábado de 18 a 21h\nViernes y sábado de 12 a 14h"
+  },
+  {
+   "tipo": "address",
+   "ini": 2727,
+   "fin": 2763,
+   "texto": "Paseo de la Dársena, 5 bajo A Coruña"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2755,
+   "fin": 2763,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "A Coruña"
+  }
+ ]
+}

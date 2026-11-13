@@ -1,0 +1,1996 @@
+{
+ "id": "cat_034_catalogo_manuel_menarguez",
+ "nombre_original": "catalogo Manuel Menárguez",
+ "longitud_texto": 35682,
+ "sha256_texto": "fbfb8a7213739597b0437c7ea5e02757d47b53900de4f002f39b2696f439b902",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 1019,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 44,
+   "texto": "MANUEL MENÁRGUEZ\nfisuras de la globalización"
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 16,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MANUEL MENÁRGUEZ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 16,
+   "texto": "MANUEL MENÁRGUEZ"
+  },
+  {
+   "tipo": "date",
+   "ini": 76,
+   "fin": 99,
+   "rasgos": {
+    "when": "2012-11-29"
+   },
+   "texto": "29 de Noviembre de 2012"
+  },
+  {
+   "tipo": "person",
+   "ini": 131,
+   "fin": 160,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel Marcos López Menárguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 131,
+   "fin": 160,
+   "texto": "Manuel Marcos López Menárguez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 161,
+   "fin": 189,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Museo Arqueológico de Murcia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 183,
+   "fin": 189,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 192,
+   "fin": 233,
+   "rasgos": {
+    "type": "administration",
+    "role": "organiser"
+   },
+   "texto": "Comunidad Autonóma de la Región de Murcia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 217,
+   "fin": 233,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Región de Murcia"
+  },
+  {
+   "tipo": "person",
+   "ini": 246,
+   "fin": 271,
+   "rasgos": {
+    "role": "president"
+   },
+   "texto": "Ramón Luis Valcárcel Siso"
+  },
+  {
+   "tipo": "persName",
+   "ini": 246,
+   "fin": 271,
+   "texto": "Ramón Luis Valcárcel Siso"
+  },
+  {
+   "tipo": "person",
+   "ini": 304,
+   "fin": 330,
+   "rasgos": {
+    "role": "council"
+   },
+   "texto": "Pedro Alberto Cruz Sánchez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 304,
+   "fin": 330,
+   "texto": "Pedro Alberto Cruz Sánchez"
+  },
+  {
+   "tipo": "person",
+   "ini": 368,
+   "fin": 387,
+   "rasgos": {
+    "role": "secretary"
+   },
+   "texto": "Mª Luisa López Ruiz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 368,
+   "fin": 387,
+   "texto": "Mª Luisa López Ruiz"
+  },
+  {
+   "tipo": "person",
+   "ini": 427,
+   "fin": 451,
+   "rasgos": {
+    "role": "ganeralDirector"
+   },
+   "texto": "Francisco Giménez Gracia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 427,
+   "fin": 451,
+   "texto": "Francisco Giménez Gracia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 484,
+   "fin": 596,
+   "rasgos": {
+    "type": "administration",
+    "role": "organiser"
+   },
+   "texto": "Comunidad Autonóma de la Región de Murcia\nConsejería de Cultura y Turismo\nDirección General de Bienes Culturales"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 509,
+   "fin": 525,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Región de Murcia"
+  },
+  {
+   "tipo": "person",
+   "ini": 610,
+   "fin": 631,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "Maravillas Pérez Moya"
+  },
+  {
+   "tipo": "persName",
+   "ini": 610,
+   "fin": 631,
+   "texto": "Maravillas Pérez Moya"
+  },
+  {
+   "tipo": "institution",
+   "ini": 647,
+   "fin": 719,
+   "rasgos": {
+    "type": "administration",
+    "role": "administrator"
+   },
+   "texto": "Servicio de Museos y Exposiciones\nDirección General de Bienes Culturales"
+  },
+  {
+   "tipo": "institution",
+   "ini": 728,
+   "fin": 736,
+   "rasgos": {
+    "type": "company",
+    "role": "assembly"
+   },
+   "texto": "Moncobra"
+  },
+  {
+   "tipo": "person",
+   "ini": 753,
+   "fin": 782,
+   "rasgos": {
+    "role": "editor"
+   },
+   "texto": "Manuel Marcos López Menárguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 753,
+   "fin": 782,
+   "texto": "Manuel Marcos López Menárguez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 783,
+   "fin": 807,
+   "rasgos": {
+    "type": "editorial",
+    "role": "editor"
+   },
+   "texto": "Ediciones Tres Fronteras"
+  },
+  {
+   "tipo": "person",
+   "ini": 815,
+   "fin": 839,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Francisco Giménez Gracia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 815,
+   "fin": 839,
+   "texto": "Francisco Giménez Gracia"
+  },
+  {
+   "tipo": "person",
+   "ini": 840,
+   "fin": 867,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Mª Ángeles Gutiérrez García"
+  },
+  {
+   "tipo": "persName",
+   "ini": 840,
+   "fin": 867,
+   "texto": "Mª Ángeles Gutiérrez García"
+  },
+  {
+   "tipo": "person",
+   "ini": 868,
+   "fin": 887,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Pedro López Morales"
+  },
+  {
+   "tipo": "persName",
+   "ini": 868,
+   "fin": 887,
+   "texto": "Pedro López Morales"
+  },
+  {
+   "tipo": "person",
+   "ini": 900,
+   "fin": 929,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Paula López-Menárguez Garrido"
+  },
+  {
+   "tipo": "persName",
+   "ini": 900,
+   "fin": 929,
+   "texto": "Paula López-Menárguez Garrido"
+  },
+  {
+   "tipo": "person",
+   "ini": 930,
+   "fin": 959,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Manuel Marcos López Menárguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 930,
+   "fin": 959,
+   "texto": "Manuel Marcos López Menárguez"
+  },
+  {
+   "tipo": "person",
+   "ini": 967,
+   "fin": 989,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "Marisel Garrido Martín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 967,
+   "fin": 989,
+   "texto": "Marisel Garrido Martín"
+  },
+  {
+   "tipo": "person",
+   "ini": 990,
+   "fin": 1019,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "Manuel Marcos López Menárguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 990,
+   "fin": 1019,
+   "texto": "Manuel Marcos López Menárguez"
+  },
+  {
+   "tipo": "person",
+   "ini": 1134,
+   "fin": 1150,
+   "rasgos": {
+    "role": "editor, creator"
+   },
+   "texto": "Manuel Menárguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1134,
+   "fin": 1150,
+   "texto": "Manuel Menárguez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1266,
+   "fin": 1294,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Museo Arqueológico de Murcia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1288,
+   "fin": 1294,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "date",
+   "ini": 1295,
+   "fin": 1343,
+   "rasgos": {
+    "from": "2012-11-29",
+    "to": "2013-04-07"
+   },
+   "texto": "29 de Noviembre de 2012 hasta 7 de Abril de 2013"
+  },
+  {
+   "tipo": "person",
+   "ini": 2136,
+   "fin": 2152,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel Menárguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2136,
+   "fin": 2152,
+   "texto": "Manuel Menárguez"
+  },
+  {
+   "tipo": "person",
+   "ini": 2478,
+   "fin": 2487,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Menárguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2478,
+   "fin": 2487,
+   "texto": "Menárguez"
+  },
+  {
+   "tipo": "person",
+   "ini": 2698,
+   "fin": 2707,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Menárguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2698,
+   "fin": 2707,
+   "texto": "Menárguez"
+  },
+  {
+   "tipo": "person",
+   "ini": 3339,
+   "fin": 3348,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Menárguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3339,
+   "fin": 3348,
+   "texto": "Menárguez"
+  },
+  {
+   "tipo": "person",
+   "ini": 3508,
+   "fin": 3517,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Menárguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3508,
+   "fin": 3517,
+   "texto": "Menárguez"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 4198,
+   "fin": 4300,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 4240,
+   "fin": 4268,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Museo Arqueológico de Murcia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4262,
+   "fin": 4268,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "title",
+   "ini": 4270,
+   "fin": 4299,
+   "texto": "«Fisuras de la Globalización»"
+  },
+  {
+   "tipo": "person",
+   "ini": 4541,
+   "fin": 4550,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Menárguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4541,
+   "fin": 4550,
+   "texto": "Menárguez"
+  },
+  {
+   "tipo": "person",
+   "ini": 4872,
+   "fin": 4881,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Menárguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4872,
+   "fin": 4881,
+   "texto": "Menárguez"
+  },
+  {
+   "tipo": "person",
+   "ini": 5361,
+   "fin": 5377,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel Menárguez"
+  },
+  {
+   "tipo": "person",
+   "ini": 5478,
+   "fin": 5502,
+   "rasgos": {
+    "role": "generalDirector"
+   },
+   "texto": "Francisco Giménez Gracia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5478,
+   "fin": 5502,
+   "texto": "Francisco Giménez Gracia"
+  },
+  {
+   "tipo": "person",
+   "ini": 6247,
+   "fin": 6266,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel\nL. Menárguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6247,
+   "fin": 6266,
+   "texto": "Manuel\nL. Menárguez"
+  },
+  {
+   "tipo": "person",
+   "ini": 8427,
+   "fin": 8446,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel L. Menárguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8427,
+   "fin": 8446,
+   "texto": "Manuel L. Menárguez"
+  },
+  {
+   "tipo": "person",
+   "ini": 9075,
+   "fin": 9094,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel L. Menárguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9075,
+   "fin": 9094,
+   "texto": "Manuel L. Menárguez"
+  },
+  {
+   "tipo": "person",
+   "ini": 10945,
+   "fin": 10954,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Menárguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10945,
+   "fin": 10954,
+   "texto": "Menárguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13021,
+   "fin": 13048,
+   "texto": "Mª Ángeles Gutiérrez García"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 14689,
+   "fin": 15081,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 14689,
+   "fin": 14718,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel Marcos López Menárguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14689,
+   "fin": 14718,
+   "texto": "Manuel Marcos López Menárguez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 14796,
+   "fin": 14824,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Museo Arqueológico de Murcia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 14818,
+   "fin": 14824,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "title",
+   "ini": 14923,
+   "fin": 14952,
+   "texto": "“Fisuras de la globalización”"
+  },
+  {
+   "tipo": "person",
+   "ini": 15083,
+   "fin": 15092,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Menárguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15083,
+   "fin": 15092,
+   "texto": "Menárguez"
+  },
+  {
+   "tipo": "person",
+   "ini": 15762,
+   "fin": 15768,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15762,
+   "fin": 15768,
+   "texto": "Manuel"
+  },
+  {
+   "tipo": "person",
+   "ini": 18146,
+   "fin": 18155,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Menárguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18146,
+   "fin": 18155,
+   "texto": "Menárguez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 18449,
+   "fin": 18476,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Museo Arqueológico de Murci"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 18471,
+   "fin": 18477,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "person",
+   "ini": 18877,
+   "fin": 18886,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Menárguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18877,
+   "fin": 18886,
+   "texto": "Menárguez"
+  },
+  {
+   "tipo": "person",
+   "ini": 19130,
+   "fin": 19139,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Menárguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19130,
+   "fin": 19139,
+   "texto": "Menárguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20489,
+   "fin": 20508,
+   "texto": "Pedro López Morales"
+  },
+  {
+   "tipo": "person",
+   "ini": 20511,
+   "fin": 20540,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MANUEL MARCOS LOPEZ MENARGUEZ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20511,
+   "fin": 20540,
+   "texto": "MANUEL MARCOS LOPEZ MENARGUEZ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21519,
+   "fin": 21548,
+   "texto": "MANUEL MARCOS LOPEZ MENARGUEZ"
+  },
+  {
+   "tipo": "person",
+   "ini": 21519,
+   "fin": 21548,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MANUEL MARCOS LOPEZ MENARGUEZ"
+  },
+  {
+   "tipo": "person",
+   "ini": 23478,
+   "fin": 23503,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel M. López Menárguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23478,
+   "fin": 23503,
+   "texto": "Manuel M. López Menárguez"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 23507,
+   "fin": 26284
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 23507,
+   "fin": 23749
+  },
+  {
+   "tipo": "text",
+   "ini": 23507,
+   "fin": 23642
+  },
+  {
+   "tipo": "title",
+   "ini": 23507,
+   "fin": 23559,
+   "texto": "TRISTE HERENCIA ECOLÓGICA\nSAD ECOLOGICAL INHERITANCE"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23644,
+   "fin": 23749
+  },
+  {
+   "tipo": "work",
+   "ini": 23644,
+   "fin": 23742,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Triste herencia ecológica\nTalla madera, piedra y latas\npolicromadas y doradas\n2,00 x 1,85 x 0,52 m"
+  },
+  {
+   "tipo": "title",
+   "ini": 23644,
+   "fin": 23669,
+   "texto": "Triste herencia ecológica"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23670,
+   "fin": 23721,
+   "rasgos": {
+    "type": "polychromedWood, stone, tin"
+   },
+   "texto": "Talla madera, piedra y latas\npolicromadas y doradas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23722,
+   "fin": 23742,
+   "rasgos": {
+    "unit": "m"
+   },
+   "texto": "2,00 x 1,85 x 0,52 m"
+  },
+  {
+   "tipo": "height",
+   "ini": 23722,
+   "fin": 23726,
+   "texto": "2,00"
+  },
+  {
+   "tipo": "width",
+   "ini": 23729,
+   "fin": 23733,
+   "texto": "1,85"
+  },
+  {
+   "tipo": "depth",
+   "ini": 23736,
+   "fin": 23740,
+   "texto": "0,52"
+  },
+  {
+   "tipo": "img",
+   "ini": 23744,
+   "fin": 23749,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 23751,
+   "fin": 24143
+  },
+  {
+   "tipo": "text",
+   "ini": 23751,
+   "fin": 24021
+  },
+  {
+   "tipo": "title",
+   "ini": 23751,
+   "fin": 23798,
+   "texto": "EL VIAJE. THE JOURNEY WAS EXHAUSTING. ILLEGALS."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24022,
+   "fin": 24057
+  },
+  {
+   "tipo": "img",
+   "ini": 24023,
+   "fin": 24028,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24030,
+   "fin": 24057,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Patera\nAcrílico sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 24030,
+   "fin": 24036,
+   "texto": "Patera"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24037,
+   "fin": 24057,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24059,
+   "fin": 24143
+  },
+  {
+   "tipo": "img",
+   "ini": 24059,
+   "fin": 24064,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 24065,
+   "fin": 24070,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 24071,
+   "fin": 24076,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 24077,
+   "fin": 24082,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24084,
+   "fin": 24143,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Ilegal. (Esclavo)\nEscultura en madera, policromada y dorada"
+  },
+  {
+   "tipo": "title",
+   "ini": 24084,
+   "fin": 24101,
+   "texto": "Ilegal. (Esclavo)"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24102,
+   "fin": 24143,
+   "rasgos": {
+    "type": "polychromedWood"
+   },
+   "texto": "Escultura en madera, policromada y dorada"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 24145,
+   "fin": 24316
+  },
+  {
+   "tipo": "text",
+   "ini": 24145,
+   "fin": 24200
+  },
+  {
+   "tipo": "title",
+   "ini": 24145,
+   "fin": 24165,
+   "texto": "MOVIMIENTO. MOVEMENT"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24202,
+   "fin": 24261
+  },
+  {
+   "tipo": "img",
+   "ini": 24202,
+   "fin": 24207,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24209,
+   "fin": 24261,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "La muerte acechando. Cráneo de elefante\nTalla madera"
+  },
+  {
+   "tipo": "title",
+   "ini": 24209,
+   "fin": 24248,
+   "texto": "La muerte acechando. Cráneo de elefante"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24249,
+   "fin": 24261,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Talla madera"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24263,
+   "fin": 24316
+  },
+  {
+   "tipo": "img",
+   "ini": 24263,
+   "fin": 24268,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24270,
+   "fin": 24316,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La muerte de diseño\nTondo acrílico sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 24270,
+   "fin": 24289,
+   "texto": "La muerte de diseño"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24290,
+   "fin": 24316,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Tondo acrílico sobre tabla"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 24319,
+   "fin": 24833
+  },
+  {
+   "tipo": "text",
+   "ini": 24319,
+   "fin": 24603
+  },
+  {
+   "tipo": "title",
+   "ini": 24319,
+   "fin": 24341,
+   "texto": "DICOTOMÍAS. DICHOTOMI."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24605,
+   "fin": 24691
+  },
+  {
+   "tipo": "img",
+   "ini": 24605,
+   "fin": 24611,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24612,
+   "fin": 24691,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Retrato de Paul Auster\nTalla madera, policromada, encerada\n0,39 x 0,20 x 0,12 m"
+  },
+  {
+   "tipo": "title",
+   "ini": 24612,
+   "fin": 24634,
+   "texto": "Retrato de Paul Auster"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24635,
+   "fin": 24670,
+   "rasgos": {
+    "type": "polychromedWood"
+   },
+   "texto": "Talla madera, policromada, encerada"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24671,
+   "fin": 24691,
+   "rasgos": {
+    "unit": "m"
+   },
+   "texto": "0,39 x 0,20 x 0,12 m"
+  },
+  {
+   "tipo": "height",
+   "ini": 24671,
+   "fin": 24675,
+   "texto": "0,39"
+  },
+  {
+   "tipo": "width",
+   "ini": 24678,
+   "fin": 24682,
+   "texto": "0,20"
+  },
+  {
+   "tipo": "depth",
+   "ini": 24685,
+   "fin": 24689,
+   "texto": "0,12"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24693,
+   "fin": 24723
+  },
+  {
+   "tipo": "img",
+   "ini": 24693,
+   "fin": 24698,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24700,
+   "fin": 24723,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Hombre pez\nTalla piedra"
+  },
+  {
+   "tipo": "title",
+   "ini": 24700,
+   "fin": 24710,
+   "texto": "Hombre pez"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24711,
+   "fin": 24723,
+   "rasgos": {
+    "type": "stone"
+   },
+   "texto": "Talla piedra"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24725,
+   "fin": 24786
+  },
+  {
+   "tipo": "img",
+   "ini": 24725,
+   "fin": 24730,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24732,
+   "fin": 24787,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "El profeta, homenaje a Berrugete\nTalla madera encerada\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 24732,
+   "fin": 24764,
+   "texto": "El profeta, homenaje a Berrugete"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24765,
+   "fin": 24786,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Talla madera encerada"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24788,
+   "fin": 24826
+  },
+  {
+   "tipo": "img",
+   "ini": 24788,
+   "fin": 24793,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24795,
+   "fin": 24826,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Sombra, Claro-Oscuro\nFotografía"
+  },
+  {
+   "tipo": "title",
+   "ini": 24795,
+   "fin": 24815,
+   "texto": "Sombra, Claro-Oscuro"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24816,
+   "fin": 24826,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "img",
+   "ini": 24828,
+   "fin": 24833,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 24835,
+   "fin": 25305
+  },
+  {
+   "tipo": "text",
+   "ini": 24835,
+   "fin": 25077
+  },
+  {
+   "tipo": "title",
+   "ini": 24835,
+   "fin": 24901,
+   "texto": "ANIMALES EN PELIGRO DE EXTINCIÓN. ANIMALS IN DANGER OF EXTINCTION."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25079,
+   "fin": 25141
+  },
+  {
+   "tipo": "img",
+   "ini": 25079,
+   "fin": 25084,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25086,
+   "fin": 25141,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Quelonio\nTalla madera, policromada\n0,85 x 1,92 x 1,23 m"
+  },
+  {
+   "tipo": "title",
+   "ini": 25086,
+   "fin": 25094,
+   "texto": "Quelonio"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25095,
+   "fin": 25120,
+   "rasgos": {
+    "type": "polychromedWood"
+   },
+   "texto": "Talla madera, policromada"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25121,
+   "fin": 25141,
+   "rasgos": {
+    "unit": "m"
+   },
+   "texto": "0,85 x 1,92 x 1,23 m"
+  },
+  {
+   "tipo": "height",
+   "ini": 25121,
+   "fin": 25125,
+   "texto": "0,85"
+  },
+  {
+   "tipo": "width",
+   "ini": 25128,
+   "fin": 25132,
+   "texto": "1,92"
+  },
+  {
+   "tipo": "depth",
+   "ini": 25135,
+   "fin": 25139,
+   "texto": "1,23"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25143,
+   "fin": 25177
+  },
+  {
+   "tipo": "img",
+   "ini": 25143,
+   "fin": 25148,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25150,
+   "fin": 25177,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Tauro\nTalla madera patinada"
+  },
+  {
+   "tipo": "title",
+   "ini": 25150,
+   "fin": 25155,
+   "texto": "Tauro"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25156,
+   "fin": 25177,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Talla madera patinada"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25179,
+   "fin": 25233
+  },
+  {
+   "tipo": "img",
+   "ini": 25179,
+   "fin": 25184,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 25185,
+   "fin": 25190,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25192,
+   "fin": 25233,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Unicornis\nTalla madera con incrustaciones"
+  },
+  {
+   "tipo": "title",
+   "ini": 25192,
+   "fin": 25201,
+   "texto": "Unicornis"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25202,
+   "fin": 25233,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Talla madera con incrustaciones"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25235,
+   "fin": 25261
+  },
+  {
+   "tipo": "img",
+   "ini": 25235,
+   "fin": 25240,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25242,
+   "fin": 25261,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Tigris\nTalla piedra"
+  },
+  {
+   "tipo": "title",
+   "ini": 25242,
+   "fin": 25248,
+   "texto": "Tigris"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25249,
+   "fin": 25261,
+   "rasgos": {
+    "type": "stone"
+   },
+   "texto": "Talla piedra"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25263,
+   "fin": 25305
+  },
+  {
+   "tipo": "img",
+   "ini": 25263,
+   "fin": 25268,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25270,
+   "fin": 25305,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Rhinocêron\nTalla madera policromada"
+  },
+  {
+   "tipo": "title",
+   "ini": 25270,
+   "fin": 25280,
+   "texto": "Rhinocêron"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25281,
+   "fin": 25305,
+   "rasgos": {
+    "type": "polychormedWood"
+   },
+   "texto": "Talla madera policromada"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 25308,
+   "fin": 25881
+  },
+  {
+   "tipo": "text",
+   "ini": 25308,
+   "fin": 25556
+  },
+  {
+   "tipo": "title",
+   "ini": 25308,
+   "fin": 25363,
+   "texto": "ATRAPADOS EN SU INTERIOR. TO BE CATCH IN YOUR INTERIOR."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25558,
+   "fin": 25610
+  },
+  {
+   "tipo": "img",
+   "ini": 25558,
+   "fin": 25563,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25565,
+   "fin": 25610,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Atrapada en su interior\nTalla madera encerada"
+  },
+  {
+   "tipo": "title",
+   "ini": 25565,
+   "fin": 25588,
+   "texto": "Atrapada en su interior"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25589,
+   "fin": 25610,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Talla madera encerada"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25612,
+   "fin": 25648
+  },
+  {
+   "tipo": "img",
+   "ini": 25612,
+   "fin": 25617,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25619,
+   "fin": 25648,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Desnudo femenino\nTalla madera"
+  },
+  {
+   "tipo": "title",
+   "ini": 25619,
+   "fin": 25635,
+   "texto": "Desnudo femenino"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25636,
+   "fin": 25648,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Talla madera"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25650,
+   "fin": 25707
+  },
+  {
+   "tipo": "img",
+   "ini": 25650,
+   "fin": 25655,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25657,
+   "fin": 25707,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Torso de mujer\nTalla madera estucada y policromada"
+  },
+  {
+   "tipo": "title",
+   "ini": 25657,
+   "fin": 25671,
+   "texto": "Torso de mujer"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25672,
+   "fin": 25707,
+   "rasgos": {
+    "type": "polychormedWood"
+   },
+   "texto": "Talla madera estucada y policromada"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25709,
+   "fin": 25753
+  },
+  {
+   "tipo": "img",
+   "ini": 25709,
+   "fin": 25714,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25716,
+   "fin": 25753,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Desnudo sensual\nTalla madera patinada"
+  },
+  {
+   "tipo": "title",
+   "ini": 25716,
+   "fin": 25731,
+   "texto": "Desnudo sensual"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25732,
+   "fin": 25753,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Talla madera patinada"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25755,
+   "fin": 25804
+  },
+  {
+   "tipo": "img",
+   "ini": 25755,
+   "fin": 25760,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25762,
+   "fin": 25804,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Chamán\nTalla madera estucada y policromada"
+  },
+  {
+   "tipo": "title",
+   "ini": 25762,
+   "fin": 25768,
+   "texto": "Chamán"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25769,
+   "fin": 25804,
+   "rasgos": {
+    "type": "polychomedWood"
+   },
+   "texto": "Talla madera estucada y policromada"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25806,
+   "fin": 25849
+  },
+  {
+   "tipo": "img",
+   "ini": 25806,
+   "fin": 25811,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25813,
+   "fin": 25849,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Tótem\nTalla madera patinada y dorada"
+  },
+  {
+   "tipo": "title",
+   "ini": 25813,
+   "fin": 25818,
+   "texto": "Tótem"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25819,
+   "fin": 25849,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Talla madera patinada y dorada"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25851,
+   "fin": 25881
+  },
+  {
+   "tipo": "img",
+   "ini": 25851,
+   "fin": 25856,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 25858,
+   "fin": 25881,
+   "texto": "Atrapada en su interior"
+  },
+  {
+   "tipo": "work",
+   "ini": 25858,
+   "fin": 25881,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Atrapada en su interior"
+  },
+  {
+   "tipo": "caption",
+   "ini": 25858,
+   "fin": 25881
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 25884,
+   "fin": 26009
+  },
+  {
+   "tipo": "text",
+   "ini": 25884,
+   "fin": 25970
+  },
+  {
+   "tipo": "title",
+   "ini": 25884,
+   "fin": 25932,
+   "texto": "PASOS, HACÍA DONDE VAMOS?\nSTEPS, WHERE DO WE GO?"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25972,
+   "fin": 26009
+  },
+  {
+   "tipo": "img",
+   "ini": 25972,
+   "fin": 25977,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25979,
+   "fin": 26009,
+   "rasgos": {
+    "type": "video, photograph"
+   },
+   "texto": "Cruce de caminos. Foto y vídeo"
+  },
+  {
+   "tipo": "caption",
+   "ini": 25979,
+   "fin": 26009
+  },
+  {
+   "tipo": "title",
+   "ini": 25979,
+   "fin": 25995,
+   "texto": "Cruce de caminos"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25997,
+   "fin": 26009,
+   "rasgos": {
+    "type": "photograph, video"
+   },
+   "texto": "Foto y vídeo"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 26012,
+   "fin": 26284
+  },
+  {
+   "tipo": "text",
+   "ini": 26012,
+   "fin": 26214
+  },
+  {
+   "tipo": "title",
+   "ini": 26012,
+   "fin": 26077,
+   "texto": "¿QUE PERSPECTIVA DE FUTURO TENEMOS?\nHAVEN WE ANY FUTUR PROSPECTS?"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26216,
+   "fin": 26284
+  },
+  {
+   "tipo": "img",
+   "ini": 26216,
+   "fin": 26221,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 26222,
+   "fin": 26227,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 26229,
+   "fin": 26284,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Constelaciones. Anverso y reverso\nAcrílico sobre tabla."
+  },
+  {
+   "tipo": "title",
+   "ini": 26229,
+   "fin": 26262,
+   "texto": "Constelaciones. Anverso y reverso"
+  },
+  {
+   "tipo": "technique",
+   "ini": 26263,
+   "fin": 26283,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre tabla"
+  },
+  {
+   "tipo": "person",
+   "ini": 35455,
+   "fin": 35471,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel Menárguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35455,
+   "fin": 35471,
+   "texto": "Manuel Menárguez"
+  }
+ ]
+}

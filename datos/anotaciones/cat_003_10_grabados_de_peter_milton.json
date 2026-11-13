@@ -1,0 +1,1469 @@
+{
+ "id": "cat_003_10_grabados_de_peter_milton",
+ "nombre_original": "10. Grabados de Peter Milton",
+ "longitud_texto": 19387,
+ "sha256_texto": "6691687bfcf36a73cd2bbed4b8eb893ab969d94efe0f2a77af37e7506f8665c7",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 65,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 25,
+   "texto": "GRABADOS DE PETER MILTON\r"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12,
+   "fin": 25,
+   "texto": "PETER MILTON\r"
+  },
+  {
+   "tipo": "person",
+   "ini": 12,
+   "fin": 24,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "PETER MILTON"
+  },
+  {
+   "tipo": "institution",
+   "ini": 26,
+   "fin": 43,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "MUSEO LA TERTULIA"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 45,
+   "fin": 49,
+   "rasgos": {
+    "type": ""
+   },
+   "texto": "CALI"
+  },
+  {
+   "tipo": "date",
+   "ini": 52,
+   "fin": 64,
+   "rasgos": {
+    "from": "1972-02-01",
+    "to": "1972-02-28"
+   },
+   "texto": "Febrero 1972"
+  },
+  {
+   "tipo": "person",
+   "ini": 2058,
+   "fin": 2070,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "PETER MILTON"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2058,
+   "fin": 2070,
+   "texto": "PETER MILTON"
+  },
+  {
+   "tipo": "person",
+   "ini": 2733,
+   "fin": 2745,
+   "rasgos": {
+    "role": "when"
+   },
+   "texto": "Peter Milton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2733,
+   "fin": 2745,
+   "texto": "Peter Milton"
+  },
+  {
+   "tipo": "person",
+   "ini": 2989,
+   "fin": 2995,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Milton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2989,
+   "fin": 2995,
+   "texto": "Milton"
+  },
+  {
+   "tipo": "person",
+   "ini": 3137,
+   "fin": 3143,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Milton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3137,
+   "fin": 3143,
+   "texto": "Milton"
+  },
+  {
+   "tipo": "person",
+   "ini": 3571,
+   "fin": 3669,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Peter Milton nació en Lower Merion, Pennsylvania, un suburbio de Filedelfia, el 2 de Abril de 1930"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3571,
+   "fin": 3583,
+   "texto": "Peter Milton"
+  },
+  {
+   "tipo": "birth",
+   "ini": 3584,
+   "fin": 3669
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3593,
+   "fin": 3619,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Lower Merion, Pennsylvania"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3636,
+   "fin": 3646,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Filedelfia"
+  },
+  {
+   "tipo": "date",
+   "ini": 3651,
+   "fin": 3669,
+   "rasgos": {
+    "when": "1930-04-02"
+   },
+   "texto": "2 de Abril de 1930"
+  },
+  {
+   "tipo": "person",
+   "ini": 4421,
+   "fin": 4427,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Milton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4421,
+   "fin": 4427,
+   "texto": "Milton"
+  },
+  {
+   "tipo": "person",
+   "ini": 4646,
+   "fin": 4652,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Milton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4646,
+   "fin": 4652,
+   "texto": "Milton"
+  },
+  {
+   "tipo": "person",
+   "ini": 5042,
+   "fin": 5048,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Milton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5042,
+   "fin": 5048,
+   "texto": "Milton"
+  },
+  {
+   "tipo": "person",
+   "ini": 5248,
+   "fin": 5254,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Milton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5248,
+   "fin": 5254,
+   "texto": "Milton"
+  },
+  {
+   "tipo": "person",
+   "ini": 5678,
+   "fin": 5684,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Milton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5678,
+   "fin": 5684,
+   "texto": "Milton"
+  },
+  {
+   "tipo": "person",
+   "ini": 6613,
+   "fin": 6619,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Milton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6613,
+   "fin": 6619,
+   "texto": "Milton"
+  },
+  {
+   "tipo": "person",
+   "ini": 7188,
+   "fin": 7194,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Milton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7188,
+   "fin": 7194,
+   "texto": "Milton"
+  },
+  {
+   "tipo": "person",
+   "ini": 7616,
+   "fin": 7628,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Peter Milton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7616,
+   "fin": 7628,
+   "texto": "Peter Milton"
+  },
+  {
+   "tipo": "person",
+   "ini": 8651,
+   "fin": 8657,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Milton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8651,
+   "fin": 8657,
+   "texto": "Milton"
+  },
+  {
+   "tipo": "person",
+   "ini": 9768,
+   "fin": 9774,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Milton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9768,
+   "fin": 9774,
+   "texto": "Milton"
+  },
+  {
+   "tipo": "person",
+   "ini": 10430,
+   "fin": 10436,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Milton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10430,
+   "fin": 10436,
+   "texto": "Milton"
+  },
+  {
+   "tipo": "person",
+   "ini": 10899,
+   "fin": 10905,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Milton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10899,
+   "fin": 10905,
+   "texto": "Milton"
+  },
+  {
+   "tipo": "person",
+   "ini": 11250,
+   "fin": 11256,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Milton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11250,
+   "fin": 11256,
+   "texto": "Milton"
+  },
+  {
+   "tipo": "person",
+   "ini": 11547,
+   "fin": 11553,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Milton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11547,
+   "fin": 11553,
+   "texto": "Milton"
+  },
+  {
+   "tipo": "person",
+   "ini": 12106,
+   "fin": 12112,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Milton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12106,
+   "fin": 12112,
+   "texto": "Milton"
+  },
+  {
+   "tipo": "person",
+   "ini": 13014,
+   "fin": 13020,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Milton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13014,
+   "fin": 13020,
+   "texto": "Milton"
+  },
+  {
+   "tipo": "person",
+   "ini": 13287,
+   "fin": 13293,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Milton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13287,
+   "fin": 13293,
+   "texto": "Milton"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 13355,
+   "fin": 14474
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13380,
+   "fin": 13405
+  },
+  {
+   "tipo": "work",
+   "ini": 13380,
+   "fin": 13404,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "1.- WINTERSCAPE III\t1961"
+  },
+  {
+   "tipo": "title",
+   "ini": 13384,
+   "fin": 13398,
+   "texto": "WINTERSCAPE II"
+  },
+  {
+   "tipo": "date",
+   "ini": 13400,
+   "fin": 13404,
+   "rasgos": {
+    "when": "1961"
+   },
+   "texto": "1961"
+  },
+  {
+   "tipo": "work",
+   "ini": 13406,
+   "fin": 13429,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "2.- WINTERSCAPE IV\t1961"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13406,
+   "fin": 13429
+  },
+  {
+   "tipo": "title",
+   "ini": 13410,
+   "fin": 13424,
+   "texto": "WINTERSCAPE IV"
+  },
+  {
+   "tipo": "date",
+   "ini": 13425,
+   "fin": 13429,
+   "rasgos": {
+    "when": "1961"
+   },
+   "texto": "1961"
+  },
+  {
+   "tipo": "work",
+   "ini": 13431,
+   "fin": 13450,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "3.- MARSHLAND\t1962\r"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13431,
+   "fin": 13449
+  },
+  {
+   "tipo": "title",
+   "ini": 13435,
+   "fin": 13444,
+   "texto": "MARSHLAND"
+  },
+  {
+   "tipo": "date",
+   "ini": 13445,
+   "fin": 13449,
+   "rasgos": {
+    "when": "1962"
+   },
+   "texto": "1962"
+  },
+  {
+   "tipo": "work",
+   "ini": 13451,
+   "fin": 13470,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "4.- FEBRUARY I\t1963"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13451,
+   "fin": 13470
+  },
+  {
+   "tipo": "title",
+   "ini": 13455,
+   "fin": 13465,
+   "texto": "FEBRUARY I"
+  },
+  {
+   "tipo": "date",
+   "ini": 13466,
+   "fin": 13470,
+   "rasgos": {
+    "when": "1963"
+   },
+   "texto": "1963"
+  },
+  {
+   "tipo": "work",
+   "ini": 13472,
+   "fin": 13492,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "5.- FEBRUARY II\t1963"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13472,
+   "fin": 13492
+  },
+  {
+   "tipo": "title",
+   "ini": 13476,
+   "fin": 13487,
+   "texto": "FEBRUARY II"
+  },
+  {
+   "tipo": "date",
+   "ini": 13488,
+   "fin": 13492,
+   "rasgos": {
+    "when": "1963"
+   },
+   "texto": "1963"
+  },
+  {
+   "tipo": "work",
+   "ini": 13494,
+   "fin": 13519,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "6.- BOTANICAL GARDEN\t1963"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13494,
+   "fin": 13519
+  },
+  {
+   "tipo": "title",
+   "ini": 13498,
+   "fin": 13514,
+   "texto": "BOTANICAL GARDEN"
+  },
+  {
+   "tipo": "date",
+   "ini": 13515,
+   "fin": 13519,
+   "rasgos": {
+    "when": "1963"
+   },
+   "texto": "1963"
+  },
+  {
+   "tipo": "work",
+   "ini": 13521,
+   "fin": 13555,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "7.- BRUEGHELSCAPE No. 1       1964"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13521,
+   "fin": 13555
+  },
+  {
+   "tipo": "title",
+   "ini": 13525,
+   "fin": 13544,
+   "texto": "BRUEGHELSCAPE No. 1"
+  },
+  {
+   "tipo": "date",
+   "ini": 13551,
+   "fin": 13555,
+   "rasgos": {
+    "when": "1964"
+   },
+   "texto": "1964"
+  },
+  {
+   "tipo": "work",
+   "ini": 13557,
+   "fin": 13591,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "8.- BRUEGHELSCAPE No. 2       1964"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13557,
+   "fin": 13591
+  },
+  {
+   "tipo": "title",
+   "ini": 13561,
+   "fin": 13580,
+   "texto": "BRUEGHELSCAPE No. 2"
+  },
+  {
+   "tipo": "date",
+   "ini": 13587,
+   "fin": 13591,
+   "rasgos": {
+    "when": "1964"
+   },
+   "texto": "1964"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13593,
+   "fin": 13616
+  },
+  {
+   "tipo": "work",
+   "ini": 13593,
+   "fin": 13615,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "9.- WINTERSCAPE V\t1964"
+  },
+  {
+   "tipo": "title",
+   "ini": 13597,
+   "fin": 13610,
+   "texto": "WINTERSCAPE V"
+  },
+  {
+   "tipo": "date",
+   "ini": 13611,
+   "fin": 13615,
+   "rasgos": {
+    "when": "1964"
+   },
+   "texto": "1964"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13617,
+   "fin": 13642
+  },
+  {
+   "tipo": "work",
+   "ini": 13617,
+   "fin": 13641,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "10.- WINTERSCAPE VI\t1965"
+  },
+  {
+   "tipo": "title",
+   "ini": 13622,
+   "fin": 13636,
+   "texto": "WINTERSCAPE VI"
+  },
+  {
+   "tipo": "date",
+   "ini": 13637,
+   "fin": 13641,
+   "rasgos": {
+    "when": "1965"
+   },
+   "texto": "1965"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13643,
+   "fin": 13680
+  },
+  {
+   "tipo": "work",
+   "ini": 13643,
+   "fin": 13679,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "11.- ESME'S OCTOBER WINDOW      1965"
+  },
+  {
+   "tipo": "title",
+   "ini": 13648,
+   "fin": 13669,
+   "texto": "ESME'S OCTOBER WINDOW"
+  },
+  {
+   "tipo": "date",
+   "ini": 13675,
+   "fin": 13679,
+   "rasgos": {
+    "when": "1965"
+   },
+   "texto": "1965"
+  },
+  {
+   "tipo": "work",
+   "ini": 13681,
+   "fin": 13706,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "12.- JULIE AT WINDOW\t1965"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13681,
+   "fin": 13706
+  },
+  {
+   "tipo": "title",
+   "ini": 13686,
+   "fin": 13701,
+   "texto": "JULIE AT WINDOW"
+  },
+  {
+   "tipo": "date",
+   "ini": 13702,
+   "fin": 13706,
+   "rasgos": {
+    "when": "1965"
+   },
+   "texto": "1965"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13708,
+   "fin": 13731
+  },
+  {
+   "tipo": "work",
+   "ini": 13708,
+   "fin": 13730,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "13.- STREET SCENE\t1965"
+  },
+  {
+   "tipo": "title",
+   "ini": 13713,
+   "fin": 13725,
+   "texto": "STREET SCENE"
+  },
+  {
+   "tipo": "date",
+   "ini": 13726,
+   "fin": 13730,
+   "rasgos": {
+    "when": "1965"
+   },
+   "texto": "1965"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13732,
+   "fin": 13773
+  },
+  {
+   "tipo": "work",
+   "ini": 13732,
+   "fin": 13772,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "14.- CLAP HANDS! HERE COMES CHARLIE 1965"
+  },
+  {
+   "tipo": "title",
+   "ini": 13737,
+   "fin": 13767,
+   "texto": "CLAP HANDS! HERE COMES CHARLIE"
+  },
+  {
+   "tipo": "date",
+   "ini": 13768,
+   "fin": 13772,
+   "rasgos": {
+    "when": "1965"
+   },
+   "texto": "1965"
+  },
+  {
+   "tipo": "work",
+   "ini": 13774,
+   "fin": 13795,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "15.- THE GARDEN\t1966\r"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13774,
+   "fin": 13794
+  },
+  {
+   "tipo": "title",
+   "ini": 13779,
+   "fin": 13789,
+   "texto": "THE GARDEN"
+  },
+  {
+   "tipo": "date",
+   "ini": 13790,
+   "fin": 13794,
+   "rasgos": {
+    "when": "1966"
+   },
+   "texto": "1966"
+  },
+  {
+   "tipo": "work",
+   "ini": 13796,
+   "fin": 13819,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "16.- CHILD'S PLAY\t1966\r"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13796,
+   "fin": 13818
+  },
+  {
+   "tipo": "title",
+   "ini": 13801,
+   "fin": 13813,
+   "texto": "CHILD'S PLAY"
+  },
+  {
+   "tipo": "date",
+   "ini": 13814,
+   "fin": 13818,
+   "rasgos": {
+    "when": "1966"
+   },
+   "texto": "1966"
+  },
+  {
+   "tipo": "work",
+   "ini": 13820,
+   "fin": 13850,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "17.— PARADE/ Second State\t1967"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13820,
+   "fin": 13850
+  },
+  {
+   "tipo": "title",
+   "ini": 13825,
+   "fin": 13845,
+   "texto": "PARADE/ Second State"
+  },
+  {
+   "tipo": "date",
+   "ini": 13846,
+   "fin": 13850,
+   "rasgos": {
+    "when": "1967"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13852,
+   "fin": 13871
+  },
+  {
+   "tipo": "work",
+   "ini": 13852,
+   "fin": 13870,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "18.- THE HILL\t1967"
+  },
+  {
+   "tipo": "title",
+   "ini": 13857,
+   "fin": 13865,
+   "texto": "THE HILL"
+  },
+  {
+   "tipo": "date",
+   "ini": 13866,
+   "fin": 13870,
+   "rasgos": {
+    "when": "1967"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "work",
+   "ini": 13872,
+   "fin": 13899,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "19.- TWO FROM CHARLIE\t1967\r"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13872,
+   "fin": 13899
+  },
+  {
+   "tipo": "title",
+   "ini": 13877,
+   "fin": 13893,
+   "texto": "TWO FROM CHARLIE"
+  },
+  {
+   "tipo": "date",
+   "ini": 13894,
+   "fin": 13898,
+   "rasgos": {
+    "when": "1967"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "work",
+   "ini": 13900,
+   "fin": 13930,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "20.- VICTORIA'S CHILDREN\t1967\r"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13900,
+   "fin": 13930
+  },
+  {
+   "tipo": "title",
+   "ini": 13905,
+   "fin": 13924,
+   "texto": "VICTORIA'S CHILDREN"
+  },
+  {
+   "tipo": "date",
+   "ini": 13925,
+   "fin": 13929,
+   "rasgos": {
+    "when": "1967"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13931,
+   "fin": 13972
+  },
+  {
+   "tipo": "work",
+   "ini": 13931,
+   "fin": 13971,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "21.- JULIA PASSING / First State    1967"
+  },
+  {
+   "tipo": "title",
+   "ini": 13936,
+   "fin": 13963,
+   "texto": "JULIA PASSING / First State"
+  },
+  {
+   "tipo": "date",
+   "ini": 13967,
+   "fin": 13971,
+   "rasgos": {
+    "when": "1967"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "work",
+   "ini": 13973,
+   "fin": 14011,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "22.- JULIA PASSING/Second State   1968"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13973,
+   "fin": 14011
+  },
+  {
+   "tipo": "title",
+   "ini": 13978,
+   "fin": 14004,
+   "texto": "JULIA PASSING/Second State"
+  },
+  {
+   "tipo": "date",
+   "ini": 14007,
+   "fin": 14011,
+   "rasgos": {
+    "when": "1968"
+   },
+   "texto": "1968"
+  },
+  {
+   "tipo": "work",
+   "ini": 14013,
+   "fin": 14034,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "23.- FREE FALL \t1968\r"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14013,
+   "fin": 14034
+  },
+  {
+   "tipo": "title",
+   "ini": 14018,
+   "fin": 14027,
+   "texto": "FREE FALL"
+  },
+  {
+   "tipo": "date",
+   "ini": 14029,
+   "fin": 14033,
+   "rasgos": {
+    "when": "1968"
+   },
+   "texto": "1968"
+  },
+  {
+   "tipo": "work",
+   "ini": 14035,
+   "fin": 14055,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "24.- PASTORALE\t1969\r"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14035,
+   "fin": 14055
+  },
+  {
+   "tipo": "title",
+   "ini": 14040,
+   "fin": 14049,
+   "texto": "PASTORALE"
+  },
+  {
+   "tipo": "date",
+   "ini": 14050,
+   "fin": 14054,
+   "rasgos": {
+    "when": "1969"
+   },
+   "texto": "1969"
+  },
+  {
+   "tipo": "work",
+   "ini": 14056,
+   "fin": 14097,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "25.- MORNINGS WITH JUDD/ First State1968\r"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14056,
+   "fin": 14096
+  },
+  {
+   "tipo": "title",
+   "ini": 14061,
+   "fin": 14092,
+   "texto": "MORNINGS WITH JUDD/ First State"
+  },
+  {
+   "tipo": "date",
+   "ini": 14092,
+   "fin": 14096,
+   "rasgos": {
+    "when": "1968"
+   },
+   "texto": "1968"
+  },
+  {
+   "tipo": "work",
+   "ini": 14098,
+   "fin": 14140,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "26.- MORNINGS WITH JUDD/Second State 1970\r"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14098,
+   "fin": 14139
+  },
+  {
+   "tipo": "title",
+   "ini": 14103,
+   "fin": 14134,
+   "texto": "MORNINGS WITH JUDD/Second State"
+  },
+  {
+   "tipo": "date",
+   "ini": 14135,
+   "fin": 14139,
+   "rasgos": {
+    "when": "1970"
+   },
+   "texto": "1970"
+  },
+  {
+   "tipo": "work",
+   "ini": 14141,
+   "fin": 14158,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "27.- RETURN\t1969\r"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14141,
+   "fin": 14158
+  },
+  {
+   "tipo": "title",
+   "ini": 14146,
+   "fin": 14152,
+   "texto": "RETURN"
+  },
+  {
+   "tipo": "date",
+   "ini": 14153,
+   "fin": 14157,
+   "rasgos": {
+    "when": "1969"
+   },
+   "texto": "1969"
+  },
+  {
+   "tipo": "work",
+   "ini": 14159,
+   "fin": 14183,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "28.- OCTOBER PIECE\t1969\r"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14159,
+   "fin": 14183
+  },
+  {
+   "tipo": "title",
+   "ini": 14164,
+   "fin": 14177,
+   "texto": "OCTOBER PIECE"
+  },
+  {
+   "tipo": "date",
+   "ini": 14178,
+   "fin": 14182,
+   "rasgos": {
+    "when": "1969"
+   },
+   "texto": "1969"
+  },
+  {
+   "tipo": "work",
+   "ini": 14184,
+   "fin": 14204,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "29.- PASSAGE I\t1971\r"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14184,
+   "fin": 14204
+  },
+  {
+   "tipo": "title",
+   "ini": 14189,
+   "fin": 14198,
+   "texto": "PASSAGE I"
+  },
+  {
+   "tipo": "date",
+   "ini": 14199,
+   "fin": 14203,
+   "rasgos": {
+    "when": "1971"
+   },
+   "texto": "1971"
+  },
+  {
+   "tipo": "work",
+   "ini": 14205,
+   "fin": 14226,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "30.- PASSAGE II\t1971\r"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14205,
+   "fin": 14226
+  },
+  {
+   "tipo": "title",
+   "ini": 14210,
+   "fin": 14220,
+   "texto": "PASSAGE II"
+  },
+  {
+   "tipo": "date",
+   "ini": 14221,
+   "fin": 14225,
+   "rasgos": {
+    "when": "1971"
+   },
+   "texto": "1971"
+  },
+  {
+   "tipo": "work",
+   "ini": 14227,
+   "fin": 14247,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "31.- NAOMI ONE\t1971\r"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14227,
+   "fin": 14247
+  },
+  {
+   "tipo": "title",
+   "ini": 14232,
+   "fin": 14241,
+   "texto": "NAOMI ONE"
+  },
+  {
+   "tipo": "date",
+   "ini": 14242,
+   "fin": 14246,
+   "rasgos": {
+    "when": "1971"
+   },
+   "texto": "1971"
+  },
+  {
+   "tipo": "work",
+   "ini": 14248,
+   "fin": 14268,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "32.- NAOMI TWO\t1971\r"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14248,
+   "fin": 14268
+  },
+  {
+   "tipo": "title",
+   "ini": 14253,
+   "fin": 14262,
+   "texto": "NAOMI TWO"
+  },
+  {
+   "tipo": "date",
+   "ini": 14263,
+   "fin": 14267,
+   "rasgos": {
+    "when": "1971"
+   },
+   "texto": "1971"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 14269,
+   "fin": 14311,
+   "rasgos": {
+    "type": "engraving",
+    "size": "21"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14269,
+   "fin": 14311
+  },
+  {
+   "tipo": "title",
+   "ini": 14280,
+   "fin": 14302,
+   "texto": "THE JOLLY CORNER SUITE"
+  },
+  {
+   "tipo": "date",
+   "ini": 14303,
+   "fin": 14310,
+   "rasgos": {
+    "from": "1969",
+    "to": "1971"
+   },
+   "texto": "1969-71"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 14313,
+   "fin": 14474,
+   "rasgos": {
+    "type": "engraving",
+    "size": "21"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14314,
+   "fin": 14474
+  },
+  {
+   "tipo": "person",
+   "ini": 14369,
+   "fin": 14380,
+   "texto": "Henry James"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14369,
+   "fin": 14380,
+   "texto": "Henry James"
+  },
+  {
+   "tipo": "person",
+   "ini": 14439,
+   "fin": 14450,
+   "texto": "Henry James"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14439,
+   "fin": 14450,
+   "texto": "Henry James"
+  },
+  {
+   "tipo": "title",
+   "ini": 14453,
+   "fin": 14470,
+   "texto": "La Esquina Alegre"
+  },
+  {
+   "tipo": "birth",
+   "ini": 14507,
+   "fin": 14549
+  },
+  {
+   "tipo": "placeName",
+   "ini": 14515,
+   "fin": 14527,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Pennsylvania"
+  },
+  {
+   "tipo": "date",
+   "ini": 14531,
+   "fin": 14549,
+   "rasgos": {
+    "when": "1930-04-02"
+   },
+   "texto": "2 de Abril de 1930"
+  },
+  {
+   "tipo": "institution",
+   "ini": 19360,
+   "fin": 19387,
+   "rasgos": {
+    "type": "editorial",
+    "role": "editor"
+   },
+   "texto": "EDICIONES MUSEO LA TERTULIA"
+  }
+ ]
+}

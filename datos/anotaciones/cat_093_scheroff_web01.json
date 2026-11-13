@@ -1,0 +1,2216 @@
+{
+ "id": "cat_093_scheroff_web01",
+ "nombre_original": "SCHEROFF_web01",
+ "longitud_texto": 78631,
+ "sha256_texto": "59797624b4fada7665591b8ea56f814856714fcc32bb293b767bf90ce150f381",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 34,
+   "texto": "Miguel\nSCHEROFF\ndespués del tiempo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 34,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 15,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel\nSCHEROFF"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 15,
+   "texto": "Miguel\nSCHEROFF"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 36,
+   "fin": 929,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 36,
+   "fin": 70,
+   "texto": "Miguel\nSCHEROFF\ndespués del tiempo"
+  },
+  {
+   "tipo": "person",
+   "ini": 36,
+   "fin": 51,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel\nSCHEROFF"
+  },
+  {
+   "tipo": "persName",
+   "ini": 36,
+   "fin": 51,
+   "texto": "Miguel\nSCHEROFF"
+  },
+  {
+   "tipo": "venue",
+   "ini": 72,
+   "fin": 128,
+   "texto": "Sala de Exposiciones de la Antigua Escuela de Magisterio"
+  },
+  {
+   "tipo": "date",
+   "ini": 129,
+   "fin": 166,
+   "rasgos": {
+    "from": "2021-04-09",
+    "to": "2021-09-15"
+   },
+   "texto": "9 de abril - 15 de septiembre de 2021"
+  },
+  {
+   "tipo": "institution",
+   "ini": 168,
+   "fin": 187,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Universidad de Jaén"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 183,
+   "fin": 187,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Jaén"
+  },
+  {
+   "tipo": "institution",
+   "ini": 207,
+   "fin": 299,
+   "rasgos": {
+    "type": "university",
+    "role": "editor"
+   },
+   "texto": "Publicaciones de la Universidad de Jaén Vicerrectorado de Proyección de la Cultura y Deporte"
+  },
+  {
+   "tipo": "institution",
+   "ini": 337,
+   "fin": 389,
+   "rasgos": {
+    "type": "university",
+    "role": "coordinator"
+   },
+   "texto": "Vicerrectorado de Proyección de la Cultura y Deporte"
+  },
+  {
+   "tipo": "person",
+   "ini": 403,
+   "fin": 421,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Guillermo Larbarga"
+  },
+  {
+   "tipo": "persName",
+   "ini": 403,
+   "fin": 421,
+   "texto": "Guillermo Larbarga"
+  },
+  {
+   "tipo": "person",
+   "ini": 422,
+   "fin": 437,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Fernando Mármol"
+  },
+  {
+   "tipo": "persName",
+   "ini": 422,
+   "fin": 437,
+   "texto": "Fernando Mármol"
+  },
+  {
+   "tipo": "person",
+   "ini": 438,
+   "fin": 453,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Antonio Navarro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 438,
+   "fin": 453,
+   "texto": "Antonio Navarro"
+  },
+  {
+   "tipo": "person",
+   "ini": 454,
+   "fin": 469,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Natalia Vázquez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 454,
+   "fin": 469,
+   "texto": "Natalia Vázquez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 492,
+   "fin": 519,
+   "rasgos": {
+    "type": "company",
+    "role": "catalogueDesigner"
+   },
+   "texto": "Laboratorio de las artes SC"
+  },
+  {
+   "tipo": "institution",
+   "ini": 531,
+   "fin": 564,
+   "rasgos": {
+    "type": "company",
+    "role": "printer"
+   },
+   "texto": "Gráficas La Paz de Torredonjimeno"
+  },
+  {
+   "tipo": "institution",
+   "ini": 627,
+   "fin": 646,
+   "rasgos": {
+    "type": "university",
+    "role": "editor"
+   },
+   "texto": "Universidad de Jaén"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 642,
+   "fin": 646,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Jaén"
+  },
+  {
+   "tipo": "person",
+   "ini": 718,
+   "fin": 736,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "María José Collado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 718,
+   "fin": 736,
+   "texto": "María José Collado"
+  },
+  {
+   "tipo": "person",
+   "ini": 737,
+   "fin": 764,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Juan Ramón Rodríguez-Mateo "
+  },
+  {
+   "tipo": "persName",
+   "ini": 737,
+   "fin": 764,
+   "texto": "Juan Ramón Rodríguez-Mateo "
+  },
+  {
+   "tipo": "person",
+   "ini": 765,
+   "fin": 790,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Iván de la Torre Amerighi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 765,
+   "fin": 790,
+   "texto": "Iván de la Torre Amerighi"
+  },
+  {
+   "tipo": "institution",
+   "ini": 820,
+   "fin": 907,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, coordinator"
+   },
+   "texto": "Servicio de Actividades Culturales\nVicerrectorado de Proyección de la Cultura y Deporte"
+  },
+  {
+   "tipo": "institution",
+   "ini": 917,
+   "fin": 929,
+   "rasgos": {
+    "type": "company",
+    "role": "assembly"
+   },
+   "texto": "Arquimera SL"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1133,
+   "fin": 1152,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Universidad de Jaén"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1148,
+   "fin": 1152,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Jaén"
+  },
+  {
+   "tipo": "person",
+   "ini": 1338,
+   "fin": 1377,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Scheroff (Navas de Tolosa, 1988)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1338,
+   "fin": 1353,
+   "texto": "Miguel Scheroff"
+  },
+  {
+   "tipo": "date",
+   "ini": 1372,
+   "fin": 1376,
+   "rasgos": {
+    "when": "1988"
+   },
+   "texto": "1988"
+  },
+  {
+   "tipo": "title",
+   "ini": 1550,
+   "fin": 1568,
+   "texto": "Después del tiempo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1550,
+   "fin": 1568,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 1786,
+   "fin": 1801,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1786,
+   "fin": 1801,
+   "texto": "Miguel Scheroff"
+  },
+  {
+   "tipo": "person",
+   "ini": 3823,
+   "fin": 3838,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3823,
+   "fin": 3838,
+   "texto": "Miguel Scheroff"
+  },
+  {
+   "tipo": "person",
+   "ini": 4095,
+   "fin": 4103,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4095,
+   "fin": 4103,
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "person",
+   "ini": 4977,
+   "fin": 4985,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4977,
+   "fin": 4985,
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "title",
+   "ini": 10089,
+   "fin": 10107,
+   "texto": "Después del Tiempo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 10089,
+   "fin": 10107,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "persName",
+   "ini": 11056,
+   "fin": 11070,
+   "texto": "Miguel Sheroff"
+  },
+  {
+   "tipo": "person",
+   "ini": 11056,
+   "fin": 11070,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Sheroff"
+  },
+  {
+   "tipo": "person",
+   "ini": 11085,
+   "fin": 11100,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11085,
+   "fin": 11100,
+   "texto": "Miguel Scheroff"
+  },
+  {
+   "tipo": "person",
+   "ini": 11102,
+   "fin": 11117,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MIGUEL SCHEROFF"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11102,
+   "fin": 11117,
+   "texto": "MIGUEL SCHEROFF"
+  },
+  {
+   "tipo": "person",
+   "ini": 11193,
+   "fin": 11218,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Iván de la Torre Amerighi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11193,
+   "fin": 11218,
+   "texto": "Iván de la Torre Amerighi"
+  },
+  {
+   "tipo": "person",
+   "ini": 11281,
+   "fin": 11320,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Scheroff (Navas de Tolosa, 1988)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11281,
+   "fin": 11296,
+   "texto": "Miguel Scheroff"
+  },
+  {
+   "tipo": "birth",
+   "ini": 11298,
+   "fin": 11319
+  },
+  {
+   "tipo": "placeName",
+   "ini": 11298,
+   "fin": 11313,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Navas de Tolosa"
+  },
+  {
+   "tipo": "date",
+   "ini": 11315,
+   "fin": 11319,
+   "rasgos": {
+    "when": "1988"
+   },
+   "texto": "1988"
+  },
+  {
+   "tipo": "person",
+   "ini": 12825,
+   "fin": 12833,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12825,
+   "fin": 12833,
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "person",
+   "ini": 14145,
+   "fin": 14153,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14145,
+   "fin": 14153,
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "person",
+   "ini": 15512,
+   "fin": 15520,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15512,
+   "fin": 15520,
+   "texto": "scheroff"
+  },
+  {
+   "tipo": "person",
+   "ini": 15919,
+   "fin": 15927,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15919,
+   "fin": 15927,
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "person",
+   "ini": 16409,
+   "fin": 16417,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16409,
+   "fin": 16417,
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "person",
+   "ini": 17373,
+   "fin": 17388,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17373,
+   "fin": 17388,
+   "texto": "Miguel Scheroff"
+  },
+  {
+   "tipo": "person",
+   "ini": 17709,
+   "fin": 17717,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17709,
+   "fin": 17717,
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "person",
+   "ini": 19923,
+   "fin": 19931,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19923,
+   "fin": 19931,
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "person",
+   "ini": 20499,
+   "fin": 20507,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20499,
+   "fin": 20507,
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "person",
+   "ini": 20926,
+   "fin": 20934,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20926,
+   "fin": 20934,
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "person",
+   "ini": 21843,
+   "fin": 21851,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21843,
+   "fin": 21851,
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "person",
+   "ini": 22957,
+   "fin": 22965,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22957,
+   "fin": 22965,
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "person",
+   "ini": 25001,
+   "fin": 25009,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25001,
+   "fin": 25009,
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "person",
+   "ini": 28294,
+   "fin": 28302,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28294,
+   "fin": 28302,
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "person",
+   "ini": 30542,
+   "fin": 30550,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30542,
+   "fin": 30550,
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "person",
+   "ini": 31548,
+   "fin": 31556,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31548,
+   "fin": 31556,
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "person",
+   "ini": 35886,
+   "fin": 35894,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35886,
+   "fin": 35894,
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "person",
+   "ini": 38776,
+   "fin": 38784,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38776,
+   "fin": 38784,
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 39953,
+   "fin": 65798
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39953,
+   "fin": 40015
+  },
+  {
+   "tipo": "work",
+   "ini": 39953,
+   "fin": 40008,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Almuerzo Millennial, 2020\nÓleo sobre lienzo, 65 x 53 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 39953,
+   "fin": 39972,
+   "texto": "Almuerzo Millennial"
+  },
+  {
+   "tipo": "date",
+   "ini": 39974,
+   "fin": 39978,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 39979,
+   "fin": 39996,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39998,
+   "fin": 40008,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 53 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 39998,
+   "fin": 40000,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 40003,
+   "fin": 40005,
+   "texto": "53"
+  },
+  {
+   "tipo": "img",
+   "ini": 40010,
+   "fin": 40015,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40017,
+   "fin": 40075
+  },
+  {
+   "tipo": "work",
+   "ini": 40017,
+   "fin": 40068,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "RubensFuckaine, 2018\nÓleo sobre lienzo, 130 x 97 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 40017,
+   "fin": 40031,
+   "texto": "RubensFuckaine"
+  },
+  {
+   "tipo": "date",
+   "ini": 40033,
+   "fin": 40037,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "technique",
+   "ini": 40038,
+   "fin": 40055,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40057,
+   "fin": 40068,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 97 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40057,
+   "fin": 40060,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 40063,
+   "fin": 40065,
+   "texto": "97"
+  },
+  {
+   "tipo": "img",
+   "ini": 40070,
+   "fin": 40075,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40077,
+   "fin": 40145
+  },
+  {
+   "tipo": "work",
+   "ini": 40077,
+   "fin": 40138,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "What a Fantasy Funeral!, 2019\nÓleo sobre lienzo, 200 x 104 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 40077,
+   "fin": 40100,
+   "texto": "What a Fantasy Funeral!"
+  },
+  {
+   "tipo": "date",
+   "ini": 40102,
+   "fin": 40106,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 40107,
+   "fin": 40124,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40126,
+   "fin": 40138,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 104 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40126,
+   "fin": 40129,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 40132,
+   "fin": 40135,
+   "texto": "104"
+  },
+  {
+   "tipo": "img",
+   "ini": 40140,
+   "fin": 40145,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40147,
+   "fin": 40214
+  },
+  {
+   "tipo": "work",
+   "ini": 40147,
+   "fin": 40207,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Odio, lobos y caballos, 2020\nÓleo sobre lienzo, 200 x 200 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 40147,
+   "fin": 40169,
+   "texto": "Odio, lobos y caballos"
+  },
+  {
+   "tipo": "date",
+   "ini": 40171,
+   "fin": 40175,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 40176,
+   "fin": 40193,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40195,
+   "fin": 40207,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 200 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40195,
+   "fin": 40198,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 40201,
+   "fin": 40204,
+   "texto": "200"
+  },
+  {
+   "tipo": "img",
+   "ini": 40209,
+   "fin": 40214,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40216,
+   "fin": 40281
+  },
+  {
+   "tipo": "work",
+   "ini": 40216,
+   "fin": 40274,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Suicune´S Nightmares, 2020\nÓleo sobre lienzo, 215 x 265 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 40216,
+   "fin": 40236,
+   "texto": "Suicune´S Nightmares"
+  },
+  {
+   "tipo": "date",
+   "ini": 40238,
+   "fin": 40242,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 40243,
+   "fin": 40260,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40262,
+   "fin": 40274,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "215 x 265 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40262,
+   "fin": 40265,
+   "texto": "215"
+  },
+  {
+   "tipo": "width",
+   "ini": 40268,
+   "fin": 40271,
+   "texto": "265"
+  },
+  {
+   "tipo": "img",
+   "ini": 40276,
+   "fin": 40281,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40283,
+   "fin": 40349
+  },
+  {
+   "tipo": "img",
+   "ini": 40283,
+   "fin": 40288,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 40290,
+   "fin": 40349,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La liebre y la tormenta, 2018\nÓleo sobre lienzo, 65 x 54 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 40290,
+   "fin": 40313,
+   "texto": "La liebre y la tormenta"
+  },
+  {
+   "tipo": "date",
+   "ini": 40315,
+   "fin": 40319,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "technique",
+   "ini": 40320,
+   "fin": 40337,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40339,
+   "fin": 40349,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 54 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40339,
+   "fin": 40341,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 40344,
+   "fin": 40346,
+   "texto": "54"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40351,
+   "fin": 40425
+  },
+  {
+   "tipo": "img",
+   "ini": 40351,
+   "fin": 40356,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 40358,
+   "fin": 40425,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Jarrón con Serpiente y Agaporni, 2020\nÓleo sobre lienzo, 56 x 46 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 40358,
+   "fin": 40389,
+   "texto": "Jarrón con Serpiente y Agaporni"
+  },
+  {
+   "tipo": "date",
+   "ini": 40391,
+   "fin": 40395,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 40396,
+   "fin": 40413,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40415,
+   "fin": 40425,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "56 x 46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40415,
+   "fin": 40417,
+   "texto": "56"
+  },
+  {
+   "tipo": "width",
+   "ini": 40420,
+   "fin": 40422,
+   "texto": "46"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40428,
+   "fin": 40481
+  },
+  {
+   "tipo": "work",
+   "ini": 40428,
+   "fin": 40473,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Ruptura, 2021\nÓleo sobre lienzo, 200 x 164 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 40428,
+   "fin": 40435,
+   "texto": "Ruptura"
+  },
+  {
+   "tipo": "date",
+   "ini": 40437,
+   "fin": 40441,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "technique",
+   "ini": 40442,
+   "fin": 40459,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40461,
+   "fin": 40473,
+   "texto": "200 x 164 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40461,
+   "fin": 40464,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 40467,
+   "fin": 40470,
+   "texto": "164"
+  },
+  {
+   "tipo": "img",
+   "ini": 40475,
+   "fin": 40480,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40482,
+   "fin": 40594
+  },
+  {
+   "tipo": "work",
+   "ini": 40482,
+   "fin": 40587,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Gospel de Media Noche (Capítulo 8 Midnight Gospel), 2021\nÓleo, spray y esmalte sobre lienzo, 200 x 164 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 40482,
+   "fin": 40532,
+   "texto": "Gospel de Media Noche (Capítulo 8 Midnight Gospel)"
+  },
+  {
+   "tipo": "date",
+   "ini": 40534,
+   "fin": 40538,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "technique",
+   "ini": 40539,
+   "fin": 40573,
+   "rasgos": {
+    "type": "oil, spray, glaze"
+   },
+   "texto": "Óleo, spray y esmalte sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40575,
+   "fin": 40587,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 164 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40575,
+   "fin": 40578,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 40581,
+   "fin": 40584,
+   "texto": "164"
+  },
+  {
+   "tipo": "img",
+   "ini": 40589,
+   "fin": 40594,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40596,
+   "fin": 40670
+  },
+  {
+   "tipo": "img",
+   "ini": 40596,
+   "fin": 40601,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 40603,
+   "fin": 40670,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Ceci.G en el Sönar 2019, 2020\nÓleo y spray sobre lienzo, 28 x 21 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 40603,
+   "fin": 40626,
+   "texto": "Ceci.G en el Sönar 2019"
+  },
+  {
+   "tipo": "date",
+   "ini": 40628,
+   "fin": 40632,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 40633,
+   "fin": 40658,
+   "rasgos": {
+    "type": "oil, spray"
+   },
+   "texto": "Óleo y spray sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40660,
+   "fin": 40670,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "28 x 21 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40660,
+   "fin": 40662,
+   "texto": "28"
+  },
+  {
+   "tipo": "width",
+   "ini": 40665,
+   "fin": 40667,
+   "texto": "21"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40673,
+   "fin": 40723
+  },
+  {
+   "tipo": "work",
+   "ini": 40673,
+   "fin": 40716,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Haunter, 2021\nÓleo sobre lienzo, 28 x 21 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 40673,
+   "fin": 40680,
+   "texto": "Haunter"
+  },
+  {
+   "tipo": "date",
+   "ini": 40682,
+   "fin": 40686,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "technique",
+   "ini": 40687,
+   "fin": 40704,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40706,
+   "fin": 40716,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "28 x 21 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40706,
+   "fin": 40708,
+   "texto": "28"
+  },
+  {
+   "tipo": "width",
+   "ini": 40711,
+   "fin": 40713,
+   "texto": "21"
+  },
+  {
+   "tipo": "img",
+   "ini": 40718,
+   "fin": 40723,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40725,
+   "fin": 40771
+  },
+  {
+   "tipo": "work",
+   "ini": 40725,
+   "fin": 40764,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Mew, 2021\nÓleo sobre lienzo, 28 x 21 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 40725,
+   "fin": 40728,
+   "texto": "Mew"
+  },
+  {
+   "tipo": "date",
+   "ini": 40730,
+   "fin": 40734,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "technique",
+   "ini": 40735,
+   "fin": 40752,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40754,
+   "fin": 40764,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "28 x 21 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40754,
+   "fin": 40756,
+   "texto": "28"
+  },
+  {
+   "tipo": "width",
+   "ini": 40759,
+   "fin": 40761,
+   "texto": "21"
+  },
+  {
+   "tipo": "img",
+   "ini": 40766,
+   "fin": 40771,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 40773,
+   "fin": 65198
+  },
+  {
+   "tipo": "person",
+   "ini": 40858,
+   "fin": 40873,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40858,
+   "fin": 40873,
+   "texto": "Miguel Scheroff"
+  },
+  {
+   "tipo": "person",
+   "ini": 40874,
+   "fin": 40900,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Juan Ramón Rodríguez-Mateo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40874,
+   "fin": 40900,
+   "texto": "Juan Ramón Rodríguez-Mateo"
+  },
+  {
+   "tipo": "person",
+   "ini": 40940,
+   "fin": 40966,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Juan Ramón Rodríguez-Mateo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40940,
+   "fin": 40966,
+   "texto": "Juan Ramón Rodríguez-Mateo"
+  },
+  {
+   "tipo": "person",
+   "ini": 41323,
+   "fin": 41338,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 41323,
+   "fin": 41338,
+   "texto": "Miguel Scheroff"
+  },
+  {
+   "tipo": "person",
+   "ini": 41701,
+   "fin": 41709,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 41701,
+   "fin": 41709,
+   "texto": "Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 45642,
+   "fin": 45658,
+   "texto": "Miguel Schertoff"
+  },
+  {
+   "tipo": "person",
+   "ini": 45642,
+   "fin": 45658,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Schertoff"
+  },
+  {
+   "tipo": "person",
+   "ini": 50672,
+   "fin": 50687,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Scheroff"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50672,
+   "fin": 50687,
+   "texto": "Miguel Scheroff"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 65201,
+   "fin": 65298
+  },
+  {
+   "tipo": "work",
+   "ini": 65201,
+   "fin": 65291,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sacrificio, Ritual de Ofrendas, 2018\nCarboncillo, conté y pastel sobre papel, 160 x 130 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 65201,
+   "fin": 65231,
+   "texto": "Sacrificio, Ritual de Ofrendas"
+  },
+  {
+   "tipo": "date",
+   "ini": 65233,
+   "fin": 65237,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "technique",
+   "ini": 65238,
+   "fin": 65277,
+   "rasgos": {
+    "type": "charcoal, pastel"
+   },
+   "texto": "Carboncillo, conté y pastel sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 65279,
+   "fin": 65291,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "160 x 130 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 65279,
+   "fin": 65282,
+   "texto": "160"
+  },
+  {
+   "tipo": "width",
+   "ini": 65285,
+   "fin": 65288,
+   "texto": "130"
+  },
+  {
+   "tipo": "img",
+   "ini": 65293,
+   "fin": 65298,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 65300,
+   "fin": 65360
+  },
+  {
+   "tipo": "img",
+   "ini": 65300,
+   "fin": 65305,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 65307,
+   "fin": 65360,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Jarrón Barroco II, 2020\nÓleo sobre lienzo, 27 x 22 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 65307,
+   "fin": 65324,
+   "texto": "Jarrón Barroco II"
+  },
+  {
+   "tipo": "date",
+   "ini": 65326,
+   "fin": 65330,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 65331,
+   "fin": 65348,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 65350,
+   "fin": 65360,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27 x 22 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 65350,
+   "fin": 65352,
+   "texto": "27"
+  },
+  {
+   "tipo": "width",
+   "ini": 65355,
+   "fin": 65357,
+   "texto": "22"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 65362,
+   "fin": 65423
+  },
+  {
+   "tipo": "img",
+   "ini": 65362,
+   "fin": 65367,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 65369,
+   "fin": 65423,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Jarrón Barroco III, 2021\nÓleo sobre lienzo, 69 x 50 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 65369,
+   "fin": 65387,
+   "texto": "Jarrón Barroco III"
+  },
+  {
+   "tipo": "date",
+   "ini": 65389,
+   "fin": 65393,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "technique",
+   "ini": 65394,
+   "fin": 65411,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 65413,
+   "fin": 65423,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "69 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 65413,
+   "fin": 65415,
+   "texto": "69"
+  },
+  {
+   "tipo": "width",
+   "ini": 65418,
+   "fin": 65420,
+   "texto": "50"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 65426,
+   "fin": 65555
+  },
+  {
+   "tipo": "work",
+   "ini": 65426,
+   "fin": 65548,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Donde Desenterraron sus Huesos. (interpretación de Jacopo Bassano, dos perros de ..), 2021\nÓleo sobre lienzo, 120 x 100 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 65426,
+   "fin": 65510,
+   "texto": "Donde Desenterraron sus Huesos. (interpretación de Jacopo Bassano, dos perros de ..)"
+  },
+  {
+   "tipo": "date",
+   "ini": 65512,
+   "fin": 65516,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "technique",
+   "ini": 65517,
+   "fin": 65534,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 65536,
+   "fin": 65548,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "120 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 65536,
+   "fin": 65539,
+   "texto": "120"
+  },
+  {
+   "tipo": "width",
+   "ini": 65542,
+   "fin": 65545,
+   "texto": "100"
+  },
+  {
+   "tipo": "img",
+   "ini": 65550,
+   "fin": 65555,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 65557,
+   "fin": 65628
+  },
+  {
+   "tipo": "img",
+   "ini": 65557,
+   "fin": 65562,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 65564,
+   "fin": 65628,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Donde Desenterraron sus Huesos, 2021\nPintura mural e instalación"
+  },
+  {
+   "tipo": "title",
+   "ini": 65564,
+   "fin": 65594,
+   "texto": "Donde Desenterraron sus Huesos"
+  },
+  {
+   "tipo": "date",
+   "ini": 65596,
+   "fin": 65600,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "technique",
+   "ini": 65601,
+   "fin": 65628,
+   "rasgos": {
+    "type": "mural, installation"
+   },
+   "texto": "Pintura mural e instalación"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 65630,
+   "fin": 65714
+  },
+  {
+   "tipo": "img",
+   "ini": 65630,
+   "fin": 65635,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 65637,
+   "fin": 65714,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Donde Desenterraron sus Huesos, 2021\nPintura mural e instalación (desarrollo)"
+  },
+  {
+   "tipo": "title",
+   "ini": 65637,
+   "fin": 65667,
+   "texto": "Donde Desenterraron sus Huesos"
+  },
+  {
+   "tipo": "date",
+   "ini": 65669,
+   "fin": 65673,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "technique",
+   "ini": 65674,
+   "fin": 65701,
+   "rasgos": {
+    "type": "mural, installation"
+   },
+   "texto": "Pintura mural e instalación"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 65716,
+   "fin": 65798
+  },
+  {
+   "tipo": "img",
+   "ini": 65716,
+   "fin": 65721,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 65723,
+   "fin": 65798,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Donde Desenterraron sus Huesos, 2021\nPintura mural e instalación (detalles)"
+  },
+  {
+   "tipo": "title",
+   "ini": 65723,
+   "fin": 65753,
+   "texto": "Donde Desenterraron sus Huesos"
+  },
+  {
+   "tipo": "date",
+   "ini": 65755,
+   "fin": 65759,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "technique",
+   "ini": 65760,
+   "fin": 65787,
+   "rasgos": {
+    "type": "mural, installation"
+   },
+   "texto": "Pintura mural e instalación"
+  },
+  {
+   "tipo": "person",
+   "ini": 65904,
+   "fin": 65952,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MIGUEL Scheroff\nLas Navas de Tolosa (Jaén), 1988"
+  },
+  {
+   "tipo": "persName",
+   "ini": 65904,
+   "fin": 65919,
+   "texto": "MIGUEL Scheroff"
+  },
+  {
+   "tipo": "birth",
+   "ini": 65920,
+   "fin": 65952
+  },
+  {
+   "tipo": "placeName",
+   "ini": 65920,
+   "fin": 65946,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Las Navas de Tolosa (Jaén)"
+  },
+  {
+   "tipo": "date",
+   "ini": 65948,
+   "fin": 65952,
+   "rasgos": {
+    "when": "1988"
+   },
+   "texto": "1988"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 65980,
+   "fin": 66062,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 65980,
+   "fin": 65984,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 65985,
+   "fin": 66003,
+   "texto": "Después del tiempo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 66036,
+   "fin": 66055,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Universidad de Jaén"
+  }
+ ]
+}

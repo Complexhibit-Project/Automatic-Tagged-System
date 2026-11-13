@@ -1,0 +1,1472 @@
+{
+ "id": "cat_064_catalogo_alvarodelavega_desinencias",
+ "nombre_original": "Catalogo_-AlvarodelaVega_Desinencias",
+ "longitud_texto": 8097,
+ "sha256_texto": "fefdd9d435491225cad2f79edc779e7aaff717dfa7f3ced57774635b73d1e693",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "title",
+   "ini": 21,
+   "fin": 54,
+   "texto": "ÁLVARO DE LA VEGA | “DESINENCIAS”"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 21,
+   "fin": 54,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 21,
+   "fin": 38,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21,
+   "fin": 38,
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "title",
+   "ini": 56,
+   "fin": 89,
+   "texto": "ÁLVARO DE LA VEGA | “DESINENCIAS”"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 56,
+   "fin": 89,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 56,
+   "fin": 73,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56,
+   "fin": 73,
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 154,
+   "fin": 162,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "A Coruña"
+  },
+  {
+   "tipo": "person",
+   "ini": 163,
+   "fin": 186,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "el escultor de Paradela"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 178,
+   "fin": 186,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Paradela"
+  },
+  {
+   "tipo": "institution",
+   "ini": 197,
+   "fin": 206,
+   "rasgos": {
+    "type": "artCenter",
+    "role": "organiser, host"
+   },
+   "texto": "Moret Art"
+  },
+  {
+   "tipo": "title",
+   "ini": 222,
+   "fin": 235,
+   "texto": "“Desinencias”"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 222,
+   "fin": 235,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 1260,
+   "fin": 1272,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Nuria\nBlanco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1260,
+   "fin": 1272,
+   "texto": "Nuria\nBlanco"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1286,
+   "fin": 1295,
+   "rasgos": {
+    "type": "artCenter",
+    "role": "organiser, host"
+   },
+   "texto": "Moret Art"
+  },
+  {
+   "tipo": "person",
+   "ini": 1411,
+   "fin": 1451,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Álvaro de la Vega (Paradela, Lugo, 1954)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1411,
+   "fin": 1428,
+   "texto": "Álvaro de la Vega"
+  },
+  {
+   "tipo": "birth",
+   "ini": 1429,
+   "fin": 1451
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1430,
+   "fin": 1444,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Paradela, Lugo"
+  },
+  {
+   "tipo": "date",
+   "ini": 1446,
+   "fin": 1450,
+   "rasgos": {
+    "when": "1954"
+   },
+   "texto": "1954"
+  },
+  {
+   "tipo": "person",
+   "ini": 1700,
+   "fin": 1710,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "De la Vega"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1700,
+   "fin": 1710,
+   "texto": "De la Vega"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 1911,
+   "fin": 2950
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1911,
+   "fin": 1992
+  },
+  {
+   "tipo": "img",
+   "ini": 1911,
+   "fin": 1916,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1918,
+   "fin": 1992,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ÁLVARO DE LA VEGA\nLos amigos de A\nMadera de eucalipto\n46 x 20 x 19 cm\n2013"
+  },
+  {
+   "tipo": "person",
+   "ini": 1918,
+   "fin": 1935,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1918,
+   "fin": 1935,
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "title",
+   "ini": 1936,
+   "fin": 1951,
+   "texto": "Los amigos de A"
+  },
+  {
+   "tipo": "material",
+   "ini": 1952,
+   "fin": 1971,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de eucalipto"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1972,
+   "fin": 1987,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 20 x 19 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1972,
+   "fin": 1974,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 1977,
+   "fin": 1979,
+   "texto": "20"
+  },
+  {
+   "tipo": "depth",
+   "ini": 1982,
+   "fin": 1984,
+   "texto": "19"
+  },
+  {
+   "tipo": "date",
+   "ini": 1988,
+   "fin": 1992,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1994,
+   "fin": 2055
+  },
+  {
+   "tipo": "img",
+   "ini": 1994,
+   "fin": 1999,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2001,
+   "fin": 2055,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ÁLVARO DE LA VEGA\nAtalaya\nMadera\n155 x 35 x 30 cm\n2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 2001,
+   "fin": 2018,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2001,
+   "fin": 2018,
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "title",
+   "ini": 2019,
+   "fin": 2026,
+   "texto": "Atalaya"
+  },
+  {
+   "tipo": "material",
+   "ini": 2027,
+   "fin": 2033,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2034,
+   "fin": 2050,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "155 x 35 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2034,
+   "fin": 2037,
+   "texto": "155"
+  },
+  {
+   "tipo": "width",
+   "ini": 2040,
+   "fin": 2042,
+   "texto": "35"
+  },
+  {
+   "tipo": "depth",
+   "ini": 2045,
+   "fin": 2047,
+   "texto": "30"
+  },
+  {
+   "tipo": "date",
+   "ini": 2051,
+   "fin": 2055,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2057,
+   "fin": 2115
+  },
+  {
+   "tipo": "img",
+   "ini": 2057,
+   "fin": 2062,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2064,
+   "fin": 2115,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ÁLVARO DE LA VEGA\nFrontera\nMadera de eucalipto\n2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 2064,
+   "fin": 2081,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2064,
+   "fin": 2081,
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "title",
+   "ini": 2082,
+   "fin": 2090,
+   "texto": "Frontera"
+  },
+  {
+   "tipo": "material",
+   "ini": 2091,
+   "fin": 2110,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de eucalipto"
+  },
+  {
+   "tipo": "date",
+   "ini": 2111,
+   "fin": 2115,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2117,
+   "fin": 2185
+  },
+  {
+   "tipo": "img",
+   "ini": 2117,
+   "fin": 2122,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2124,
+   "fin": 2185,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ÁLVARO DE LA VEGA\nDúo 1\nMadera de castaño\n70 x 30 x 5 cm\n2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 2124,
+   "fin": 2141,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2124,
+   "fin": 2141,
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "title",
+   "ini": 2142,
+   "fin": 2147,
+   "texto": "Dúo 1"
+  },
+  {
+   "tipo": "material",
+   "ini": 2148,
+   "fin": 2165,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de castaño"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2166,
+   "fin": 2180,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 30 x 5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2166,
+   "fin": 2168,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 2171,
+   "fin": 2173,
+   "texto": "30"
+  },
+  {
+   "tipo": "depth",
+   "ini": 2176,
+   "fin": 2177,
+   "texto": "5"
+  },
+  {
+   "tipo": "date",
+   "ini": 2181,
+   "fin": 2185,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2187,
+   "fin": 2246
+  },
+  {
+   "tipo": "img",
+   "ini": 2187,
+   "fin": 2192,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2194,
+   "fin": 2246,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ÁLVARO DE LA VEGA\nS/T\nTerracota\n48 x 49 x 20 cm\n2014"
+  },
+  {
+   "tipo": "person",
+   "ini": 2194,
+   "fin": 2211,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2194,
+   "fin": 2211,
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "title",
+   "ini": 2212,
+   "fin": 2215,
+   "texto": "S/T"
+  },
+  {
+   "tipo": "material",
+   "ini": 2216,
+   "fin": 2225,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Terracota"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2226,
+   "fin": 2241,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "48 x 49 x 20 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2226,
+   "fin": 2228,
+   "texto": "48"
+  },
+  {
+   "tipo": "width",
+   "ini": 2231,
+   "fin": 2233,
+   "texto": "49"
+  },
+  {
+   "tipo": "depth",
+   "ini": 2236,
+   "fin": 2238,
+   "texto": "20"
+  },
+  {
+   "tipo": "date",
+   "ini": 2242,
+   "fin": 2246,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2248,
+   "fin": 2316
+  },
+  {
+   "tipo": "img",
+   "ini": 2248,
+   "fin": 2253,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2255,
+   "fin": 2316,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ÁLVARO DE LA VEGA\nPose\nMadera de castaño\n92 x 21 x 13 cm\n2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 2255,
+   "fin": 2272,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2255,
+   "fin": 2272,
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "title",
+   "ini": 2273,
+   "fin": 2277,
+   "texto": "Pose"
+  },
+  {
+   "tipo": "material",
+   "ini": 2278,
+   "fin": 2295,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de castaño"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2296,
+   "fin": 2311,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "92 x 21 x 13 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2296,
+   "fin": 2298,
+   "texto": "92"
+  },
+  {
+   "tipo": "width",
+   "ini": 2301,
+   "fin": 2303,
+   "texto": "21"
+  },
+  {
+   "tipo": "depth",
+   "ini": 2306,
+   "fin": 2308,
+   "texto": "13"
+  },
+  {
+   "tipo": "date",
+   "ini": 2312,
+   "fin": 2316,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2318,
+   "fin": 2385
+  },
+  {
+   "tipo": "img",
+   "ini": 2318,
+   "fin": 2323,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2325,
+   "fin": 2385,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ÁLVARO DE LA VEGA\nS/T\nMadera de castaño\n52 x 25 x 17 cm\n2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 2325,
+   "fin": 2342,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2325,
+   "fin": 2342,
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "title",
+   "ini": 2343,
+   "fin": 2346,
+   "texto": "S/T"
+  },
+  {
+   "tipo": "material",
+   "ini": 2347,
+   "fin": 2364,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de castaño"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2365,
+   "fin": 2380,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "52 x 25 x 17 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2365,
+   "fin": 2367,
+   "texto": "52"
+  },
+  {
+   "tipo": "width",
+   "ini": 2370,
+   "fin": 2372,
+   "texto": "25"
+  },
+  {
+   "tipo": "depth",
+   "ini": 2375,
+   "fin": 2377,
+   "texto": "17"
+  },
+  {
+   "tipo": "date",
+   "ini": 2381,
+   "fin": 2385,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2387,
+   "fin": 2457
+  },
+  {
+   "tipo": "img",
+   "ini": 2387,
+   "fin": 2392,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2394,
+   "fin": 2457,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ÁLVARO DE LA VEGA\nAndrea\nMadera de ciprés\n195 x 44 x 30 cm\n2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 2394,
+   "fin": 2411,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2394,
+   "fin": 2411,
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "title",
+   "ini": 2412,
+   "fin": 2418,
+   "texto": "Andrea"
+  },
+  {
+   "tipo": "material",
+   "ini": 2419,
+   "fin": 2435,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de ciprés"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2436,
+   "fin": 2452,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "195 x 44 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2436,
+   "fin": 2439,
+   "texto": "195"
+  },
+  {
+   "tipo": "width",
+   "ini": 2442,
+   "fin": 2444,
+   "texto": "44"
+  },
+  {
+   "tipo": "depth",
+   "ini": 2447,
+   "fin": 2449,
+   "texto": "30"
+  },
+  {
+   "tipo": "date",
+   "ini": 2453,
+   "fin": 2457,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2459,
+   "fin": 2550
+  },
+  {
+   "tipo": "img",
+   "ini": 2459,
+   "fin": 2464,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2466,
+   "fin": 2550,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ÁLVARO DE LA VEGA\nContemplación 1\nMadera de ciprés y castaño\n109.5 x 47 x 53 cm\n2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 2466,
+   "fin": 2483,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2466,
+   "fin": 2483,
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "title",
+   "ini": 2484,
+   "fin": 2499,
+   "texto": "Contemplación 1"
+  },
+  {
+   "tipo": "material",
+   "ini": 2500,
+   "fin": 2526,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de ciprés y castaño"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2527,
+   "fin": 2545,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "109.5 x 47 x 53 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2527,
+   "fin": 2532,
+   "texto": "109.5"
+  },
+  {
+   "tipo": "width",
+   "ini": 2535,
+   "fin": 2537,
+   "texto": "47"
+  },
+  {
+   "tipo": "depth",
+   "ini": 2540,
+   "fin": 2542,
+   "texto": "53"
+  },
+  {
+   "tipo": "date",
+   "ini": 2546,
+   "fin": 2550,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2552,
+   "fin": 2632
+  },
+  {
+   "tipo": "img",
+   "ini": 2552,
+   "fin": 2557,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2559,
+   "fin": 2632,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ÁLVARO DE LA VEGA\nS/T\nMadera de castaño y eucalipto\n151 x 23 x 19 cm\n2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 2559,
+   "fin": 2576,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2559,
+   "fin": 2576,
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "title",
+   "ini": 2577,
+   "fin": 2580,
+   "texto": "S/T"
+  },
+  {
+   "tipo": "material",
+   "ini": 2581,
+   "fin": 2610,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de castaño y eucalipto"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2611,
+   "fin": 2627,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "151 x 23 x 19 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2611,
+   "fin": 2614,
+   "texto": "151"
+  },
+  {
+   "tipo": "width",
+   "ini": 2617,
+   "fin": 2619,
+   "texto": "23"
+  },
+  {
+   "tipo": "depth",
+   "ini": 2622,
+   "fin": 2624,
+   "texto": "19"
+  },
+  {
+   "tipo": "date",
+   "ini": 2628,
+   "fin": 2632,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2634,
+   "fin": 2716
+  },
+  {
+   "tipo": "img",
+   "ini": 2634,
+   "fin": 2639,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2641,
+   "fin": 2716,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ÁLVARO DE LA VEGA\nContemplación 2\nMadera de castaño\n180 x 24.5 x 37 cm\n2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 2641,
+   "fin": 2658,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2641,
+   "fin": 2658,
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "title",
+   "ini": 2659,
+   "fin": 2674,
+   "texto": "Contemplación 2"
+  },
+  {
+   "tipo": "material",
+   "ini": 2675,
+   "fin": 2692,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de castaño"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2693,
+   "fin": 2711,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "180 x 24.5 x 37 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2693,
+   "fin": 2696,
+   "texto": "180"
+  },
+  {
+   "tipo": "width",
+   "ini": 2699,
+   "fin": 2703,
+   "texto": "24.5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 2706,
+   "fin": 2708,
+   "texto": "37"
+  },
+  {
+   "tipo": "date",
+   "ini": 2712,
+   "fin": 2716,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2718,
+   "fin": 2797
+  },
+  {
+   "tipo": "img",
+   "ini": 2718,
+   "fin": 2723,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2725,
+   "fin": 2797,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ÁLVARO DE LA VEGA\nDoble pareja\nMadera de eucalipto\n125 x 30 x 55 cm\n2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 2725,
+   "fin": 2742,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2725,
+   "fin": 2742,
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "title",
+   "ini": 2743,
+   "fin": 2755,
+   "texto": "Doble pareja"
+  },
+  {
+   "tipo": "material",
+   "ini": 2756,
+   "fin": 2775,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de eucalipto"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2776,
+   "fin": 2792,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "125 x 30 x 55 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2776,
+   "fin": 2779,
+   "texto": "125"
+  },
+  {
+   "tipo": "width",
+   "ini": 2782,
+   "fin": 2784,
+   "texto": "30"
+  },
+  {
+   "tipo": "depth",
+   "ini": 2787,
+   "fin": 2789,
+   "texto": "55"
+  },
+  {
+   "tipo": "date",
+   "ini": 2793,
+   "fin": 2797,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2799,
+   "fin": 2878
+  },
+  {
+   "tipo": "img",
+   "ini": 2799,
+   "fin": 2804,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2806,
+   "fin": 2878,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ÁLVARO DE LA VEGA\nConversación\nMadera de eucalipto\n165 x 75 x 30 cm\n2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 2806,
+   "fin": 2823,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2806,
+   "fin": 2823,
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "title",
+   "ini": 2824,
+   "fin": 2836,
+   "texto": "Conversación"
+  },
+  {
+   "tipo": "material",
+   "ini": 2837,
+   "fin": 2856,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de eucalipto"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2857,
+   "fin": 2873,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "165 x 75 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2857,
+   "fin": 2860,
+   "texto": "165"
+  },
+  {
+   "tipo": "width",
+   "ini": 2863,
+   "fin": 2865,
+   "texto": "75"
+  },
+  {
+   "tipo": "depth",
+   "ini": 2868,
+   "fin": 2870,
+   "texto": "30"
+  },
+  {
+   "tipo": "date",
+   "ini": 2874,
+   "fin": 2878,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2880,
+   "fin": 2950
+  },
+  {
+   "tipo": "img",
+   "ini": 2880,
+   "fin": 2885,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2887,
+   "fin": 2950,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ÁLVARO DE LA VEGA\nSelfie\nMadera de castaño\n68 x 30 x 58 cm\n2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 2887,
+   "fin": 2904,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2887,
+   "fin": 2904,
+   "texto": "ÁLVARO DE LA VEGA"
+  },
+  {
+   "tipo": "title",
+   "ini": 2905,
+   "fin": 2911,
+   "texto": "Selfie"
+  },
+  {
+   "tipo": "material",
+   "ini": 2912,
+   "fin": 2929,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de castaño"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2930,
+   "fin": 2945,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "68 x 30 x 58 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2930,
+   "fin": 2932,
+   "texto": "68"
+  },
+  {
+   "tipo": "width",
+   "ini": 2935,
+   "fin": 2937,
+   "texto": "30"
+  },
+  {
+   "tipo": "depth",
+   "ini": 2940,
+   "fin": 2942,
+   "texto": "58"
+  },
+  {
+   "tipo": "date",
+   "ini": 2946,
+   "fin": 2950,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 2969,
+   "fin": 2999,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Álvaro de la Vega (LUGO, 1954)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2969,
+   "fin": 2986,
+   "texto": "Álvaro de la Vega"
+  },
+  {
+   "tipo": "birth",
+   "ini": 2987,
+   "fin": 2999
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2988,
+   "fin": 2992,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "LUGO"
+  },
+  {
+   "tipo": "date",
+   "ini": 2994,
+   "fin": 2998,
+   "rasgos": {
+    "when": "1954"
+   },
+   "texto": "1954"
+  }
+ ]
+}

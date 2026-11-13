@@ -1,0 +1,2243 @@
+{
+ "id": "cat_067_catalogo_2011_ceramica_y_picasso",
+ "nombre_original": "catalogo_2011_ceramica_y_picasso",
+ "longitud_texto": 4083,
+ "sha256_texto": "c5fd8ccc34530e0b95a360760a31d48d2aafec24746867264e9f1d5198fa4cf4",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 137,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 55,
+   "texto": "Cerámica y Picasso\nUn puente entre Vallauris y Buitrago"
+  },
+  {
+   "tipo": "person",
+   "ini": 11,
+   "fin": 18,
+   "texto": "Picasso"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11,
+   "fin": 18,
+   "texto": "Picasso"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 35,
+   "fin": 44,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Vallauris"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 47,
+   "fin": 55,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Buitrago"
+  },
+  {
+   "tipo": "date",
+   "ini": 57,
+   "fin": 83,
+   "rasgos": {
+    "from": "2011-07-09",
+    "to": "2011-10-15"
+   },
+   "texto": "9 de Julio - 15 de Octubre"
+  },
+  {
+   "tipo": "venue",
+   "ini": 85,
+   "fin": 137,
+   "texto": "Sala de Exposiciones Municipal de Buitrago de Lozoya"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 119,
+   "fin": 137,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Buitrago de Lozoya"
+  },
+  {
+   "tipo": "person",
+   "ini": 190,
+   "fin": 203,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luis Berrutti"
+  },
+  {
+   "tipo": "persName",
+   "ini": 190,
+   "fin": 203,
+   "texto": "Luis Berrutti"
+  },
+  {
+   "tipo": "person",
+   "ini": 226,
+   "fin": 244,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Patrick Boccarossa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 226,
+   "fin": 244,
+   "texto": "Patrick Boccarossa"
+  },
+  {
+   "tipo": "person",
+   "ini": 261,
+   "fin": 277,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Brahim Bourakhma"
+  },
+  {
+   "tipo": "persName",
+   "ini": 261,
+   "fin": 277,
+   "texto": "Brahim Bourakhma"
+  },
+  {
+   "tipo": "person",
+   "ini": 293,
+   "fin": 309,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Daniel Branchart"
+  },
+  {
+   "tipo": "persName",
+   "ini": 293,
+   "fin": 309,
+   "texto": "Daniel Branchart"
+  },
+  {
+   "tipo": "person",
+   "ini": 328,
+   "fin": 342,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Elena Canencia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 328,
+   "fin": 342,
+   "texto": "Elena Canencia"
+  },
+  {
+   "tipo": "person",
+   "ini": 362,
+   "fin": 373,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guy Gautier"
+  },
+  {
+   "tipo": "persName",
+   "ini": 362,
+   "fin": 373,
+   "texto": "Guy Gautier"
+  },
+  {
+   "tipo": "person",
+   "ini": 396,
+   "fin": 409,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Marcel Giraud"
+  },
+  {
+   "tipo": "persName",
+   "ini": 396,
+   "fin": 409,
+   "texto": "Marcel Giraud"
+  },
+  {
+   "tipo": "person",
+   "ini": 430,
+   "fin": 443,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Edmond Guizol"
+  },
+  {
+   "tipo": "persName",
+   "ini": 430,
+   "fin": 443,
+   "texto": "Edmond Guizol"
+  },
+  {
+   "tipo": "person",
+   "ini": 463,
+   "fin": 475,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Renaud Lembo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 463,
+   "fin": 475,
+   "texto": "Renaud Lembo"
+  },
+  {
+   "tipo": "person",
+   "ini": 495,
+   "fin": 509,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ricardo Martín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 495,
+   "fin": 509,
+   "texto": "Ricardo Martín"
+  },
+  {
+   "tipo": "person",
+   "ini": 529,
+   "fin": 552,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Celine y Cedric Massier"
+  },
+  {
+   "tipo": "persName",
+   "ini": 529,
+   "fin": 552,
+   "texto": "Celine y Cedric Massier"
+  },
+  {
+   "tipo": "person",
+   "ini": 564,
+   "fin": 578,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Isabel Micaela"
+  },
+  {
+   "tipo": "persName",
+   "ini": 564,
+   "fin": 578,
+   "texto": "Isabel Micaela"
+  },
+  {
+   "tipo": "person",
+   "ini": 599,
+   "fin": 609,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Marc Piano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 599,
+   "fin": 609,
+   "texto": "Marc Piano"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 695,
+   "fin": 704,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Vallauris"
+  },
+  {
+   "tipo": "persName",
+   "ini": 777,
+   "fin": 790,
+   "texto": "Pablo Picasso"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 829,
+   "fin": 848,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Buitrago del Lozoya"
+  },
+  {
+   "tipo": "persName",
+   "ini": 916,
+   "fin": 921,
+   "texto": "Pablo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 924,
+   "fin": 931,
+   "texto": "Eugenio"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1038,
+   "fin": 1068,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "persName",
+   "ini": 1239,
+   "fin": 1252,
+   "texto": "Pablo\nPicasso"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1502,
+   "fin": 1555,
+   "rasgos": {
+    "type": "Foundation",
+    "role": "organiser"
+   },
+   "texto": "Fundación Manantial de Cultura\nde Buitrago del Lozoya"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1536,
+   "fin": 1555,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Buitrago del Lozoya"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1569,
+   "fin": 1628,
+   "rasgos": {
+    "type": "association",
+    "role": "organiser"
+   },
+   "texto": "Association\nVallaurienne d'Expansion Céramique de Vallauris"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1619,
+   "fin": 1628,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Vallauris"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1653,
+   "fin": 1666,
+   "rasgos": {
+    "type": "townHall"
+   },
+   "texto": "Ayuntamientos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1805,
+   "fin": 1816,
+   "texto": "Pedro Arias"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 1819,
+   "fin": 4036
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 1819,
+   "fin": 1991
+  },
+  {
+   "tipo": "person",
+   "ini": 1819,
+   "fin": 1904,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "LUIS BERRUTTI\nCarretera Comarcal 610 Km. 4,100\n28720 Bustarviejo (Madrid)\n617 381 680"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1819,
+   "fin": 1832,
+   "texto": "LUIS BERRUTTI"
+  },
+  {
+   "tipo": "address",
+   "ini": 1833,
+   "fin": 1892,
+   "texto": "Carretera Comarcal 610 Km. 4,100\n28720 Bustarviejo (Madrid)"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1872,
+   "fin": 1892,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Bustarviejo (Madrid)"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1906,
+   "fin": 1924
+  },
+  {
+   "tipo": "img",
+   "ini": 1906,
+   "fin": 1911,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 1913,
+   "fin": 1924,
+   "texto": "El escultor"
+  },
+  {
+   "tipo": "work",
+   "ini": 1913,
+   "fin": 1924,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "El escultor"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1926,
+   "fin": 1956
+  },
+  {
+   "tipo": "img",
+   "ini": 1926,
+   "fin": 1931,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 1933,
+   "fin": 1956,
+   "texto": "El manantial del bosque"
+  },
+  {
+   "tipo": "work",
+   "ini": 1933,
+   "fin": 1956,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "El manantial del bosque"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1958,
+   "fin": 1973
+  },
+  {
+   "tipo": "img",
+   "ini": 1958,
+   "fin": 1963,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 1965,
+   "fin": 1973,
+   "texto": "Nocturno"
+  },
+  {
+   "tipo": "work",
+   "ini": 1965,
+   "fin": 1973,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Nocturno"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1975,
+   "fin": 1991
+  },
+  {
+   "tipo": "img",
+   "ini": 1975,
+   "fin": 1980,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 1982,
+   "fin": 1991,
+   "texto": "Luna roja"
+  },
+  {
+   "tipo": "work",
+   "ini": 1982,
+   "fin": 1991,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Luna roja"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 1994,
+   "fin": 2123
+  },
+  {
+   "tipo": "person",
+   "ini": 1994,
+   "fin": 2098,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "PATRICK BOCCAROSSA\n103 Av. Pablo Picasso\n06220 Vallauris\n0033 04 93 65 26 39\nandreasbergmann@cegetel.net"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1994,
+   "fin": 2012,
+   "texto": "PATRICK BOCCAROSSA"
+  },
+  {
+   "tipo": "address",
+   "ini": 2013,
+   "fin": 2050,
+   "texto": "103 Av. Pablo Picasso\n06220 Vallauris"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2041,
+   "fin": 2050,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Vallauris"
+  },
+  {
+   "tipo": "img",
+   "ini": 2100,
+   "fin": 2105,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2100,
+   "fin": 2105,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2100,
+   "fin": 2105
+  },
+  {
+   "tipo": "img",
+   "ini": 2106,
+   "fin": 2111,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2106,
+   "fin": 2111,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2106,
+   "fin": 2111
+  },
+  {
+   "tipo": "img",
+   "ini": 2112,
+   "fin": 2117,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2112,
+   "fin": 2117,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2112,
+   "fin": 2117
+  },
+  {
+   "tipo": "img",
+   "ini": 2118,
+   "fin": 2123,
+   "rasgos": {
+    "size": "medium",
+    "src": "catalogue",
+    "color ": "true"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2118,
+   "fin": 2123,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2118,
+   "fin": 2123
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 2125,
+   "fin": 2230
+  },
+  {
+   "tipo": "person",
+   "ini": 2125,
+   "fin": 2217,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "BRAHIM BOURAKMA\n141 ch. Lintier\n06220 Vallauris\n0033 06 68 31 74 52\nbrahimbourakma@gmail.com"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2125,
+   "fin": 2140,
+   "texto": "BRAHIM BOURAKMA"
+  },
+  {
+   "tipo": "address",
+   "ini": 2141,
+   "fin": 2172,
+   "texto": "141 ch. Lintier\n06220 Vallauris"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2163,
+   "fin": 2172,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Vallauris"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2219,
+   "fin": 2230
+  },
+  {
+   "tipo": "img",
+   "ini": 2219,
+   "fin": 2224,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 2226,
+   "fin": 2230,
+   "texto": "Baba"
+  },
+  {
+   "tipo": "work",
+   "ini": 2226,
+   "fin": 2230,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Baba"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 2233,
+   "fin": 2390
+  },
+  {
+   "tipo": "person",
+   "ini": 2233,
+   "fin": 2330,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "DANIEL BRANCHARD\n48 Av. G. Clémenceau\n06220 Vallauris\n0033 06 14 05 15 58\nbrancharddaniel@free.fr"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2233,
+   "fin": 2249,
+   "texto": "DANIEL BRANCHARD"
+  },
+  {
+   "tipo": "address",
+   "ini": 2250,
+   "fin": 2286,
+   "texto": "48 Av. G. Clémenceau\n06220 Vallauris"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2277,
+   "fin": 2286,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Vallauris"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2332,
+   "fin": 2346
+  },
+  {
+   "tipo": "img",
+   "ini": 2332,
+   "fin": 2337,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 2339,
+   "fin": 2346,
+   "texto": "L´Arias"
+  },
+  {
+   "tipo": "work",
+   "ini": 2339,
+   "fin": 2346,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "L´Arias"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2348,
+   "fin": 2358
+  },
+  {
+   "tipo": "img",
+   "ini": 2348,
+   "fin": 2353,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 2355,
+   "fin": 2358,
+   "texto": "Lui"
+  },
+  {
+   "tipo": "work",
+   "ini": 2355,
+   "fin": 2358,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Lui"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2360,
+   "fin": 2371
+  },
+  {
+   "tipo": "img",
+   "ini": 2360,
+   "fin": 2365,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 2367,
+   "fin": 2371,
+   "texto": "Masq"
+  },
+  {
+   "tipo": "work",
+   "ini": 2367,
+   "fin": 2371,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Masq"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2373,
+   "fin": 2390
+  },
+  {
+   "tipo": "img",
+   "ini": 2373,
+   "fin": 2378,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 2380,
+   "fin": 2390,
+   "texto": "Mama Louve"
+  },
+  {
+   "tipo": "work",
+   "ini": 2380,
+   "fin": 2390,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Mama Louve"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 2393,
+   "fin": 2635
+  },
+  {
+   "tipo": "person",
+   "ini": 2393,
+   "fin": 2505,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ELENA CANENCIA\nCarretera de Irún, 2\n28729 Venturada (Madrid)\n91 843 93 29 / 676 34 00 96\nelenacanencia@gmail.com"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2393,
+   "fin": 2407,
+   "texto": "ELENA CANENCIA"
+  },
+  {
+   "tipo": "address",
+   "ini": 2408,
+   "fin": 2453,
+   "texto": "Carretera de Irún, 2\n28729 Venturada (Madrid)"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2435,
+   "fin": 2453,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Venturada (Madrid)"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2507,
+   "fin": 2521
+  },
+  {
+   "tipo": "img",
+   "ini": 2507,
+   "fin": 2512,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 2514,
+   "fin": 2521,
+   "texto": "Palmera"
+  },
+  {
+   "tipo": "work",
+   "ini": 2514,
+   "fin": 2521,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Palmera"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2523,
+   "fin": 2593
+  },
+  {
+   "tipo": "img",
+   "ini": 2523,
+   "fin": 2528,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 2530,
+   "fin": 2593,
+   "texto": "Tener un amigo es\ncomo tener una\ncasa, con un plato\nde comid..."
+  },
+  {
+   "tipo": "work",
+   "ini": 2530,
+   "fin": 2593,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Tener un amigo es\ncomo tener una\ncasa, con un plato\nde comid..."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2595,
+   "fin": 2617
+  },
+  {
+   "tipo": "img",
+   "ini": 2595,
+   "fin": 2600,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 2602,
+   "fin": 2617,
+   "texto": "Torre de abejas"
+  },
+  {
+   "tipo": "work",
+   "ini": 2602,
+   "fin": 2617,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Torre de abejas"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2619,
+   "fin": 2635
+  },
+  {
+   "tipo": "img",
+   "ini": 2619,
+   "fin": 2624,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 2626,
+   "fin": 2635,
+   "texto": "Amontonar"
+  },
+  {
+   "tipo": "work",
+   "ini": 2626,
+   "fin": 2635,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Amontonar"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 2638,
+   "fin": 2831
+  },
+  {
+   "tipo": "person",
+   "ini": 2638,
+   "fin": 2740,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "GUY GAUTIER\nRue François Blanc Impasse du Champ\n06220 Vallauris\n0033 06 82 73 44 39\nguygautier@live.fr"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2638,
+   "fin": 2649,
+   "texto": "GUY GAUTIER"
+  },
+  {
+   "tipo": "address",
+   "ini": 2650,
+   "fin": 2701,
+   "texto": "Rue François Blanc Impasse du Champ\n06220 Vallauris"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2692,
+   "fin": 2701,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Vallauris"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2742,
+   "fin": 2765
+  },
+  {
+   "tipo": "img",
+   "ini": 2742,
+   "fin": 2747,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 2749,
+   "fin": 2765,
+   "texto": "Mur de Vallauris"
+  },
+  {
+   "tipo": "work",
+   "ini": 2749,
+   "fin": 2765,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Mur de Vallauris"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2767,
+   "fin": 2790
+  },
+  {
+   "tipo": "img",
+   "ini": 2767,
+   "fin": 2772,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 2774,
+   "fin": 2790,
+   "texto": "Picador a cheval"
+  },
+  {
+   "tipo": "work",
+   "ini": 2774,
+   "fin": 2790,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Picador a cheval"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2792,
+   "fin": 2815
+  },
+  {
+   "tipo": "img",
+   "ini": 2792,
+   "fin": 2797,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 2799,
+   "fin": 2815,
+   "texto": "Les grands horts"
+  },
+  {
+   "tipo": "work",
+   "ini": 2799,
+   "fin": 2815,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Les grands horts"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2817,
+   "fin": 2831
+  },
+  {
+   "tipo": "img",
+   "ini": 2817,
+   "fin": 2822,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 2824,
+   "fin": 2831,
+   "texto": "Hommage"
+  },
+  {
+   "tipo": "work",
+   "ini": 2824,
+   "fin": 2831,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Hommage"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 2834,
+   "fin": 3008
+  },
+  {
+   "tipo": "person",
+   "ini": 2834,
+   "fin": 2938,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MARCEL GIRAUD\n525 ch. des Mauruches Supérieures\n06220 Vallauris\n0033 04 93 63 02 20\ncardelle06@gmail.com"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2834,
+   "fin": 2847,
+   "texto": "MARCEL GIRAUD"
+  },
+  {
+   "tipo": "address",
+   "ini": 2848,
+   "fin": 2897,
+   "texto": "525 ch. des Mauruches Supérieures\n06220 Vallauris"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2888,
+   "fin": 2897,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Vallauris"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2940,
+   "fin": 2957
+  },
+  {
+   "tipo": "img",
+   "ini": 2940,
+   "fin": 2945,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 2947,
+   "fin": 2957,
+   "texto": "Bos_taurus"
+  },
+  {
+   "tipo": "work",
+   "ini": 2947,
+   "fin": 2957,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Bos_taurus"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2959,
+   "fin": 2974
+  },
+  {
+   "tipo": "img",
+   "ini": 2959,
+   "fin": 2964,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 2966,
+   "fin": 2974,
+   "texto": "Gueulard"
+  },
+  {
+   "tipo": "work",
+   "ini": 2966,
+   "fin": 2974,
+   "rasgos": {
+    "type": ""
+   },
+   "texto": "Gueulard"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2976,
+   "fin": 2992
+  },
+  {
+   "tipo": "img",
+   "ini": 2976,
+   "fin": 2981,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 2983,
+   "fin": 2992,
+   "texto": "Jerusalem"
+  },
+  {
+   "tipo": "work",
+   "ini": 2983,
+   "fin": 2992,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Jerusalem"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2994,
+   "fin": 3008
+  },
+  {
+   "tipo": "img",
+   "ini": 2994,
+   "fin": 2999,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 3001,
+   "fin": 3008,
+   "texto": "Matador"
+  },
+  {
+   "tipo": "work",
+   "ini": 3001,
+   "fin": 3008,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Matador"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 3011,
+   "fin": 3174
+  },
+  {
+   "tipo": "person",
+   "ini": 3011,
+   "fin": 3095,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "EDMOND GUIZOL\n9 rue du Four\n06220 Vallauris\n0033 04 92 95 13 33\nedmondguizol@free.fr"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3011,
+   "fin": 3024,
+   "texto": "EDMOND GUIZOL"
+  },
+  {
+   "tipo": "address",
+   "ini": 3025,
+   "fin": 3054,
+   "texto": "9 rue du Four\n06220 Vallauris"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3045,
+   "fin": 3054,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Vallauris"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3097,
+   "fin": 3110
+  },
+  {
+   "tipo": "img",
+   "ini": 3097,
+   "fin": 3102,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 3104,
+   "fin": 3110,
+   "texto": "Vase 1"
+  },
+  {
+   "tipo": "work",
+   "ini": 3104,
+   "fin": 3110,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Vase 1"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3112,
+   "fin": 3134
+  },
+  {
+   "tipo": "img",
+   "ini": 3112,
+   "fin": 3117,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 3119,
+   "fin": 3134,
+   "texto": "Plat 1. Detalle"
+  },
+  {
+   "tipo": "work",
+   "ini": 3119,
+   "fin": 3134,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Plat 1. Detalle"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3136,
+   "fin": 3154
+  },
+  {
+   "tipo": "img",
+   "ini": 3136,
+   "fin": 3141,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 3143,
+   "fin": 3154,
+   "texto": "Naissance 1"
+  },
+  {
+   "tipo": "work",
+   "ini": 3143,
+   "fin": 3154,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Naissance 1"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3156,
+   "fin": 3174
+  },
+  {
+   "tipo": "img",
+   "ini": 3156,
+   "fin": 3161,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 3163,
+   "fin": 3174,
+   "texto": "Naissance 2"
+  },
+  {
+   "tipo": "work",
+   "ini": 3163,
+   "fin": 3174,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Naissance 2"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 3177,
+   "fin": 3308
+  },
+  {
+   "tipo": "person",
+   "ini": 3177,
+   "fin": 3277,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "RENAUD LEMBO\n11 bis bd des Deux Vaillons\n06220 Vallauris\n0033 04 93 64 88 47\nrenaud_lem@aliceadsl.fr"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3177,
+   "fin": 3189,
+   "texto": "RENAUD LEMBO"
+  },
+  {
+   "tipo": "address",
+   "ini": 3190,
+   "fin": 3233,
+   "texto": "11 bis bd des Deux Vaillons\n06220 Vallauris"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3224,
+   "fin": 3233,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Vallauris"
+  },
+  {
+   "tipo": "img",
+   "ini": 3279,
+   "fin": 3284,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3279,
+   "fin": 3284,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3279,
+   "fin": 3284
+  },
+  {
+   "tipo": "img",
+   "ini": 3285,
+   "fin": 3290,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3285,
+   "fin": 3290,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3285,
+   "fin": 3290
+  },
+  {
+   "tipo": "img",
+   "ini": 3291,
+   "fin": 3296,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3291,
+   "fin": 3296,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3291,
+   "fin": 3296
+  },
+  {
+   "tipo": "img",
+   "ini": 3297,
+   "fin": 3302,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3297,
+   "fin": 3302,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3297,
+   "fin": 3302
+  },
+  {
+   "tipo": "img",
+   "ini": 3303,
+   "fin": 3308,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3303,
+   "fin": 3308,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3303,
+   "fin": 3308
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 3310,
+   "fin": 3498
+  },
+  {
+   "tipo": "person",
+   "ini": 3310,
+   "fin": 3414,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "RICARDO MARTÍN\nCalle Águedas, 13, 2ºB\n28400 Collado Villalba (Madrid)\n91 851 46 77\nneorichim@hotmail.com"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3310,
+   "fin": 3324,
+   "texto": "RICARDO MARTÍN"
+  },
+  {
+   "tipo": "address",
+   "ini": 3325,
+   "fin": 3379,
+   "texto": "Calle Águedas, 13, 2ºB\n28400 Collado Villalba (Madrid)"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3354,
+   "fin": 3379,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Collado Villalba (Madrid)"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3416,
+   "fin": 3441
+  },
+  {
+   "tipo": "img",
+   "ini": 3416,
+   "fin": 3421,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 3423,
+   "fin": 3441,
+   "texto": "Teseracto truncado"
+  },
+  {
+   "tipo": "work",
+   "ini": 3423,
+   "fin": 3441,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Teseracto truncado"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3443,
+   "fin": 3457
+  },
+  {
+   "tipo": "img",
+   "ini": 3443,
+   "fin": 3448,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 3450,
+   "fin": 3457,
+   "texto": "Picasso"
+  },
+  {
+   "tipo": "work",
+   "ini": 3450,
+   "fin": 3457,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Picasso"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3459,
+   "fin": 3476
+  },
+  {
+   "tipo": "img",
+   "ini": 3459,
+   "fin": 3464,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 3466,
+   "fin": 3476,
+   "texto": "Orbital VI"
+  },
+  {
+   "tipo": "work",
+   "ini": 3466,
+   "fin": 3476,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Orbital VI"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3478,
+   "fin": 3497
+  },
+  {
+   "tipo": "img",
+   "ini": 3478,
+   "fin": 3483,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 3485,
+   "fin": 3497,
+   "texto": "Entrelazados"
+  },
+  {
+   "tipo": "work",
+   "ini": 3485,
+   "fin": 3497,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Entrelazados"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 3500,
+   "fin": 3735
+  },
+  {
+   "tipo": "person",
+   "ini": 3500,
+   "fin": 3626,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "CÉLINE Y CÉDRIC\nMASSIER\n7 rue Jean Gerbino\n06220 Vallauris\n0033 06 65 17 60 88\ncedrid.massier@sfr.fr\nwww.ceramique-massier.com"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3500,
+   "fin": 3523,
+   "texto": "CÉLINE Y CÉDRIC\nMASSIER"
+  },
+  {
+   "tipo": "address",
+   "ini": 3524,
+   "fin": 3558,
+   "texto": "7 rue Jean Gerbino\n06220 Vallauris"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3549,
+   "fin": 3558,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Vallauris"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3628,
+   "fin": 3654
+  },
+  {
+   "tipo": "img",
+   "ini": 3628,
+   "fin": 3633,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 3635,
+   "fin": 3654,
+   "texto": "Un jour à Vallauris"
+  },
+  {
+   "tipo": "work",
+   "ini": 3635,
+   "fin": 3654,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Un jour à Vallauris"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3656,
+   "fin": 3681
+  },
+  {
+   "tipo": "img",
+   "ini": 3656,
+   "fin": 3661,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 3663,
+   "fin": 3681,
+   "texto": "Bouteille sculptée"
+  },
+  {
+   "tipo": "work",
+   "ini": 3663,
+   "fin": 3681,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Bouteille sculptée"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3683,
+   "fin": 3713
+  },
+  {
+   "tipo": "img",
+   "ini": 3683,
+   "fin": 3688,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 3690,
+   "fin": 3713,
+   "texto": "Face cachée d´un torero"
+  },
+  {
+   "tipo": "work",
+   "ini": 3690,
+   "fin": 3713,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Face cachée d´un torero"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3715,
+   "fin": 3735
+  },
+  {
+   "tipo": "img",
+   "ini": 3715,
+   "fin": 3720,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 3722,
+   "fin": 3735,
+   "texto": "Menhir flamme"
+  },
+  {
+   "tipo": "work",
+   "ini": 3722,
+   "fin": 3735,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Menhir flamme"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 3738,
+   "fin": 3898
+  },
+  {
+   "tipo": "person",
+   "ini": 3738,
+   "fin": 3810,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ISABEL MICAELA\n654 813 199\nisabelmicaela@gmail.com\nwww.isabelmicaela.net"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3738,
+   "fin": 3752,
+   "texto": "ISABEL MICAELA"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3812,
+   "fin": 3834
+  },
+  {
+   "tipo": "img",
+   "ini": 3812,
+   "fin": 3817,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 3819,
+   "fin": 3834,
+   "texto": "Mundo de mundos"
+  },
+  {
+   "tipo": "work",
+   "ini": 3819,
+   "fin": 3834,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Mundo de mundos"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3836,
+   "fin": 3856
+  },
+  {
+   "tipo": "img",
+   "ini": 3836,
+   "fin": 3841,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 3843,
+   "fin": 3856,
+   "texto": "Subconsciente"
+  },
+  {
+   "tipo": "work",
+   "ini": 3843,
+   "fin": 3856,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Subconsciente"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3858,
+   "fin": 3877
+  },
+  {
+   "tipo": "img",
+   "ini": 3858,
+   "fin": 3863,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 3865,
+   "fin": 3877,
+   "texto": "Confidencias"
+  },
+  {
+   "tipo": "work",
+   "ini": 3865,
+   "fin": 3877,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Confidencias"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3879,
+   "fin": 3898
+  },
+  {
+   "tipo": "img",
+   "ini": 3879,
+   "fin": 3884,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 3886,
+   "fin": 3898,
+   "texto": "De puntillas"
+  },
+  {
+   "tipo": "work",
+   "ini": 3886,
+   "fin": 3898,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "De puntillas"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 3901,
+   "fin": 4035
+  },
+  {
+   "tipo": "person",
+   "ini": 3901,
+   "fin": 4010,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MARC PIANO\n37 av. de Cannes\n06220 Vallauris\n0033 04 93 64 21 02\npiano.marc@club-internet.fr\nwww.marcpiano.com"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3901,
+   "fin": 3911,
+   "texto": "MARC PIANO"
+  },
+  {
+   "tipo": "address",
+   "ini": 3912,
+   "fin": 3944,
+   "texto": "37 av. de Cannes\n06220 Vallauris"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3935,
+   "fin": 3944,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Vallauris"
+  },
+  {
+   "tipo": "img",
+   "ini": 4012,
+   "fin": 4017,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4012,
+   "fin": 4017,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4012,
+   "fin": 4017
+  },
+  {
+   "tipo": "img",
+   "ini": 4018,
+   "fin": 4023,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4018,
+   "fin": 4023,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4018,
+   "fin": 4023
+  },
+  {
+   "tipo": "img",
+   "ini": 4024,
+   "fin": 4029,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4024,
+   "fin": 4029,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4024,
+   "fin": 4029
+  },
+  {
+   "tipo": "img",
+   "ini": 4030,
+   "fin": 4035,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4030,
+   "fin": 4035,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4030,
+   "fin": 4035
+  }
+ ]
+}

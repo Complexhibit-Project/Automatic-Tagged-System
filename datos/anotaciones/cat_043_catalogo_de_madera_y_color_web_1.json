@@ -1,0 +1,2569 @@
+{
+ "id": "cat_043_catalogo_de_madera_y_color_web_1",
+ "nombre_original": "catalogo-de-madera-y-color-web-1",
+ "longitud_texto": 6743,
+ "sha256_texto": "009d1c78a1e2a59922df171f819481a37753bdc5aba5369a3a7f1238b84c47ac",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 31,
+   "texto": "DE MADERA Y COLOR\nMANUEL LUBIÁN"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 31,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 18,
+   "fin": 31,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MANUEL LUBIÁN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18,
+   "fin": 31,
+   "texto": "MANUEL LUBIÁN"
+  },
+  {
+   "tipo": "institution",
+   "ini": 43,
+   "fin": 63,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería Cortabitarte"
+  },
+  {
+   "tipo": "person",
+   "ini": 78,
+   "fin": 91,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "Laura Benítez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 78,
+   "fin": 91,
+   "texto": "Laura Benítez"
+  },
+  {
+   "tipo": "person",
+   "ini": 105,
+   "fin": 127,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Carmen Jimenez Jimenez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 105,
+   "fin": 127,
+   "texto": "Carmen Jimenez Jimenez"
+  },
+  {
+   "tipo": "person",
+   "ini": 141,
+   "fin": 166,
+   "rasgos": {
+    "role": "layoutDesigner"
+   },
+   "texto": "Azahara del Campo Granada"
+  },
+  {
+   "tipo": "persName",
+   "ini": 141,
+   "fin": 166,
+   "texto": "Azahara del Campo Granada"
+  },
+  {
+   "tipo": "institution",
+   "ini": 178,
+   "fin": 206,
+   "rasgos": {
+    "type": "printer"
+   },
+   "texto": "Imprenta provincial de Soria"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 201,
+   "fin": 206,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Soria"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 208,
+   "fin": 251,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 208,
+   "fin": 240,
+   "texto": "DE MADERA Y COLOR\n\nManuel Lubián"
+  },
+  {
+   "tipo": "person",
+   "ini": 227,
+   "fin": 240,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel Lubián"
+  },
+  {
+   "tipo": "persName",
+   "ini": 227,
+   "fin": 240,
+   "texto": "Manuel Lubián"
+  },
+  {
+   "tipo": "date",
+   "ini": 242,
+   "fin": 251,
+   "rasgos": {
+    "from": "2022-05-01",
+    "to": "2022-05-31"
+   },
+   "texto": "Mayo 2022"
+  },
+  {
+   "tipo": "title",
+   "ini": 253,
+   "fin": 270,
+   "texto": "DE MADERA Y COLOR"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 253,
+   "fin": 270,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 303,
+   "fin": 316,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel Lubián"
+  },
+  {
+   "tipo": "persName",
+   "ini": 303,
+   "fin": 316,
+   "texto": "Manuel Lubián"
+  },
+  {
+   "tipo": "person",
+   "ini": 804,
+   "fin": 810,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lubián"
+  },
+  {
+   "tipo": "persName",
+   "ini": 804,
+   "fin": 810,
+   "texto": "Lubián"
+  },
+  {
+   "tipo": "person",
+   "ini": 2104,
+   "fin": 2110,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lubián"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2104,
+   "fin": 2110,
+   "texto": "Lubián"
+  },
+  {
+   "tipo": "person",
+   "ini": 2294,
+   "fin": 2300,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2294,
+   "fin": 2300,
+   "texto": "Manuel"
+  },
+  {
+   "tipo": "person",
+   "ini": 2759,
+   "fin": 2781,
+   "rasgos": {
+    "role": "exhibitionCurator, author"
+   },
+   "texto": "Carmen Jiménez Jiménez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2759,
+   "fin": 2781,
+   "texto": "Carmen Jiménez Jiménez"
+  },
+  {
+   "tipo": "person",
+   "ini": 2832,
+   "fin": 2838,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lubián"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2832,
+   "fin": 2838,
+   "texto": "Lubián"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4142,
+   "fin": 4197
+  },
+  {
+   "tipo": "img",
+   "ini": 4142,
+   "fin": 4147,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 4149,
+   "fin": 6741
+  },
+  {
+   "tipo": "work",
+   "ini": 4149,
+   "fin": 4197,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "El primer beso\nMadera de castaño\n76 x 52 x 34 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4149,
+   "fin": 4163,
+   "texto": "El primer beso"
+  },
+  {
+   "tipo": "material",
+   "ini": 4164,
+   "fin": 4181,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de castaño"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4182,
+   "fin": 4197,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "76 x 52 x 34 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4182,
+   "fin": 4184,
+   "texto": "76"
+  },
+  {
+   "tipo": "width",
+   "ini": 4187,
+   "fin": 4189,
+   "texto": "52"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4192,
+   "fin": 4194,
+   "texto": "34"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4199,
+   "fin": 4272
+  },
+  {
+   "tipo": "img",
+   "ini": 4199,
+   "fin": 4204,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4205,
+   "fin": 4210,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4212,
+   "fin": 4272,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Sirena\nAnverso y reverso\nMadera de castaño\n86 x 56 x 20.5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4212,
+   "fin": 4236,
+   "texto": "Sirena\nAnverso y reverso"
+  },
+  {
+   "tipo": "material",
+   "ini": 4237,
+   "fin": 4254,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de castaño"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4255,
+   "fin": 4272,
+   "rasgos": {
+    "unit": ""
+   },
+   "texto": "86 x 56 x 20.5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4255,
+   "fin": 4257,
+   "texto": "86"
+  },
+  {
+   "tipo": "width",
+   "ini": 4260,
+   "fin": 4262,
+   "texto": "56"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4265,
+   "fin": 4269,
+   "texto": "20.5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4274,
+   "fin": 4327
+  },
+  {
+   "tipo": "img",
+   "ini": 4274,
+   "fin": 4279,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4281,
+   "fin": 4327,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Marinero\n140 x 77 x 28 cm\nMadera de Samaguilla"
+  },
+  {
+   "tipo": "title",
+   "ini": 4281,
+   "fin": 4289,
+   "texto": "Marinero"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4290,
+   "fin": 4306,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "140 x 77 x 28 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4290,
+   "fin": 4293,
+   "texto": "140"
+  },
+  {
+   "tipo": "width",
+   "ini": 4296,
+   "fin": 4298,
+   "texto": "77"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4301,
+   "fin": 4303,
+   "texto": "28"
+  },
+  {
+   "tipo": "material",
+   "ini": 4307,
+   "fin": 4327,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de Samaguilla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4329,
+   "fin": 4382
+  },
+  {
+   "tipo": "img",
+   "ini": 4329,
+   "fin": 4334,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4336,
+   "fin": 4382,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Y yo...¿qué?\n45 x 38 x 16 cm\nMadera de castaño"
+  },
+  {
+   "tipo": "title",
+   "ini": 4336,
+   "fin": 4348,
+   "texto": "Y yo...¿qué?"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4349,
+   "fin": 4364,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "45 x 38 x 16 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4349,
+   "fin": 4351,
+   "texto": "45"
+  },
+  {
+   "tipo": "width",
+   "ini": 4354,
+   "fin": 4356,
+   "texto": "38"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4359,
+   "fin": 4361,
+   "texto": "16"
+  },
+  {
+   "tipo": "material",
+   "ini": 4365,
+   "fin": 4382,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de castaño"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4384,
+   "fin": 4465
+  },
+  {
+   "tipo": "img",
+   "ini": 4384,
+   "fin": 4389,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4390,
+   "fin": 4395,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4397,
+   "fin": 4465,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Hombre Luna\nAnverso y Reverso\n121.5 x 42 x 23.5 cm\nMadera de castaño"
+  },
+  {
+   "tipo": "title",
+   "ini": 4397,
+   "fin": 4426,
+   "texto": "Hombre Luna\nAnverso y Reverso"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4427,
+   "fin": 4447,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "121.5 x 42 x 23.5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4427,
+   "fin": 4432,
+   "texto": "121.5"
+  },
+  {
+   "tipo": "width",
+   "ini": 4435,
+   "fin": 4437,
+   "texto": "42"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4440,
+   "fin": 4444,
+   "texto": "23.5"
+  },
+  {
+   "tipo": "material",
+   "ini": 4448,
+   "fin": 4465,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de castaño"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4467,
+   "fin": 4517
+  },
+  {
+   "tipo": "img",
+   "ini": 4467,
+   "fin": 4472,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4474,
+   "fin": 4517,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Martina\n1’70 x 52 x 36 cm\nMadera de castaño"
+  },
+  {
+   "tipo": "title",
+   "ini": 4474,
+   "fin": 4481,
+   "texto": "Martina"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4482,
+   "fin": 4499,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "1’70 x 52 x 36 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4482,
+   "fin": 4486,
+   "texto": "1’70"
+  },
+  {
+   "tipo": "width",
+   "ini": 4489,
+   "fin": 4491,
+   "texto": "52"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4494,
+   "fin": 4496,
+   "texto": "36"
+  },
+  {
+   "tipo": "material",
+   "ini": 4500,
+   "fin": 4517,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de castaño"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4519,
+   "fin": 4584
+  },
+  {
+   "tipo": "img",
+   "ini": 4519,
+   "fin": 4524,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4526,
+   "fin": 4584,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Madre y niño con globo\n58 x 36’5 x 17 cm\nMadera de castaño"
+  },
+  {
+   "tipo": "title",
+   "ini": 4526,
+   "fin": 4548,
+   "texto": "Madre y niño con globo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4549,
+   "fin": 4566,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "58 x 36’5 x 17 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4549,
+   "fin": 4551,
+   "texto": "58"
+  },
+  {
+   "tipo": "width",
+   "ini": 4554,
+   "fin": 4558,
+   "texto": "36’5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4561,
+   "fin": 4563,
+   "texto": "17"
+  },
+  {
+   "tipo": "material",
+   "ini": 4567,
+   "fin": 4584,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de castaño"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4586,
+   "fin": 4649
+  },
+  {
+   "tipo": "img",
+   "ini": 4586,
+   "fin": 4591,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4593,
+   "fin": 4649,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Bailando en la luna\n103 x 32’5 x 47 cm\nMadera de castaño"
+  },
+  {
+   "tipo": "title",
+   "ini": 4593,
+   "fin": 4612,
+   "texto": "Bailando en la luna"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4613,
+   "fin": 4631,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "103 x 32’5 x 47 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4613,
+   "fin": 4616,
+   "texto": "103"
+  },
+  {
+   "tipo": "width",
+   "ini": 4619,
+   "fin": 4623,
+   "texto": "32’5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4626,
+   "fin": 4628,
+   "texto": "47"
+  },
+  {
+   "tipo": "material",
+   "ini": 4632,
+   "fin": 4649,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de castaño"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4651,
+   "fin": 4714
+  },
+  {
+   "tipo": "img",
+   "ini": 4651,
+   "fin": 4656,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4658,
+   "fin": 4714,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Hombre del acordeón\n141 x 60 x 29 cm\nMadera de samaguiña"
+  },
+  {
+   "tipo": "title",
+   "ini": 4658,
+   "fin": 4677,
+   "texto": "Hombre del acordeón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4678,
+   "fin": 4694,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "141 x 60 x 29 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4678,
+   "fin": 4681,
+   "texto": "141"
+  },
+  {
+   "tipo": "width",
+   "ini": 4684,
+   "fin": 4686,
+   "texto": "60"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4689,
+   "fin": 4691,
+   "texto": "29"
+  },
+  {
+   "tipo": "material",
+   "ini": 4695,
+   "fin": 4714,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de samaguiña"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4716,
+   "fin": 4763
+  },
+  {
+   "tipo": "img",
+   "ini": 4716,
+   "fin": 4721,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4723,
+   "fin": 4763,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Alicia\n54 x 40 x 22 cm\nMadera de castaño"
+  },
+  {
+   "tipo": "title",
+   "ini": 4723,
+   "fin": 4729,
+   "texto": "Alicia"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4730,
+   "fin": 4745,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "54 x 40 x 22 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4730,
+   "fin": 4732,
+   "texto": "54"
+  },
+  {
+   "tipo": "width",
+   "ini": 4735,
+   "fin": 4737,
+   "texto": "40"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4740,
+   "fin": 4742,
+   "texto": "22"
+  },
+  {
+   "tipo": "material",
+   "ini": 4746,
+   "fin": 4763,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de castaño"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4765,
+   "fin": 4822
+  },
+  {
+   "tipo": "img",
+   "ini": 4765,
+   "fin": 4770,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4772,
+   "fin": 4822,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Paseando al bebé\n71 x 55 x 24 cm\nMadera de castaño"
+  },
+  {
+   "tipo": "title",
+   "ini": 4772,
+   "fin": 4788,
+   "texto": "Paseando al bebé"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4789,
+   "fin": 4804,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "71 x 55 x 24 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4789,
+   "fin": 4791,
+   "texto": "71"
+  },
+  {
+   "tipo": "width",
+   "ini": 4794,
+   "fin": 4796,
+   "texto": "55"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4799,
+   "fin": 4801,
+   "texto": "24"
+  },
+  {
+   "tipo": "material",
+   "ini": 4805,
+   "fin": 4822,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de castaño"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4824,
+   "fin": 4904
+  },
+  {
+   "tipo": "img",
+   "ini": 4824,
+   "fin": 4829,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4830,
+   "fin": 4835,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4837,
+   "fin": 4904,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Déjate llevar\nAnverso y reverso\n63.5 x 38 x 14 cm\nMadera de castaño"
+  },
+  {
+   "tipo": "title",
+   "ini": 4837,
+   "fin": 4868,
+   "texto": "Déjate llevar\nAnverso y reverso"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4869,
+   "fin": 4886,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "63.5 x 38 x 14 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4869,
+   "fin": 4873,
+   "texto": "63.5"
+  },
+  {
+   "tipo": "width",
+   "ini": 4876,
+   "fin": 4878,
+   "texto": "38"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4881,
+   "fin": 4883,
+   "texto": "14"
+  },
+  {
+   "tipo": "material",
+   "ini": 4887,
+   "fin": 4904,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de castaño"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4906,
+   "fin": 4993
+  },
+  {
+   "tipo": "img",
+   "ini": 4906,
+   "fin": 4911,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4912,
+   "fin": 4917,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4919,
+   "fin": 4993,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Los novios/El abrazo\nAnverso y reverso\n86 x 56 x 20’5 cm\nMadera de castaño"
+  },
+  {
+   "tipo": "title",
+   "ini": 4919,
+   "fin": 4957,
+   "texto": "Los novios/El abrazo\nAnverso y reverso"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4958,
+   "fin": 4975,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "86 x 56 x 20’5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4958,
+   "fin": 4960,
+   "texto": "86"
+  },
+  {
+   "tipo": "width",
+   "ini": 4963,
+   "fin": 4965,
+   "texto": "56"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4968,
+   "fin": 4972,
+   "texto": "20’5"
+  },
+  {
+   "tipo": "material",
+   "ini": 4976,
+   "fin": 4993,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de castaño"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4995,
+   "fin": 5090
+  },
+  {
+   "tipo": "img",
+   "ini": 4995,
+   "fin": 5000
+  },
+  {
+   "tipo": "img",
+   "ini": 5001,
+   "fin": 5006,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5008,
+   "fin": 5090,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "La mujer de la botella de ron\nAnverso y reverso\n110 x 53 x 38 cm\nMadera de castaño"
+  },
+  {
+   "tipo": "title",
+   "ini": 5008,
+   "fin": 5055,
+   "texto": "La mujer de la botella de ron\nAnverso y reverso"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5056,
+   "fin": 5072,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "110 x 53 x 38 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5056,
+   "fin": 5059,
+   "texto": "110"
+  },
+  {
+   "tipo": "width",
+   "ini": 5062,
+   "fin": 5064,
+   "texto": "53"
+  },
+  {
+   "tipo": "depth",
+   "ini": 5067,
+   "fin": 5069,
+   "texto": "38"
+  },
+  {
+   "tipo": "material",
+   "ini": 5073,
+   "fin": 5090,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de castaño"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5092,
+   "fin": 5153
+  },
+  {
+   "tipo": "img",
+   "ini": 5092,
+   "fin": 5097,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5099,
+   "fin": 5153,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "La mujer de carnaval\n60 x 40 x 22 cm\nMadera de castaño"
+  },
+  {
+   "tipo": "title",
+   "ini": 5099,
+   "fin": 5119,
+   "texto": "La mujer de carnaval"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5120,
+   "fin": 5135,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 40 x 22 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5120,
+   "fin": 5122,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 5125,
+   "fin": 5127,
+   "texto": "40"
+  },
+  {
+   "tipo": "depth",
+   "ini": 5130,
+   "fin": 5132,
+   "texto": "22"
+  },
+  {
+   "tipo": "material",
+   "ini": 5136,
+   "fin": 5153,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de castaño"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5155,
+   "fin": 5203
+  },
+  {
+   "tipo": "img",
+   "ini": 5155,
+   "fin": 5160,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5162,
+   "fin": 5203,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "El beso\n63 x 40 x 22 cm\nMadera de castaño"
+  },
+  {
+   "tipo": "title",
+   "ini": 5162,
+   "fin": 5169,
+   "texto": "El beso"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5170,
+   "fin": 5185,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "63 x 40 x 22 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5170,
+   "fin": 5172,
+   "texto": "63"
+  },
+  {
+   "tipo": "width",
+   "ini": 5175,
+   "fin": 5177,
+   "texto": "40"
+  },
+  {
+   "tipo": "depth",
+   "ini": 5180,
+   "fin": 5182,
+   "texto": "22"
+  },
+  {
+   "tipo": "material",
+   "ini": 5186,
+   "fin": 5203,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de castaño"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5205,
+   "fin": 5303
+  },
+  {
+   "tipo": "img",
+   "ini": 5205,
+   "fin": 5210,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 5211,
+   "fin": 5216,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5218,
+   "fin": 5303,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Madre antigua, madre moderna\nAnverso y reverso\n110 x 44’5 x 36’5 cm\nMadera de Castaño"
+  },
+  {
+   "tipo": "title",
+   "ini": 5218,
+   "fin": 5264,
+   "texto": "Madre antigua, madre moderna\nAnverso y reverso"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5265,
+   "fin": 5285,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "110 x 44’5 x 36’5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5265,
+   "fin": 5268,
+   "texto": "110"
+  },
+  {
+   "tipo": "width",
+   "ini": 5271,
+   "fin": 5275,
+   "texto": "44’5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 5278,
+   "fin": 5282,
+   "texto": "36’5"
+  },
+  {
+   "tipo": "material",
+   "ini": 5286,
+   "fin": 5303,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de Castaño"
+  },
+  {
+   "tipo": "text",
+   "ini": 5305,
+   "fin": 6191
+  },
+  {
+   "tipo": "date",
+   "ini": 5313,
+   "fin": 5323,
+   "rasgos": {
+    "from": "2012-07-01",
+    "to": "2012-07-31"
+   },
+   "texto": "2012 Julio"
+  },
+  {
+   "tipo": "title",
+   "ini": 5326,
+   "fin": 5343,
+   "texto": "“Arte no Morrazo”"
+  },
+  {
+   "tipo": "date",
+   "ini": 5355,
+   "fin": 5365,
+   "rasgos": {
+    "from": "2012-09-01",
+    "to": "2012-09-30"
+   },
+   "texto": "Septiembre"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5368,
+   "fin": 5387,
+   "rasgos": {
+    "type": "administration"
+   },
+   "texto": "Diputación A Coruña"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5379,
+   "fin": 5387,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "A Coruña"
+  },
+  {
+   "tipo": "date",
+   "ini": 5416,
+   "fin": 5431,
+   "rasgos": {
+    "from": "2016-09-01",
+    "to": "2016-09-30"
+   },
+   "texto": "2016 Septiembre"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5434,
+   "fin": 5456,
+   "rasgos": {
+    "type": "administration"
+   },
+   "texto": "Diputación de A Coruña"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5448,
+   "fin": 5456,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "A Coruña"
+  },
+  {
+   "tipo": "date",
+   "ini": 5468,
+   "fin": 5483,
+   "rasgos": {
+    "from": "2018-09-01",
+    "to": "2018-09-30"
+   },
+   "texto": "2018 Septiembre"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5486,
+   "fin": 5508,
+   "rasgos": {
+    "type": "administration"
+   },
+   "texto": "Diputación de A Coruña"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5500,
+   "fin": 5508,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "A Coruña"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 5534,
+   "fin": 5560,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 5534,
+   "fin": 5544,
+   "rasgos": {
+    "from": "2011-06-01",
+    "to": "2011-06-30"
+   },
+   "texto": "2011 Junio"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5547,
+   "fin": 5560,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería Xenon"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 5561,
+   "fin": 5592,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 5561,
+   "fin": 5570,
+   "rasgos": {
+    "from": "2011-12-01",
+    "to": "2011-12-31"
+   },
+   "texto": "Diciembre"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5573,
+   "fin": 5592,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería “1ª planta”"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 5593,
+   "fin": 5625,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 5593,
+   "fin": 5603,
+   "rasgos": {
+    "from": "2012-04-01",
+    "to": "2012-04-30"
+   },
+   "texto": "2012 Abril"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5606,
+   "fin": 5625,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería “1ª planta”"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 5626,
+   "fin": 5653,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 5626,
+   "fin": 5635,
+   "rasgos": {
+    "from": "2012-12-01",
+    "to": "2012-12-31"
+   },
+   "texto": "Diciembre"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5638,
+   "fin": 5653,
+   "rasgos": {
+    "type": "library",
+    "role": "organiser, host"
+   },
+   "texto": "Librería Arenas"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 5654,
+   "fin": 5692,
+   "rasgos": {
+    "ref": ""
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 5654,
+   "fin": 5664,
+   "rasgos": {
+    "from": "2013-04-01",
+    "to": "2013-04-30"
+   },
+   "texto": "2013 Abril"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5667,
+   "fin": 5692,
+   "rasgos": {
+    "type": "botanicGarden"
+   },
+   "texto": "Xardín Botánico Culleredo"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5683,
+   "fin": 5692,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Culleredo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 5693,
+   "fin": 5721,
+   "rasgos": {
+    "ref": ""
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 5693,
+   "fin": 5697,
+   "rasgos": {
+    "from": "2013-05-01",
+    "to": "2013-05-31"
+   },
+   "texto": "Mayo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5700,
+   "fin": 5721,
+   "texto": "Casa Dopeso(AsPontes)"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5712,
+   "fin": 5720,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "AsPontes"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5724,
+   "fin": 5745,
+   "rasgos": {
+    "type": "culturalCenter",
+    "role": "organiser, host"
+   },
+   "texto": "Centro Cívico Arteixo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 5724,
+   "fin": 5745,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5738,
+   "fin": 5745,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Arteixo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 5746,
+   "fin": 5777,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 5748,
+   "fin": 5753,
+   "rasgos": {
+    "from": "2013-06-01",
+    "to": ""
+   },
+   "texto": "Junio"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5754,
+   "fin": 5777,
+   "rasgos": {
+    "type": "culturalCenter",
+    "role": "organiser, host"
+   },
+   "texto": "Casa da Cultura de Noia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5773,
+   "fin": 5777,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Noia"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 5778,
+   "fin": 5807,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 5778,
+   "fin": 5784,
+   "rasgos": {
+    "from": "2013-08-01",
+    "to": "2013-08-31"
+   },
+   "texto": "Agosto"
+  },
+  {
+   "tipo": "venue",
+   "ini": 5787,
+   "fin": 5807,
+   "texto": "Monsteiro de Monfero"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5800,
+   "fin": 5807,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Monfero"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 5808,
+   "fin": 5847,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 5808,
+   "fin": 5818,
+   "rasgos": {
+    "from": "2013-09-01",
+    "to": "2013-09-30"
+   },
+   "texto": "Septiembre"
+  },
+  {
+   "tipo": "venue",
+   "ini": 5821,
+   "fin": 5847,
+   "texto": "Edificio multiusos de Rois"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5843,
+   "fin": 5847,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Rois"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 5848,
+   "fin": 5882,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 5848,
+   "fin": 5855,
+   "rasgos": {
+    "from": "2013-10-01",
+    "to": "2013-10-31"
+   },
+   "texto": "Octubre"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5858,
+   "fin": 5882,
+   "texto": "Pazo da Cultura de Narón"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5877,
+   "fin": 5882,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Narón"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 5884,
+   "fin": 5901,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 5885,
+   "fin": 5901,
+   "rasgos": {
+    "type": "casine",
+    "role": "organiser, host"
+   },
+   "texto": "Casino da Coruña"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5895,
+   "fin": 5901,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Coruña"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 5902,
+   "fin": 5934,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 5902,
+   "fin": 5911,
+   "rasgos": {
+    "from": "2013-11-01",
+    "to": "2013-11-30"
+   },
+   "texto": "Noviembre"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5914,
+   "fin": 5934,
+   "rasgos": {
+    "type": "auditorium",
+    "role": "organiser, host"
+   },
+   "texto": "Auditorio de Riveira"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5927,
+   "fin": 5934,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Riveira"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 5935,
+   "fin": 5961,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 5935,
+   "fin": 5944,
+   "rasgos": {
+    "from": "2013-12-01",
+    "to": "2013-12-31"
+   },
+   "texto": "Diciembre"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5947,
+   "fin": 5961,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería Xerión"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 5962,
+   "fin": 6030,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 5962,
+   "fin": 5972,
+   "rasgos": {
+    "from": "2014-04-01",
+    "to": "2014-04-30"
+   },
+   "texto": "2014 Abril"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5975,
+   "fin": 5989,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería Xerión"
+  },
+  {
+   "tipo": "title",
+   "ini": 5990,
+   "fin": 6030,
+   "texto": "Colectiva pintores y escultores gallegos"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 6031,
+   "fin": 6072,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 6031,
+   "fin": 6041,
+   "rasgos": {
+    "from": "2015-07-01",
+    "to": "2015-07-31"
+   },
+   "texto": "2015 Julio"
+  },
+  {
+   "tipo": "title",
+   "ini": 6044,
+   "fin": 6072,
+   "texto": "XIV Feria de Artes Plasticas"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 6073,
+   "fin": 6099,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "venue",
+   "ini": 6075,
+   "fin": 6099,
+   "texto": "Salón de Otoño de Sarria"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6093,
+   "fin": 6099,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sarria"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 6100,
+   "fin": 6135,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 6100,
+   "fin": 6106,
+   "rasgos": {
+    "from": "2015-08-01",
+    "to": "2015-08-31"
+   },
+   "texto": "Agosto"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6109,
+   "fin": 6135,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Casa Museo Casares Quiroga"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 6136,
+   "fin": 6191,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 6136,
+   "fin": 6143,
+   "rasgos": {
+    "from": "2015-10-01",
+    "to": "2015-10-31"
+   },
+   "texto": "Octubre"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6146,
+   "fin": 6170,
+   "rasgos": {
+    "type": "botanicGarden"
+   },
+   "texto": "Xardín Botánico do Burgo"
+  },
+  {
+   "tipo": "title",
+   "ini": 6171,
+   "fin": 6191,
+   "texto": "“Homenaxe a Picasso”"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6193,
+   "fin": 6198,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6200,
+   "fin": 6254,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Autorretrato\n60x39’5x21 cm\nMadera de castaño y sapelly"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6200,
+   "fin": 6254
+  },
+  {
+   "tipo": "title",
+   "ini": 6200,
+   "fin": 6212,
+   "texto": "Autorretrato"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6213,
+   "fin": 6226,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60x39’5x21 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6213,
+   "fin": 6215,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 6216,
+   "fin": 6220,
+   "texto": "39’5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 6221,
+   "fin": 6223,
+   "texto": "21"
+  },
+  {
+   "tipo": "material",
+   "ini": 6227,
+   "fin": 6254,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de castaño y sapelly"
+  },
+  {
+   "tipo": "text",
+   "ini": 6256,
+   "fin": 6741
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 6256,
+   "fin": 6307,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 6256,
+   "fin": 6265,
+   "rasgos": {
+    "from": "2016-05-01",
+    "to": "2016-05-30"
+   },
+   "texto": "2016 Mayo"
+  },
+  {
+   "tipo": "title",
+   "ini": 6268,
+   "fin": 6286,
+   "texto": "“Paisaxe Cultural”"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6290,
+   "fin": 6307,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Museo Luis Seoane"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 6308,
+   "fin": 6343,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 6308,
+   "fin": 6313,
+   "rasgos": {
+    "from": "2016-07-01",
+    "to": "2016-07-31"
+   },
+   "texto": "Julio"
+  },
+  {
+   "tipo": "title",
+   "ini": 6316,
+   "fin": 6343,
+   "texto": "XV Feria de Artes Plásticas"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 6344,
+   "fin": 6394,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 6344,
+   "fin": 6350,
+   "rasgos": {
+    "from": "2016-08-01",
+    "to": "2016-08-31"
+   },
+   "texto": "Agosto"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6353,
+   "fin": 6394,
+   "rasgos": {
+    "type": "culturalCenter",
+    "role": "organiser, host"
+   },
+   "texto": "Casa de la Cultura “Pintor Llorens”(Sada)"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6389,
+   "fin": 6393,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sada"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 6395,
+   "fin": 6453,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 6395,
+   "fin": 6402,
+   "rasgos": {
+    "from": "2016-10-01",
+    "to": "2016-10-31"
+   },
+   "texto": "Octubre"
+  },
+  {
+   "tipo": "title",
+   "ini": 6405,
+   "fin": 6425,
+   "texto": "“Homenaxe a Picasso”"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6429,
+   "fin": 6453,
+   "rasgos": {
+    "type": "botanicGarden"
+   },
+   "texto": "Xardín Botánico do Burgo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 6454,
+   "fin": 6506,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 6454,
+   "fin": 6466,
+   "rasgos": {
+    "from": "2017-02-01",
+    "to": "2017-02-28"
+   },
+   "texto": "2017 Febrero"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6469,
+   "fin": 6506,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser, host"
+   },
+   "texto": "Sede Afundación – A Coruña y Santiago"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6487,
+   "fin": 6495,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "A Coruña"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6498,
+   "fin": 6506,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Santiago"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 6507,
+   "fin": 6539,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 6507,
+   "fin": 6516,
+   "rasgos": {
+    "from": "2017-11-01",
+    "to": "2017-11-30"
+   },
+   "texto": "Noviembre"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6519,
+   "fin": 6539,
+   "rasgos": {
+    "type": "auditorium",
+    "role": "organiser, host"
+   },
+   "texto": "Auditorio de Arteixo"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6532,
+   "fin": 6539,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Arteixo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 6540,
+   "fin": 6571,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 6540,
+   "fin": 6550,
+   "rasgos": {
+    "from": "2018-01-01",
+    "to": "2018-01-31"
+   },
+   "texto": "2018 Enero"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6553,
+   "fin": 6571,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Lubián Art Gallery"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 6572,
+   "fin": 6595,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 6572,
+   "fin": 6577,
+   "rasgos": {
+    "from": "2018-03-01",
+    "to": "2018-03-31"
+   },
+   "texto": "Marzo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6580,
+   "fin": 6595,
+   "rasgos": {
+    "type": "library",
+    "role": "organiser, host"
+   },
+   "texto": "Librería Arenas"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 6596,
+   "fin": 6632,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 6596,
+   "fin": 6608,
+   "rasgos": {
+    "from": "2019-02-01",
+    "to": "2019-02-28"
+   },
+   "texto": "2019 Febrero"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6611,
+   "fin": 6632,
+   "rasgos": {
+    "type": "museum",
+    "role": ""
+   },
+   "texto": "Museo Casares Quiroga"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 6633,
+   "fin": 6653,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 6633,
+   "fin": 6637,
+   "rasgos": {
+    "from": "2019-08-01",
+    "to": "2019-08-31"
+   },
+   "texto": "Mayo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6640,
+   "fin": 6653,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería Spazo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 6654,
+   "fin": 6692,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 6654,
+   "fin": 6666,
+   "rasgos": {
+    "from": "2019-07-01",
+    "to": "2019-08-31"
+   },
+   "texto": "Julio-Agosto"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6669,
+   "fin": 6692,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería Spazo Colectiva"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 6693,
+   "fin": 6741,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 6693,
+   "fin": 6710,
+   "rasgos": {
+    "from": "2019-10-01",
+    "to": "2019-11-30"
+   },
+   "texto": "Octubre-Noviembre"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6713,
+   "fin": 6741,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Casa Museo Picasso Colectiva"
+  }
+ ]
+}

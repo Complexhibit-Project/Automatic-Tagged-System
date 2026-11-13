@@ -1,0 +1,2052 @@
+{
+ "id": "cat_088_limen_catalogo_art_madrid",
+ "nombre_original": "LIMEN-Catalogo-Art-Madrid",
+ "longitud_texto": 15233,
+ "sha256_texto": "cf1c9d921dc59e5127f941f625d9961614611917c022750db46b1a40c4a84588",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 109,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 19,
+   "texto": "LIMEN. EN EL UMBRAL"
+  },
+  {
+   "tipo": "person",
+   "ini": 36,
+   "fin": 50,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Nicola Mariani"
+  },
+  {
+   "tipo": "persName",
+   "ini": 36,
+   "fin": 50,
+   "texto": "Nicola Mariani"
+  },
+  {
+   "tipo": "person",
+   "ini": 52,
+   "fin": 66,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "KARINA BELTRÁN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 52,
+   "fin": 66,
+   "texto": "KARINA BELTRÁN"
+  },
+  {
+   "tipo": "person",
+   "ini": 69,
+   "fin": 79,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "DAVID CATÁ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 69,
+   "fin": 79,
+   "texto": "DAVID CATÁ"
+  },
+  {
+   "tipo": "person",
+   "ini": 82,
+   "fin": 92,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "IRENE CRUZ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 82,
+   "fin": 92,
+   "texto": "IRENE CRUZ"
+  },
+  {
+   "tipo": "person",
+   "ini": 95,
+   "fin": 109,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "VICTORIA DIEHL"
+  },
+  {
+   "tipo": "persName",
+   "ini": 95,
+   "fin": 109,
+   "texto": "VICTORIA DIEHL"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 201,
+   "fin": 207,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "person",
+   "ini": 354,
+   "fin": 368,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Nicola Mariani"
+  },
+  {
+   "tipo": "persName",
+   "ini": 354,
+   "fin": 368,
+   "texto": "Nicola Mariani"
+  },
+  {
+   "tipo": "person",
+   "ini": 375,
+   "fin": 391,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Enrique de Solís"
+  },
+  {
+   "tipo": "persName",
+   "ini": 375,
+   "fin": 391,
+   "texto": "Enrique de Solís"
+  },
+  {
+   "tipo": "institution",
+   "ini": 431,
+   "fin": 446,
+   "rasgos": {
+    "type": "hotel",
+    "role": "organiser, host"
+   },
+   "texto": "ONE SHOT HOTELS"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 724,
+   "fin": 789,
+   "rasgos": {
+    "ref": ""
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 738,
+   "fin": 757,
+   "texto": "LIMEN. En el umbral"
+  },
+  {
+   "tipo": "person",
+   "ini": 775,
+   "fin": 789,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Nicola Mariani"
+  },
+  {
+   "tipo": "persName",
+   "ini": 775,
+   "fin": 789,
+   "texto": "Nicola Mariani"
+  },
+  {
+   "tipo": "institution",
+   "ini": 989,
+   "fin": 1010,
+   "rasgos": {
+    "type": "hotel",
+    "role": "organiser, host"
+   },
+   "texto": "ONE SHOT RECOLETOS 04"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1133,
+   "fin": 1139,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "person",
+   "ini": 1179,
+   "fin": 1185,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Nicola"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1179,
+   "fin": 1185,
+   "texto": "Nicola"
+  },
+  {
+   "tipo": "person",
+   "ini": 1218,
+   "fin": 1234,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Enrique de Solís"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1218,
+   "fin": 1234,
+   "texto": "Enrique de Solís"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1338,
+   "fin": 1355,
+   "rasgos": {
+    "type": "hotel",
+    "role": "organiser, host"
+   },
+   "texto": "one shot projects"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1504,
+   "fin": 1520,
+   "rasgos": {
+    "type": "hotel",
+    "role": "organiser, host"
+   },
+   "texto": " ONE SHOT HOTELS"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1563,
+   "fin": 1580,
+   "rasgos": {
+    "type": "hotel",
+    "role": "organiser, host"
+   },
+   "texto": "ONE SHOT PROJECTS"
+  },
+  {
+   "tipo": "title",
+   "ini": 1691,
+   "fin": 1710,
+   "texto": "LIMEN. En el umbral"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1691,
+   "fin": 1710,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 1711,
+   "fin": 1725,
+   "rasgos": {
+    "role": "exhibitionCurator, author"
+   },
+   "texto": "Nicola Mariani"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1711,
+   "fin": 1725,
+   "texto": "Nicola Mariani"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1908,
+   "fin": 1920,
+   "texto": "Susan Sontag"
+  },
+  {
+   "tipo": "title",
+   "ini": 1922,
+   "fin": 1941,
+   "texto": "Sobre la fotografía"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2024,
+   "fin": 2039,
+   "texto": "Eugenio Montale"
+  },
+  {
+   "tipo": "title",
+   "ini": 2041,
+   "fin": 2050,
+   "texto": "In limine"
+  },
+  {
+   "tipo": "title",
+   "ini": 2480,
+   "fin": 2499,
+   "texto": "LIMEN. En el umbral"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 2480,
+   "fin": 2499,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 2601,
+   "fin": 2632,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Karina Beltrán\n(Tenerife, 1968)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2601,
+   "fin": 2615,
+   "texto": "Karina Beltrán"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2617,
+   "fin": 2625,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Tenerife"
+  },
+  {
+   "tipo": "date",
+   "ini": 2627,
+   "fin": 2631,
+   "rasgos": {
+    "when": "1968"
+   },
+   "texto": "1968"
+  },
+  {
+   "tipo": "person",
+   "ini": 2634,
+   "fin": 2666,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Catá (Viveiro, Lugo, 1988)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2634,
+   "fin": 2644,
+   "texto": "David Catá"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2646,
+   "fin": 2659,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Viveiro, Lugo"
+  },
+  {
+   "tipo": "date",
+   "ini": 2661,
+   "fin": 2665,
+   "rasgos": {
+    "when": "1988"
+   },
+   "texto": "1988"
+  },
+  {
+   "tipo": "person",
+   "ini": 2668,
+   "fin": 2693,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Irene Cruz (Madrid, 1987)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2668,
+   "fin": 2678,
+   "texto": "Irene Cruz"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2680,
+   "fin": 2686,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "date",
+   "ini": 2688,
+   "fin": 2692,
+   "rasgos": {
+    "when": "1987"
+   },
+   "texto": "1987"
+  },
+  {
+   "tipo": "person",
+   "ini": 2696,
+   "fin": 2728,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Victoria Diehl (La Coruña, 1978)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2696,
+   "fin": 2710,
+   "texto": "Victoria Diehl"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2712,
+   "fin": 2721,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "La Coruña"
+  },
+  {
+   "tipo": "date",
+   "ini": 2723,
+   "fin": 2727,
+   "rasgos": {
+    "when": "1978"
+   },
+   "texto": "1978"
+  },
+  {
+   "tipo": "person",
+   "ini": 3182,
+   "fin": 3196,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Karina Beltrán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3182,
+   "fin": 3196,
+   "texto": "Karina Beltrán"
+  },
+  {
+   "tipo": "person",
+   "ini": 3525,
+   "fin": 3532,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Beltrán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3525,
+   "fin": 3532,
+   "texto": "Beltrán"
+  },
+  {
+   "tipo": "title",
+   "ini": 3711,
+   "fin": 3722,
+   "texto": "Apariciones"
+  },
+  {
+   "tipo": "date",
+   "ini": 3724,
+   "fin": 3733,
+   "rasgos": {
+    "from": "2003",
+    "to": "2007"
+   },
+   "texto": "2003-2007"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4004,
+   "fin": 4020,
+   "texto": "Gopi Sadarangani"
+  },
+  {
+   "tipo": "person",
+   "ini": 4124,
+   "fin": 4134,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Catá"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4124,
+   "fin": 4134,
+   "texto": "David Catá"
+  },
+  {
+   "tipo": "person",
+   "ini": 4331,
+   "fin": 4335,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Catá"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4331,
+   "fin": 4335,
+   "texto": "Catá"
+  },
+  {
+   "tipo": "date",
+   "ini": 4732,
+   "fin": 4743,
+   "rasgos": {
+    "from": "2012",
+    "to": "2013"
+   },
+   "texto": "2012 y 2013"
+  },
+  {
+   "tipo": "title",
+   "ini": 4793,
+   "fin": 4805,
+   "texto": "Déjame volar"
+  },
+  {
+   "tipo": "title",
+   "ini": 4808,
+   "fin": 4823,
+   "texto": "Déjame volar II"
+  },
+  {
+   "tipo": "person",
+   "ini": 4841,
+   "fin": 4845,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Catá"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4841,
+   "fin": 4845,
+   "texto": "Catá"
+  },
+  {
+   "tipo": "person",
+   "ini": 4955,
+   "fin": 4965,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Catá"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4955,
+   "fin": 4965,
+   "texto": "David Catá"
+  },
+  {
+   "tipo": "person",
+   "ini": 4967,
+   "fin": 4977,
+   "rasgos": {
+    "role": "cereator"
+   },
+   "texto": "Irene Cruz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4967,
+   "fin": 4977,
+   "texto": "Irene Cruz"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5216,
+   "fin": 5224,
+   "texto": "46 x 70 "
+  },
+  {
+   "tipo": "title",
+   "ini": 5620,
+   "fin": 5655,
+   "texto": "Urlaub. Vacation: Retreat & Recover"
+  },
+  {
+   "tipo": "date",
+   "ini": 5657,
+   "fin": 5661,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "title",
+   "ini": 5664,
+   "fin": 5670,
+   "texto": "Urlaub"
+  },
+  {
+   "tipo": "person",
+   "ini": 5948,
+   "fin": 5958,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Irene Cruz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5948,
+   "fin": 5958,
+   "texto": "Irene Cruz"
+  },
+  {
+   "tipo": "person",
+   "ini": 5975,
+   "fin": 5989,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Victoria Diehl"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5975,
+   "fin": 5989,
+   "texto": "Victoria Diehl"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6395,
+   "fin": 6399,
+   "texto": "Adán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6489,
+   "fin": 6500,
+   "texto": "Dorian Gray"
+  },
+  {
+   "tipo": "title",
+   "ini": 6573,
+   "fin": 6602,
+   "texto": "Vida y muerte de las estatuas"
+  },
+  {
+   "tipo": "date",
+   "ini": 6682,
+   "fin": 6693,
+   "rasgos": {
+    "from": "2003",
+    "to": "2013"
+   },
+   "texto": "2003 y 2013"
+  },
+  {
+   "tipo": "person",
+   "ini": 7105,
+   "fin": 7110,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Diehl"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7105,
+   "fin": 7110,
+   "texto": "Diehl"
+  },
+  {
+   "tipo": "person",
+   "ini": 7807,
+   "fin": 7821,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Nicola Mariani"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7807,
+   "fin": 7821,
+   "texto": "Nicola Mariani"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 7834,
+   "fin": 14221
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 7834,
+   "fin": 9650
+  },
+  {
+   "tipo": "img",
+   "ini": 7834,
+   "fin": 7839,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 7841,
+   "fin": 9158,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "persName",
+   "ini": 7841,
+   "fin": 7855,
+   "texto": "KArina Beltrán"
+  },
+  {
+   "tipo": "birth",
+   "ini": 7879,
+   "fin": 7892
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7879,
+   "fin": 7887,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Tenerife"
+  },
+  {
+   "tipo": "date",
+   "ini": 7888,
+   "fin": 7892,
+   "rasgos": {
+    "when": "1968"
+   },
+   "texto": "1968"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 7894,
+   "fin": 7931
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7924,
+   "fin": 7930,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "person",
+   "ini": 8235,
+   "fin": 8256,
+   "texto": "Omar Pascual Castillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8235,
+   "fin": 8256,
+   "texto": "Omar Pascual Castillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 8796,
+   "fin": 8808,
+   "texto": "Antonio Zaya"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8796,
+   "fin": 8808,
+   "texto": "Antonio Zaya"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9160,
+   "fin": 9282
+  },
+  {
+   "tipo": "img",
+   "ini": 9160,
+   "fin": 9165,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9167,
+   "fin": 9282,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Karina Beltrán. Apariciones. Launderette-3.\nFotografía a color siliconada bajo metacrilato.\n160 x 116 cm. 2006-2007"
+  },
+  {
+   "tipo": "person",
+   "ini": 9167,
+   "fin": 9181,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Karina Beltrán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9167,
+   "fin": 9181,
+   "texto": "Karina Beltrán"
+  },
+  {
+   "tipo": "title",
+   "ini": 9183,
+   "fin": 9209,
+   "texto": "Apariciones. Launderette-3"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9211,
+   "fin": 9257,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía a color siliconada bajo metacrilato"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9259,
+   "fin": 9271,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "160 x 116 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 9259,
+   "fin": 9262,
+   "texto": "160"
+  },
+  {
+   "tipo": "width",
+   "ini": 9265,
+   "fin": 9268,
+   "texto": "116"
+  },
+  {
+   "tipo": "date",
+   "ini": 9273,
+   "fin": 9282,
+   "rasgos": {
+    "from": "2006",
+    "to": "2007"
+   },
+   "texto": "2006-2007"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9284,
+   "fin": 9405
+  },
+  {
+   "tipo": "img",
+   "ini": 9284,
+   "fin": 9289,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9291,
+   "fin": 9405,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Karina Beltrán. Apariciones. Launderette-6.\nFotografía a color siliconada bajo metacrilato.\n90 x 120 cm. 2006-2007"
+  },
+  {
+   "tipo": "person",
+   "ini": 9291,
+   "fin": 9305,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Karina Beltrán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9291,
+   "fin": 9305,
+   "texto": "Karina Beltrán"
+  },
+  {
+   "tipo": "title",
+   "ini": 9307,
+   "fin": 9333,
+   "texto": "Apariciones. Launderette-6"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9335,
+   "fin": 9381,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía a color siliconada bajo metacrilato"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9383,
+   "fin": 9394,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "90 x 120 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 9383,
+   "fin": 9385,
+   "texto": "90"
+  },
+  {
+   "tipo": "width",
+   "ini": 9388,
+   "fin": 9391,
+   "texto": "120"
+  },
+  {
+   "tipo": "date",
+   "ini": 9396,
+   "fin": 9405,
+   "rasgos": {
+    "from": "2006",
+    "to": "2007"
+   },
+   "texto": "2006-2007"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9407,
+   "fin": 9527
+  },
+  {
+   "tipo": "img",
+   "ini": 9407,
+   "fin": 9412,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9414,
+   "fin": 9527,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Karina Beltrán. Apariciones. Launderette-7.\nFotografía a color siliconada bajo metacrilato.\n45 x 60 cm. 2006-2007"
+  },
+  {
+   "tipo": "person",
+   "ini": 9414,
+   "fin": 9428,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Karina Beltrán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9414,
+   "fin": 9428,
+   "texto": "Karina Beltrán"
+  },
+  {
+   "tipo": "title",
+   "ini": 9430,
+   "fin": 9456,
+   "texto": "Apariciones. Launderette-7"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9458,
+   "fin": 9504,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía a color siliconada bajo metacrilato"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9506,
+   "fin": 9516,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "45 x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 9506,
+   "fin": 9508,
+   "texto": "45"
+  },
+  {
+   "tipo": "width",
+   "ini": 9511,
+   "fin": 9513,
+   "texto": "60"
+  },
+  {
+   "tipo": "date",
+   "ini": 9518,
+   "fin": 9527,
+   "rasgos": {
+    "from": "2006",
+    "to": "2007"
+   },
+   "texto": "2006-2007"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9529,
+   "fin": 9650
+  },
+  {
+   "tipo": "img",
+   "ini": 9529,
+   "fin": 9534,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9536,
+   "fin": 9650,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Karina Beltrán. Apariciones. Launderette-8.\nFotografía a color siliconada bajo metacrilato .\n45 x 60 cm. 2006-2007"
+  },
+  {
+   "tipo": "person",
+   "ini": 9536,
+   "fin": 9550,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Karina Beltrán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9536,
+   "fin": 9550,
+   "texto": "Karina Beltrán"
+  },
+  {
+   "tipo": "title",
+   "ini": 9552,
+   "fin": 9578,
+   "texto": "Apariciones. Launderette-8"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9580,
+   "fin": 9626,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía a color siliconada bajo metacrilato"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9629,
+   "fin": 9639,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "45 x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 9629,
+   "fin": 9631,
+   "texto": "45"
+  },
+  {
+   "tipo": "width",
+   "ini": 9634,
+   "fin": 9636,
+   "texto": "60"
+  },
+  {
+   "tipo": "date",
+   "ini": 9641,
+   "fin": 9650,
+   "rasgos": {
+    "from": "2006",
+    "to": "2007"
+   },
+   "texto": "2006-2007"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 9652,
+   "fin": 11000
+  },
+  {
+   "tipo": "img",
+   "ini": 9652,
+   "fin": 9657,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 9659,
+   "fin": 10842,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "persName",
+   "ini": 9659,
+   "fin": 9669,
+   "texto": "David Catá"
+  },
+  {
+   "tipo": "birth",
+   "ini": 9689,
+   "fin": 9703
+  },
+  {
+   "tipo": "date",
+   "ini": 9698,
+   "fin": 9702,
+   "rasgos": {
+    "when": "1988"
+   },
+   "texto": "1988"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 9704,
+   "fin": 9741
+  },
+  {
+   "tipo": "placeName",
+   "ini": 9734,
+   "fin": 9740,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Berlín"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10844,
+   "fin": 10882
+  },
+  {
+   "tipo": "img",
+   "ini": 10844,
+   "fin": 10849,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10851,
+   "fin": 10882,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "David Catá. Déjame volar II, 01"
+  },
+  {
+   "tipo": "person",
+   "ini": 10851,
+   "fin": 10861,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Catá"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10851,
+   "fin": 10861,
+   "texto": "David Catá"
+  },
+  {
+   "tipo": "title",
+   "ini": 10863,
+   "fin": 10882,
+   "texto": "Déjame volar II, 01"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10884,
+   "fin": 10922
+  },
+  {
+   "tipo": "img",
+   "ini": 10884,
+   "fin": 10889,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10891,
+   "fin": 10922,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "David Catá. Déjame volar II, 02"
+  },
+  {
+   "tipo": "person",
+   "ini": 10891,
+   "fin": 10901,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Catá"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10891,
+   "fin": 10901,
+   "texto": "David Catá"
+  },
+  {
+   "tipo": "title",
+   "ini": 10903,
+   "fin": 10922,
+   "texto": "Déjame volar II, 02"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10924,
+   "fin": 10961
+  },
+  {
+   "tipo": "img",
+   "ini": 10924,
+   "fin": 10929,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10931,
+   "fin": 10961,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "David Catá. Déjame volar I, 01"
+  },
+  {
+   "tipo": "person",
+   "ini": 10931,
+   "fin": 10941,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Catá"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10931,
+   "fin": 10941,
+   "texto": "David Catá"
+  },
+  {
+   "tipo": "title",
+   "ini": 10943,
+   "fin": 10961,
+   "texto": "Déjame volar I, 01"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10963,
+   "fin": 11000
+  },
+  {
+   "tipo": "img",
+   "ini": 10963,
+   "fin": 10968,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10970,
+   "fin": 11000,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "David Catá. Déjame volar I, 05"
+  },
+  {
+   "tipo": "person",
+   "ini": 10970,
+   "fin": 10980,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Catá"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10970,
+   "fin": 10980,
+   "texto": "David Catá"
+  },
+  {
+   "tipo": "title",
+   "ini": 10982,
+   "fin": 11000,
+   "texto": "Déjame volar I, 05"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 11002,
+   "fin": 12548
+  },
+  {
+   "tipo": "img",
+   "ini": 11002,
+   "fin": 11007,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 11009,
+   "fin": 12297,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "persName",
+   "ini": 11009,
+   "fin": 11019,
+   "texto": "Irene Cruz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11039,
+   "fin": 11049,
+   "texto": "Irene Cruz"
+  },
+  {
+   "tipo": "birth",
+   "ini": 11050,
+   "fin": 11056
+  },
+  {
+   "tipo": "date",
+   "ini": 11051,
+   "fin": 11055,
+   "rasgos": {
+    "when": "1987"
+   },
+   "texto": "1987"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 11057,
+   "fin": 11094
+  },
+  {
+   "tipo": "placeName",
+   "ini": 11087,
+   "fin": 11093,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Berlín"
+  },
+  {
+   "tipo": "person",
+   "ini": 12124,
+   "fin": 12134,
+   "texto": "Nati Grund"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12124,
+   "fin": 12134,
+   "texto": "Nati Grund"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12299,
+   "fin": 12359
+  },
+  {
+   "tipo": "img",
+   "ini": 12299,
+   "fin": 12304,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12306,
+   "fin": 12359,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Irene Cruz. Urlaub I. Retreat & Recover Series (2013)"
+  },
+  {
+   "tipo": "person",
+   "ini": 12306,
+   "fin": 12316,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Irene Cruz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12306,
+   "fin": 12316,
+   "texto": "Irene Cruz"
+  },
+  {
+   "tipo": "title",
+   "ini": 12318,
+   "fin": 12352,
+   "texto": "Urlaub I. Retreat & Recover Series"
+  },
+  {
+   "tipo": "date",
+   "ini": 12354,
+   "fin": 12358,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12361,
+   "fin": 12421
+  },
+  {
+   "tipo": "img",
+   "ini": 12361,
+   "fin": 12366,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12368,
+   "fin": 12421,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Irene Cruz. Urlaub V. Retreat & Recover Series (2013)"
+  },
+  {
+   "tipo": "person",
+   "ini": 12368,
+   "fin": 12378,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Irene Cruz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12368,
+   "fin": 12378,
+   "texto": "Irene Cruz"
+  },
+  {
+   "tipo": "title",
+   "ini": 12380,
+   "fin": 12414,
+   "texto": "Urlaub V. Retreat & Recover Series"
+  },
+  {
+   "tipo": "date",
+   "ini": 12416,
+   "fin": 12420,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12423,
+   "fin": 12486
+  },
+  {
+   "tipo": "img",
+   "ini": 12423,
+   "fin": 12428,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12430,
+   "fin": 12486,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Irene Cruz. Urlaub VIII. Retreat & Recover Series (2013)"
+  },
+  {
+   "tipo": "person",
+   "ini": 12430,
+   "fin": 12440,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Irene Cruz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12430,
+   "fin": 12440,
+   "texto": "Irene Cruz"
+  },
+  {
+   "tipo": "title",
+   "ini": 12442,
+   "fin": 12479,
+   "texto": "Urlaub VIII. Retreat & Recover Series"
+  },
+  {
+   "tipo": "date",
+   "ini": 12481,
+   "fin": 12485,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12488,
+   "fin": 12548
+  },
+  {
+   "tipo": "img",
+   "ini": 12488,
+   "fin": 12494,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12495,
+   "fin": 12548,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Irene Cruz. Urlaub X. Retreat & Recover Series (2013)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12495,
+   "fin": 12506,
+   "texto": "Irene Cruz."
+  },
+  {
+   "tipo": "person",
+   "ini": 12495,
+   "fin": 12505,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Irene Cruz"
+  },
+  {
+   "tipo": "title",
+   "ini": 12507,
+   "fin": 12541,
+   "texto": "Urlaub X. Retreat & Recover Series"
+  },
+  {
+   "tipo": "date",
+   "ini": 12543,
+   "fin": 12547,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 12550,
+   "fin": 14221
+  },
+  {
+   "tipo": "img",
+   "ini": 12550,
+   "fin": 12555,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 12557,
+   "fin": 13870,
+   "rasgos": {
+    "role": "creator"
+   }
+  },
+  {
+   "tipo": "persName",
+   "ini": 12557,
+   "fin": 12571,
+   "texto": "victoria diehl"
+  },
+  {
+   "tipo": "birth",
+   "ini": 12601,
+   "fin": 12633
+  },
+  {
+   "tipo": "persName",
+   "ini": 12601,
+   "fin": 12615,
+   "texto": "Victoria Diehl"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 12617,
+   "fin": 12626,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "La Coruña"
+  },
+  {
+   "tipo": "date",
+   "ini": 12628,
+   "fin": 12632,
+   "rasgos": {
+    "when": "1978"
+   },
+   "texto": "1978"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13872,
+   "fin": 13957
+  },
+  {
+   "tipo": "img",
+   "ini": 13872,
+   "fin": 13877,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 13879,
+   "fin": 13957,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Sin título. Vida y muerte de las estatuas\nFotografía digital. 110 x 78cm. 2013"
+  },
+  {
+   "tipo": "title",
+   "ini": 13879,
+   "fin": 13920,
+   "texto": "Sin título. Vida y muerte de las estatuas"
+  },
+  {
+   "tipo": "technique",
+   "ini": 13921,
+   "fin": 13939,
+   "rasgos": {
+    "type": "digitalPhotograph"
+   },
+   "texto": "Fotografía digital"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13941,
+   "fin": 13951,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "110 x 78cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 13941,
+   "fin": 13944,
+   "texto": "110"
+  },
+  {
+   "tipo": "width",
+   "ini": 13947,
+   "fin": 13949,
+   "texto": "78"
+  },
+  {
+   "tipo": "date",
+   "ini": 13953,
+   "fin": 13957,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13959,
+   "fin": 14046
+  },
+  {
+   "tipo": "img",
+   "ini": 13959,
+   "fin": 13964,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 13966,
+   "fin": 14046,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Sin título. Vida y muerte de las estatuas\nFotografía digital. 112 x 102 cm. 2003"
+  },
+  {
+   "tipo": "title",
+   "ini": 13966,
+   "fin": 14007,
+   "texto": "Sin título. Vida y muerte de las estatuas"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14008,
+   "fin": 14026,
+   "rasgos": {
+    "type": "digitalPhotograph"
+   },
+   "texto": "Fotografía digital"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14028,
+   "fin": 14040,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "112 x 102 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14028,
+   "fin": 14031,
+   "texto": "112"
+  },
+  {
+   "tipo": "width",
+   "ini": 14034,
+   "fin": 14037,
+   "texto": "102"
+  },
+  {
+   "tipo": "date",
+   "ini": 14042,
+   "fin": 14046,
+   "rasgos": {
+    "when": "2003"
+   },
+   "texto": "2003"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14048,
+   "fin": 14134
+  },
+  {
+   "tipo": "img",
+   "ini": 14048,
+   "fin": 14053,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14055,
+   "fin": 14134,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Sin título. Vida y muerte de las estatuas\nFotografía digital. 123 x 86 cm. 2004"
+  },
+  {
+   "tipo": "title",
+   "ini": 14055,
+   "fin": 14096,
+   "texto": "Sin título. Vida y muerte de las estatuas"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14097,
+   "fin": 14115,
+   "rasgos": {
+    "type": "digitalPhotograph"
+   },
+   "texto": "Fotografía digital"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14117,
+   "fin": 14128,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "123 x 86 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14117,
+   "fin": 14120,
+   "texto": "123"
+  },
+  {
+   "tipo": "width",
+   "ini": 14123,
+   "fin": 14125,
+   "texto": "86"
+  },
+  {
+   "tipo": "date",
+   "ini": 14130,
+   "fin": 14134,
+   "rasgos": {
+    "when": "2004"
+   },
+   "texto": "2004"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14136,
+   "fin": 14221
+  },
+  {
+   "tipo": "img",
+   "ini": 14136,
+   "fin": 14141,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14143,
+   "fin": 14221,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Sin título. Vida y muerte de las estatuas\nFotografía digital. 125 x 78cm. 2003"
+  },
+  {
+   "tipo": "title",
+   "ini": 14143,
+   "fin": 14184,
+   "texto": "Sin título. Vida y muerte de las estatuas"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14185,
+   "fin": 14203,
+   "rasgos": {
+    "type": "digitalPhotograph"
+   },
+   "texto": "Fotografía digital"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14205,
+   "fin": 14215,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "125 x 78cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14205,
+   "fin": 14208,
+   "texto": "125"
+  },
+  {
+   "tipo": "width",
+   "ini": 14211,
+   "fin": 14213,
+   "texto": "78"
+  },
+  {
+   "tipo": "date",
+   "ini": 14217,
+   "fin": 14221,
+   "rasgos": {
+    "when": "2003"
+   },
+   "texto": "2003"
+  },
+  {
+   "tipo": "person",
+   "ini": 14223,
+   "fin": 15232,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   }
+  },
+  {
+   "tipo": "persName",
+   "ini": 14223,
+   "fin": 14237,
+   "texto": "Nicola Mariani"
+  },
+  {
+   "tipo": "birth",
+   "ini": 14260,
+   "fin": 14282
+  },
+  {
+   "tipo": "placeName",
+   "ini": 14260,
+   "fin": 14276,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Perugia (Italia)"
+  },
+  {
+   "tipo": "date",
+   "ini": 14278,
+   "fin": 14282,
+   "rasgos": {
+    "when": "1972"
+   },
+   "texto": "1972"
+  }
+ ]
+}

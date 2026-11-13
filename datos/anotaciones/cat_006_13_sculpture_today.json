@@ -1,0 +1,5398 @@
+{
+ "id": "cat_006_13_sculpture_today",
+ "nombre_original": "13. SCULPTURE TODAY",
+ "longitud_texto": 9647,
+ "sha256_texto": "57a873041896faa8bd60ea048f8a335bb1d65bf6c19841799088efa68978f29a",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "work",
+   "ini": 0,
+   "fin": 24,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "6 MARY CALLERY THE CURVE"
+  },
+  {
+   "tipo": "person",
+   "ini": 2,
+   "fin": 14,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MARY CALLERY"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2,
+   "fin": 14,
+   "texto": "MARY CALLERY"
+  },
+  {
+   "tipo": "title",
+   "ini": 15,
+   "fin": 24,
+   "texto": "THE CURVE"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 26,
+   "fin": 137,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 26,
+   "fin": 41,
+   "texto": "SCULPTURE TODAY"
+  },
+  {
+   "tipo": "date",
+   "ini": 42,
+   "fin": 77,
+   "rasgos": {
+    "from": "1947-11-02",
+    "to": "1947-12-14"
+   },
+   "texto": "NOVEMBER 2 through DECEMBER 14\n1947"
+  },
+  {
+   "tipo": "institution",
+   "ini": 79,
+   "fin": 103,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "THE TOLEDO MUSEUM OF ART"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 83,
+   "fin": 89,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "TOLEDO"
+  },
+  {
+   "tipo": "person",
+   "ini": 115,
+   "fin": 137,
+   "rasgos": {
+    "role": "funder"
+   },
+   "texto": "EDWARD DRUMMOND LIBBEY"
+  },
+  {
+   "tipo": "persName",
+   "ini": 115,
+   "fin": 137,
+   "texto": "EDWARD DRUMMOND LIBBEY"
+  },
+  {
+   "tipo": "work",
+   "ini": 3042,
+   "fin": 3073,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "38 HENRY MOORE RECLINING FIGURE"
+  },
+  {
+   "tipo": "person",
+   "ini": 3045,
+   "fin": 3056,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "HENRY MOORE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3045,
+   "fin": 3056,
+   "texto": "HENRY MOORE"
+  },
+  {
+   "tipo": "title",
+   "ini": 3057,
+   "fin": 3073,
+   "texto": "RECLINING FIGURE"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 3600,
+   "fin": 9528
+  },
+  {
+   "tipo": "work",
+   "ini": 3611,
+   "fin": 3693,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Humbert Albrizio American, 1901—\n1 Torso Lent by Kraushaar Art Galleries, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3611,
+   "fin": 3693
+  },
+  {
+   "tipo": "person",
+   "ini": 3611,
+   "fin": 3643,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Humbert Albrizio American, 1901—"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3611,
+   "fin": 3627,
+   "texto": "Humbert Albrizio"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 3628,
+   "fin": 3636
+  },
+  {
+   "tipo": "birth",
+   "ini": 3638,
+   "fin": 3643
+  },
+  {
+   "tipo": "date",
+   "ini": 3638,
+   "fin": 3642,
+   "rasgos": {
+    "when": "1901"
+   },
+   "texto": "1901"
+  },
+  {
+   "tipo": "title",
+   "ini": 3646,
+   "fin": 3651,
+   "texto": "Torso"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3660,
+   "fin": 3693,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Kraushaar Art Galleries, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3685,
+   "fin": 3693,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 3695,
+   "fin": 3781,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Emile Antoine Bourdelle French, 1861-1929-\n2 Heracles, Archer The Toledo Museum of Art"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3695,
+   "fin": 3781
+  },
+  {
+   "tipo": "person",
+   "ini": 3695,
+   "fin": 3737,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Emile Antoine Bourdelle French, 1861-1929-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3695,
+   "fin": 3718,
+   "texto": "Emile Antoine Bourdelle"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 3719,
+   "fin": 3725
+  },
+  {
+   "tipo": "date",
+   "ini": 3727,
+   "fin": 3736,
+   "rasgos": {
+    "from": "1861",
+    "to": "1929"
+   },
+   "texto": "1861-1929"
+  },
+  {
+   "tipo": "birth",
+   "ini": 3727,
+   "fin": 3731
+  },
+  {
+   "tipo": "death",
+   "ini": 3732,
+   "fin": 3736
+  },
+  {
+   "tipo": "title",
+   "ini": 3740,
+   "fin": 3756,
+   "texto": "Heracles, Archer"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3757,
+   "fin": 3781,
+   "rasgos": {
+    "type": "museum",
+    "role": "lender"
+   },
+   "texto": "The Toledo Museum of Art"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3761,
+   "fin": 3767,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Toledo"
+  },
+  {
+   "tipo": "work",
+   "ini": 3783,
+   "fin": 3852,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "LeRoy K. Burkett American, 1920—\n3 Fish Lent by the artist, Iowa City"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3783,
+   "fin": 3852
+  },
+  {
+   "tipo": "person",
+   "ini": 3783,
+   "fin": 3815,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "LeRoy K. Burkett American, 1920—"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3783,
+   "fin": 3799,
+   "texto": "LeRoy K. Burkett"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 3800,
+   "fin": 3808
+  },
+  {
+   "tipo": "birth",
+   "ini": 3810,
+   "fin": 3815
+  },
+  {
+   "tipo": "date",
+   "ini": 3810,
+   "fin": 3814,
+   "rasgos": {
+    "when": "1920"
+   },
+   "texto": "1920"
+  },
+  {
+   "tipo": "title",
+   "ini": 3818,
+   "fin": 3822,
+   "texto": "Fish"
+  },
+  {
+   "tipo": "person",
+   "ini": 3831,
+   "fin": 3852,
+   "rasgos": {
+    "role": "lender"
+   },
+   "texto": "the artist, Iowa City"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3843,
+   "fin": 3852,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Iowa City"
+  },
+  {
+   "tipo": "work",
+   "ini": 3854,
+   "fin": 3936,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Alexander Calder American, 1898-\n4 Table Mobile Lent by Buchholz Gallery, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3854,
+   "fin": 3936
+  },
+  {
+   "tipo": "person",
+   "ini": 3854,
+   "fin": 3886,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexander Calder American, 1898-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3854,
+   "fin": 3870,
+   "texto": "Alexander Calder"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 3871,
+   "fin": 3879
+  },
+  {
+   "tipo": "birth",
+   "ini": 3881,
+   "fin": 3886
+  },
+  {
+   "tipo": "date",
+   "ini": 3881,
+   "fin": 3885,
+   "rasgos": {
+    "when": "1898"
+   },
+   "texto": "1898"
+  },
+  {
+   "tipo": "title",
+   "ini": 3889,
+   "fin": 3901,
+   "texto": "Table Mobile"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3910,
+   "fin": 3936,
+   "rasgos": {
+    "type": "museum",
+    "role": "gallery"
+   },
+   "texto": "Buchholz Gallery, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3928,
+   "fin": 3936,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 3938,
+   "fin": 3987,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Mary Callery American, 1903-\n5 Song of the Desert"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3938,
+   "fin": 3987
+  },
+  {
+   "tipo": "person",
+   "ini": 3938,
+   "fin": 3966,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mary Callery American, 1903-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3938,
+   "fin": 3950,
+   "texto": "Mary Callery"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 3951,
+   "fin": 3959
+  },
+  {
+   "tipo": "birth",
+   "ini": 3961,
+   "fin": 3966
+  },
+  {
+   "tipo": "date",
+   "ini": 3961,
+   "fin": 3965,
+   "rasgos": {
+    "when": "1903"
+   },
+   "texto": "1903"
+  },
+  {
+   "tipo": "work",
+   "ini": 3988,
+   "fin": 4034,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "6 The Curve Lent by Buchholz Gallery, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3988,
+   "fin": 4034
+  },
+  {
+   "tipo": "title",
+   "ini": 3990,
+   "fin": 3999,
+   "texto": "The Curve"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4008,
+   "fin": 4034,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Buchholz Gallery, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4026,
+   "fin": 4034,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 4036,
+   "fin": 4107,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Helen Kae Carter American, 1922-\n7 Figure Lent by the artist, Iowa City"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4036,
+   "fin": 4107
+  },
+  {
+   "tipo": "person",
+   "ini": 4036,
+   "fin": 4068,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Helen Kae Carter American, 1922-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4036,
+   "fin": 4052,
+   "texto": "Helen Kae Carter"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 4053,
+   "fin": 4061
+  },
+  {
+   "tipo": "birth",
+   "ini": 4063,
+   "fin": 4068
+  },
+  {
+   "tipo": "date",
+   "ini": 4063,
+   "fin": 4067,
+   "rasgos": {
+    "when": "1922"
+   },
+   "texto": "1922"
+  },
+  {
+   "tipo": "title",
+   "ini": 4071,
+   "fin": 4077,
+   "texto": "Figure"
+  },
+  {
+   "tipo": "person",
+   "ini": 4086,
+   "fin": 4107,
+   "rasgos": {
+    "role": "lender"
+   },
+   "texto": "the artist, Iowa City"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4098,
+   "fin": 4107,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Iowa City"
+  },
+  {
+   "tipo": "work",
+   "ini": 4109,
+   "fin": 4174,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Houston Chandler American\n8 Rooster Lent by the artist, St. Louis"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4109,
+   "fin": 4174
+  },
+  {
+   "tipo": "person",
+   "ini": 4109,
+   "fin": 4134,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Houston Chandler American"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4109,
+   "fin": 4125,
+   "texto": "Houston Chandler"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 4126,
+   "fin": 4134
+  },
+  {
+   "tipo": "title",
+   "ini": 4137,
+   "fin": 4144,
+   "texto": "Rooster"
+  },
+  {
+   "tipo": "person",
+   "ini": 4153,
+   "fin": 4174,
+   "rasgos": {
+    "role": "lender"
+   },
+   "texto": "the artist, St. Louis"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4165,
+   "fin": 4174,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "St. Louis"
+  },
+  {
+   "tipo": "work",
+   "ini": 4176,
+   "fin": 4250,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Jose de Creeft Spanish, 1884-\n9 Slaves Lent by Passedoit Gallery, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4176,
+   "fin": 4250
+  },
+  {
+   "tipo": "person",
+   "ini": 4176,
+   "fin": 4205,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jose de Creeft Spanish, 1884-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4176,
+   "fin": 4190,
+   "texto": "Jose de Creeft"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 4191,
+   "fin": 4198
+  },
+  {
+   "tipo": "birth",
+   "ini": 4200,
+   "fin": 4205
+  },
+  {
+   "tipo": "date",
+   "ini": 4200,
+   "fin": 4204,
+   "rasgos": {
+    "when": "1884"
+   },
+   "texto": "1884"
+  },
+  {
+   "tipo": "title",
+   "ini": 4208,
+   "fin": 4214,
+   "texto": "Slaves"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4223,
+   "fin": 4250,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Passedoit Gallery, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4242,
+   "fin": 4250,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 4252,
+   "fin": 4361,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Marina Nunez del Prado Bolivian, 1912-\n10 Mother Earth Lent by Associated American Artist Galleries, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4252,
+   "fin": 4361
+  },
+  {
+   "tipo": "person",
+   "ini": 4252,
+   "fin": 4290,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Marina Nunez del Prado Bolivian, 1912-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4252,
+   "fin": 4274,
+   "texto": "Marina Nunez del Prado"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 4275,
+   "fin": 4283
+  },
+  {
+   "tipo": "birth",
+   "ini": 4285,
+   "fin": 4290
+  },
+  {
+   "tipo": "date",
+   "ini": 4285,
+   "fin": 4289,
+   "rasgos": {
+    "when": "1912"
+   },
+   "texto": "1912"
+  },
+  {
+   "tipo": "title",
+   "ini": 4294,
+   "fin": 4306,
+   "texto": "Mother Earth"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4315,
+   "fin": 4361,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Associated American Artist Galleries, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4353,
+   "fin": 4361,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 4363,
+   "fin": 4465,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Jose Ruiz de Rivera American, 1904-\n11 Red, Yellow and Steel Lent by Mortimer Levitt Gallery, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4363,
+   "fin": 4465
+  },
+  {
+   "tipo": "person",
+   "ini": 4363,
+   "fin": 4398,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jose Ruiz de Rivera American, 1904-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4363,
+   "fin": 4382,
+   "texto": "Jose Ruiz de Rivera"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 4383,
+   "fin": 4391
+  },
+  {
+   "tipo": "birth",
+   "ini": 4393,
+   "fin": 4398
+  },
+  {
+   "tipo": "date",
+   "ini": 4393,
+   "fin": 4397,
+   "rasgos": {
+    "when": "1904"
+   },
+   "texto": "1904"
+  },
+  {
+   "tipo": "title",
+   "ini": 4402,
+   "fin": 4423,
+   "texto": "Red, Yellow and Steel"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4432,
+   "fin": 4465,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Mortimer Levitt Gallery, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4457,
+   "fin": 4465,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 4467,
+   "fin": 4543,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Charles Despiau French, 1874-1946-\n12 Head of a Boy The Toledo Museum of Art"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4467,
+   "fin": 4543
+  },
+  {
+   "tipo": "person",
+   "ini": 4467,
+   "fin": 4501,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Charles Despiau French, 1874-1946-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4467,
+   "fin": 4482,
+   "texto": "Charles Despiau"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 4483,
+   "fin": 4489
+  },
+  {
+   "tipo": "date",
+   "ini": 4491,
+   "fin": 4500,
+   "rasgos": {
+    "from": "1874",
+    "to": "1946"
+   },
+   "texto": "1874-1946"
+  },
+  {
+   "tipo": "birth",
+   "ini": 4491,
+   "fin": 4495
+  },
+  {
+   "tipo": "death",
+   "ini": 4496,
+   "fin": 4500
+  },
+  {
+   "tipo": "title",
+   "ini": 4505,
+   "fin": 4518,
+   "texto": "Head of a Boy"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4519,
+   "fin": 4543,
+   "rasgos": {
+    "type": "museum",
+    "role": "lender"
+   },
+   "texto": "The Toledo Museum of Art"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4523,
+   "fin": 4529,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Toledo"
+  },
+  {
+   "tipo": "work",
+   "ini": 4545,
+   "fin": 4627,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Raymond Duchamp-Villon French, 1876-1918\n13 Cat Lent by Detroit Institute of Arts\n"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4545,
+   "fin": 4626
+  },
+  {
+   "tipo": "person",
+   "ini": 4545,
+   "fin": 4585,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Raymond Duchamp-Villon French, 1876-1918"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4545,
+   "fin": 4567,
+   "texto": "Raymond Duchamp-Villon"
+  },
+  {
+   "tipo": "date",
+   "ini": 4576,
+   "fin": 4585,
+   "rasgos": {
+    "from": "1876",
+    "to": "1918"
+   },
+   "texto": "1876-1918"
+  },
+  {
+   "tipo": "birth",
+   "ini": 4576,
+   "fin": 4580
+  },
+  {
+   "tipo": "death",
+   "ini": 4581,
+   "fin": 4585
+  },
+  {
+   "tipo": "title",
+   "ini": 4589,
+   "fin": 4592,
+   "texto": "Cat"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4601,
+   "fin": 4626,
+   "rasgos": {
+    "type": "institute",
+    "role": "lender"
+   },
+   "texto": "Detroit Institute of Arts"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4601,
+   "fin": 4608,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Detroit"
+  },
+  {
+   "tipo": "work",
+   "ini": 4628,
+   "fin": 4707,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Jacob Epstein American, 1880-\n14 Mlle. Gabrielle Soene The Toledo Museum of Art"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4628,
+   "fin": 4707
+  },
+  {
+   "tipo": "person",
+   "ini": 4628,
+   "fin": 4657,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jacob Epstein American, 1880-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4628,
+   "fin": 4641,
+   "texto": "Jacob Epstein"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 4642,
+   "fin": 4650
+  },
+  {
+   "tipo": "birth",
+   "ini": 4652,
+   "fin": 4657
+  },
+  {
+   "tipo": "date",
+   "ini": 4652,
+   "fin": 4656,
+   "rasgos": {
+    "when": "180"
+   },
+   "texto": "1880"
+  },
+  {
+   "tipo": "title",
+   "ini": 4661,
+   "fin": 4682,
+   "texto": "Mlle. Gabrielle Soene"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4683,
+   "fin": 4707,
+   "rasgos": {
+    "type": "museum",
+    "role": "lender"
+   },
+   "texto": "The Toledo Museum of Art"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4687,
+   "fin": 4693,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Toledo"
+  },
+  {
+   "tipo": "work",
+   "ini": 4709,
+   "fin": 4783,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Herbert Ferber American, 1906-\n15 Hero Lent by Midtown Galleries, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4709,
+   "fin": 4783
+  },
+  {
+   "tipo": "person",
+   "ini": 4709,
+   "fin": 4739,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Herbert Ferber American, 1906-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4709,
+   "fin": 4723,
+   "texto": "Herbert Ferber"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 4724,
+   "fin": 4732
+  },
+  {
+   "tipo": "birth",
+   "ini": 4734,
+   "fin": 4739
+  },
+  {
+   "tipo": "date",
+   "ini": 4734,
+   "fin": 4738,
+   "rasgos": {
+    "when": "1906"
+   },
+   "texto": "1906"
+  },
+  {
+   "tipo": "title",
+   "ini": 4743,
+   "fin": 4747,
+   "texto": "Hero"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4756,
+   "fin": 4783,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Midtown Galleries, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4775,
+   "fin": 4783,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 4785,
+   "fin": 4895,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "John Flannagan American, 1898-1942\n16 Monkey and Young Lent by Addison Gallery of American Art, Andover, Mass."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4785,
+   "fin": 4895
+  },
+  {
+   "tipo": "person",
+   "ini": 4785,
+   "fin": 4819,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "John Flannagan American, 1898-1942"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4785,
+   "fin": 4799,
+   "texto": "John Flannagan"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 4800,
+   "fin": 4808
+  },
+  {
+   "tipo": "date",
+   "ini": 4810,
+   "fin": 4819,
+   "rasgos": {
+    "from": "1898",
+    "to": "1942"
+   },
+   "texto": "1898-1942"
+  },
+  {
+   "tipo": "birth",
+   "ini": 4810,
+   "fin": 4814
+  },
+  {
+   "tipo": "death",
+   "ini": 4815,
+   "fin": 4819
+  },
+  {
+   "tipo": "title",
+   "ini": 4823,
+   "fin": 4839,
+   "texto": "Monkey and Young"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4848,
+   "fin": 4895,
+   "rasgos": {
+    "type": "museum",
+    "role": "lender"
+   },
+   "texto": "Addison Gallery of American Art, Andover, Mass."
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4881,
+   "fin": 4895,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Andover, Mass."
+  },
+  {
+   "tipo": "work",
+   "ini": 4896,
+   "fin": 4940,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "17 These Two Lent by Weyhe Gallery, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4896,
+   "fin": 4940
+  },
+  {
+   "tipo": "title",
+   "ini": 4899,
+   "fin": 4908,
+   "texto": "These Two"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4917,
+   "fin": 4940,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Weyhe Gallery, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4932,
+   "fin": 4940,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4942,
+   "fin": 5020
+  },
+  {
+   "tipo": "work",
+   "ini": 4942,
+   "fin": 5019,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Peter Grippe American, 1912-\n18 Abstraction Lent by Willard Gallery, New York"
+  },
+  {
+   "tipo": "person",
+   "ini": 4942,
+   "fin": 4970,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Peter Grippe American, 1912-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4942,
+   "fin": 4954,
+   "texto": "Peter Grippe"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 4955,
+   "fin": 4963
+  },
+  {
+   "tipo": "birth",
+   "ini": 4965,
+   "fin": 4970
+  },
+  {
+   "tipo": "date",
+   "ini": 4965,
+   "fin": 4969,
+   "rasgos": {
+    "when": "1912"
+   },
+   "texto": "1912"
+  },
+  {
+   "tipo": "title",
+   "ini": 4974,
+   "fin": 4985,
+   "texto": "Abstraction"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4994,
+   "fin": 5019,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Willard Gallery, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5011,
+   "fin": 5019,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 5021,
+   "fin": 5112,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Chaim Gross American, 1904-\n19 Mimi Lent by Associated American Artists Galleries, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5021,
+   "fin": 5112
+  },
+  {
+   "tipo": "person",
+   "ini": 5021,
+   "fin": 5048,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chaim Gross American, 1904-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5021,
+   "fin": 5032,
+   "texto": "Chaim Gross"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 5033,
+   "fin": 5041
+  },
+  {
+   "tipo": "birth",
+   "ini": 5043,
+   "fin": 5048
+  },
+  {
+   "tipo": "date",
+   "ini": 5043,
+   "fin": 5047,
+   "rasgos": {
+    "when": "1904"
+   },
+   "texto": "1904"
+  },
+  {
+   "tipo": "title",
+   "ini": 5052,
+   "fin": 5056,
+   "texto": "Mimi"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5065,
+   "fin": 5112,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Associated American Artists Galleries, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5104,
+   "fin": 5112,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 5114,
+   "fin": 5189,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Alonzo Hauser American\n20 Emergence Lent by the artist, St. Paul, Minnesota"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5114,
+   "fin": 5189
+  },
+  {
+   "tipo": "person",
+   "ini": 5114,
+   "fin": 5136,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alonzo Hauser American"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5114,
+   "fin": 5127,
+   "texto": "Alonzo Hauser"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 5128,
+   "fin": 5136
+  },
+  {
+   "tipo": "title",
+   "ini": 5140,
+   "fin": 5149,
+   "texto": "Emergence"
+  },
+  {
+   "tipo": "person",
+   "ini": 5158,
+   "fin": 5189,
+   "rasgos": {
+    "role": "lender"
+   },
+   "texto": "the artist, St. Paul, Minnesota"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5170,
+   "fin": 5189,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "St. Paul, Minnesota"
+  },
+  {
+   "tipo": "work",
+   "ini": 5191,
+   "fin": 5269,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Maude Phelps Hutchins American\n21 Reclining Figure Lent by the artist, Chicago"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5191,
+   "fin": 5269
+  },
+  {
+   "tipo": "person",
+   "ini": 5191,
+   "fin": 5221,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Maude Phelps Hutchins American"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5191,
+   "fin": 5212,
+   "texto": "Maude Phelps Hutchins"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 5213,
+   "fin": 5221
+  },
+  {
+   "tipo": "title",
+   "ini": 5225,
+   "fin": 5241,
+   "texto": "Reclining Figure"
+  },
+  {
+   "tipo": "person",
+   "ini": 5250,
+   "fin": 5269,
+   "rasgos": {
+    "role": "lender"
+   },
+   "texto": "the artist, Chicago"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5262,
+   "fin": 5269,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Chicago"
+  },
+  {
+   "tipo": "work",
+   "ini": 5271,
+   "fin": 5313,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Hortense Kassoy American, 1917-\n22 Embrace"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5271,
+   "fin": 5313
+  },
+  {
+   "tipo": "person",
+   "ini": 5271,
+   "fin": 5302,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Hortense Kassoy American, 1917-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5271,
+   "fin": 5286,
+   "texto": "Hortense Kassoy"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 5287,
+   "fin": 5295
+  },
+  {
+   "tipo": "birth",
+   "ini": 5297,
+   "fin": 5302
+  },
+  {
+   "tipo": "date",
+   "ini": 5297,
+   "fin": 5301,
+   "rasgos": {
+    "when": "1917"
+   },
+   "texto": "1917"
+  },
+  {
+   "tipo": "title",
+   "ini": 5306,
+   "fin": 5313,
+   "texto": "Embrace"
+  },
+  {
+   "tipo": "work",
+   "ini": 5314,
+   "fin": 5363,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "23 The Pose Lent by The New-Age Gallery, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5314,
+   "fin": 5363
+  },
+  {
+   "tipo": "title",
+   "ini": 5317,
+   "fin": 5325,
+   "texto": "The Pose"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5334,
+   "fin": 5363,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "The New-Age Gallery, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5355,
+   "fin": 5363,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 5365,
+   "fin": 5436,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Georg Kolbe German, 1877-\n24 Adagio Lent by The Cleveland Museum of Art"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5365,
+   "fin": 5436
+  },
+  {
+   "tipo": "person",
+   "ini": 5365,
+   "fin": 5390,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Georg Kolbe German, 1877-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5365,
+   "fin": 5376,
+   "texto": "Georg Kolbe"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 5377,
+   "fin": 5383
+  },
+  {
+   "tipo": "birth",
+   "ini": 5385,
+   "fin": 5390
+  },
+  {
+   "tipo": "date",
+   "ini": 5385,
+   "fin": 5389,
+   "rasgos": {
+    "when": "1877"
+   },
+   "texto": "1877"
+  },
+  {
+   "tipo": "title",
+   "ini": 5394,
+   "fin": 5400,
+   "texto": "Adagio"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5409,
+   "fin": 5436,
+   "rasgos": {
+    "type": "museum",
+    "role": "lender"
+   },
+   "texto": "The Cleveland Museum of Art"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5413,
+   "fin": 5422,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Cleveland"
+  },
+  {
+   "tipo": "work",
+   "ini": 5437,
+   "fin": 5476,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "25 Seated Girl The Toledo Museum of Art"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5437,
+   "fin": 5476
+  },
+  {
+   "tipo": "title",
+   "ini": 5440,
+   "fin": 5451,
+   "texto": "Seated Girl"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5452,
+   "fin": 5476,
+   "rasgos": {
+    "type": "museum",
+    "role": "lender"
+   },
+   "texto": "The Toledo Museum of Art"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5456,
+   "fin": 5462,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Toledo"
+  },
+  {
+   "tipo": "work",
+   "ini": 5478,
+   "fin": 5556,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Carol Kottke American, 1924-\n26 Abstraction Lent by Miss Kathryn Bloom, Toledo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5478,
+   "fin": 5556
+  },
+  {
+   "tipo": "person",
+   "ini": 5478,
+   "fin": 5506,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carol Kottke American, 1924-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5478,
+   "fin": 5490,
+   "texto": "Carol Kottke"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 5491,
+   "fin": 5499
+  },
+  {
+   "tipo": "birth",
+   "ini": 5501,
+   "fin": 5506
+  },
+  {
+   "tipo": "date",
+   "ini": 5501,
+   "fin": 5505,
+   "rasgos": {
+    "when": "1924"
+   },
+   "texto": "1924"
+  },
+  {
+   "tipo": "title",
+   "ini": 5510,
+   "fin": 5521,
+   "texto": "Abstraction"
+  },
+  {
+   "tipo": "person",
+   "ini": 5530,
+   "fin": 5556,
+   "rasgos": {
+    "role": "lender"
+   },
+   "texto": "Miss Kathryn Bloom, Toledo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5535,
+   "fin": 5548,
+   "texto": "Kathryn Bloom"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5550,
+   "fin": 5556,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Toledo"
+  },
+  {
+   "tipo": "work",
+   "ini": 5558,
+   "fin": 5644,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Gaston LaChaise French, 1882-1935\n27 Floating Figure Lent by Detroit Institute of Arts"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5558,
+   "fin": 5644
+  },
+  {
+   "tipo": "person",
+   "ini": 5558,
+   "fin": 5591,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gaston LaChaise French, 1882-1935"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5558,
+   "fin": 5573,
+   "texto": "Gaston LaChaise"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 5574,
+   "fin": 5580
+  },
+  {
+   "tipo": "date",
+   "ini": 5582,
+   "fin": 5591,
+   "rasgos": {
+    "from": "1882",
+    "to": "1935"
+   },
+   "texto": "1882-1935"
+  },
+  {
+   "tipo": "birth",
+   "ini": 5582,
+   "fin": 5586
+  },
+  {
+   "tipo": "death",
+   "ini": 5587,
+   "fin": 5591
+  },
+  {
+   "tipo": "title",
+   "ini": 5595,
+   "fin": 5610,
+   "texto": "Floating Figure"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5619,
+   "fin": 5644,
+   "rasgos": {
+    "type": "institute",
+    "role": "lender"
+   },
+   "texto": "Detroit Institute of Arts"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5619,
+   "fin": 5626,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Detroit"
+  },
+  {
+   "tipo": "work",
+   "ini": 5646,
+   "fin": 5726,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Henri Laurens French, 1885-\n28 Kneeling Woman Lent by Buchholz Gallery, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5646,
+   "fin": 5726
+  },
+  {
+   "tipo": "person",
+   "ini": 5646,
+   "fin": 5673,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Henri Laurens French, 1885-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5646,
+   "fin": 5659,
+   "texto": "Henri Laurens"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 5660,
+   "fin": 5666
+  },
+  {
+   "tipo": "birth",
+   "ini": 5668,
+   "fin": 5673
+  },
+  {
+   "tipo": "date",
+   "ini": 5668,
+   "fin": 5672,
+   "rasgos": {
+    "when": "1885"
+   },
+   "texto": "1885"
+  },
+  {
+   "tipo": "title",
+   "ini": 5677,
+   "fin": 5691,
+   "texto": "Kneeling Woman"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5700,
+   "fin": 5726,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Buchholz Gallery, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5718,
+   "fin": 5726,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 5728,
+   "fin": 5818,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Robert Laurent American, 1890-\n29 Reclining Nude Lent by Kraushaar Art Galleries, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5728,
+   "fin": 5818
+  },
+  {
+   "tipo": "person",
+   "ini": 5728,
+   "fin": 5758,
+   "rasgos": {
+    "role": ""
+   },
+   "texto": "Robert Laurent American, 1890-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5728,
+   "fin": 5742,
+   "texto": "Robert Laurent"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 5743,
+   "fin": 5751
+  },
+  {
+   "tipo": "birth",
+   "ini": 5753,
+   "fin": 5758
+  },
+  {
+   "tipo": "date",
+   "ini": 5753,
+   "fin": 5757,
+   "rasgos": {
+    "when": "1890"
+   },
+   "texto": "1890"
+  },
+  {
+   "tipo": "title",
+   "ini": 5762,
+   "fin": 5776,
+   "texto": "Reclining Nude"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5785,
+   "fin": 5818,
+   "rasgos": {
+    "type": "gallery",
+    "role": "museum"
+   },
+   "texto": "Kraushaar Art Galleries, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5810,
+   "fin": 5818,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 5820,
+   "fin": 5901,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Richard Lippold American, 1915-\n30 Sonnet No. 2 Lent by Willard Gallery, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5820,
+   "fin": 5901
+  },
+  {
+   "tipo": "person",
+   "ini": 5820,
+   "fin": 5851,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Richard Lippold American, 1915-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5820,
+   "fin": 5835,
+   "texto": "Richard Lippold"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 5836,
+   "fin": 5844
+  },
+  {
+   "tipo": "birth",
+   "ini": 5846,
+   "fin": 5851
+  },
+  {
+   "tipo": "date",
+   "ini": 5846,
+   "fin": 5850,
+   "rasgos": {
+    "when": "1915"
+   },
+   "texto": "1915"
+  },
+  {
+   "tipo": "title",
+   "ini": 5855,
+   "fin": 5867,
+   "texto": "Sonnet No. 2"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5876,
+   "fin": 5901,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Willard Gallery, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5893,
+   "fin": 5901,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 5903,
+   "fin": 5979,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Jacques Lipchitz French, 1891-\n31 Orpheus Lent by Buchholz Gallery, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5903,
+   "fin": 5979
+  },
+  {
+   "tipo": "person",
+   "ini": 5903,
+   "fin": 5933,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jacques Lipchitz French, 1891-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5903,
+   "fin": 5919,
+   "texto": "Jacques Lipchitz"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 5920,
+   "fin": 5926
+  },
+  {
+   "tipo": "birth",
+   "ini": 5928,
+   "fin": 5933
+  },
+  {
+   "tipo": "date",
+   "ini": 5928,
+   "fin": 5932,
+   "rasgos": {
+    "when": "1891"
+   },
+   "texto": "1891"
+  },
+  {
+   "tipo": "title",
+   "ini": 5937,
+   "fin": 5944,
+   "texto": "Orpheus"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5953,
+   "fin": 5979,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Buchholz Gallery, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5971,
+   "fin": 5979,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 5981,
+   "fin": 6014,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Gwen Lux American, 1908-\n32 Leona"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5981,
+   "fin": 6014
+  },
+  {
+   "tipo": "person",
+   "ini": 5981,
+   "fin": 6005,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gwen Lux American, 1908-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5981,
+   "fin": 5989,
+   "texto": "Gwen Lux"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 5990,
+   "fin": 5998
+  },
+  {
+   "tipo": "birth",
+   "ini": 6000,
+   "fin": 6005
+  },
+  {
+   "tipo": "date",
+   "ini": 6000,
+   "fin": 6004,
+   "rasgos": {
+    "when": "1908"
+   },
+   "texto": "1908"
+  },
+  {
+   "tipo": "title",
+   "ini": 6009,
+   "fin": 6014,
+   "texto": "Leona"
+  },
+  {
+   "tipo": "work",
+   "ini": 6015,
+   "fin": 6089,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "33 Reclining Woman Lent by Associated American Artists Galleries, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6015,
+   "fin": 6089
+  },
+  {
+   "tipo": "title",
+   "ini": 6018,
+   "fin": 6033,
+   "texto": "Reclining Woman"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6042,
+   "fin": 6089,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Associated American Artists Galleries, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6081,
+   "fin": 6089,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 6091,
+   "fin": 6168,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Aristide Maillol French, 1861-1944\n34 Kneeling Woman The Toledo Museum of Art"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6091,
+   "fin": 6168
+  },
+  {
+   "tipo": "person",
+   "ini": 6091,
+   "fin": 6125,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Aristide Maillol French, 1861-1944"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6091,
+   "fin": 6107,
+   "texto": "Aristide Maillol"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 6108,
+   "fin": 6114
+  },
+  {
+   "tipo": "date",
+   "ini": 6116,
+   "fin": 6125,
+   "rasgos": {
+    "from": "1861",
+    "to": "1944"
+   },
+   "texto": "1861-1944"
+  },
+  {
+   "tipo": "birth",
+   "ini": 6116,
+   "fin": 6120
+  },
+  {
+   "tipo": "death",
+   "ini": 6121,
+   "fin": 6125
+  },
+  {
+   "tipo": "title",
+   "ini": 6129,
+   "fin": 6143,
+   "texto": "Kneeling Woman"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6144,
+   "fin": 6169,
+   "rasgos": {
+    "type": "museum",
+    "role": "lender"
+   },
+   "texto": "The Toledo Museum of Art\n"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6148,
+   "fin": 6154,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Toledo"
+  },
+  {
+   "tipo": "work",
+   "ini": 6170,
+   "fin": 6213,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Oronzio Maldarelli American, 1892-\n35 Janet"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6170,
+   "fin": 6213
+  },
+  {
+   "tipo": "person",
+   "ini": 6170,
+   "fin": 6204,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oronzio Maldarelli American, 1892-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6170,
+   "fin": 6188,
+   "texto": "Oronzio Maldarelli"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 6189,
+   "fin": 6197
+  },
+  {
+   "tipo": "birth",
+   "ini": 6199,
+   "fin": 6204
+  },
+  {
+   "tipo": "date",
+   "ini": 6199,
+   "fin": 6203,
+   "rasgos": {
+    "when": "1892"
+   },
+   "texto": "1892"
+  },
+  {
+   "tipo": "title",
+   "ini": 6208,
+   "fin": 6213,
+   "texto": "Janet"
+  },
+  {
+   "tipo": "work",
+   "ini": 6214,
+   "fin": 6267,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "36 Reclining Nude Lent by Midtown Galleries, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6214,
+   "fin": 6267
+  },
+  {
+   "tipo": "title",
+   "ini": 6217,
+   "fin": 6231,
+   "texto": "Reclining Nude"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6240,
+   "fin": 6267,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Midtown Galleries, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6259,
+   "fin": 6267,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 6269,
+   "fin": 6344,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Gerhard Marcks German, 1889-\n37 Ragazzo Lent by The Cleveland Museum of Art"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6269,
+   "fin": 6344
+  },
+  {
+   "tipo": "person",
+   "ini": 6269,
+   "fin": 6297,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gerhard Marcks German, 1889-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6269,
+   "fin": 6283,
+   "texto": "Gerhard Marcks"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 6284,
+   "fin": 6290
+  },
+  {
+   "tipo": "birth",
+   "ini": 6292,
+   "fin": 6297
+  },
+  {
+   "tipo": "date",
+   "ini": 6292,
+   "fin": 6296,
+   "rasgos": {
+    "when": "1889"
+   },
+   "texto": "1889"
+  },
+  {
+   "tipo": "title",
+   "ini": 6301,
+   "fin": 6308,
+   "texto": "Ragazzo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6317,
+   "fin": 6344,
+   "rasgos": {
+    "type": "museum",
+    "role": "lender"
+   },
+   "texto": "The Cleveland Museum of Art"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6321,
+   "fin": 6330,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Cleveland"
+  },
+  {
+   "tipo": "work",
+   "ini": 6346,
+   "fin": 6430,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Henry Moore English, 1898-\n38 Reclining Figure Lent by Albright Art Gallery, Buffalo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6346,
+   "fin": 6430
+  },
+  {
+   "tipo": "person",
+   "ini": 6346,
+   "fin": 6372,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Henry Moore English, 1898-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6346,
+   "fin": 6357,
+   "texto": "Henry Moore"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 6358,
+   "fin": 6365
+  },
+  {
+   "tipo": "birth",
+   "ini": 6367,
+   "fin": 6372
+  },
+  {
+   "tipo": "date",
+   "ini": 6367,
+   "fin": 6371,
+   "rasgos": {
+    "when": "1898"
+   },
+   "texto": "1898"
+  },
+  {
+   "tipo": "title",
+   "ini": 6376,
+   "fin": 6392,
+   "texto": "Reclining Figure"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6401,
+   "fin": 6430,
+   "rasgos": {
+    "type": "museum",
+    "role": "lender"
+   },
+   "texto": "Albright Art Gallery, Buffalo"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6423,
+   "fin": 6430,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Buffalo"
+  },
+  {
+   "tipo": "work",
+   "ini": 6431,
+   "fin": 6481,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "39 Family Group Lent by Joseph Hirshhorn, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6431,
+   "fin": 6481
+  },
+  {
+   "tipo": "title",
+   "ini": 6434,
+   "fin": 6446,
+   "texto": "Family Group"
+  },
+  {
+   "tipo": "person",
+   "ini": 6455,
+   "fin": 6481,
+   "rasgos": {
+    "role": "lender"
+   },
+   "texto": "Joseph Hirshhorn, New York"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6455,
+   "fin": 6471,
+   "texto": "Joseph Hirshhorn"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6473,
+   "fin": 6481,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 6483,
+   "fin": 6575,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "George L. K. Morris American, 1905-\n40 Wounded Soldier Lent by The Downton Gallery, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6483,
+   "fin": 6575
+  },
+  {
+   "tipo": "person",
+   "ini": 6483,
+   "fin": 6518,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "George L. K. Morris American, 1905-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6483,
+   "fin": 6502,
+   "texto": "George L. K. Morris"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 6503,
+   "fin": 6511
+  },
+  {
+   "tipo": "birth",
+   "ini": 6513,
+   "fin": 6518
+  },
+  {
+   "tipo": "date",
+   "ini": 6513,
+   "fin": 6517,
+   "rasgos": {
+    "when": "1905"
+   },
+   "texto": "1905"
+  },
+  {
+   "tipo": "title",
+   "ini": 6522,
+   "fin": 6537,
+   "texto": "Wounded Soldier"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6546,
+   "fin": 6575,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "The Downton Gallery, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6567,
+   "fin": 6575,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 6577,
+   "fin": 6662,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Isamu Noguchi American, 1904-\n41 Miss Expanding Universe Lent by the artist, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6577,
+   "fin": 6662
+  },
+  {
+   "tipo": "person",
+   "ini": 6577,
+   "fin": 6606,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Isamu Noguchi American, 1904-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6577,
+   "fin": 6590,
+   "texto": "Isamu Noguchi"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 6591,
+   "fin": 6599
+  },
+  {
+   "tipo": "birth",
+   "ini": 6601,
+   "fin": 6606
+  },
+  {
+   "tipo": "date",
+   "ini": 6601,
+   "fin": 6605,
+   "rasgos": {
+    "when": "1904"
+   },
+   "texto": "1904"
+  },
+  {
+   "tipo": "title",
+   "ini": 6610,
+   "fin": 6633,
+   "texto": "Miss Expanding Universe"
+  },
+  {
+   "tipo": "person",
+   "ini": 6642,
+   "fin": 6662,
+   "rasgos": {
+    "role": "lender"
+   },
+   "texto": "the artist, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6654,
+   "fin": 6662,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 6664,
+   "fin": 6742,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Nova American, 1918-\n42 Mother and Child Lent by The New-Age Gallery, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6664,
+   "fin": 6742
+  },
+  {
+   "tipo": "person",
+   "ini": 6664,
+   "fin": 6684,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nova American, 1918-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6664,
+   "fin": 6668,
+   "texto": "Nova"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 6669,
+   "fin": 6677
+  },
+  {
+   "tipo": "birth",
+   "ini": 6679,
+   "fin": 6684
+  },
+  {
+   "tipo": "date",
+   "ini": 6679,
+   "fin": 6683,
+   "rasgos": {
+    "when": "1918"
+   },
+   "texto": "1918"
+  },
+  {
+   "tipo": "title",
+   "ini": 6688,
+   "fin": 6704,
+   "texto": "Mother and Child"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6713,
+   "fin": 6742,
+   "rasgos": {
+    "type": "gallery",
+    "role": "museum"
+   },
+   "texto": "The New-Age Gallery, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6734,
+   "fin": 6742,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 6744,
+   "fin": 6833,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Auguste Renoir French, 1841-1919\n43 Judgment of Paris Lent by The Cleveland Museum of Art"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6744,
+   "fin": 6833
+  },
+  {
+   "tipo": "person",
+   "ini": 6744,
+   "fin": 6776,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Auguste Renoir French, 1841-1919"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6744,
+   "fin": 6758,
+   "texto": "Auguste Renoir"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 6759,
+   "fin": 6765
+  },
+  {
+   "tipo": "date",
+   "ini": 6767,
+   "fin": 6776,
+   "rasgos": {
+    "from": "1841",
+    "to": "1919"
+   },
+   "texto": "1841-1919"
+  },
+  {
+   "tipo": "birth",
+   "ini": 6767,
+   "fin": 6771
+  },
+  {
+   "tipo": "death",
+   "ini": 6772,
+   "fin": 6776
+  },
+  {
+   "tipo": "title",
+   "ini": 6780,
+   "fin": 6797,
+   "texto": "Judgment of Paris"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6806,
+   "fin": 6833,
+   "rasgos": {
+    "type": "museum",
+    "role": "gallery"
+   },
+   "texto": "The Cleveland Museum of Art"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6810,
+   "fin": 6819,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Cleveland"
+  },
+  {
+   "tipo": "work",
+   "ini": 6835,
+   "fin": 6910,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Hugo Robus American, 1885-\n44 Summer Afternoon Lent by the artist, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6835,
+   "fin": 6910
+  },
+  {
+   "tipo": "person",
+   "ini": 6835,
+   "fin": 6861,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Hugo Robus American, 1885-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6835,
+   "fin": 6845,
+   "texto": "Hugo Robus"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 6846,
+   "fin": 6854
+  },
+  {
+   "tipo": "birth",
+   "ini": 6856,
+   "fin": 6861
+  },
+  {
+   "tipo": "date",
+   "ini": 6856,
+   "fin": 6860,
+   "rasgos": {
+    "when": "1885"
+   },
+   "texto": "1885"
+  },
+  {
+   "tipo": "title",
+   "ini": 6865,
+   "fin": 6881,
+   "texto": "Summer Afternoon"
+  },
+  {
+   "tipo": "person",
+   "ini": 6890,
+   "fin": 6910,
+   "rasgos": {
+    "role": "lender"
+   },
+   "texto": "the artist, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6902,
+   "fin": 6910,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 6912,
+   "fin": 6978,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Auguste Rodin French, 1840-1917\n45 Niobid The Toledo Museum of Art"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6912,
+   "fin": 6978
+  },
+  {
+   "tipo": "person",
+   "ini": 6912,
+   "fin": 6943,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Auguste Rodin French, 1840-1917"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6912,
+   "fin": 6925,
+   "texto": "Auguste Rodin"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 6926,
+   "fin": 6932
+  },
+  {
+   "tipo": "date",
+   "ini": 6934,
+   "fin": 6943,
+   "rasgos": {
+    "from": "1840",
+    "to": "1917"
+   },
+   "texto": "1840-1917"
+  },
+  {
+   "tipo": "birth",
+   "ini": 6934,
+   "fin": 6938
+  },
+  {
+   "tipo": "death",
+   "ini": 6939,
+   "fin": 6943
+  },
+  {
+   "tipo": "title",
+   "ini": 6947,
+   "fin": 6953,
+   "texto": "Niobid"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6954,
+   "fin": 6978,
+   "rasgos": {
+    "type": "museum",
+    "role": "gallery"
+   },
+   "texto": "The Toledo Museum of Art"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6958,
+   "fin": 6964,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Toledo"
+  },
+  {
+   "tipo": "work",
+   "ini": 6980,
+   "fin": 7077,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "John Rood American, 1902-\n46 Laughing Man Lent by Associated American Artists Galleries, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6980,
+   "fin": 7077
+  },
+  {
+   "tipo": "person",
+   "ini": 6980,
+   "fin": 7005,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "John Rood American, 1902-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6980,
+   "fin": 6989,
+   "texto": "John Rood"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 6990,
+   "fin": 6998
+  },
+  {
+   "tipo": "birth",
+   "ini": 7000,
+   "fin": 7005
+  },
+  {
+   "tipo": "date",
+   "ini": 7000,
+   "fin": 7004,
+   "rasgos": {
+    "when": "1902"
+   },
+   "texto": "1902"
+  },
+  {
+   "tipo": "title",
+   "ini": 7009,
+   "fin": 7021,
+   "texto": "Laughing Man"
+  },
+  {
+   "tipo": "institution",
+   "ini": 7030,
+   "fin": 7077,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Associated American Artists Galleries, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7069,
+   "fin": 7077,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 7079,
+   "fin": 7139,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Lillian Saarinen \n47 Pig Lent by Midtown Galleries, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7079,
+   "fin": 7139
+  },
+  {
+   "tipo": "person",
+   "ini": 7079,
+   "fin": 7095,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lillian Saarinen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7079,
+   "fin": 7095,
+   "texto": "Lillian Saarinen"
+  },
+  {
+   "tipo": "title",
+   "ini": 7100,
+   "fin": 7103,
+   "texto": "Pig"
+  },
+  {
+   "tipo": "institution",
+   "ini": 7112,
+   "fin": 7139,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Midtown Galleries, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7131,
+   "fin": 7139,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 7141,
+   "fin": 7213,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Charles Salerno American, 1916-\n48 Earth Lent by Weyhe Gallery, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7141,
+   "fin": 7213
+  },
+  {
+   "tipo": "person",
+   "ini": 7141,
+   "fin": 7172,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Charles Salerno American, 1916-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7141,
+   "fin": 7156,
+   "texto": "Charles Salerno"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 7157,
+   "fin": 7165
+  },
+  {
+   "tipo": "birth",
+   "ini": 7167,
+   "fin": 7172
+  },
+  {
+   "tipo": "date",
+   "ini": 7167,
+   "fin": 7171,
+   "rasgos": {
+    "when": "1916"
+   },
+   "texto": "1916"
+  },
+  {
+   "tipo": "title",
+   "ini": 7176,
+   "fin": 7181,
+   "texto": "Earth"
+  },
+  {
+   "tipo": "institution",
+   "ini": 7190,
+   "fin": 7213,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Weyhe Gallery, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7205,
+   "fin": 7213,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 7215,
+   "fin": 7319,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Helene Sardeau American, 1899-\n49 Head of Christ Lent by Associated American Artists Galleries, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7215,
+   "fin": 7319
+  },
+  {
+   "tipo": "person",
+   "ini": 7215,
+   "fin": 7245,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Helene Sardeau American, 1899-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7215,
+   "fin": 7229,
+   "texto": "Helene Sardeau"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 7230,
+   "fin": 7238
+  },
+  {
+   "tipo": "birth",
+   "ini": 7240,
+   "fin": 7245
+  },
+  {
+   "tipo": "date",
+   "ini": 7240,
+   "fin": 7244,
+   "rasgos": {
+    "when": "1899"
+   },
+   "texto": "1899"
+  },
+  {
+   "tipo": "title",
+   "ini": 7249,
+   "fin": 7263,
+   "texto": "Head of Christ"
+  },
+  {
+   "tipo": "institution",
+   "ini": 7272,
+   "fin": 7319,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Associated American Artists Galleries, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7311,
+   "fin": 7319,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 7321,
+   "fin": 7399,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "David Smith American, 1908-\n50 Low Landscape Lent by Willard Gallery, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7321,
+   "fin": 7399
+  },
+  {
+   "tipo": "person",
+   "ini": 7321,
+   "fin": 7348,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Smith American, 1908-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7321,
+   "fin": 7332,
+   "texto": "David Smith"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 7333,
+   "fin": 7341
+  },
+  {
+   "tipo": "birth",
+   "ini": 7343,
+   "fin": 7348
+  },
+  {
+   "tipo": "date",
+   "ini": 7343,
+   "fin": 7347,
+   "rasgos": {
+    "when": "1908"
+   },
+   "texto": "1908"
+  },
+  {
+   "tipo": "title",
+   "ini": 7352,
+   "fin": 7365,
+   "texto": "Low Landscape"
+  },
+  {
+   "tipo": "institution",
+   "ini": 7374,
+   "fin": 7399,
+   "rasgos": {
+    "type": "museum",
+    "role": "lender"
+   },
+   "texto": "Willard Gallery, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7391,
+   "fin": 7399,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 7401,
+   "fin": 7518,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "William Steig American, 1907-\n51 Proud Woman Lent by Museum of Art, Rhode Island School of Deseign, Providence, R. I."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7401,
+   "fin": 7518
+  },
+  {
+   "tipo": "person",
+   "ini": 7401,
+   "fin": 7430,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "William Steig American, 1907-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7401,
+   "fin": 7414,
+   "texto": "William Steig"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 7415,
+   "fin": 7423
+  },
+  {
+   "tipo": "birth",
+   "ini": 7425,
+   "fin": 7430
+  },
+  {
+   "tipo": "date",
+   "ini": 7425,
+   "fin": 7429,
+   "rasgos": {
+    "when": "1907"
+   },
+   "texto": "1907"
+  },
+  {
+   "tipo": "title",
+   "ini": 7434,
+   "fin": 7445,
+   "texto": "Proud Woman"
+  },
+  {
+   "tipo": "institution",
+   "ini": 7454,
+   "fin": 7518,
+   "rasgos": {
+    "type": "museum",
+    "role": "lender"
+   },
+   "texto": "Museum of Art, Rhode Island School of Deseign, Providence, R. I."
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7501,
+   "fin": 7518,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Providence, R. I."
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 7520,
+   "fin": 7625,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7520,
+   "fin": 7625
+  },
+  {
+   "tipo": "person",
+   "ini": 7520,
+   "fin": 7557,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Studens, Institute of Design, Chicago"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7550,
+   "fin": 7557,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Chicago"
+  },
+  {
+   "tipo": "title",
+   "ini": 7561,
+   "fin": 7588,
+   "texto": "A Group of Hands Sculptures"
+  },
+  {
+   "tipo": "institution",
+   "ini": 7597,
+   "fin": 7625,
+   "rasgos": {
+    "type": "institute",
+    "role": "lender"
+   },
+   "texto": "Institute of Design, Chicago"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7618,
+   "fin": 7625,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Chicago"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 7627,
+   "fin": 7758,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7627,
+   "fin": 7758
+  },
+  {
+   "tipo": "person",
+   "ini": 7627,
+   "fin": 7676,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Students, University of California at Los Angeles"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7651,
+   "fin": 7676,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "California at Los Angeles"
+  },
+  {
+   "tipo": "title",
+   "ini": 7680,
+   "fin": 7708,
+   "texto": "A Group of Animal Sculptures"
+  },
+  {
+   "tipo": "institution",
+   "ini": 7721,
+   "fin": 7758,
+   "rasgos": {
+    "type": "university",
+    "role": "lender"
+   },
+   "texto": "University of California, Los Angeles"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7735,
+   "fin": 7758,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "California, Los Angeles"
+  },
+  {
+   "tipo": "work",
+   "ini": 7760,
+   "fin": 7854,
+   "rasgos": {
+    "type": ""
+   },
+   "texto": "Frederic Jean Thalinger American, 1915-\n54 Jimmy Higgins Lent by The New-Age Gallery, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7760,
+   "fin": 7854
+  },
+  {
+   "tipo": "person",
+   "ini": 7760,
+   "fin": 7799,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Frederic Jean Thalinger American, 1915-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7760,
+   "fin": 7783,
+   "texto": "Frederic Jean Thalinger"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 7784,
+   "fin": 7792
+  },
+  {
+   "tipo": "birth",
+   "ini": 7794,
+   "fin": 7799
+  },
+  {
+   "tipo": "date",
+   "ini": 7794,
+   "fin": 7798,
+   "rasgos": {
+    "when": "1915"
+   },
+   "texto": "1915"
+  },
+  {
+   "tipo": "title",
+   "ini": 7803,
+   "fin": 7816,
+   "texto": "Jimmy Higgins"
+  },
+  {
+   "tipo": "institution",
+   "ini": 7825,
+   "fin": 7854,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "The New-Age Gallery, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7846,
+   "fin": 7854,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 7856,
+   "fin": 7946,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Harold Tovish American, 1921-\n55 Father and his Child Lent by the artist, Alfred, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7856,
+   "fin": 7946
+  },
+  {
+   "tipo": "person",
+   "ini": 7856,
+   "fin": 7885,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Harold Tovish American, 1921-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7856,
+   "fin": 7869,
+   "texto": "Harold Tovish"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 7870,
+   "fin": 7878
+  },
+  {
+   "tipo": "birth",
+   "ini": 7880,
+   "fin": 7885
+  },
+  {
+   "tipo": "date",
+   "ini": 7880,
+   "fin": 7884,
+   "rasgos": {
+    "when": "1921"
+   },
+   "texto": "1921"
+  },
+  {
+   "tipo": "title",
+   "ini": 7889,
+   "fin": 7909,
+   "texto": "Father and his Child"
+  },
+  {
+   "tipo": "person",
+   "ini": 7918,
+   "fin": 7946,
+   "rasgos": {
+    "role": "lender"
+   },
+   "texto": "the artist, Alfred, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7930,
+   "fin": 7946,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Alfred, New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 7948,
+   "fin": 7992,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Charles Umlauf American, 1911-\n56 The Family"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7948,
+   "fin": 7992
+  },
+  {
+   "tipo": "person",
+   "ini": 7948,
+   "fin": 7978,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Charles Umlauf American, 1911-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7948,
+   "fin": 7962,
+   "texto": "Charles Umlauf"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 7963,
+   "fin": 7971
+  },
+  {
+   "tipo": "birth",
+   "ini": 7973,
+   "fin": 7978
+  },
+  {
+   "tipo": "date",
+   "ini": 7973,
+   "fin": 7977,
+   "rasgos": {
+    "when": "1911"
+   },
+   "texto": "1911"
+  },
+  {
+   "tipo": "title",
+   "ini": 7982,
+   "fin": 7992,
+   "texto": "The Family"
+  },
+  {
+   "tipo": "work",
+   "ini": 7993,
+   "fin": 8035,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "57 Pieta Lent by the artist, Austin, Texas"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7993,
+   "fin": 8035
+  },
+  {
+   "tipo": "title",
+   "ini": 7996,
+   "fin": 8001,
+   "texto": "Pieta"
+  },
+  {
+   "tipo": "person",
+   "ini": 8010,
+   "fin": 8035,
+   "rasgos": {
+    "role": "lender"
+   },
+   "texto": "the artist, Austin, Texas"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 8022,
+   "fin": 8035,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Austin, Texas"
+  },
+  {
+   "tipo": "work",
+   "ini": 8037,
+   "fin": 8118,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Pegot Waring American, 1909-\n58 The Bat Lent by artist, Beverly Hills, California"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8037,
+   "fin": 8118
+  },
+  {
+   "tipo": "person",
+   "ini": 8037,
+   "fin": 8065,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pegot Waring American, 1909-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8037,
+   "fin": 8049,
+   "texto": "Pegot Waring"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 8050,
+   "fin": 8058
+  },
+  {
+   "tipo": "birth",
+   "ini": 8060,
+   "fin": 8065
+  },
+  {
+   "tipo": "date",
+   "ini": 8060,
+   "fin": 8064,
+   "rasgos": {
+    "when": "1909"
+   },
+   "texto": "1909"
+  },
+  {
+   "tipo": "person",
+   "ini": 8085,
+   "fin": 8118,
+   "rasgos": {
+    "role": "lender"
+   },
+   "texto": "artist, Beverly Hills, California"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 8093,
+   "fin": 8118,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Beverly Hills, California"
+  },
+  {
+   "tipo": "work",
+   "ini": 8120,
+   "fin": 8204,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Sidney Waugh American, 1904-\n59 Fish-Crystal, Steuben Glass The Toledo Museum of Art"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8120,
+   "fin": 8204
+  },
+  {
+   "tipo": "person",
+   "ini": 8120,
+   "fin": 8148,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sidney Waugh American, 1904-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8120,
+   "fin": 8132,
+   "texto": "Sidney Waugh"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 8133,
+   "fin": 8141
+  },
+  {
+   "tipo": "birth",
+   "ini": 8143,
+   "fin": 8148
+  },
+  {
+   "tipo": "date",
+   "ini": 8143,
+   "fin": 8147,
+   "rasgos": {
+    "when": "1904"
+   },
+   "texto": "1904"
+  },
+  {
+   "tipo": "title",
+   "ini": 8152,
+   "fin": 8179,
+   "texto": "Fish-Crystal, Steuben Glass"
+  },
+  {
+   "tipo": "institution",
+   "ini": 8180,
+   "fin": 8204,
+   "rasgos": {
+    "type": "museum",
+    "role": "lender"
+   },
+   "texto": "The Toledo Museum of Art"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 8184,
+   "fin": 8190,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Toledo"
+  },
+  {
+   "tipo": "work",
+   "ini": 8206,
+   "fin": 8256,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Hugo Weber\n60 Figurine Lent by the artist, Chicago"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8206,
+   "fin": 8256
+  },
+  {
+   "tipo": "person",
+   "ini": 8206,
+   "fin": 8216,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Hugo Weber"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8206,
+   "fin": 8216,
+   "texto": "Hugo Weber"
+  },
+  {
+   "tipo": "title",
+   "ini": 8220,
+   "fin": 8228,
+   "texto": "Figurine"
+  },
+  {
+   "tipo": "person",
+   "ini": 8237,
+   "fin": 8256,
+   "rasgos": {
+    "role": "lender"
+   },
+   "texto": "the artist, Chicago"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 8249,
+   "fin": 8256,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Chicago"
+  },
+  {
+   "tipo": "work",
+   "ini": 8258,
+   "fin": 8334,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Arlene Wingate American, 1906-\n61 Bather Lent by Midtown Galleries, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8258,
+   "fin": 8334
+  },
+  {
+   "tipo": "person",
+   "ini": 8258,
+   "fin": 8288,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Arlene Wingate American, 1906-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8258,
+   "fin": 8272,
+   "texto": "Arlene Wingate"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 8273,
+   "fin": 8281
+  },
+  {
+   "tipo": "birth",
+   "ini": 8283,
+   "fin": 8288
+  },
+  {
+   "tipo": "date",
+   "ini": 8283,
+   "fin": 8287,
+   "rasgos": {
+    "when": "1906"
+   },
+   "texto": "1906"
+  },
+  {
+   "tipo": "title",
+   "ini": 8292,
+   "fin": 8298,
+   "texto": "Bather"
+  },
+  {
+   "tipo": "institution",
+   "ini": 8307,
+   "fin": 8334,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Midtown Galleries, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 8326,
+   "fin": 8334,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 8336,
+   "fin": 8417,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "William Zorach American, 1887-\n62 Victory Lenty by The Downtown Gallery, New York"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8336,
+   "fin": 8417
+  },
+  {
+   "tipo": "person",
+   "ini": 8336,
+   "fin": 8366,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "William Zorach American, 1887-"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8336,
+   "fin": 8350,
+   "texto": "William Zorach"
+  },
+  {
+   "tipo": "nationality",
+   "ini": 8351,
+   "fin": 8359
+  },
+  {
+   "tipo": "birth",
+   "ini": 8361,
+   "fin": 8366
+  },
+  {
+   "tipo": "date",
+   "ini": 8361,
+   "fin": 8365,
+   "rasgos": {
+    "when": "1887"
+   },
+   "texto": "1887"
+  },
+  {
+   "tipo": "title",
+   "ini": 8370,
+   "fin": 8377,
+   "texto": "Victory"
+  },
+  {
+   "tipo": "institution",
+   "ini": 8387,
+   "fin": 8417,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "The Downtown Gallery, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 8409,
+   "fin": 8417,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8419,
+   "fin": 8443,
+   "rasgos": {
+    "type": "drawing, lithograph"
+   },
+   "texto": "Drawings and lithographs"
+  },
+  {
+   "tipo": "institution",
+   "ini": 8461,
+   "fin": 8486,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Mortimer Levitt Galleries"
+  },
+  {
+   "tipo": "institution",
+   "ini": 8492,
+   "fin": 8505,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Weyhe Gallery"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 8507,
+   "fin": 8515,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "institution",
+   "ini": 8521,
+   "fin": 8536,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Willard Gallery"
+  },
+  {
+   "tipo": "institution",
+   "ini": 8552,
+   "fin": 8575,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Kraushaar Art\nGalleries"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 8577,
+   "fin": 8585,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "person",
+   "ini": 8591,
+   "fin": 8610,
+   "rasgos": {
+    "role": "lender"
+   },
+   "texto": "Cohn Anderson, Esq."
+  },
+  {
+   "tipo": "persName",
+   "ini": 8591,
+   "fin": 8604,
+   "texto": "Cohn Anderson"
+  },
+  {
+   "tipo": "person",
+   "ini": 8612,
+   "fin": 8635,
+   "rasgos": {
+    "role": "lender"
+   },
+   "texto": "Professor Bonamy Dobree"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8622,
+   "fin": 8635,
+   "texto": "Bonamy Dobree"
+  },
+  {
+   "tipo": "person",
+   "ini": 8637,
+   "fin": 8653,
+   "rasgos": {
+    "role": "lender"
+   },
+   "texto": "Mrs. Irina Moore"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8642,
+   "fin": 8653,
+   "texto": "Irina Moore"
+  },
+  {
+   "tipo": "person",
+   "ini": 8655,
+   "fin": 8677,
+   "rasgos": {
+    "role": "lender"
+   },
+   "texto": "Mrs. Dorothy\nMooreland"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8660,
+   "fin": 8677,
+   "texto": "Dorothy\nMooreland"
+  },
+  {
+   "tipo": "person",
+   "ini": 8682,
+   "fin": 8702,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mrs. Delphine Turner"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8687,
+   "fin": 8702,
+   "texto": "Delphine Turner"
+  },
+  {
+   "tipo": "institution",
+   "ini": 8712,
+   "fin": 8731,
+   "rasgos": {
+    "type": "council",
+    "role": "lender"
+   },
+   "texto": "the\nBritish Council"
+  },
+  {
+   "tipo": "work",
+   "ini": 8734,
+   "fin": 8766,
+   "texto": "ALEXANDER ARCHIPENKO Three Nudes"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8734,
+   "fin": 8766
+  },
+  {
+   "tipo": "person",
+   "ini": 8734,
+   "fin": 8754,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ALEXANDER ARCHIPENKO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8734,
+   "fin": 8754,
+   "texto": "ALEXANDER ARCHIPENKO"
+  },
+  {
+   "tipo": "title",
+   "ini": 8755,
+   "fin": 8766,
+   "texto": "Three Nudes"
+  },
+  {
+   "tipo": "work",
+   "ini": 8767,
+   "fin": 8791,
+   "texto": "GEORGE BIDDLE River Life"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8767,
+   "fin": 8791
+  },
+  {
+   "tipo": "person",
+   "ini": 8767,
+   "fin": 8780,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "GEORGE BIDDLE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8767,
+   "fin": 8780,
+   "texto": "GEORGE BIDDLE"
+  },
+  {
+   "tipo": "title",
+   "ini": 8781,
+   "fin": 8791,
+   "texto": "River Life"
+  },
+  {
+   "tipo": "work",
+   "ini": 8792,
+   "fin": 8817,
+   "texto": "GEORGES BRAQUE Still Life"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8792,
+   "fin": 8817
+  },
+  {
+   "tipo": "person",
+   "ini": 8792,
+   "fin": 8806,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "GEORGES BRAQUE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8792,
+   "fin": 8806,
+   "texto": "GEORGES BRAQUE"
+  },
+  {
+   "tipo": "title",
+   "ini": 8807,
+   "fin": 8817,
+   "texto": "Still Life"
+  },
+  {
+   "tipo": "work",
+   "ini": 8818,
+   "fin": 8839,
+   "texto": "ADOLPH DEHN The Seine"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8818,
+   "fin": 8839
+  },
+  {
+   "tipo": "person",
+   "ini": 8818,
+   "fin": 8829,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ADOLPH DEHN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8818,
+   "fin": 8829,
+   "texto": "ADOLPH DEHN"
+  },
+  {
+   "tipo": "title",
+   "ini": 8830,
+   "fin": 8839,
+   "texto": "The Seine"
+  },
+  {
+   "tipo": "work",
+   "ini": 8840,
+   "fin": 8858,
+   "texto": "ANDRE DERAIN Torso"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8840,
+   "fin": 8858
+  },
+  {
+   "tipo": "person",
+   "ini": 8840,
+   "fin": 8852,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ANDRE DERAIN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8840,
+   "fin": 8852,
+   "texto": "ANDRE DERAIN"
+  },
+  {
+   "tipo": "title",
+   "ini": 8853,
+   "fin": 8858,
+   "texto": "Torso"
+  },
+  {
+   "tipo": "work",
+   "ini": 8859,
+   "fin": 8901,
+   "texto": "KOREN der HAROOTIAN Fallen Grenade Thrower"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8859,
+   "fin": 8901
+  },
+  {
+   "tipo": "person",
+   "ini": 8859,
+   "fin": 8878,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "KOREN der HAROOTIAN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8859,
+   "fin": 8878,
+   "texto": "KOREN der HAROOTIAN"
+  },
+  {
+   "tipo": "title",
+   "ini": 8879,
+   "fin": 8901,
+   "texto": "Fallen Grenade Thrower"
+  },
+  {
+   "tipo": "work",
+   "ini": 8902,
+   "fin": 8930,
+   "texto": "DIEGO RIVERA Open Air School"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8902,
+   "fin": 8930
+  },
+  {
+   "tipo": "person",
+   "ini": 8902,
+   "fin": 8914,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "DIEGO RIVERA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8902,
+   "fin": 8914,
+   "texto": "DIEGO RIVERA"
+  },
+  {
+   "tipo": "title",
+   "ini": 8915,
+   "fin": 8930,
+   "texto": "Open Air School"
+  },
+  {
+   "tipo": "work",
+   "ini": 8931,
+   "fin": 8950,
+   "texto": "ERNEST FIENE Winter"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8931,
+   "fin": 8950
+  },
+  {
+   "tipo": "person",
+   "ini": 8931,
+   "fin": 8943,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ERNEST FIENE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8931,
+   "fin": 8943,
+   "texto": "ERNEST FIENE"
+  },
+  {
+   "tipo": "title",
+   "ini": 8944,
+   "fin": 8950,
+   "texto": "Winter"
+  },
+  {
+   "tipo": "work",
+   "ini": 8951,
+   "fin": 8973,
+   "texto": "JOHN FLANNAGAN Buffalo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8951,
+   "fin": 8973
+  },
+  {
+   "tipo": "person",
+   "ini": 8951,
+   "fin": 8965,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JOHN FLANNAGAN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8951,
+   "fin": 8965,
+   "texto": "JOHN FLANNAGAN"
+  },
+  {
+   "tipo": "title",
+   "ini": 8966,
+   "fin": 8973,
+   "texto": "Buffalo"
+  },
+  {
+   "tipo": "work",
+   "ini": 8974,
+   "fin": 8997,
+   "texto": "TSUGUHAROU FOUJITA Nude"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8974,
+   "fin": 8997
+  },
+  {
+   "tipo": "person",
+   "ini": 8974,
+   "fin": 8992,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "TSUGUHAROU FOUJITA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8974,
+   "fin": 8992,
+   "texto": "TSUGUHAROU FOUJITA"
+  },
+  {
+   "tipo": "title",
+   "ini": 8993,
+   "fin": 8997,
+   "texto": "Nude"
+  },
+  {
+   "tipo": "work",
+   "ini": 8998,
+   "fin": 9028,
+   "texto": "YASUO KUNIYOSHI Grapes in Bowl"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8998,
+   "fin": 9028
+  },
+  {
+   "tipo": "person",
+   "ini": 8998,
+   "fin": 9013,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "YASUO KUNIYOSHI"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8998,
+   "fin": 9013,
+   "texto": "YASUO KUNIYOSHI"
+  },
+  {
+   "tipo": "title",
+   "ini": 9014,
+   "fin": 9028,
+   "texto": "Grapes in Bowl"
+  },
+  {
+   "tipo": "work",
+   "ini": 9029,
+   "fin": 9048,
+   "texto": "ROBERT LAURENT Nude"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9029,
+   "fin": 9048
+  },
+  {
+   "tipo": "person",
+   "ini": 9029,
+   "fin": 9043,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ROBERT LAURENT"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9029,
+   "fin": 9043,
+   "texto": "ROBERT LAURENT"
+  },
+  {
+   "tipo": "title",
+   "ini": 9044,
+   "fin": 9048,
+   "texto": "Nude"
+  },
+  {
+   "tipo": "work",
+   "ini": 9049,
+   "fin": 9073,
+   "texto": "MANFREDI Landscape No. 4"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9049,
+   "fin": 9073
+  },
+  {
+   "tipo": "person",
+   "ini": 9049,
+   "fin": 9057,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MANFREDI"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9049,
+   "fin": 9057,
+   "texto": "MANFREDI"
+  },
+  {
+   "tipo": "title",
+   "ini": 9058,
+   "fin": 9073,
+   "texto": "Landscape No. 4"
+  },
+  {
+   "tipo": "work",
+   "ini": 9074,
+   "fin": 9099,
+   "texto": "GERHARD MARCKS Young Girl"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9074,
+   "fin": 9099
+  },
+  {
+   "tipo": "person",
+   "ini": 9074,
+   "fin": 9088,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "GERHARD MARCKS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9074,
+   "fin": 9088,
+   "texto": "GERHARD MARCKS"
+  },
+  {
+   "tipo": "title",
+   "ini": 9089,
+   "fin": 9099,
+   "texto": "Young Girl"
+  },
+  {
+   "tipo": "work",
+   "ini": 9100,
+   "fin": 9130,
+   "texto": "HENRY MOORE Gash in Road, 1940"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9100,
+   "fin": 9130
+  },
+  {
+   "tipo": "person",
+   "ini": 9100,
+   "fin": 9111,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "HENRY MOORE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9100,
+   "fin": 9111,
+   "texto": "HENRY MOORE"
+  },
+  {
+   "tipo": "title",
+   "ini": 9112,
+   "fin": 9124,
+   "texto": "Gash in Road"
+  },
+  {
+   "tipo": "date",
+   "ini": 9126,
+   "fin": 9130,
+   "rasgos": {
+    "when": "1940"
+   },
+   "texto": "1940"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9131,
+   "fin": 9202
+  },
+  {
+   "tipo": "work",
+   "ini": 9131,
+   "fin": 9163,
+   "texto": "HENRY MOORE Seated Figures, 1941"
+  },
+  {
+   "tipo": "person",
+   "ini": 9131,
+   "fin": 9142,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "HENRY MOORE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9131,
+   "fin": 9142,
+   "texto": "HENRY MOORE"
+  },
+  {
+   "tipo": "title",
+   "ini": 9143,
+   "fin": 9157,
+   "texto": "Seated Figures"
+  },
+  {
+   "tipo": "date",
+   "ini": 9159,
+   "fin": 9163,
+   "rasgos": {
+    "when": "1941"
+   },
+   "texto": "1941"
+  },
+  {
+   "tipo": "work",
+   "ini": 9164,
+   "fin": 9202,
+   "texto": "HENRY MOORE Three Draped Figures, 1944"
+  },
+  {
+   "tipo": "person",
+   "ini": 9164,
+   "fin": 9175,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "HENRY MOORE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9164,
+   "fin": 9175,
+   "texto": "HENRY MOORE"
+  },
+  {
+   "tipo": "title",
+   "ini": 9176,
+   "fin": 9196,
+   "texto": "Three Draped Figures"
+  },
+  {
+   "tipo": "date",
+   "ini": 9198,
+   "fin": 9202,
+   "rasgos": {
+    "when": "1944"
+   },
+   "texto": "1944"
+  },
+  {
+   "tipo": "work",
+   "ini": 9203,
+   "fin": 9234,
+   "texto": "HENRY MOORE Pointed Forms, 1940"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9203,
+   "fin": 9234
+  },
+  {
+   "tipo": "person",
+   "ini": 9203,
+   "fin": 9214,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "HENRY MOORE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9203,
+   "fin": 9214,
+   "texto": "HENRY MOORE"
+  },
+  {
+   "tipo": "title",
+   "ini": 9215,
+   "fin": 9228,
+   "texto": "Pointed Forms"
+  },
+  {
+   "tipo": "date",
+   "ini": 9230,
+   "fin": 9234,
+   "rasgos": {
+    "when": "1940"
+   },
+   "texto": "1940"
+  },
+  {
+   "tipo": "work",
+   "ini": 9235,
+   "fin": 9278,
+   "texto": "HENRY MOORE Seated Figures in Shelter, 1941"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9235,
+   "fin": 9278
+  },
+  {
+   "tipo": "person",
+   "ini": 9235,
+   "fin": 9246,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "HENRY MOORE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9235,
+   "fin": 9246,
+   "texto": "HENRY MOORE"
+  },
+  {
+   "tipo": "title",
+   "ini": 9247,
+   "fin": 9272,
+   "texto": "Seated Figures in Shelter"
+  },
+  {
+   "tipo": "date",
+   "ini": 9274,
+   "fin": 9278,
+   "rasgos": {
+    "when": "1941"
+   },
+   "texto": "1941"
+  },
+  {
+   "tipo": "work",
+   "ini": 9279,
+   "fin": 9330,
+   "texto": "HENRY MOORE Shelter Scene, Bunks and Sleepers, 1941"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9279,
+   "fin": 9330
+  },
+  {
+   "tipo": "person",
+   "ini": 9279,
+   "fin": 9290,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "HENRY MOORE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9279,
+   "fin": 9290,
+   "texto": "HENRY MOORE"
+  },
+  {
+   "tipo": "title",
+   "ini": 9291,
+   "fin": 9324,
+   "texto": "Shelter Scene, Bunks and Sleepers"
+  },
+  {
+   "tipo": "date",
+   "ini": 9326,
+   "fin": 9330,
+   "rasgos": {
+    "when": "1941"
+   },
+   "texto": "1941"
+  },
+  {
+   "tipo": "work",
+   "ini": 9331,
+   "fin": 9376,
+   "texto": "NURA (Mrs. Eduard Buk Ulreich) Chandra Dreams"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9331,
+   "fin": 9376
+  },
+  {
+   "tipo": "person",
+   "ini": 9331,
+   "fin": 9361,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "NURA (Mrs. Eduard Buk Ulreich)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9331,
+   "fin": 9335,
+   "texto": "NURA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9342,
+   "fin": 9360,
+   "texto": "Eduard Buk Ulreich"
+  },
+  {
+   "tipo": "title",
+   "ini": 9362,
+   "fin": 9376,
+   "texto": "Chandra Dreams"
+  },
+  {
+   "tipo": "work",
+   "ini": 9377,
+   "fin": 9402,
+   "texto": "HALLDO PETERSON Reykjavik"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9377,
+   "fin": 9402
+  },
+  {
+   "tipo": "person",
+   "ini": 9377,
+   "fin": 9392,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "HALLDO PETERSON"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9377,
+   "fin": 9392,
+   "texto": "HALLDO PETERSON"
+  },
+  {
+   "tipo": "title",
+   "ini": 9393,
+   "fin": 9402,
+   "texto": "Reykjavik"
+  },
+  {
+   "tipo": "work",
+   "ini": 9403,
+   "fin": 9429,
+   "texto": "WOLFGANG ROTH At Ringlings"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9403,
+   "fin": 9429
+  },
+  {
+   "tipo": "person",
+   "ini": 9403,
+   "fin": 9416,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "WOLFGANG ROTH"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9403,
+   "fin": 9416,
+   "texto": "WOLFGANG ROTH"
+  },
+  {
+   "tipo": "title",
+   "ini": 9417,
+   "fin": 9429,
+   "texto": "At Ringlings"
+  },
+  {
+   "tipo": "work",
+   "ini": 9430,
+   "fin": 9451,
+   "texto": "CHARLES SALERNO Child"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9430,
+   "fin": 9451
+  },
+  {
+   "tipo": "person",
+   "ini": 9430,
+   "fin": 9445,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "CHARLES SALERNO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9430,
+   "fin": 9445,
+   "texto": "CHARLES SALERNO"
+  },
+  {
+   "tipo": "title",
+   "ini": 9446,
+   "fin": 9451,
+   "texto": "Child"
+  },
+  {
+   "tipo": "work",
+   "ini": 9452,
+   "fin": 9471,
+   "texto": "DAVID SMITH Drawing"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9452,
+   "fin": 9471
+  },
+  {
+   "tipo": "person",
+   "ini": 9452,
+   "fin": 9463,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "DAVID SMITH"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9452,
+   "fin": 9463,
+   "texto": "DAVID SMITH"
+  },
+  {
+   "tipo": "title",
+   "ini": 9464,
+   "fin": 9471,
+   "texto": "Drawing"
+  },
+  {
+   "tipo": "work",
+   "ini": 9472,
+   "fin": 9495,
+   "texto": "NILES SPENCER Buildings"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9472,
+   "fin": 9495
+  },
+  {
+   "tipo": "person",
+   "ini": 9472,
+   "fin": 9485,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "NILES SPENCER"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9472,
+   "fin": 9485,
+   "texto": "NILES SPENCER"
+  },
+  {
+   "tipo": "title",
+   "ini": 9486,
+   "fin": 9495,
+   "texto": "Buildings"
+  },
+  {
+   "tipo": "work",
+   "ini": 9496,
+   "fin": 9528,
+   "texto": "PRENTICE TAYLOR Budapest Quartet"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9496,
+   "fin": 9528
+  },
+  {
+   "tipo": "person",
+   "ini": 9496,
+   "fin": 9511,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "PRENTICE TAYLOR"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9496,
+   "fin": 9511,
+   "texto": "PRENTICE TAYLOR"
+  },
+  {
+   "tipo": "title",
+   "ini": 9512,
+   "fin": 9528,
+   "texto": "Budapest Quartet"
+  },
+  {
+   "tipo": "work",
+   "ini": 9530,
+   "fin": 9553,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "9 JOSE DE CREEFT SLAVES"
+  },
+  {
+   "tipo": "person",
+   "ini": 9532,
+   "fin": 9546,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JOSE DE CREEFT"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9532,
+   "fin": 9546,
+   "texto": "JOSE DE CREEFT"
+  },
+  {
+   "tipo": "title",
+   "ini": 9547,
+   "fin": 9553,
+   "texto": "SLAVES"
+  },
+  {
+   "tipo": "work",
+   "ini": 9555,
+   "fin": 9587,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "12 CHARLES DESPIAU HEAD OF A BOY"
+  },
+  {
+   "tipo": "person",
+   "ini": 9558,
+   "fin": 9573,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "CHARLES DESPIAU"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9558,
+   "fin": 9573,
+   "texto": "CHARLES DESPIAU"
+  },
+  {
+   "tipo": "title",
+   "ini": 9574,
+   "fin": 9588,
+   "texto": "HEAD OF A BOY\n"
+  },
+  {
+   "tipo": "work",
+   "ini": 9589,
+   "fin": 9617,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "51 WILLIAM STEIG PROUD WOMAN"
+  },
+  {
+   "tipo": "person",
+   "ini": 9592,
+   "fin": 9605,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "WILLIAM STEIG"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9592,
+   "fin": 9605,
+   "texto": "WILLIAM STEIG"
+  },
+  {
+   "tipo": "title",
+   "ini": 9606,
+   "fin": 9617,
+   "texto": "PROUD WOMAN"
+  },
+  {
+   "tipo": "work",
+   "ini": 9619,
+   "fin": 9646,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "17 JOHN FLANNAGAN THESE TWO"
+  },
+  {
+   "tipo": "person",
+   "ini": 9622,
+   "fin": 9636,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JOHN FLANNAGAN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9622,
+   "fin": 9636,
+   "texto": "JOHN FLANNAGAN"
+  },
+  {
+   "tipo": "title",
+   "ini": 9637,
+   "fin": 9646,
+   "texto": "THESE TWO"
+  }
+ ]
+}

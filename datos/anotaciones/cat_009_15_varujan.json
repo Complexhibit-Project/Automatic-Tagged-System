@@ -1,0 +1,4194 @@
+{
+ "id": "cat_009_15_varujan",
+ "nombre_original": "15. Varujan",
+ "longitud_texto": 14196,
+ "sha256_texto": "ee0f2114208b9f8da77b8fcf9bd8a0a37524a91962f1ee8e213a87228a8f4696",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 17,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Varujan Boghosian"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 17,
+   "texto": "Varujan Boghosian"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 17,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 17,
+   "texto": "Varujan Boghosian"
+  },
+  {
+   "tipo": "institution",
+   "ini": 38,
+   "fin": 65,
+   "rasgos": {
+    "type": "college",
+    "role": "organiser, host"
+   },
+   "texto": "Philadelphia College of Art"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 38,
+   "fin": 50,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Philadelphia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 110,
+   "fin": 142,
+   "rasgos": {
+    "type": "council",
+    "role": "patron"
+   },
+   "texto": "Pennsylvania Council on the Arts"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 110,
+   "fin": 122,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Pennsylvania"
+  },
+  {
+   "tipo": "person",
+   "ini": 206,
+   "fin": 221,
+   "rasgos": {
+    "role": "collaborator"
+   },
+   "texto": "Paula Marincola"
+  },
+  {
+   "tipo": "persName",
+   "ini": 206,
+   "fin": 221,
+   "texto": "Paula Marincola"
+  },
+  {
+   "tipo": "person",
+   "ini": 257,
+   "fin": 267,
+   "rasgos": {
+    "role": "assistant"
+   },
+   "texto": "Patsy Dass"
+  },
+  {
+   "tipo": "persName",
+   "ini": 257,
+   "fin": 267,
+   "texto": "Patsy Dass"
+  },
+  {
+   "tipo": "person",
+   "ini": 348,
+   "fin": 363,
+   "rasgos": {
+    "role": "collaborator"
+   },
+   "texto": "Arne H. Ekstrom"
+  },
+  {
+   "tipo": "persName",
+   "ini": 348,
+   "fin": 363,
+   "texto": "Arne H. Ekstrom"
+  },
+  {
+   "tipo": "person",
+   "ini": 368,
+   "fin": 382,
+   "rasgos": {
+    "role": "collaborator"
+   },
+   "texto": "Dorothy Kramer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 368,
+   "fin": 382,
+   "texto": "Dorothy Kramer"
+  },
+  {
+   "tipo": "person",
+   "ini": 462,
+   "fin": 477,
+   "rasgos": {
+    "role": "collaborator"
+   },
+   "texto": "Gordon Gibfried"
+  },
+  {
+   "tipo": "persName",
+   "ini": 462,
+   "fin": 477,
+   "texto": "Gordon Gibfried"
+  },
+  {
+   "tipo": "person",
+   "ini": 496,
+   "fin": 508,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Douglas Shaw"
+  },
+  {
+   "tipo": "persName",
+   "ini": 496,
+   "fin": 508,
+   "texto": "Douglas Shaw"
+  },
+  {
+   "tipo": "person",
+   "ini": 572,
+   "fin": 586,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nathan Knobler"
+  },
+  {
+   "tipo": "persName",
+   "ini": 572,
+   "fin": 586,
+   "texto": "Nathan Knobler"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 794,
+   "fin": 1189,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 794,
+   "fin": 821,
+   "rasgos": {
+    "type": "college",
+    "role": "organiser, host"
+   },
+   "texto": "Philadelphia College of Art"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 794,
+   "fin": 806,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Philadelphia"
+  },
+  {
+   "tipo": "person",
+   "ini": 836,
+   "fin": 847,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Elsa Weiner"
+  },
+  {
+   "tipo": "persName",
+   "ini": 836,
+   "fin": 847,
+   "texto": "Elsa Weiner"
+  },
+  {
+   "tipo": "person",
+   "ini": 879,
+   "fin": 897,
+   "rasgos": {
+    "role": "exhibitionAssitant"
+   },
+   "texto": "Elaine J. Cocordas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 879,
+   "fin": 897,
+   "texto": "Elaine J. Cocordas"
+  },
+  {
+   "tipo": "person",
+   "ini": 939,
+   "fin": 954,
+   "rasgos": {
+    "role": "exhibitionAttendant"
+   },
+   "texto": "Gordon Gibfried"
+  },
+  {
+   "tipo": "persName",
+   "ini": 939,
+   "fin": 954,
+   "texto": "Gordon Gibfried"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1020,
+   "fin": 1058,
+   "rasgos": {
+    "type": "council",
+    "role": "patron"
+   },
+   "texto": "Pennsylvania State Council on the Arts"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1020,
+   "fin": 1032,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Pennsylvania"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1059,
+   "fin": 1078,
+   "rasgos": {
+    "type": "library",
+    "role": "editor"
+   },
+   "texto": "Library of Congress"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1112,
+   "fin": 1139,
+   "rasgos": {
+    "type": "college",
+    "role": "organiser, host"
+   },
+   "texto": "Philadelphia College of Art"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1112,
+   "fin": 1124,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Philadelphia"
+  },
+  {
+   "tipo": "date",
+   "ini": 1140,
+   "fin": 1169,
+   "rasgos": {
+    "from": "1980-02-22",
+    "to": "1980-03-22"
+   },
+   "texto": "February 22 to March 22, 1980"
+  },
+  {
+   "tipo": "person",
+   "ini": 1172,
+   "fin": 1189,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Varujan Boghosian"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1172,
+   "fin": 1189,
+   "texto": "Varujan Boghosian"
+  },
+  {
+   "tipo": "title",
+   "ini": 1172,
+   "fin": 1189,
+   "texto": "Varujan Boghosian"
+  },
+  {
+   "tipo": "person",
+   "ini": 4471,
+   "fin": 4488,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Varujan Boghosian"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4471,
+   "fin": 4488,
+   "texto": "Varujan Boghosian"
+  },
+  {
+   "tipo": "person",
+   "ini": 4632,
+   "fin": 4641,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Boghosian"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4632,
+   "fin": 4641,
+   "texto": "Boghosian"
+  },
+  {
+   "tipo": "person",
+   "ini": 4807,
+   "fin": 4816,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Boghosian"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4807,
+   "fin": 4816,
+   "texto": "Boghosian"
+  },
+  {
+   "tipo": "person",
+   "ini": 5539,
+   "fin": 5556,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Varujan Boghosian"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5539,
+   "fin": 5556,
+   "texto": "Varujan Boghosian"
+  },
+  {
+   "tipo": "person",
+   "ini": 6182,
+   "fin": 6199,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Varujan Boghosian"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6182,
+   "fin": 6199,
+   "texto": "Varujan Boghosian"
+  },
+  {
+   "tipo": "person",
+   "ini": 6201,
+   "fin": 6264,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Varujan Boghosian\nBorn: June 26, 1926, New Britain, Connecticut"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6201,
+   "fin": 6218,
+   "texto": "Varujan Boghosian"
+  },
+  {
+   "tipo": "birth",
+   "ini": 6225,
+   "fin": 6264
+  },
+  {
+   "tipo": "date",
+   "ini": 6225,
+   "fin": 6238,
+   "rasgos": {
+    "when": "1926-06-26"
+   },
+   "texto": "June 26, 1926"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6240,
+   "fin": 6264,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New Britain, Connecticut"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 9292,
+   "fin": 13095
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9292,
+   "fin": 9382
+  },
+  {
+   "tipo": "img",
+   "ini": 9292,
+   "fin": 9297,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9299,
+   "fin": 9382,
+   "rasgos": {
+    "type": "construction"
+   },
+   "texto": "20\nTear #2, 1975\nWood, canvas, fired clay\n23 x 15 x 3 1/2\nLent by private collector"
+  },
+  {
+   "tipo": "title",
+   "ini": 9302,
+   "fin": 9309,
+   "texto": "Tear #2"
+  },
+  {
+   "tipo": "date",
+   "ini": 9311,
+   "fin": 9315,
+   "rasgos": {
+    "when": "1975"
+   },
+   "texto": "1975"
+  },
+  {
+   "tipo": "material",
+   "ini": 9316,
+   "fin": 9340,
+   "rasgos": {
+    "type": "wood, canvas, firedClay"
+   },
+   "texto": "Wood, canvas, fired clay"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9341,
+   "fin": 9356,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "23 x 15 x 3 1/2"
+  },
+  {
+   "tipo": "height",
+   "ini": 9341,
+   "fin": 9343,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 9346,
+   "fin": 9348,
+   "texto": "15"
+  },
+  {
+   "tipo": "depth",
+   "ini": 9351,
+   "fin": 9356,
+   "texto": "3 1/2"
+  },
+  {
+   "tipo": "person",
+   "ini": 9365,
+   "fin": 9382,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "private collector"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9384,
+   "fin": 9465
+  },
+  {
+   "tipo": "img",
+   "ini": 9384,
+   "fin": 9389,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9391,
+   "fin": 9465,
+   "rasgos": {
+    "type": "construction"
+   },
+   "texto": "14\nThe Rainbow, 1969\nWood, steel, cloth\n37 1/2 x 25 3/4\nLent by the artist"
+  },
+  {
+   "tipo": "title",
+   "ini": 9394,
+   "fin": 9405,
+   "texto": "The Rainbow"
+  },
+  {
+   "tipo": "date",
+   "ini": 9407,
+   "fin": 9411,
+   "rasgos": {
+    "when": "1969"
+   },
+   "texto": "1969"
+  },
+  {
+   "tipo": "material",
+   "ini": 9412,
+   "fin": 9430,
+   "rasgos": {
+    "type": "wood, steel, cloth"
+   },
+   "texto": "Wood, steel, cloth"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9431,
+   "fin": 9446,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "37 1/2 x 25 3/4"
+  },
+  {
+   "tipo": "height",
+   "ini": 9431,
+   "fin": 9437,
+   "texto": "37 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 9440,
+   "fin": 9446,
+   "texto": "25 3/4"
+  },
+  {
+   "tipo": "person",
+   "ini": 9455,
+   "fin": 9465,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "the artist"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9467,
+   "fin": 9555
+  },
+  {
+   "tipo": "img",
+   "ini": 9467,
+   "fin": 9472,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9474,
+   "fin": 9555,
+   "rasgos": {
+    "type": "construction"
+   },
+   "texto": "19\nSomething for Magritte, 1975\nStone and wood\n19 1/2 x 30 x 5\nLent by the artist"
+  },
+  {
+   "tipo": "title",
+   "ini": 9477,
+   "fin": 9499,
+   "texto": "Something for Magritte"
+  },
+  {
+   "tipo": "date",
+   "ini": 9501,
+   "fin": 9505,
+   "rasgos": {
+    "when": "1975"
+   },
+   "texto": "1975"
+  },
+  {
+   "tipo": "material",
+   "ini": 9506,
+   "fin": 9520,
+   "rasgos": {
+    "type": "stone, wood"
+   },
+   "texto": "Stone and wood"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9521,
+   "fin": 9536,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "19 1/2 x 30 x 5"
+  },
+  {
+   "tipo": "height",
+   "ini": 9521,
+   "fin": 9527,
+   "texto": "19 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 9530,
+   "fin": 9532,
+   "texto": "30"
+  },
+  {
+   "tipo": "depth",
+   "ini": 9535,
+   "fin": 9536,
+   "texto": "5"
+  },
+  {
+   "tipo": "person",
+   "ini": 9545,
+   "fin": 9555,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "the artist"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9557,
+   "fin": 9680
+  },
+  {
+   "tipo": "img",
+   "ini": 9557,
+   "fin": 9562,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9564,
+   "fin": 9680,
+   "rasgos": {
+    "type": "construction"
+   },
+   "texto": "16\nMonarch, 1976\nStoneblocks, steel, bronze and wood\n27 1/4 x 16 3/4 x 3 1/4\nCourtesy of Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "title",
+   "ini": 9567,
+   "fin": 9574,
+   "texto": "Monarch"
+  },
+  {
+   "tipo": "date",
+   "ini": 9576,
+   "fin": 9580,
+   "rasgos": {
+    "when": "1976"
+   },
+   "texto": "1976"
+  },
+  {
+   "tipo": "material",
+   "ini": 9581,
+   "fin": 9616,
+   "rasgos": {
+    "type": "stoneblocks, steel, bronze, wood"
+   },
+   "texto": "Stoneblocks, steel, bronze and wood"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9617,
+   "fin": 9640,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "27 1/4 x 16 3/4 x 3 1/4"
+  },
+  {
+   "tipo": "height",
+   "ini": 9617,
+   "fin": 9623,
+   "texto": "27 1/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 9626,
+   "fin": 9632,
+   "texto": "16 3/4"
+  },
+  {
+   "tipo": "depth",
+   "ini": 9635,
+   "fin": 9640,
+   "texto": "3 1/4"
+  },
+  {
+   "tipo": "institution",
+   "ini": 9653,
+   "fin": 9680,
+   "rasgos": {
+    "type": "gallery",
+    "role": "owner, lender"
+   },
+   "texto": "Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9682,
+   "fin": 9765
+  },
+  {
+   "tipo": "img",
+   "ini": 9682,
+   "fin": 9687,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9689,
+   "fin": 9765,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "6\nUntitled, 1979\nCollage\n15 x 10 6/8\nCourtesy of Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "title",
+   "ini": 9691,
+   "fin": 9699,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 9701,
+   "fin": 9705,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9706,
+   "fin": 9713,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9714,
+   "fin": 9725,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "15 x 10 6/8"
+  },
+  {
+   "tipo": "height",
+   "ini": 9714,
+   "fin": 9716,
+   "texto": "15"
+  },
+  {
+   "tipo": "width",
+   "ini": 9719,
+   "fin": 9725,
+   "texto": "10 6/8"
+  },
+  {
+   "tipo": "institution",
+   "ini": 9738,
+   "fin": 9765,
+   "rasgos": {
+    "type": "gallery",
+    "role": "owner, lender"
+   },
+   "texto": "Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9767,
+   "fin": 9854
+  },
+  {
+   "tipo": "img",
+   "ini": 9767,
+   "fin": 9772,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9774,
+   "fin": 9854,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "5\nUntitled, 1979\nCollage\n13 1/2 x 14 3/4\nCourtesy of Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "title",
+   "ini": 9776,
+   "fin": 9784,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 9786,
+   "fin": 9790,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9791,
+   "fin": 9798,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9799,
+   "fin": 9814,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "13 1/2 x 14 3/4"
+  },
+  {
+   "tipo": "height",
+   "ini": 9799,
+   "fin": 9805,
+   "texto": "13 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 9808,
+   "fin": 9814,
+   "texto": "14 3/4"
+  },
+  {
+   "tipo": "institution",
+   "ini": 9827,
+   "fin": 9854,
+   "rasgos": {
+    "type": "gallery",
+    "role": "owner, lender"
+   },
+   "texto": "Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9856,
+   "fin": 9943
+  },
+  {
+   "tipo": "img",
+   "ini": 9856,
+   "fin": 9861,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9863,
+   "fin": 9943,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "9\nUntitled, 1979\nCollage\n11 1/2 x 16 1/4\nCourtesy of Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "title",
+   "ini": 9865,
+   "fin": 9873,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 9875,
+   "fin": 9879,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9880,
+   "fin": 9887,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9888,
+   "fin": 9903,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "11 1/2 x 16 1/4"
+  },
+  {
+   "tipo": "height",
+   "ini": 9888,
+   "fin": 9894,
+   "texto": "11 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 9897,
+   "fin": 9903,
+   "texto": "16 1/4"
+  },
+  {
+   "tipo": "institution",
+   "ini": 9916,
+   "fin": 9943,
+   "rasgos": {
+    "type": "gallery",
+    "role": "owner, lender"
+   },
+   "texto": "Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9945,
+   "fin": 10029
+  },
+  {
+   "tipo": "img",
+   "ini": 9945,
+   "fin": 9950,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9952,
+   "fin": 10029,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "2\nUntitled, 1979\nCollage\n12 x 10 7/16\nCourtesy of Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "title",
+   "ini": 9954,
+   "fin": 9962,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 9964,
+   "fin": 9968,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9969,
+   "fin": 9976,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9977,
+   "fin": 9989,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "12 x 10 7/16"
+  },
+  {
+   "tipo": "height",
+   "ini": 9977,
+   "fin": 9979,
+   "texto": "12"
+  },
+  {
+   "tipo": "width",
+   "ini": 9982,
+   "fin": 9989,
+   "texto": "10 7/16"
+  },
+  {
+   "tipo": "institution",
+   "ini": 10002,
+   "fin": 10029,
+   "rasgos": {
+    "type": "gallery",
+    "role": "owner, lender"
+   },
+   "texto": "Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10031,
+   "fin": 10119
+  },
+  {
+   "tipo": "img",
+   "ini": 10031,
+   "fin": 10036,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10038,
+   "fin": 10119,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "10\nUntitled, 1979\nCollage\n13 1/4 x 10 1/2\nCourtesy of Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "title",
+   "ini": 10041,
+   "fin": 10049,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 10051,
+   "fin": 10055,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10056,
+   "fin": 10063,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10064,
+   "fin": 10079,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "13 1/4 x 10 1/2"
+  },
+  {
+   "tipo": "height",
+   "ini": 10064,
+   "fin": 10070,
+   "texto": "13 1/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 10073,
+   "fin": 10079,
+   "texto": "10 1/2"
+  },
+  {
+   "tipo": "institution",
+   "ini": 10092,
+   "fin": 10119,
+   "rasgos": {
+    "type": "gallery",
+    "role": "owner, lender"
+   },
+   "texto": "Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10121,
+   "fin": 10209
+  },
+  {
+   "tipo": "img",
+   "ini": 10121,
+   "fin": 10126,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10128,
+   "fin": 10209,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "13\nUntitled, 1979\nCollage\n15 5/8 x 10 3/8\nCourtesy of Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "title",
+   "ini": 10131,
+   "fin": 10139,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 10141,
+   "fin": 10145,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10146,
+   "fin": 10153,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10154,
+   "fin": 10169,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "15 5/8 x 10 3/8"
+  },
+  {
+   "tipo": "height",
+   "ini": 10154,
+   "fin": 10160,
+   "texto": "15 5/8"
+  },
+  {
+   "tipo": "width",
+   "ini": 10163,
+   "fin": 10169,
+   "texto": "10 3/8"
+  },
+  {
+   "tipo": "institution",
+   "ini": 10182,
+   "fin": 10209,
+   "rasgos": {
+    "type": "gallery",
+    "role": "owner, lender"
+   },
+   "texto": "Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10211,
+   "fin": 10315
+  },
+  {
+   "tipo": "img",
+   "ini": 10211,
+   "fin": 10216,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10218,
+   "fin": 10315,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "25\nOrpheus and Charon, 1977\nSteel, brass and bronze\n28 1/4 x 32 3/8 x 6\nLent by private collector"
+  },
+  {
+   "tipo": "title",
+   "ini": 10221,
+   "fin": 10239,
+   "texto": "Orpheus and Charon"
+  },
+  {
+   "tipo": "date",
+   "ini": 10241,
+   "fin": 10245,
+   "rasgos": {
+    "when": "1977"
+   },
+   "texto": "1977"
+  },
+  {
+   "tipo": "material",
+   "ini": 10246,
+   "fin": 10269,
+   "rasgos": {
+    "type": "steel, brass, bronze"
+   },
+   "texto": "Steel, brass and bronze"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10270,
+   "fin": 10289,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "28 1/4 x 32 3/8 x 6"
+  },
+  {
+   "tipo": "height",
+   "ini": 10270,
+   "fin": 10276,
+   "texto": "28 1/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 10279,
+   "fin": 10285,
+   "texto": "32 3/8"
+  },
+  {
+   "tipo": "depth",
+   "ini": 10288,
+   "fin": 10289,
+   "texto": "6"
+  },
+  {
+   "tipo": "person",
+   "ini": 10298,
+   "fin": 10315,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "private collector"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10317,
+   "fin": 10451
+  },
+  {
+   "tipo": "img",
+   "ini": 10317,
+   "fin": 10322,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogie"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10324,
+   "fin": 10451,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "26\nMusic and Memory, 1977\nCloth, glass, wood, leather, brass, chalk\n21 3/4 x 24 x 7 1/8\nCourtesy of Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "title",
+   "ini": 10327,
+   "fin": 10343,
+   "texto": "Music and Memory"
+  },
+  {
+   "tipo": "date",
+   "ini": 10345,
+   "fin": 10349,
+   "rasgos": {
+    "when": "1977"
+   },
+   "texto": "1977"
+  },
+  {
+   "tipo": "material",
+   "ini": 10350,
+   "fin": 10391,
+   "rasgos": {
+    "type": "cloth, glass, wood, leather, brass, chalk"
+   },
+   "texto": "Cloth, glass, wood, leather, brass, chalk"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10392,
+   "fin": 10411,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "21 3/4 x 24 x 7 1/8"
+  },
+  {
+   "tipo": "height",
+   "ini": 10392,
+   "fin": 10398,
+   "texto": "21 3/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 10401,
+   "fin": 10403,
+   "texto": "24"
+  },
+  {
+   "tipo": "depth",
+   "ini": 10406,
+   "fin": 10411,
+   "texto": "7 1/8"
+  },
+  {
+   "tipo": "institution",
+   "ini": 10424,
+   "fin": 10451,
+   "rasgos": {
+    "type": "gallery",
+    "role": "owner, lender"
+   },
+   "texto": "Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "work",
+   "ini": 10464,
+   "fin": 10544,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "1\nUntitled, 1979\nCollage\n13 1/4 x 10 3/8\nCourtesy of Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10464,
+   "fin": 10544
+  },
+  {
+   "tipo": "title",
+   "ini": 10466,
+   "fin": 10474,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 10476,
+   "fin": 10480,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10481,
+   "fin": 10488,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10489,
+   "fin": 10504,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "13 1/4 x 10 3/8"
+  },
+  {
+   "tipo": "height",
+   "ini": 10489,
+   "fin": 10495,
+   "texto": "13 1/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 10498,
+   "fin": 10504,
+   "texto": "10 3/8"
+  },
+  {
+   "tipo": "institution",
+   "ini": 10517,
+   "fin": 10544,
+   "rasgos": {
+    "type": "gallery",
+    "role": "owner, lender"
+   },
+   "texto": "Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "work",
+   "ini": 10547,
+   "fin": 10625,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "2\nUntitled, 1979\nCollage\n12 x 10  7/14\nCourtesy of Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10547,
+   "fin": 10625
+  },
+  {
+   "tipo": "title",
+   "ini": 10549,
+   "fin": 10557,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 10559,
+   "fin": 10563,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10564,
+   "fin": 10571,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10572,
+   "fin": 10585,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "12 x 10  7/14"
+  },
+  {
+   "tipo": "height",
+   "ini": 10572,
+   "fin": 10574,
+   "texto": "12"
+  },
+  {
+   "tipo": "width",
+   "ini": 10577,
+   "fin": 10585,
+   "texto": "10  7/14"
+  },
+  {
+   "tipo": "institution",
+   "ini": 10598,
+   "fin": 10625,
+   "rasgos": {
+    "type": "gallery",
+    "role": "owner, lender"
+   },
+   "texto": "Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "work",
+   "ini": 10628,
+   "fin": 10700,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "3\nUntitled, 1979\nCollage\n16 x 11\nCourtesy of Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10628,
+   "fin": 10700
+  },
+  {
+   "tipo": "title",
+   "ini": 10630,
+   "fin": 10638,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 10640,
+   "fin": 10644,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10645,
+   "fin": 10652,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10653,
+   "fin": 10660,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "16 x 11"
+  },
+  {
+   "tipo": "height",
+   "ini": 10653,
+   "fin": 10655,
+   "texto": "16"
+  },
+  {
+   "tipo": "width",
+   "ini": 10658,
+   "fin": 10660,
+   "texto": "11"
+  },
+  {
+   "tipo": "institution",
+   "ini": 10673,
+   "fin": 10700,
+   "rasgos": {
+    "type": "gallery",
+    "role": "owner, lender"
+   },
+   "texto": "Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "work",
+   "ini": 10703,
+   "fin": 10783,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "4\nUntitled, 1979\nCollage\n15 1/2 X 10 1/2\nCourtesy of Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10703,
+   "fin": 10783
+  },
+  {
+   "tipo": "title",
+   "ini": 10705,
+   "fin": 10713,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 10715,
+   "fin": 10719,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10720,
+   "fin": 10727,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10728,
+   "fin": 10743,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "15 1/2 X 10 1/2"
+  },
+  {
+   "tipo": "height",
+   "ini": 10728,
+   "fin": 10734,
+   "texto": "15 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 10737,
+   "fin": 10743,
+   "texto": "10 1/2"
+  },
+  {
+   "tipo": "institution",
+   "ini": 10756,
+   "fin": 10783,
+   "rasgos": {
+    "type": "gallery",
+    "role": "owner, lender"
+   },
+   "texto": "Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "work",
+   "ini": 10786,
+   "fin": 10866,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "5\nUntitled, 1979\nCollage\n13 1/2 X 14 3/4\nCourtesy of Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10786,
+   "fin": 10866
+  },
+  {
+   "tipo": "title",
+   "ini": 10788,
+   "fin": 10796,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 10798,
+   "fin": 10802,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10803,
+   "fin": 10810,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10811,
+   "fin": 10826,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "13 1/2 X 14 3/4"
+  },
+  {
+   "tipo": "height",
+   "ini": 10811,
+   "fin": 10817,
+   "texto": "13 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 10820,
+   "fin": 10826,
+   "texto": "14 3/4"
+  },
+  {
+   "tipo": "institution",
+   "ini": 10839,
+   "fin": 10866,
+   "rasgos": {
+    "type": "gallery",
+    "role": "owner, lender"
+   },
+   "texto": "Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "work",
+   "ini": 10869,
+   "fin": 10945,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "6\nUntitled, 1979\nCollage\n15 X 10 5/8\nCourtesy of Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10869,
+   "fin": 10945
+  },
+  {
+   "tipo": "title",
+   "ini": 10871,
+   "fin": 10879,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 10881,
+   "fin": 10885,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10886,
+   "fin": 10893,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10894,
+   "fin": 10905,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "15 X 10 5/8"
+  },
+  {
+   "tipo": "height",
+   "ini": 10894,
+   "fin": 10896,
+   "texto": "15"
+  },
+  {
+   "tipo": "width",
+   "ini": 10899,
+   "fin": 10905,
+   "texto": "10 5/8"
+  },
+  {
+   "tipo": "institution",
+   "ini": 10918,
+   "fin": 10945,
+   "rasgos": {
+    "type": "gallery",
+    "role": "owner, lender"
+   },
+   "texto": "Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "work",
+   "ini": 10948,
+   "fin": 11027,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "7\nUntitled, 1979\nCollage\n12 1/2 x 8 7/8\nCourtesy of Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10948,
+   "fin": 11027
+  },
+  {
+   "tipo": "title",
+   "ini": 10950,
+   "fin": 10958,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 10960,
+   "fin": 10964,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10965,
+   "fin": 10972,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10973,
+   "fin": 10987,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "12 1/2 x 8 7/8"
+  },
+  {
+   "tipo": "height",
+   "ini": 10973,
+   "fin": 10979,
+   "texto": "12 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 10982,
+   "fin": 10987,
+   "texto": "8 7/8"
+  },
+  {
+   "tipo": "institution",
+   "ini": 11000,
+   "fin": 11027,
+   "rasgos": {
+    "type": "gallery",
+    "role": "owner, lender"
+   },
+   "texto": "Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "work",
+   "ini": 11030,
+   "fin": 11108,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "8\nUntitled, 1979\nCollage\n8 1/4 x 5 3/8\nCourtesy of Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11030,
+   "fin": 11108
+  },
+  {
+   "tipo": "title",
+   "ini": 11032,
+   "fin": 11040,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 11042,
+   "fin": 11046,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11047,
+   "fin": 11054,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11055,
+   "fin": 11068,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "8 1/4 x 5 3/8"
+  },
+  {
+   "tipo": "height",
+   "ini": 11055,
+   "fin": 11060,
+   "texto": "8 1/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 11063,
+   "fin": 11068,
+   "texto": "5 3/8"
+  },
+  {
+   "tipo": "institution",
+   "ini": 11081,
+   "fin": 11108,
+   "rasgos": {
+    "type": "gallery",
+    "role": "owner, lender"
+   },
+   "texto": "Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "work",
+   "ini": 11111,
+   "fin": 11191,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "9\nUntitled, 1979\nCollage\n11 1/2 X 16 1/4\nCourtesy of Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11111,
+   "fin": 11191
+  },
+  {
+   "tipo": "title",
+   "ini": 11113,
+   "fin": 11121,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 11123,
+   "fin": 11127,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11128,
+   "fin": 11135,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11136,
+   "fin": 11151,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "11 1/2 X 16 1/4"
+  },
+  {
+   "tipo": "height",
+   "ini": 11136,
+   "fin": 11142,
+   "texto": "11 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 11145,
+   "fin": 11151,
+   "texto": "16 1/4"
+  },
+  {
+   "tipo": "institution",
+   "ini": 11164,
+   "fin": 11191,
+   "rasgos": {
+    "type": "gallery",
+    "role": "owner, lender"
+   },
+   "texto": "Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "work",
+   "ini": 11194,
+   "fin": 11275,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "10\nUntitled, 1979\nCollage\n13 1/4 X 10 1/2\nCourtesy of Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11194,
+   "fin": 11275
+  },
+  {
+   "tipo": "title",
+   "ini": 11197,
+   "fin": 11205,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 11207,
+   "fin": 11211,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11212,
+   "fin": 11219,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11220,
+   "fin": 11235,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "13 1/4 X 10 1/2"
+  },
+  {
+   "tipo": "height",
+   "ini": 11220,
+   "fin": 11226,
+   "texto": "13 1/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 11229,
+   "fin": 11235,
+   "texto": "10 1/2"
+  },
+  {
+   "tipo": "institution",
+   "ini": 11248,
+   "fin": 11275,
+   "rasgos": {
+    "type": "gallery",
+    "role": "owner, lender"
+   },
+   "texto": "Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "work",
+   "ini": 11278,
+   "fin": 11354,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "11\nUntitled, 1979\nCollage\n15 x 9 1/4\nCourtesy of Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11278,
+   "fin": 11354
+  },
+  {
+   "tipo": "title",
+   "ini": 11281,
+   "fin": 11289,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 11291,
+   "fin": 11295,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11296,
+   "fin": 11303,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11304,
+   "fin": 11314,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "15 x 9 1/4"
+  },
+  {
+   "tipo": "height",
+   "ini": 11304,
+   "fin": 11306,
+   "texto": "15"
+  },
+  {
+   "tipo": "width",
+   "ini": 11309,
+   "fin": 11314,
+   "texto": "9 1/4"
+  },
+  {
+   "tipo": "institution",
+   "ini": 11327,
+   "fin": 11354,
+   "rasgos": {
+    "type": "gallery",
+    "role": "owner, lender"
+   },
+   "texto": "Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "work",
+   "ini": 11357,
+   "fin": 11433,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "12\nUntitled, 1979\nCollage\n8 1/2 x 11\nCourtesy of Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11357,
+   "fin": 11433
+  },
+  {
+   "tipo": "title",
+   "ini": 11360,
+   "fin": 11368,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 11370,
+   "fin": 11374,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11375,
+   "fin": 11382,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11383,
+   "fin": 11393,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "8 1/2 x 11"
+  },
+  {
+   "tipo": "height",
+   "ini": 11383,
+   "fin": 11388,
+   "texto": "8 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 11391,
+   "fin": 11393,
+   "texto": "11"
+  },
+  {
+   "tipo": "institution",
+   "ini": 11406,
+   "fin": 11433,
+   "rasgos": {
+    "type": "gallery",
+    "role": "owner, lender"
+   },
+   "texto": "Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "work",
+   "ini": 11436,
+   "fin": 11517,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "13\nUntitled, 1979\nCollage\n15 5/8 x 10 3/8\nCourtesy of Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11436,
+   "fin": 11517
+  },
+  {
+   "tipo": "title",
+   "ini": 11439,
+   "fin": 11447,
+   "texto": "Untitled"
+  },
+  {
+   "tipo": "date",
+   "ini": 11449,
+   "fin": 11453,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11454,
+   "fin": 11461,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11462,
+   "fin": 11477,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "15 5/8 x 10 3/8"
+  },
+  {
+   "tipo": "height",
+   "ini": 11462,
+   "fin": 11468,
+   "texto": "15 5/8"
+  },
+  {
+   "tipo": "width",
+   "ini": 11471,
+   "fin": 11477,
+   "texto": "10 3/8"
+  },
+  {
+   "tipo": "institution",
+   "ini": 11490,
+   "fin": 11517,
+   "rasgos": {
+    "type": "gallery",
+    "role": "owner, lender"
+   },
+   "texto": "Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11612,
+   "fin": 11688
+  },
+  {
+   "tipo": "work",
+   "ini": 11615,
+   "fin": 11688,
+   "rasgos": {
+    "type": "construction"
+   },
+   "texto": "The Rainbow, 1969 \nWood, steel, cloth \n37 1/2 X 25 3/4\nLent by the artist"
+  },
+  {
+   "tipo": "title",
+   "ini": 11615,
+   "fin": 11626,
+   "texto": "The Rainbow"
+  },
+  {
+   "tipo": "date",
+   "ini": 11628,
+   "fin": 11632,
+   "rasgos": {
+    "when": "1969"
+   },
+   "texto": "1969"
+  },
+  {
+   "tipo": "material",
+   "ini": 11634,
+   "fin": 11652,
+   "rasgos": {
+    "type": "wood, steel, cloth"
+   },
+   "texto": "Wood, steel, cloth"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11654,
+   "fin": 11669,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "37 1/2 X 25 3/4"
+  },
+  {
+   "tipo": "height",
+   "ini": 11654,
+   "fin": 11660,
+   "texto": "37 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 11663,
+   "fin": 11669,
+   "texto": "25 3/4"
+  },
+  {
+   "tipo": "person",
+   "ini": 11678,
+   "fin": 11688,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "the artist"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11691,
+   "fin": 11778
+  },
+  {
+   "tipo": "work",
+   "ini": 11694,
+   "fin": 11778,
+   "rasgos": {
+    "type": "construction"
+   },
+   "texto": "The Feeder, 1971\nWood, brass, cloth, composition \n67 1/2 X 25 1/2\nLent by the artist"
+  },
+  {
+   "tipo": "title",
+   "ini": 11694,
+   "fin": 11704,
+   "texto": "The Feeder"
+  },
+  {
+   "tipo": "date",
+   "ini": 11706,
+   "fin": 11710,
+   "rasgos": {
+    "when": "1971"
+   },
+   "texto": "1971"
+  },
+  {
+   "tipo": "material",
+   "ini": 11711,
+   "fin": 11743,
+   "rasgos": {
+    "type": "wood, brass, cloth, composition"
+   },
+   "texto": "Wood, brass, cloth, composition "
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11744,
+   "fin": 11759,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "67 1/2 X 25 1/2"
+  },
+  {
+   "tipo": "height",
+   "ini": 11744,
+   "fin": 11750,
+   "texto": "67 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 11753,
+   "fin": 11759,
+   "texto": "25 1/2"
+  },
+  {
+   "tipo": "person",
+   "ini": 11768,
+   "fin": 11778,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "the artist"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11781,
+   "fin": 11898
+  },
+  {
+   "tipo": "work",
+   "ini": 11784,
+   "fin": 11898,
+   "rasgos": {
+    "type": "construction"
+   },
+   "texto": "Monarch, 1976\nStoneblocks, steel, bronze and wood \n27 1/4 X 16 3/4 x 3 1/4\nCourtesy of Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "title",
+   "ini": 11784,
+   "fin": 11791,
+   "texto": "Monarch"
+  },
+  {
+   "tipo": "date",
+   "ini": 11793,
+   "fin": 11797,
+   "rasgos": {
+    "when": "1976"
+   },
+   "texto": "1976"
+  },
+  {
+   "tipo": "material",
+   "ini": 11798,
+   "fin": 11833,
+   "rasgos": {
+    "type": "stoneblocks, steel, bronze, wood"
+   },
+   "texto": "Stoneblocks, steel, bronze and wood"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11835,
+   "fin": 11858,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "27 1/4 X 16 3/4 x 3 1/4"
+  },
+  {
+   "tipo": "height",
+   "ini": 11835,
+   "fin": 11841,
+   "texto": "27 1/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 11844,
+   "fin": 11850,
+   "texto": "16 3/4"
+  },
+  {
+   "tipo": "depth",
+   "ini": 11853,
+   "fin": 11858,
+   "texto": "3 1/4"
+  },
+  {
+   "tipo": "institution",
+   "ini": 11871,
+   "fin": 11898,
+   "rasgos": {
+    "type": "gallery",
+    "role": "owner, lender"
+   },
+   "texto": "Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11901,
+   "fin": 12013
+  },
+  {
+   "tipo": "work",
+   "ini": 11904,
+   "fin": 12014,
+   "rasgos": {
+    "type": "construction"
+   },
+   "texto": "The Nile, 1976\nStoneblocks, lead, wood and steel \n27 3/8 x 17 x 2 1/4\nCourtesy of Cordier and Ekstrom Gallery\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 11904,
+   "fin": 11912,
+   "texto": "The Nile"
+  },
+  {
+   "tipo": "date",
+   "ini": 11914,
+   "fin": 11918,
+   "rasgos": {
+    "when": "1976"
+   },
+   "texto": "1976"
+  },
+  {
+   "tipo": "material",
+   "ini": 11919,
+   "fin": 11953,
+   "rasgos": {
+    "type": "stoneblocks, lead, wood, steel"
+   },
+   "texto": "Stoneblocks, lead, wood and steel "
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11954,
+   "fin": 11973,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "27 3/8 x 17 x 2 1/4"
+  },
+  {
+   "tipo": "height",
+   "ini": 11954,
+   "fin": 11960,
+   "texto": "27 3/8"
+  },
+  {
+   "tipo": "width",
+   "ini": 11963,
+   "fin": 11965,
+   "texto": "17"
+  },
+  {
+   "tipo": "depth",
+   "ini": 11968,
+   "fin": 11973,
+   "texto": "2 1/4"
+  },
+  {
+   "tipo": "institution",
+   "ini": 11986,
+   "fin": 12013,
+   "rasgos": {
+    "type": "gallery",
+    "role": "owner, lender"
+   },
+   "texto": "Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12016,
+   "fin": 12099
+  },
+  {
+   "tipo": "work",
+   "ini": 12019,
+   "fin": 12100,
+   "rasgos": {
+    "type": "construction"
+   },
+   "texto": "Gray Day Study, 1969 \nWood and steel\n36 x 26 3/4\nCollection of the artist's wife\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 12019,
+   "fin": 12033,
+   "texto": "Gray Day Study"
+  },
+  {
+   "tipo": "date",
+   "ini": 12035,
+   "fin": 12039,
+   "rasgos": {
+    "when": "1969"
+   },
+   "texto": "1969"
+  },
+  {
+   "tipo": "material",
+   "ini": 12041,
+   "fin": 12055,
+   "rasgos": {
+    "type": "wood, steel"
+   },
+   "texto": "Wood and steel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12056,
+   "fin": 12067,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "36 x 26 3/4"
+  },
+  {
+   "tipo": "height",
+   "ini": 12056,
+   "fin": 12058,
+   "texto": "36"
+  },
+  {
+   "tipo": "width",
+   "ini": 12061,
+   "fin": 12067,
+   "texto": "26 3/4"
+  },
+  {
+   "tipo": "person",
+   "ini": 12082,
+   "fin": 12099,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "the artist's wife"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12102,
+   "fin": 12184
+  },
+  {
+   "tipo": "work",
+   "ini": 12105,
+   "fin": 12184,
+   "rasgos": {
+    "type": "construction"
+   },
+   "texto": "Something for Magritte, 1975 \nStone and wood\n19 1/2 X 30 X 5\nLent by the artist"
+  },
+  {
+   "tipo": "title",
+   "ini": 12105,
+   "fin": 12127,
+   "texto": "Something for Magritte"
+  },
+  {
+   "tipo": "date",
+   "ini": 12129,
+   "fin": 12133,
+   "rasgos": {
+    "when": "1975"
+   },
+   "texto": "1975"
+  },
+  {
+   "tipo": "material",
+   "ini": 12135,
+   "fin": 12149,
+   "rasgos": {
+    "type": "stone, wood"
+   },
+   "texto": "Stone and wood"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12150,
+   "fin": 12165,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "19 1/2 X 30 X 5"
+  },
+  {
+   "tipo": "height",
+   "ini": 12150,
+   "fin": 12156,
+   "texto": "19 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 12159,
+   "fin": 12161,
+   "texto": "30"
+  },
+  {
+   "tipo": "depth",
+   "ini": 12164,
+   "fin": 12165,
+   "texto": "5"
+  },
+  {
+   "tipo": "person",
+   "ini": 12174,
+   "fin": 12184,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "the artist"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12187,
+   "fin": 12272
+  },
+  {
+   "tipo": "work",
+   "ini": 12190,
+   "fin": 12271,
+   "rasgos": {
+    "type": "construction"
+   },
+   "texto": "Tear #2, 1975\nWood, canvas, fired clay \n23 x 15 x 3 1/2\nLent by private collector"
+  },
+  {
+   "tipo": "title",
+   "ini": 12190,
+   "fin": 12197,
+   "texto": "Tear #2"
+  },
+  {
+   "tipo": "date",
+   "ini": 12199,
+   "fin": 12203,
+   "rasgos": {
+    "when": "1975"
+   },
+   "texto": "1975"
+  },
+  {
+   "tipo": "material",
+   "ini": 12204,
+   "fin": 12228,
+   "rasgos": {
+    "type": "wood, canvas, firedClay"
+   },
+   "texto": "Wood, canvas, fired clay"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12230,
+   "fin": 12245,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "23 x 15 x 3 1/2"
+  },
+  {
+   "tipo": "height",
+   "ini": 12230,
+   "fin": 12232,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 12235,
+   "fin": 12237,
+   "texto": "15"
+  },
+  {
+   "tipo": "depth",
+   "ini": 12240,
+   "fin": 12245,
+   "texto": "3 1/2"
+  },
+  {
+   "tipo": "person",
+   "ini": 12254,
+   "fin": 12271,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "private collector"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12274,
+   "fin": 12363
+  },
+  {
+   "tipo": "work",
+   "ini": 12277,
+   "fin": 12363,
+   "rasgos": {
+    "type": "construction"
+   },
+   "texto": "Tokens, 1977\nWood, glass, and lead\n22 3/4 x 35 1/4 x 3\nCollection of the artist's wife"
+  },
+  {
+   "tipo": "title",
+   "ini": 12277,
+   "fin": 12283,
+   "texto": "Tokens"
+  },
+  {
+   "tipo": "date",
+   "ini": 12285,
+   "fin": 12289,
+   "rasgos": {
+    "when": "1977"
+   },
+   "texto": "1977"
+  },
+  {
+   "tipo": "material",
+   "ini": 12290,
+   "fin": 12311,
+   "rasgos": {
+    "type": "wood, glass, lead"
+   },
+   "texto": "Wood, glass, and lead"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12312,
+   "fin": 12331,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "22 3/4 x 35 1/4 x 3"
+  },
+  {
+   "tipo": "height",
+   "ini": 12312,
+   "fin": 12318,
+   "texto": "22 3/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 12321,
+   "fin": 12327,
+   "texto": "35 1/4"
+  },
+  {
+   "tipo": "depth",
+   "ini": 12330,
+   "fin": 12331,
+   "texto": "3"
+  },
+  {
+   "tipo": "person",
+   "ini": 12346,
+   "fin": 12363,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "the artist's wife"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12366,
+   "fin": 12444
+  },
+  {
+   "tipo": "work",
+   "ini": 12369,
+   "fin": 12444,
+   "rasgos": {
+    "type": "construction"
+   },
+   "texto": "The Prince, 1973\nStained glass, wood, cloth \n22 x 25 x 3\nLent by the artist"
+  },
+  {
+   "tipo": "title",
+   "ini": 12369,
+   "fin": 12379,
+   "texto": "The Prince"
+  },
+  {
+   "tipo": "date",
+   "ini": 12381,
+   "fin": 12385,
+   "rasgos": {
+    "when": "1973"
+   },
+   "texto": "1973"
+  },
+  {
+   "tipo": "material",
+   "ini": 12386,
+   "fin": 12413,
+   "rasgos": {
+    "type": "stainedGlass, wood, cloth"
+   },
+   "texto": "Stained glass, wood, cloth "
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12414,
+   "fin": 12425,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "22 x 25 x 3"
+  },
+  {
+   "tipo": "height",
+   "ini": 12414,
+   "fin": 12416,
+   "texto": "22"
+  },
+  {
+   "tipo": "width",
+   "ini": 12419,
+   "fin": 12421,
+   "texto": "25"
+  },
+  {
+   "tipo": "depth",
+   "ini": 12424,
+   "fin": 12425,
+   "texto": "3"
+  },
+  {
+   "tipo": "person",
+   "ini": 12434,
+   "fin": 12444,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "the artist"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12447,
+   "fin": 12507
+  },
+  {
+   "tipo": "work",
+   "ini": 12450,
+   "fin": 12507,
+   "rasgos": {
+    "type": "construction"
+   },
+   "texto": "Eurydice, 1973 \nWood \n67 x 22 x 9 3/4 \nLent by the artist"
+  },
+  {
+   "tipo": "title",
+   "ini": 12450,
+   "fin": 12458,
+   "texto": "Eurydice"
+  },
+  {
+   "tipo": "date",
+   "ini": 12460,
+   "fin": 12464,
+   "rasgos": {
+    "when": "1973"
+   },
+   "texto": "1973"
+  },
+  {
+   "tipo": "material",
+   "ini": 12466,
+   "fin": 12470,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Wood"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12472,
+   "fin": 12488,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "67 x 22 x 9 3/4 "
+  },
+  {
+   "tipo": "height",
+   "ini": 12472,
+   "fin": 12474,
+   "texto": "67"
+  },
+  {
+   "tipo": "width",
+   "ini": 12477,
+   "fin": 12479,
+   "texto": "22"
+  },
+  {
+   "tipo": "depth",
+   "ini": 12482,
+   "fin": 12487,
+   "texto": "9 3/4"
+  },
+  {
+   "tipo": "person",
+   "ini": 12497,
+   "fin": 12507,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "the artist"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12510,
+   "fin": 12605
+  },
+  {
+   "tipo": "work",
+   "ini": 12513,
+   "fin": 12605,
+   "rasgos": {
+    "type": "construction"
+   },
+   "texto": "Cap and Bell, 1977 \nGlass, wood, brass, cloth \n23 3/8 x 25 x 4 1/4\nLent by private collector"
+  },
+  {
+   "tipo": "title",
+   "ini": 12513,
+   "fin": 12525,
+   "texto": "Cap and Bell"
+  },
+  {
+   "tipo": "date",
+   "ini": 12527,
+   "fin": 12531,
+   "rasgos": {
+    "when": "1977"
+   },
+   "texto": "1977"
+  },
+  {
+   "tipo": "material",
+   "ini": 12533,
+   "fin": 12559,
+   "rasgos": {
+    "type": "glass, wood, brass, cloth"
+   },
+   "texto": "Glass, wood, brass, cloth "
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12560,
+   "fin": 12579,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "23 3/8 x 25 x 4 1/4"
+  },
+  {
+   "tipo": "height",
+   "ini": 12560,
+   "fin": 12566,
+   "texto": "23 3/8"
+  },
+  {
+   "tipo": "width",
+   "ini": 12569,
+   "fin": 12571,
+   "texto": "25"
+  },
+  {
+   "tipo": "depth",
+   "ini": 12574,
+   "fin": 12579,
+   "texto": "4 1/4"
+  },
+  {
+   "tipo": "person",
+   "ini": 12588,
+   "fin": 12605,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "private collector"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12634,
+   "fin": 12733
+  },
+  {
+   "tipo": "work",
+   "ini": 12637,
+   "fin": 12733,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Orpheus and Charon, 1977 \nSteel, brass and bronze \n28 1/4 x 32 3/8 x 6\nLent by private collector"
+  },
+  {
+   "tipo": "title",
+   "ini": 12637,
+   "fin": 12655,
+   "texto": "Orpheus and Charon"
+  },
+  {
+   "tipo": "date",
+   "ini": 12657,
+   "fin": 12661,
+   "rasgos": {
+    "when": "1977"
+   },
+   "texto": "1977"
+  },
+  {
+   "tipo": "material",
+   "ini": 12663,
+   "fin": 12687,
+   "rasgos": {
+    "type": "steel, brass, bronze"
+   },
+   "texto": "Steel, brass and bronze "
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12688,
+   "fin": 12707,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "28 1/4 x 32 3/8 x 6"
+  },
+  {
+   "tipo": "height",
+   "ini": 12688,
+   "fin": 12694,
+   "texto": "28 1/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 12697,
+   "fin": 12703,
+   "texto": "32 3/8"
+  },
+  {
+   "tipo": "depth",
+   "ini": 12706,
+   "fin": 12707,
+   "texto": "6"
+  },
+  {
+   "tipo": "person",
+   "ini": 12716,
+   "fin": 12733,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "private collector"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12736,
+   "fin": 12873
+  },
+  {
+   "tipo": "work",
+   "ini": 12739,
+   "fin": 12873,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Music and Memory, 1977\nCloth, glass, wood, leather, brass, chalk and rope \n21 3/4 X 24 X 7 1/8\nCourtesy of Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "title",
+   "ini": 12739,
+   "fin": 12755,
+   "texto": "Music and Memory"
+  },
+  {
+   "tipo": "date",
+   "ini": 12757,
+   "fin": 12761,
+   "rasgos": {
+    "when": "1977"
+   },
+   "texto": "1977"
+  },
+  {
+   "tipo": "material",
+   "ini": 12762,
+   "fin": 12813,
+   "rasgos": {
+    "type": "cloth, glass, wood, leather, brass, chalk, rope"
+   },
+   "texto": "Cloth, glass, wood, leather, brass, chalk and rope "
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12814,
+   "fin": 12833,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "21 3/4 X 24 X 7 1/8"
+  },
+  {
+   "tipo": "height",
+   "ini": 12814,
+   "fin": 12820,
+   "texto": "21 3/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 12823,
+   "fin": 12825,
+   "texto": "24"
+  },
+  {
+   "tipo": "depth",
+   "ini": 12828,
+   "fin": 12833,
+   "texto": "7 1/8"
+  },
+  {
+   "tipo": "institution",
+   "ini": 12846,
+   "fin": 12873,
+   "rasgos": {
+    "type": "gallery",
+    "role": "owner, lender"
+   },
+   "texto": "Cordier and Ekstrom Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12876,
+   "fin": 12963
+  },
+  {
+   "tipo": "work",
+   "ini": 12879,
+   "fin": 12962,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Deus Ex Machina, 1971 \nMarble, wood, brass, bronze \n37 x 27 x 12\nLent by the artist"
+  },
+  {
+   "tipo": "title",
+   "ini": 12879,
+   "fin": 12894,
+   "texto": "Deus Ex Machina"
+  },
+  {
+   "tipo": "date",
+   "ini": 12896,
+   "fin": 12900,
+   "rasgos": {
+    "when": "1971"
+   },
+   "texto": "1971"
+  },
+  {
+   "tipo": "material",
+   "ini": 12902,
+   "fin": 12930,
+   "rasgos": {
+    "type": "marble, wood, brass, bronze"
+   },
+   "texto": "Marble, wood, brass, bronze "
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12931,
+   "fin": 12943,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "37 x 27 x 12"
+  },
+  {
+   "tipo": "height",
+   "ini": 12931,
+   "fin": 12933,
+   "texto": "37"
+  },
+  {
+   "tipo": "width",
+   "ini": 12936,
+   "fin": 12938,
+   "texto": "27"
+  },
+  {
+   "tipo": "depth",
+   "ini": 12941,
+   "fin": 12943,
+   "texto": "12"
+  },
+  {
+   "tipo": "person",
+   "ini": 12952,
+   "fin": 12962,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "the artist"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12965,
+   "fin": 13028
+  },
+  {
+   "tipo": "work",
+   "ini": 12968,
+   "fin": 13028,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Charon I, 1971-73 \nBronze\n28 1/2 x 32 x 5\nLent by the artist"
+  },
+  {
+   "tipo": "title",
+   "ini": 12968,
+   "fin": 12976,
+   "texto": "Charon I"
+  },
+  {
+   "tipo": "date",
+   "ini": 12978,
+   "fin": 12985,
+   "rasgos": {
+    "from": "1971",
+    "to": "1973"
+   },
+   "texto": "1971-73"
+  },
+  {
+   "tipo": "material",
+   "ini": 12987,
+   "fin": 12993,
+   "rasgos": {
+    "type": "bronze"
+   },
+   "texto": "Bronze"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12994,
+   "fin": 13009,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "28 1/2 x 32 x 5"
+  },
+  {
+   "tipo": "height",
+   "ini": 12994,
+   "fin": 13000,
+   "texto": "28 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 13003,
+   "fin": 13005,
+   "texto": "32"
+  },
+  {
+   "tipo": "depth",
+   "ini": 13008,
+   "fin": 13009,
+   "texto": "5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 13009,
+   "fin": 13010,
+   "texto": "\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 13018,
+   "fin": 13028,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "the artist"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13031,
+   "fin": 13095
+  },
+  {
+   "tipo": "work",
+   "ini": 13034,
+   "fin": 13095,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Charon II, 1971-73 \nBronze\n28 1/2 X 32 X 5\nLent by the artist"
+  },
+  {
+   "tipo": "title",
+   "ini": 13034,
+   "fin": 13043,
+   "texto": "Charon II"
+  },
+  {
+   "tipo": "date",
+   "ini": 13045,
+   "fin": 13052,
+   "rasgos": {
+    "from": "1971",
+    "to": "1973"
+   },
+   "texto": "1971-73"
+  },
+  {
+   "tipo": "material",
+   "ini": 13054,
+   "fin": 13060,
+   "rasgos": {
+    "type": "bronze"
+   },
+   "texto": "Bronze"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13061,
+   "fin": 13076,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "28 1/2 X 32 X 5"
+  },
+  {
+   "tipo": "height",
+   "ini": 13061,
+   "fin": 13067,
+   "texto": "28 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 13070,
+   "fin": 13072,
+   "texto": "32"
+  },
+  {
+   "tipo": "depth",
+   "ini": 13075,
+   "fin": 13076,
+   "texto": "5"
+  },
+  {
+   "tipo": "person",
+   "ini": 13085,
+   "fin": 13095,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "the artist"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 13098,
+   "fin": 14185,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 13098,
+   "fin": 13125,
+   "rasgos": {
+    "type": "college",
+    "role": "organiser, host"
+   },
+   "texto": "Philadelphia College of Art"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 13098,
+   "fin": 13110,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Philadelphia"
+  },
+  {
+   "tipo": "person",
+   "ini": 13146,
+   "fin": 13169,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Sam S. WcKeei, Chairman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13146,
+   "fin": 13159,
+   "texto": "Sam S. WcKeei"
+  },
+  {
+   "tipo": "person",
+   "ini": 13170,
+   "fin": 13186,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Arnold A. Bayard"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13170,
+   "fin": 13186,
+   "texto": "Arnold A. Bayard"
+  },
+  {
+   "tipo": "person",
+   "ini": 13187,
+   "fin": 13203,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Mrs. Helen Boehm"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13192,
+   "fin": 13203,
+   "texto": "Helen Boehm"
+  },
+  {
+   "tipo": "person",
+   "ini": 13204,
+   "fin": 13225,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Nathaniel R. Bowditch"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13204,
+   "fin": 13225,
+   "texto": "Nathaniel R. Bowditch"
+  },
+  {
+   "tipo": "person",
+   "ini": 13226,
+   "fin": 13242,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Mrs. Helen Chait"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13231,
+   "fin": 13242,
+   "texto": "Helen Chait"
+  },
+  {
+   "tipo": "person",
+   "ini": 13243,
+   "fin": 13263,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Mrs. Evelyn Copelmar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13248,
+   "fin": 13263,
+   "texto": "Evelyn Copelmar"
+  },
+  {
+   "tipo": "person",
+   "ini": 13264,
+   "fin": 13282,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Thomas Neil Crater"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13264,
+   "fin": 13282,
+   "texto": "Thomas Neil Crater"
+  },
+  {
+   "tipo": "person",
+   "ini": 13283,
+   "fin": 13296,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "James Eiseman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13283,
+   "fin": 13296,
+   "texto": "James Eiseman"
+  },
+  {
+   "tipo": "person",
+   "ini": 13297,
+   "fin": 13313,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Philip J. Eitzer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13297,
+   "fin": 13313,
+   "texto": "Philip J. Eitzer"
+  },
+  {
+   "tipo": "person",
+   "ini": 13314,
+   "fin": 13325,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Kermit Hall"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13314,
+   "fin": 13325,
+   "texto": "Kermit Hall"
+  },
+  {
+   "tipo": "person",
+   "ini": 13326,
+   "fin": 13352,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Mrs. Samuel M. V. Hamilton"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13331,
+   "fin": 13352,
+   "texto": "Samuel M. V. Hamilton"
+  },
+  {
+   "tipo": "person",
+   "ini": 13353,
+   "fin": 13365,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "H. Ober Hess"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13353,
+   "fin": 13365,
+   "texto": "H. Ober Hess"
+  },
+  {
+   "tipo": "person",
+   "ini": 13366,
+   "fin": 13377,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Josef Jaffe"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13366,
+   "fin": 13377,
+   "texto": "Josef Jaffe"
+  },
+  {
+   "tipo": "person",
+   "ini": 13378,
+   "fin": 13389,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Louis Klein"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13378,
+   "fin": 13389,
+   "texto": "Louis Klein"
+  },
+  {
+   "tipo": "person",
+   "ini": 13390,
+   "fin": 13406,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Berton K. Korman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13390,
+   "fin": 13406,
+   "texto": "Berton K. Korman"
+  },
+  {
+   "tipo": "person",
+   "ini": 13407,
+   "fin": 13425,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Mrs. Austin Lamont"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13412,
+   "fin": 13425,
+   "texto": "Austin Lamont"
+  },
+  {
+   "tipo": "person",
+   "ini": 13426,
+   "fin": 13444,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Al Paul Lefton Jr."
+  },
+  {
+   "tipo": "persName",
+   "ini": 13426,
+   "fin": 13443,
+   "texto": "Al Paul Lefton Jr"
+  },
+  {
+   "tipo": "person",
+   "ini": 13445,
+   "fin": 13470,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "The Hon. Samuel M. Lenrer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13454,
+   "fin": 13470,
+   "texto": "Samuel M. Lenrer"
+  },
+  {
+   "tipo": "person",
+   "ini": 13471,
+   "fin": 13490,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Mrs. H. Gates Lloyd"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13476,
+   "fin": 13490,
+   "texto": "H. Gates Lloyd"
+  },
+  {
+   "tipo": "person",
+   "ini": 13491,
+   "fin": 13508,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Dr. Paul A. McKim"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13495,
+   "fin": 13508,
+   "texto": "Paul A. McKim"
+  },
+  {
+   "tipo": "person",
+   "ini": 13509,
+   "fin": 13533,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Harvey S. Shipley Miller"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13509,
+   "fin": 13533,
+   "texto": "Harvey S. Shipley Miller"
+  },
+  {
+   "tipo": "person",
+   "ini": 13534,
+   "fin": 13548,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Jeffrey Natkin"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13534,
+   "fin": 13548,
+   "texto": "Jeffrey Natkin"
+  },
+  {
+   "tipo": "person",
+   "ini": 13549,
+   "fin": 13564,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Joseph L. Ponce"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13549,
+   "fin": 13564,
+   "texto": "Joseph L. Ponce"
+  },
+  {
+   "tipo": "person",
+   "ini": 13565,
+   "fin": 13587,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Mrs. Meyer P. Potamkin"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13570,
+   "fin": 13587,
+   "texto": "Meyer P. Potamkin"
+  },
+  {
+   "tipo": "person",
+   "ini": 13588,
+   "fin": 13602,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "William Rafsky"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13588,
+   "fin": 13602,
+   "texto": "William Rafsky"
+  },
+  {
+   "tipo": "person",
+   "ini": 13603,
+   "fin": 13614,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Mel Rionman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13603,
+   "fin": 13614,
+   "texto": "Mel Rionman"
+  },
+  {
+   "tipo": "person",
+   "ini": 13615,
+   "fin": 13645,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Ms. Sydney Roberts Rockefeller"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13619,
+   "fin": 13645,
+   "texto": "Sydney Roberts Rockefeller"
+  },
+  {
+   "tipo": "person",
+   "ini": 13646,
+   "fin": 13671,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Mrs. Lessing J. Rosenwald"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13651,
+   "fin": 13671,
+   "texto": "Lessing J. Rosenwald"
+  },
+  {
+   "tipo": "person",
+   "ini": 13672,
+   "fin": 13694,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Samuel R. Shipley. ill"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13672,
+   "fin": 13694,
+   "texto": "Samuel R. Shipley. ill"
+  },
+  {
+   "tipo": "person",
+   "ini": 13695,
+   "fin": 13713,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Harold A. Sorgentl"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13695,
+   "fin": 13713,
+   "texto": "Harold A. Sorgentl"
+  },
+  {
+   "tipo": "person",
+   "ini": 13714,
+   "fin": 13735,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Dr. J. Finton speller"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13714,
+   "fin": 13735,
+   "texto": "Dr. J. Finton speller"
+  },
+  {
+   "tipo": "person",
+   "ini": 13736,
+   "fin": 13756,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Frederick T. Waldeck"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13736,
+   "fin": 13756,
+   "texto": "Frederick T. Waldeck"
+  },
+  {
+   "tipo": "person",
+   "ini": 13757,
+   "fin": 13776,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Philip H. Ward. III"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13757,
+   "fin": 13776,
+   "texto": "Philip H. Ward. III"
+  },
+  {
+   "tipo": "person",
+   "ini": 13777,
+   "fin": 13793,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Stephen Zablotny"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13777,
+   "fin": 13793,
+   "texto": "Stephen Zablotny"
+  },
+  {
+   "tipo": "person",
+   "ini": 13814,
+   "fin": 13832,
+   "rasgos": {
+    "role": "honoraryTrustee"
+   },
+   "texto": "Mrs. Malcolm Lloyd"
+  },
+  {
+   "tipo": "person",
+   "ini": 13833,
+   "fin": 13849,
+   "rasgos": {
+    "role": "honoraryTrustee"
+   },
+   "texto": "Ronald K. Porter"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13833,
+   "fin": 13849,
+   "texto": "Ronald K. Porter"
+  },
+  {
+   "tipo": "person",
+   "ini": 13850,
+   "fin": 13872,
+   "rasgos": {
+    "role": "honoraryTrustee"
+   },
+   "texto": "Mrs. Marguerite Walter"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13850,
+   "fin": 13872,
+   "texto": "Mrs. Marguerite Walter"
+  },
+  {
+   "tipo": "person",
+   "ini": 13873,
+   "fin": 13898,
+   "rasgos": {
+    "role": "honoraryTrustee"
+   },
+   "texto": "Mrs. Thomas Raeburn White"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13873,
+   "fin": 13898,
+   "texto": "Mrs. Thomas Raeburn White"
+  },
+  {
+   "tipo": "person",
+   "ini": 13899,
+   "fin": 13920,
+   "rasgos": {
+    "role": "honoraryTrustee"
+   },
+   "texto": "Mrs. John Wintersteen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13899,
+   "fin": 13920,
+   "texto": "Mrs. John Wintersteen"
+  },
+  {
+   "tipo": "person",
+   "ini": 13921,
+   "fin": 13935,
+   "rasgos": {
+    "role": "honoraryTrustee"
+   },
+   "texto": "Howard A. Wolf"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13921,
+   "fin": 13935,
+   "texto": "Howard A. Wolf"
+  },
+  {
+   "tipo": "person",
+   "ini": 13966,
+   "fin": 13982,
+   "rasgos": {
+    "role": "mayor"
+   },
+   "texto": "William J. Green"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13966,
+   "fin": 13982,
+   "texto": "William J. Green"
+  },
+  {
+   "tipo": "person",
+   "ini": 14020,
+   "fin": 14038,
+   "rasgos": {
+    "role": "commissioner"
+   },
+   "texto": "Robert W. Crawford"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14020,
+   "fin": 14038,
+   "texto": "Robert W. Crawford"
+  },
+  {
+   "tipo": "person",
+   "ini": 14076,
+   "fin": 14094,
+   "rasgos": {
+    "role": "presindent"
+   },
+   "texto": "George X. Schwartz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14076,
+   "fin": 14094,
+   "texto": "George X. Schwartz"
+  },
+  {
+   "tipo": "person",
+   "ini": 14121,
+   "fin": 14138,
+   "rasgos": {
+    "role": "president"
+   },
+   "texto": "Thomas F. Schutte"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14121,
+   "fin": 14138,
+   "texto": "Thomas F. Schutte"
+  },
+  {
+   "tipo": "person",
+   "ini": 14168,
+   "fin": 14185,
+   "rasgos": {
+    "role": "catalogueDesign"
+   },
+   "texto": "Mary Ann Levesque"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14168,
+   "fin": 14185,
+   "texto": "Mary Ann Levesque"
+  }
+ ]
+}

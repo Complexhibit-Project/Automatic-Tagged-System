@@ -1,0 +1,6049 @@
+{
+ "id": "cat_027_ayer_hoy_catalogo_completo",
+ "nombre_original": "Ayer-hoy-catalogo-completo",
+ "longitud_texto": 57903,
+ "sha256_texto": "bb7242797272880e6daba8756506af15f628374a6238bdb1c0185da845d0a18a",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 47,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 34,
+   "texto": "AYER Y HOY\nEl laberinto del tiempo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 36,
+   "fin": 47,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Marlborough"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 49,
+   "fin": 230,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 49,
+   "fin": 83,
+   "texto": "AYER Y HOY\nEl laberinto del tiempo"
+  },
+  {
+   "tipo": "date",
+   "ini": 85,
+   "fin": 108,
+   "rasgos": {
+    "from": "2017-04-06",
+    "to": "2017-05-20"
+   },
+   "texto": "6 abril - 20 mayo, 2017"
+  },
+  {
+   "tipo": "date",
+   "ini": 109,
+   "fin": 137,
+   "rasgos": {
+    "from": "2017-05-25",
+    "to": "2017-09-09"
+   },
+   "texto": "25 mayo - 9 septiembre, 2017"
+  },
+  {
+   "tipo": "institution",
+   "ini": 139,
+   "fin": 230,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Marlborough\nOrfila 5, 28010 Madrid\nT. 91 319 14 14 · F. 91 308 43 45\ngaleriamarlborough.com"
+  },
+  {
+   "tipo": "address",
+   "ini": 151,
+   "fin": 166,
+   "texto": "Orfila 5, 28010"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 167,
+   "fin": 173,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "title",
+   "ini": 232,
+   "fin": 266,
+   "texto": "AYER Y HOY\nEl laberinto del tiempo"
+  },
+  {
+   "tipo": "person",
+   "ini": 267,
+   "fin": 292,
+   "texto": "Francisco Calvo Serraller"
+  },
+  {
+   "tipo": "persName",
+   "ini": 267,
+   "fin": 292,
+   "texto": "Francisco Calvo Serraller"
+  },
+  {
+   "tipo": "person",
+   "ini": 4697,
+   "fin": 4708,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lucio Muñoz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4697,
+   "fin": 4708,
+   "texto": "Lucio Muñoz"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4784,
+   "fin": 4795,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Marlborough"
+  },
+  {
+   "tipo": "person",
+   "ini": 4820,
+   "fin": 4846,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "el escultor Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4832,
+   "fin": 4846,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 4880,
+   "fin": 4902,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "el pintor Hugo\nFontela"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4890,
+   "fin": 4902,
+   "texto": "Hugo\nFontela"
+  },
+  {
+   "tipo": "person",
+   "ini": 6633,
+   "fin": 6640,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6633,
+   "fin": 6640,
+   "texto": "Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 6694,
+   "fin": 6707,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio López"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6694,
+   "fin": 6707,
+   "texto": "Antonio López"
+  },
+  {
+   "tipo": "person",
+   "ini": 6764,
+   "fin": 6775,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lucio Muñoz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6764,
+   "fin": 6775,
+   "texto": "Lucio Muñoz"
+  },
+  {
+   "tipo": "person",
+   "ini": 6907,
+   "fin": 6919,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan\nGenovés"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6907,
+   "fin": 6919,
+   "texto": "Juan\nGenovés"
+  },
+  {
+   "tipo": "person",
+   "ini": 6922,
+   "fin": 6935,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manolo Valdés"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6922,
+   "fin": 6935,
+   "texto": "Manolo Valdés"
+  },
+  {
+   "tipo": "person",
+   "ini": 7022,
+   "fin": 7035,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luis\nGordillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7022,
+   "fin": 7035,
+   "texto": "Luis\nGordillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 7252,
+   "fin": 7273,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan\nNavarro Baldeweg"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7252,
+   "fin": 7273,
+   "texto": "Juan\nNavarro Baldeweg"
+  },
+  {
+   "tipo": "person",
+   "ini": 7361,
+   "fin": 7376,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Soledad\nSevilla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7361,
+   "fin": 7376,
+   "texto": "Soledad\nSevilla"
+  },
+  {
+   "tipo": "person",
+   "ini": 7516,
+   "fin": 7531,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alberto Corazón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7516,
+   "fin": 7531,
+   "texto": "Alberto Corazón"
+  },
+  {
+   "tipo": "person",
+   "ini": 7680,
+   "fin": 7695,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rafael Cidoncha"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7680,
+   "fin": 7695,
+   "texto": "Rafael Cidoncha"
+  },
+  {
+   "tipo": "person",
+   "ini": 7875,
+   "fin": 7888,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carlos Franco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7875,
+   "fin": 7888,
+   "texto": "Carlos Franco"
+  },
+  {
+   "tipo": "person",
+   "ini": 7962,
+   "fin": 7978,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alfonso Albacete"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7962,
+   "fin": 7978,
+   "texto": "Alfonso Albacete"
+  },
+  {
+   "tipo": "person",
+   "ini": 8081,
+   "fin": 8100,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan José Aquerreta"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8081,
+   "fin": 8100,
+   "texto": "Juan José Aquerreta"
+  },
+  {
+   "tipo": "person",
+   "ini": 8103,
+   "fin": 8119,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel Franquelo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8103,
+   "fin": 8119,
+   "texto": "Manuel Franquelo"
+  },
+  {
+   "tipo": "person",
+   "ini": 9219,
+   "fin": 9234,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Francisco Leiro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9219,
+   "fin": 9234,
+   "texto": "Francisco Leiro"
+  },
+  {
+   "tipo": "person",
+   "ini": 9236,
+   "fin": 9248,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Blanca Muñoz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9236,
+   "fin": 9248,
+   "texto": "Blanca Muñoz"
+  },
+  {
+   "tipo": "person",
+   "ini": 9251,
+   "fin": 9276,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Rodríguez\nCaballero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9251,
+   "fin": 9276,
+   "texto": "David Rodríguez\nCaballero"
+  },
+  {
+   "tipo": "person",
+   "ini": 9548,
+   "fin": 9561,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pelayo Ortega"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9548,
+   "fin": 9561,
+   "texto": "Pelayo Ortega"
+  },
+  {
+   "tipo": "person",
+   "ini": 9563,
+   "fin": 9574,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Correa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9563,
+   "fin": 9574,
+   "texto": "Juan Correa"
+  },
+  {
+   "tipo": "person",
+   "ini": 9576,
+   "fin": 9589,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pablo Armesto"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9576,
+   "fin": 9589,
+   "texto": "Pablo Armesto"
+  },
+  {
+   "tipo": "person",
+   "ini": 9591,
+   "fin": 9606,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Abraham Lacalle"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9591,
+   "fin": 9606,
+   "texto": "Abraham Lacalle"
+  },
+  {
+   "tipo": "person",
+   "ini": 9608,
+   "fin": 9619,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sergio Sanz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9608,
+   "fin": 9619,
+   "texto": "Sergio Sanz"
+  },
+  {
+   "tipo": "person",
+   "ini": 9621,
+   "fin": 9634,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joaquín Barón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9621,
+   "fin": 9634,
+   "texto": "Joaquín Barón"
+  },
+  {
+   "tipo": "person",
+   "ini": 9637,
+   "fin": 9649,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Hugo Fontela"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9637,
+   "fin": 9649,
+   "texto": "Hugo Fontela"
+  },
+  {
+   "tipo": "person",
+   "ini": 9771,
+   "fin": 9784,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pelayo Ortega"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9771,
+   "fin": 9784,
+   "texto": "Pelayo Ortega"
+  },
+  {
+   "tipo": "person",
+   "ini": 9873,
+   "fin": 9877,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sanz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9873,
+   "fin": 9877,
+   "texto": "Sanz"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 17401,
+   "fin": 21375
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 17401,
+   "fin": 17544
+  },
+  {
+   "tipo": "person",
+   "ini": 17401,
+   "fin": 17417,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ALFONSO ALBACETE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17401,
+   "fin": 17417,
+   "texto": "ALFONSO ALBACETE"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17419,
+   "fin": 17483
+  },
+  {
+   "tipo": "img",
+   "ini": 17419,
+   "fin": 17424,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17426,
+   "fin": 17483,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Trimestral (V), 1993, acrílico sobre lienzo, 170 x 150 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 17426,
+   "fin": 17440,
+   "texto": "Trimestral (V)"
+  },
+  {
+   "tipo": "date",
+   "ini": 17442,
+   "fin": 17446,
+   "rasgos": {
+    "when": "1993"
+   },
+   "texto": "1993"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17448,
+   "fin": 17469,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17471,
+   "fin": 17483,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "170 x 150 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17471,
+   "fin": 17474,
+   "texto": "170"
+  },
+  {
+   "tipo": "width",
+   "ini": 17477,
+   "fin": 17480,
+   "texto": "150"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17485,
+   "fin": 17544
+  },
+  {
+   "tipo": "img",
+   "ini": 17485,
+   "fin": 17490,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17492,
+   "fin": 17544,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin tesis, 2011, acrílico sobre lienzo, 150 x 150 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 17492,
+   "fin": 17501,
+   "texto": "Sin tesis"
+  },
+  {
+   "tipo": "date",
+   "ini": 17503,
+   "fin": 17507,
+   "rasgos": {
+    "when": "2011"
+   },
+   "texto": "2011"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17509,
+   "fin": 17530,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17532,
+   "fin": 17544,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150 x 150 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17532,
+   "fin": 17535,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 17538,
+   "fin": 17541,
+   "texto": "150"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 17548,
+   "fin": 17726
+  },
+  {
+   "tipo": "person",
+   "ini": 17548,
+   "fin": 17567,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JUAN JOSÉ AQUERRETA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17548,
+   "fin": 17567,
+   "texto": "JUAN JOSÉ AQUERRETA"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17569,
+   "fin": 17650
+  },
+  {
+   "tipo": "img",
+   "ini": 17569,
+   "fin": 17574,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17576,
+   "fin": 17650,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Naturaleza muerta con dos naranjas, 1988, óleo sobre tabla, 32,8 x 40,6 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 17576,
+   "fin": 17610,
+   "texto": "Naturaleza muerta con dos naranjas"
+  },
+  {
+   "tipo": "date",
+   "ini": 17612,
+   "fin": 17616,
+   "rasgos": {
+    "when": "1988"
+   },
+   "texto": "1988"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17618,
+   "fin": 17634,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "óleo sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17636,
+   "fin": 17650,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32,8 x 40,6 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17636,
+   "fin": 17640,
+   "texto": "32,8"
+  },
+  {
+   "tipo": "width",
+   "ini": 17643,
+   "fin": 17647,
+   "texto": "40,6"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17652,
+   "fin": 17726
+  },
+  {
+   "tipo": "img",
+   "ini": 17652,
+   "fin": 17657,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17659,
+   "fin": 17726,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Naturaleza muerta con berenjenas, 2012, óleo sobre tela, 46 x 54 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 17659,
+   "fin": 17691,
+   "texto": "Naturaleza muerta con berenjenas"
+  },
+  {
+   "tipo": "date",
+   "ini": 17693,
+   "fin": 17697,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17699,
+   "fin": 17714,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "óleo sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17716,
+   "fin": 17726,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 54 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17716,
+   "fin": 17718,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 17721,
+   "fin": 17723,
+   "texto": "54"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 17730,
+   "fin": 17924
+  },
+  {
+   "tipo": "person",
+   "ini": 17730,
+   "fin": 17743,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "PABLO ARMESTO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17730,
+   "fin": 17743,
+   "texto": "PABLO ARMESTO"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17745,
+   "fin": 17824
+  },
+  {
+   "tipo": "img",
+   "ini": 17745,
+   "fin": 17750,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17752,
+   "fin": 17824,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Señas de identidad, 1993, acrílico sobre lienzo sobre tabla, 120 x 80 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 17752,
+   "fin": 17770,
+   "texto": "Señas de identidad"
+  },
+  {
+   "tipo": "date",
+   "ini": 17772,
+   "fin": 17776,
+   "rasgos": {
+    "when": "1993"
+   },
+   "texto": "1993"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17778,
+   "fin": 17811,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico sobre lienzo sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17813,
+   "fin": 17824,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "120 x 80 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17813,
+   "fin": 17816,
+   "texto": "120"
+  },
+  {
+   "tipo": "width",
+   "ini": 17819,
+   "fin": 17821,
+   "texto": "80"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17826,
+   "fin": 17924
+  },
+  {
+   "tipo": "img",
+   "ini": 17826,
+   "fin": 17831,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17833,
+   "fin": 17924,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Blanc des blancs, 2016, técnica mixta, estuco, pan de oro y fibra óptica, 180 x 180 x 12 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 17833,
+   "fin": 17849,
+   "texto": "Blanc des blancs"
+  },
+  {
+   "tipo": "date",
+   "ini": 17851,
+   "fin": 17855,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17857,
+   "fin": 17905,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "técnica mixta, estuco, pan de oro y fibra óptica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17907,
+   "fin": 17924,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "180 x 180 x 12 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17907,
+   "fin": 17910,
+   "texto": "180"
+  },
+  {
+   "tipo": "width",
+   "ini": 17913,
+   "fin": 17916,
+   "texto": "180"
+  },
+  {
+   "tipo": "depth",
+   "ini": 17919,
+   "fin": 17921,
+   "texto": "12"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 17928,
+   "fin": 18092
+  },
+  {
+   "tipo": "person",
+   "ini": 17928,
+   "fin": 17941,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JOAQUÍN BARÓN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17928,
+   "fin": 17941,
+   "texto": "JOAQUÍN BARÓN"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17943,
+   "fin": 18015
+  },
+  {
+   "tipo": "img",
+   "ini": 17943,
+   "fin": 17948,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17950,
+   "fin": 18015,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Mi viaje favorito, 1992, técnica mixta sobre lienzo, 165 x 130 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 17950,
+   "fin": 17967,
+   "texto": "Mi viaje favorito"
+  },
+  {
+   "tipo": "date",
+   "ini": 17969,
+   "fin": 17973,
+   "rasgos": {
+    "when": "1992"
+   },
+   "texto": "1992"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17975,
+   "fin": 18001,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "técnica mixta sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18003,
+   "fin": 18015,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "165 x 130 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18003,
+   "fin": 18006,
+   "texto": "165"
+  },
+  {
+   "tipo": "width",
+   "ini": 18009,
+   "fin": 18012,
+   "texto": "130"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18017,
+   "fin": 18092
+  },
+  {
+   "tipo": "img",
+   "ini": 18017,
+   "fin": 18022,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18024,
+   "fin": 18092,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Coral doble, 2017, técnica mixta sobre madera entelada, 150 x 150 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 18024,
+   "fin": 18035,
+   "texto": "Coral doble"
+  },
+  {
+   "tipo": "date",
+   "ini": 18037,
+   "fin": 18041,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18043,
+   "fin": 18078,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "técnica mixta sobre madera entelada"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18080,
+   "fin": 18092,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150 x 150 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18080,
+   "fin": 18083,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 18086,
+   "fin": 18089,
+   "texto": "150"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 18096,
+   "fin": 18232
+  },
+  {
+   "tipo": "person",
+   "ini": 18096,
+   "fin": 18110,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MARTÍN CHIRINO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18096,
+   "fin": 18110,
+   "texto": "MARTÍN CHIRINO"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18112,
+   "fin": 18171
+  },
+  {
+   "tipo": "img",
+   "ini": 18112,
+   "fin": 18117,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18119,
+   "fin": 18171,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Reina negra, 1952, hierro forjado, 40,5 x 36 x 18 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 18119,
+   "fin": 18130,
+   "texto": "Reina negra"
+  },
+  {
+   "tipo": "date",
+   "ini": 18132,
+   "fin": 18136,
+   "rasgos": {
+    "when": "1952"
+   },
+   "texto": "1952"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18138,
+   "fin": 18152,
+   "rasgos": {
+    "type": "wroughtIron"
+   },
+   "texto": "hierro forjado"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18154,
+   "fin": 18171,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40,5 x 36 x 18 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18154,
+   "fin": 18158,
+   "texto": "40,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 18161,
+   "fin": 18163,
+   "texto": "36"
+  },
+  {
+   "tipo": "depth",
+   "ini": 18166,
+   "fin": 18168,
+   "texto": "18"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18173,
+   "fin": 18232
+  },
+  {
+   "tipo": "img",
+   "ini": 18173,
+   "fin": 18178,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18180,
+   "fin": 18232,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "El viento, 2015, hierro forjado, 56 x 53,5 x 15,5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 18180,
+   "fin": 18189,
+   "texto": "El viento"
+  },
+  {
+   "tipo": "date",
+   "ini": 18191,
+   "fin": 18195,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18197,
+   "fin": 18211,
+   "rasgos": {
+    "type": "wroughtIron"
+   },
+   "texto": "hierro forjado"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18213,
+   "fin": 18232,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "56 x 53,5 x 15,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18213,
+   "fin": 18215,
+   "texto": "56"
+  },
+  {
+   "tipo": "width",
+   "ini": 18218,
+   "fin": 18222,
+   "texto": "53,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 18225,
+   "fin": 18229,
+   "texto": "15,5"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 18236,
+   "fin": 18367
+  },
+  {
+   "tipo": "person",
+   "ini": 18236,
+   "fin": 18251,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "RAFAEL CIDONCHA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18236,
+   "fin": 18251,
+   "texto": "RAFAEL CIDONCHA"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18253,
+   "fin": 18305
+  },
+  {
+   "tipo": "img",
+   "ini": 18253,
+   "fin": 18258,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18260,
+   "fin": 18305,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Wagon II, 1975, óleo sobre tela, 146 x 123 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 18260,
+   "fin": 18268,
+   "texto": "Wagon II"
+  },
+  {
+   "tipo": "date",
+   "ini": 18270,
+   "fin": 18274,
+   "rasgos": {
+    "when": "1975"
+   },
+   "texto": "1975"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18276,
+   "fin": 18291,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "óleo sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18293,
+   "fin": 18305,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "146 x 123 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18293,
+   "fin": 18296,
+   "texto": "146"
+  },
+  {
+   "tipo": "width",
+   "ini": 18299,
+   "fin": 18302,
+   "texto": "123"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18307,
+   "fin": 18367
+  },
+  {
+   "tipo": "img",
+   "ini": 18307,
+   "fin": 18312,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18314,
+   "fin": 18367,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Sombras 2, 2016, carboncillo sobre papel, 100 x 73 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 18314,
+   "fin": 18323,
+   "texto": "Sombras 2"
+  },
+  {
+   "tipo": "date",
+   "ini": 18325,
+   "fin": 18329,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18331,
+   "fin": 18354,
+   "rasgos": {
+    "type": "charcoal"
+   },
+   "texto": "carboncillo sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18356,
+   "fin": 18367,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 73 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18356,
+   "fin": 18359,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 18362,
+   "fin": 18364,
+   "texto": "73"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 18371,
+   "fin": 18518
+  },
+  {
+   "tipo": "person",
+   "ini": 18371,
+   "fin": 18386,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ALBERTO CORAZÓN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18371,
+   "fin": 18386,
+   "texto": "ALBERTO CORAZÓN"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18388,
+   "fin": 18447
+  },
+  {
+   "tipo": "img",
+   "ini": 18388,
+   "fin": 18393,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18395,
+   "fin": 18447,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Itinerae, 1975, fotografía sobre papel, 152 x 110 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 18395,
+   "fin": 18403,
+   "texto": "Itinerae"
+  },
+  {
+   "tipo": "date",
+   "ini": 18405,
+   "fin": 18409,
+   "rasgos": {
+    "when": "1975"
+   },
+   "texto": "1975"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18411,
+   "fin": 18433,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "fotografía sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18435,
+   "fin": 18447,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "152 x 110 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18435,
+   "fin": 18438,
+   "texto": "152"
+  },
+  {
+   "tipo": "width",
+   "ini": 18441,
+   "fin": 18444,
+   "texto": "110"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18449,
+   "fin": 18518
+  },
+  {
+   "tipo": "img",
+   "ini": 18449,
+   "fin": 18454,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18456,
+   "fin": 18518,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El regreso de Jasón, 2017, acrílico sobre lienzo, 184 x 144 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 18456,
+   "fin": 18475,
+   "texto": "El regreso de Jasón"
+  },
+  {
+   "tipo": "date",
+   "ini": 18477,
+   "fin": 18481,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18483,
+   "fin": 18504,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18506,
+   "fin": 18518,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "184 x 144 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18506,
+   "fin": 18509,
+   "texto": "184"
+  },
+  {
+   "tipo": "width",
+   "ini": 18512,
+   "fin": 18515,
+   "texto": "144"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 18522,
+   "fin": 18700
+  },
+  {
+   "tipo": "person",
+   "ini": 18522,
+   "fin": 18533,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JUAN CORREA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18522,
+   "fin": 18533,
+   "texto": "JUAN CORREA"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18535,
+   "fin": 18623
+  },
+  {
+   "tipo": "img",
+   "ini": 18535,
+   "fin": 18540,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18542,
+   "fin": 18623,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título (díptico), 1988, óleo y temple sobre ébano macassar, 33,5 x 115 cm c/u"
+  },
+  {
+   "tipo": "title",
+   "ini": 18542,
+   "fin": 18562,
+   "texto": "Sin título (díptico)"
+  },
+  {
+   "tipo": "date",
+   "ini": 18564,
+   "fin": 18568,
+   "rasgos": {
+    "when": "1988"
+   },
+   "texto": "1988"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18570,
+   "fin": 18604,
+   "rasgos": {
+    "type": "oil, tempera"
+   },
+   "texto": "óleo y temple sobre ébano macassar"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18606,
+   "fin": 18619,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "33,5 x 115 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18606,
+   "fin": 18610,
+   "texto": "33,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 18613,
+   "fin": 18616,
+   "texto": "115"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18625,
+   "fin": 18700
+  },
+  {
+   "tipo": "img",
+   "ini": 18625,
+   "fin": 18630,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18632,
+   "fin": 18700,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Sin título, 2014, técnica mixta sobre tela sobre tabla, 140 x 175 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 18632,
+   "fin": 18642,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 18644,
+   "fin": 18648,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18650,
+   "fin": 18686,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "técnica mixta sobre tela sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18688,
+   "fin": 18700,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "140 x 175 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18688,
+   "fin": 18691,
+   "texto": "140"
+  },
+  {
+   "tipo": "width",
+   "ini": 18694,
+   "fin": 18697,
+   "texto": "175"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 18704,
+   "fin": 18842
+  },
+  {
+   "tipo": "person",
+   "ini": 18704,
+   "fin": 18716,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "HUGO FONTELA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18704,
+   "fin": 18716,
+   "texto": "HUGO FONTELA"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18718,
+   "fin": 18778
+  },
+  {
+   "tipo": "img",
+   "ini": 18718,
+   "fin": 18723,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18725,
+   "fin": 18777,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pier, 2008, técnica mixta sobre lienzo, 100 x 100 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 18725,
+   "fin": 18729,
+   "texto": "Pier"
+  },
+  {
+   "tipo": "date",
+   "ini": 18731,
+   "fin": 18735,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18737,
+   "fin": 18763,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "técnica mixta sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18765,
+   "fin": 18777,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18765,
+   "fin": 18768,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 18771,
+   "fin": 18774,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18779,
+   "fin": 18842
+  },
+  {
+   "tipo": "img",
+   "ini": 18779,
+   "fin": 18784,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18786,
+   "fin": 18842,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Rock III, 2016, técnica mixta sobre lienzo, 100 x 100 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 18786,
+   "fin": 18794,
+   "texto": "Rock III"
+  },
+  {
+   "tipo": "date",
+   "ini": 18796,
+   "fin": 18800,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18802,
+   "fin": 18828,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "técnica mixta sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18830,
+   "fin": 18842,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18830,
+   "fin": 18833,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 18836,
+   "fin": 18839,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 18846,
+   "fin": 19062
+  },
+  {
+   "tipo": "person",
+   "ini": 18846,
+   "fin": 18859,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "CARLOS FRANCO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18846,
+   "fin": 18859,
+   "texto": "CARLOS FRANCO"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18861,
+   "fin": 18938
+  },
+  {
+   "tipo": "img",
+   "ini": 18861,
+   "fin": 18866,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18868,
+   "fin": 18938,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Llama hermafrodita, 1995, técnica mixta sobre madera, 123,3 x 123,3 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 18868,
+   "fin": 18886,
+   "texto": "Llama hermafrodita"
+  },
+  {
+   "tipo": "date",
+   "ini": 18888,
+   "fin": 18892,
+   "rasgos": {
+    "when": "1995"
+   },
+   "texto": "1995"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18894,
+   "fin": 18920,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "técnica mixta sobre madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18922,
+   "fin": 18938,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "123,3 x 123,3 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18922,
+   "fin": 18927,
+   "texto": "123,3"
+  },
+  {
+   "tipo": "width",
+   "ini": 18930,
+   "fin": 18935,
+   "texto": "123,3"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18940,
+   "fin": 19062
+  },
+  {
+   "tipo": "img",
+   "ini": 18940,
+   "fin": 18945,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18947,
+   "fin": 19062,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Desayuno al borde del lago con sauces, 2016, técnica mixta, impresión digital y acrílico sobre lienzo, 165 x 110 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 18947,
+   "fin": 18984,
+   "texto": "Desayuno al borde del lago con sauces"
+  },
+  {
+   "tipo": "date",
+   "ini": 18986,
+   "fin": 18990,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18992,
+   "fin": 19048,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "técnica mixta, impresión digital y acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19050,
+   "fin": 19062,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "165 x 110 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19050,
+   "fin": 19053,
+   "texto": "165"
+  },
+  {
+   "tipo": "width",
+   "ini": 19056,
+   "fin": 19059,
+   "texto": "110"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 19066,
+   "fin": 19257
+  },
+  {
+   "tipo": "person",
+   "ini": 19066,
+   "fin": 19082,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MANUEL FRANQUELO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19066,
+   "fin": 19082,
+   "texto": "MANUEL FRANQUELO"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19084,
+   "fin": 19151
+  },
+  {
+   "tipo": "img",
+   "ini": 19084,
+   "fin": 19089,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19091,
+   "fin": 19151,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Sin título, 2009, lápiz de grafito sobre papel, 67,5 x 71 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 19091,
+   "fin": 19101,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 19103,
+   "fin": 19107,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19109,
+   "fin": 19137,
+   "rasgos": {
+    "type": "pen"
+   },
+   "texto": "lápiz de grafito sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19139,
+   "fin": 19151,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "67,5 x 71 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19139,
+   "fin": 19143,
+   "texto": "67,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 19146,
+   "fin": 19148,
+   "texto": "71"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19153,
+   "fin": 19257
+  },
+  {
+   "tipo": "img",
+   "ini": 19153,
+   "fin": 19158,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19160,
+   "fin": 19257,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Things in a room #4, 2014, fotografía sobre panel de aluminio, ejemplar 1 de 3 + 2PA, 80 x 180 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 19160,
+   "fin": 19179,
+   "texto": "Things in a room #4"
+  },
+  {
+   "tipo": "date",
+   "ini": 19181,
+   "fin": 19185,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19187,
+   "fin": 19221,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "fotografía sobre panel de aluminio"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19246,
+   "fin": 19257,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80 x 180 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19246,
+   "fin": 19248,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 19251,
+   "fin": 19254,
+   "texto": "180"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 19261,
+   "fin": 19406
+  },
+  {
+   "tipo": "person",
+   "ini": 19261,
+   "fin": 19273,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JUAN GENOVÉS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19261,
+   "fin": 19273,
+   "texto": "JUAN GENOVÉS"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19275,
+   "fin": 19337
+  },
+  {
+   "tipo": "img",
+   "ini": 19275,
+   "fin": 19280,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19282,
+   "fin": 19337,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Proyecto, 1993, técnica mixta sobre tabla, 143 x 180 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 19282,
+   "fin": 19290,
+   "texto": "Proyecto"
+  },
+  {
+   "tipo": "date",
+   "ini": 19292,
+   "fin": 19296,
+   "rasgos": {
+    "when": "1993"
+   },
+   "texto": "1993"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19298,
+   "fin": 19323,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "técnica mixta sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19325,
+   "fin": 19337,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "143 x 180 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19325,
+   "fin": 19328,
+   "texto": "143"
+  },
+  {
+   "tipo": "width",
+   "ini": 19331,
+   "fin": 19334,
+   "texto": "180"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19339,
+   "fin": 19406
+  },
+  {
+   "tipo": "img",
+   "ini": 19339,
+   "fin": 19344,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19346,
+   "fin": 19406,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Partido, 2016, acrílico sobre tela sobre tabla, 160 x 130 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 19346,
+   "fin": 19353,
+   "texto": "Partido"
+  },
+  {
+   "tipo": "date",
+   "ini": 19355,
+   "fin": 19359,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19361,
+   "fin": 19392,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico sobre tela sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19394,
+   "fin": 19406,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "160 x 130 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19394,
+   "fin": 19397,
+   "texto": "160"
+  },
+  {
+   "tipo": "width",
+   "ini": 19400,
+   "fin": 19403,
+   "texto": "130"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 19410,
+   "fin": 19579
+  },
+  {
+   "tipo": "person",
+   "ini": 19410,
+   "fin": 19423,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "LUIS GORDILLO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19410,
+   "fin": 19423,
+   "texto": "LUIS GORDILLO"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19425,
+   "fin": 19503
+  },
+  {
+   "tipo": "img",
+   "ini": 19425,
+   "fin": 19430,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19432,
+   "fin": 19503,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Dos siglos / Tempus fugit, 1980-82, acrílico sobre lienzo, 240 x 127 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 19432,
+   "fin": 19457,
+   "texto": "Dos siglos / Tempus fugit"
+  },
+  {
+   "tipo": "date",
+   "ini": 19459,
+   "fin": 19466,
+   "rasgos": {
+    "from": "1980",
+    "to": "1982"
+   },
+   "texto": "1980-82"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19468,
+   "fin": 19489,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19491,
+   "fin": 19503,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "240 x 127 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19491,
+   "fin": 19494,
+   "texto": "240"
+  },
+  {
+   "tipo": "width",
+   "ini": 19497,
+   "fin": 19500,
+   "texto": "127"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19505,
+   "fin": 19579
+  },
+  {
+   "tipo": "img",
+   "ini": 19505,
+   "fin": 19510,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19512,
+   "fin": 19579,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La isla Cabeza de Hombre, 2015, acrílico sobre lienzo, 240 x 175 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 19512,
+   "fin": 19536,
+   "texto": "La isla Cabeza de Hombre"
+  },
+  {
+   "tipo": "date",
+   "ini": 19538,
+   "fin": 19542,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19544,
+   "fin": 19565,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19567,
+   "fin": 19579,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "240 x 175 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19567,
+   "fin": 19570,
+   "texto": "240"
+  },
+  {
+   "tipo": "width",
+   "ini": 19573,
+   "fin": 19576,
+   "texto": "175"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 19583,
+   "fin": 19734
+  },
+  {
+   "tipo": "person",
+   "ini": 19583,
+   "fin": 19598,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ABRAHAM LACALLE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19583,
+   "fin": 19598,
+   "texto": "ABRAHAM LACALLE"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19600,
+   "fin": 19675
+  },
+  {
+   "tipo": "img",
+   "ini": 19600,
+   "fin": 19605,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19607,
+   "fin": 19675,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sembrando en cama caliente, 1995-98, óleo sobre lienzo, 200 x 250 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 19607,
+   "fin": 19633,
+   "texto": "Sembrando en cama caliente"
+  },
+  {
+   "tipo": "date",
+   "ini": 19635,
+   "fin": 19642,
+   "rasgos": {
+    "from": "1995",
+    "to": "1998"
+   },
+   "texto": "1995-98"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19644,
+   "fin": 19661,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19663,
+   "fin": 19675,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 250 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19663,
+   "fin": 19666,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 19669,
+   "fin": 19672,
+   "texto": "250"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19677,
+   "fin": 19734
+  },
+  {
+   "tipo": "img",
+   "ini": 19677,
+   "fin": 19682,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19684,
+   "fin": 19734,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Portería, 2017, acuarela sobre papel, 150 x 220 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 19684,
+   "fin": 19692,
+   "texto": "Portería"
+  },
+  {
+   "tipo": "date",
+   "ini": 19694,
+   "fin": 19698,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19700,
+   "fin": 19720,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "acuarela sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19722,
+   "fin": 19734,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150 x 220 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19722,
+   "fin": 19725,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 19728,
+   "fin": 19731,
+   "texto": "220"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 19738,
+   "fin": 19930
+  },
+  {
+   "tipo": "person",
+   "ini": 19738,
+   "fin": 19753,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "FRANCISCO LEIRO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19738,
+   "fin": 19753,
+   "texto": "FRANCISCO LEIRO"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19755,
+   "fin": 19871
+  },
+  {
+   "tipo": "img",
+   "ini": 19755,
+   "fin": 19760,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19762,
+   "fin": 19871,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Short circuit, 1996, contrachapado, acero, fibra de vidrio, plexiglás, hormigón y tablero, 165 x 160 x 147 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 19762,
+   "fin": 19775,
+   "texto": "Short circuit"
+  },
+  {
+   "tipo": "date",
+   "ini": 19777,
+   "fin": 19781,
+   "rasgos": {
+    "when": "1996"
+   },
+   "texto": "1996"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19783,
+   "fin": 19851,
+   "rasgos": {
+    "type": "wood, steel, glass, concrete"
+   },
+   "texto": "contrachapado, acero, fibra de vidrio, plexiglás, hormigón y tablero"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19853,
+   "fin": 19871,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "165 x 160 x 147 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19853,
+   "fin": 19856,
+   "texto": "165"
+  },
+  {
+   "tipo": "width",
+   "ini": 19859,
+   "fin": 19862,
+   "texto": "160"
+  },
+  {
+   "tipo": "depth",
+   "ini": 19865,
+   "fin": 19868,
+   "texto": "147"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19873,
+   "fin": 19930
+  },
+  {
+   "tipo": "img",
+   "ini": 19873,
+   "fin": 19878,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19880,
+   "fin": 19930,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Rendido, 2016, madera de castaño, 133 x 93 x 61 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 19880,
+   "fin": 19887,
+   "texto": "Rendido"
+  },
+  {
+   "tipo": "date",
+   "ini": 19889,
+   "fin": 19893,
+   "rasgos": {
+    "when": ""
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19895,
+   "fin": 19912,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera de castaño"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19914,
+   "fin": 19930,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "133 x 93 x 61 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19914,
+   "fin": 19917,
+   "texto": "133"
+  },
+  {
+   "tipo": "width",
+   "ini": 19920,
+   "fin": 19922,
+   "texto": "93"
+  },
+  {
+   "tipo": "depth",
+   "ini": 19925,
+   "fin": 19927,
+   "texto": "61"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 19934,
+   "fin": 20145
+  },
+  {
+   "tipo": "person",
+   "ini": 19934,
+   "fin": 19954,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ANTONIO LÓPEZ GARCÍA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19934,
+   "fin": 19954,
+   "texto": "ANTONIO LÓPEZ GARCÍA"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19956,
+   "fin": 20020
+  },
+  {
+   "tipo": "img",
+   "ini": 19956,
+   "fin": 19961,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19963,
+   "fin": 20020,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Lirio, rosas y lilas, 2017, óleo sobre lienzo, 30 x 35 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 19963,
+   "fin": 19983,
+   "texto": "Lirio, rosas y lilas"
+  },
+  {
+   "tipo": "date",
+   "ini": 19985,
+   "fin": 19989,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19991,
+   "fin": 20008,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20010,
+   "fin": 20020,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 35 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20010,
+   "fin": 20012,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 20015,
+   "fin": 20017,
+   "texto": "35"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20022,
+   "fin": 20086
+  },
+  {
+   "tipo": "img",
+   "ini": 20022,
+   "fin": 20027,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20029,
+   "fin": 20086,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Mesa en Nochebuena, 1957, óleo sobre lienzo, 72,6 x 99 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 20029,
+   "fin": 20047,
+   "texto": "Mesa en Nochebuena"
+  },
+  {
+   "tipo": "date",
+   "ini": 20049,
+   "fin": 20053,
+   "rasgos": {
+    "when": "1957"
+   },
+   "texto": "1957"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20055,
+   "fin": 20072,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20074,
+   "fin": 20086,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "72,6 x 99 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20074,
+   "fin": 20078,
+   "texto": "72,6"
+  },
+  {
+   "tipo": "width",
+   "ini": 20081,
+   "fin": 20083,
+   "texto": "99"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20088,
+   "fin": 20145
+  },
+  {
+   "tipo": "img",
+   "ini": 20088,
+   "fin": 20093,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20095,
+   "fin": 20145,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Lirio y rosas, 2017, óleo sobre lienzo, 51 x 54 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 20095,
+   "fin": 20108,
+   "texto": "Lirio y rosas"
+  },
+  {
+   "tipo": "date",
+   "ini": 20110,
+   "fin": 20114,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20116,
+   "fin": 20133,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20135,
+   "fin": 20145,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "51 x 54 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20135,
+   "fin": 20137,
+   "texto": "51"
+  },
+  {
+   "tipo": "width",
+   "ini": 20140,
+   "fin": 20142,
+   "texto": "54"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 20149,
+   "fin": 20357
+  },
+  {
+   "tipo": "person",
+   "ini": 20149,
+   "fin": 20161,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "BLANCA MUÑOZ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20149,
+   "fin": 20161,
+   "texto": "BLANCA MUÑOZ"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20163,
+   "fin": 20281
+  },
+  {
+   "tipo": "img",
+   "ini": 20163,
+   "fin": 20168,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20170,
+   "fin": 20220,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Bizantina, 2016, acero inoxidable, 46 x 45 x 29 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 20170,
+   "fin": 20179,
+   "texto": "Bizantina"
+  },
+  {
+   "tipo": "date",
+   "ini": 20181,
+   "fin": 20185,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20187,
+   "fin": 20203,
+   "rasgos": {
+    "type": "steel"
+   },
+   "texto": "acero inoxidable"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20205,
+   "fin": 20220,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 45 x 29 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20205,
+   "fin": 20207,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 20210,
+   "fin": 20212,
+   "texto": "45"
+  },
+  {
+   "tipo": "depth",
+   "ini": 20215,
+   "fin": 20217,
+   "texto": "29"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20283,
+   "fin": 20357
+  },
+  {
+   "tipo": "img",
+   "ini": 20283,
+   "fin": 20288,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20290,
+   "fin": 20339,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Tornado, 2001, acero inoxidable, 147 x 48 x 68 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 20290,
+   "fin": 20297,
+   "texto": "Tornado"
+  },
+  {
+   "tipo": "date",
+   "ini": 20299,
+   "fin": 20303,
+   "rasgos": {
+    "when": "2001"
+   },
+   "texto": "2001"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20305,
+   "fin": 20321,
+   "rasgos": {
+    "type": "steel"
+   },
+   "texto": "acero inoxidable"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20323,
+   "fin": 20339,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "147 x 48 x 68 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20323,
+   "fin": 20326,
+   "texto": "147"
+  },
+  {
+   "tipo": "width",
+   "ini": 20329,
+   "fin": 20331,
+   "texto": "48"
+  },
+  {
+   "tipo": "depth",
+   "ini": 20334,
+   "fin": 20336,
+   "texto": "68"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 20361,
+   "fin": 20500
+  },
+  {
+   "tipo": "person",
+   "ini": 20361,
+   "fin": 20372,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "LUCIO MUÑOZ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20361,
+   "fin": 20372,
+   "texto": "LUCIO MUÑOZ"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20374,
+   "fin": 20437
+  },
+  {
+   "tipo": "img",
+   "ini": 20374,
+   "fin": 20379,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20381,
+   "fin": 20437,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Ecce Homo, 1963, técnica mixta sobre tabla, 240 x 200 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 20381,
+   "fin": 20390,
+   "texto": "Ecce Homo"
+  },
+  {
+   "tipo": "date",
+   "ini": 20392,
+   "fin": 20396,
+   "rasgos": {
+    "when": "1963"
+   },
+   "texto": "1963"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20398,
+   "fin": 20423,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "técnica mixta sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20425,
+   "fin": 20437,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "240 x 200 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20425,
+   "fin": 20428,
+   "texto": "240"
+  },
+  {
+   "tipo": "width",
+   "ini": 20431,
+   "fin": 20434,
+   "texto": "200"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20439,
+   "fin": 20500
+  },
+  {
+   "tipo": "img",
+   "ini": 20439,
+   "fin": 20444,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20446,
+   "fin": 20500,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "27-1-91, 1991, técnica mixta sobre tabla, 210 x 210 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 20446,
+   "fin": 20453,
+   "texto": "27-1-91"
+  },
+  {
+   "tipo": "date",
+   "ini": 20455,
+   "fin": 20459,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20461,
+   "fin": 20486,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "técnica mixta sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20488,
+   "fin": 20500,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "210 x 210 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20488,
+   "fin": 20491,
+   "texto": "210"
+  },
+  {
+   "tipo": "width",
+   "ini": 20494,
+   "fin": 20497,
+   "texto": "210"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 20504,
+   "fin": 20649
+  },
+  {
+   "tipo": "person",
+   "ini": 20504,
+   "fin": 20525,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JUAN NAVARRO BALDEWEG"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20504,
+   "fin": 20525,
+   "texto": "JUAN NAVARRO BALDEWEG"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20527,
+   "fin": 20584
+  },
+  {
+   "tipo": "img",
+   "ini": 20527,
+   "fin": 20532,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20534,
+   "fin": 20584,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Casa romana, 1985, óleo sobre lienzo, 162 x 260 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 20534,
+   "fin": 20545,
+   "texto": "Casa romana"
+  },
+  {
+   "tipo": "date",
+   "ini": 20547,
+   "fin": 20551,
+   "rasgos": {
+    "when": "1985"
+   },
+   "texto": "1985"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20553,
+   "fin": 20570,
+   "rasgos": {
+    "type": "pil"
+   },
+   "texto": "óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20572,
+   "fin": 20584,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "162 x 260 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20572,
+   "fin": 20575,
+   "texto": "162"
+  },
+  {
+   "tipo": "width",
+   "ini": 20578,
+   "fin": 20581,
+   "texto": "260"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20586,
+   "fin": 20649
+  },
+  {
+   "tipo": "img",
+   "ini": 20586,
+   "fin": 20591,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20593,
+   "fin": 20649,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Luz en formación, 2017, látex sobre lienzo, 200 x 200 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 20593,
+   "fin": 20609,
+   "texto": "Luz en formación"
+  },
+  {
+   "tipo": "date",
+   "ini": 20611,
+   "fin": 20615,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20617,
+   "fin": 20635,
+   "rasgos": {
+    "type": "latex"
+   },
+   "texto": "látex sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20637,
+   "fin": 20649,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 200 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20637,
+   "fin": 20640,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 20643,
+   "fin": 20646,
+   "texto": "200"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 20653,
+   "fin": 20788
+  },
+  {
+   "tipo": "person",
+   "ini": 20653,
+   "fin": 20666,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "PELAYO ORTEGA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20653,
+   "fin": 20666,
+   "texto": "PELAYO ORTEGA"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20668,
+   "fin": 20730
+  },
+  {
+   "tipo": "img",
+   "ini": 20668,
+   "fin": 20673,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20675,
+   "fin": 20730,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La ciudad de Dios, 1989, óleo sobre lienzo, 89 x 116 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 20675,
+   "fin": 20692,
+   "texto": "La ciudad de Dios"
+  },
+  {
+   "tipo": "date",
+   "ini": 20694,
+   "fin": 20698,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20700,
+   "fin": 20717,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20719,
+   "fin": 20730,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "89 x 116 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20719,
+   "fin": 20721,
+   "texto": "89"
+  },
+  {
+   "tipo": "width",
+   "ini": 20724,
+   "fin": 20727,
+   "texto": "116"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20732,
+   "fin": 20788
+  },
+  {
+   "tipo": "img",
+   "ini": 20732,
+   "fin": 20737,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20739,
+   "fin": 20788,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Noctámbulos, 2016, óleo sobre lienzo, 40 x 150 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 20739,
+   "fin": 20750,
+   "texto": "Noctámbulos"
+  },
+  {
+   "tipo": "date",
+   "ini": 20752,
+   "fin": 20756,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20758,
+   "fin": 20775,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20777,
+   "fin": 20788,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 150 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20777,
+   "fin": 20779,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 20782,
+   "fin": 20785,
+   "texto": "150"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 20792,
+   "fin": 20948
+  },
+  {
+   "tipo": "person",
+   "ini": 20792,
+   "fin": 20817,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "DAVID RODRÍGUEZ CABALLERO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20792,
+   "fin": 20817,
+   "texto": "DAVID RODRÍGUEZ CABALLERO"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20819,
+   "fin": 20886
+  },
+  {
+   "tipo": "img",
+   "ini": 20819,
+   "fin": 20824,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20826,
+   "fin": 20886,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Sin título, 2006, óleo sobre aluminio, 100 x 66,5 x 9 cm c/u"
+  },
+  {
+   "tipo": "title",
+   "ini": 20826,
+   "fin": 20836,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 20838,
+   "fin": 20842,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20844,
+   "fin": 20863,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "óleo sobre aluminio"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20865,
+   "fin": 20882,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 66,5 x 9 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20865,
+   "fin": 20868,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 20871,
+   "fin": 20875,
+   "texto": "66,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 20878,
+   "fin": 20879,
+   "texto": "9"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20888,
+   "fin": 20948
+  },
+  {
+   "tipo": "img",
+   "ini": 20888,
+   "fin": 20893,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20895,
+   "fin": 20948,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "22.enero.2017, 2017, acero y cobre, 140 x 166 x 42 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 20895,
+   "fin": 20908,
+   "texto": "22.enero.2017"
+  },
+  {
+   "tipo": "date",
+   "ini": 20910,
+   "fin": 20914,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20916,
+   "fin": 20929,
+   "rasgos": {
+    "type": "steel, copper"
+   },
+   "texto": "acero y cobre"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20931,
+   "fin": 20948,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "140 x 166 x 42 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20931,
+   "fin": 20934,
+   "texto": "140"
+  },
+  {
+   "tipo": "width",
+   "ini": 20937,
+   "fin": 20940,
+   "texto": "166"
+  },
+  {
+   "tipo": "depth",
+   "ini": 20943,
+   "fin": 20945,
+   "texto": "42"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 20952,
+   "fin": 21084
+  },
+  {
+   "tipo": "person",
+   "ini": 20952,
+   "fin": 20963,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "SERGIO SANZ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20952,
+   "fin": 20963,
+   "texto": "SERGIO SANZ"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20965,
+   "fin": 21028
+  },
+  {
+   "tipo": "img",
+   "ini": 20965,
+   "fin": 20970,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20972,
+   "fin": 21028,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Brotes al alba, 1988, acrílico sobre lienzo, 130 x 97 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 20972,
+   "fin": 20986,
+   "texto": "Brotes al alba"
+  },
+  {
+   "tipo": "date",
+   "ini": 20988,
+   "fin": 20992,
+   "rasgos": {
+    "when": "1988"
+   },
+   "texto": "1988"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20994,
+   "fin": 21015,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21017,
+   "fin": 21028,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 97 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21017,
+   "fin": 21020,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 21023,
+   "fin": 21025,
+   "texto": "97"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21030,
+   "fin": 21084
+  },
+  {
+   "tipo": "img",
+   "ini": 21030,
+   "fin": 21035,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 21037,
+   "fin": 21084,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Este, 2014, acrílico sobre lienzo, 162 x 116 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 21037,
+   "fin": 21041,
+   "texto": "Este"
+  },
+  {
+   "tipo": "date",
+   "ini": 21043,
+   "fin": 21047,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21049,
+   "fin": 21070,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21072,
+   "fin": 21084,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "162 x 116 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21072,
+   "fin": 21075,
+   "texto": "162"
+  },
+  {
+   "tipo": "width",
+   "ini": 21078,
+   "fin": 21081,
+   "texto": "116"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 21088,
+   "fin": 21226
+  },
+  {
+   "tipo": "person",
+   "ini": 21088,
+   "fin": 21103,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "SOLEDAD SEVILLA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21088,
+   "fin": 21103,
+   "texto": "SOLEDAD SEVILLA"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21105,
+   "fin": 21159
+  },
+  {
+   "tipo": "img",
+   "ini": 21105,
+   "fin": 21110,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 21112,
+   "fin": 21159,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título, 1970, óleo sobre tela, 195 x 130 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 21112,
+   "fin": 21122,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 21124,
+   "fin": 21128,
+   "rasgos": {
+    "when": "1970"
+   },
+   "texto": "1970"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21130,
+   "fin": 21145,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "óleo sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21147,
+   "fin": 21159,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "195 x 130 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21147,
+   "fin": 21150,
+   "texto": "195"
+  },
+  {
+   "tipo": "width",
+   "ini": 21153,
+   "fin": 21156,
+   "texto": "130"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21161,
+   "fin": 21226
+  },
+  {
+   "tipo": "img",
+   "ini": 21161,
+   "fin": 21166,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 21168,
+   "fin": 21226,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Nuevas lejanías negro, 2015, óleo sobre tela, 200 x 220 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 21168,
+   "fin": 21189,
+   "texto": "Nuevas lejanías negro"
+  },
+  {
+   "tipo": "date",
+   "ini": 21191,
+   "fin": 21195,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21197,
+   "fin": 21212,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "óleo sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21214,
+   "fin": 21226,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 220 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21214,
+   "fin": 21217,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 21220,
+   "fin": 21223,
+   "texto": "220"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 21230,
+   "fin": 21375
+  },
+  {
+   "tipo": "person",
+   "ini": 21230,
+   "fin": 21243,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MANOLO VALDÉS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21230,
+   "fin": 21243,
+   "texto": "MANOLO VALDÉS"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21245,
+   "fin": 21307
+  },
+  {
+   "tipo": "img",
+   "ini": 21245,
+   "fin": 21250,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 21252,
+   "fin": 21307,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La danza, 1987-88, óleo sobre arpillera, 240 x 343,5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 21252,
+   "fin": 21260,
+   "texto": "La danza"
+  },
+  {
+   "tipo": "date",
+   "ini": 21262,
+   "fin": 21269,
+   "rasgos": {
+    "from": "1987",
+    "to": "1988"
+   },
+   "texto": "1987-88"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21271,
+   "fin": 21291,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "óleo sobre arpillera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21293,
+   "fin": 21307,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "240 x 343,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21293,
+   "fin": 21296,
+   "texto": "240"
+  },
+  {
+   "tipo": "width",
+   "ini": 21299,
+   "fin": 21304,
+   "texto": "343,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21309,
+   "fin": 21375
+  },
+  {
+   "tipo": "img",
+   "ini": 21309,
+   "fin": 21314,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 21316,
+   "fin": 21375,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Claudette sentada, 2009, óleo sobre arpillera, 211 x 161 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 21316,
+   "fin": 21333,
+   "texto": "Claudette sentada"
+  },
+  {
+   "tipo": "date",
+   "ini": 21335,
+   "fin": 21339,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21341,
+   "fin": 21361,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "óleo sobre arpillera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21363,
+   "fin": 21375,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "211 x 161 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21363,
+   "fin": 21366,
+   "texto": "211"
+  },
+  {
+   "tipo": "width",
+   "ini": 21369,
+   "fin": 21372,
+   "texto": "161"
+  },
+  {
+   "tipo": "title",
+   "ini": 21402,
+   "fin": 21437,
+   "texto": "AYER Y HOY. El laberinto del tiempo"
+  },
+  {
+   "tipo": "person",
+   "ini": 21439,
+   "fin": 21481,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alfonso Albacete (Antequera, Málaga, 1950)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21439,
+   "fin": 21455,
+   "texto": "Alfonso Albacete"
+  },
+  {
+   "tipo": "birth",
+   "ini": 21457,
+   "fin": 21480
+  },
+  {
+   "tipo": "placeName",
+   "ini": 21457,
+   "fin": 21474,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Antequera, Málaga"
+  },
+  {
+   "tipo": "date",
+   "ini": 21476,
+   "fin": 21480,
+   "rasgos": {
+    "when": "1950"
+   },
+   "texto": "1950"
+  },
+  {
+   "tipo": "person",
+   "ini": 22827,
+   "fin": 22843,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alfonso Albacete"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22827,
+   "fin": 22843,
+   "texto": "Alfonso Albacete"
+  },
+  {
+   "tipo": "person",
+   "ini": 22907,
+   "fin": 22940,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joaquín Barón (Ciudad Real, 1970)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22907,
+   "fin": 22920,
+   "texto": "Joaquín Barón"
+  },
+  {
+   "tipo": "birth",
+   "ini": 22922,
+   "fin": 22939
+  },
+  {
+   "tipo": "placeName",
+   "ini": 22922,
+   "fin": 22933,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Ciudad Real"
+  },
+  {
+   "tipo": "date",
+   "ini": 22935,
+   "fin": 22939,
+   "rasgos": {
+    "when": "1970"
+   },
+   "texto": "1970"
+  },
+  {
+   "tipo": "person",
+   "ini": 24108,
+   "fin": 24121,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joaquín Barón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24108,
+   "fin": 24121,
+   "texto": "Joaquín Barón"
+  },
+  {
+   "tipo": "person",
+   "ini": 24169,
+   "fin": 24210,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pablo Armesto (Schaffhausen, Suiza, 1970)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24169,
+   "fin": 24182,
+   "texto": "Pablo Armesto"
+  },
+  {
+   "tipo": "birth",
+   "ini": 24184,
+   "fin": 24209
+  },
+  {
+   "tipo": "placeName",
+   "ini": 24184,
+   "fin": 24203,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Schaffhausen, Suiza"
+  },
+  {
+   "tipo": "date",
+   "ini": 24205,
+   "fin": 24209,
+   "rasgos": {
+    "when": "1970"
+   },
+   "texto": "1970"
+  },
+  {
+   "tipo": "person",
+   "ini": 25348,
+   "fin": 25361,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pablo Armesto"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25348,
+   "fin": 25361,
+   "texto": "Pablo Armesto"
+  },
+  {
+   "tipo": "person",
+   "ini": 25398,
+   "fin": 25447,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino (Las Palmas de Gran Canaria, 1925)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25398,
+   "fin": 25412,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "birth",
+   "ini": 25414,
+   "fin": 25446
+  },
+  {
+   "tipo": "placeName",
+   "ini": 25414,
+   "fin": 25440,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Las Palmas de Gran Canaria"
+  },
+  {
+   "tipo": "date",
+   "ini": 25442,
+   "fin": 25446,
+   "rasgos": {
+    "when": "1925"
+   },
+   "texto": "1925"
+  },
+  {
+   "tipo": "person",
+   "ini": 27119,
+   "fin": 27133,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27119,
+   "fin": 27133,
+   "texto": "Martín Chirino"
+  },
+  {
+   "tipo": "person",
+   "ini": 27181,
+   "fin": 27217,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan José Aquerreta (Pamplona, 1946)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27181,
+   "fin": 27200,
+   "texto": "Juan José Aquerreta"
+  },
+  {
+   "tipo": "birth",
+   "ini": 27202,
+   "fin": 27216
+  },
+  {
+   "tipo": "placeName",
+   "ini": 27202,
+   "fin": 27210,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Pamplona"
+  },
+  {
+   "tipo": "date",
+   "ini": 27212,
+   "fin": 27216,
+   "rasgos": {
+    "when": "1946"
+   },
+   "texto": "1946"
+  },
+  {
+   "tipo": "person",
+   "ini": 28443,
+   "fin": 28462,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan José Aquerreta"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28443,
+   "fin": 28462,
+   "texto": "Juan José Aquerreta"
+  },
+  {
+   "tipo": "person",
+   "ini": 28499,
+   "fin": 28533,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rafael Cidoncha (Vigo, Pontevedra)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28499,
+   "fin": 28514,
+   "texto": "Rafael Cidoncha"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 28516,
+   "fin": 28532,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Vigo, Pontevedra"
+  },
+  {
+   "tipo": "birth",
+   "ini": 28516,
+   "fin": 28532
+  },
+  {
+   "tipo": "person",
+   "ini": 29767,
+   "fin": 29782,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rafael Cidoncha"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29767,
+   "fin": 29782,
+   "texto": "Rafael Cidoncha"
+  },
+  {
+   "tipo": "person",
+   "ini": 29826,
+   "fin": 29856,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alberto Corazón (Madrid, 1942)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29826,
+   "fin": 29841,
+   "texto": "Alberto Corazón"
+  },
+  {
+   "tipo": "birth",
+   "ini": 29843,
+   "fin": 29855
+  },
+  {
+   "tipo": "placeName",
+   "ini": 29843,
+   "fin": 29849,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "date",
+   "ini": 29851,
+   "fin": 29855,
+   "rasgos": {
+    "when": "1942"
+   },
+   "texto": "1942"
+  },
+  {
+   "tipo": "person",
+   "ini": 31189,
+   "fin": 31204,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alberto Corazón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31189,
+   "fin": 31204,
+   "texto": "Alberto Corazón"
+  },
+  {
+   "tipo": "person",
+   "ini": 31255,
+   "fin": 31283,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carlos Franco (Madrid, 1951)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31255,
+   "fin": 31268,
+   "texto": "Carlos Franco"
+  },
+  {
+   "tipo": "birth",
+   "ini": 31270,
+   "fin": 31282
+  },
+  {
+   "tipo": "placeName",
+   "ini": 31270,
+   "fin": 31276,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "date",
+   "ini": 31278,
+   "fin": 31282,
+   "rasgos": {
+    "when": "1951"
+   },
+   "texto": "1951"
+  },
+  {
+   "tipo": "person",
+   "ini": 32775,
+   "fin": 32793,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Correa (1959)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 32775,
+   "fin": 32786,
+   "texto": "Juan Correa"
+  },
+  {
+   "tipo": "date",
+   "ini": 32788,
+   "fin": 32792,
+   "rasgos": {
+    "when": "1959"
+   },
+   "texto": "1959"
+  },
+  {
+   "tipo": "birth",
+   "ini": 32788,
+   "fin": 32792
+  },
+  {
+   "tipo": "person",
+   "ini": 33829,
+   "fin": 33840,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Correa"
+  },
+  {
+   "tipo": "person",
+   "ini": 33877,
+   "fin": 33900,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel Franquelo (1953)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 33877,
+   "fin": 33893,
+   "texto": "Manuel Franquelo"
+  },
+  {
+   "tipo": "date",
+   "ini": 33895,
+   "fin": 33899,
+   "rasgos": {
+    "when": "1953"
+   },
+   "texto": "1953"
+  },
+  {
+   "tipo": "birth",
+   "ini": 33895,
+   "fin": 33899
+  },
+  {
+   "tipo": "person",
+   "ini": 35235,
+   "fin": 35244,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Franquelo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35235,
+   "fin": 35244,
+   "texto": "Franquelo"
+  },
+  {
+   "tipo": "person",
+   "ini": 35370,
+   "fin": 35415,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Hugo Fontela nace en Grado (Asturias) en 1986"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35370,
+   "fin": 35382,
+   "texto": "Hugo Fontela"
+  },
+  {
+   "tipo": "birth",
+   "ini": 35391,
+   "fin": 35415
+  },
+  {
+   "tipo": "placeName",
+   "ini": 35398,
+   "fin": 35406,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Asturias"
+  },
+  {
+   "tipo": "date",
+   "ini": 35411,
+   "fin": 35415,
+   "rasgos": {
+    "when": "1986"
+   },
+   "texto": "1986"
+  },
+  {
+   "tipo": "person",
+   "ini": 36754,
+   "fin": 36766,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Hugo Fontela"
+  },
+  {
+   "tipo": "persName",
+   "ini": 36754,
+   "fin": 36766,
+   "texto": "Hugo Fontela"
+  },
+  {
+   "tipo": "person",
+   "ini": 36803,
+   "fin": 36832,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Genovés (Valencia, 1930)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 36803,
+   "fin": 36815,
+   "texto": "Juan Genovés"
+  },
+  {
+   "tipo": "birth",
+   "ini": 36817,
+   "fin": 36831
+  },
+  {
+   "tipo": "placeName",
+   "ini": 36817,
+   "fin": 36825,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Valencia"
+  },
+  {
+   "tipo": "date",
+   "ini": 36827,
+   "fin": 36831,
+   "rasgos": {
+    "when": "1930"
+   },
+   "texto": "1930"
+  },
+  {
+   "tipo": "person",
+   "ini": 38318,
+   "fin": 38330,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Genovés"
+  },
+  {
+   "tipo": "person",
+   "ini": 38384,
+   "fin": 38412,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luis Gordillo (Sevilla, 1934"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38384,
+   "fin": 38397,
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "birth",
+   "ini": 38399,
+   "fin": 38412
+  },
+  {
+   "tipo": "placeName",
+   "ini": 38399,
+   "fin": 38406,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "date",
+   "ini": 38408,
+   "fin": 38412,
+   "rasgos": {
+    "when": "1934"
+   },
+   "texto": "1934"
+  },
+  {
+   "tipo": "person",
+   "ini": 39709,
+   "fin": 39740,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Abraham Lacalle (Almería, 1962)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39709,
+   "fin": 39724,
+   "texto": "Abraham Lacalle"
+  },
+  {
+   "tipo": "birth",
+   "ini": 39726,
+   "fin": 39739
+  },
+  {
+   "tipo": "placeName",
+   "ini": 39726,
+   "fin": 39733,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Almería"
+  },
+  {
+   "tipo": "date",
+   "ini": 39735,
+   "fin": 39739,
+   "rasgos": {
+    "when": "1962"
+   },
+   "texto": "1962"
+  },
+  {
+   "tipo": "person",
+   "ini": 40907,
+   "fin": 40922,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Abraham Lacalle"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40907,
+   "fin": 40922,
+   "texto": "Abraham Lacalle"
+  },
+  {
+   "tipo": "person",
+   "ini": 41002,
+   "fin": 41036,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Francisco Leiro (Pontevedra, 1957)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 41002,
+   "fin": 41017,
+   "texto": "Francisco Leiro"
+  },
+  {
+   "tipo": "birth",
+   "ini": 41019,
+   "fin": 41035
+  },
+  {
+   "tipo": "placeName",
+   "ini": 41019,
+   "fin": 41029,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Pontevedra"
+  },
+  {
+   "tipo": "date",
+   "ini": 41031,
+   "fin": 41035,
+   "rasgos": {
+    "when": "1957"
+   },
+   "texto": "1957"
+  },
+  {
+   "tipo": "person",
+   "ini": 42237,
+   "fin": 42252,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Francisco Leiro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 42237,
+   "fin": 42252,
+   "texto": "Francisco Leiro"
+  },
+  {
+   "tipo": "person",
+   "ini": 42289,
+   "fin": 42316,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio López García (1936)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 42289,
+   "fin": 42309,
+   "texto": "Antonio López García"
+  },
+  {
+   "tipo": "date",
+   "ini": 42311,
+   "fin": 42315,
+   "rasgos": {
+    "when": "1936"
+   },
+   "texto": "1936"
+  },
+  {
+   "tipo": "birth",
+   "ini": 42311,
+   "fin": 42315
+  },
+  {
+   "tipo": "person",
+   "ini": 44136,
+   "fin": 44149,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio López"
+  },
+  {
+   "tipo": "persName",
+   "ini": 44136,
+   "fin": 44149,
+   "texto": "Antonio López"
+  },
+  {
+   "tipo": "person",
+   "ini": 44202,
+   "fin": 44229,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Blanca Muñoz (Madrid, 1963)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 44202,
+   "fin": 44214,
+   "texto": "Blanca Muñoz"
+  },
+  {
+   "tipo": "birth",
+   "ini": 44216,
+   "fin": 44228
+  },
+  {
+   "tipo": "placeName",
+   "ini": 44216,
+   "fin": 44222,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "date",
+   "ini": 44224,
+   "fin": 44228,
+   "rasgos": {
+    "when": "1963"
+   },
+   "texto": "1963"
+  },
+  {
+   "tipo": "person",
+   "ini": 45546,
+   "fin": 45577,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lucio Muñoz (Madrid, 1930-1998)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 45546,
+   "fin": 45557,
+   "texto": "Lucio Muñoz"
+  },
+  {
+   "tipo": "birth",
+   "ini": 45559,
+   "fin": 45576
+  },
+  {
+   "tipo": "placeName",
+   "ini": 45559,
+   "fin": 45565,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "date",
+   "ini": 45567,
+   "fin": 45576,
+   "rasgos": {
+    "from": "1930",
+    "to": "1998"
+   },
+   "texto": "1930-1998"
+  },
+  {
+   "tipo": "person",
+   "ini": 46974,
+   "fin": 46985,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lucio\nMuñoz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 46974,
+   "fin": 46985,
+   "texto": "Lucio\nMuñoz"
+  },
+  {
+   "tipo": "person",
+   "ini": 47024,
+   "fin": 47063,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Navarro Baldeweg (Santander, 1939)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 47024,
+   "fin": 47045,
+   "texto": "Juan Navarro Baldeweg"
+  },
+  {
+   "tipo": "birth",
+   "ini": 47047,
+   "fin": 47062
+  },
+  {
+   "tipo": "placeName",
+   "ini": 47047,
+   "fin": 47056,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Santander"
+  },
+  {
+   "tipo": "date",
+   "ini": 47058,
+   "fin": 47062,
+   "rasgos": {
+    "when": "1939"
+   },
+   "texto": "1939"
+  },
+  {
+   "tipo": "person",
+   "ini": 48261,
+   "fin": 48282,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Navarro Baldeweg"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48261,
+   "fin": 48282,
+   "texto": "Juan Navarro Baldeweg"
+  },
+  {
+   "tipo": "person",
+   "ini": 48330,
+   "fin": 48368,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pelayo Ortega (Mieres, Asturias, 1956)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48330,
+   "fin": 48343,
+   "texto": "Pelayo Ortega"
+  },
+  {
+   "tipo": "birth",
+   "ini": 48345,
+   "fin": 48367
+  },
+  {
+   "tipo": "placeName",
+   "ini": 48345,
+   "fin": 48361,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Mieres, Asturias"
+  },
+  {
+   "tipo": "date",
+   "ini": 48363,
+   "fin": 48367,
+   "rasgos": {
+    "when": "1956"
+   },
+   "texto": "1956"
+  },
+  {
+   "tipo": "person",
+   "ini": 49632,
+   "fin": 49645,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pelayo Ortega"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49632,
+   "fin": 49645,
+   "texto": "Pelayo Ortega"
+  },
+  {
+   "tipo": "person",
+   "ini": 49694,
+   "fin": 49736,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Rodríguez Caballero (Palencia, 1970)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49694,
+   "fin": 49719,
+   "texto": "David Rodríguez Caballero"
+  },
+  {
+   "tipo": "birth",
+   "ini": 49721,
+   "fin": 49735
+  },
+  {
+   "tipo": "placeName",
+   "ini": 49721,
+   "fin": 49729,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Palencia"
+  },
+  {
+   "tipo": "date",
+   "ini": 49731,
+   "fin": 49735,
+   "rasgos": {
+    "when": "1970"
+   },
+   "texto": "1970"
+  },
+  {
+   "tipo": "person",
+   "ini": 50976,
+   "fin": 51001,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Rodróguez Caballero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50976,
+   "fin": 51001,
+   "texto": "David Rodróguez Caballero"
+  },
+  {
+   "tipo": "person",
+   "ini": 51038,
+   "fin": 51056,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sergio Sanz (1964)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 51038,
+   "fin": 51049,
+   "texto": "Sergio Sanz"
+  },
+  {
+   "tipo": "date",
+   "ini": 51051,
+   "fin": 51055,
+   "rasgos": {
+    "when": "1964"
+   },
+   "texto": "1964"
+  },
+  {
+   "tipo": "birth",
+   "ini": 51051,
+   "fin": 51055
+  },
+  {
+   "tipo": "person",
+   "ini": 52197,
+   "fin": 52208,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sergio Sanz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 52197,
+   "fin": 52208,
+   "texto": "Sergio Sanz"
+  },
+  {
+   "tipo": "person",
+   "ini": 52269,
+   "fin": 52301,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Soledad Sevilla (Valencia, 1944)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 52269,
+   "fin": 52284,
+   "texto": "Soledad Sevilla"
+  },
+  {
+   "tipo": "birth",
+   "ini": 52286,
+   "fin": 52300
+  },
+  {
+   "tipo": "placeName",
+   "ini": 52286,
+   "fin": 52294,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Valencia"
+  },
+  {
+   "tipo": "date",
+   "ini": 52296,
+   "fin": 52300,
+   "rasgos": {
+    "when": "1944"
+   },
+   "texto": "1944"
+  },
+  {
+   "tipo": "person",
+   "ini": 53863,
+   "fin": 53878,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Soledad Sevilla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 53863,
+   "fin": 53878,
+   "texto": "Soledad Sevilla"
+  },
+  {
+   "tipo": "person",
+   "ini": 53920,
+   "fin": 53949,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manolo Valdés (Valencia 1942)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 53920,
+   "fin": 53933,
+   "texto": "Manolo Valdés"
+  },
+  {
+   "tipo": "birth",
+   "ini": 53935,
+   "fin": 53948
+  },
+  {
+   "tipo": "placeName",
+   "ini": 53935,
+   "fin": 53943,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Valencia"
+  },
+  {
+   "tipo": "date",
+   "ini": 53944,
+   "fin": 53948,
+   "rasgos": {
+    "when": "1942"
+   },
+   "texto": "1942"
+  },
+  {
+   "tipo": "person",
+   "ini": 55652,
+   "fin": 55665,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manolo Valdés"
+  },
+  {
+   "tipo": "persName",
+   "ini": 55652,
+   "fin": 55665,
+   "texto": "Manolo Valdés"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 57313,
+   "fin": 57903,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 57323,
+   "fin": 57345,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "Jara Herranz Fernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57323,
+   "fin": 57345,
+   "texto": "Jara Herranz Fernández"
+  },
+  {
+   "tipo": "person",
+   "ini": 57361,
+   "fin": 57374,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel Blanco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57361,
+   "fin": 57374,
+   "texto": "Manuel Blanco"
+  },
+  {
+   "tipo": "person",
+   "ini": 57376,
+   "fin": 57395,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Francisco Fernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57376,
+   "fin": 57395,
+   "texto": "Francisco Fernández"
+  },
+  {
+   "tipo": "person",
+   "ini": 57397,
+   "fin": 57408,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan García"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57397,
+   "fin": 57408,
+   "texto": "Juan García"
+  },
+  {
+   "tipo": "person",
+   "ini": 57410,
+   "fin": 57424,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Marcos Morilla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57410,
+   "fin": 57424,
+   "texto": "Marcos Morilla"
+  },
+  {
+   "tipo": "person",
+   "ini": 57440,
+   "fin": 57452,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Arturo Muñoz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57440,
+   "fin": 57452,
+   "texto": "Arturo Muñoz"
+  },
+  {
+   "tipo": "person",
+   "ini": 57454,
+   "fin": 57470,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Leonardo Villela"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57454,
+   "fin": 57470,
+   "texto": "Leonardo Villela"
+  },
+  {
+   "tipo": "institution",
+   "ini": 57484,
+   "fin": 57501,
+   "rasgos": {
+    "type": "company",
+    "role": "printer"
+   },
+   "texto": "Gráficas Castuera"
+  },
+  {
+   "tipo": "person",
+   "ini": 57505,
+   "fin": 57521,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alfonso Albacete"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57505,
+   "fin": 57521,
+   "texto": "Alfonso Albacete"
+  },
+  {
+   "tipo": "person",
+   "ini": 57523,
+   "fin": 57536,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joaquín Barón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57523,
+   "fin": 57536,
+   "texto": "Joaquín Barón"
+  },
+  {
+   "tipo": "person",
+   "ini": 57538,
+   "fin": 57553,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alberto Corazón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57538,
+   "fin": 57553,
+   "texto": "Alberto Corazón"
+  },
+  {
+   "tipo": "person",
+   "ini": 57555,
+   "fin": 57567,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Hugo Fontela"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57555,
+   "fin": 57567,
+   "texto": "Hugo Fontela"
+  },
+  {
+   "tipo": "person",
+   "ini": 57569,
+   "fin": 57582,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carlos Franco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57569,
+   "fin": 57582,
+   "texto": "Carlos Franco"
+  },
+  {
+   "tipo": "person",
+   "ini": 57584,
+   "fin": 57600,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel Franquelo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57584,
+   "fin": 57600,
+   "texto": "Manuel Franquelo"
+  },
+  {
+   "tipo": "person",
+   "ini": 57602,
+   "fin": 57614,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Genovés"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57602,
+   "fin": 57614,
+   "texto": "Juan Genovés"
+  },
+  {
+   "tipo": "person",
+   "ini": 57616,
+   "fin": 57629,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57616,
+   "fin": 57629,
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 57631,
+   "fin": 57646,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Abraham Lacalle"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57631,
+   "fin": 57646,
+   "texto": "Abraham Lacalle"
+  },
+  {
+   "tipo": "person",
+   "ini": 57648,
+   "fin": 57663,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Francisco Leiro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57648,
+   "fin": 57663,
+   "texto": "Francisco Leiro"
+  },
+  {
+   "tipo": "person",
+   "ini": 57665,
+   "fin": 57685,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio López García"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57665,
+   "fin": 57685,
+   "texto": "Antonio López García"
+  },
+  {
+   "tipo": "person",
+   "ini": 57687,
+   "fin": 57698,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lucio Muñoz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57687,
+   "fin": 57698,
+   "texto": "Lucio Muñoz"
+  },
+  {
+   "tipo": "person",
+   "ini": 57700,
+   "fin": 57721,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Navarro Baldeweg"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57700,
+   "fin": 57721,
+   "texto": "Juan Navarro Baldeweg"
+  },
+  {
+   "tipo": "person",
+   "ini": 57723,
+   "fin": 57736,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pelayo Ortega"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57723,
+   "fin": 57736,
+   "texto": "Pelayo Ortega"
+  },
+  {
+   "tipo": "person",
+   "ini": 57738,
+   "fin": 57749,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sergio Sanz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57738,
+   "fin": 57749,
+   "texto": "Sergio Sanz"
+  },
+  {
+   "tipo": "person",
+   "ini": 57751,
+   "fin": 57766,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Soledad Sevilla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57751,
+   "fin": 57766,
+   "texto": "Soledad Sevilla"
+  },
+  {
+   "tipo": "person",
+   "ini": 57768,
+   "fin": 57781,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manolo Valdés"
+  },
+  {
+   "tipo": "persName",
+   "ini": 57768,
+   "fin": 57781,
+   "texto": "Manolo Valdés"
+  },
+  {
+   "tipo": "title",
+   "ini": 57856,
+   "fin": 57890,
+   "texto": "AYER Y HOY\nEl laberinto del tiempo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 57892,
+   "fin": 57903,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Marlborough"
+  }
+ ]
+}

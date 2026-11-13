@@ -1,0 +1,4570 @@
+{
+ "id": "cat_061_catalogo_vilato",
+ "nombre_original": "catalogo-vilato",
+ "longitud_texto": 55710,
+ "sha256_texto": "a0d82a32a1da8ce2d0eb3fdab88b1291d916d040f661e4aaffdb36bde298653f",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 392,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 35,
+   "texto": "Vilató\n100\nobras para un centenario"
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 6,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 6,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "institution",
+   "ini": 44,
+   "fin": 75,
+   "rasgos": {
+    "type": "townHall",
+    "role": "editor, organiser"
+   },
+   "texto": "Excmo. Ayuntamiento de Almoradí"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 67,
+   "fin": 75,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Almoradí"
+  },
+  {
+   "tipo": "person",
+   "ini": 156,
+   "fin": 179,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Francisco Sánchez Soria"
+  },
+  {
+   "tipo": "persName",
+   "ini": 156,
+   "fin": 179,
+   "texto": "Francisco Sánchez Soria"
+  },
+  {
+   "tipo": "person",
+   "ini": 194,
+   "fin": 220,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "José Antonio Latorre Coves"
+  },
+  {
+   "tipo": "persName",
+   "ini": 194,
+   "fin": 220,
+   "texto": "José Antonio Latorre Coves"
+  },
+  {
+   "tipo": "person",
+   "ini": 221,
+   "fin": 245,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "Víctor Rodríguez Pertusa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 221,
+   "fin": 245,
+   "texto": "Víctor Rodríguez Pertusa"
+  },
+  {
+   "tipo": "person",
+   "ini": 271,
+   "fin": 285,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Hydris Mokdahi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 271,
+   "fin": 285,
+   "texto": "Hydris Mokdahi"
+  },
+  {
+   "tipo": "person",
+   "ini": 286,
+   "fin": 299,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Víctor Ortuño"
+  },
+  {
+   "tipo": "persName",
+   "ini": 286,
+   "fin": 299,
+   "texto": "Víctor Ortuño"
+  },
+  {
+   "tipo": "person",
+   "ini": 321,
+   "fin": 333,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "Víctor Oliva"
+  },
+  {
+   "tipo": "persName",
+   "ini": 321,
+   "fin": 333,
+   "texto": "Víctor Oliva"
+  },
+  {
+   "tipo": "title",
+   "ini": 539,
+   "fin": 577,
+   "texto": "VILATÓ, CIEN OBRAS\nPARA UN CENTENARIO."
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 539,
+   "fin": 577,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 539,
+   "fin": 545,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "VILATÓ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 539,
+   "fin": 545,
+   "texto": "VILATÓ"
+  },
+  {
+   "tipo": "venue",
+   "ini": 630,
+   "fin": 667,
+   "texto": "Sala de\nExposiciones del Ayuntamiento"
+  },
+  {
+   "tipo": "institution",
+   "ini": 655,
+   "fin": 667,
+   "rasgos": {
+    "type": "townHall",
+    "role": "organiser, host"
+   },
+   "texto": "Ayuntamiento"
+  },
+  {
+   "tipo": "person",
+   "ini": 745,
+   "fin": 758,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 745,
+   "fin": 758,
+   "texto": "Javier Vilató"
+  },
+  {
+   "tipo": "venue",
+   "ini": 1069,
+   "fin": 1127,
+   "texto": "nueva Sala de Exposiciones que el Ayuntamiento\nde Almoradí"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1103,
+   "fin": 1127,
+   "rasgos": {
+    "type": "townHall",
+    "role": "organiser, host"
+   },
+   "texto": "Ayuntamiento\nde Almoradí"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1205,
+   "fin": 1533,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 1205,
+   "fin": 1241,
+   "texto": "VILATÓ, 100 OBRAS PARA UN CENTENARIO"
+  },
+  {
+   "tipo": "person",
+   "ini": 1205,
+   "fin": 1211,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "VILATÓ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1205,
+   "fin": 1211,
+   "texto": "VILATÓ"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1386,
+   "fin": 1410,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser"
+   },
+   "texto": "Museo Casa Natal\nPicasso"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1413,
+   "fin": 1438,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser"
+   },
+   "texto": "Centre Pompidou de Málaga"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1446,
+   "fin": 1497,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser"
+   },
+   "texto": "Museo del Grabado Español\nContemporáneo de Marbella"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1506,
+   "fin": 1532,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser"
+   },
+   "texto": "Museu Picasso de Barcelona"
+  },
+  {
+   "tipo": "person",
+   "ini": 2142,
+   "fin": 2155,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2142,
+   "fin": 2155,
+   "texto": "Javier Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 2624,
+   "fin": 2630,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2624,
+   "fin": 2630,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 3034,
+   "fin": 3040,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3034,
+   "fin": 3040,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 3440,
+   "fin": 3453,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3440,
+   "fin": 3453,
+   "texto": "Javier Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 4020,
+   "fin": 4026,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4020,
+   "fin": 4026,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 4278,
+   "fin": 4284,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4278,
+   "fin": 4284,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 5428,
+   "fin": 5434,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5428,
+   "fin": 5434,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 6768,
+   "fin": 6774,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6768,
+   "fin": 6774,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 6984,
+   "fin": 6997,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6984,
+   "fin": 6997,
+   "texto": "Javier Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 7515,
+   "fin": 7528,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier\nVilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7515,
+   "fin": 7528,
+   "texto": "Javier\nVilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 7998,
+   "fin": 8011,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7998,
+   "fin": 8011,
+   "texto": "Javier Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 8759,
+   "fin": 8772,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8759,
+   "fin": 8772,
+   "texto": "Javier Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 8789,
+   "fin": 8795,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8789,
+   "fin": 8795,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 8833,
+   "fin": 8839,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8833,
+   "fin": 8839,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 9163,
+   "fin": 9169,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9163,
+   "fin": 9169,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 9506,
+   "fin": 9512,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9506,
+   "fin": 9512,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 10276,
+   "fin": 10282,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10276,
+   "fin": 10282,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 10975,
+   "fin": 10981,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10975,
+   "fin": 10981,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 11791,
+   "fin": 11797,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11791,
+   "fin": 11797,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 12066,
+   "fin": 12072,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12066,
+   "fin": 12072,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 12163,
+   "fin": 12169,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12163,
+   "fin": 12169,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 12455,
+   "fin": 12461,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12455,
+   "fin": 12461,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 12844,
+   "fin": 12850,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12844,
+   "fin": 12850,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 13454,
+   "fin": 13460,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13454,
+   "fin": 13460,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 14106,
+   "fin": 14112,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14106,
+   "fin": 14112,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 14368,
+   "fin": 14374,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14368,
+   "fin": 14374,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 14666,
+   "fin": 14672,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14666,
+   "fin": 14672,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 14875,
+   "fin": 14881,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14875,
+   "fin": 14881,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 15090,
+   "fin": 15096,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15090,
+   "fin": 15096,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "title",
+   "ini": 15174,
+   "fin": 15213,
+   "texto": "“Vilató, cien obras\npara un centenario”"
+  },
+  {
+   "tipo": "person",
+   "ini": 15175,
+   "fin": 15181,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15175,
+   "fin": 15181,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 15241,
+   "fin": 15247,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15241,
+   "fin": 15247,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 15291,
+   "fin": 15297,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15291,
+   "fin": 15297,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 15393,
+   "fin": 15399,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "VILATÓ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15393,
+   "fin": 15399,
+   "texto": "VILATÓ"
+  },
+  {
+   "tipo": "person",
+   "ini": 15489,
+   "fin": 15495,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15489,
+   "fin": 15495,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 16342,
+   "fin": 16348,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16342,
+   "fin": 16348,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 16445,
+   "fin": 16451,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16445,
+   "fin": 16451,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 16932,
+   "fin": 16938,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16932,
+   "fin": 16938,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 17936,
+   "fin": 17942,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17936,
+   "fin": 17942,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 18853,
+   "fin": 18859,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18853,
+   "fin": 18859,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 18979,
+   "fin": 18985,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18979,
+   "fin": 18985,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 19314,
+   "fin": 19320,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "VILATÓ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19314,
+   "fin": 19320,
+   "texto": "VILATÓ"
+  },
+  {
+   "tipo": "person",
+   "ini": 19445,
+   "fin": 19458,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19445,
+   "fin": 19458,
+   "texto": "Javier Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 20940,
+   "fin": 20946,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20940,
+   "fin": 20946,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 23678,
+   "fin": 23684,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23678,
+   "fin": 23684,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 23962,
+   "fin": 23968,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23962,
+   "fin": 23968,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 24903,
+   "fin": 24909,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24903,
+   "fin": 24909,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 26190,
+   "fin": 26196,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26190,
+   "fin": 26196,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 26482,
+   "fin": 26488,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26482,
+   "fin": 26488,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 27120,
+   "fin": 27126,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27120,
+   "fin": 27126,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 28650,
+   "fin": 28656,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28650,
+   "fin": 28656,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 31389,
+   "fin": 31395,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31389,
+   "fin": 31395,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 32120,
+   "fin": 32126,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 32120,
+   "fin": 32126,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 32312,
+   "fin": 32318,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 32312,
+   "fin": 32318,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 33231,
+   "fin": 33237,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 33231,
+   "fin": 33237,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 33629,
+   "fin": 33642,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 33629,
+   "fin": 33642,
+   "texto": "Javier Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 34563,
+   "fin": 34576,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 34563,
+   "fin": 34576,
+   "texto": "Javier Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 35057,
+   "fin": 35063,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35057,
+   "fin": 35063,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 36864,
+   "fin": 36870,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 36864,
+   "fin": 36870,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 36944,
+   "fin": 37260,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 36951,
+   "fin": 36969,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "Casa Natal Picasso"
+  },
+  {
+   "tipo": "institution",
+   "ini": 36972,
+   "fin": 36997,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser"
+   },
+   "texto": "Centre Pompidou de Málaga"
+  },
+  {
+   "tipo": "institution",
+   "ini": 37002,
+   "fin": 37053,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser"
+   },
+   "texto": "Museo\ndel Grabado Español Contemporáneo de Marbella"
+  },
+  {
+   "tipo": "institution",
+   "ini": 37059,
+   "fin": 37085,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser"
+   },
+   "texto": "Museo Picasso de\nBarcelona"
+  },
+  {
+   "tipo": "institution",
+   "ini": 37108,
+   "fin": 37132,
+   "rasgos": {
+    "type": "townHall",
+    "role": "organiser, host"
+   },
+   "texto": "Ayuntamiento de Almoradí"
+  },
+  {
+   "tipo": "institution",
+   "ini": 37108,
+   "fin": 37120,
+   "texto": "Ayuntamiento"
+  },
+  {
+   "tipo": "person",
+   "ini": 37147,
+   "fin": 37160,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37147,
+   "fin": 37160,
+   "texto": "Javier Vilató"
+  },
+  {
+   "tipo": "title",
+   "ini": 37229,
+   "fin": 37260,
+   "texto": "“CIEN OBRAS PARA UN CENTENARIO”"
+  },
+  {
+   "tipo": "person",
+   "ini": 37480,
+   "fin": 37486,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37480,
+   "fin": 37486,
+   "texto": "Javier"
+  },
+  {
+   "tipo": "person",
+   "ini": 38985,
+   "fin": 38998,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38985,
+   "fin": 38998,
+   "texto": "Javier Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 39001,
+   "fin": 39024,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Francisco Sánchez Soria"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39001,
+   "fin": 39024,
+   "texto": "Francisco Sánchez Soria"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 39090,
+   "fin": 45678
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39100,
+   "fin": 39159
+  },
+  {
+   "tipo": "img",
+   "ini": 39100,
+   "fin": 39105,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 39107,
+   "fin": 39159,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Cuarto repleto\nVII-1973\n65 x 81 cm\nÓleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 39107,
+   "fin": 39121,
+   "texto": "Cuarto repleto"
+  },
+  {
+   "tipo": "date",
+   "ini": 39122,
+   "fin": 39130,
+   "rasgos": {
+    "from": "1973-07-01",
+    "to": "1973-07-31"
+   },
+   "texto": "VII-1973"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39131,
+   "fin": 39141,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 81 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 39131,
+   "fin": 39133,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 39136,
+   "fin": 39138,
+   "texto": "81"
+  },
+  {
+   "tipo": "technique",
+   "ini": 39142,
+   "fin": 39159,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39161,
+   "fin": 39236
+  },
+  {
+   "tipo": "img",
+   "ini": 39161,
+   "fin": 39167,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 39168,
+   "fin": 39236,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La Coronela (Vue de la saline)\nVIII-1973\n81 x 100 cm\nÓleo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 39168,
+   "fin": 39198,
+   "texto": "La Coronela (Vue de la saline)"
+  },
+  {
+   "tipo": "date",
+   "ini": 39199,
+   "fin": 39208,
+   "rasgos": {
+    "from": "1973-08-01",
+    "to": "1973-08-31"
+   },
+   "texto": "VIII-1973"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39209,
+   "fin": 39220,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 39209,
+   "fin": 39211,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 39214,
+   "fin": 39217,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 39221,
+   "fin": 39236,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39238,
+   "fin": 39290
+  },
+  {
+   "tipo": "img",
+   "ini": 39238,
+   "fin": 39243,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 39245,
+   "fin": 39290,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Chumbera\nVIII-1973\n81 x 60 cm\nÓleo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 39245,
+   "fin": 39253,
+   "texto": "Chumbera"
+  },
+  {
+   "tipo": "date",
+   "ini": 39254,
+   "fin": 39263,
+   "rasgos": {
+    "from": "1973-08-01",
+    "to": "1973-08-31"
+   },
+   "texto": "VIII-1973"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39264,
+   "fin": 39274,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 39264,
+   "fin": 39266,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 39269,
+   "fin": 39271,
+   "texto": "60"
+  },
+  {
+   "tipo": "technique",
+   "ini": 39275,
+   "fin": 39290,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "text",
+   "ini": 39293,
+   "fin": 39944
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39946,
+   "fin": 40018
+  },
+  {
+   "tipo": "img",
+   "ini": 39946,
+   "fin": 39951,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 39953,
+   "fin": 40018,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Des Pierres sur la terre\nVIII-1976\n81 x 100 cm\nPintura sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 39953,
+   "fin": 39977,
+   "texto": "Des Pierres sur la terre"
+  },
+  {
+   "tipo": "date",
+   "ini": 39978,
+   "fin": 39987,
+   "rasgos": {
+    "from": "1976-08-01",
+    "to": "1976-08-31"
+   },
+   "texto": "VIII-1976"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39988,
+   "fin": 39999,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 39988,
+   "fin": 39990,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 39993,
+   "fin": 39996,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 40000,
+   "fin": 40018,
+   "rasgos": {
+    "type": "paint"
+   },
+   "texto": "Pintura sobre tela"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40020,
+   "fin": 40101
+  },
+  {
+   "tipo": "img",
+   "ini": 40020,
+   "fin": 40025,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 40027,
+   "fin": 40101,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "77-34\nSoleil sur les collines\nVII-1977\n41,2 x 100,2 cm\nAcrílico sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 40027,
+   "fin": 40056,
+   "texto": "77-34\nSoleil sur les collines"
+  },
+  {
+   "tipo": "date",
+   "ini": 40057,
+   "fin": 40065,
+   "rasgos": {
+    "from": "1977-07-01",
+    "to": "1977-07-31"
+   },
+   "texto": "VII-1977"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40066,
+   "fin": 40081,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41,2 x 100,2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40066,
+   "fin": 40070,
+   "texto": "41,2"
+  },
+  {
+   "tipo": "width",
+   "ini": 40073,
+   "fin": 40078,
+   "texto": "100,2"
+  },
+  {
+   "tipo": "technique",
+   "ini": 40082,
+   "fin": 40101,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre tela"
+  },
+  {
+   "tipo": "text",
+   "ini": 40104,
+   "fin": 40300
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40302,
+   "fin": 40381
+  },
+  {
+   "tipo": "img",
+   "ini": 40302,
+   "fin": 40307,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 40309,
+   "fin": 40381,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Gitana, algibe, piedras\nVIII-1977\n81 x 100 cm\nAcrílico y óleo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 40309,
+   "fin": 40332,
+   "texto": "Gitana, algibe, piedras"
+  },
+  {
+   "tipo": "date",
+   "ini": 40333,
+   "fin": 40342,
+   "rasgos": {
+    "from": "1977-08-01",
+    "to": "1977-08-31"
+   },
+   "texto": "VIII-1977"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40343,
+   "fin": 40354,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40343,
+   "fin": 40345,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 40348,
+   "fin": 40351,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 40355,
+   "fin": 40381,
+   "rasgos": {
+    "type": "acrylic, oil"
+   },
+   "texto": "Acrílico y óleo sobre tela"
+  },
+  {
+   "tipo": "text",
+   "ini": 40384,
+   "fin": 41272
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 41275,
+   "fin": 41330
+  },
+  {
+   "tipo": "img",
+   "ini": 41275,
+   "fin": 41280,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 41282,
+   "fin": 41330,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Algibe, II\nX-1977\n81 x 100 cm\nPintura sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 41282,
+   "fin": 41292,
+   "texto": "Algibe, II"
+  },
+  {
+   "tipo": "date",
+   "ini": 41293,
+   "fin": 41299,
+   "rasgos": {
+    "from": "1977-10-01",
+    "to": "1977-10-31"
+   },
+   "texto": "X-1977"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 41300,
+   "fin": 41311,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 41300,
+   "fin": 41302,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 41305,
+   "fin": 41308,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 41312,
+   "fin": 41330,
+   "rasgos": {
+    "type": "paint"
+   },
+   "texto": "Pintura sobre tela"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 41332,
+   "fin": 41388
+  },
+  {
+   "tipo": "img",
+   "ini": 41332,
+   "fin": 41337,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 41339,
+   "fin": 41388,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La Vega baja\nÉté 1979\n100 x 81 cm\nÓleo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 41339,
+   "fin": 41351,
+   "texto": "La Vega baja"
+  },
+  {
+   "tipo": "date",
+   "ini": 41352,
+   "fin": 41360,
+   "rasgos": {
+    "from": "1979-06-21",
+    "to": "1979-09-22"
+   },
+   "texto": "Été 1979"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 41361,
+   "fin": 41372,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 81 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 41361,
+   "fin": 41364,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 41367,
+   "fin": 41369,
+   "texto": "81"
+  },
+  {
+   "tipo": "technique",
+   "ini": 41373,
+   "fin": 41388,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "text",
+   "ini": 41391,
+   "fin": 41607
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 41609,
+   "fin": 41673
+  },
+  {
+   "tipo": "img",
+   "ini": 41609,
+   "fin": 41614,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 41616,
+   "fin": 41673,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La Plage de la Mata\nVIII-1980\n81 x 100 cm\nÓleo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 41616,
+   "fin": 41635,
+   "texto": "La Plage de la Mata"
+  },
+  {
+   "tipo": "date",
+   "ini": 41636,
+   "fin": 41645,
+   "rasgos": {
+    "from": "1980-08-01",
+    "to": "1980-08-31"
+   },
+   "texto": "VIII-1980"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 41646,
+   "fin": 41657,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 41646,
+   "fin": 41648,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 41651,
+   "fin": 41654,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 41658,
+   "fin": 41673,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "text",
+   "ini": 41676,
+   "fin": 42013
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 42015,
+   "fin": 42090
+  },
+  {
+   "tipo": "img",
+   "ini": 42015,
+   "fin": 42020,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 42022,
+   "fin": 42090,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Arbre, petite fille et pierres\nVII-X-1980\n73 x 60 cm\nÓleo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 42022,
+   "fin": 42052,
+   "texto": "Arbre, petite fille et pierres"
+  },
+  {
+   "tipo": "date",
+   "ini": 42053,
+   "fin": 42063,
+   "rasgos": {
+    "from": "1980-07-01",
+    "to": "1980-10-31"
+   },
+   "texto": "VII-X-1980"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 42064,
+   "fin": 42074,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "73 x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 42064,
+   "fin": 42066,
+   "texto": "73"
+  },
+  {
+   "tipo": "width",
+   "ini": 42069,
+   "fin": 42071,
+   "texto": "60"
+  },
+  {
+   "tipo": "technique",
+   "ini": 42075,
+   "fin": 42090,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 42092,
+   "fin": 42154
+  },
+  {
+   "tipo": "img",
+   "ini": 42092,
+   "fin": 42097,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 42099,
+   "fin": 42154,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "L’Algibe de Mompean\nVII-1980\n73 x 60 cm\nÓleo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 42099,
+   "fin": 42118,
+   "texto": "L’Algibe de Mompean"
+  },
+  {
+   "tipo": "date",
+   "ini": 42119,
+   "fin": 42127,
+   "rasgos": {
+    "from": "1980-07-01",
+    "to": "1980-07-31"
+   },
+   "texto": "VII-1980"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 42128,
+   "fin": 42138,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "73 x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 42128,
+   "fin": 42130,
+   "texto": "73"
+  },
+  {
+   "tipo": "width",
+   "ini": 42133,
+   "fin": 42135,
+   "texto": "60"
+  },
+  {
+   "tipo": "technique",
+   "ini": 42139,
+   "fin": 42154,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "text",
+   "ini": 42157,
+   "fin": 43098
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43100,
+   "fin": 43173
+  },
+  {
+   "tipo": "img",
+   "ini": 43100,
+   "fin": 43105,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 43107,
+   "fin": 43173,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Du côté de Torremendo, nuage bleu\n1982\n81 x 100 cm\nÓleo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 43107,
+   "fin": 43140,
+   "texto": "Du côté de Torremendo, nuage bleu"
+  },
+  {
+   "tipo": "date",
+   "ini": 43141,
+   "fin": 43145,
+   "rasgos": {
+    "when": "1982"
+   },
+   "texto": "1982"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43146,
+   "fin": 43157,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 43146,
+   "fin": 43148,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 43151,
+   "fin": 43154,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43158,
+   "fin": 43173,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43175,
+   "fin": 43231
+  },
+  {
+   "tipo": "img",
+   "ini": 43175,
+   "fin": 43180,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 43182,
+   "fin": 43231,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Algibe V\nIX-1983\n27 x 35 cm\nÓleo sobre aglomerado"
+  },
+  {
+   "tipo": "title",
+   "ini": 43182,
+   "fin": 43190,
+   "texto": "Algibe V"
+  },
+  {
+   "tipo": "date",
+   "ini": 43191,
+   "fin": 43198,
+   "rasgos": {
+    "from": "1983-09-01",
+    "to": "1983-09-30"
+   },
+   "texto": "IX-1983"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43199,
+   "fin": 43209,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27 x 35 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 43199,
+   "fin": 43201,
+   "texto": "27"
+  },
+  {
+   "tipo": "width",
+   "ini": 43204,
+   "fin": 43206,
+   "texto": "35"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43210,
+   "fin": 43231,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre aglomerado"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43233,
+   "fin": 43291
+  },
+  {
+   "tipo": "img",
+   "ini": 43233,
+   "fin": 43238,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 43240,
+   "fin": 43291,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Algibe VII\nIX-1983\n33 x 41 cm\nÓleo sobre aglomerado"
+  },
+  {
+   "tipo": "title",
+   "ini": 43240,
+   "fin": 43250,
+   "texto": "Algibe VII"
+  },
+  {
+   "tipo": "date",
+   "ini": 43251,
+   "fin": 43258,
+   "rasgos": {
+    "from": "1983-09-01",
+    "to": "1983-09-30"
+   },
+   "texto": "IX-1983"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43259,
+   "fin": 43269,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "33 x 41 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 43259,
+   "fin": 43261,
+   "texto": "33"
+  },
+  {
+   "tipo": "width",
+   "ini": 43264,
+   "fin": 43266,
+   "texto": "41"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43270,
+   "fin": 43291,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre aglomerado"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43293,
+   "fin": 43353
+  },
+  {
+   "tipo": "img",
+   "ini": 43293,
+   "fin": 43298,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 43300,
+   "fin": 43353,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Algibe XII\n9-IX-1983\n27 x 35 cm\nÓleo sobre aglomerado"
+  },
+  {
+   "tipo": "title",
+   "ini": 43300,
+   "fin": 43310,
+   "texto": "Algibe XII"
+  },
+  {
+   "tipo": "date",
+   "ini": 43311,
+   "fin": 43320,
+   "rasgos": {
+    "when": "1983-09-09"
+   },
+   "texto": "9-IX-1983"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43321,
+   "fin": 43331,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27 x 35 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 43321,
+   "fin": 43323,
+   "texto": "27"
+  },
+  {
+   "tipo": "width",
+   "ini": 43326,
+   "fin": 43328,
+   "texto": "35"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43332,
+   "fin": 43353,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre aglomerado"
+  },
+  {
+   "tipo": "text",
+   "ini": 43356,
+   "fin": 43952
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43954,
+   "fin": 44043
+  },
+  {
+   "tipo": "img",
+   "ini": 43954,
+   "fin": 43959,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 43961,
+   "fin": 44043,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Nature morte à la gargoulette VIII\nVIII-1984\n73 x 92 cm\nTemple al huevo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 43961,
+   "fin": 43995,
+   "texto": "Nature morte à la gargoulette VIII"
+  },
+  {
+   "tipo": "date",
+   "ini": 43996,
+   "fin": 44005,
+   "rasgos": {
+    "from": "1984-08-01",
+    "to": "1984-08-31"
+   },
+   "texto": "VIII-1984"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44006,
+   "fin": 44016,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "73 x 92 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 44006,
+   "fin": 44008,
+   "texto": "73"
+  },
+  {
+   "tipo": "width",
+   "ini": 44011,
+   "fin": 44013,
+   "texto": "92"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44017,
+   "fin": 44043,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple al huevo sobre tela"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44045,
+   "fin": 44127
+  },
+  {
+   "tipo": "img",
+   "ini": 44045,
+   "fin": 44050,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 44052,
+   "fin": 44126,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Tomate et deux aubergines\n18-IX-1985\n38 x 46 cm\nTemple al huevo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 44052,
+   "fin": 44077,
+   "texto": "Tomate et deux aubergines"
+  },
+  {
+   "tipo": "date",
+   "ini": 44078,
+   "fin": 44088,
+   "rasgos": {
+    "when": "1985-09-18"
+   },
+   "texto": "18-IX-1985"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44089,
+   "fin": 44099,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "38 x 46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 44089,
+   "fin": 44091,
+   "texto": "38"
+  },
+  {
+   "tipo": "width",
+   "ini": 44094,
+   "fin": 44096,
+   "texto": "46"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44100,
+   "fin": 44126,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple al huevo sobre tela"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44128,
+   "fin": 44222
+  },
+  {
+   "tipo": "img",
+   "ini": 44128,
+   "fin": 44133,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 44135,
+   "fin": 44222,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Nature morte aux raisins et à la pèche\n26-IX-1986\n33 x 41 cm\nTemple al huevo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 44135,
+   "fin": 44173,
+   "texto": "Nature morte aux raisins et à la pèche"
+  },
+  {
+   "tipo": "date",
+   "ini": 44174,
+   "fin": 44184,
+   "rasgos": {
+    "when": "1986-09-26"
+   },
+   "texto": "26-IX-1986"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44185,
+   "fin": 44195,
+   "rasgos": {
+    "unit": "unit"
+   },
+   "texto": "33 x 41 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 44185,
+   "fin": 44187,
+   "texto": "33"
+  },
+  {
+   "tipo": "width",
+   "ini": 44190,
+   "fin": 44192,
+   "texto": "41"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44196,
+   "fin": 44222,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple al huevo sobre tela"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44224,
+   "fin": 44318
+  },
+  {
+   "tipo": "img",
+   "ini": 44224,
+   "fin": 44229,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 44231,
+   "fin": 44318,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La Salle à manger à Mompean, III\n27-28-VIII-1986\n92 x 73 cm\nPintura al huevo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 44231,
+   "fin": 44263,
+   "texto": "La Salle à manger à Mompean, III"
+  },
+  {
+   "tipo": "date",
+   "ini": 44264,
+   "fin": 44279,
+   "rasgos": {
+    "from": "1986-08-27",
+    "to": "1986-08-28"
+   },
+   "texto": "27-28-VIII-1986"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44280,
+   "fin": 44290,
+   "rasgos": {
+    "unit": "unit"
+   },
+   "texto": "92 x 73 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 44280,
+   "fin": 44282,
+   "texto": "92"
+  },
+  {
+   "tipo": "width",
+   "ini": 44285,
+   "fin": 44287,
+   "texto": "73"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44291,
+   "fin": 44318,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Pintura al huevo sobre tela"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44320,
+   "fin": 44383
+  },
+  {
+   "tipo": "img",
+   "ini": 44320,
+   "fin": 44325,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 44327,
+   "fin": 44383,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Crâne avec huppe, VIII\nX-1988\n73 x 54 cm\nÓleo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 44327,
+   "fin": 44349,
+   "texto": "Crâne avec huppe, VIII"
+  },
+  {
+   "tipo": "date",
+   "ini": 44350,
+   "fin": 44356,
+   "rasgos": {
+    "from": "1988-10-01",
+    "to": "1988-10-31"
+   },
+   "texto": "X-1988"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44357,
+   "fin": 44367,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "73 x 54 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 44357,
+   "fin": 44359,
+   "texto": "73"
+  },
+  {
+   "tipo": "width",
+   "ini": 44362,
+   "fin": 44364,
+   "texto": "54"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44368,
+   "fin": 44383,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44385,
+   "fin": 44442
+  },
+  {
+   "tipo": "img",
+   "ini": 44385,
+   "fin": 44390,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 44392,
+   "fin": 44442,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Guitariste, XV\nV-1989\n130 x 162 cm\nÓleo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 44392,
+   "fin": 44406,
+   "texto": "Guitariste, XV"
+  },
+  {
+   "tipo": "date",
+   "ini": 44407,
+   "fin": 44413,
+   "rasgos": {
+    "from": "1989-05-01",
+    "to": "1989-05-31"
+   },
+   "texto": "V-1989"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44414,
+   "fin": 44426,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 162 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 44414,
+   "fin": 44417,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 44420,
+   "fin": 44423,
+   "texto": "162"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44427,
+   "fin": 44442,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "text",
+   "ini": 44445,
+   "fin": 44720
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44722,
+   "fin": 44774
+  },
+  {
+   "tipo": "img",
+   "ini": 44722,
+   "fin": 44727,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 44729,
+   "fin": 44774,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Torrevieja\nVIII-1990\n60 x 73 cm\nTécnica mixta"
+  },
+  {
+   "tipo": "title",
+   "ini": 44729,
+   "fin": 44739,
+   "texto": "Torrevieja"
+  },
+  {
+   "tipo": "date",
+   "ini": 44740,
+   "fin": 44749,
+   "rasgos": {
+    "from": "1990-08-01",
+    "to": "1990-08-31"
+   },
+   "texto": "VIII-1990"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44750,
+   "fin": 44760,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 73 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 44750,
+   "fin": 44752,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 44755,
+   "fin": 44757,
+   "texto": "73"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44761,
+   "fin": 44774,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44776,
+   "fin": 44845
+  },
+  {
+   "tipo": "img",
+   "ini": 44776,
+   "fin": 44781,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 44783,
+   "fin": 44845,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Maisons de Torrevieja\nVIII-1990\n54 x 65 cm\nAcrílico sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 44783,
+   "fin": 44804,
+   "texto": "Maisons de Torrevieja"
+  },
+  {
+   "tipo": "date",
+   "ini": 44805,
+   "fin": 44814,
+   "rasgos": {
+    "from": "1990-08-01",
+    "to": "1990-08-31"
+   },
+   "texto": "VIII-1990"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44815,
+   "fin": 44825,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "54 x 65 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 44815,
+   "fin": 44817,
+   "texto": "54"
+  },
+  {
+   "tipo": "width",
+   "ini": 44820,
+   "fin": 44822,
+   "texto": "65"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44826,
+   "fin": 44845,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre tela"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44847,
+   "fin": 44911
+  },
+  {
+   "tipo": "img",
+   "ini": 44847,
+   "fin": 44852,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 44854,
+   "fin": 44911,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Maison au bord de mer\nVII-1994\n46 x 38 cm\nÓleo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 44854,
+   "fin": 44875,
+   "texto": "Maison au bord de mer"
+  },
+  {
+   "tipo": "date",
+   "ini": 44876,
+   "fin": 44884,
+   "rasgos": {
+    "from": "1994-07-01",
+    "to": "1994-07-31"
+   },
+   "texto": "VII-1994"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44885,
+   "fin": 44895,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 38 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 44885,
+   "fin": 44887,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 44890,
+   "fin": 44892,
+   "texto": "38"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44896,
+   "fin": 44911,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "text",
+   "ini": 44914,
+   "fin": 45605
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 45607,
+   "fin": 45678
+  },
+  {
+   "tipo": "img",
+   "ini": 45607,
+   "fin": 45612,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 45614,
+   "fin": 45678,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Paysage au soleil\nVII-VIII-1999\n130 x 162 cm\nAcrílico sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 45614,
+   "fin": 45631,
+   "texto": "Paysage au soleil"
+  },
+  {
+   "tipo": "date",
+   "ini": 45632,
+   "fin": 45645,
+   "rasgos": {
+    "from": "1999-07-01",
+    "to": "1999-08-31"
+   },
+   "texto": "VII-VIII-1999"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45646,
+   "fin": 45658,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 162 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 45646,
+   "fin": 45649,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 45652,
+   "fin": 45655,
+   "texto": "162"
+  },
+  {
+   "tipo": "technique",
+   "ini": 45659,
+   "fin": 45678,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre tela"
+  },
+  {
+   "tipo": "person",
+   "ini": 45681,
+   "fin": 45687,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 45681,
+   "fin": 45687,
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 45760,
+   "fin": 45822,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "1921. Javier Vilató Ruiz nace en Barcelona el 11 de noviembre."
+  },
+  {
+   "tipo": "date",
+   "ini": 45760,
+   "fin": 45764,
+   "rasgos": {
+    "when": "1921"
+   },
+   "texto": "1921"
+  },
+  {
+   "tipo": "persName",
+   "ini": 45766,
+   "fin": 45784,
+   "texto": "Javier Vilató Ruiz"
+  },
+  {
+   "tipo": "date",
+   "ini": 45806,
+   "fin": 45821,
+   "rasgos": {
+    "when": "1921-11-11"
+   },
+   "texto": "11 de noviembre"
+  },
+  {
+   "tipo": "person",
+   "ini": 48045,
+   "fin": 48051,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "person",
+   "ini": 48090,
+   "fin": 48096,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vilató"
+  },
+  {
+   "tipo": "checklist",
+   "ini": 48546,
+   "fin": 50140
+  },
+  {
+   "tipo": "work",
+   "ini": 48562,
+   "fin": 48614,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Cuarto repleto\nVII-1973\n65 x 81 cm\nÓleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 48562,
+   "fin": 48576,
+   "texto": "Cuarto repleto"
+  },
+  {
+   "tipo": "date",
+   "ini": 48577,
+   "fin": 48585,
+   "rasgos": {
+    "from": "1973-07-01",
+    "to": "1973-07-31"
+   },
+   "texto": "VII-1973"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 48586,
+   "fin": 48596,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 81 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 48586,
+   "fin": 48588,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 48591,
+   "fin": 48593,
+   "texto": "81"
+  },
+  {
+   "tipo": "technique",
+   "ini": 48597,
+   "fin": 48614,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "work",
+   "ini": 48616,
+   "fin": 48684,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La Coronela (Vue de la saline)\nVIII-1973\n81 x 100 cm\nÓleo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 48616,
+   "fin": 48646,
+   "texto": "La Coronela (Vue de la saline)"
+  },
+  {
+   "tipo": "date",
+   "ini": 48647,
+   "fin": 48656,
+   "rasgos": {
+    "from": "1973-08-01",
+    "to": "1973-08-31"
+   },
+   "texto": "VIII-1973"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 48657,
+   "fin": 48668,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 48657,
+   "fin": 48659,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 48662,
+   "fin": 48665,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 48669,
+   "fin": 48684,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "work",
+   "ini": 48686,
+   "fin": 48731,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Chumbera\nVIII-1973\n81 x 60 cm\nÓleo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 48686,
+   "fin": 48694,
+   "texto": "Chumbera"
+  },
+  {
+   "tipo": "date",
+   "ini": 48695,
+   "fin": 48704,
+   "rasgos": {
+    "from": "1973-08-01",
+    "to": "1973-08-31"
+   },
+   "texto": "VIII-1973"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 48705,
+   "fin": 48715,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 48705,
+   "fin": 48707,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 48710,
+   "fin": 48712,
+   "texto": "60"
+  },
+  {
+   "tipo": "technique",
+   "ini": 48716,
+   "fin": 48731,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "work",
+   "ini": 48733,
+   "fin": 48798,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Des Pierres sur la terre\nVIII-1976\n81 x 100 cm\nPintura sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 48733,
+   "fin": 48757,
+   "texto": "Des Pierres sur la terre"
+  },
+  {
+   "tipo": "date",
+   "ini": 48758,
+   "fin": 48767,
+   "rasgos": {
+    "from": "1976-08-01",
+    "to": "1976-08-31"
+   },
+   "texto": "VIII-1976"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 48768,
+   "fin": 48779,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 48768,
+   "fin": 48770,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 48773,
+   "fin": 48776,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 48780,
+   "fin": 48798,
+   "rasgos": {
+    "type": "paint"
+   },
+   "texto": "Pintura sobre tela"
+  },
+  {
+   "tipo": "work",
+   "ini": 48800,
+   "fin": 48868,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Soleil sur les collines\nVII-1977\n41,2 x 100,2 cm\nAcrílico sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 48800,
+   "fin": 48823,
+   "texto": "Soleil sur les collines"
+  },
+  {
+   "tipo": "date",
+   "ini": 48824,
+   "fin": 48832,
+   "rasgos": {
+    "from": "1977-07-01",
+    "to": "1977-07-31"
+   },
+   "texto": "VII-1977"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 48833,
+   "fin": 48848,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41,2 x 100,2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 48833,
+   "fin": 48837,
+   "texto": "41,2"
+  },
+  {
+   "tipo": "width",
+   "ini": 48840,
+   "fin": 48845,
+   "texto": "100,2"
+  },
+  {
+   "tipo": "technique",
+   "ini": 48849,
+   "fin": 48868,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre tela"
+  },
+  {
+   "tipo": "work",
+   "ini": 48870,
+   "fin": 48942,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Gitana, algibe, piedras\nVIII-1977\n81 x 100 cm\nAcrílico y óleo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 48870,
+   "fin": 48893,
+   "texto": "Gitana, algibe, piedras"
+  },
+  {
+   "tipo": "date",
+   "ini": 48894,
+   "fin": 48903,
+   "rasgos": {
+    "from": "1977-08-01",
+    "to": "1977-08-31"
+   },
+   "texto": "VIII-1977"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 48904,
+   "fin": 48915,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 48904,
+   "fin": 48906,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 48909,
+   "fin": 48912,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 48916,
+   "fin": 48942,
+   "rasgos": {
+    "type": "acrylic, oil"
+   },
+   "texto": "Acrílico y óleo sobre tela"
+  },
+  {
+   "tipo": "work",
+   "ini": 48944,
+   "fin": 48992,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Algibe, II\nX-1977\n81 x 100 cm\nPintura sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 48944,
+   "fin": 48954,
+   "texto": "Algibe, II"
+  },
+  {
+   "tipo": "date",
+   "ini": 48955,
+   "fin": 48961,
+   "rasgos": {
+    "from": "1977-10-01",
+    "to": "1977-10-31"
+   },
+   "texto": "X-1977"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 48962,
+   "fin": 48973,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 48962,
+   "fin": 48964,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 48967,
+   "fin": 48970,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 48974,
+   "fin": 48992,
+   "rasgos": {
+    "type": "paint"
+   },
+   "texto": "Pintura sobre tela"
+  },
+  {
+   "tipo": "work",
+   "ini": 48994,
+   "fin": 49043,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La Vega baja\nÉté 1979\n100 x 81 cm\nÓleo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 48994,
+   "fin": 49006,
+   "texto": "La Vega baja"
+  },
+  {
+   "tipo": "date",
+   "ini": 49007,
+   "fin": 49015,
+   "rasgos": {
+    "from": "1979-06-21",
+    "to": "1979-09-22"
+   },
+   "texto": "Été 1979"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49016,
+   "fin": 49027,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 81 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 49016,
+   "fin": 49019,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 49022,
+   "fin": 49024,
+   "texto": "81"
+  },
+  {
+   "tipo": "technique",
+   "ini": 49028,
+   "fin": 49043,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "work",
+   "ini": 49045,
+   "fin": 49102,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La Plage de la Mata\nVIII-1980\n81 x 100 cm\nÓleo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 49045,
+   "fin": 49064,
+   "texto": "La Plage de la Mata"
+  },
+  {
+   "tipo": "date",
+   "ini": 49065,
+   "fin": 49074,
+   "rasgos": {
+    "from": "1980-08-01",
+    "to": "1980-08-31"
+   },
+   "texto": "VIII-1980"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49075,
+   "fin": 49086,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 49075,
+   "fin": 49077,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 49080,
+   "fin": 49083,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 49087,
+   "fin": 49102,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "work",
+   "ini": 49104,
+   "fin": 49172,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Arbre, petite fille et pierres\nVII-X-1980\n73 x 60 cm\nÓleo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 49104,
+   "fin": 49134,
+   "texto": "Arbre, petite fille et pierres"
+  },
+  {
+   "tipo": "date",
+   "ini": 49135,
+   "fin": 49145,
+   "rasgos": {
+    "from": "1980-07-01",
+    "to": "1980-10-31"
+   },
+   "texto": "VII-X-1980"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49146,
+   "fin": 49156,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "73 x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 49146,
+   "fin": 49148,
+   "texto": "73"
+  },
+  {
+   "tipo": "width",
+   "ini": 49151,
+   "fin": 49153,
+   "texto": "60"
+  },
+  {
+   "tipo": "technique",
+   "ini": 49157,
+   "fin": 49172,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "work",
+   "ini": 49174,
+   "fin": 49230,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "L’Algibe de Mompean\nVII-1980\n73 x 60 cm\nÓleo sobre tela\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 49174,
+   "fin": 49193,
+   "texto": "L’Algibe de Mompean"
+  },
+  {
+   "tipo": "date",
+   "ini": 49194,
+   "fin": 49202,
+   "rasgos": {
+    "from": "1980-07-01",
+    "to": "1980-07-31"
+   },
+   "texto": "VII-1980"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49203,
+   "fin": 49213,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "73 x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 49203,
+   "fin": 49205,
+   "texto": "73"
+  },
+  {
+   "tipo": "width",
+   "ini": 49208,
+   "fin": 49210,
+   "texto": "60"
+  },
+  {
+   "tipo": "technique",
+   "ini": 49214,
+   "fin": 49229,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "work",
+   "ini": 49231,
+   "fin": 49297,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Du côté de Torremendo, nuage bleu\n1982\n81 x 100 cm\nÓleo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 49231,
+   "fin": 49264,
+   "texto": "Du côté de Torremendo, nuage bleu"
+  },
+  {
+   "tipo": "date",
+   "ini": 49265,
+   "fin": 49269,
+   "rasgos": {
+    "when": "1982"
+   },
+   "texto": "1982"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49270,
+   "fin": 49281,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 49270,
+   "fin": 49272,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 49275,
+   "fin": 49278,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 49282,
+   "fin": 49297,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "work",
+   "ini": 49299,
+   "fin": 49348,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Algibe V\nIX-1983\n27 x 35 cm\nÓleo sobre aglomerado"
+  },
+  {
+   "tipo": "title",
+   "ini": 49299,
+   "fin": 49307,
+   "texto": "Algibe V"
+  },
+  {
+   "tipo": "date",
+   "ini": 49308,
+   "fin": 49315,
+   "rasgos": {
+    "from": "1983-09-01",
+    "to": "1983-09-30"
+   },
+   "texto": "IX-1983"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49316,
+   "fin": 49326,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27 x 35 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 49316,
+   "fin": 49318,
+   "texto": "27"
+  },
+  {
+   "tipo": "width",
+   "ini": 49321,
+   "fin": 49323,
+   "texto": "35"
+  },
+  {
+   "tipo": "technique",
+   "ini": 49327,
+   "fin": 49348,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre aglomerado"
+  },
+  {
+   "tipo": "work",
+   "ini": 49350,
+   "fin": 49401,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Algibe VII\nIX-1983\n33 x 41 cm\nÓleo sobre aglomerado"
+  },
+  {
+   "tipo": "title",
+   "ini": 49350,
+   "fin": 49359,
+   "texto": "Algibe VI"
+  },
+  {
+   "tipo": "date",
+   "ini": 49361,
+   "fin": 49368,
+   "rasgos": {
+    "from": "1983-09-01",
+    "to": "1983-09-30"
+   },
+   "texto": "IX-1983"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49369,
+   "fin": 49379,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "33 x 41 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 49369,
+   "fin": 49371,
+   "texto": "33"
+  },
+  {
+   "tipo": "width",
+   "ini": 49374,
+   "fin": 49376,
+   "texto": "41"
+  },
+  {
+   "tipo": "technique",
+   "ini": 49380,
+   "fin": 49401,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre aglomerado"
+  },
+  {
+   "tipo": "work",
+   "ini": 49403,
+   "fin": 49456,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Algibe XII\n9-IX-1983\n27 x 35 cm\nÓleo sobre aglomerado"
+  },
+  {
+   "tipo": "title",
+   "ini": 49403,
+   "fin": 49413,
+   "texto": "Algibe XII"
+  },
+  {
+   "tipo": "date",
+   "ini": 49414,
+   "fin": 49423,
+   "rasgos": {
+    "when": "1983-09-09"
+   },
+   "texto": "9-IX-1983"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49424,
+   "fin": 49434,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27 x 35 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 49424,
+   "fin": 49426,
+   "texto": "27"
+  },
+  {
+   "tipo": "width",
+   "ini": 49429,
+   "fin": 49431,
+   "texto": "35"
+  },
+  {
+   "tipo": "technique",
+   "ini": 49435,
+   "fin": 49456,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre aglomerado"
+  },
+  {
+   "tipo": "work",
+   "ini": 49458,
+   "fin": 49540,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Nature morte à la gargoulette VIII\nVIII-1984\n73 x 92 cm\nTemple al huevo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 49458,
+   "fin": 49492,
+   "texto": "Nature morte à la gargoulette VIII"
+  },
+  {
+   "tipo": "date",
+   "ini": 49493,
+   "fin": 49502,
+   "rasgos": {
+    "from": "1984-08-01",
+    "to": "1984-08-31"
+   },
+   "texto": "VIII-1984"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49503,
+   "fin": 49513,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "73 x 92 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 49503,
+   "fin": 49505,
+   "texto": "73"
+  },
+  {
+   "tipo": "width",
+   "ini": 49508,
+   "fin": 49510,
+   "texto": "92"
+  },
+  {
+   "tipo": "technique",
+   "ini": 49514,
+   "fin": 49540,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple al huevo sobre tela"
+  },
+  {
+   "tipo": "work",
+   "ini": 49542,
+   "fin": 49616,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Tomate et deux aubergines\n18-IX-1985\n38 x 46 cm\nTemple al huevo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 49542,
+   "fin": 49567,
+   "texto": "Tomate et deux aubergines"
+  },
+  {
+   "tipo": "date",
+   "ini": 49568,
+   "fin": 49578,
+   "rasgos": {
+    "when": "1985-09-18"
+   },
+   "texto": "18-IX-1985"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49579,
+   "fin": 49589,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "38 x 46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 49579,
+   "fin": 49581,
+   "texto": "38"
+  },
+  {
+   "tipo": "width",
+   "ini": 49584,
+   "fin": 49586,
+   "texto": "46"
+  },
+  {
+   "tipo": "technique",
+   "ini": 49590,
+   "fin": 49616,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple al huevo sobre tela"
+  },
+  {
+   "tipo": "work",
+   "ini": 49618,
+   "fin": 49705,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Nature morte aux raisins et à la pèche\n26-IX-1986\n33 x 41 cm\nTemple al huevo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 49618,
+   "fin": 49656,
+   "texto": "Nature morte aux raisins et à la pèche"
+  },
+  {
+   "tipo": "date",
+   "ini": 49657,
+   "fin": 49667,
+   "rasgos": {
+    "when": "1986-09-26"
+   },
+   "texto": "26-IX-1986"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49668,
+   "fin": 49678,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "33 x 41 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 49668,
+   "fin": 49670,
+   "texto": "33"
+  },
+  {
+   "tipo": "width",
+   "ini": 49673,
+   "fin": 49675,
+   "texto": "41"
+  },
+  {
+   "tipo": "technique",
+   "ini": 49679,
+   "fin": 49705,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple al huevo sobre tela"
+  },
+  {
+   "tipo": "work",
+   "ini": 49707,
+   "fin": 49794,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La Salle à manger à Mompean, III\n27-28-VIII-1986\n92 x 73 cm\nPintura al huevo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 49707,
+   "fin": 49739,
+   "texto": "La Salle à manger à Mompean, III"
+  },
+  {
+   "tipo": "date",
+   "ini": 49740,
+   "fin": 49755,
+   "rasgos": {
+    "from": "1986-08-27",
+    "to": "1986-08-28"
+   },
+   "texto": "27-28-VIII-1986"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49756,
+   "fin": 49766,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "92 x 73 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 49756,
+   "fin": 49758,
+   "texto": "92"
+  },
+  {
+   "tipo": "width",
+   "ini": 49761,
+   "fin": 49763,
+   "texto": "73"
+  },
+  {
+   "tipo": "technique",
+   "ini": 49767,
+   "fin": 49794,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Pintura al huevo sobre tela"
+  },
+  {
+   "tipo": "work",
+   "ini": 49796,
+   "fin": 49852,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Crâne avec huppe, VIII\nX-1988\n73 x 54 cm\nÓleo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 49796,
+   "fin": 49817,
+   "texto": "Crâne avec huppe, VII"
+  },
+  {
+   "tipo": "date",
+   "ini": 49818,
+   "fin": 49825,
+   "rasgos": {
+    "from": "1998-10-01",
+    "to": "1998-10-31"
+   },
+   "texto": "\nX-1988"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49826,
+   "fin": 49836,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "73 x 54 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 49826,
+   "fin": 49828,
+   "texto": "73"
+  },
+  {
+   "tipo": "width",
+   "ini": 49831,
+   "fin": 49833,
+   "texto": "54"
+  },
+  {
+   "tipo": "technique",
+   "ini": 49837,
+   "fin": 49852,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "work",
+   "ini": 49854,
+   "fin": 49904,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Guitariste, XV\nV-1989\n130 x 162 cm\nÓleo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 49854,
+   "fin": 49868,
+   "texto": "Guitariste, XV"
+  },
+  {
+   "tipo": "date",
+   "ini": 49868,
+   "fin": 49875,
+   "rasgos": {
+    "from": "1989-05-01",
+    "to": "1989-05-31"
+   },
+   "texto": "\nV-1989"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49876,
+   "fin": 49888,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 162 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 49876,
+   "fin": 49879,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 49882,
+   "fin": 49885,
+   "texto": "162"
+  },
+  {
+   "tipo": "technique",
+   "ini": 49889,
+   "fin": 49904,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "work",
+   "ini": 49906,
+   "fin": 49951,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Torrevieja\nVIII-1990\n60 x 73 cm\nTécnica mixta"
+  },
+  {
+   "tipo": "title",
+   "ini": 49906,
+   "fin": 49916,
+   "texto": "Torrevieja"
+  },
+  {
+   "tipo": "date",
+   "ini": 49917,
+   "fin": 49926,
+   "rasgos": {
+    "from": "1990-08-01",
+    "to": "1990-08-31"
+   },
+   "texto": "VIII-1990"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49927,
+   "fin": 49937,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 73 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 49927,
+   "fin": 49929,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 49932,
+   "fin": 49934,
+   "texto": "73"
+  },
+  {
+   "tipo": "technique",
+   "ini": 49938,
+   "fin": 49951,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "work",
+   "ini": 49953,
+   "fin": 50015,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Maisons de Torrevieja\nVIII-1990\n54 x 65 cm\nAcrílico sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 49953,
+   "fin": 49974,
+   "texto": "Maisons de Torrevieja"
+  },
+  {
+   "tipo": "date",
+   "ini": 49975,
+   "fin": 49984,
+   "rasgos": {
+    "from": "1990-08-01",
+    "to": "1990-08-31"
+   },
+   "texto": "VIII-1990"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 49985,
+   "fin": 49995,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "54 x 65 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 49985,
+   "fin": 49987,
+   "texto": "54"
+  },
+  {
+   "tipo": "width",
+   "ini": 49990,
+   "fin": 49992,
+   "texto": "65"
+  },
+  {
+   "tipo": "technique",
+   "ini": 49996,
+   "fin": 50015,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre tela"
+  },
+  {
+   "tipo": "work",
+   "ini": 50017,
+   "fin": 50074,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Maison au bord de mer\nVII-1994\n46 x 38 cm\nÓleo sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 50017,
+   "fin": 50038,
+   "texto": "Maison au bord de mer"
+  },
+  {
+   "tipo": "date",
+   "ini": 50039,
+   "fin": 50047,
+   "rasgos": {
+    "from": "1994-07-01",
+    "to": "1994-07-31"
+   },
+   "texto": "VII-1994"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 50048,
+   "fin": 50058,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 38 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 50048,
+   "fin": 50050,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 50053,
+   "fin": 50055,
+   "texto": "38"
+  },
+  {
+   "tipo": "technique",
+   "ini": 50059,
+   "fin": 50074,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela"
+  },
+  {
+   "tipo": "work",
+   "ini": 50076,
+   "fin": 50140,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Paysage au soleil\nVII-VIII-1999\n130 x 162 cm\nAcrílico sobre tela"
+  },
+  {
+   "tipo": "title",
+   "ini": 50076,
+   "fin": 50093,
+   "texto": "Paysage au soleil"
+  },
+  {
+   "tipo": "date",
+   "ini": 50094,
+   "fin": 50107,
+   "rasgos": {
+    "from": "1999-07-01",
+    "to": "1999-08-31"
+   },
+   "texto": "VII-VIII-1999"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 50108,
+   "fin": 50120,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 162 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 50108,
+   "fin": 50111,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 50114,
+   "fin": 50117,
+   "texto": "162"
+  },
+  {
+   "tipo": "technique",
+   "ini": 50121,
+   "fin": 50140,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre tela"
+  },
+  {
+   "tipo": "institution",
+   "ini": 55249,
+   "fin": 55273,
+   "rasgos": {
+    "type": "townHall",
+    "role": "organiser"
+   },
+   "texto": "Ayuntamiento de Almoradí"
+  },
+  {
+   "tipo": "date",
+   "ini": 55626,
+   "fin": 55649,
+   "rasgos": {
+    "when": "2021-11-11"
+   },
+   "texto": "11 de noviembre de 2021"
+  },
+  {
+   "tipo": "person",
+   "ini": 55694,
+   "fin": 55707,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Vilató"
+  },
+  {
+   "tipo": "persName",
+   "ini": 55694,
+   "fin": 55707,
+   "texto": "Javier Vilató"
+  }
+ ]
+}

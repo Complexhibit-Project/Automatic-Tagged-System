@@ -1,0 +1,2142 @@
+{
+ "id": "cat_086_giovanni_volpato",
+ "nombre_original": "Giovanni-Volpato",
+ "longitud_texto": 9507,
+ "sha256_texto": "f8b53735c75a2db50f9b97d1a2366fdc03d608578a506c3ec79990bf4a578499",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 26,
+   "fin": 379,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 26,
+   "fin": 128,
+   "texto": "“ GRABADOS DE LAS LOGIAS DE RAFAEL EN EL VATICANO. 1774.\nEXPOSICIÓN CALCOGRÁFICA. HOMENAJE A MURILLO,”"
+  },
+  {
+   "tipo": "person",
+   "ini": 54,
+   "fin": 60,
+   "texto": "RAFAEL"
+  },
+  {
+   "tipo": "persName",
+   "ini": 54,
+   "fin": 60,
+   "texto": "RAFAEL"
+  },
+  {
+   "tipo": "date",
+   "ini": 77,
+   "fin": 81,
+   "rasgos": {
+    "when": "1774"
+   },
+   "texto": "1774"
+  },
+  {
+   "tipo": "person",
+   "ini": 119,
+   "fin": 126,
+   "texto": "MURILLO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 119,
+   "fin": 126,
+   "texto": "MURILLO"
+  },
+  {
+   "tipo": "venue",
+   "ini": 130,
+   "fin": 163,
+   "texto": "SALA VILLEGAS. CASA DE LOS PINELO"
+  },
+  {
+   "tipo": "institution",
+   "ini": 164,
+   "fin": 220,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "REAL ACADEMIA DE BELLAS ARTES DE SANTA ISABEL DE HUNGRÍA"
+  },
+  {
+   "tipo": "address",
+   "ini": 221,
+   "fin": 262,
+   "texto": "C/Abades, 14- Telf. 954 22 11 98. Sevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 255,
+   "fin": 262,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "date",
+   "ini": 277,
+   "fin": 299,
+   "rasgos": {
+    "when": "2018-12-03"
+   },
+   "texto": "3 de diciembre de 2018"
+  },
+  {
+   "tipo": "date",
+   "ini": 331,
+   "fin": 350,
+   "rasgos": {
+    "from": "2018-12-03",
+    "to": "2018-12-17"
+   },
+   "texto": "3 a 17 de diciembre"
+  },
+  {
+   "tipo": "institution",
+   "ini": 425,
+   "fin": 481,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia de Bellas Artes de Santa Isabel\nde Hungría"
+  },
+  {
+   "tipo": "institution",
+   "ini": 863,
+   "fin": 919,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia de Bellas Artes de Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 965,
+   "fin": 1319,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 1083,
+   "fin": 1123,
+   "rasgos": {
+    "type": "townHall"
+   },
+   "texto": " I.C.A.S. Excmo. Ayuntamiento de Sevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1116,
+   "fin": 1123,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "venue",
+   "ini": 1125,
+   "fin": 1197,
+   "texto": "Sala de Exposiciones temporales “José Villegas” de la Casa de los Pinelo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1212,
+   "fin": 1225,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia"
+  },
+  {
+   "tipo": "date",
+   "ini": 1252,
+   "fin": 1277,
+   "rasgos": {
+    "from": "2018-12-03",
+    "to": "2018-12-17"
+   },
+   "texto": "3 / lunes 17 de diciembre"
+  },
+  {
+   "tipo": "person",
+   "ini": 1433,
+   "fin": 1458,
+   "texto": "Fernando Fernández Gómez\n"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1433,
+   "fin": 1457,
+   "texto": "Fernando Fernández Gómez"
+  },
+  {
+   "tipo": "title",
+   "ini": 1587,
+   "fin": 1663,
+   "texto": "LOS GRABADOS DE GIOVANNI VOLPATO INSPIRADOS A LAS\nLOGIAS VATICANAS DE RAFAEL"
+  },
+  {
+   "tipo": "person",
+   "ini": 1674,
+   "fin": 1739,
+   "texto": "Giovanni Battista Volpato (Bassano del Grappa, 1735 – Roma, 1803)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1674,
+   "fin": 1699,
+   "texto": "Giovanni Battista Volpato"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1701,
+   "fin": 1719,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Bassano del Grappa"
+  },
+  {
+   "tipo": "date",
+   "ini": 1721,
+   "fin": 1725,
+   "rasgos": {
+    "when": "1735"
+   },
+   "texto": "1735"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1728,
+   "fin": 1732,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Roma"
+  },
+  {
+   "tipo": "date",
+   "ini": 1734,
+   "fin": 1738,
+   "rasgos": {
+    "when": "1803"
+   },
+   "texto": "1803"
+  },
+  {
+   "tipo": "person",
+   "ini": 1964,
+   "fin": 1990,
+   "texto": "Giovanni Antonio Remondini"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1964,
+   "fin": 1990,
+   "texto": "Giovanni Antonio Remondini"
+  },
+  {
+   "tipo": "person",
+   "ini": 2064,
+   "fin": 2077,
+   "texto": "Joseph Wagner"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2064,
+   "fin": 2077,
+   "texto": "Joseph Wagner"
+  },
+  {
+   "tipo": "person",
+   "ini": 2080,
+   "fin": 2100,
+   "texto": "Francesco\nBartolozzi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2080,
+   "fin": 2100,
+   "texto": "Francesco\nBartolozzi"
+  },
+  {
+   "tipo": "person",
+   "ini": 2142,
+   "fin": 2178,
+   "texto": "duque Ferdinando de Parma (ca. 1769)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2148,
+   "fin": 2167,
+   "texto": "Ferdinando de Parma"
+  },
+  {
+   "tipo": "person",
+   "ini": 2220,
+   "fin": 2235,
+   "texto": "Giorlamo Zulian"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2220,
+   "fin": 2235,
+   "texto": "Giorlamo Zulian"
+  },
+  {
+   "tipo": "person",
+   "ini": 2374,
+   "fin": 2390,
+   "texto": "Raffaelo Morghen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2374,
+   "fin": 2390,
+   "texto": "Raffaelo Morghen"
+  },
+  {
+   "tipo": "person",
+   "ini": 2510,
+   "fin": 2533,
+   "texto": "Rafael\nSanzio de Urbino"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2510,
+   "fin": 2533,
+   "texto": "Rafael\nSanzio de Urbino"
+  },
+  {
+   "tipo": "person",
+   "ini": 2609,
+   "fin": 2625,
+   "texto": "Francesco Panini"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2609,
+   "fin": 2625,
+   "texto": "Francesco Panini"
+  },
+  {
+   "tipo": "person",
+   "ini": 2692,
+   "fin": 2707,
+   "texto": "Anibal Carracci"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2692,
+   "fin": 2707,
+   "texto": "Anibal Carracci"
+  },
+  {
+   "tipo": "person",
+   "ini": 2782,
+   "fin": 2788,
+   "texto": "Rafael"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2782,
+   "fin": 2788,
+   "texto": "Rafael"
+  },
+  {
+   "tipo": "person",
+   "ini": 2868,
+   "fin": 2879,
+   "texto": "Papa León X"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2873,
+   "fin": 2879,
+   "texto": "León X"
+  },
+  {
+   "tipo": "person",
+   "ini": 2986,
+   "fin": 2992,
+   "texto": "Rafael"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2986,
+   "fin": 2992,
+   "texto": "Rafael"
+  },
+  {
+   "tipo": "person",
+   "ini": 3103,
+   "fin": 3129,
+   "texto": "Ludovico Teseo (1731-1782)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3103,
+   "fin": 3117,
+   "texto": "Ludovico Teseo"
+  },
+  {
+   "tipo": "person",
+   "ini": 3145,
+   "fin": 3173,
+   "texto": "Pietro Camporesi (1763-1822)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3145,
+   "fin": 3161,
+   "texto": "Pietro Camporesi"
+  },
+  {
+   "tipo": "person",
+   "ini": 3192,
+   "fin": 3222,
+   "texto": "Giovanni Ottaviani\n(1735-1808)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3192,
+   "fin": 3210,
+   "texto": "Giovanni Ottaviani"
+  },
+  {
+   "tipo": "person",
+   "ini": 3271,
+   "fin": 3287,
+   "texto": "Giovanni Volpato"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3271,
+   "fin": 3286,
+   "texto": "Giovanni Volpat"
+  },
+  {
+   "tipo": "person",
+   "ini": 3428,
+   "fin": 3434,
+   "texto": "Rafael"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3428,
+   "fin": 3434,
+   "texto": "Rafael"
+  },
+  {
+   "tipo": "person",
+   "ini": 3639,
+   "fin": 3645,
+   "texto": "León X"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3639,
+   "fin": 3645,
+   "texto": "León X"
+  },
+  {
+   "tipo": "person",
+   "ini": 4284,
+   "fin": 4289,
+   "texto": "Nerón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4284,
+   "fin": 4289,
+   "texto": "Nerón"
+  },
+  {
+   "tipo": "person",
+   "ini": 4302,
+   "fin": 4308,
+   "texto": "Rafael"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4302,
+   "fin": 4308,
+   "texto": "Rafael"
+  },
+  {
+   "tipo": "person",
+   "ini": 4339,
+   "fin": 4345,
+   "texto": "León X"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4339,
+   "fin": 4345,
+   "texto": "León X"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4590,
+   "fin": 4630,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia de Bellas Artes de Sevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4623,
+   "fin": 4630,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "person",
+   "ini": 4693,
+   "fin": 4711,
+   "texto": "D. Juan José Bueno"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4696,
+   "fin": 4711,
+   "texto": "Juan José Bueno"
+  },
+  {
+   "tipo": "person",
+   "ini": 4726,
+   "fin": 4747,
+   "texto": "D. Salvador Gutiérrez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4729,
+   "fin": 4747,
+   "texto": "Salvador Gutiérrez"
+  },
+  {
+   "tipo": "person",
+   "ini": 5045,
+   "fin": 5052,
+   "texto": "Volpato"
+  },
+  {
+   "tipo": "person",
+   "ini": 5353,
+   "fin": 5377,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Rafael de Besa Gutiérrez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5353,
+   "fin": 5377,
+   "texto": "Rafael de Besa Gutiérrez"
+  },
+  {
+   "tipo": "title",
+   "ini": 5379,
+   "fin": 5400,
+   "texto": "MURILLO Y LA ACADEMIA"
+  },
+  {
+   "tipo": "person",
+   "ini": 5379,
+   "fin": 5386,
+   "texto": "MURILLO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5379,
+   "fin": 5386,
+   "texto": "MURILLO"
+  },
+  {
+   "tipo": "person",
+   "ini": 5438,
+   "fin": 5445,
+   "texto": "Murillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5438,
+   "fin": 5445,
+   "texto": "Murillo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5450,
+   "fin": 5517,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia de Bellas Artes\nde Santa Isabel de Hungría de Sevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5510,
+   "fin": 5517,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "person",
+   "ini": 5601,
+   "fin": 5608,
+   "texto": "Murillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5601,
+   "fin": 5608,
+   "texto": "Murillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 6118,
+   "fin": 6143,
+   "texto": "Bartolomé Esteban Murillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6118,
+   "fin": 6143,
+   "texto": "Bartolomé Esteban Murillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 6176,
+   "fin": 6193,
+   "texto": "Francisco Herrera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6176,
+   "fin": 6193,
+   "texto": "Francisco Herrera"
+  },
+  {
+   "tipo": "person",
+   "ini": 6492,
+   "fin": 6499,
+   "texto": "Murillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6492,
+   "fin": 6499,
+   "texto": "Murillo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6628,
+   "fin": 6684,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia de Bellas Artes de Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 6688,
+   "fin": 9374
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6695,
+   "fin": 6823
+  },
+  {
+   "tipo": "img",
+   "ini": 6695,
+   "fin": 6700,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6702,
+   "fin": 6823,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Leoncio Baglietto González\nMurillo (1858)\nYeso policromado. 67 x 60 x 28 cm.\nMedalla de Plata – Exposición sevillana 1858"
+  },
+  {
+   "tipo": "person",
+   "ini": 6702,
+   "fin": 6728,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Leoncio Baglietto González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6702,
+   "fin": 6728,
+   "texto": "Leoncio Baglietto González"
+  },
+  {
+   "tipo": "person",
+   "ini": 6729,
+   "fin": 6736,
+   "texto": "Murillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6729,
+   "fin": 6736,
+   "texto": "Murillo"
+  },
+  {
+   "tipo": "date",
+   "ini": 6738,
+   "fin": 6742,
+   "rasgos": {
+    "when": "1858"
+   },
+   "texto": "1858"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6744,
+   "fin": 6760,
+   "rasgos": {
+    "type": "plaster"
+   },
+   "texto": "Yeso policromado"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6762,
+   "fin": 6778,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "67 x 60 x 28 cm."
+  },
+  {
+   "tipo": "height",
+   "ini": 6762,
+   "fin": 6764,
+   "texto": "67"
+  },
+  {
+   "tipo": "width",
+   "ini": 6767,
+   "fin": 6769,
+   "texto": "60"
+  },
+  {
+   "tipo": "depth",
+   "ini": 6772,
+   "fin": 6774,
+   "texto": "28"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 6779,
+   "fin": 6823
+  },
+  {
+   "tipo": "date",
+   "ini": 6819,
+   "fin": 6823,
+   "rasgos": {
+    "when": "1858"
+   },
+   "texto": "1858"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6825,
+   "fin": 6922
+  },
+  {
+   "tipo": "img",
+   "ini": 6825,
+   "fin": 6830,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6832,
+   "fin": 6923,
+   "rasgos": {
+    "type": "book"
+   },
+   "texto": "Libro de Actas\n1846\nFondo Antiguo\nReal Academia de Bellas Artes\nde Santa Isabel de Hungría\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 6832,
+   "fin": 6846,
+   "texto": "Libro de Actas"
+  },
+  {
+   "tipo": "date",
+   "ini": 6847,
+   "fin": 6851,
+   "rasgos": {
+    "when": "1846"
+   },
+   "texto": "1846"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6866,
+   "fin": 6922,
+   "rasgos": {
+    "type": "academy",
+    "role": "owner, lender"
+   },
+   "texto": "Real Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6924,
+   "fin": 7030
+  },
+  {
+   "tipo": "img",
+   "ini": 6924,
+   "fin": 6929,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6931,
+   "fin": 7030,
+   "rasgos": {
+    "type": "book"
+   },
+   "texto": "Libro de Matrícula\n1790-1812\nFondo Antiguo\nReal Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "title",
+   "ini": 6931,
+   "fin": 6949,
+   "texto": "Libro de Matrícula"
+  },
+  {
+   "tipo": "date",
+   "ini": 6950,
+   "fin": 6959,
+   "rasgos": {
+    "from": "1790",
+    "to": "1812"
+   },
+   "texto": "1790-1812"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 6960,
+   "fin": 6973
+  },
+  {
+   "tipo": "institution",
+   "ini": 6974,
+   "fin": 7030,
+   "rasgos": {
+    "type": "academy",
+    "role": "lender, owner"
+   },
+   "texto": "Real Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7032,
+   "fin": 7166
+  },
+  {
+   "tipo": "img",
+   "ini": 7032,
+   "fin": 7037,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7039,
+   "fin": 7166,
+   "rasgos": {
+    "type": "book"
+   },
+   "texto": "Libro de Matrícula de los Estudios Elementales\n1813-1849\nFondo Antiguo\nReal Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "title",
+   "ini": 7039,
+   "fin": 7085,
+   "texto": "Libro de Matrícula de los Estudios Elementales"
+  },
+  {
+   "tipo": "date",
+   "ini": 7086,
+   "fin": 7095,
+   "rasgos": {
+    "from": "1813",
+    "to": "1849"
+   },
+   "texto": "1813-1849"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 7096,
+   "fin": 7109
+  },
+  {
+   "tipo": "institution",
+   "ini": 7110,
+   "fin": 7166,
+   "rasgos": {
+    "type": "academy",
+    "role": "owner, lender"
+   },
+   "texto": "Real Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7168,
+   "fin": 7306
+  },
+  {
+   "tipo": "img",
+   "ini": 7168,
+   "fin": 7173,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7175,
+   "fin": 7306,
+   "rasgos": {
+    "type": "book"
+   },
+   "texto": "Libro de Matrícula de los Estudios Elementales Nº1\n1775-1789\nFondo Antiguo\nReal Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "title",
+   "ini": 7175,
+   "fin": 7225,
+   "texto": "Libro de Matrícula de los Estudios Elementales Nº1"
+  },
+  {
+   "tipo": "date",
+   "ini": 7226,
+   "fin": 7235,
+   "rasgos": {
+    "from": "1775",
+    "to": "1789"
+   },
+   "texto": "1775-1789"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 7236,
+   "fin": 7249
+  },
+  {
+   "tipo": "institution",
+   "ini": 7250,
+   "fin": 7306,
+   "rasgos": {
+    "type": "academy",
+    "role": "owner, lender"
+   },
+   "texto": "Real Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7308,
+   "fin": 7405
+  },
+  {
+   "tipo": "img",
+   "ini": 7308,
+   "fin": 7313,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7315,
+   "fin": 7405,
+   "rasgos": {
+    "type": "book"
+   },
+   "texto": "Libro de Actas\n1784\nFondo Antiguo\nReal Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "title",
+   "ini": 7315,
+   "fin": 7329,
+   "texto": "Libro de Actas"
+  },
+  {
+   "tipo": "date",
+   "ini": 7330,
+   "fin": 7334,
+   "rasgos": {
+    "when": "1784"
+   },
+   "texto": "1784"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 7335,
+   "fin": 7348
+  },
+  {
+   "tipo": "institution",
+   "ini": 7349,
+   "fin": 7405,
+   "rasgos": {
+    "type": "academy",
+    "role": "owner, lender"
+   },
+   "texto": "Real Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7407,
+   "fin": 7521
+  },
+  {
+   "tipo": "img",
+   "ini": 7407,
+   "fin": 7412,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7414,
+   "fin": 7521,
+   "rasgos": {
+    "type": "book"
+   },
+   "texto": "Libro de Órdenes y Oficios\n1812-1928\nFondo Antiguo\nReal Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "title",
+   "ini": 7414,
+   "fin": 7440,
+   "texto": "Libro de Órdenes y Oficios"
+  },
+  {
+   "tipo": "date",
+   "ini": 7441,
+   "fin": 7450,
+   "rasgos": {
+    "from": "1812",
+    "to": "1928"
+   },
+   "texto": "1812-1928"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 7451,
+   "fin": 7464
+  },
+  {
+   "tipo": "institution",
+   "ini": 7465,
+   "fin": 7521,
+   "rasgos": {
+    "type": "academy",
+    "role": "owner, lender"
+   },
+   "texto": "Real Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7523,
+   "fin": 7688
+  },
+  {
+   "tipo": "img",
+   "ini": 7523,
+   "fin": 7528,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7530,
+   "fin": 7688,
+   "rasgos": {
+    "type": "document"
+   },
+   "texto": "Folio 22r del manuscrito fundacional con el inicio de los estatutos\n11 de enero de 1660\nFondo Antiguo\nReal Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "title",
+   "ini": 7530,
+   "fin": 7597,
+   "texto": "Folio 22r del manuscrito fundacional con el inicio de los estatutos"
+  },
+  {
+   "tipo": "date",
+   "ini": 7598,
+   "fin": 7617,
+   "rasgos": {
+    "when": "1660-01-11"
+   },
+   "texto": "11 de enero de 1660"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 7618,
+   "fin": 7631
+  },
+  {
+   "tipo": "institution",
+   "ini": 7632,
+   "fin": 7688,
+   "rasgos": {
+    "type": "academy",
+    "role": "owner, lender"
+   },
+   "texto": "Real Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7690,
+   "fin": 7864
+  },
+  {
+   "tipo": "img",
+   "ini": 7690,
+   "fin": 7695,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7697,
+   "fin": 7864,
+   "rasgos": {
+    "type": "document"
+   },
+   "texto": "Primera página de la relación de bienes de propiedad de la Escuela de\nlas Tres Nobles Artes\n1807\nFondo Antiguo\nReal Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "title",
+   "ini": 7697,
+   "fin": 7788,
+   "texto": "Primera página de la relación de bienes de propiedad de la Escuela de\nlas Tres Nobles Artes"
+  },
+  {
+   "tipo": "date",
+   "ini": 7789,
+   "fin": 7793,
+   "rasgos": {
+    "when": "1807"
+   },
+   "texto": "1807"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 7794,
+   "fin": 7807
+  },
+  {
+   "tipo": "institution",
+   "ini": 7808,
+   "fin": 7864,
+   "rasgos": {
+    "type": "academy",
+    "role": "owner, lender"
+   },
+   "texto": "Real Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7866,
+   "fin": 7999
+  },
+  {
+   "tipo": "img",
+   "ini": 7866,
+   "fin": 7871,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7873,
+   "fin": 7999,
+   "rasgos": {
+    "type": "document"
+   },
+   "texto": "Partida de nacimiento de Bartolomé Esteban Murillo\n1 de enero de 1618\nReal Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "title",
+   "ini": 7873,
+   "fin": 7923,
+   "texto": "Partida de nacimiento de Bartolomé Esteban Murillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 7898,
+   "fin": 7923,
+   "texto": "Bartolomé Esteban Murillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7898,
+   "fin": 7923,
+   "texto": "Bartolomé Esteban Murillo"
+  },
+  {
+   "tipo": "date",
+   "ini": 7924,
+   "fin": 7942,
+   "rasgos": {
+    "when": "1618-01-01"
+   },
+   "texto": "1 de enero de 1618"
+  },
+  {
+   "tipo": "institution",
+   "ini": 7943,
+   "fin": 7999,
+   "rasgos": {
+    "type": "academy",
+    "role": "owner, lender"
+   },
+   "texto": "Real Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8001,
+   "fin": 8137
+  },
+  {
+   "tipo": "img",
+   "ini": 8001,
+   "fin": 8006,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8008,
+   "fin": 8137,
+   "rasgos": {
+    "type": "document"
+   },
+   "texto": "Partida de enterramiento de Bartolomé Esteban Murillo\n4 de abril de 1682\nReal Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "title",
+   "ini": 8008,
+   "fin": 8061,
+   "texto": "Partida de enterramiento de Bartolomé Esteban Murillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 8036,
+   "fin": 8061,
+   "texto": "Bartolomé Esteban Murillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8036,
+   "fin": 8061,
+   "texto": "Bartolomé Esteban Murillo"
+  },
+  {
+   "tipo": "date",
+   "ini": 8062,
+   "fin": 8080,
+   "rasgos": {
+    "when": "1682-04-04"
+   },
+   "texto": "4 de abril de 1682"
+  },
+  {
+   "tipo": "institution",
+   "ini": 8081,
+   "fin": 8137,
+   "rasgos": {
+    "type": "academy",
+    "role": "owner, lender"
+   },
+   "texto": "Real Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8139,
+   "fin": 8307
+  },
+  {
+   "tipo": "img",
+   "ini": 8139,
+   "fin": 8144,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8146,
+   "fin": 8307,
+   "rasgos": {
+    "type": "document"
+   },
+   "texto": "Solicitud de ingreso en la Hermandad de la Santa Caridad de\nBartolomé Esteban Murillo\n1665\nFondo Antiguo\nReal Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "title",
+   "ini": 8146,
+   "fin": 8231,
+   "texto": "Solicitud de ingreso en la Hermandad de la Santa Caridad de\nBartolomé Esteban Murillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 8206,
+   "fin": 8231,
+   "texto": "Bartolomé Esteban Murillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8206,
+   "fin": 8231,
+   "texto": "Bartolomé Esteban Murillo"
+  },
+  {
+   "tipo": "date",
+   "ini": 8232,
+   "fin": 8236,
+   "rasgos": {
+    "when": "1665"
+   },
+   "texto": "1665"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 8237,
+   "fin": 8250
+  },
+  {
+   "tipo": "institution",
+   "ini": 8251,
+   "fin": 8307,
+   "rasgos": {
+    "type": "academy",
+    "role": "owner, lender"
+   },
+   "texto": "Real Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8309,
+   "fin": 8476
+  },
+  {
+   "tipo": "img",
+   "ini": 8309,
+   "fin": 8314,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8316,
+   "fin": 8476,
+   "rasgos": {
+    "type": "document"
+   },
+   "texto": "Documento de la donación a la Academia del manuscrito fundacional\npor Joaquín Cortés\n1817\nFondo Antiguo\nReal Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "title",
+   "ini": 8316,
+   "fin": 8400,
+   "texto": "Documento de la donación a la Academia del manuscrito fundacional\npor Joaquín Cortés"
+  },
+  {
+   "tipo": "person",
+   "ini": 8386,
+   "fin": 8400,
+   "texto": "Joaquín Cortés"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8386,
+   "fin": 8400,
+   "texto": "Joaquín Cortés"
+  },
+  {
+   "tipo": "date",
+   "ini": 8401,
+   "fin": 8405,
+   "rasgos": {
+    "when": "1817"
+   },
+   "texto": "1817"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 8406,
+   "fin": 8419
+  },
+  {
+   "tipo": "institution",
+   "ini": 8420,
+   "fin": 8476,
+   "rasgos": {
+    "type": "academy",
+    "role": "owner, lender"
+   },
+   "texto": "Real Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8478,
+   "fin": 8678
+  },
+  {
+   "tipo": "img",
+   "ini": 8478,
+   "fin": 8483,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8485,
+   "fin": 8678,
+   "rasgos": {
+    "type": "document"
+   },
+   "texto": "Caja en la que se conservan 4 manuscrito fundacional y los restantes\ndocumentos relacionados con Bartolomé Esteban Murillo\nFondo Antiguo\nReal Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "title",
+   "ini": 8485,
+   "fin": 8607,
+   "texto": "Caja en la que se conservan 4 manuscrito fundacional y los restantes\ndocumentos relacionados con Bartolomé Esteban Murillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 8582,
+   "fin": 8607,
+   "texto": "Bartolomé Esteban Murillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8582,
+   "fin": 8607,
+   "texto": "Bartolomé Esteban Murillo"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 8608,
+   "fin": 8621
+  },
+  {
+   "tipo": "institution",
+   "ini": 8622,
+   "fin": 8678,
+   "rasgos": {
+    "type": "academy",
+    "role": "owner, lender"
+   },
+   "texto": "Real Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8680,
+   "fin": 8765
+  },
+  {
+   "tipo": "img",
+   "ini": 8680,
+   "fin": 8685,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8687,
+   "fin": 8765,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Grabado de las pinturas de Rafael en la logia del Vaticano\nBuril/1300 x 520 mm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8687,
+   "fin": 8745,
+   "texto": "Grabado de las pinturas de Rafael en la logia del Vaticano"
+  },
+  {
+   "tipo": "person",
+   "ini": 8714,
+   "fin": 8720,
+   "texto": "Rafael"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8714,
+   "fin": 8720,
+   "texto": "Rafael"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8746,
+   "fin": 8751,
+   "rasgos": {
+    "type": "burin"
+   },
+   "texto": "Buril"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8752,
+   "fin": 8765,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "1300 x 520 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8752,
+   "fin": 8756,
+   "texto": "1300"
+  },
+  {
+   "tipo": "width",
+   "ini": 8759,
+   "fin": 8762,
+   "texto": "520"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8767,
+   "fin": 8853
+  },
+  {
+   "tipo": "img",
+   "ini": 8767,
+   "fin": 8772,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8774,
+   "fin": 8852,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Grabado de las pinturas de Rafael en la logia del Vaticano\nBuril/1300 x 520 mm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8774,
+   "fin": 8832,
+   "texto": "Grabado de las pinturas de Rafael en la logia del Vaticano"
+  },
+  {
+   "tipo": "person",
+   "ini": 8801,
+   "fin": 8807,
+   "texto": "Rafael"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8801,
+   "fin": 8807,
+   "texto": "Rafael"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8833,
+   "fin": 8838,
+   "rasgos": {
+    "type": "burin"
+   },
+   "texto": "Buril"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8839,
+   "fin": 8852,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "1300 x 520 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8839,
+   "fin": 8843,
+   "texto": "1300"
+  },
+  {
+   "tipo": "width",
+   "ini": 8846,
+   "fin": 8849,
+   "texto": "520"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8854,
+   "fin": 8939
+  },
+  {
+   "tipo": "img",
+   "ini": 8854,
+   "fin": 8859,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8861,
+   "fin": 8939,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Grabado de las pinturas de Rafael en la logia del Vaticano\nBuril/1300 x 520 mm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8861,
+   "fin": 8919,
+   "texto": "Grabado de las pinturas de Rafael en la logia del Vaticano"
+  },
+  {
+   "tipo": "person",
+   "ini": 8888,
+   "fin": 8894,
+   "texto": "Rafael"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8888,
+   "fin": 8894,
+   "texto": "Rafael"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8920,
+   "fin": 8925,
+   "rasgos": {
+    "type": "burin"
+   },
+   "texto": "Buril"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8926,
+   "fin": 8939,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "1300 x 520 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8926,
+   "fin": 8930,
+   "texto": "1300"
+  },
+  {
+   "tipo": "width",
+   "ini": 8933,
+   "fin": 8936,
+   "texto": "520"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8941,
+   "fin": 9026
+  },
+  {
+   "tipo": "img",
+   "ini": 8941,
+   "fin": 8946,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8948,
+   "fin": 9026,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Grabado de las pinturas de Rafael en la logia del Vaticano\nBuril/1300 x 520 mm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8948,
+   "fin": 9006,
+   "texto": "Grabado de las pinturas de Rafael en la logia del Vaticano"
+  },
+  {
+   "tipo": "person",
+   "ini": 8975,
+   "fin": 8981,
+   "texto": "Rafael"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8975,
+   "fin": 8981,
+   "texto": "Rafael"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9007,
+   "fin": 9012,
+   "rasgos": {
+    "type": "burin"
+   },
+   "texto": "Buril"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9013,
+   "fin": 9026,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "1300 x 520 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 9013,
+   "fin": 9017,
+   "texto": "1300"
+  },
+  {
+   "tipo": "width",
+   "ini": 9020,
+   "fin": 9023,
+   "texto": "520"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9028,
+   "fin": 9113
+  },
+  {
+   "tipo": "img",
+   "ini": 9028,
+   "fin": 9033,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9035,
+   "fin": 9113,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Grabado de las pinturas de Rafael en la logia del Vaticano\nBuril/1300 x 520 mm"
+  },
+  {
+   "tipo": "title",
+   "ini": 9035,
+   "fin": 9093,
+   "texto": "Grabado de las pinturas de Rafael en la logia del Vaticano"
+  },
+  {
+   "tipo": "person",
+   "ini": 9062,
+   "fin": 9068,
+   "texto": "Rafael"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9062,
+   "fin": 9068,
+   "texto": "Rafael"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9094,
+   "fin": 9099,
+   "rasgos": {
+    "type": "burin"
+   },
+   "texto": "Buril"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9100,
+   "fin": 9113,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "1300 x 520 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 9100,
+   "fin": 9104,
+   "texto": "1300"
+  },
+  {
+   "tipo": "width",
+   "ini": 9107,
+   "fin": 9110,
+   "texto": "520"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9115,
+   "fin": 9200
+  },
+  {
+   "tipo": "img",
+   "ini": 9115,
+   "fin": 9120,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9122,
+   "fin": 9200,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Grabado de las pinturas de Rafael en la logia del Vaticano\nBuril/1300 x 520 mm"
+  },
+  {
+   "tipo": "title",
+   "ini": 9122,
+   "fin": 9180,
+   "texto": "Grabado de las pinturas de Rafael en la logia del Vaticano"
+  },
+  {
+   "tipo": "person",
+   "ini": 9149,
+   "fin": 9155,
+   "texto": "Rafael"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9149,
+   "fin": 9155,
+   "texto": "Rafael"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9181,
+   "fin": 9186,
+   "rasgos": {
+    "type": "burin"
+   },
+   "texto": "Buril"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9187,
+   "fin": 9200,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "1300 x 520 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 9187,
+   "fin": 9191,
+   "texto": "1300"
+  },
+  {
+   "tipo": "width",
+   "ini": 9194,
+   "fin": 9197,
+   "texto": "520"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9202,
+   "fin": 9287
+  },
+  {
+   "tipo": "img",
+   "ini": 9202,
+   "fin": 9207,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9209,
+   "fin": 9287,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Grabado de las pinturas de Rafael en la logia del Vaticano\nBuril/1300 x 520 mm"
+  },
+  {
+   "tipo": "title",
+   "ini": 9209,
+   "fin": 9267,
+   "texto": "Grabado de las pinturas de Rafael en la logia del Vaticano"
+  },
+  {
+   "tipo": "person",
+   "ini": 9236,
+   "fin": 9242,
+   "texto": "Rafael"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9236,
+   "fin": 9242,
+   "texto": "Rafael"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9268,
+   "fin": 9273,
+   "rasgos": {
+    "type": "burin"
+   },
+   "texto": "Buril"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9274,
+   "fin": 9287,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "1300 x 520 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 9274,
+   "fin": 9278,
+   "texto": "1300"
+  },
+  {
+   "tipo": "width",
+   "ini": 9281,
+   "fin": 9284,
+   "texto": "520"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9289,
+   "fin": 9374
+  },
+  {
+   "tipo": "img",
+   "ini": 9289,
+   "fin": 9294,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9296,
+   "fin": 9374,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Grabado de las pinturas de Rafael en la logia del Vaticano\nBuril/1300 x 520 mm"
+  },
+  {
+   "tipo": "title",
+   "ini": 9296,
+   "fin": 9354,
+   "texto": "Grabado de las pinturas de Rafael en la logia del Vaticano"
+  },
+  {
+   "tipo": "person",
+   "ini": 9323,
+   "fin": 9329,
+   "texto": "Rafael"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9323,
+   "fin": 9329,
+   "texto": "Rafael"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9355,
+   "fin": 9360,
+   "rasgos": {
+    "type": "burin"
+   },
+   "texto": "Buril"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9361,
+   "fin": 9374,
+   "rasgos": {
+    "unit": "mm"
+   },
+   "texto": "1300 x 520 mm"
+  },
+  {
+   "tipo": "height",
+   "ini": 9361,
+   "fin": 9365,
+   "texto": "1300"
+  },
+  {
+   "tipo": "width",
+   "ini": 9368,
+   "fin": 9371,
+   "texto": "520"
+  },
+  {
+   "tipo": "img",
+   "ini": 9376,
+   "fin": 9381,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 9382,
+   "fin": 9387,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "venue",
+   "ini": 9389,
+   "fin": 9425,
+   "texto": "Sala de Exposiciones “José Villegas”"
+  },
+  {
+   "tipo": "institution",
+   "ini": 9427,
+   "fin": 9483,
+   "rasgos": {
+    "type": "academy",
+    "role": "organiser"
+   },
+   "texto": "Real Academia de Bellas Artes\nde Santa Isabel de Hungría"
+  },
+  {
+   "tipo": "venue",
+   "ini": 9485,
+   "fin": 9505,
+   "texto": "“Casa de los Pinelo”"
+  }
+ ]
+}

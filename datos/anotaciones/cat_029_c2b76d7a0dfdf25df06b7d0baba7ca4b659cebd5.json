@@ -1,0 +1,4263 @@
+{
+ "id": "cat_029_c2b76d7a0dfdf25df06b7d0baba7ca4b659cebd5",
+ "nombre_original": "c2b76d7a0dfdf25df06b7d0baba7ca4b659cebd5",
+ "longitud_texto": 94694,
+ "sha256_texto": "3a2b74dee9789e4e0b6ef523c4bdd6455d4d10fc6cf382fecff0ee734e3ebf86",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 146,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 23,
+   "texto": "SANTIAGO YDÁÑEZ\nSin fin"
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 15,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "SANTIAGO YDÁÑEZ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 15,
+   "texto": "SANTIAGO YDÁÑEZ"
+  },
+  {
+   "tipo": "venue",
+   "ini": 25,
+   "fin": 81,
+   "texto": "Sala de Exposiciones de la Antigua Escuela de Magisterio"
+  },
+  {
+   "tipo": "date",
+   "ini": 82,
+   "fin": 124,
+   "rasgos": {
+    "from": "2017-09-27",
+    "to": "2017-11-24"
+   },
+   "texto": "27 de septiembre - 24 de noviembre de 2017"
+  },
+  {
+   "tipo": "institution",
+   "ini": 127,
+   "fin": 146,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Universidad de Jaén"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 142,
+   "fin": 146,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Jaén"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 149,
+   "fin": 752,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 283,
+   "fin": 298,
+   "rasgos": {
+    "type": "company",
+    "role": "assembly"
+   },
+   "texto": "Arquimera S. L."
+  },
+  {
+   "tipo": "person",
+   "ini": 313,
+   "fin": 334,
+   "rasgos": {
+    "role": "restaurator"
+   },
+   "texto": "Néstor Prieto Jiménez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 313,
+   "fin": 334,
+   "texto": "Néstor Prieto Jiménez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 348,
+   "fin": 358,
+   "rasgos": {
+    "type": "company",
+    "role": "transporter"
+   },
+   "texto": "MAPA S. A."
+  },
+  {
+   "tipo": "institution",
+   "ini": 368,
+   "fin": 380,
+   "rasgos": {
+    "type": "insuranceCompany"
+   },
+   "texto": "Globalfinanz"
+  },
+  {
+   "tipo": "person",
+   "ini": 398,
+   "fin": 431,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "María del Mar Rodríguez Rodríguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 398,
+   "fin": 431,
+   "texto": "María del Mar Rodríguez Rodríguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 449,
+   "fin": 474,
+   "texto": "Iván de la Torre Amerighi"
+  },
+  {
+   "tipo": "institution",
+   "ini": 503,
+   "fin": 522,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "Universidad de Jaén"
+  },
+  {
+   "tipo": "institution",
+   "ini": 571,
+   "fin": 667,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "Universidad de Jaén\nVicerrectorado de Proyección de la Cultura,\nDeporte y Responsabilidad Social"
+  },
+  {
+   "tipo": "person",
+   "ini": 684,
+   "fin": 699,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 684,
+   "fin": 699,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 712,
+   "fin": 752,
+   "rasgos": {
+    "type": "company",
+    "role": "printer"
+   },
+   "texto": "Gráficas La Paz de Torredonjimeno, S. L."
+  },
+  {
+   "tipo": "placeName",
+   "ini": 818,
+   "fin": 824,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "España"
+  },
+  {
+   "tipo": "person",
+   "ini": 1204,
+   "fin": 1210,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1204,
+   "fin": 1210,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 1262,
+   "fin": 1287,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Iván de la Torre Amerighi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1262,
+   "fin": 1287,
+   "texto": "Iván de la Torre Amerighi"
+  },
+  {
+   "tipo": "person",
+   "ini": 1515,
+   "fin": 1555,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez (Puente de Génave, 1967)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1515,
+   "fin": 1530,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "birth",
+   "ini": 1532,
+   "fin": 1554
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1532,
+   "fin": 1548,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Puente de Génave"
+  },
+  {
+   "tipo": "date",
+   "ini": 1550,
+   "fin": 1554,
+   "rasgos": {
+    "when": "1967"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1563,
+   "fin": 1582,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "Universidad\nde Jaén"
+  },
+  {
+   "tipo": "person",
+   "ini": 1977,
+   "fin": 1983,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1977,
+   "fin": 1983,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 2683,
+   "fin": 2689,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2683,
+   "fin": 2689,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 3716,
+   "fin": 3722,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3716,
+   "fin": 3722,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 4012,
+   "fin": 4027,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4012,
+   "fin": 4027,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 4695,
+   "fin": 4701,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "YDÁÑEZ"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4695,
+   "fin": 4701,
+   "texto": "YDÁÑEZ"
+  },
+  {
+   "tipo": "person",
+   "ini": 4802,
+   "fin": 4817,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4802,
+   "fin": 4817,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 4818,
+   "fin": 4843,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Iván de la Torre Amerighi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4818,
+   "fin": 4843,
+   "texto": "Iván de la Torre Amerighi"
+  },
+  {
+   "tipo": "person",
+   "ini": 4856,
+   "fin": 4871,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4856,
+   "fin": 4871,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 6429,
+   "fin": 6444,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6429,
+   "fin": 6444,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 8982,
+   "fin": 8988,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8982,
+   "fin": 8988,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 9893,
+   "fin": 9908,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9893,
+   "fin": 9908,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 11934,
+   "fin": 11949,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11934,
+   "fin": 11949,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 12027,
+   "fin": 12042,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12027,
+   "fin": 12042,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 12305,
+   "fin": 12320,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago\nYdáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12305,
+   "fin": 12320,
+   "texto": "Santiago\nYdáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 12363,
+   "fin": 12378,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12363,
+   "fin": 12378,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 12788,
+   "fin": 12794,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12788,
+   "fin": 12794,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 14548,
+   "fin": 14563,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14548,
+   "fin": 14563,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 14569,
+   "fin": 14584,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14569,
+   "fin": 14584,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 15235,
+   "fin": 15241,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15235,
+   "fin": 15241,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 15432,
+   "fin": 15438,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15432,
+   "fin": 15438,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 15967,
+   "fin": 15982,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15967,
+   "fin": 15982,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 17059,
+   "fin": 17065,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17059,
+   "fin": 17065,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 18168,
+   "fin": 18183,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18168,
+   "fin": 18183,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 18190,
+   "fin": 18205,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18190,
+   "fin": 18205,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 18334,
+   "fin": 18349,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18334,
+   "fin": 18349,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 18868,
+   "fin": 18883,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18868,
+   "fin": 18883,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 20375,
+   "fin": 20390,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20375,
+   "fin": 20390,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 20426,
+   "fin": 20441,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20426,
+   "fin": 20441,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 20537,
+   "fin": 20552,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20537,
+   "fin": 20552,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 20577,
+   "fin": 20592,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20577,
+   "fin": 20592,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 20745,
+   "fin": 20760,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20745,
+   "fin": 20760,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 20766,
+   "fin": 20781,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20766,
+   "fin": 20781,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 21526,
+   "fin": 21532,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21526,
+   "fin": 21532,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 22214,
+   "fin": 22220,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22214,
+   "fin": 22220,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 22355,
+   "fin": 22361,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22355,
+   "fin": 22361,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 22758,
+   "fin": 22773,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22758,
+   "fin": 22773,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 22882,
+   "fin": 22897,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22882,
+   "fin": 22897,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 23574,
+   "fin": 23580,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23574,
+   "fin": 23580,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 24444,
+   "fin": 24459,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24444,
+   "fin": 24459,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 24998,
+   "fin": 25004,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24998,
+   "fin": 25004,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 25280,
+   "fin": 25286,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25280,
+   "fin": 25286,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 26661,
+   "fin": 26676,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26661,
+   "fin": 26676,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 26683,
+   "fin": 26698,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26683,
+   "fin": 26698,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 30631,
+   "fin": 30637,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30631,
+   "fin": 30637,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 30948,
+   "fin": 30954,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30948,
+   "fin": 30954,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 32361,
+   "fin": 32376,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 32361,
+   "fin": 32376,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 32457,
+   "fin": 32463,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 32457,
+   "fin": 32463,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 33925,
+   "fin": 33931,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 33925,
+   "fin": 33931,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 34559,
+   "fin": 34574,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 34559,
+   "fin": 34574,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 34580,
+   "fin": 34595,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 34580,
+   "fin": 34595,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 34751,
+   "fin": 34757,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 34751,
+   "fin": 34757,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 35253,
+   "fin": 35259,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35253,
+   "fin": 35259,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 35648,
+   "fin": 35654,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35648,
+   "fin": 35654,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 35890,
+   "fin": 35896,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35890,
+   "fin": 35896,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 36927,
+   "fin": 36942,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 36927,
+   "fin": 36942,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 37321,
+   "fin": 37327,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37321,
+   "fin": 37327,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 37862,
+   "fin": 37868,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37862,
+   "fin": 37868,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 39027,
+   "fin": 39042,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39027,
+   "fin": 39042,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 39956,
+   "fin": 39971,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39956,
+   "fin": 39971,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 41104,
+   "fin": 41110,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 41104,
+   "fin": 41110,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 42275,
+   "fin": 42281,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 42275,
+   "fin": 42281,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 43136,
+   "fin": 43142,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 43136,
+   "fin": 43142,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 43528,
+   "fin": 43534,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 43528,
+   "fin": 43534,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 45084,
+   "fin": 45090,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 45084,
+   "fin": 45090,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 45252,
+   "fin": 45258,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 45252,
+   "fin": 45258,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 47997,
+   "fin": 48003,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 47997,
+   "fin": 48003,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 48962,
+   "fin": 48968,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 48962,
+   "fin": 48968,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 49651,
+   "fin": 49666,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49651,
+   "fin": 49666,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 49740,
+   "fin": 49755,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49740,
+   "fin": 49755,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 49847,
+   "fin": 49862,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49847,
+   "fin": 49862,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 49922,
+   "fin": 49937,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49922,
+   "fin": 49937,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 50662,
+   "fin": 50677,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50662,
+   "fin": 50677,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 50732,
+   "fin": 50747,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50732,
+   "fin": 50747,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 50838,
+   "fin": 50853,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 50926,
+   "fin": 50941,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50926,
+   "fin": 50941,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 51159,
+   "fin": 51165,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 51159,
+   "fin": 51165,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 52077,
+   "fin": 52092,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 52077,
+   "fin": 52092,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 52251,
+   "fin": 52266,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 52251,
+   "fin": 52266,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 52470,
+   "fin": 52485,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 52470,
+   "fin": 52485,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 52491,
+   "fin": 52506,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 52491,
+   "fin": 52506,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 54424,
+   "fin": 54439,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 54424,
+   "fin": 54439,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 54475,
+   "fin": 54490,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 54475,
+   "fin": 54490,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 54638,
+   "fin": 54653,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 54638,
+   "fin": 54653,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 54659,
+   "fin": 54674,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 54659,
+   "fin": 54674,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 54787,
+   "fin": 54802,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 54787,
+   "fin": 54802,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 54827,
+   "fin": 54842,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 54827,
+   "fin": 54842,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 54928,
+   "fin": 54934,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 54928,
+   "fin": 54934,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 56420,
+   "fin": 56435,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56420,
+   "fin": 56435,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 56502,
+   "fin": 56517,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56502,
+   "fin": 56517,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 56917,
+   "fin": 56923,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56917,
+   "fin": 56923,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 59336,
+   "fin": 59351,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 59336,
+   "fin": 59351,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 59409,
+   "fin": 59424,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 59409,
+   "fin": 59424,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 59430,
+   "fin": 59445,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 59430,
+   "fin": 59445,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 59504,
+   "fin": 59519,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 59504,
+   "fin": 59519,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 59830,
+   "fin": 59836,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 59830,
+   "fin": 59836,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 60766,
+   "fin": 60781,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 60766,
+   "fin": 60781,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 60834,
+   "fin": 60849,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 60834,
+   "fin": 60849,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 60855,
+   "fin": 60870,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 60855,
+   "fin": 60870,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 60923,
+   "fin": 60938,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 60923,
+   "fin": 60938,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 60944,
+   "fin": 60959,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 60944,
+   "fin": 60959,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 61019,
+   "fin": 61034,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 61019,
+   "fin": 61034,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 61956,
+   "fin": 61962,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 61956,
+   "fin": 61962,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 62442,
+   "fin": 62448,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 62442,
+   "fin": 62448,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 62665,
+   "fin": 62680,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 62665,
+   "fin": 62680,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 62705,
+   "fin": 62720,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 62705,
+   "fin": 62720,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 62780,
+   "fin": 62795,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 62780,
+   "fin": 62795,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 62888,
+   "fin": 62903,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 62888,
+   "fin": 62903,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 62955,
+   "fin": 62961,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 62955,
+   "fin": 62961,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 64790,
+   "fin": 64796,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 64790,
+   "fin": 64796,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 66299,
+   "fin": 66314,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 66299,
+   "fin": 66314,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 66397,
+   "fin": 66412,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 66397,
+   "fin": 66412,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 67621,
+   "fin": 67627,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 67621,
+   "fin": 67627,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 67878,
+   "fin": 67884,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 67878,
+   "fin": 67884,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 67915,
+   "fin": 67930,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 67915,
+   "fin": 67930,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 67988,
+   "fin": 68003,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 67988,
+   "fin": 68003,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 68387,
+   "fin": 68402,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 68387,
+   "fin": 68402,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 68460,
+   "fin": 68475,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 68460,
+   "fin": 68475,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 69630,
+   "fin": 69636,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 69630,
+   "fin": 69636,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 70019,
+   "fin": 70025,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 70019,
+   "fin": 70025,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 70724,
+   "fin": 70739,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 70724,
+   "fin": 70739,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 70784,
+   "fin": 70799,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 70784,
+   "fin": 70799,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 70816,
+   "fin": 70822,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 70816,
+   "fin": 70822,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 72343,
+   "fin": 72349,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 72343,
+   "fin": 72349,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 73279,
+   "fin": 73285,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 73279,
+   "fin": 73285,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 73565,
+   "fin": 73571,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 73565,
+   "fin": 73571,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 73955,
+   "fin": 73970,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 73955,
+   "fin": 73970,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 74029,
+   "fin": 74044,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74029,
+   "fin": 74044,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 74050,
+   "fin": 74065,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74050,
+   "fin": 74065,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 74123,
+   "fin": 74138,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74123,
+   "fin": 74138,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 74231,
+   "fin": 74237,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 74231,
+   "fin": 74237,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 75223,
+   "fin": 75238,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75223,
+   "fin": 75238,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 75296,
+   "fin": 75311,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75296,
+   "fin": 75311,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 75317,
+   "fin": 75332,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75317,
+   "fin": 75332,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 75391,
+   "fin": 75406,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75391,
+   "fin": 75406,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 75485,
+   "fin": 75500,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75485,
+   "fin": 75500,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 75566,
+   "fin": 75581,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 75566,
+   "fin": 75581,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 76471,
+   "fin": 76477,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 76471,
+   "fin": 76477,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 76626,
+   "fin": 76641,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 76626,
+   "fin": 76641,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 76699,
+   "fin": 76714,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 76699,
+   "fin": 76714,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 76720,
+   "fin": 76735,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 76720,
+   "fin": 76735,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 76792,
+   "fin": 76807,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 76792,
+   "fin": 76807,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 77405,
+   "fin": 77411,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 77405,
+   "fin": 77411,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 78085,
+   "fin": 78100,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 78085,
+   "fin": 78100,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 78116,
+   "fin": 78131,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 78116,
+   "fin": 78131,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 78474,
+   "fin": 78489,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 78474,
+   "fin": 78489,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 78513,
+   "fin": 78528,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 78513,
+   "fin": 78528,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 78552,
+   "fin": 78567,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 78552,
+   "fin": 78567,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 78690,
+   "fin": 78705,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 78690,
+   "fin": 78705,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 78861,
+   "fin": 78877,
+   "texto": "Santiago Ydáñez."
+  },
+  {
+   "tipo": "person",
+   "ini": 78861,
+   "fin": 78876,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 79004,
+   "fin": 79010,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 79004,
+   "fin": 79010,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 79634,
+   "fin": 79640,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 79634,
+   "fin": 79640,
+   "texto": "Ydáñez"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 79720,
+   "fin": 81150
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 79730,
+   "fin": 79782
+  },
+  {
+   "tipo": "img",
+   "ini": 79730,
+   "fin": 79735,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 79737,
+   "fin": 79782,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título, 2008\nAcrílico / tela, 75 x 100 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 79737,
+   "fin": 79747,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 79749,
+   "fin": 79753,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "material",
+   "ini": 79754,
+   "fin": 79769,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 79771,
+   "fin": 79782,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "75 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 79771,
+   "fin": 79773,
+   "texto": "75"
+  },
+  {
+   "tipo": "width",
+   "ini": 79776,
+   "fin": 79779,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 79784,
+   "fin": 79837
+  },
+  {
+   "tipo": "img",
+   "ini": 79784,
+   "fin": 79789,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 79791,
+   "fin": 79837,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título, 2007\nAcrílico / tela, 200 x 200 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 79791,
+   "fin": 79801,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 79803,
+   "fin": 79807,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "material",
+   "ini": 79808,
+   "fin": 79823,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 79825,
+   "fin": 79837,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 200 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 79825,
+   "fin": 79828,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 79831,
+   "fin": 79834,
+   "texto": "200"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 79839,
+   "fin": 79892
+  },
+  {
+   "tipo": "img",
+   "ini": 79839,
+   "fin": 79844,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 79846,
+   "fin": 79892,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título, 2007\nAcrílico / tela, 200 x 200 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 79846,
+   "fin": 79856,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 79858,
+   "fin": 79862,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "material",
+   "ini": 79863,
+   "fin": 79878,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 79880,
+   "fin": 79892,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 200 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 79880,
+   "fin": 79883,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 79886,
+   "fin": 79889,
+   "texto": "200"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 79894,
+   "fin": 79947
+  },
+  {
+   "tipo": "img",
+   "ini": 79894,
+   "fin": 79899,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 79901,
+   "fin": 79947,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título, 2007\nAcrílico / tela, 200 x 300 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 79901,
+   "fin": 79911,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 79913,
+   "fin": 79917,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "material",
+   "ini": 79918,
+   "fin": 79933,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 79935,
+   "fin": 79947,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 300 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 79935,
+   "fin": 79938,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 79941,
+   "fin": 79944,
+   "texto": "300"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 79949,
+   "fin": 80000
+  },
+  {
+   "tipo": "img",
+   "ini": 79949,
+   "fin": 79954,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 79956,
+   "fin": 80000,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título, 2012\nAcrílico / tela, 60 x 90 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 79956,
+   "fin": 79966,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 79968,
+   "fin": 79972,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "material",
+   "ini": 79973,
+   "fin": 79988,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 79990,
+   "fin": 80000,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 90 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 79990,
+   "fin": 79992,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 79995,
+   "fin": 79997,
+   "texto": "90"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 80002,
+   "fin": 80051
+  },
+  {
+   "tipo": "img",
+   "ini": 80002,
+   "fin": 80007,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 80009,
+   "fin": 80051,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título, 2015\nÓleo / madera, 62 x 43 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 80009,
+   "fin": 80019,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 80021,
+   "fin": 80025,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "material",
+   "ini": 80026,
+   "fin": 80039,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 80041,
+   "fin": 80051,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "62 x 43 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 80041,
+   "fin": 80043,
+   "texto": "62"
+  },
+  {
+   "tipo": "width",
+   "ini": 80046,
+   "fin": 80048,
+   "texto": "43"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 80053,
+   "fin": 80102
+  },
+  {
+   "tipo": "img",
+   "ini": 80053,
+   "fin": 80058,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 80060,
+   "fin": 80102,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título, 2015\nÓleo / madera, 65 x 44 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 80060,
+   "fin": 80070,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 80072,
+   "fin": 80076,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "material",
+   "ini": 80077,
+   "fin": 80090,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 80092,
+   "fin": 80102,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 44 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 80092,
+   "fin": 80094,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 80097,
+   "fin": 80099,
+   "texto": "44"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 80104,
+   "fin": 80154
+  },
+  {
+   "tipo": "img",
+   "ini": 80104,
+   "fin": 80109,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 80111,
+   "fin": 80154,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título, 2015\nÓleo / madera, 120 x 65 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 80111,
+   "fin": 80121,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 80123,
+   "fin": 80127,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "material",
+   "ini": 80128,
+   "fin": 80141,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 80143,
+   "fin": 80154,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "120 x 65 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 80143,
+   "fin": 80146,
+   "texto": "120"
+  },
+  {
+   "tipo": "width",
+   "ini": 80149,
+   "fin": 80151,
+   "texto": "65"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 80156,
+   "fin": 80209
+  },
+  {
+   "tipo": "img",
+   "ini": 80156,
+   "fin": 80161,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 80163,
+   "fin": 80209,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título, 2016\nAcrílico / tela, 130 x 170 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 80163,
+   "fin": 80173,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 80175,
+   "fin": 80179,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "material",
+   "ini": 80180,
+   "fin": 80195,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 80197,
+   "fin": 80209,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 170 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 80197,
+   "fin": 80200,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 80203,
+   "fin": 80206,
+   "texto": "170"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 80211,
+   "fin": 80264
+  },
+  {
+   "tipo": "img",
+   "ini": 80211,
+   "fin": 80216,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 80218,
+   "fin": 80264,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título, 2006\nAcrílico / tela, 180 x 160 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 80218,
+   "fin": 80228,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 80230,
+   "fin": 80234,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "material",
+   "ini": 80235,
+   "fin": 80250,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 80252,
+   "fin": 80264,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "180 x 160 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 80252,
+   "fin": 80255,
+   "texto": "180"
+  },
+  {
+   "tipo": "width",
+   "ini": 80258,
+   "fin": 80261,
+   "texto": "160"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 80266,
+   "fin": 80321
+  },
+  {
+   "tipo": "img",
+   "ini": 80266,
+   "fin": 80271,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 80273,
+   "fin": 80321,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título, 2008\nAcrílico / madera, 180 x 180 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 80273,
+   "fin": 80283,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 80285,
+   "fin": 80289,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "material",
+   "ini": 80290,
+   "fin": 80307,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico / madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 80309,
+   "fin": 80321,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "180 x 180 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 80309,
+   "fin": 80312,
+   "texto": "180"
+  },
+  {
+   "tipo": "width",
+   "ini": 80315,
+   "fin": 80318,
+   "texto": "180"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 80323,
+   "fin": 80376
+  },
+  {
+   "tipo": "img",
+   "ini": 80323,
+   "fin": 80328,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 80330,
+   "fin": 80376,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título, 2017\nAcrílico / tela, 210 x 220 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 80330,
+   "fin": 80340,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 80342,
+   "fin": 80346,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "material",
+   "ini": 80347,
+   "fin": 80362,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 80364,
+   "fin": 80376,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "210 x 220 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 80364,
+   "fin": 80367,
+   "texto": "210"
+  },
+  {
+   "tipo": "width",
+   "ini": 80370,
+   "fin": 80373,
+   "texto": "220"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 80378,
+   "fin": 80427
+  },
+  {
+   "tipo": "img",
+   "ini": 80378,
+   "fin": 80383,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 80385,
+   "fin": 80427,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título, 2014\nÓleo / madera, 83 x 67 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 80385,
+   "fin": 80395,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 80397,
+   "fin": 80401,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "material",
+   "ini": 80402,
+   "fin": 80415,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo / madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 80417,
+   "fin": 80427,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "83 x 67 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 80417,
+   "fin": 80419,
+   "texto": "83"
+  },
+  {
+   "tipo": "width",
+   "ini": 80422,
+   "fin": 80424,
+   "texto": "67"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 80429,
+   "fin": 80482
+  },
+  {
+   "tipo": "img",
+   "ini": 80429,
+   "fin": 80434,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 80436,
+   "fin": 80482,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título, 2012\nAcrílico / tela, 200 x 300 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 80436,
+   "fin": 80446,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 80448,
+   "fin": 80452,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "material",
+   "ini": 80453,
+   "fin": 80468,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 80470,
+   "fin": 80482,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 300 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 80470,
+   "fin": 80473,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 80476,
+   "fin": 80479,
+   "texto": "300"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 80484,
+   "fin": 80530
+  },
+  {
+   "tipo": "img",
+   "ini": 80484,
+   "fin": 80489,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 80491,
+   "fin": 80530,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título\nAcrílico / tabla, 30 x 30 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 80491,
+   "fin": 80501,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "material",
+   "ini": 80502,
+   "fin": 80518,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico / tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 80520,
+   "fin": 80530,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 80520,
+   "fin": 80522,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 80525,
+   "fin": 80527,
+   "texto": "30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 80532,
+   "fin": 80583
+  },
+  {
+   "tipo": "img",
+   "ini": 80532,
+   "fin": 80537,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 80539,
+   "fin": 80583,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título, 2013\nAcrílico / tela, 57 x 48 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 80539,
+   "fin": 80549,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 80551,
+   "fin": 80555,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "material",
+   "ini": 80556,
+   "fin": 80571,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico / tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 80573,
+   "fin": 80583,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "57 x 48 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 80573,
+   "fin": 80575,
+   "texto": "57"
+  },
+  {
+   "tipo": "width",
+   "ini": 80578,
+   "fin": 80580,
+   "texto": "48"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 80585,
+   "fin": 80642
+  },
+  {
+   "tipo": "img",
+   "ini": 80585,
+   "fin": 80590,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 80592,
+   "fin": 80642,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título, 2014\nAcrílico / madera, 49,5 x 60,5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 80592,
+   "fin": 80602,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 80604,
+   "fin": 80608,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "material",
+   "ini": 80609,
+   "fin": 80626,
+   "rasgos": {
+    "type": "acrylic, wood"
+   },
+   "texto": "Acrílico / madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 80628,
+   "fin": 80642,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "49,5 x 60,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 80628,
+   "fin": 80632,
+   "texto": "49,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 80635,
+   "fin": 80639,
+   "texto": "60,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 80644,
+   "fin": 80714
+  },
+  {
+   "tipo": "img",
+   "ini": 80644,
+   "fin": 80649,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 80651,
+   "fin": 80714,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título, 2016\nAcrílico / caja de cubiertos, 4 x 37 x 25,5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 80651,
+   "fin": 80661,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 80663,
+   "fin": 80667,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "material",
+   "ini": 80668,
+   "fin": 80696,
+   "rasgos": {
+    "type": "acrylic, cutleryBox"
+   },
+   "texto": "Acrílico / caja de cubiertos"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 80698,
+   "fin": 80714,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "4 x 37 x 25,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 80698,
+   "fin": 80699,
+   "texto": "4"
+  },
+  {
+   "tipo": "width",
+   "ini": 80702,
+   "fin": 80704,
+   "texto": "37"
+  },
+  {
+   "tipo": "depth",
+   "ini": 80707,
+   "fin": 80711,
+   "texto": "25,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 80716,
+   "fin": 80790
+  },
+  {
+   "tipo": "img",
+   "ini": 80716,
+   "fin": 80721,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 80723,
+   "fin": 80790,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título, 2014\nAcrílico / caja de cuchillos, 2,5 x 19,8 x 15,5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 80723,
+   "fin": 80733,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 80735,
+   "fin": 80739,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "material",
+   "ini": 80740,
+   "fin": 80768,
+   "rasgos": {
+    "type": "acrylic, knifeBox"
+   },
+   "texto": "Acrílico / caja de cuchillos"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 80770,
+   "fin": 80790,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "2,5 x 19,8 x 15,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 80770,
+   "fin": 80773,
+   "texto": "2,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 80776,
+   "fin": 80780,
+   "texto": "19,8"
+  },
+  {
+   "tipo": "depth",
+   "ini": 80783,
+   "fin": 80787,
+   "texto": "15,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 80792,
+   "fin": 80860
+  },
+  {
+   "tipo": "img",
+   "ini": 80792,
+   "fin": 80797,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 80799,
+   "fin": 80860,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título, 2015\nAcrílico / caja de cubiertos, 3 x 27 x 20 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 80799,
+   "fin": 80809,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 80811,
+   "fin": 80815,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "material",
+   "ini": 80816,
+   "fin": 80844,
+   "rasgos": {
+    "type": "acrylic, cutleryBox"
+   },
+   "texto": "Acrílico / caja de cubiertos"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 80846,
+   "fin": 80860,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "3 x 27 x 20 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 80846,
+   "fin": 80847,
+   "texto": "3"
+  },
+  {
+   "tipo": "width",
+   "ini": 80850,
+   "fin": 80852,
+   "texto": "27"
+  },
+  {
+   "tipo": "depth",
+   "ini": 80855,
+   "fin": 80857,
+   "texto": "20"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 80862,
+   "fin": 80936
+  },
+  {
+   "tipo": "img",
+   "ini": 80862,
+   "fin": 80867,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 80869,
+   "fin": 80936,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título, 2016\nAcrílico / caja de cuchillos, 4,5 x 27,5 x 17,5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 80869,
+   "fin": 80879,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 80881,
+   "fin": 80885,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "material",
+   "ini": 80886,
+   "fin": 80914,
+   "rasgos": {
+    "type": "acrylic, knifeBox"
+   },
+   "texto": "Acrílico / caja de cuchillos"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 80916,
+   "fin": 80936,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "4,5 x 27,5 x 17,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 80916,
+   "fin": 80919,
+   "texto": "4,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 80922,
+   "fin": 80926,
+   "texto": "27,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 80929,
+   "fin": 80933,
+   "texto": "17,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 80938,
+   "fin": 81006
+  },
+  {
+   "tipo": "img",
+   "ini": 80938,
+   "fin": 80943,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 80945,
+   "fin": 81006,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título, 2015\nAcrílico / caja de cuchillos, 3 x 26 x 20 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 80945,
+   "fin": 80955,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 80957,
+   "fin": 80961,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "material",
+   "ini": 80962,
+   "fin": 80990,
+   "rasgos": {
+    "type": "acrylic, knifeBox"
+   },
+   "texto": "Acrílico / caja de cuchillos"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 80992,
+   "fin": 81006,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "3 x 26 x 20 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 80992,
+   "fin": 80993,
+   "texto": "3"
+  },
+  {
+   "tipo": "width",
+   "ini": 80996,
+   "fin": 80998,
+   "texto": "26"
+  },
+  {
+   "tipo": "depth",
+   "ini": 81001,
+   "fin": 81003,
+   "texto": "20"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 81008,
+   "fin": 81079
+  },
+  {
+   "tipo": "img",
+   "ini": 81008,
+   "fin": 81013,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 81015,
+   "fin": 81079,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título, 2014\nAcrílico / caja de cubiertos, 4 x 17,5 x 9,5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 81015,
+   "fin": 81025,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 81027,
+   "fin": 81031,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "material",
+   "ini": 81032,
+   "fin": 81060,
+   "rasgos": {
+    "type": "acrylic, cutleryBox"
+   },
+   "texto": "Acrílico / caja de cubiertos"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 81062,
+   "fin": 81079,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "4 x 17,5 x 9,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 81062,
+   "fin": 81063,
+   "texto": "4"
+  },
+  {
+   "tipo": "width",
+   "ini": 81066,
+   "fin": 81070,
+   "texto": "17,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 81073,
+   "fin": 81076,
+   "texto": "9,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 81081,
+   "fin": 81150
+  },
+  {
+   "tipo": "img",
+   "ini": 81081,
+   "fin": 81086,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 81088,
+   "fin": 81150,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título, 2013\nAcrílico / caja de cucharas, 3,5 x 16 x 15 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 81088,
+   "fin": 81098,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 81100,
+   "fin": 81104,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "material",
+   "ini": 81105,
+   "fin": 81132,
+   "rasgos": {
+    "type": "acrylic, spoonBox"
+   },
+   "texto": "Acrílico / caja de cucharas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 81134,
+   "fin": 81150,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "3,5 x 16 x 15 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 81134,
+   "fin": 81137,
+   "texto": "3,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 81140,
+   "fin": 81142,
+   "texto": "16"
+  },
+  {
+   "tipo": "person",
+   "ini": 81165,
+   "fin": 81203,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "SANTIAGO YDÁÑEZ\nPuente de Génave, 1967"
+  },
+  {
+   "tipo": "persName",
+   "ini": 81165,
+   "fin": 81180,
+   "texto": "SANTIAGO YDÁÑEZ"
+  },
+  {
+   "tipo": "birth",
+   "ini": 81181,
+   "fin": 81203
+  },
+  {
+   "tipo": "placeName",
+   "ini": 81181,
+   "fin": 81197,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Puente de Génave"
+  },
+  {
+   "tipo": "date",
+   "ini": 81199,
+   "fin": 81203,
+   "rasgos": {
+    "when": "1967"
+   },
+   "texto": "1967"
+  }
+ ]
+}

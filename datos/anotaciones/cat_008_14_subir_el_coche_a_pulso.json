@@ -1,0 +1,1827 @@
+{
+ "id": "cat_008_14_subir_el_coche_a_pulso",
+ "nombre_original": "14. SUBIR EL COCHE A PULSO",
+ "longitud_texto": 13369,
+ "sha256_texto": "f65bf995e15c23d66c206534f1b88e5c246342955fbd15ef8021e63d69f68223",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 42,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 22,
+   "texto": "Subir el coche a pulso"
+  },
+  {
+   "tipo": "person",
+   "ini": 23,
+   "fin": 42,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Carlos Naranjo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23,
+   "fin": 42,
+   "texto": "José Carlos Naranjo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 46,
+   "fin": 89,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 46,
+   "fin": 68,
+   "texto": "Subir el coche a pulso"
+  },
+  {
+   "tipo": "person",
+   "ini": 70,
+   "fin": 89,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Carlos Naranjo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 70,
+   "fin": 89,
+   "texto": "José Carlos Naranjo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 91,
+   "fin": 198,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 91,
+   "fin": 113,
+   "texto": "Subir el coche a pulso"
+  },
+  {
+   "tipo": "person",
+   "ini": 114,
+   "fin": 133,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Carlos Naranjo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 114,
+   "fin": 133,
+   "texto": "José Carlos Naranjo"
+  },
+  {
+   "tipo": "date",
+   "ini": 135,
+   "fin": 172,
+   "rasgos": {
+    "from": "2020-09-24",
+    "to": "2020-10-27"
+   },
+   "texto": "24 de septiembre - 27 de octubre 2020"
+  },
+  {
+   "tipo": "institution",
+   "ini": 173,
+   "fin": 189,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería Birimbao"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 191,
+   "fin": 198,
+   "rasgos": {
+    "type": "poiblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 201,
+   "fin": 650,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 221,
+   "fin": 243,
+   "texto": "Subir el coche a pulso"
+  },
+  {
+   "tipo": "person",
+   "ini": 251,
+   "fin": 270,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Carlos Naranjo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 251,
+   "fin": 270,
+   "texto": "José Carlos Naranjo"
+  },
+  {
+   "tipo": "person",
+   "ini": 280,
+   "fin": 294,
+   "rasgos": {
+    "role": "assembly"
+   },
+   "texto": "Miguel Romero "
+  },
+  {
+   "tipo": "persName",
+   "ini": 280,
+   "fin": 294,
+   "texto": "Miguel Romero "
+  },
+  {
+   "tipo": "person",
+   "ini": 295,
+   "fin": 309,
+   "rasgos": {
+    "role": "assembly"
+   },
+   "texto": "Alberto Hevia "
+  },
+  {
+   "tipo": "persName",
+   "ini": 295,
+   "fin": 309,
+   "texto": "Alberto Hevia "
+  },
+  {
+   "tipo": "person",
+   "ini": 310,
+   "fin": 324,
+   "rasgos": {
+    "role": "assembly"
+   },
+   "texto": "Mercedes Muros"
+  },
+  {
+   "tipo": "persName",
+   "ini": 310,
+   "fin": 324,
+   "texto": "Mercedes Muros"
+  },
+  {
+   "tipo": "institution",
+   "ini": 342,
+   "fin": 358,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería Birimbao"
+  },
+  {
+   "tipo": "person",
+   "ini": 369,
+   "fin": 388,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Carlos Naranjo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 369,
+   "fin": 388,
+   "texto": "José Carlos Naranjo"
+  },
+  {
+   "tipo": "person",
+   "ini": 414,
+   "fin": 427,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Juan Sánchez "
+  },
+  {
+   "tipo": "persName",
+   "ini": 414,
+   "fin": 427,
+   "texto": "Juan Sánchez "
+  },
+  {
+   "tipo": "person",
+   "ini": 428,
+   "fin": 441,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Alberto Hevia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 428,
+   "fin": 441,
+   "texto": "Alberto Hevia"
+  },
+  {
+   "tipo": "person",
+   "ini": 464,
+   "fin": 479,
+   "rasgos": {
+    "role": "layout"
+   },
+   "texto": "Liberto Romero "
+  },
+  {
+   "tipo": "persName",
+   "ini": 464,
+   "fin": 478,
+   "texto": "Liberto Romero"
+  },
+  {
+   "tipo": "person",
+   "ini": 480,
+   "fin": 499,
+   "rasgos": {
+    "role": "layout"
+   },
+   "texto": "José Carlos Naranjo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 480,
+   "fin": 499,
+   "texto": "José Carlos Naranjo"
+  },
+  {
+   "tipo": "person",
+   "ini": 513,
+   "fin": 528,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Liberto Romero "
+  },
+  {
+   "tipo": "persName",
+   "ini": 513,
+   "fin": 528,
+   "texto": "Liberto Romero "
+  },
+  {
+   "tipo": "person",
+   "ini": 529,
+   "fin": 548,
+   "rasgos": {
+    "role": "photograph"
+   },
+   "texto": "José Carlos Naranjo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 529,
+   "fin": 548,
+   "texto": "José Carlos Naranjo"
+  },
+  {
+   "tipo": "person",
+   "ini": 593,
+   "fin": 605,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Juan Sánchez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 593,
+   "fin": 605,
+   "texto": "Juan Sánchez"
+  },
+  {
+   "tipo": "person",
+   "ini": 608,
+   "fin": 627,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Carlos Naranjo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 608,
+   "fin": 627,
+   "texto": "José Carlos Naranjo"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 628,
+   "fin": 635,
+   "rasgos": {
+    "type": "poiblation"
+   },
+   "texto": "Londres"
+  },
+  {
+   "tipo": "date",
+   "ini": 637,
+   "fin": 650,
+   "rasgos": {
+    "from": "2020-06-01",
+    "to": "2020-06-30"
+   },
+   "texto": "Junio de 2020"
+  },
+  {
+   "tipo": "person",
+   "ini": 653,
+   "fin": 672,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Carlos Naranjo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 653,
+   "fin": 672,
+   "texto": "José Carlos Naranjo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 982,
+   "fin": 994,
+   "texto": "Juan Sánchez"
+  },
+  {
+   "tipo": "title",
+   "ini": 4218,
+   "fin": 4240,
+   "texto": "Subir el coche a pulso"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4270,
+   "fin": 4278,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Birimbao"
+  },
+  {
+   "tipo": "person",
+   "ini": 4313,
+   "fin": 4332,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Carlos Naranjo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4313,
+   "fin": 4332,
+   "texto": "José Carlos Naranjo"
+  },
+  {
+   "tipo": "person",
+   "ini": 4845,
+   "fin": 4856,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Carlos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4845,
+   "fin": 4856,
+   "texto": "José Carlos"
+  },
+  {
+   "tipo": "title",
+   "ini": 5156,
+   "fin": 5178,
+   "texto": "Subir el coche a pulso"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 5156,
+   "fin": 5178,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 7699,
+   "fin": 8926
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7699,
+   "fin": 7763
+  },
+  {
+   "tipo": "img",
+   "ini": 7699,
+   "fin": 7704,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7706,
+   "fin": 7763,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Regent’s Canal Towpath, 2020\nÓleo sobre papel, 76 x 56 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 7706,
+   "fin": 7728,
+   "texto": "Regent’s Canal Towpath"
+  },
+  {
+   "tipo": "date",
+   "ini": 7730,
+   "fin": 7734,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7735,
+   "fin": 7751,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7753,
+   "fin": 7763,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "76 x 56 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7753,
+   "fin": 7755,
+   "texto": "76"
+  },
+  {
+   "tipo": "width",
+   "ini": 7758,
+   "fin": 7760,
+   "texto": "56"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7765,
+   "fin": 7826
+  },
+  {
+   "tipo": "img",
+   "ini": 7765,
+   "fin": 7770,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7772,
+   "fin": 7826,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Bagley walk, 2020\nÓleo y lápiz sobre papel, 76 x 56 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 7772,
+   "fin": 7783,
+   "texto": "Bagley walk"
+  },
+  {
+   "tipo": "date",
+   "ini": 7785,
+   "fin": 7789,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7790,
+   "fin": 7814,
+   "rasgos": {
+    "type": "oil, pencil"
+   },
+   "texto": "Óleo y lápiz sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7816,
+   "fin": 7826,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "76 x 56 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7816,
+   "fin": 7818,
+   "texto": "76"
+  },
+  {
+   "tipo": "width",
+   "ini": 7821,
+   "fin": 7823,
+   "texto": "56"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7828,
+   "fin": 7884
+  },
+  {
+   "tipo": "img",
+   "ini": 7828,
+   "fin": 7833,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7835,
+   "fin": 7884,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Camden, 2020\nÓleo y lápiz sobre papel, 76 x 56 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 7835,
+   "fin": 7841,
+   "texto": "Camden"
+  },
+  {
+   "tipo": "date",
+   "ini": 7843,
+   "fin": 7847,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7848,
+   "fin": 7872,
+   "rasgos": {
+    "type": "oil, pencil"
+   },
+   "texto": "Óleo y lápiz sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7874,
+   "fin": 7884,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "76 x 56 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7874,
+   "fin": 7876,
+   "texto": "76"
+  },
+  {
+   "tipo": "width",
+   "ini": 7879,
+   "fin": 7881,
+   "texto": "56"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7886,
+   "fin": 7941
+  },
+  {
+   "tipo": "img",
+   "ini": 7886,
+   "fin": 7891,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7893,
+   "fin": 7941,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Regent Canal, 2020\nÓleo sobre papel, 130 x 95 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 7893,
+   "fin": 7905,
+   "texto": "Regent Canal"
+  },
+  {
+   "tipo": "date",
+   "ini": 7907,
+   "fin": 7911,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7912,
+   "fin": 7928,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7930,
+   "fin": 7941,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 95 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7930,
+   "fin": 7933,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 7936,
+   "fin": 7938,
+   "texto": "95"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7943,
+   "fin": 8006
+  },
+  {
+   "tipo": "img",
+   "ini": 7943,
+   "fin": 7948,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7950,
+   "fin": 8006,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "King's Cross, 2020\nÓleo y lápiz sobre papel, 130 x 90 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 7950,
+   "fin": 7962,
+   "texto": "King's Cross"
+  },
+  {
+   "tipo": "date",
+   "ini": 7964,
+   "fin": 7968,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7969,
+   "fin": 7993,
+   "rasgos": {
+    "type": "oil, pencil"
+   },
+   "texto": "Óleo y lápiz sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7995,
+   "fin": 8006,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 90 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7995,
+   "fin": 7998,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 8001,
+   "fin": 8003,
+   "texto": "90"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8008,
+   "fin": 8074
+  },
+  {
+   "tipo": "img",
+   "ini": 8008,
+   "fin": 8013,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8015,
+   "fin": 8074,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Kingsland Basin, 2020\nÓleo y lápiz sobre papel, 130 x 90 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8015,
+   "fin": 8030,
+   "texto": "Kingsland Basin"
+  },
+  {
+   "tipo": "date",
+   "ini": 8032,
+   "fin": 8036,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8037,
+   "fin": 8061,
+   "rasgos": {
+    "type": "print, oil"
+   },
+   "texto": "Óleo y lápiz sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8063,
+   "fin": 8074,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 90 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8063,
+   "fin": 8066,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 8069,
+   "fin": 8071,
+   "texto": "90"
+  },
+  {
+   "tipo": "img",
+   "ini": 8076,
+   "fin": 8081,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8083,
+   "fin": 8173
+  },
+  {
+   "tipo": "img",
+   "ini": 8083,
+   "fin": 8088,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8090,
+   "fin": 8173,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "City road basin, 2020\nImprimación alquídica, óleo y lápiz sobre papel, 182 x 140 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8090,
+   "fin": 8105,
+   "texto": "City road basin"
+  },
+  {
+   "tipo": "date",
+   "ini": 8107,
+   "fin": 8111,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8112,
+   "fin": 8159,
+   "rasgos": {
+    "type": "print, oil"
+   },
+   "texto": "Imprimación alquídica, óleo y lápiz sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8161,
+   "fin": 8173,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "182 x 140 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8161,
+   "fin": 8164,
+   "texto": "182"
+  },
+  {
+   "tipo": "width",
+   "ini": 8167,
+   "fin": 8170,
+   "texto": "140"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8175,
+   "fin": 8263
+  },
+  {
+   "tipo": "img",
+   "ini": 8175,
+   "fin": 8180,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8182,
+   "fin": 8263,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Victoria Park, 2020\nImprimación alquídica, óleo y lápiz sobre papel, 182 x 140 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8182,
+   "fin": 8195,
+   "texto": "Victoria Park"
+  },
+  {
+   "tipo": "date",
+   "ini": 8197,
+   "fin": 8201,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8202,
+   "fin": 8249,
+   "rasgos": {
+    "type": "print, oil"
+   },
+   "texto": "Imprimación alquídica, óleo y lápiz sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8251,
+   "fin": 8263,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "182 x 140 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8251,
+   "fin": 8254,
+   "texto": "182"
+  },
+  {
+   "tipo": "width",
+   "ini": 8257,
+   "fin": 8260,
+   "texto": "140"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8265,
+   "fin": 8341
+  },
+  {
+   "tipo": "img",
+   "ini": 8265,
+   "fin": 8270,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8272,
+   "fin": 8341,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Stratford, 2020\nImprimación alquídica, óleo sobre papel, 182 x 140 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8272,
+   "fin": 8281,
+   "texto": "Stratford"
+  },
+  {
+   "tipo": "date",
+   "ini": 8283,
+   "fin": 8287,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8288,
+   "fin": 8327,
+   "rasgos": {
+    "type": "print, oil"
+   },
+   "texto": "Imprimación alquídica, óleo sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8329,
+   "fin": 8341,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "182 x 140 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8329,
+   "fin": 8332,
+   "texto": "182"
+  },
+  {
+   "tipo": "width",
+   "ini": 8335,
+   "fin": 8338,
+   "texto": "140"
+  },
+  {
+   "tipo": "img",
+   "ini": 8343,
+   "fin": 8348,
+   "rasgos": {
+    "true": "",
+    "size": "extralarge",
+    "color": "",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 8349,
+   "fin": 8354,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8357,
+   "fin": 8416
+  },
+  {
+   "tipo": "img",
+   "ini": 8357,
+   "fin": 8362,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8364,
+   "fin": 8416,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Canal I, 2020\nÓleo y lápiz sobre papel, 240 x 180 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8364,
+   "fin": 8371,
+   "texto": "Canal I"
+  },
+  {
+   "tipo": "date",
+   "ini": 8373,
+   "fin": 8377,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8378,
+   "fin": 8402,
+   "rasgos": {
+    "type": "oil, pencil"
+   },
+   "texto": "Óleo y lápiz sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8404,
+   "fin": 8416,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "240 x 180 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8404,
+   "fin": 8407,
+   "texto": "240"
+  },
+  {
+   "tipo": "width",
+   "ini": 8410,
+   "fin": 8413,
+   "texto": "180"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8418,
+   "fin": 8470
+  },
+  {
+   "tipo": "img",
+   "ini": 8418,
+   "fin": 8423,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8425,
+   "fin": 8470,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Canal II, 2020\nÓleo sobre papel, 240 x 180 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8425,
+   "fin": 8433,
+   "texto": "Canal II"
+  },
+  {
+   "tipo": "date",
+   "ini": 8435,
+   "fin": 8439,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8440,
+   "fin": 8456,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8458,
+   "fin": 8470,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "240 x 180 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8458,
+   "fin": 8461,
+   "texto": "240"
+  },
+  {
+   "tipo": "width",
+   "ini": 8464,
+   "fin": 8467,
+   "texto": "180"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8472,
+   "fin": 8546
+  },
+  {
+   "tipo": "img",
+   "ini": 8472,
+   "fin": 8477,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8479,
+   "fin": 8546,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ST, 2020\nÓleo sobre papel y collage grapado a tabla, 21 x 15 x 1 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8479,
+   "fin": 8481,
+   "texto": "ST"
+  },
+  {
+   "tipo": "date",
+   "ini": 8483,
+   "fin": 8487,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8488,
+   "fin": 8530,
+   "rasgos": {
+    "type": "oil, collage"
+   },
+   "texto": "Óleo sobre papel y collage grapado a tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8532,
+   "fin": 8546,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "21 x 15 x 1 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8532,
+   "fin": 8534,
+   "texto": "21"
+  },
+  {
+   "tipo": "width",
+   "ini": 8537,
+   "fin": 8539,
+   "texto": "15"
+  },
+  {
+   "tipo": "depth",
+   "ini": 8542,
+   "fin": 8543,
+   "texto": "1"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8548,
+   "fin": 8622
+  },
+  {
+   "tipo": "img",
+   "ini": 8548,
+   "fin": 8553,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8555,
+   "fin": 8622,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ST, 2020\nÓleo sobre papel y collage grapado a tabla, 21 x 15 x 1 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8555,
+   "fin": 8557,
+   "texto": "ST"
+  },
+  {
+   "tipo": "date",
+   "ini": 8559,
+   "fin": 8563,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8564,
+   "fin": 8606,
+   "rasgos": {
+    "type": "oil, collage"
+   },
+   "texto": "Óleo sobre papel y collage grapado a tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8608,
+   "fin": 8622,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "21 x 15 x 1 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8608,
+   "fin": 8610,
+   "texto": "21"
+  },
+  {
+   "tipo": "width",
+   "ini": 8613,
+   "fin": 8615,
+   "texto": "15"
+  },
+  {
+   "tipo": "depth",
+   "ini": 8618,
+   "fin": 8619,
+   "texto": "1"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8624,
+   "fin": 8698
+  },
+  {
+   "tipo": "img",
+   "ini": 8624,
+   "fin": 8629,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8631,
+   "fin": 8698,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ST, 2020\nÓleo sobre papel y collage grapado a tabla, 21 x 15 x 1 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8631,
+   "fin": 8633,
+   "texto": "ST"
+  },
+  {
+   "tipo": "date",
+   "ini": 8635,
+   "fin": 8639,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8640,
+   "fin": 8682,
+   "rasgos": {
+    "type": "oil, collage"
+   },
+   "texto": "Óleo sobre papel y collage grapado a tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8684,
+   "fin": 8698,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "21 x 15 x 1 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8684,
+   "fin": 8686,
+   "texto": "21"
+  },
+  {
+   "tipo": "width",
+   "ini": 8689,
+   "fin": 8691,
+   "texto": "15"
+  },
+  {
+   "tipo": "depth",
+   "ini": 8694,
+   "fin": 8695,
+   "texto": "1"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8700,
+   "fin": 8774
+  },
+  {
+   "tipo": "img",
+   "ini": 8700,
+   "fin": 8705,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8707,
+   "fin": 8774,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ST, 2020\nÓleo sobre papel y collage grapado a tabla, 21 x 15 x 1 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8707,
+   "fin": 8709,
+   "texto": "ST"
+  },
+  {
+   "tipo": "date",
+   "ini": 8711,
+   "fin": 8715,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8716,
+   "fin": 8758,
+   "rasgos": {
+    "type": "oil, collage"
+   },
+   "texto": "Óleo sobre papel y collage grapado a tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8760,
+   "fin": 8774,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "21 x 15 x 1 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8760,
+   "fin": 8762,
+   "texto": "21"
+  },
+  {
+   "tipo": "width",
+   "ini": 8765,
+   "fin": 8767,
+   "texto": "15"
+  },
+  {
+   "tipo": "depth",
+   "ini": 8770,
+   "fin": 8771,
+   "texto": "1"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8776,
+   "fin": 8850
+  },
+  {
+   "tipo": "img",
+   "ini": 8776,
+   "fin": 8781,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8783,
+   "fin": 8850,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ST, 2020\nÓleo sobre papel y collage grapado a tabla, 21 x 15 x 1 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8783,
+   "fin": 8785,
+   "texto": "ST"
+  },
+  {
+   "tipo": "date",
+   "ini": 8787,
+   "fin": 8791,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8792,
+   "fin": 8834,
+   "rasgos": {
+    "type": "oil, collage"
+   },
+   "texto": "Óleo sobre papel y collage grapado a tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8836,
+   "fin": 8850,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "21 x 15 x 1 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8836,
+   "fin": 8838,
+   "texto": "21"
+  },
+  {
+   "tipo": "width",
+   "ini": 8841,
+   "fin": 8843,
+   "texto": "15"
+  },
+  {
+   "tipo": "depth",
+   "ini": 8846,
+   "fin": 8847,
+   "texto": "1"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8852,
+   "fin": 8926
+  },
+  {
+   "tipo": "img",
+   "ini": 8852,
+   "fin": 8857,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8859,
+   "fin": 8926,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ST, 2020\nÓleo sobre papel y collage grapado a tabla, 21 x 15 x 1 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8859,
+   "fin": 8861,
+   "texto": "ST"
+  },
+  {
+   "tipo": "date",
+   "ini": 8863,
+   "fin": 8867,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8868,
+   "fin": 8910,
+   "rasgos": {
+    "type": "oil, collage"
+   },
+   "texto": "Óleo sobre papel y collage grapado a tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8912,
+   "fin": 8926,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "21 x 15 x 1 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8912,
+   "fin": 8914,
+   "texto": "21"
+  },
+  {
+   "tipo": "width",
+   "ini": 8917,
+   "fin": 8919,
+   "texto": "15"
+  },
+  {
+   "tipo": "depth",
+   "ini": 8922,
+   "fin": 8923,
+   "texto": "1"
+  },
+  {
+   "tipo": "person",
+   "ini": 8929,
+   "fin": 8973,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Carlos Naranjo\n1983 Villamartín (Cádiz)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8929,
+   "fin": 8948,
+   "texto": "José Carlos Naranjo"
+  },
+  {
+   "tipo": "birth",
+   "ini": 8949,
+   "fin": 8973
+  },
+  {
+   "tipo": "date",
+   "ini": 8949,
+   "fin": 8953,
+   "rasgos": {
+    "when": "1983"
+   },
+   "texto": "1983"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 8954,
+   "fin": 8973,
+   "rasgos": {
+    "type": "poiblation"
+   },
+   "texto": "Villamartín (Cádiz)"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 9201,
+   "fin": 9256,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 9201,
+   "fin": 9205,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "title",
+   "ini": 9206,
+   "fin": 9228,
+   "texto": "Subir el coche a pulso"
+  },
+  {
+   "tipo": "institution",
+   "ini": 9230,
+   "fin": 9246,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería Birimbao"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 9248,
+   "fin": 9255,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 13067,
+   "fin": 13367,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 13067,
+   "fin": 13190,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Birimbao\narte contemporáneo\n\nC/ Alcázares, 5 41003 Sevilla. Tlfno. 954 56 10 84\ngaleriabirimbao@gmail.com / www.birimbao.es"
+  },
+  {
+   "tipo": "address",
+   "ini": 13096,
+   "fin": 13125,
+   "texto": "C/ Alcázares, 5 41003 Sevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 13118,
+   "fin": 13125,
+   "rasgos": {
+    "type": "poiblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "institution",
+   "ini": 13311,
+   "fin": 13367,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Birimbao\narte contemporáneo\n\nCalle Alcázares, 5. Sevilla"
+  },
+  {
+   "tipo": "address",
+   "ini": 13340,
+   "fin": 13358,
+   "texto": "Calle Alcázares, 5"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 13360,
+   "fin": 13367,
+   "rasgos": {
+    "type": "poiblation"
+   },
+   "texto": "Sevilla"
+  }
+ ]
+}

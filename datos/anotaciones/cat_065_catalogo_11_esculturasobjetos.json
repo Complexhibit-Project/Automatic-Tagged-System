@@ -1,0 +1,2919 @@
+{
+ "id": "cat_065_catalogo_11_esculturasobjetos",
+ "nombre_original": "catalogo_11_esculturasobjetos",
+ "longitud_texto": 23761,
+ "sha256_texto": "61c5ea408855bc54f1dacee3c55ab8b09ffd4e2c33f577acc923f0c80f7a0e3f",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 220,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 33,
+   "texto": "VÍCTOR\nMIRA\n\nesculturas _ objetos"
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 11,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "VÍCTOR\nMIRA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 11,
+   "texto": "VÍCTOR\nMIRA"
+  },
+  {
+   "tipo": "title",
+   "ini": 35,
+   "fin": 67,
+   "texto": "VÍCTOR MIRA esculturas _ objetos"
+  },
+  {
+   "tipo": "person",
+   "ini": 35,
+   "fin": 46,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "VÍCTOR MIRA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35,
+   "fin": 46,
+   "texto": "VÍCTOR MIRA"
+  },
+  {
+   "tipo": "date",
+   "ini": 68,
+   "fin": 92,
+   "rasgos": {
+    "from": "2010-04-16",
+    "to": "2010-07-17"
+   },
+   "texto": "16 abril _ 17 julio 2010"
+  },
+  {
+   "tipo": "institution",
+   "ini": 94,
+   "fin": 118,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería Zaragoza Gráfica"
+  },
+  {
+   "tipo": "institution",
+   "ini": 120,
+   "fin": 139,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Espacio Víctor Mira"
+  },
+  {
+   "tipo": "person",
+   "ini": 128,
+   "fin": 139,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Víctor Mira"
+  },
+  {
+   "tipo": "persName",
+   "ini": 128,
+   "fin": 139,
+   "texto": "Víctor Mira"
+  },
+  {
+   "tipo": "address",
+   "ini": 141,
+   "fin": 181,
+   "texto": "DON JAIME I, 14 3º DCHA • 50001 ZARAGOZA"
+  },
+  {
+   "tipo": "address",
+   "ini": 173,
+   "fin": 181,
+   "texto": "ZARAGOZA"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 173,
+   "fin": 181,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "ZARAGOZA"
+  },
+  {
+   "tipo": "person",
+   "ini": 500,
+   "fin": 511,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Víctor Mira"
+  },
+  {
+   "tipo": "persName",
+   "ini": 500,
+   "fin": 511,
+   "texto": "Víctor Mira"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 513,
+   "fin": 522,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Barcelona"
+  },
+  {
+   "tipo": "date",
+   "ini": 524,
+   "fin": 535,
+   "rasgos": {
+    "from": "1995-08-01",
+    "to": "1995-08-31"
+   },
+   "texto": "agosto 1995"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 537,
+   "fin": 2749
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 537,
+   "fin": 599
+  },
+  {
+   "tipo": "img",
+   "ini": 537,
+   "fin": 542,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 544,
+   "fin": 599,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Crucifixión, 1992\nTécnica mixta / madera\n90 x 83 x 9 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 544,
+   "fin": 555,
+   "texto": "Crucifixión"
+  },
+  {
+   "tipo": "date",
+   "ini": 557,
+   "fin": 561,
+   "rasgos": {
+    "when": "1992"
+   },
+   "texto": "1992"
+  },
+  {
+   "tipo": "technique",
+   "ini": 562,
+   "fin": 575,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 578,
+   "fin": 584,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 585,
+   "fin": 599,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "90 x 83 x 9 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 585,
+   "fin": 587,
+   "texto": "90"
+  },
+  {
+   "tipo": "width",
+   "ini": 590,
+   "fin": 592,
+   "texto": "83"
+  },
+  {
+   "tipo": "depth",
+   "ini": 595,
+   "fin": 596,
+   "texto": "9"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 601,
+   "fin": 691
+  },
+  {
+   "tipo": "img",
+   "ini": 601,
+   "fin": 606,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 608,
+   "fin": 691,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "San Francisco Javier camino del Japón, 1990\nTécnica mixta / madera\n154 x 30 x 27 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 608,
+   "fin": 645,
+   "texto": "San Francisco Javier camino del Japón"
+  },
+  {
+   "tipo": "date",
+   "ini": 647,
+   "fin": 651,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "technique",
+   "ini": 652,
+   "fin": 665,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 668,
+   "fin": 674,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 675,
+   "fin": 691,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "154 x 30 x 27 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 675,
+   "fin": 678,
+   "texto": "154"
+  },
+  {
+   "tipo": "width",
+   "ini": 681,
+   "fin": 683,
+   "texto": "30"
+  },
+  {
+   "tipo": "depth",
+   "ini": 686,
+   "fin": 688,
+   "texto": "27"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 693,
+   "fin": 752
+  },
+  {
+   "tipo": "img",
+   "ini": 693,
+   "fin": 698,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 700,
+   "fin": 752,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Memoria, 1989\nTécnica mixta / madera\n50 x 75 x 50 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 700,
+   "fin": 707,
+   "texto": "Memoria"
+  },
+  {
+   "tipo": "date",
+   "ini": 709,
+   "fin": 713,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "technique",
+   "ini": 714,
+   "fin": 727,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 730,
+   "fin": 736,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 737,
+   "fin": 752,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 75 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 737,
+   "fin": 739,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 742,
+   "fin": 744,
+   "texto": "75"
+  },
+  {
+   "tipo": "depth",
+   "ini": 747,
+   "fin": 749,
+   "texto": "50"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 754,
+   "fin": 824
+  },
+  {
+   "tipo": "img",
+   "ini": 754,
+   "fin": 759,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 761,
+   "fin": 824,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Perros enjaulados, 1983\nTécnica mixta / madera\n125 x 70 x 25 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 761,
+   "fin": 778,
+   "texto": "Perros enjaulados"
+  },
+  {
+   "tipo": "date",
+   "ini": 780,
+   "fin": 784,
+   "rasgos": {
+    "when": "1983"
+   },
+   "texto": "1983"
+  },
+  {
+   "tipo": "technique",
+   "ini": 785,
+   "fin": 798,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 801,
+   "fin": 807,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 808,
+   "fin": 824,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "125 x 70 x 25 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 808,
+   "fin": 811,
+   "texto": "125"
+  },
+  {
+   "tipo": "width",
+   "ini": 814,
+   "fin": 816,
+   "texto": "70"
+  },
+  {
+   "tipo": "depth",
+   "ini": 819,
+   "fin": 821,
+   "texto": "25"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 826,
+   "fin": 889
+  },
+  {
+   "tipo": "img",
+   "ini": 826,
+   "fin": 831,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 833,
+   "fin": 889,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Long life, 1989\nTécnica mixta / madera\n109 x 115 x 26 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 833,
+   "fin": 842,
+   "texto": "Long life"
+  },
+  {
+   "tipo": "date",
+   "ini": 844,
+   "fin": 848,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "technique",
+   "ini": 849,
+   "fin": 862,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 865,
+   "fin": 871,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 872,
+   "fin": 889,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "109 x 115 x 26 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 872,
+   "fin": 875,
+   "texto": "109"
+  },
+  {
+   "tipo": "width",
+   "ini": 878,
+   "fin": 881,
+   "texto": "115"
+  },
+  {
+   "tipo": "depth",
+   "ini": 884,
+   "fin": 886,
+   "texto": "26"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 891,
+   "fin": 954
+  },
+  {
+   "tipo": "img",
+   "ini": 891,
+   "fin": 896,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 898,
+   "fin": 954,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Bachcantata, 1992\nTécnica mixta / madera\n154 x 30 x 5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 898,
+   "fin": 909,
+   "texto": "Bachcantata"
+  },
+  {
+   "tipo": "date",
+   "ini": 911,
+   "fin": 915,
+   "rasgos": {
+    "when": "1992"
+   },
+   "texto": "1992"
+  },
+  {
+   "tipo": "technique",
+   "ini": 916,
+   "fin": 929,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 932,
+   "fin": 938,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 939,
+   "fin": 954,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "154 x 30 x 5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 939,
+   "fin": 942,
+   "texto": "154"
+  },
+  {
+   "tipo": "width",
+   "ini": 945,
+   "fin": 947,
+   "texto": "30"
+  },
+  {
+   "tipo": "depth",
+   "ini": 950,
+   "fin": 951,
+   "texto": "5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 956,
+   "fin": 1036
+  },
+  {
+   "tipo": "img",
+   "ini": 956,
+   "fin": 961,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 963,
+   "fin": 1036,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Lluvia sobre la tierra herida, 1987\nTécnica mixta / madera\n69 x 37 x 6 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 963,
+   "fin": 992,
+   "texto": "Lluvia sobre la tierra herida"
+  },
+  {
+   "tipo": "date",
+   "ini": 994,
+   "fin": 998,
+   "rasgos": {
+    "when": "1987"
+   },
+   "texto": "1987"
+  },
+  {
+   "tipo": "technique",
+   "ini": 999,
+   "fin": 1012,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 1015,
+   "fin": 1021,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1022,
+   "fin": 1036,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "69 x 37 x 6 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1022,
+   "fin": 1024,
+   "texto": "69"
+  },
+  {
+   "tipo": "width",
+   "ini": 1027,
+   "fin": 1029,
+   "texto": "37"
+  },
+  {
+   "tipo": "depth",
+   "ini": 1032,
+   "fin": 1033,
+   "texto": "6"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1038,
+   "fin": 1101
+  },
+  {
+   "tipo": "img",
+   "ini": 1038,
+   "fin": 1043,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1045,
+   "fin": 1101,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Leche santa, 1988\nTécnica mixta / madera\n25 x 30 x 18 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 1045,
+   "fin": 1056,
+   "texto": "Leche santa"
+  },
+  {
+   "tipo": "date",
+   "ini": 1058,
+   "fin": 1062,
+   "rasgos": {
+    "when": "1988"
+   },
+   "texto": "1988"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1063,
+   "fin": 1076,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 1079,
+   "fin": 1085,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1086,
+   "fin": 1101,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "25 x 30 x 18 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1086,
+   "fin": 1088,
+   "texto": "25"
+  },
+  {
+   "tipo": "width",
+   "ini": 1091,
+   "fin": 1093,
+   "texto": "30"
+  },
+  {
+   "tipo": "depth",
+   "ini": 1096,
+   "fin": 1098,
+   "texto": "18"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1103,
+   "fin": 1163
+  },
+  {
+   "tipo": "img",
+   "ini": 1103,
+   "fin": 1108,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1110,
+   "fin": 1163,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Estilita, 1989\nTécnica mixta / madera\n41 x 45 x 38 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 1110,
+   "fin": 1118,
+   "texto": "Estilita"
+  },
+  {
+   "tipo": "date",
+   "ini": 1120,
+   "fin": 1124,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1125,
+   "fin": 1138,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 1141,
+   "fin": 1147,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1148,
+   "fin": 1163,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 45 x 38 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1148,
+   "fin": 1150,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 1153,
+   "fin": 1155,
+   "texto": "45"
+  },
+  {
+   "tipo": "depth",
+   "ini": 1158,
+   "fin": 1160,
+   "texto": "38"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1165,
+   "fin": 1219
+  },
+  {
+   "tipo": "img",
+   "ini": 1165,
+   "fin": 1170,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1172,
+   "fin": 1219,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Crucifixión, 1991\nTécnica mixta\n110 x 58 x 3 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 1172,
+   "fin": 1183,
+   "texto": "Crucifixión"
+  },
+  {
+   "tipo": "date",
+   "ini": 1185,
+   "fin": 1189,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1190,
+   "fin": 1203,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1204,
+   "fin": 1219,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "110 x 58 x 3 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1204,
+   "fin": 1207,
+   "texto": "110"
+  },
+  {
+   "tipo": "width",
+   "ini": 1210,
+   "fin": 1212,
+   "texto": "58"
+  },
+  {
+   "tipo": "depth",
+   "ini": 1215,
+   "fin": 1216,
+   "texto": "3"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1221,
+   "fin": 1283
+  },
+  {
+   "tipo": "img",
+   "ini": 1221,
+   "fin": 1226,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1228,
+   "fin": 1283,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Antihéroe, 1993\nTécnica mixta / madera\n77 x 59 x 4,5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 1228,
+   "fin": 1237,
+   "texto": "Antihéroe"
+  },
+  {
+   "tipo": "date",
+   "ini": 1239,
+   "fin": 1243,
+   "rasgos": {
+    "when": "1993"
+   },
+   "texto": "1993"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1244,
+   "fin": 1257,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 1260,
+   "fin": 1266,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1267,
+   "fin": 1283,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "77 x 59 x 4,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1267,
+   "fin": 1269,
+   "texto": "77"
+  },
+  {
+   "tipo": "width",
+   "ini": 1272,
+   "fin": 1274,
+   "texto": "59"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1285,
+   "fin": 1345
+  },
+  {
+   "tipo": "img",
+   "ini": 1285,
+   "fin": 1290,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1292,
+   "fin": 1345,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "A Aragón, 1992\nTécnica mixta / madera\n64 x 124 x 5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 1292,
+   "fin": 1300,
+   "texto": "A Aragón"
+  },
+  {
+   "tipo": "date",
+   "ini": 1302,
+   "fin": 1306,
+   "rasgos": {
+    "when": "1992"
+   },
+   "texto": "1992"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1307,
+   "fin": 1320,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 1323,
+   "fin": 1329,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1330,
+   "fin": 1345,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "64 x 124 x 5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1330,
+   "fin": 1332,
+   "texto": "64"
+  },
+  {
+   "tipo": "width",
+   "ini": 1335,
+   "fin": 1338,
+   "texto": "124"
+  },
+  {
+   "tipo": "depth",
+   "ini": 1341,
+   "fin": 1342,
+   "texto": "5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1347,
+   "fin": 1411
+  },
+  {
+   "tipo": "img",
+   "ini": 1347,
+   "fin": 1352,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1354,
+   "fin": 1411,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Crucifixión, 1992\nTécnica mixta / madera\n122 x 73 x 12 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 1354,
+   "fin": 1365,
+   "texto": "Crucifixión"
+  },
+  {
+   "tipo": "date",
+   "ini": 1367,
+   "fin": 1371,
+   "rasgos": {
+    "when": "1992"
+   },
+   "texto": "1992"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1372,
+   "fin": 1385,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 1388,
+   "fin": 1394,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1395,
+   "fin": 1411,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122 x 73 x 12 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1395,
+   "fin": 1398,
+   "texto": "122"
+  },
+  {
+   "tipo": "width",
+   "ini": 1401,
+   "fin": 1403,
+   "texto": "73"
+  },
+  {
+   "tipo": "depth",
+   "ini": 1406,
+   "fin": 1408,
+   "texto": "12"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1413,
+   "fin": 1484
+  },
+  {
+   "tipo": "img",
+   "ini": 1413,
+   "fin": 1418,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1420,
+   "fin": 1484,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Planta sobre la mesa, 1986\nTécnica mixta / madera\n56 x 56 x 6 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 1420,
+   "fin": 1440,
+   "texto": "Planta sobre la mesa"
+  },
+  {
+   "tipo": "date",
+   "ini": 1442,
+   "fin": 1446,
+   "rasgos": {
+    "when": "1986"
+   },
+   "texto": "1986"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1447,
+   "fin": 1460,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 1463,
+   "fin": 1469,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1470,
+   "fin": 1484,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "56 x 56 x 6 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1470,
+   "fin": 1472,
+   "texto": "56"
+  },
+  {
+   "tipo": "width",
+   "ini": 1475,
+   "fin": 1477,
+   "texto": "56"
+  },
+  {
+   "tipo": "depth",
+   "ini": 1480,
+   "fin": 1481,
+   "texto": "6"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1486,
+   "fin": 1553
+  },
+  {
+   "tipo": "img",
+   "ini": 1486,
+   "fin": 1491,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1493,
+   "fin": 1553,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Fluck the world, 1990\nTécnica mixta / hierro\n25 x 45 x 38 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 1493,
+   "fin": 1508,
+   "texto": "Fluck the world"
+  },
+  {
+   "tipo": "date",
+   "ini": 1510,
+   "fin": 1514,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1515,
+   "fin": 1528,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 1531,
+   "fin": 1537,
+   "rasgos": {
+    "type": "iron"
+   },
+   "texto": "hierro"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1538,
+   "fin": 1553,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "25 x 45 x 38 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1538,
+   "fin": 1540,
+   "texto": "25"
+  },
+  {
+   "tipo": "width",
+   "ini": 1543,
+   "fin": 1545,
+   "texto": "45"
+  },
+  {
+   "tipo": "depth",
+   "ini": 1548,
+   "fin": 1550,
+   "texto": "38"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1555,
+   "fin": 1614
+  },
+  {
+   "tipo": "img",
+   "ini": 1555,
+   "fin": 1560,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1562,
+   "fin": 1614,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Estilita, 1988\nTécnica mixta / madera\n84 x 50 x 5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 1562,
+   "fin": 1570,
+   "texto": "Estilita"
+  },
+  {
+   "tipo": "date",
+   "ini": 1572,
+   "fin": 1576,
+   "rasgos": {
+    "when": "1988"
+   },
+   "texto": "1988"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1577,
+   "fin": 1590,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 1593,
+   "fin": 1599,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1600,
+   "fin": 1614,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "84 x 50 x 5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1600,
+   "fin": 1602,
+   "texto": "84"
+  },
+  {
+   "tipo": "width",
+   "ini": 1605,
+   "fin": 1607,
+   "texto": "50"
+  },
+  {
+   "tipo": "depth",
+   "ini": 1610,
+   "fin": 1611,
+   "texto": "5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1616,
+   "fin": 1679
+  },
+  {
+   "tipo": "img",
+   "ini": 1616,
+   "fin": 1621,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1623,
+   "fin": 1679,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Tormento, 1987\nTécnica mixta / madera\n116,5 x 70 x 48 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 1623,
+   "fin": 1631,
+   "texto": "Tormento"
+  },
+  {
+   "tipo": "date",
+   "ini": 1633,
+   "fin": 1637,
+   "rasgos": {
+    "when": "1987"
+   },
+   "texto": "1987"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1638,
+   "fin": 1651,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 1654,
+   "fin": 1660,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1661,
+   "fin": 1679,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "116,5 x 70 x 48 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1661,
+   "fin": 1666,
+   "texto": "116,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 1669,
+   "fin": 1671,
+   "texto": "70"
+  },
+  {
+   "tipo": "depth",
+   "ini": 1674,
+   "fin": 1676,
+   "texto": "48"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1681,
+   "fin": 1738
+  },
+  {
+   "tipo": "img",
+   "ini": 1681,
+   "fin": 1686,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1688,
+   "fin": 1738,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Tumba, 1989\nTécnica mixta / madera\n60 x 63 x 40 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 1688,
+   "fin": 1693,
+   "texto": "Tumba"
+  },
+  {
+   "tipo": "date",
+   "ini": 1695,
+   "fin": 1699,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1700,
+   "fin": 1713,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 1716,
+   "fin": 1722,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1723,
+   "fin": 1738,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 63 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1723,
+   "fin": 1725,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 1728,
+   "fin": 1730,
+   "texto": "63"
+  },
+  {
+   "tipo": "depth",
+   "ini": 1733,
+   "fin": 1735,
+   "texto": "40"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1740,
+   "fin": 1790
+  },
+  {
+   "tipo": "img",
+   "ini": 1740,
+   "fin": 1745,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1747,
+   "fin": 1790,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "S.T.\nTécnica mixta / madera\n67 x 50 x 15 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 1747,
+   "fin": 1751,
+   "texto": "S.T."
+  },
+  {
+   "tipo": "technique",
+   "ini": 1752,
+   "fin": 1765,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 1768,
+   "fin": 1774,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1775,
+   "fin": 1790,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "67 x 50 x 15 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1775,
+   "fin": 1777,
+   "texto": "67"
+  },
+  {
+   "tipo": "width",
+   "ini": 1780,
+   "fin": 1782,
+   "texto": "50"
+  },
+  {
+   "tipo": "depth",
+   "ini": 1785,
+   "fin": 1787,
+   "texto": "15"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1792,
+   "fin": 1855
+  },
+  {
+   "tipo": "img",
+   "ini": 1792,
+   "fin": 1797,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1799,
+   "fin": 1855,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Las cucharas, 1989\nTécnica mixta / madera\n32 x 70 x 6 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 1799,
+   "fin": 1811,
+   "texto": "Las cucharas"
+  },
+  {
+   "tipo": "date",
+   "ini": 1813,
+   "fin": 1817,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1818,
+   "fin": 1831,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 1834,
+   "fin": 1840,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1841,
+   "fin": 1855,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32 x 70 x 6 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1841,
+   "fin": 1843,
+   "texto": "32"
+  },
+  {
+   "tipo": "width",
+   "ini": 1846,
+   "fin": 1848,
+   "texto": "70"
+  },
+  {
+   "tipo": "depth",
+   "ini": 1851,
+   "fin": 1852,
+   "texto": "6"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1857,
+   "fin": 1927
+  },
+  {
+   "tipo": "img",
+   "ini": 1857,
+   "fin": 1862,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1864,
+   "fin": 1927,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Camino de cucharas, 1990\nTécnica mixta / madera\n31 x 71 x 13 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 1864,
+   "fin": 1882,
+   "texto": "Camino de cucharas"
+  },
+  {
+   "tipo": "date",
+   "ini": 1884,
+   "fin": 1888,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1889,
+   "fin": 1902,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 1905,
+   "fin": 1911,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1912,
+   "fin": 1927,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "31 x 71 x 13 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1912,
+   "fin": 1914,
+   "texto": "31"
+  },
+  {
+   "tipo": "width",
+   "ini": 1917,
+   "fin": 1919,
+   "texto": "71"
+  },
+  {
+   "tipo": "depth",
+   "ini": 1922,
+   "fin": 1924,
+   "texto": "13"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1929,
+   "fin": 1999
+  },
+  {
+   "tipo": "img",
+   "ini": 1929,
+   "fin": 1934,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1936,
+   "fin": 1999,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Monje junto al mar, 1989\nTécnica mixta / madera\n52 x 130 x 8 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 1936,
+   "fin": 1954,
+   "texto": "Monje junto al mar"
+  },
+  {
+   "tipo": "date",
+   "ini": 1956,
+   "fin": 1960,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1961,
+   "fin": 1974,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 1977,
+   "fin": 1983,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1984,
+   "fin": 1999,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "52 x 130 x 8 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1984,
+   "fin": 1986,
+   "texto": "52"
+  },
+  {
+   "tipo": "width",
+   "ini": 1989,
+   "fin": 1992,
+   "texto": "130"
+  },
+  {
+   "tipo": "depth",
+   "ini": 1995,
+   "fin": 1996,
+   "texto": "8"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2001,
+   "fin": 2079
+  },
+  {
+   "tipo": "img",
+   "ini": 2001,
+   "fin": 2006,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2008,
+   "fin": 2079,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Bodegón de la carne alzada, 1990\nTécnica mixta / madera\n41 x 28 x 37 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2008,
+   "fin": 2034,
+   "texto": "Bodegón de la carne alzada"
+  },
+  {
+   "tipo": "date",
+   "ini": 2036,
+   "fin": 2040,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2041,
+   "fin": 2054,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 2057,
+   "fin": 2063,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2064,
+   "fin": 2079,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 28 x 37 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2064,
+   "fin": 2066,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 2069,
+   "fin": 2071,
+   "texto": "28"
+  },
+  {
+   "tipo": "depth",
+   "ini": 2074,
+   "fin": 2076,
+   "texto": "37"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2081,
+   "fin": 2172
+  },
+  {
+   "tipo": "img",
+   "ini": 2081,
+   "fin": 2086,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2088,
+   "fin": 2172,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "The two most clever sons of Salvador Dalí,\n1997-98\nLibro y poster numerado y firmado"
+  },
+  {
+   "tipo": "title",
+   "ini": 2088,
+   "fin": 2129,
+   "texto": "The two most clever sons of Salvador Dalí"
+  },
+  {
+   "tipo": "date",
+   "ini": 2131,
+   "fin": 2138,
+   "rasgos": {
+    "from": "1997",
+    "to": "1998"
+   },
+   "texto": "1997-98"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 2139,
+   "fin": 2172
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2174,
+   "fin": 2253
+  },
+  {
+   "tipo": "img",
+   "ini": 2174,
+   "fin": 2179,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2181,
+   "fin": 2253,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Gesprächspartnes der sternen, 1998\nTécnica mixta / madera\n35 x 21 x 5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2181,
+   "fin": 2209,
+   "texto": "Gesprächspartnes der sternen"
+  },
+  {
+   "tipo": "date",
+   "ini": 2211,
+   "fin": 2215,
+   "rasgos": {
+    "when": "1998"
+   },
+   "texto": "1998"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2216,
+   "fin": 2229,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 2232,
+   "fin": 2238,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2239,
+   "fin": 2253,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35 x 21 x 5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2239,
+   "fin": 2241,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 2244,
+   "fin": 2246,
+   "texto": "21"
+  },
+  {
+   "tipo": "depth",
+   "ini": 2249,
+   "fin": 2250,
+   "texto": "5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2255,
+   "fin": 2350
+  },
+  {
+   "tipo": "img",
+   "ini": 2255,
+   "fin": 2260,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2262,
+   "fin": 2350,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Spanish beauty spot an femininit y maternity,\n1998\nTécnica mixta / madera\n28 x 31 x 6 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2262,
+   "fin": 2306,
+   "texto": "Spanish beauty spot an femininit y maternity"
+  },
+  {
+   "tipo": "date",
+   "ini": 2308,
+   "fin": 2312,
+   "rasgos": {
+    "when": "1998"
+   },
+   "texto": "1998"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2313,
+   "fin": 2326,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 2329,
+   "fin": 2335,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2336,
+   "fin": 2350,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "28 x 31 x 6 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2336,
+   "fin": 2338,
+   "texto": "28"
+  },
+  {
+   "tipo": "width",
+   "ini": 2341,
+   "fin": 2343,
+   "texto": "31"
+  },
+  {
+   "tipo": "depth",
+   "ini": 2346,
+   "fin": 2347,
+   "texto": "6"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2352,
+   "fin": 2457
+  },
+  {
+   "tipo": "img",
+   "ini": 2352,
+   "fin": 2357,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2359,
+   "fin": 2457,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "German artis ina biergarten\nsurrounded by italians, 1998\nTécnica mixta / madera\n20,5 x 20,5 x 9 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2359,
+   "fin": 2409,
+   "texto": "German artis ina biergarten\nsurrounded by italians"
+  },
+  {
+   "tipo": "date",
+   "ini": 2411,
+   "fin": 2415,
+   "rasgos": {
+    "when": "1998"
+   },
+   "texto": "1998"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2416,
+   "fin": 2429,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 2432,
+   "fin": 2438,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2439,
+   "fin": 2457,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20,5 x 20,5 x 9 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2439,
+   "fin": 2443,
+   "texto": "20,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 2446,
+   "fin": 2450,
+   "texto": "20,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 2453,
+   "fin": 2454,
+   "texto": "9"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2459,
+   "fin": 2531
+  },
+  {
+   "tipo": "img",
+   "ini": 2459,
+   "fin": 2464,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2466,
+   "fin": 2531,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "As did beuys with his hat, 1998-99\nTécnica mixta\n34 x 15,5 x 3 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2466,
+   "fin": 2491,
+   "texto": "As did beuys with his hat"
+  },
+  {
+   "tipo": "date",
+   "ini": 2493,
+   "fin": 2500,
+   "rasgos": {
+    "from": "1998",
+    "to": "1999"
+   },
+   "texto": "1998-99"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2501,
+   "fin": 2514,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2515,
+   "fin": 2531,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "34 x 15,5 x 3 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2515,
+   "fin": 2517,
+   "texto": "34"
+  },
+  {
+   "tipo": "width",
+   "ini": 2520,
+   "fin": 2524,
+   "texto": "15,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 2527,
+   "fin": 2528,
+   "texto": "3"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2533,
+   "fin": 2618
+  },
+  {
+   "tipo": "img",
+   "ini": 2533,
+   "fin": 2538,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2540,
+   "fin": 2618,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Dalipop lama en la bella Italia, 1998-99\nTécnica mixta / madera\n63 x 27 x 4 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2540,
+   "fin": 2571,
+   "texto": "Dalipop lama en la bella Italia"
+  },
+  {
+   "tipo": "date",
+   "ini": 2573,
+   "fin": 2580,
+   "rasgos": {
+    "from": "1998",
+    "to": "1999"
+   },
+   "texto": "1998-99"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2581,
+   "fin": 2594,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 2597,
+   "fin": 2603,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2604,
+   "fin": 2618,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "63 x 27 x 4 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2604,
+   "fin": 2606,
+   "texto": "63"
+  },
+  {
+   "tipo": "width",
+   "ini": 2609,
+   "fin": 2611,
+   "texto": "27"
+  },
+  {
+   "tipo": "depth",
+   "ini": 2614,
+   "fin": 2615,
+   "texto": "4"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2620,
+   "fin": 2681
+  },
+  {
+   "tipo": "img",
+   "ini": 2620,
+   "fin": 2625,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2627,
+   "fin": 2681,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "The two most clever, 1998\nTécnica mixta\n36 x 29 x 3 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2627,
+   "fin": 2646,
+   "texto": "The two most clever"
+  },
+  {
+   "tipo": "date",
+   "ini": 2648,
+   "fin": 2652,
+   "rasgos": {
+    "when": "1998"
+   },
+   "texto": "1998"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2653,
+   "fin": 2666,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2667,
+   "fin": 2681,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "36 x 29 x 3 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2667,
+   "fin": 2669,
+   "texto": "36"
+  },
+  {
+   "tipo": "width",
+   "ini": 2672,
+   "fin": 2674,
+   "texto": "29"
+  },
+  {
+   "tipo": "depth",
+   "ini": 2677,
+   "fin": 2678,
+   "texto": "3"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2683,
+   "fin": 2749
+  },
+  {
+   "tipo": "img",
+   "ini": 2683,
+   "fin": 2688,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2690,
+   "fin": 2749,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Personal kempis, 1998\nTécnica mixta / madera\n24 x 55 x 5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2690,
+   "fin": 2705,
+   "texto": "Personal kempis"
+  },
+  {
+   "tipo": "date",
+   "ini": 2707,
+   "fin": 2711,
+   "rasgos": {
+    "when": "1998"
+   },
+   "texto": "1998"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2712,
+   "fin": 2725,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "material",
+   "ini": 2728,
+   "fin": 2734,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2735,
+   "fin": 2749,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "24 x 55 x 5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2735,
+   "fin": 2737,
+   "texto": "24"
+  },
+  {
+   "tipo": "width",
+   "ini": 2740,
+   "fin": 2742,
+   "texto": "55"
+  },
+  {
+   "tipo": "depth",
+   "ini": 2745,
+   "fin": 2746,
+   "texto": "5"
+  },
+  {
+   "tipo": "person",
+   "ini": 2751,
+   "fin": 2784,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "víctormira\n\n1949 Nace en Zaragoza"
+  },
+  {
+   "tipo": "birth",
+   "ini": 2763,
+   "fin": 2785
+  },
+  {
+   "tipo": "date",
+   "ini": 2763,
+   "fin": 2767,
+   "rasgos": {
+    "when": "1949"
+   },
+   "texto": "1949"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2776,
+   "fin": 2784,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Zaragoza"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2776,
+   "fin": 2784,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Zaragoza"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 23276,
+   "fin": 23619,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 23294,
+   "fin": 23324,
+   "texto": "Víctor Mira, escultura_objetos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23294,
+   "fin": 23305,
+   "texto": "Víctor Mira"
+  },
+  {
+   "tipo": "date",
+   "ini": 23333,
+   "fin": 23357,
+   "rasgos": {
+    "from": "2010-04-16",
+    "to": "2010-07-17"
+   },
+   "texto": "16 abril / 17 julio 2010"
+  },
+  {
+   "tipo": "institution",
+   "ini": 23366,
+   "fin": 23390,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería Zaragoza Gráfica"
+  },
+  {
+   "tipo": "address",
+   "ini": 23392,
+   "fin": 23431,
+   "texto": "D. Jaime I, 14 3º, dcha 50001 Zaragoza."
+  },
+  {
+   "tipo": "placeName",
+   "ini": 23422,
+   "fin": 23430,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Zaragoza"
+  },
+  {
+   "tipo": "institution",
+   "ini": 23478,
+   "fin": 23502,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Galería Zaragoza Gráfica"
+  },
+  {
+   "tipo": "person",
+   "ini": 23513,
+   "fin": 23532,
+   "rasgos": {
+    "role": "directorGallery"
+   },
+   "texto": "José Navarro Casaús"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23513,
+   "fin": 23532,
+   "texto": "José Navarro Casaús"
+  },
+  {
+   "tipo": "person",
+   "ini": 23546,
+   "fin": 23560,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "Paquita Borque"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23546,
+   "fin": 23560,
+   "texto": "Paquita Borque"
+  },
+  {
+   "tipo": "person",
+   "ini": 23561,
+   "fin": 23573,
+   "rasgos": {
+    "role": "coordinador"
+   },
+   "texto": "Ester Romero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23561,
+   "fin": 23573,
+   "texto": "Ester Romero"
+  },
+  {
+   "tipo": "person",
+   "ini": 23588,
+   "fin": 23602,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "Andrés Navarro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23588,
+   "fin": 23602,
+   "texto": "Andrés Navarro"
+  },
+  {
+   "tipo": "institution",
+   "ini": 23611,
+   "fin": 23619,
+   "rasgos": {
+    "type": "layoutDesigner"
+   },
+   "texto": "Semprini"
+  },
+  {
+   "tipo": "institution",
+   "ini": 23636,
+   "fin": 23660,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería Zaragoza Gráfica"
+  },
+  {
+   "tipo": "person",
+   "ini": 23677,
+   "fin": 23690,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "David Navarro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23677,
+   "fin": 23690,
+   "texto": "David Navarro"
+  },
+  {
+   "tipo": "institution",
+   "ini": 23692,
+   "fin": 23700,
+   "rasgos": {
+    "type": "layoutDesigner"
+   },
+   "texto": "Semprini"
+  },
+  {
+   "tipo": "person",
+   "ini": 23713,
+   "fin": 23726,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "David Navarro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23713,
+   "fin": 23726,
+   "texto": "David Navarro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23747,
+   "fin": 23759,
+   "texto": "Ester Romero"
+  }
+ ]
+}

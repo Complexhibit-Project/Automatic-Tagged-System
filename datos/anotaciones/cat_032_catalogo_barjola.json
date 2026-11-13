@@ -1,0 +1,5034 @@
+{
+ "id": "cat_032_catalogo_barjola",
+ "nombre_original": "Catalogo Barjola",
+ "longitud_texto": 29395,
+ "sha256_texto": "a2de0f42beaacfedd35859ca45a6e71b7be2d8c2696fee5d14759cf983dea17e",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 1287,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 63,
+   "texto": "ALEJANDRO\nMIERES\n\nLlegó la Noche y no quiero dormir sin Memoria"
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 16,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ALEJANDRO\nMIERES"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 16,
+   "texto": "ALEJANDRO\nMIERES"
+  },
+  {
+   "tipo": "institution",
+   "ini": 65,
+   "fin": 98,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Museo Barjola\nwww.museobarjola.es"
+  },
+  {
+   "tipo": "institution",
+   "ini": 100,
+   "fin": 135,
+   "rasgos": {
+    "type": "administration",
+    "role": "organiser"
+   },
+   "texto": "Gobierno del Principado de Asturias"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 127,
+   "fin": 135,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Asturias"
+  },
+  {
+   "tipo": "date",
+   "ini": 137,
+   "fin": 173,
+   "rasgos": {
+    "from": "2016-09-02",
+    "to": "2016-10-16"
+   },
+   "texto": "Del 2 de septiembre\nal 16 de octubre"
+  },
+  {
+   "tipo": "institution",
+   "ini": 174,
+   "fin": 187,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser"
+   },
+   "texto": "Museo Barjola"
+  },
+  {
+   "tipo": "date",
+   "ini": 190,
+   "fin": 194,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "title",
+   "ini": 196,
+   "fin": 258,
+   "texto": "ALEJANDRO\nMIERES\nLlegó la Noche\ny no quiero dormir\nsin Memoria"
+  },
+  {
+   "tipo": "person",
+   "ini": 196,
+   "fin": 212,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ALEJANDRO\nMIERES"
+  },
+  {
+   "tipo": "persName",
+   "ini": 196,
+   "fin": 212,
+   "texto": "ALEJANDRO\nMIERES"
+  },
+  {
+   "tipo": "institution",
+   "ini": 282,
+   "fin": 315,
+   "rasgos": {
+    "type": "administration",
+    "role": "organiser"
+   },
+   "texto": "Consejería de Educación y Cultura"
+  },
+  {
+   "tipo": "institution",
+   "ini": 318,
+   "fin": 331,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser"
+   },
+   "texto": "Museo Barjola"
+  },
+  {
+   "tipo": "person",
+   "ini": 344,
+   "fin": 374,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Víctor Manuel Picallo González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 344,
+   "fin": 374,
+   "texto": "Víctor Manuel Picallo González"
+  },
+  {
+   "tipo": "person",
+   "ini": 405,
+   "fin": 428,
+   "rasgos": {
+    "role": "exhibitionDesigner"
+   },
+   "texto": "Adolfo Manzano González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 405,
+   "fin": 428,
+   "texto": "Adolfo Manzano González"
+  },
+  {
+   "tipo": "institution",
+   "ini": 445,
+   "fin": 478,
+   "rasgos": {
+    "type": "museum",
+    "role": "collaborator"
+   },
+   "texto": "Museo de Bellas Artes de Asturias"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 470,
+   "fin": 478,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Asturias"
+  },
+  {
+   "tipo": "institution",
+   "ini": 479,
+   "fin": 500,
+   "rasgos": {
+    "type": "university",
+    "role": "collaborator"
+   },
+   "texto": "Universidad de Oviedo"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 494,
+   "fin": 500,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Oviedo"
+  },
+  {
+   "tipo": "person",
+   "ini": 501,
+   "fin": 534,
+   "rasgos": {
+    "role": "collaborator"
+   },
+   "texto": "Familia Alejandro Mieres Bustillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 509,
+   "fin": 534,
+   "texto": "Alejandro Mieres Bustillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 535,
+   "fin": 549,
+   "rasgos": {
+    "role": "collaborator"
+   },
+   "texto": "Manuel Presedo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 535,
+   "fin": 549,
+   "texto": "Manuel Presedo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 563,
+   "fin": 576,
+   "rasgos": {
+    "type": "company",
+    "role": "transporter"
+   },
+   "texto": "Manipulo Arte"
+  },
+  {
+   "tipo": "institution",
+   "ini": 587,
+   "fin": 594,
+   "rasgos": {
+    "type": "insuranceCompany"
+   },
+   "texto": "Axa Art"
+  },
+  {
+   "tipo": "institution",
+   "ini": 614,
+   "fin": 647,
+   "rasgos": {
+    "type": "administration",
+    "role": "editor"
+   },
+   "texto": "Consejería de Educación y Cultura"
+  },
+  {
+   "tipo": "institution",
+   "ini": 650,
+   "fin": 663,
+   "rasgos": {
+    "type": "museum",
+    "role": "editor"
+   },
+   "texto": "Museo Barjola"
+  },
+  {
+   "tipo": "person",
+   "ini": 692,
+   "fin": 710,
+   "rasgos": {
+    "role": "catalogueCoordinator"
+   },
+   "texto": "María Avello Luiña"
+  },
+  {
+   "tipo": "person",
+   "ini": 720,
+   "fin": 736,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Antonio Gamoneda"
+  },
+  {
+   "tipo": "persName",
+   "ini": 720,
+   "fin": 736,
+   "texto": "Antonio Gamoneda"
+  },
+  {
+   "tipo": "person",
+   "ini": 738,
+   "fin": 760,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Juan Carlos Gea Martín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 738,
+   "fin": 760,
+   "texto": "Juan Carlos Gea Martín"
+  },
+  {
+   "tipo": "person",
+   "ini": 762,
+   "fin": 781,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "José Luis Argüelles"
+  },
+  {
+   "tipo": "persName",
+   "ini": 762,
+   "fin": 781,
+   "texto": "José Luis Argüelles"
+  },
+  {
+   "tipo": "person",
+   "ini": 783,
+   "fin": 800,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Vanessa Gutiérrez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 783,
+   "fin": 800,
+   "texto": "Vanessa Gutiérrez"
+  },
+  {
+   "tipo": "person",
+   "ini": 802,
+   "fin": 814,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lucía Alperi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 802,
+   "fin": 814,
+   "texto": "Lucía Alperi"
+  },
+  {
+   "tipo": "person",
+   "ini": 842,
+   "fin": 860,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Elena de la Puente"
+  },
+  {
+   "tipo": "persName",
+   "ini": 842,
+   "fin": 860,
+   "texto": "Elena de la Puente"
+  },
+  {
+   "tipo": "institution",
+   "ini": 862,
+   "fin": 895,
+   "rasgos": {
+    "type": "museum"
+   },
+   "texto": "Museo de Bellas Artes de Asturias"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 887,
+   "fin": 895,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Asturias"
+  },
+  {
+   "tipo": "person",
+   "ini": 897,
+   "fin": 917,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Marcial Gómez Martín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 897,
+   "fin": 917,
+   "texto": "Marcial Gómez Martín"
+  },
+  {
+   "tipo": "institution",
+   "ini": 920,
+   "fin": 962,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "Medios Audiovisuales Universidad de Oviedo"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 956,
+   "fin": 962,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Oviedo"
+  },
+  {
+   "tipo": "person",
+   "ini": 964,
+   "fin": 978,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Quino Sacavera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 964,
+   "fin": 978,
+   "texto": "Quino Sacavera"
+  },
+  {
+   "tipo": "person",
+   "ini": 980,
+   "fin": 1001,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "José Ferrero Villares"
+  },
+  {
+   "tipo": "persName",
+   "ini": 980,
+   "fin": 1001,
+   "texto": "José Ferrero Villares"
+  },
+  {
+   "tipo": "person",
+   "ini": 1026,
+   "fin": 1042,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ALEJANDRO MIERES"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1026,
+   "fin": 1042,
+   "texto": "ALEJANDRO MIERES"
+  },
+  {
+   "tipo": "person",
+   "ini": 1044,
+   "fin": 1065,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "José Ferrero Villares"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1044,
+   "fin": 1065,
+   "texto": "José Ferrero Villares"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1144,
+   "fin": 1157,
+   "rasgos": {
+    "type": "compnay",
+    "role": "printer"
+   },
+   "texto": "Gráficas Apel"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1247,
+   "fin": 1282,
+   "rasgos": {
+    "type": "administration",
+    "role": "editor"
+   },
+   "texto": "Gobierno del Principado de Asturias"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1274,
+   "fin": 1282,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Asturias"
+  },
+  {
+   "tipo": "title",
+   "ini": 1340,
+   "fin": 1402,
+   "texto": "ALEJANDRO\nMIERES\nLlegó la Noche\ny no quiero dormir\nsin Memoria"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1340,
+   "fin": 1402,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 1340,
+   "fin": 1356,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ALEJANDRO\nMIERES"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1340,
+   "fin": 1356,
+   "texto": "ALEJANDRO\nMIERES"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1503,
+   "fin": 1549,
+   "rasgos": {
+    "type": "administration",
+    "role": "editor"
+   },
+   "texto": "Consejo de\nGobierno del Principado de\nAsturias"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1541,
+   "fin": 1549,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Asturias"
+  },
+  {
+   "tipo": "person",
+   "ini": 1658,
+   "fin": 1683,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alejandro\nMieres Bustillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1658,
+   "fin": 1683,
+   "texto": "Alejandro\nMieres Bustillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 3017,
+   "fin": 3023,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MIERES"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3017,
+   "fin": 3023,
+   "texto": "MIERES"
+  },
+  {
+   "tipo": "person",
+   "ini": 3026,
+   "fin": 3035,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alejandro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3026,
+   "fin": 3035,
+   "texto": "Alejandro"
+  },
+  {
+   "tipo": "person",
+   "ini": 3306,
+   "fin": 3315,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alejandro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3306,
+   "fin": 3315,
+   "texto": "Alejandro"
+  },
+  {
+   "tipo": "person",
+   "ini": 3593,
+   "fin": 3602,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alejandro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3593,
+   "fin": 3602,
+   "texto": "Alejandro"
+  },
+  {
+   "tipo": "person",
+   "ini": 3784,
+   "fin": 3793,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alejandro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3784,
+   "fin": 3793,
+   "texto": "Alejandro"
+  },
+  {
+   "tipo": "person",
+   "ini": 3999,
+   "fin": 4008,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alejandro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3999,
+   "fin": 4008,
+   "texto": "Alejandro"
+  },
+  {
+   "tipo": "person",
+   "ini": 4592,
+   "fin": 4601,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alejandro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4592,
+   "fin": 4601,
+   "texto": "Alejandro"
+  },
+  {
+   "tipo": "person",
+   "ini": 4834,
+   "fin": 4843,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alejandro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4834,
+   "fin": 4843,
+   "texto": "Alejandro"
+  },
+  {
+   "tipo": "person",
+   "ini": 4905,
+   "fin": 4914,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alejandro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4905,
+   "fin": 4914,
+   "texto": "Alejandro"
+  },
+  {
+   "tipo": "person",
+   "ini": 5160,
+   "fin": 5169,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alejandro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5160,
+   "fin": 5169,
+   "texto": "Alejandro"
+  },
+  {
+   "tipo": "person",
+   "ini": 5619,
+   "fin": 5635,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ALEJANDRO MIERES"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5619,
+   "fin": 5635,
+   "texto": "ALEJANDRO MIERES"
+  },
+  {
+   "tipo": "person",
+   "ini": 5686,
+   "fin": 5702,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alejandro Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5686,
+   "fin": 5702,
+   "texto": "Alejandro Mieres"
+  },
+  {
+   "tipo": "person",
+   "ini": 5937,
+   "fin": 5943,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5937,
+   "fin": 5943,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "person",
+   "ini": 7469,
+   "fin": 7475,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7469,
+   "fin": 7475,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "person",
+   "ini": 7973,
+   "fin": 7979,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7973,
+   "fin": 7979,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "person",
+   "ini": 8308,
+   "fin": 8314,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "person",
+   "ini": 8765,
+   "fin": 8771,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8765,
+   "fin": 8771,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "person",
+   "ini": 9056,
+   "fin": 9072,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alejandro Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9056,
+   "fin": 9072,
+   "texto": "Alejandro Mieres"
+  },
+  {
+   "tipo": "person",
+   "ini": 9230,
+   "fin": 9246,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alejandro Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9230,
+   "fin": 9246,
+   "texto": "Alejandro Mieres"
+  },
+  {
+   "tipo": "person",
+   "ini": 11248,
+   "fin": 11264,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alejandro Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11248,
+   "fin": 11264,
+   "texto": "Alejandro Mieres"
+  },
+  {
+   "tipo": "person",
+   "ini": 12173,
+   "fin": 12189,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alejandro Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12173,
+   "fin": 12188,
+   "texto": "Alejandro Miere"
+  },
+  {
+   "tipo": "person",
+   "ini": 14010,
+   "fin": 14026,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alejandro Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14010,
+   "fin": 14026,
+   "texto": "Alejandro Mieres"
+  },
+  {
+   "tipo": "person",
+   "ini": 16943,
+   "fin": 16959,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ALEJANDRO MIERES"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16943,
+   "fin": 16959,
+   "texto": "ALEJANDRO MIERES"
+  },
+  {
+   "tipo": "person",
+   "ini": 18048,
+   "fin": 18054,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18048,
+   "fin": 18054,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "person",
+   "ini": 18912,
+   "fin": 18918,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18912,
+   "fin": 18918,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "person",
+   "ini": 19163,
+   "fin": 19169,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19163,
+   "fin": 19169,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19753,
+   "fin": 19759,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "person",
+   "ini": 19753,
+   "fin": 19759,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "person",
+   "ini": 19918,
+   "fin": 19934,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ALEJANDRO MIERES"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19918,
+   "fin": 19934,
+   "texto": "ALEJANDRO MIERES"
+  },
+  {
+   "tipo": "person",
+   "ini": 20427,
+   "fin": 20433,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20427,
+   "fin": 20433,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "person",
+   "ini": 20663,
+   "fin": 20669,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20663,
+   "fin": 20669,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "person",
+   "ini": 20803,
+   "fin": 20809,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20803,
+   "fin": 20809,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "person",
+   "ini": 22090,
+   "fin": 22096,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22090,
+   "fin": 22096,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "person",
+   "ini": 22230,
+   "fin": 22236,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22230,
+   "fin": 22236,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "person",
+   "ini": 22259,
+   "fin": 22265,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22259,
+   "fin": 22265,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "person",
+   "ini": 22937,
+   "fin": 22943,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22937,
+   "fin": 22943,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "person",
+   "ini": 24748,
+   "fin": 24754,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24748,
+   "fin": 24754,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "person",
+   "ini": 25031,
+   "fin": 25040,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alejandro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25031,
+   "fin": 25040,
+   "texto": "Alejandro"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 25169,
+   "fin": 28891
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25169,
+   "fin": 25242
+  },
+  {
+   "tipo": "img",
+   "ini": 25169,
+   "fin": 25174,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25176,
+   "fin": 25242,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "OTOÑO / 1944\nCOLECCIÓN: Museo de Bellas Artes de Asturias\n26x21 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 25176,
+   "fin": 25181,
+   "texto": "OTOÑO"
+  },
+  {
+   "tipo": "date",
+   "ini": 25184,
+   "fin": 25188,
+   "rasgos": {
+    "when": "1944"
+   },
+   "texto": "1944"
+  },
+  {
+   "tipo": "institution",
+   "ini": 25200,
+   "fin": 25233,
+   "rasgos": {
+    "type": "museum",
+    "role": "owner, lender"
+   },
+   "texto": "Museo de Bellas Artes de Asturias"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 25225,
+   "fin": 25233,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Asturias"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25234,
+   "fin": 25243,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "26x21 cm\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 25234,
+   "fin": 25236,
+   "texto": "26"
+  },
+  {
+   "tipo": "width",
+   "ini": 25237,
+   "fin": 25239,
+   "texto": "21"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25244,
+   "fin": 25318
+  },
+  {
+   "tipo": "img",
+   "ini": 25244,
+   "fin": 25249,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25251,
+   "fin": 25318,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ACUARELA PARA LA ACADEMIA / 1945\nCOLECCIÓN: Familia Mieres\n56x46 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 25251,
+   "fin": 25276,
+   "texto": "ACUARELA PARA LA ACADEMIA"
+  },
+  {
+   "tipo": "date",
+   "ini": 25279,
+   "fin": 25283,
+   "rasgos": {
+    "when": "1945"
+   },
+   "texto": "1945"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25310,
+   "fin": 25318,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "56x46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25310,
+   "fin": 25312,
+   "texto": "56"
+  },
+  {
+   "tipo": "width",
+   "ini": 25313,
+   "fin": 25315,
+   "texto": "46"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25320,
+   "fin": 25396
+  },
+  {
+   "tipo": "img",
+   "ini": 25320,
+   "fin": 25325,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25327,
+   "fin": 25396,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "EJERCICIO PARA ACADEMIA ABC / 1945\nCOLECCIÓN: Familia Mieres\n58x49 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 25327,
+   "fin": 25354,
+   "texto": "EJERCICIO PARA ACADEMIA ABC"
+  },
+  {
+   "tipo": "date",
+   "ini": 25357,
+   "fin": 25361,
+   "rasgos": {
+    "when": "1945"
+   },
+   "texto": "1945"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25388,
+   "fin": 25396,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "58x49 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25388,
+   "fin": 25390,
+   "texto": "58"
+  },
+  {
+   "tipo": "width",
+   "ini": 25391,
+   "fin": 25393,
+   "texto": "49"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25398,
+   "fin": 25487
+  },
+  {
+   "tipo": "img",
+   "ini": 25398,
+   "fin": 25403,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25405,
+   "fin": 25487,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ESTUDIO DE ANATOMÍA / 1947\nCOLECCIÓN: Museo de Bellas Artes de Asturias\n27,5x38 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 25405,
+   "fin": 25424,
+   "texto": "ESTUDIO DE ANATOMÍA"
+  },
+  {
+   "tipo": "date",
+   "ini": 25427,
+   "fin": 25431,
+   "rasgos": {
+    "when": "1947"
+   },
+   "texto": "1947"
+  },
+  {
+   "tipo": "institution",
+   "ini": 25443,
+   "fin": 25476,
+   "rasgos": {
+    "type": "museum",
+    "role": "owner, lender"
+   },
+   "texto": "Museo de Bellas Artes de Asturias"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 25468,
+   "fin": 25476,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Asturias"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25477,
+   "fin": 25487,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27,5x38 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25477,
+   "fin": 25481,
+   "texto": "27,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 25482,
+   "fin": 25484,
+   "texto": "38"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25489,
+   "fin": 25565
+  },
+  {
+   "tipo": "img",
+   "ini": 25489,
+   "fin": 25495,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25496,
+   "fin": 25565,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "PRESAGIO / 1947\nCOLECCIÓN: Museo de Bellas Artes de Asturias\n55x55 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 25496,
+   "fin": 25504,
+   "texto": "PRESAGIO"
+  },
+  {
+   "tipo": "date",
+   "ini": 25507,
+   "fin": 25511,
+   "rasgos": {
+    "when": "1947"
+   },
+   "texto": "1947"
+  },
+  {
+   "tipo": "institution",
+   "ini": 25523,
+   "fin": 25556,
+   "rasgos": {
+    "type": "museum",
+    "role": "owner, lender"
+   },
+   "texto": "Museo de Bellas Artes de Asturias"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 25548,
+   "fin": 25556,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Asturias"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25557,
+   "fin": 25565,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55x55 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25557,
+   "fin": 25559,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 25560,
+   "fin": 25562,
+   "texto": "55"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25567,
+   "fin": 25648
+  },
+  {
+   "tipo": "img",
+   "ini": 25567,
+   "fin": 25572,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25574,
+   "fin": 25648,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "COMPOSICIÓN / 1947\nCOLECCIÓN: Museo de Bellas Artes de Asturias\n19x14,5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 25574,
+   "fin": 25585,
+   "texto": "COMPOSICIÓN"
+  },
+  {
+   "tipo": "date",
+   "ini": 25588,
+   "fin": 25592,
+   "rasgos": {
+    "when": "1947"
+   },
+   "texto": "1947"
+  },
+  {
+   "tipo": "institution",
+   "ini": 25604,
+   "fin": 25637,
+   "rasgos": {
+    "type": "museum",
+    "role": "university"
+   },
+   "texto": "Museo de Bellas Artes de Asturias"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 25629,
+   "fin": 25637,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Asturias"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25638,
+   "fin": 25648,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "19x14,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25638,
+   "fin": 25640,
+   "texto": "19"
+  },
+  {
+   "tipo": "width",
+   "ini": 25641,
+   "fin": 25645,
+   "texto": "14,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25650,
+   "fin": 25727
+  },
+  {
+   "tipo": "img",
+   "ini": 25650,
+   "fin": 25655,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25657,
+   "fin": 25727,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "FUNERAL / 1948\nCOLECCIÓN: Museo de Bellas Artes de Asturias\n14,5x12 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 25657,
+   "fin": 25664,
+   "texto": "FUNERAL"
+  },
+  {
+   "tipo": "date",
+   "ini": 25667,
+   "fin": 25671,
+   "rasgos": {
+    "when": "1948"
+   },
+   "texto": "1948"
+  },
+  {
+   "tipo": "institution",
+   "ini": 25683,
+   "fin": 25716,
+   "rasgos": {
+    "type": "museum",
+    "role": "owner, lender"
+   },
+   "texto": "Museo de Bellas Artes de Asturias"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 25708,
+   "fin": 25716,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Asturias"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25717,
+   "fin": 25727,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "14,5x12 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25717,
+   "fin": 25721,
+   "texto": "14,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 25722,
+   "fin": 25724,
+   "texto": "12"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25729,
+   "fin": 25807
+  },
+  {
+   "tipo": "img",
+   "ini": 25729,
+   "fin": 25734,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25736,
+   "fin": 25807,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "PASTORAL / 1949\nCOLECCIÓN: Museo de Bellas Artes de Asturias\n32,5x44 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 25736,
+   "fin": 25744,
+   "texto": "PASTORAL"
+  },
+  {
+   "tipo": "date",
+   "ini": 25747,
+   "fin": 25751,
+   "rasgos": {
+    "when": "1949"
+   },
+   "texto": "1949"
+  },
+  {
+   "tipo": "institution",
+   "ini": 25763,
+   "fin": 25796,
+   "rasgos": {
+    "type": "museum",
+    "role": "owner, lender"
+   },
+   "texto": "Museo de Bellas Artes de Asturias"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 25788,
+   "fin": 25796,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Asturias"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25797,
+   "fin": 25807,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32,5x44 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25797,
+   "fin": 25801,
+   "texto": "32,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 25802,
+   "fin": 25804,
+   "texto": "44"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25809,
+   "fin": 25862
+  },
+  {
+   "tipo": "img",
+   "ini": 25809,
+   "fin": 25814,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25816,
+   "fin": 25862,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ROSA / 1949\nCOLECCIÓN: Familia Mieres\n52x53 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 25816,
+   "fin": 25820,
+   "texto": "ROSA"
+  },
+  {
+   "tipo": "date",
+   "ini": 25823,
+   "fin": 25827,
+   "rasgos": {
+    "when": "1949"
+   },
+   "texto": "1949"
+  },
+  {
+   "tipo": "person",
+   "ini": 25839,
+   "fin": 25853,
+   "rasgos": {
+    "role": "lender, owner"
+   },
+   "texto": "Familia Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25847,
+   "fin": 25853,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25854,
+   "fin": 25862,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "52x53 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25854,
+   "fin": 25856,
+   "texto": "52"
+  },
+  {
+   "tipo": "width",
+   "ini": 25857,
+   "fin": 25859,
+   "texto": "53"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25864,
+   "fin": 25944
+  },
+  {
+   "tipo": "img",
+   "ini": 25864,
+   "fin": 25869,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25871,
+   "fin": 25944,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "PENSANTE / 1950\nCOLECCIÓN: Museo de Bellas Artes de Asturias\n30,5x42,5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 25871,
+   "fin": 25879,
+   "texto": "PENSANTE"
+  },
+  {
+   "tipo": "date",
+   "ini": 25882,
+   "fin": 25886,
+   "rasgos": {
+    "when": "1950"
+   },
+   "texto": "1950"
+  },
+  {
+   "tipo": "institution",
+   "ini": 25898,
+   "fin": 25931,
+   "rasgos": {
+    "type": "museum",
+    "role": "owner, lender"
+   },
+   "texto": "Museo de Bellas Artes de Asturias"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 25923,
+   "fin": 25931,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Asturias"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25932,
+   "fin": 25944,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30,5x42,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25932,
+   "fin": 25936,
+   "texto": "30,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 25937,
+   "fin": 25941,
+   "texto": "42,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25946,
+   "fin": 26027
+  },
+  {
+   "tipo": "img",
+   "ini": 25946,
+   "fin": 25951,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25953,
+   "fin": 26027,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "DOS HOMBRES EN EL ESPACIO / 1950\nCOLECCIÓN: Universidad de Oviedo\n47x50 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 25953,
+   "fin": 25978,
+   "texto": "DOS HOMBRES EN EL ESPACIO"
+  },
+  {
+   "tipo": "date",
+   "ini": 25981,
+   "fin": 25985,
+   "rasgos": {
+    "when": "1950"
+   },
+   "texto": "1950"
+  },
+  {
+   "tipo": "institution",
+   "ini": 25997,
+   "fin": 26018,
+   "rasgos": {
+    "type": "university",
+    "role": "owner, lender"
+   },
+   "texto": "Universidad de Oviedo"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 26012,
+   "fin": 26018,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Oviedo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 26019,
+   "fin": 26027,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "47x50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 26019,
+   "fin": 26021,
+   "texto": "47"
+  },
+  {
+   "tipo": "width",
+   "ini": 26022,
+   "fin": 26024,
+   "texto": "50"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26029,
+   "fin": 26095
+  },
+  {
+   "tipo": "img",
+   "ini": 26029,
+   "fin": 26034,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 26036,
+   "fin": 26095,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "LECTURA / 1949-50\nCOLECCIÓN: Universidad de Oviedo\n92x83 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 26036,
+   "fin": 26043,
+   "texto": "LECTURA"
+  },
+  {
+   "tipo": "date",
+   "ini": 26046,
+   "fin": 26053,
+   "rasgos": {
+    "from": "1949",
+    "to": "1950"
+   },
+   "texto": "1949-50"
+  },
+  {
+   "tipo": "institution",
+   "ini": 26065,
+   "fin": 26086,
+   "rasgos": {
+    "type": "university",
+    "role": "owner, lender"
+   },
+   "texto": "Universidad de Oviedo"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 26080,
+   "fin": 26086,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Oviedo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 26087,
+   "fin": 26095,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "92x83 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 26087,
+   "fin": 26089,
+   "texto": "92"
+  },
+  {
+   "tipo": "width",
+   "ini": 26090,
+   "fin": 26092,
+   "texto": "83"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26097,
+   "fin": 26181
+  },
+  {
+   "tipo": "img",
+   "ini": 26097,
+   "fin": 26102,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 26104,
+   "fin": 26181,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "INCREDULIDAD DE SANTO TOMÁS / 1951\nCOLECCIÓN: Universidad de Oviedo\n98x113 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 26104,
+   "fin": 26131,
+   "texto": "INCREDULIDAD DE SANTO TOMÁS"
+  },
+  {
+   "tipo": "date",
+   "ini": 26134,
+   "fin": 26138,
+   "rasgos": {
+    "when": "1951"
+   },
+   "texto": "1951"
+  },
+  {
+   "tipo": "institution",
+   "ini": 26150,
+   "fin": 26171,
+   "rasgos": {
+    "type": "university",
+    "role": "owner, lender"
+   },
+   "texto": "Universidad de Oviedo"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 26165,
+   "fin": 26171,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Oviedo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 26172,
+   "fin": 26181,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "98x113 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 26172,
+   "fin": 26174,
+   "texto": "98"
+  },
+  {
+   "tipo": "width",
+   "ini": 26175,
+   "fin": 26178,
+   "texto": "113"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26183,
+   "fin": 26245
+  },
+  {
+   "tipo": "img",
+   "ini": 26183,
+   "fin": 26188,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 26190,
+   "fin": 26245,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "LECTURA/ 1951\nCOLECCIÓN: Universidad de Oviedo\n74x92 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 26190,
+   "fin": 26197,
+   "texto": "LECTURA"
+  },
+  {
+   "tipo": "date",
+   "ini": 26199,
+   "fin": 26203,
+   "rasgos": {
+    "when": "1951"
+   },
+   "texto": "1951"
+  },
+  {
+   "tipo": "institution",
+   "ini": 26215,
+   "fin": 26236,
+   "rasgos": {
+    "type": "university",
+    "role": "owner, lender"
+   },
+   "texto": "Universidad de Oviedo"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 26230,
+   "fin": 26236,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Oviedo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 26237,
+   "fin": 26245,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "74x92 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 26237,
+   "fin": 26239,
+   "texto": "74"
+  },
+  {
+   "tipo": "width",
+   "ini": 26240,
+   "fin": 26242,
+   "texto": "92"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26247,
+   "fin": 26330
+  },
+  {
+   "tipo": "img",
+   "ini": 26247,
+   "fin": 26252,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 26254,
+   "fin": 26330,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "CRUCIFIXIÓN CON ADÁN Y EVA / 1951\nCOLECCIÓN: Universidad de Oviedo\n97x112 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 26254,
+   "fin": 26280,
+   "texto": "CRUCIFIXIÓN CON ADÁN Y EVA"
+  },
+  {
+   "tipo": "date",
+   "ini": 26283,
+   "fin": 26287,
+   "rasgos": {
+    "when": "1951"
+   },
+   "texto": "1951"
+  },
+  {
+   "tipo": "institution",
+   "ini": 26299,
+   "fin": 26320,
+   "rasgos": {
+    "type": "university",
+    "role": "owner, lender"
+   },
+   "texto": "Universidad de Oviedo"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 26314,
+   "fin": 26320,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Oviedo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 26321,
+   "fin": 26330,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "97x112 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 26321,
+   "fin": 26323,
+   "texto": "97"
+  },
+  {
+   "tipo": "width",
+   "ini": 26324,
+   "fin": 26327,
+   "texto": "112"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26332,
+   "fin": 26402
+  },
+  {
+   "tipo": "img",
+   "ini": 26332,
+   "fin": 26337,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 26339,
+   "fin": 26402,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "CUATRO FIGURAS / 1951\nCOLECCIÓN: Universidad de Oviedo\n42x57 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 26339,
+   "fin": 26353,
+   "texto": "CUATRO FIGURAS"
+  },
+  {
+   "tipo": "date",
+   "ini": 26356,
+   "fin": 26360,
+   "rasgos": {
+    "when": "1951"
+   },
+   "texto": "1951"
+  },
+  {
+   "tipo": "institution",
+   "ini": 26372,
+   "fin": 26393,
+   "rasgos": {
+    "type": "university",
+    "role": "owner, lender"
+   },
+   "texto": "Universidad de Oviedo"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 26387,
+   "fin": 26393,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Oviedo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 26394,
+   "fin": 26402,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "42x57 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 26394,
+   "fin": 26396,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 26397,
+   "fin": 26399,
+   "texto": "57"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26404,
+   "fin": 26480
+  },
+  {
+   "tipo": "img",
+   "ini": 26404,
+   "fin": 26409,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 26411,
+   "fin": 26480,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "FAMILIA DE SUBURBIO / 1951\nCOLECCIÓN: Universidad de Oviedo\n87x113 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 26411,
+   "fin": 26430,
+   "texto": "FAMILIA DE SUBURBIO"
+  },
+  {
+   "tipo": "date",
+   "ini": 26433,
+   "fin": 26437,
+   "rasgos": {
+    "when": "1951"
+   },
+   "texto": "1951"
+  },
+  {
+   "tipo": "institution",
+   "ini": 26449,
+   "fin": 26470,
+   "rasgos": {
+    "type": "university",
+    "role": "owner, lender"
+   },
+   "texto": "Universidad de Oviedo"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 26464,
+   "fin": 26470,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Oviedo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 26471,
+   "fin": 26480,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "87x113 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 26471,
+   "fin": 26473,
+   "texto": "87"
+  },
+  {
+   "tipo": "width",
+   "ini": 26474,
+   "fin": 26477,
+   "texto": "113"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26482,
+   "fin": 26545
+  },
+  {
+   "tipo": "img",
+   "ini": 26482,
+   "fin": 26487,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 26489,
+   "fin": 26545,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "PAISAJE / 1952\nCOLECCIÓN: Universidad de Oviedo\n59x50 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 26489,
+   "fin": 26496,
+   "texto": "PAISAJE"
+  },
+  {
+   "tipo": "date",
+   "ini": 26499,
+   "fin": 26503,
+   "rasgos": {
+    "when": "1952"
+   },
+   "texto": "1952"
+  },
+  {
+   "tipo": "institution",
+   "ini": 26515,
+   "fin": 26536,
+   "rasgos": {
+    "type": "university",
+    "role": "owner, lender"
+   },
+   "texto": "Universidad de Oviedo"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 26530,
+   "fin": 26536,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Oviedo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 26537,
+   "fin": 26545,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "59x50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 26537,
+   "fin": 26539,
+   "texto": "59"
+  },
+  {
+   "tipo": "width",
+   "ini": 26540,
+   "fin": 26542,
+   "texto": "50"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26547,
+   "fin": 26609
+  },
+  {
+   "tipo": "img",
+   "ini": 26547,
+   "fin": 26552,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 26554,
+   "fin": 26609,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "HOMBRE / 1952\nCOLECCIÓN: Universidad de Oviedo\n47x64 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 26554,
+   "fin": 26560,
+   "texto": "HOMBRE"
+  },
+  {
+   "tipo": "date",
+   "ini": 26563,
+   "fin": 26567,
+   "rasgos": {
+    "when": "1952"
+   },
+   "texto": "1952"
+  },
+  {
+   "tipo": "institution",
+   "ini": 26579,
+   "fin": 26600,
+   "rasgos": {
+    "type": "university",
+    "role": "owner, lender"
+   },
+   "texto": "Universidad de Oviedo"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 26594,
+   "fin": 26600,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Oviedo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 26601,
+   "fin": 26609,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "47x64 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 26601,
+   "fin": 26603,
+   "texto": "47"
+  },
+  {
+   "tipo": "width",
+   "ini": 26604,
+   "fin": 26606,
+   "texto": "64"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26611,
+   "fin": 26679
+  },
+  {
+   "tipo": "img",
+   "ini": 26611,
+   "fin": 26616,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 26618,
+   "fin": 26679,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "TRES FIGURAS / 1952\nCOLECCIÓN: Universidad de Oviedo\n75x94 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 26618,
+   "fin": 26630,
+   "texto": "TRES FIGURAS"
+  },
+  {
+   "tipo": "date",
+   "ini": 26633,
+   "fin": 26637,
+   "rasgos": {
+    "when": "1952"
+   },
+   "texto": "1952"
+  },
+  {
+   "tipo": "institution",
+   "ini": 26649,
+   "fin": 26670,
+   "rasgos": {
+    "type": "university",
+    "role": "owner, lender"
+   },
+   "texto": "Universidad de Oviedo"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 26664,
+   "fin": 26670,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Oviedo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 26671,
+   "fin": 26679,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "75x94 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 26671,
+   "fin": 26673,
+   "texto": "75"
+  },
+  {
+   "tipo": "width",
+   "ini": 26674,
+   "fin": 26676,
+   "texto": "94"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26681,
+   "fin": 26743
+  },
+  {
+   "tipo": "img",
+   "ini": 26681,
+   "fin": 26686,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 26688,
+   "fin": 26743,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "MUJER SENTADA / 1951\nCOLECCIÓN: Familia Mieres\n34x53 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 26688,
+   "fin": 26701,
+   "texto": "MUJER SENTADA"
+  },
+  {
+   "tipo": "date",
+   "ini": 26704,
+   "fin": 26708,
+   "rasgos": {
+    "when": "1951"
+   },
+   "texto": "1951"
+  },
+  {
+   "tipo": "person",
+   "ini": 26720,
+   "fin": 26734,
+   "rasgos": {
+    "role": "lender, owner"
+   },
+   "texto": "Familia Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26728,
+   "fin": 26734,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 26735,
+   "fin": 26743,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "34x53 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 26735,
+   "fin": 26737,
+   "texto": "34"
+  },
+  {
+   "tipo": "width",
+   "ini": 26738,
+   "fin": 26740,
+   "texto": "53"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26745,
+   "fin": 26824
+  },
+  {
+   "tipo": "img",
+   "ini": 26745,
+   "fin": 26750,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 26752,
+   "fin": 26824,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "FIGURAS / 1952\nCOLECCIÓN: Museo de Bellas Artes de Asturias\n26,5x20,9 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 26752,
+   "fin": 26759,
+   "texto": "FIGURAS"
+  },
+  {
+   "tipo": "date",
+   "ini": 26762,
+   "fin": 26766,
+   "rasgos": {
+    "when": "1952"
+   },
+   "texto": "1952"
+  },
+  {
+   "tipo": "institution",
+   "ini": 26778,
+   "fin": 26811,
+   "rasgos": {
+    "type": "museum",
+    "role": "owner, lender"
+   },
+   "texto": "Museo de Bellas Artes de Asturias"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 26803,
+   "fin": 26811,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Asturias"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 26812,
+   "fin": 26824,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "26,5x20,9 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 26812,
+   "fin": 26816,
+   "texto": "26,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 26817,
+   "fin": 26821,
+   "texto": "20,9"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26826,
+   "fin": 26909
+  },
+  {
+   "tipo": "img",
+   "ini": 26826,
+   "fin": 26831,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 26833,
+   "fin": 26909,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "DOS MUJERES / 1953\nCOLECCIÓN: Museo de Bellas Artes de Asturias\n20,8x26,2 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 26833,
+   "fin": 26844,
+   "texto": "DOS MUJERES"
+  },
+  {
+   "tipo": "date",
+   "ini": 26847,
+   "fin": 26851,
+   "rasgos": {
+    "when": "1953"
+   },
+   "texto": "1953"
+  },
+  {
+   "tipo": "institution",
+   "ini": 26863,
+   "fin": 26896,
+   "rasgos": {
+    "type": "museum",
+    "role": "owner, lender"
+   },
+   "texto": "Museo de Bellas Artes de Asturias"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 26888,
+   "fin": 26896,
+   "rasgos": {
+    "type": ""
+   },
+   "texto": "Asturias"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 26897,
+   "fin": 26909,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20,8x26,2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 26897,
+   "fin": 26901,
+   "texto": "20,8"
+  },
+  {
+   "tipo": "width",
+   "ini": 26902,
+   "fin": 26906,
+   "texto": "26,2"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26911,
+   "fin": 26991
+  },
+  {
+   "tipo": "img",
+   "ini": 26911,
+   "fin": 26916,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 26918,
+   "fin": 26991,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "PROYECTO / 1954\nCOLECCIÓN: Museo de Bellas Artes de Asturias\n25,6x20,5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 26918,
+   "fin": 26926,
+   "texto": "PROYECTO"
+  },
+  {
+   "tipo": "date",
+   "ini": 26929,
+   "fin": 26933,
+   "rasgos": {
+    "when": "1964"
+   },
+   "texto": "1954"
+  },
+  {
+   "tipo": "institution",
+   "ini": 26945,
+   "fin": 26978,
+   "rasgos": {
+    "type": "museum",
+    "role": "owner, lender"
+   },
+   "texto": "Museo de Bellas Artes de Asturias"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 26970,
+   "fin": 26978,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Asturias"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 26979,
+   "fin": 26991,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "25,6x20,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 26979,
+   "fin": 26983,
+   "texto": "25,6"
+  },
+  {
+   "tipo": "width",
+   "ini": 26984,
+   "fin": 26988,
+   "texto": "20,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26993,
+   "fin": 27073
+  },
+  {
+   "tipo": "img",
+   "ini": 26993,
+   "fin": 26998,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 27000,
+   "fin": 27073,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "PROYECTO / 1954\nCOLECCIÓN: Museo de Bellas Artes de Asturias\n25,7x20,3 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 27000,
+   "fin": 27008,
+   "texto": "PROYECTO"
+  },
+  {
+   "tipo": "date",
+   "ini": 27011,
+   "fin": 27015,
+   "rasgos": {
+    "when": "1954"
+   },
+   "texto": "1954"
+  },
+  {
+   "tipo": "institution",
+   "ini": 27027,
+   "fin": 27060,
+   "rasgos": {
+    "type": "museum",
+    "role": "owner, lender"
+   },
+   "texto": "Museo de Bellas Artes de Asturias"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 27052,
+   "fin": 27060,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Asturias"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 27061,
+   "fin": 27073,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "25,7x20,3 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 27061,
+   "fin": 27065,
+   "texto": "25,7"
+  },
+  {
+   "tipo": "width",
+   "ini": 27066,
+   "fin": 27070,
+   "texto": "20,3"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 27075,
+   "fin": 27137
+  },
+  {
+   "tipo": "img",
+   "ini": 27075,
+   "fin": 27080,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 27082,
+   "fin": 27137,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "PROYECTO 1954 / 1954\nCOLECCIÓN: Familia Mieres\n45x40 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 27082,
+   "fin": 27095,
+   "texto": "PROYECTO 1954"
+  },
+  {
+   "tipo": "date",
+   "ini": 27098,
+   "fin": 27102,
+   "rasgos": {
+    "when": "1954"
+   },
+   "texto": "1954"
+  },
+  {
+   "tipo": "person",
+   "ini": 27114,
+   "fin": 27128,
+   "rasgos": {
+    "role": "lender, owner"
+   },
+   "texto": "Familia Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27122,
+   "fin": 27128,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 27129,
+   "fin": 27137,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "45x40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 27129,
+   "fin": 27131,
+   "texto": "45"
+  },
+  {
+   "tipo": "width",
+   "ini": 27132,
+   "fin": 27134,
+   "texto": "40"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 27139,
+   "fin": 27218
+  },
+  {
+   "tipo": "img",
+   "ini": 27139,
+   "fin": 27144,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 27146,
+   "fin": 27218,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "FIGURAS / 1955\nCOLECCIÓN: Museo de Bellas Artes de Asturias\n20,8x30,5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 27146,
+   "fin": 27153,
+   "texto": "FIGURAS"
+  },
+  {
+   "tipo": "date",
+   "ini": 27156,
+   "fin": 27160,
+   "rasgos": {
+    "when": "1955"
+   },
+   "texto": "1955"
+  },
+  {
+   "tipo": "institution",
+   "ini": 27172,
+   "fin": 27205,
+   "rasgos": {
+    "type": "museum",
+    "role": "owner, lender"
+   },
+   "texto": "Museo de Bellas Artes de Asturias"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 27197,
+   "fin": 27205,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Asturias"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 27206,
+   "fin": 27218,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20,8x30,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 27206,
+   "fin": 27210,
+   "texto": "20,8"
+  },
+  {
+   "tipo": "width",
+   "ini": 27211,
+   "fin": 27215,
+   "texto": "30,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 27220,
+   "fin": 27300
+  },
+  {
+   "tipo": "img",
+   "ini": 27220,
+   "fin": 27225,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 27227,
+   "fin": 27300,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "PRIMARIO / 1961\nCOLECCIÓN: Museo de Bellas Artes de Asturias\n92,3x73,5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 27227,
+   "fin": 27235,
+   "texto": "PRIMARIO"
+  },
+  {
+   "tipo": "date",
+   "ini": 27238,
+   "fin": 27242,
+   "rasgos": {
+    "when": "1961"
+   },
+   "texto": "1961"
+  },
+  {
+   "tipo": "institution",
+   "ini": 27254,
+   "fin": 27287,
+   "rasgos": {
+    "type": "museum",
+    "role": "owner, lender"
+   },
+   "texto": "Museo de Bellas Artes de Asturias"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 27279,
+   "fin": 27287,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Asturias"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 27288,
+   "fin": 27300,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "92,3x73,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 27288,
+   "fin": 27292,
+   "texto": "92,3"
+  },
+  {
+   "tipo": "width",
+   "ini": 27293,
+   "fin": 27297,
+   "texto": "73,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 27302,
+   "fin": 27357
+  },
+  {
+   "tipo": "img",
+   "ini": 27302,
+   "fin": 27307,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 27309,
+   "fin": 27357,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "DEPORT / 1962\nCOLECCIÓN: Familia Mieres\n48x39 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 27309,
+   "fin": 27315,
+   "texto": "DEPORT"
+  },
+  {
+   "tipo": "date",
+   "ini": 27318,
+   "fin": 27322,
+   "rasgos": {
+    "when": "1962"
+   },
+   "texto": "1962"
+  },
+  {
+   "tipo": "person",
+   "ini": 27334,
+   "fin": 27348,
+   "rasgos": {
+    "role": "lender, owner"
+   },
+   "texto": "Familia Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27342,
+   "fin": 27348,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 27349,
+   "fin": 27357,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "48x39 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 27349,
+   "fin": 27351,
+   "texto": "48"
+  },
+  {
+   "tipo": "width",
+   "ini": 27352,
+   "fin": 27354,
+   "texto": "39"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 27359,
+   "fin": 27437
+  },
+  {
+   "tipo": "img",
+   "ini": 27359,
+   "fin": 27364,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 27366,
+   "fin": 27437,
+   "texto": "SIN TÍTULO / 1965\nCOLECCIÓN: Museo de Bellas Artes de Asturias\n46x38 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 27366,
+   "fin": 27376,
+   "texto": "SIN TÍTULO"
+  },
+  {
+   "tipo": "date",
+   "ini": 27379,
+   "fin": 27383,
+   "rasgos": {
+    "when": "1965"
+   },
+   "texto": "1965"
+  },
+  {
+   "tipo": "institution",
+   "ini": 27395,
+   "fin": 27428,
+   "rasgos": {
+    "type": "museum",
+    "role": "owner, lender"
+   },
+   "texto": "Museo de Bellas Artes de Asturias"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 27420,
+   "fin": 27428,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Asturias"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 27429,
+   "fin": 27437,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46x38 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 27429,
+   "fin": 27431,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 27432,
+   "fin": 27434,
+   "texto": "38"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 27439,
+   "fin": 27516
+  },
+  {
+   "tipo": "img",
+   "ini": 27439,
+   "fin": 27444,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 27446,
+   "fin": 27516,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "VENTANA / 1969\nCOLECCIÓN: Museo de Bellas Artes de Asturias\n83x65,5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 27446,
+   "fin": 27453,
+   "texto": "VENTANA"
+  },
+  {
+   "tipo": "date",
+   "ini": 27456,
+   "fin": 27460,
+   "rasgos": {
+    "when": "1969"
+   },
+   "texto": "1969"
+  },
+  {
+   "tipo": "institution",
+   "ini": 27472,
+   "fin": 27505,
+   "rasgos": {
+    "type": "museum",
+    "role": "owner, lender"
+   },
+   "texto": "Museo de Bellas Artes de Asturias"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 27497,
+   "fin": 27505,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Asturias"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 27506,
+   "fin": 27516,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "83x65,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 27506,
+   "fin": 27508,
+   "texto": "83"
+  },
+  {
+   "tipo": "width",
+   "ini": 27509,
+   "fin": 27513,
+   "texto": "65,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 27518,
+   "fin": 27586
+  },
+  {
+   "tipo": "img",
+   "ini": 27518,
+   "fin": 27523,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 27525,
+   "fin": 27586,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "MONOXIDO DE CARBONO / 1973\nCOLECCIÓN: Manuel Presedo\nø 110 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 27525,
+   "fin": 27544,
+   "texto": "MONOXIDO DE CARBONO"
+  },
+  {
+   "tipo": "date",
+   "ini": 27547,
+   "fin": 27551,
+   "rasgos": {
+    "when": "1973"
+   },
+   "texto": "1973"
+  },
+  {
+   "tipo": "person",
+   "ini": 27563,
+   "fin": 27577,
+   "rasgos": {
+    "role": "lender, owner"
+   },
+   "texto": "Manuel Presedo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27563,
+   "fin": 27577,
+   "texto": "Manuel Presedo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 27578,
+   "fin": 27586,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "ø 110 cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 27580,
+   "fin": 27583,
+   "texto": "110"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 27588,
+   "fin": 27697
+  },
+  {
+   "tipo": "img",
+   "ini": 27588,
+   "fin": 27593,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 27595,
+   "fin": 27697,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "CIRCUITO NEGRO\nHomenaje a Navascués / 1978-80\nCOLECCIÓN: Museo de Bellas Artes de Asturias\n20,5x100 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 27595,
+   "fin": 27609,
+   "texto": "CIRCUITO NEGRO"
+  },
+  {
+   "tipo": "date",
+   "ini": 27633,
+   "fin": 27640,
+   "rasgos": {
+    "from": "1978",
+    "to": "1980"
+   },
+   "texto": "1978-80"
+  },
+  {
+   "tipo": "institution",
+   "ini": 27652,
+   "fin": 27685,
+   "rasgos": {
+    "type": "museum",
+    "role": "owner, lender"
+   },
+   "texto": "Museo de Bellas Artes de Asturias"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 27677,
+   "fin": 27685,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Asturias"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 27686,
+   "fin": 27697,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20,5x100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 27686,
+   "fin": 27690,
+   "texto": "20,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 27691,
+   "fin": 27694,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 27699,
+   "fin": 27756
+  },
+  {
+   "tipo": "img",
+   "ini": 27699,
+   "fin": 27704,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 27706,
+   "fin": 27756,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "MONTAÑA / 1980\nCOLECCIÓN: Familia Mieres\n80x106 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 27706,
+   "fin": 27713,
+   "texto": "MONTAÑA"
+  },
+  {
+   "tipo": "date",
+   "ini": 27716,
+   "fin": 27720,
+   "rasgos": {
+    "when": "1980"
+   },
+   "texto": "1980"
+  },
+  {
+   "tipo": "person",
+   "ini": 27732,
+   "fin": 27746,
+   "rasgos": {
+    "role": "lender, owner"
+   },
+   "texto": "Familia Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27740,
+   "fin": 27746,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 27747,
+   "fin": 27756,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80x106 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 27747,
+   "fin": 27749,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 27750,
+   "fin": 27753,
+   "texto": "106"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 27758,
+   "fin": 27823
+  },
+  {
+   "tipo": "img",
+   "ini": 27758,
+   "fin": 27763,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 27765,
+   "fin": 27823,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "CONSTRUCCIÓN AZUL / 1989\nCOLECCIÓN: Familia Mieres\nø 45 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 27765,
+   "fin": 27782,
+   "texto": "CONSTRUCCIÓN AZUL"
+  },
+  {
+   "tipo": "date",
+   "ini": 27785,
+   "fin": 27789,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "person",
+   "ini": 27801,
+   "fin": 27815,
+   "rasgos": {
+    "role": "lender, owner"
+   },
+   "texto": "Familia Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27809,
+   "fin": 27815,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 27816,
+   "fin": 27823,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "ø 45 cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 27818,
+   "fin": 27820,
+   "texto": "45"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 27825,
+   "fin": 27924
+  },
+  {
+   "tipo": "img",
+   "ini": 27825,
+   "fin": 27830,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 27832,
+   "fin": 27924,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "DOCE VARIACIONES SOBRE UN TEMA / 1994\nCOLECCIÓN: Museo de Bellas Artes de Asturias\n102x73 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 27832,
+   "fin": 27862,
+   "texto": "DOCE VARIACIONES SOBRE UN TEMA"
+  },
+  {
+   "tipo": "date",
+   "ini": 27865,
+   "fin": 27869,
+   "rasgos": {
+    "when": ""
+   },
+   "texto": "1994"
+  },
+  {
+   "tipo": "institution",
+   "ini": 27881,
+   "fin": 27914,
+   "rasgos": {
+    "type": "museum",
+    "role": "owner, lender"
+   },
+   "texto": "Museo de Bellas Artes de Asturias"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 27906,
+   "fin": 27914,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Asturias"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 27915,
+   "fin": 27924,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "102x73 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 27915,
+   "fin": 27918,
+   "texto": "102"
+  },
+  {
+   "tipo": "width",
+   "ini": 27919,
+   "fin": 27921,
+   "texto": "73"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 27926,
+   "fin": 27976
+  },
+  {
+   "tipo": "img",
+   "ini": 27926,
+   "fin": 27931,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 27933,
+   "fin": 27976,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "88+1+1\nCOLECCIÓN: Lourdes Mieres\n108x108 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 27933,
+   "fin": 27939,
+   "texto": "88+1+1"
+  },
+  {
+   "tipo": "person",
+   "ini": 27951,
+   "fin": 27965,
+   "rasgos": {
+    "role": "lender, owner"
+   },
+   "texto": "Lourdes Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27959,
+   "fin": 27965,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 27966,
+   "fin": 27976,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "108x108 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 27966,
+   "fin": 27969,
+   "texto": "108"
+  },
+  {
+   "tipo": "width",
+   "ini": 27970,
+   "fin": 27973,
+   "texto": "108"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 27978,
+   "fin": 28041
+  },
+  {
+   "tipo": "img",
+   "ini": 27978,
+   "fin": 27983,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 27985,
+   "fin": 28041,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ESPACIO LÍQUIDO / 1995\nCOLECCIÓN: Familia Mieres\nø 80 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 27985,
+   "fin": 28000,
+   "texto": "ESPACIO LÍQUIDO"
+  },
+  {
+   "tipo": "date",
+   "ini": 28003,
+   "fin": 28007,
+   "rasgos": {
+    "when": "1995"
+   },
+   "texto": "1995"
+  },
+  {
+   "tipo": "person",
+   "ini": 28019,
+   "fin": 28033,
+   "rasgos": {
+    "role": "lender, owner"
+   },
+   "texto": "Familia Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28027,
+   "fin": 28033,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28034,
+   "fin": 28041,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "ø 80 cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 28036,
+   "fin": 28038,
+   "texto": "80"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28043,
+   "fin": 28099
+  },
+  {
+   "tipo": "img",
+   "ini": 28043,
+   "fin": 28048,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28050,
+   "fin": 28099,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "BLANCO / 1996\nCOLECCIÓN: Familia Mieres\n108x73 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 28050,
+   "fin": 28056,
+   "texto": "BLANCO"
+  },
+  {
+   "tipo": "date",
+   "ini": 28059,
+   "fin": 28063,
+   "rasgos": {
+    "when": "1996"
+   },
+   "texto": "1996"
+  },
+  {
+   "tipo": "person",
+   "ini": 28075,
+   "fin": 28089,
+   "rasgos": {
+    "role": "lender, owner"
+   },
+   "texto": "Familia Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28083,
+   "fin": 28089,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28090,
+   "fin": 28099,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "108x73 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28090,
+   "fin": 28093,
+   "texto": "108"
+  },
+  {
+   "tipo": "width",
+   "ini": 28094,
+   "fin": 28096,
+   "texto": "73"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28101,
+   "fin": 28170
+  },
+  {
+   "tipo": "img",
+   "ini": 28101,
+   "fin": 28106,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28108,
+   "fin": 28170,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "NACIMIENTO VENUS II / 1999\nCOLECCIÓN: Familia Mieres\n80x107 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 28108,
+   "fin": 28127,
+   "texto": "NACIMIENTO VENUS II"
+  },
+  {
+   "tipo": "date",
+   "ini": 28130,
+   "fin": 28134,
+   "rasgos": {
+    "when": "1999"
+   },
+   "texto": "1999"
+  },
+  {
+   "tipo": "person",
+   "ini": 28146,
+   "fin": 28160,
+   "rasgos": {
+    "role": "lender, owner"
+   },
+   "texto": "Familia Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28154,
+   "fin": 28160,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28161,
+   "fin": 28170,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80x107 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28161,
+   "fin": 28163,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 28164,
+   "fin": 28167,
+   "texto": "107"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28172,
+   "fin": 28230
+  },
+  {
+   "tipo": "img",
+   "ini": 28172,
+   "fin": 28177,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28179,
+   "fin": 28230,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "MANANTIAL / 2006\nCOLECCIÓN: Familia Mieres\n67x51 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 28179,
+   "fin": 28188,
+   "texto": "MANANTIAL"
+  },
+  {
+   "tipo": "date",
+   "ini": 28191,
+   "fin": 28195,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "person",
+   "ini": 28207,
+   "fin": 28221,
+   "rasgos": {
+    "role": "lender, owner"
+   },
+   "texto": "Familia Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28215,
+   "fin": 28221,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28222,
+   "fin": 28230,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "67x51 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28222,
+   "fin": 28224,
+   "texto": "67"
+  },
+  {
+   "tipo": "width",
+   "ini": 28225,
+   "fin": 28227,
+   "texto": "51"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28232,
+   "fin": 28267
+  },
+  {
+   "tipo": "img",
+   "ini": 28232,
+   "fin": 28237,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28239,
+   "fin": 28267,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "SIN TÍTULO / 2009\n122x122 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 28239,
+   "fin": 28249,
+   "texto": "SIN TÍTULO"
+  },
+  {
+   "tipo": "date",
+   "ini": 28252,
+   "fin": 28256,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28257,
+   "fin": 28267,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122x122 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28257,
+   "fin": 28260,
+   "texto": "122"
+  },
+  {
+   "tipo": "width",
+   "ini": 28261,
+   "fin": 28264,
+   "texto": "122"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28269,
+   "fin": 28304
+  },
+  {
+   "tipo": "img",
+   "ini": 28269,
+   "fin": 28274,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28276,
+   "fin": 28304,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "SIN TÍTULO / 2009\n122x122 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 28276,
+   "fin": 28286,
+   "texto": "SIN TÍTULO"
+  },
+  {
+   "tipo": "date",
+   "ini": 28289,
+   "fin": 28293,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28294,
+   "fin": 28304,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122x122 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28294,
+   "fin": 28297,
+   "texto": "122"
+  },
+  {
+   "tipo": "width",
+   "ini": 28298,
+   "fin": 28301,
+   "texto": "122"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28306,
+   "fin": 28365
+  },
+  {
+   "tipo": "img",
+   "ini": 28306,
+   "fin": 28311,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28313,
+   "fin": 28365,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ARRASTRE / 2010\nCOLECCIÓN: Familia Mieres\n115x138 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 28313,
+   "fin": 28321,
+   "texto": "ARRASTRE"
+  },
+  {
+   "tipo": "date",
+   "ini": 28324,
+   "fin": 28328,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "person",
+   "ini": 28340,
+   "fin": 28354,
+   "rasgos": {
+    "role": "lender, owner"
+   },
+   "texto": "Familia Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28348,
+   "fin": 28354,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28355,
+   "fin": 28365,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "115x138 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28355,
+   "fin": 28358,
+   "texto": "115"
+  },
+  {
+   "tipo": "width",
+   "ini": 28359,
+   "fin": 28362,
+   "texto": "138"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28367,
+   "fin": 28428
+  },
+  {
+   "tipo": "img",
+   "ini": 28367,
+   "fin": 28372,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28374,
+   "fin": 28428,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "RIO ASTURA / 2010\nCOLECCIÓN: Familia Mieres\n137x104 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 28374,
+   "fin": 28384,
+   "texto": "RIO ASTURA"
+  },
+  {
+   "tipo": "date",
+   "ini": 28387,
+   "fin": 28391,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "person",
+   "ini": 28403,
+   "fin": 28417,
+   "rasgos": {
+    "role": "lender, owner"
+   },
+   "texto": "Familia Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28411,
+   "fin": 28417,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28418,
+   "fin": 28428,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "137x104 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28418,
+   "fin": 28421,
+   "texto": "137"
+  },
+  {
+   "tipo": "width",
+   "ini": 28422,
+   "fin": 28425,
+   "texto": "104"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28430,
+   "fin": 28486
+  },
+  {
+   "tipo": "img",
+   "ini": 28430,
+   "fin": 28435,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28437,
+   "fin": 28485,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ISLOTE / 2010\nCOLECCIÓN: Familia Mieres\n92x97 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 28437,
+   "fin": 28443,
+   "texto": "ISLOTE"
+  },
+  {
+   "tipo": "date",
+   "ini": 28446,
+   "fin": 28450,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "person",
+   "ini": 28462,
+   "fin": 28476,
+   "rasgos": {
+    "role": "lender, owner"
+   },
+   "texto": "Familia Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28470,
+   "fin": 28476,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28477,
+   "fin": 28485,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "92x97 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28477,
+   "fin": 28479,
+   "texto": "92"
+  },
+  {
+   "tipo": "width",
+   "ini": 28480,
+   "fin": 28482,
+   "texto": "97"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28487,
+   "fin": 28566
+  },
+  {
+   "tipo": "img",
+   "ini": 28487,
+   "fin": 28492,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 28494,
+   "fin": 28566,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 28500,
+   "fin": 28518,
+   "texto": "FLOR DE SHANGRI-LA"
+  },
+  {
+   "tipo": "date",
+   "ini": 28521,
+   "fin": 28525,
+   "rasgos": {
+    "when": "2011"
+   },
+   "texto": "2011"
+  },
+  {
+   "tipo": "person",
+   "ini": 28537,
+   "fin": 28551,
+   "rasgos": {
+    "role": "lender, owner"
+   },
+   "texto": "Familia Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28545,
+   "fin": 28551,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28552,
+   "fin": 28566,
+   "texto": "Varios tamaños"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28568,
+   "fin": 28626
+  },
+  {
+   "tipo": "img",
+   "ini": 28568,
+   "fin": 28573,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28575,
+   "fin": 28626,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "CHAPARRÓN / 2011\nCOLECCIÓN: Familia Mieres\n96x80 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 28575,
+   "fin": 28584,
+   "texto": "CHAPARRÓN"
+  },
+  {
+   "tipo": "date",
+   "ini": 28587,
+   "fin": 28591,
+   "rasgos": {
+    "when": "2011"
+   },
+   "texto": "2011"
+  },
+  {
+   "tipo": "person",
+   "ini": 28603,
+   "fin": 28617,
+   "rasgos": {
+    "role": "lender, owner"
+   },
+   "texto": "Familia Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28611,
+   "fin": 28617,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28618,
+   "fin": 28626,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "96x80 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28618,
+   "fin": 28620,
+   "texto": "96"
+  },
+  {
+   "tipo": "width",
+   "ini": 28621,
+   "fin": 28623,
+   "texto": "80"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28628,
+   "fin": 28688
+  },
+  {
+   "tipo": "img",
+   "ini": 28628,
+   "fin": 28633,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28635,
+   "fin": 28688,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "FUKUSHIMA / 2011\nCOLECCIÓN: Familia Mieres\n155x138 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 28635,
+   "fin": 28644,
+   "texto": "FUKUSHIMA"
+  },
+  {
+   "tipo": "date",
+   "ini": 28647,
+   "fin": 28651,
+   "rasgos": {
+    "when": "2011"
+   },
+   "texto": "2011"
+  },
+  {
+   "tipo": "person",
+   "ini": 28663,
+   "fin": 28677,
+   "rasgos": {
+    "role": "lender, owner"
+   },
+   "texto": "Familia Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28671,
+   "fin": 28677,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28678,
+   "fin": 28688,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "155x138 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28678,
+   "fin": 28681,
+   "texto": "155"
+  },
+  {
+   "tipo": "width",
+   "ini": 28682,
+   "fin": 28685,
+   "texto": "138"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28690,
+   "fin": 28751
+  },
+  {
+   "tipo": "img",
+   "ini": 28690,
+   "fin": 28695,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28697,
+   "fin": 28751,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "MAR Y NOCHE / 2011\nCOLECCIÓN: Familia Mieres\n157x98 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 28697,
+   "fin": 28708,
+   "texto": "MAR Y NOCHE"
+  },
+  {
+   "tipo": "date",
+   "ini": 28711,
+   "fin": 28715,
+   "rasgos": {
+    "when": "2011"
+   },
+   "texto": "2011"
+  },
+  {
+   "tipo": "person",
+   "ini": 28727,
+   "fin": 28741,
+   "rasgos": {
+    "role": "lender, owner"
+   },
+   "texto": "Familia Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28735,
+   "fin": 28741,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28742,
+   "fin": 28751,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "157x98 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28742,
+   "fin": 28745,
+   "texto": "157"
+  },
+  {
+   "tipo": "width",
+   "ini": 28746,
+   "fin": 28748,
+   "texto": "98"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28753,
+   "fin": 28821
+  },
+  {
+   "tipo": "img",
+   "ini": 28753,
+   "fin": 28758,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28760,
+   "fin": 28821,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "PRINCIPIO FEMENINO / 2011\nCOLECCIÓN: Familia Mieres\n57x112 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 28760,
+   "fin": 28778,
+   "texto": "PRINCIPIO FEMENINO"
+  },
+  {
+   "tipo": "date",
+   "ini": 28781,
+   "fin": 28785,
+   "rasgos": {
+    "when": "2011"
+   },
+   "texto": "2011"
+  },
+  {
+   "tipo": "person",
+   "ini": 28797,
+   "fin": 28811,
+   "rasgos": {
+    "role": "lender, owner"
+   },
+   "texto": "Familia Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28805,
+   "fin": 28811,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28812,
+   "fin": 28821,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "57x112 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28812,
+   "fin": 28814,
+   "texto": "57"
+  },
+  {
+   "tipo": "width",
+   "ini": 28815,
+   "fin": 28818,
+   "texto": "112"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28823,
+   "fin": 28891
+  },
+  {
+   "tipo": "img",
+   "ini": 28823,
+   "fin": 28828,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28830,
+   "fin": 28891,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "INCENDIO PROVOCADO / 2012\nCOLECCIÓN: Familia Mieres\n125x95 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 28830,
+   "fin": 28848,
+   "texto": "INCENDIO PROVOCADO"
+  },
+  {
+   "tipo": "date",
+   "ini": 28851,
+   "fin": 28855,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "person",
+   "ini": 28867,
+   "fin": 28881,
+   "rasgos": {
+    "role": "lender, owner"
+   },
+   "texto": "Familia Mieres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28875,
+   "fin": 28881,
+   "texto": "Mieres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28882,
+   "fin": 28891,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "125x95 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28882,
+   "fin": 28885,
+   "texto": "125"
+  },
+  {
+   "tipo": "width",
+   "ini": 28886,
+   "fin": 28888,
+   "texto": "95"
+  }
+ ]
+}

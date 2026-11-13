@@ -1,0 +1,1955 @@
+{
+ "id": "cat_076_catalogo_carmen_nieto",
+ "nombre_original": "Catálogo-Carmen-Nieto",
+ "longitud_texto": 19564,
+ "sha256_texto": "3011dd46bf4592d302471735dd9e61bf75890cd43c1472f32d64364cf52ed7dc",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 428,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 69,
+   "texto": "Carmen Nieto\nManglano\nConversaciones y discusiones\nentre madre e hija"
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 21,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carmen Nieto\nManglano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 21,
+   "texto": "Carmen Nieto\nManglano"
+  },
+  {
+   "tipo": "institution",
+   "ini": 71,
+   "fin": 95,
+   "rasgos": {
+    "type": "administration",
+    "role": "organiser"
+   },
+   "texto": "Junta de Castilla y León"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 80,
+   "fin": 95,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Castilla y León"
+  },
+  {
+   "tipo": "title",
+   "ini": 97,
+   "fin": 144,
+   "texto": "Conversaciones\ny\ndiscusiones\nentre madre e hija"
+  },
+  {
+   "tipo": "person",
+   "ini": 197,
+   "fin": 213,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "María Sanz Nieto"
+  },
+  {
+   "tipo": "persName",
+   "ini": 197,
+   "fin": 213,
+   "texto": "María Sanz Nieto"
+  },
+  {
+   "tipo": "person",
+   "ini": 228,
+   "fin": 244,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "María Sanz Nieto"
+  },
+  {
+   "tipo": "persName",
+   "ini": 228,
+   "fin": 244,
+   "texto": "María Sanz Nieto"
+  },
+  {
+   "tipo": "person",
+   "ini": 247,
+   "fin": 257,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "Okke Brand"
+  },
+  {
+   "tipo": "persName",
+   "ini": 247,
+   "fin": 257,
+   "texto": "Okke Brand"
+  },
+  {
+   "tipo": "institution",
+   "ini": 295,
+   "fin": 310,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Museo de Burgos"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 304,
+   "fin": 310,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Burgos"
+  },
+  {
+   "tipo": "institution",
+   "ini": 322,
+   "fin": 330,
+   "rasgos": {
+    "type": "company"
+   },
+   "texto": "Feltrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 350,
+   "fin": 366,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "María Sanz Nieto"
+  },
+  {
+   "tipo": "persName",
+   "ini": 350,
+   "fin": 366,
+   "texto": "María Sanz Nieto"
+  },
+  {
+   "tipo": "person",
+   "ini": 384,
+   "fin": 396,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "Javier Abril"
+  },
+  {
+   "tipo": "persName",
+   "ini": 384,
+   "fin": 396,
+   "texto": "Javier Abril"
+  },
+  {
+   "tipo": "persName",
+   "ini": 410,
+   "fin": 429,
+   "texto": "Jorge Martin Muñoz\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 410,
+   "fin": 428,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Jorge Martin Muñoz"
+  },
+  {
+   "tipo": "person",
+   "ini": 733,
+   "fin": 780,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carmen Nieto Manglano\nMadrid 1949 - Burgos 2006"
+  },
+  {
+   "tipo": "persName",
+   "ini": 733,
+   "fin": 754,
+   "texto": "Carmen Nieto Manglano"
+  },
+  {
+   "tipo": "birth",
+   "ini": 755,
+   "fin": 766
+  },
+  {
+   "tipo": "placeName",
+   "ini": 755,
+   "fin": 761,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "date",
+   "ini": 762,
+   "fin": 766,
+   "rasgos": {
+    "when": "1949"
+   },
+   "texto": "1949"
+  },
+  {
+   "tipo": "death",
+   "ini": 769,
+   "fin": 780
+  },
+  {
+   "tipo": "placeName",
+   "ini": 769,
+   "fin": 775,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Burgos"
+  },
+  {
+   "tipo": "date",
+   "ini": 776,
+   "fin": 780,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "person",
+   "ini": 4645,
+   "fin": 4666,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carmen Nieto Manglano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4645,
+   "fin": 4666,
+   "texto": "Carmen Nieto Manglano"
+  },
+  {
+   "tipo": "title",
+   "ini": 7112,
+   "fin": 7159,
+   "texto": "Conversaciones y discusiones entre madre e hija"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 7112,
+   "fin": 7159,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 7194,
+   "fin": 7200,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carmen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7194,
+   "fin": 7200,
+   "texto": "Carmen"
+  },
+  {
+   "tipo": "person",
+   "ini": 7723,
+   "fin": 7729,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carmen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7723,
+   "fin": 7729,
+   "texto": "Carmen"
+  },
+  {
+   "tipo": "person",
+   "ini": 9240,
+   "fin": 9261,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carmen Nieto Manglano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9240,
+   "fin": 9261,
+   "texto": "Carmen Nieto Manglano"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 12040,
+   "fin": 13556
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12050,
+   "fin": 12094
+  },
+  {
+   "tipo": "img",
+   "ini": 12050,
+   "fin": 12055,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12057,
+   "fin": 12094,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "1999 / 195 x 130 cm / Óleo sobre lino"
+  },
+  {
+   "tipo": "date",
+   "ini": 12057,
+   "fin": 12061,
+   "rasgos": {
+    "when": "1999"
+   },
+   "texto": "1999"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12064,
+   "fin": 12076,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "195 x 130 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12079,
+   "fin": 12094,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lino"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12096,
+   "fin": 12148
+  },
+  {
+   "tipo": "img",
+   "ini": 12096,
+   "fin": 12101,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12103,
+   "fin": 12148,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "2006 / 195 x 195 cm / Lápiz y óleo sobre lino"
+  },
+  {
+   "tipo": "date",
+   "ini": 12103,
+   "fin": 12107,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12110,
+   "fin": 12122,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "195 x 195 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12125,
+   "fin": 12148,
+   "rasgos": {
+    "type": "oil, pencil"
+   },
+   "texto": "Lápiz y óleo sobre lino"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12150,
+   "fin": 12201
+  },
+  {
+   "tipo": "img",
+   "ini": 12150,
+   "fin": 12155,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12157,
+   "fin": 12201,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "2005 /195 x 175 cm / Óleo y lápiz sobre lino"
+  },
+  {
+   "tipo": "date",
+   "ini": 12157,
+   "fin": 12161,
+   "rasgos": {
+    "when": "2005"
+   },
+   "texto": "2005"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12163,
+   "fin": 12175,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "195 x 175 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12178,
+   "fin": 12201,
+   "rasgos": {
+    "type": "oil, pencil"
+   },
+   "texto": "Óleo y lápiz sobre lino"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12203,
+   "fin": 12247
+  },
+  {
+   "tipo": "img",
+   "ini": 12203,
+   "fin": 12208,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12210,
+   "fin": 12247,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "2003 / 200 x 165 cm / Óleo sobre lino"
+  },
+  {
+   "tipo": "date",
+   "ini": 12210,
+   "fin": 12214,
+   "rasgos": {
+    "when": "2003"
+   },
+   "texto": "2003"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12217,
+   "fin": 12229,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 165 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12232,
+   "fin": 12247,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lino"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12249,
+   "fin": 12293
+  },
+  {
+   "tipo": "img",
+   "ini": 12249,
+   "fin": 12254,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12256,
+   "fin": 12293,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "2004 / 146 x 114 cm / Óleo sobre lino"
+  },
+  {
+   "tipo": "date",
+   "ini": 12256,
+   "fin": 12260,
+   "rasgos": {
+    "when": "2004"
+   },
+   "texto": "2004"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12263,
+   "fin": 12275,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "146 x 114 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12278,
+   "fin": 12293,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lino"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12295,
+   "fin": 12347
+  },
+  {
+   "tipo": "img",
+   "ini": 12295,
+   "fin": 12300,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12302,
+   "fin": 12347,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "2006 / 130 x 197 cm / Óleo y lápiz sobre lino"
+  },
+  {
+   "tipo": "date",
+   "ini": 12302,
+   "fin": 12306,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12309,
+   "fin": 12321,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 197 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12324,
+   "fin": 12347,
+   "rasgos": {
+    "type": "oil, pencil"
+   },
+   "texto": "Óleo y lápiz sobre lino"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12349,
+   "fin": 12401
+  },
+  {
+   "tipo": "img",
+   "ini": 12349,
+   "fin": 12354,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12356,
+   "fin": 12401,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "2005 / 197 X 130 cm / Óleo y lápiz sobre lino"
+  },
+  {
+   "tipo": "date",
+   "ini": 12356,
+   "fin": 12360,
+   "rasgos": {
+    "when": "2005"
+   },
+   "texto": "2005"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12363,
+   "fin": 12375,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "197 X 130 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12378,
+   "fin": 12402,
+   "rasgos": {
+    "type": "oil, pencil"
+   },
+   "texto": "Óleo y lápiz sobre lino\n"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12403,
+   "fin": 12464
+  },
+  {
+   "tipo": "img",
+   "ini": 12403,
+   "fin": 12408,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12410,
+   "fin": 12464,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "2006 / 130 x 130 cm / Bocetos de bolígrafo sobre papel"
+  },
+  {
+   "tipo": "date",
+   "ini": 12410,
+   "fin": 12414,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12417,
+   "fin": 12429,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 130 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12432,
+   "fin": 12464,
+   "rasgos": {
+    "type": "pen"
+   },
+   "texto": "Bocetos de bolígrafo sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12466,
+   "fin": 12518
+  },
+  {
+   "tipo": "img",
+   "ini": 12466,
+   "fin": 12471,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12473,
+   "fin": 12518,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "2006 / 162 x 130 cm / Óleo y lápiz sobre lino"
+  },
+  {
+   "tipo": "date",
+   "ini": 12473,
+   "fin": 12477,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12480,
+   "fin": 12492,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "162 x 130 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12495,
+   "fin": 12518,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo y lápiz sobre lino"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12520,
+   "fin": 12564
+  },
+  {
+   "tipo": "img",
+   "ini": 12520,
+   "fin": 12525,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12527,
+   "fin": 12564,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "2003 / 200 x 130 cm / Óleo sobre lino"
+  },
+  {
+   "tipo": "date",
+   "ini": 12527,
+   "fin": 12531,
+   "rasgos": {
+    "when": "2003"
+   },
+   "texto": "2003"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12534,
+   "fin": 12546,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 130 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12549,
+   "fin": 12565,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lino\n"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12566,
+   "fin": 12610
+  },
+  {
+   "tipo": "img",
+   "ini": 12566,
+   "fin": 12571,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12573,
+   "fin": 12610,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "2000 / 146 x 114 cm / Óleo sobre lino"
+  },
+  {
+   "tipo": "date",
+   "ini": 12573,
+   "fin": 12577,
+   "rasgos": {
+    "when": "2000"
+   },
+   "texto": "2000"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12580,
+   "fin": 12592,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "146 x 114 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12595,
+   "fin": 12610,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lino"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12612,
+   "fin": 12656
+  },
+  {
+   "tipo": "img",
+   "ini": 12612,
+   "fin": 12617,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12619,
+   "fin": 12656,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "1999 / 197 X 130 cm / Óleo sobre lino"
+  },
+  {
+   "tipo": "date",
+   "ini": 12619,
+   "fin": 12623,
+   "rasgos": {
+    "when": "1999"
+   },
+   "texto": "1999"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12626,
+   "fin": 12638,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "197 X 130 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12641,
+   "fin": 12656,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lino"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12658,
+   "fin": 12702
+  },
+  {
+   "tipo": "img",
+   "ini": 12658,
+   "fin": 12663,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12665,
+   "fin": 12702,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "2017 / 114 x 146 cm / Óleo sobre lino"
+  },
+  {
+   "tipo": "date",
+   "ini": 12665,
+   "fin": 12669,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12672,
+   "fin": 12684,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "114 x 146 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12687,
+   "fin": 12702,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lino"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12704,
+   "fin": 12745
+  },
+  {
+   "tipo": "img",
+   "ini": 12704,
+   "fin": 12709,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12711,
+   "fin": 12745,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "1994 / 97 x 130 cm Óleo sobre lino"
+  },
+  {
+   "tipo": "date",
+   "ini": 12711,
+   "fin": 12715,
+   "rasgos": {
+    "when": "1994"
+   },
+   "texto": "1994"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12718,
+   "fin": 12729,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "97 x 130 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12730,
+   "fin": 12745,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lino"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12747,
+   "fin": 12790
+  },
+  {
+   "tipo": "img",
+   "ini": 12747,
+   "fin": 12752,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12754,
+   "fin": 12790,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "2004 / 50 x 65 cm / Óleo sobre tabla"
+  },
+  {
+   "tipo": "date",
+   "ini": 12754,
+   "fin": 12758,
+   "rasgos": {
+    "when": "2004"
+   },
+   "texto": "2004"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12761,
+   "fin": 12771,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 65 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12774,
+   "fin": 12790,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12792,
+   "fin": 12835
+  },
+  {
+   "tipo": "img",
+   "ini": 12792,
+   "fin": 12797,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12799,
+   "fin": 12835,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "1998 / 81 x 65 cm / Óleo sobre tabla"
+  },
+  {
+   "tipo": "date",
+   "ini": 12799,
+   "fin": 12803,
+   "rasgos": {
+    "when": "1998"
+   },
+   "texto": "1998"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12806,
+   "fin": 12816,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 65 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12819,
+   "fin": 12835,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12837,
+   "fin": 12880
+  },
+  {
+   "tipo": "img",
+   "ini": 12837,
+   "fin": 12842,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12844,
+   "fin": 12880,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "1999 / 50 x 57 cm / Óleo sobre tabla"
+  },
+  {
+   "tipo": "date",
+   "ini": 12844,
+   "fin": 12848,
+   "rasgos": {
+    "when": "1999"
+   },
+   "texto": "1999"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12851,
+   "fin": 12861,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 57 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12864,
+   "fin": 12880,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12882,
+   "fin": 12925
+  },
+  {
+   "tipo": "img",
+   "ini": 12882,
+   "fin": 12887,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12889,
+   "fin": 12925,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "2004 / 50 x 65 cm / Óleo sobre tabla"
+  },
+  {
+   "tipo": "date",
+   "ini": 12889,
+   "fin": 12893,
+   "rasgos": {
+    "when": "2004"
+   },
+   "texto": "2004"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12896,
+   "fin": 12906,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 65 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12909,
+   "fin": 12925,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12927,
+   "fin": 12970
+  },
+  {
+   "tipo": "img",
+   "ini": 12927,
+   "fin": 12932,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12934,
+   "fin": 12970,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "2003 / 89 x 116 cm / Óleo sobre lino"
+  },
+  {
+   "tipo": "date",
+   "ini": 12934,
+   "fin": 12938,
+   "rasgos": {
+    "when": "2003"
+   },
+   "texto": "2003"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12941,
+   "fin": 12952,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "89 x 116 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12955,
+   "fin": 12970,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lino"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12972,
+   "fin": 13015
+  },
+  {
+   "tipo": "img",
+   "ini": 12972,
+   "fin": 12977,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12979,
+   "fin": 13015,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "2003 / 50 x 61 cm / Óleo sobre tabla"
+  },
+  {
+   "tipo": "date",
+   "ini": 12979,
+   "fin": 12983,
+   "rasgos": {
+    "when": "2003"
+   },
+   "texto": "2003"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12986,
+   "fin": 12996,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 61 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12999,
+   "fin": 13015,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13017,
+   "fin": 13060
+  },
+  {
+   "tipo": "img",
+   "ini": 13017,
+   "fin": 13022,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 13024,
+   "fin": 13060,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "2003 / 50 x 61 cm / Óleo sobre tabla"
+  },
+  {
+   "tipo": "date",
+   "ini": 13024,
+   "fin": 13028,
+   "rasgos": {
+    "when": "2003"
+   },
+   "texto": "2003"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13031,
+   "fin": 13041,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 61 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 13044,
+   "fin": 13060,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13062,
+   "fin": 13105
+  },
+  {
+   "tipo": "img",
+   "ini": 13062,
+   "fin": 13067,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 13069,
+   "fin": 13105,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "2003 / 50 x 61 cm / Óleo sobre tabla"
+  },
+  {
+   "tipo": "date",
+   "ini": 13069,
+   "fin": 13073,
+   "rasgos": {
+    "when": "2003"
+   },
+   "texto": "2003"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13076,
+   "fin": 13086,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 61 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 13089,
+   "fin": 13105,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13107,
+   "fin": 13150
+  },
+  {
+   "tipo": "img",
+   "ini": 13107,
+   "fin": 13112,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 13114,
+   "fin": 13150,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "2005 / 81 x 100 cm / Óleo sobre lino"
+  },
+  {
+   "tipo": "date",
+   "ini": 13114,
+   "fin": 13118,
+   "rasgos": {
+    "when": "2005"
+   },
+   "texto": "2005"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13121,
+   "fin": 13132,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 100 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 13135,
+   "fin": 13150,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lino"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13152,
+   "fin": 13195
+  },
+  {
+   "tipo": "img",
+   "ini": 13152,
+   "fin": 13157,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 13159,
+   "fin": 13195,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "2003 / 50 x 61 cm / Óleo sobre tabla"
+  },
+  {
+   "tipo": "date",
+   "ini": 13159,
+   "fin": 13163,
+   "rasgos": {
+    "when": "2003"
+   },
+   "texto": "2003"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13166,
+   "fin": 13176,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 61 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 13179,
+   "fin": 13195,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13197,
+   "fin": 13239
+  },
+  {
+   "tipo": "img",
+   "ini": 13197,
+   "fin": 13202,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 13204,
+   "fin": 13239,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "2003 / 61x 81 cm / Óleo sobre tabla"
+  },
+  {
+   "tipo": "date",
+   "ini": 13204,
+   "fin": 13208,
+   "rasgos": {
+    "when": "2003"
+   },
+   "texto": "2003"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13211,
+   "fin": 13220,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61x 81 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 13223,
+   "fin": 13239,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13241,
+   "fin": 13284
+  },
+  {
+   "tipo": "img",
+   "ini": 13241,
+   "fin": 13246,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 13248,
+   "fin": 13284,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "2001 / 130 x 96 cm / Óleo sobre lino"
+  },
+  {
+   "tipo": "date",
+   "ini": 13248,
+   "fin": 13252,
+   "rasgos": {
+    "when": "2001"
+   },
+   "texto": "2001"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13255,
+   "fin": 13266,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 96 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 13269,
+   "fin": 13284,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lino"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13286,
+   "fin": 13376
+  },
+  {
+   "tipo": "img",
+   "ini": 13286,
+   "fin": 13291,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 13292,
+   "fin": 13297,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 13298,
+   "fin": 13304,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 13304,
+   "fin": 13309,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 13311,
+   "fin": 13376,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 13311,
+   "fin": 13315,
+   "rasgos": {
+    "when": "2003"
+   },
+   "texto": "2003"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13318,
+   "fin": 13328,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 30 cm"
+  },
+  {
+   "tipo": "date",
+   "ini": 13335,
+   "fin": 13339,
+   "rasgos": {
+    "when": "2004"
+   },
+   "texto": "2004"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13342,
+   "fin": 13352,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "43 x 30 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 13359,
+   "fin": 13376,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleos sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13378,
+   "fin": 13421
+  },
+  {
+   "tipo": "img",
+   "ini": 13378,
+   "fin": 13383,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 13385,
+   "fin": 13421,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "1998 / 61 x 50 cm / Óleo sobre tabla"
+  },
+  {
+   "tipo": "date",
+   "ini": 13385,
+   "fin": 13389,
+   "rasgos": {
+    "when": "1998"
+   },
+   "texto": "1998"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13392,
+   "fin": 13402,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 50 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 13405,
+   "fin": 13421,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13423,
+   "fin": 13466
+  },
+  {
+   "tipo": "img",
+   "ini": 13423,
+   "fin": 13428,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 13430,
+   "fin": 13466,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "1999 / 116 x 89 cm / Óleo sobre lino"
+  },
+  {
+   "tipo": "date",
+   "ini": 13430,
+   "fin": 13434,
+   "rasgos": {
+    "when": "1999"
+   },
+   "texto": "1999"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13437,
+   "fin": 13448,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "116 x 89 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 13451,
+   "fin": 13466,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lino"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13468,
+   "fin": 13511
+  },
+  {
+   "tipo": "img",
+   "ini": 13468,
+   "fin": 13473,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 13475,
+   "fin": 13511,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "2002 / 46 x 55 cm / Óleo sobre tabla"
+  },
+  {
+   "tipo": "date",
+   "ini": 13475,
+   "fin": 13479,
+   "rasgos": {
+    "when": "2002"
+   },
+   "texto": "2002"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13482,
+   "fin": 13492,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 55 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 13495,
+   "fin": 13511,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13513,
+   "fin": 13556
+  },
+  {
+   "tipo": "img",
+   "ini": 13513,
+   "fin": 13518,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 13520,
+   "fin": 13556,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "1998 / 61 x 50 cm / Óleo sobre tabla"
+  },
+  {
+   "tipo": "date",
+   "ini": 13520,
+   "fin": 13524,
+   "rasgos": {
+    "when": "1998"
+   },
+   "texto": "1998"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13527,
+   "fin": 13537,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 50 cm"
+  },
+  {
+   "tipo": "technique",
+   "ini": 13540,
+   "fin": 13556,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 13558,
+   "fin": 13586,
+   "texto": "Conversaciones\ny\ndiscusiones"
+  }
+ ]
+}

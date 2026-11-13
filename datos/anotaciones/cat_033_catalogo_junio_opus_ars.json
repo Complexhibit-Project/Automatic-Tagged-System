@@ -1,0 +1,2283 @@
+{
+ "id": "cat_033_catalogo_junio_opus_ars",
+ "nombre_original": "Catalogo junio Opus Ars",
+ "longitud_texto": 18144,
+ "sha256_texto": "d633e5b88051970ecc923437ed39f6739acc34fb3a27ace7f8f494bcbff9dbd6",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 696,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 46,
+   "texto": "Paisajes íntimos\n\nopus ars\nArte & arquitectura"
+  },
+  {
+   "tipo": "institution",
+   "ini": 47,
+   "fin": 51,
+   "rasgos": {
+    "type": "school",
+    "role": "organiser"
+   },
+   "texto": "COAM"
+  },
+  {
+   "tipo": "date",
+   "ini": 52,
+   "fin": 56,
+   "rasgos": {
+    "when": "2022"
+   },
+   "texto": "2022"
+  },
+  {
+   "tipo": "person",
+   "ini": 58,
+   "fin": 75,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Ramón Martín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 58,
+   "fin": 75,
+   "texto": "Juan Ramón Martín"
+  },
+  {
+   "tipo": "person",
+   "ini": 76,
+   "fin": 88,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge Palomo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 76,
+   "fin": 88,
+   "texto": "Jorge Palomo"
+  },
+  {
+   "tipo": "person",
+   "ini": 89,
+   "fin": 107,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Félix de la Concha"
+  },
+  {
+   "tipo": "persName",
+   "ini": 89,
+   "fin": 107,
+   "texto": "Félix de la Concha"
+  },
+  {
+   "tipo": "person",
+   "ini": 108,
+   "fin": 120,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pablo Urruti"
+  },
+  {
+   "tipo": "persName",
+   "ini": 108,
+   "fin": 120,
+   "texto": "Pablo Urruti"
+  },
+  {
+   "tipo": "person",
+   "ini": 121,
+   "fin": 142,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Odnoder Pablo Redondo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 121,
+   "fin": 142,
+   "texto": "Odnoder Pablo Redondo"
+  },
+  {
+   "tipo": "title",
+   "ini": 159,
+   "fin": 175,
+   "texto": "Paisajes íntimos"
+  },
+  {
+   "tipo": "person",
+   "ini": 228,
+   "fin": 251,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Pablo Redondo (Odnoder)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 228,
+   "fin": 251,
+   "texto": "Pablo Redondo (Odnoder)"
+  },
+  {
+   "tipo": "date",
+   "ini": 301,
+   "fin": 322,
+   "rasgos": {
+    "from": "2022-06-01",
+    "to": "2022-06-30"
+   },
+   "texto": "junio y julio de 2022"
+  },
+  {
+   "tipo": "venue",
+   "ini": 329,
+   "fin": 379,
+   "texto": "sala Mercadal del Colegio de Arquitectos de Madrid"
+  },
+  {
+   "tipo": "institution",
+   "ini": 347,
+   "fin": 379,
+   "rasgos": {
+    "type": "school",
+    "role": "organiser"
+   },
+   "texto": "Colegio de Arquitectos de Madrid"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 373,
+   "fin": 379,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "institution",
+   "ini": 406,
+   "fin": 437,
+   "rasgos": {
+    "type": "foundation, school",
+    "role": "organiser"
+   },
+   "texto": "Fundación Arquitectura del COAM"
+  },
+  {
+   "tipo": "title",
+   "ini": 455,
+   "fin": 484,
+   "texto": "opus ars: Arte & arquitectura"
+  },
+  {
+   "tipo": "institution",
+   "ini": 489,
+   "fin": 516,
+   "rasgos": {
+    "type": "foundation, school",
+    "role": "organiser"
+   },
+   "texto": "Fundación Arquitectura COAM"
+  },
+  {
+   "tipo": "person",
+   "ini": 656,
+   "fin": 672,
+   "rasgos": {
+    "role": "catalogueDesigner"
+   },
+   "texto": "JuanRamón Martín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 656,
+   "fin": 672,
+   "texto": "JuanRamón Martín"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 685,
+   "fin": 691,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "date",
+   "ini": 692,
+   "fin": 696,
+   "rasgos": {
+    "when": "2022"
+   },
+   "texto": "2022"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 698,
+   "fin": 840,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 698,
+   "fin": 743,
+   "texto": "Paisajes íntimos\nopus ars\nArte & arquitectura"
+  },
+  {
+   "tipo": "person",
+   "ini": 745,
+   "fin": 762,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Ramón Martín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 745,
+   "fin": 762,
+   "texto": "Juan Ramón Martín"
+  },
+  {
+   "tipo": "person",
+   "ini": 763,
+   "fin": 775,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jorge Palomo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 763,
+   "fin": 775,
+   "texto": "Jorge Palomo"
+  },
+  {
+   "tipo": "person",
+   "ini": 776,
+   "fin": 794,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Félix de la Concha"
+  },
+  {
+   "tipo": "persName",
+   "ini": 776,
+   "fin": 794,
+   "texto": "Félix de la Concha"
+  },
+  {
+   "tipo": "person",
+   "ini": 795,
+   "fin": 807,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pablo Urruti"
+  },
+  {
+   "tipo": "persName",
+   "ini": 795,
+   "fin": 807,
+   "texto": "Pablo Urruti"
+  },
+  {
+   "tipo": "person",
+   "ini": 808,
+   "fin": 829,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Odnoder Pablo Redondo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 808,
+   "fin": 829,
+   "texto": "Odnoder Pablo Redondo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 830,
+   "fin": 834,
+   "rasgos": {
+    "type": "school",
+    "role": "organiser"
+   },
+   "texto": "COAM"
+  },
+  {
+   "tipo": "date",
+   "ini": 835,
+   "fin": 839,
+   "rasgos": {
+    "when": "2022"
+   },
+   "texto": "2022"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 842,
+   "fin": 18144
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 842,
+   "fin": 4817
+  },
+  {
+   "tipo": "person",
+   "ini": 842,
+   "fin": 859,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JUAN RAMÓN MARTÍN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 842,
+   "fin": 859,
+   "texto": "JUAN RAMÓN MARTÍN"
+  },
+  {
+   "tipo": "text",
+   "ini": 861,
+   "fin": 4302
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4304,
+   "fin": 4421
+  },
+  {
+   "tipo": "work",
+   "ini": 4304,
+   "fin": 4414,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Siroco\nde la serie “Los Vientos de Iberia”\nPieza única\nDim: 82x58x45\nAcero forjado en frío, soldado y patinado"
+  },
+  {
+   "tipo": "title",
+   "ini": 4304,
+   "fin": 4310,
+   "texto": "Siroco"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 4317,
+   "fin": 4346
+  },
+  {
+   "tipo": "title",
+   "ini": 4324,
+   "fin": 4345,
+   "texto": "Los Vientos de Iberia"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 4347,
+   "fin": 4358
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4364,
+   "fin": 4372,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "82x58x45"
+  },
+  {
+   "tipo": "height",
+   "ini": 4364,
+   "fin": 4366,
+   "texto": "82"
+  },
+  {
+   "tipo": "width",
+   "ini": 4367,
+   "fin": 4369,
+   "texto": "58"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4370,
+   "fin": 4372,
+   "texto": "45"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4373,
+   "fin": 4414,
+   "rasgos": {
+    "type": "steel"
+   },
+   "texto": "Acero forjado en frío, soldado y patinado"
+  },
+  {
+   "tipo": "img",
+   "ini": 4416,
+   "fin": 4421,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4423,
+   "fin": 4554
+  },
+  {
+   "tipo": "work",
+   "ini": 4423,
+   "fin": 4547,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Las armas de Homero\nde la serie “Los Vientos de Iberia”\nPieza única\nDim: 60x110x40\nAcero forjado en frío, soldado y patinado"
+  },
+  {
+   "tipo": "title",
+   "ini": 4423,
+   "fin": 4442,
+   "texto": "Las armas de Homero"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 4449,
+   "fin": 4478
+  },
+  {
+   "tipo": "title",
+   "ini": 4456,
+   "fin": 4477,
+   "texto": "Los Vientos de Iberia"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 4479,
+   "fin": 4490
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4496,
+   "fin": 4505,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60x110x40"
+  },
+  {
+   "tipo": "height",
+   "ini": 4496,
+   "fin": 4498,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 4499,
+   "fin": 4502,
+   "texto": "110"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4503,
+   "fin": 4505,
+   "texto": "40"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4506,
+   "fin": 4547,
+   "rasgos": {
+    "type": "steel"
+   },
+   "texto": "Acero forjado en frío, soldado y patinado"
+  },
+  {
+   "tipo": "img",
+   "ini": 4549,
+   "fin": 4554,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4556,
+   "fin": 4684
+  },
+  {
+   "tipo": "work",
+   "ini": 4556,
+   "fin": 4677,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Homenje a San Francisco de Asís\nde la serie “Místicos”\nPieza única\nDim: 70x55x20\nAcero forjado en frío, soldado, pavonado"
+  },
+  {
+   "tipo": "title",
+   "ini": 4556,
+   "fin": 4587,
+   "texto": "Homenje a San Francisco de Asís"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 4594,
+   "fin": 4610
+  },
+  {
+   "tipo": "title",
+   "ini": 4601,
+   "fin": 4609,
+   "texto": "Místicos"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 4611,
+   "fin": 4622
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4628,
+   "fin": 4636,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70x55x20"
+  },
+  {
+   "tipo": "height",
+   "ini": 4628,
+   "fin": 4630,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 4631,
+   "fin": 4633,
+   "texto": "55"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4634,
+   "fin": 4636,
+   "texto": "20"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4637,
+   "fin": 4677,
+   "rasgos": {
+    "type": "steel"
+   },
+   "texto": "Acero forjado en frío, soldado, pavonado"
+  },
+  {
+   "tipo": "img",
+   "ini": 4679,
+   "fin": 4684,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4686,
+   "fin": 4817
+  },
+  {
+   "tipo": "work",
+   "ini": 4686,
+   "fin": 4810,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Viento en el Algarve\nde la serie “Los Vientos de Iberia”\nPieza única\nDim: 36x40x30\nAcero forjado en frío, soldado y patinado"
+  },
+  {
+   "tipo": "title",
+   "ini": 4686,
+   "fin": 4706,
+   "texto": "Viento en el Algarve"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 4713,
+   "fin": 4742
+  },
+  {
+   "tipo": "title",
+   "ini": 4720,
+   "fin": 4741,
+   "texto": "Los Vientos de Iberia"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 4743,
+   "fin": 4754
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4760,
+   "fin": 4768,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "36x40x30"
+  },
+  {
+   "tipo": "height",
+   "ini": 4760,
+   "fin": 4762,
+   "texto": "36"
+  },
+  {
+   "tipo": "width",
+   "ini": 4763,
+   "fin": 4765,
+   "texto": "40"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4766,
+   "fin": 4768,
+   "texto": "30"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4769,
+   "fin": 4810,
+   "rasgos": {
+    "type": "steel"
+   },
+   "texto": "Acero forjado en frío, soldado y patinado"
+  },
+  {
+   "tipo": "img",
+   "ini": 4812,
+   "fin": 4817,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 4819,
+   "fin": 8153
+  },
+  {
+   "tipo": "person",
+   "ini": 4819,
+   "fin": 4855,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JORGE PALOMO\n\nNací en Madrid en 1976"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4819,
+   "fin": 4831,
+   "texto": "JORGE PALOMO"
+  },
+  {
+   "tipo": "text",
+   "ini": 4833,
+   "fin": 7578
+  },
+  {
+   "tipo": "birth",
+   "ini": 4833,
+   "fin": 4855
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4841,
+   "fin": 4847,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "date",
+   "ini": 4851,
+   "fin": 4855,
+   "rasgos": {
+    "when": "1976"
+   },
+   "texto": "1976"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7580,
+   "fin": 7642
+  },
+  {
+   "tipo": "work",
+   "ini": 7580,
+   "fin": 7635,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Kiretsu\nPieza única\nDim: 200x200\nAcrílico sobre lienzo."
+  },
+  {
+   "tipo": "title",
+   "ini": 7580,
+   "fin": 7587,
+   "texto": "Kiretsu"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 7588,
+   "fin": 7599
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7605,
+   "fin": 7612,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200x200"
+  },
+  {
+   "tipo": "height",
+   "ini": 7605,
+   "fin": 7608,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 7609,
+   "fin": 7612,
+   "texto": "200"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7613,
+   "fin": 7634,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "img",
+   "ini": 7637,
+   "fin": 7642,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7644,
+   "fin": 7710
+  },
+  {
+   "tipo": "work",
+   "ini": 7644,
+   "fin": 7703,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "B-Fura Kutaru\nPieza única\nDim: 80x40\nCartulina sobre madera"
+  },
+  {
+   "tipo": "title",
+   "ini": 7644,
+   "fin": 7657,
+   "texto": "B-Fura Kutaru"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 7658,
+   "fin": 7669
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7675,
+   "fin": 7680,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80x40"
+  },
+  {
+   "tipo": "height",
+   "ini": 7675,
+   "fin": 7677,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 7678,
+   "fin": 7680,
+   "texto": "40"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7681,
+   "fin": 7703,
+   "rasgos": {
+    "type": "cardboard"
+   },
+   "texto": "Cartulina sobre madera"
+  },
+  {
+   "tipo": "img",
+   "ini": 7705,
+   "fin": 7710,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7712,
+   "fin": 7774
+  },
+  {
+   "tipo": "work",
+   "ini": 7712,
+   "fin": 7767,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Wareme I\nPieza única\nDim: 60x120\nCartulina sobre madera"
+  },
+  {
+   "tipo": "title",
+   "ini": 7712,
+   "fin": 7720,
+   "texto": "Wareme I"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 7721,
+   "fin": 7732
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7738,
+   "fin": 7744,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60x120"
+  },
+  {
+   "tipo": "height",
+   "ini": 7738,
+   "fin": 7740,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 7741,
+   "fin": 7744,
+   "texto": "120"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7745,
+   "fin": 7767,
+   "rasgos": {
+    "type": "cardboard"
+   },
+   "texto": "Cartulina sobre madera"
+  },
+  {
+   "tipo": "img",
+   "ini": 7769,
+   "fin": 7774,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7776,
+   "fin": 7840
+  },
+  {
+   "tipo": "work",
+   "ini": 7776,
+   "fin": 7833,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Kiru\nPieza única\nDim: 60x100\nacero corten y piedra caliza"
+  },
+  {
+   "tipo": "title",
+   "ini": 7776,
+   "fin": 7780,
+   "texto": "Kiru"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 7781,
+   "fin": 7792
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7798,
+   "fin": 7804,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60x100"
+  },
+  {
+   "tipo": "height",
+   "ini": 7798,
+   "fin": 7800,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 7801,
+   "fin": 7804,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7805,
+   "fin": 7833,
+   "rasgos": {
+    "type": "steel, stone"
+   },
+   "texto": "acero corten y piedra caliza"
+  },
+  {
+   "tipo": "img",
+   "ini": 7835,
+   "fin": 7840,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7842,
+   "fin": 8153
+  },
+  {
+   "tipo": "img",
+   "ini": 7842,
+   "fin": 7847,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 7849,
+   "fin": 8153,
+   "rasgos": {
+    "type": "painting",
+    "size": "23"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 7849,
+   "fin": 7875,
+   "texto": "El ciprés del Círco Máximo"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7876,
+   "fin": 7880,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Roma"
+  },
+  {
+   "tipo": "date",
+   "ini": 7881,
+   "fin": 7885,
+   "rasgos": {
+    "when": "1993"
+   },
+   "texto": "1993"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 7886,
+   "fin": 7895
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7899,
+   "fin": 7925,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "75x46,5 (ancho total 11 m)"
+  },
+  {
+   "tipo": "height",
+   "ini": 7899,
+   "fin": 7901,
+   "texto": "75"
+  },
+  {
+   "tipo": "width",
+   "ini": 7902,
+   "fin": 7906,
+   "texto": "46,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 7920,
+   "fin": 7922,
+   "texto": "11"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7926,
+   "fin": 7943,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 7954,
+   "fin": 7978,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "galería Fernández-Brasso"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 7979,
+   "fin": 8152
+  },
+  {
+   "tipo": "date",
+   "ini": 7996,
+   "fin": 8009,
+   "rasgos": {
+    "from": "1993-05-01",
+    "to": "1993-05-31"
+   },
+   "texto": " mayo de 1993"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 8155,
+   "fin": 12723
+  },
+  {
+   "tipo": "person",
+   "ini": 8155,
+   "fin": 8173,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "FÉLIX DE LA CONCHA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8155,
+   "fin": 8173,
+   "texto": "FÉLIX DE LA CONCHA"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 8198,
+   "fin": 8208,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "ROMA-BOONE"
+  },
+  {
+   "tipo": "text",
+   "ini": 8210,
+   "fin": 12195
+  },
+  {
+   "tipo": "birth",
+   "ini": 8210,
+   "fin": 8230
+  },
+  {
+   "tipo": "placeName",
+   "ini": 8218,
+   "fin": 8222,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "León"
+  },
+  {
+   "tipo": "date",
+   "ini": 8226,
+   "fin": 8230,
+   "rasgos": {
+    "when": "1962"
+   },
+   "texto": "1962"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12197,
+   "fin": 12343
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 12197,
+   "fin": 12336,
+   "rasgos": {
+    "type": "painting",
+    "size": "10"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 12197,
+   "fin": 12235,
+   "texto": "Caravana en Boone. Panorámica interior"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 12236,
+   "fin": 12254,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Carolina del Norte"
+  },
+  {
+   "tipo": "date",
+   "ini": 12255,
+   "fin": 12259,
+   "rasgos": {
+    "when": "2001"
+   },
+   "texto": "2001"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 12260,
+   "fin": 12269
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12273,
+   "fin": 12283,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "74 x 46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 12273,
+   "fin": 12275,
+   "texto": "74"
+  },
+  {
+   "tipo": "width",
+   "ini": 12278,
+   "fin": 12280,
+   "texto": "46"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12284,
+   "fin": 12301,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 12312,
+   "fin": 12336,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "galería Fernández-Brasso"
+  },
+  {
+   "tipo": "img",
+   "ini": 12338,
+   "fin": 12343,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12345,
+   "fin": 12474
+  },
+  {
+   "tipo": "img",
+   "ini": 12345,
+   "fin": 12350,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12352,
+   "fin": 12474,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pendiente de un hilo. Composición I\nCarolina del Norte 2001\n74 x 46 cm\nÓleo sobre lienzo\nCortesía galería Fernández-Brasso"
+  },
+  {
+   "tipo": "title",
+   "ini": 12352,
+   "fin": 12387,
+   "texto": "Pendiente de un hilo. Composición I"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 12388,
+   "fin": 12406,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Carolina del Norte"
+  },
+  {
+   "tipo": "date",
+   "ini": 12407,
+   "fin": 12411,
+   "rasgos": {
+    "when": "2001"
+   },
+   "texto": "2001"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12412,
+   "fin": 12422,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "74 x 46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 12412,
+   "fin": 12414,
+   "texto": "74"
+  },
+  {
+   "tipo": "width",
+   "ini": 12417,
+   "fin": 12419,
+   "texto": "46"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12423,
+   "fin": 12440,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 12450,
+   "fin": 12475,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "galería Fernández-Brasso\n"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12477,
+   "fin": 12603
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 12477,
+   "fin": 12584,
+   "rasgos": {
+    "type": "painting",
+    "size": "3"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 12477,
+   "fin": 12497,
+   "texto": "The Trailer Triptych"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 12498,
+   "fin": 12516,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Carolina del Norte"
+  },
+  {
+   "tipo": "date",
+   "ini": 12517,
+   "fin": 12521,
+   "rasgos": {
+    "when": "2001"
+   },
+   "texto": "2001"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12522,
+   "fin": 12532,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "74 x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 12522,
+   "fin": 12524,
+   "texto": "74"
+  },
+  {
+   "tipo": "width",
+   "ini": 12527,
+   "fin": 12529,
+   "texto": "60"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12533,
+   "fin": 12550,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 12560,
+   "fin": 12584,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "galería Fernández-Brasso"
+  },
+  {
+   "tipo": "img",
+   "ini": 12586,
+   "fin": 12591,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 12592,
+   "fin": 12597,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 12598,
+   "fin": 12603,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12605,
+   "fin": 12723
+  },
+  {
+   "tipo": "work",
+   "ini": 12605,
+   "fin": 12716,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El ciprés del Circo Máximo (detalle)\nRoma 1993\n75 x 46,5 cm\nÓleo sobre lienzo\nCortesía galería Fernández-Brasso"
+  },
+  {
+   "tipo": "title",
+   "ini": 12605,
+   "fin": 12641,
+   "texto": "El ciprés del Circo Máximo (detalle)"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 12642,
+   "fin": 12646,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Roma"
+  },
+  {
+   "tipo": "date",
+   "ini": 12647,
+   "fin": 12651,
+   "rasgos": {
+    "when": "1993"
+   },
+   "texto": "1993"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12652,
+   "fin": 12664,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "75 x 46,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 12652,
+   "fin": 12654,
+   "texto": "75"
+  },
+  {
+   "tipo": "width",
+   "ini": 12657,
+   "fin": 12661,
+   "texto": "46,5"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12665,
+   "fin": 12682,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 12692,
+   "fin": 12716,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "galería Fernández-Brasso"
+  },
+  {
+   "tipo": "img",
+   "ini": 12718,
+   "fin": 12723,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 12725,
+   "fin": 14778
+  },
+  {
+   "tipo": "person",
+   "ini": 12725,
+   "fin": 12737,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "PABLO URRUTI"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12725,
+   "fin": 12737,
+   "texto": "PABLO URRUTI"
+  },
+  {
+   "tipo": "text",
+   "ini": 12739,
+   "fin": 14431
+  },
+  {
+   "tipo": "person",
+   "ini": 12739,
+   "fin": 12790,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nacido en Madrid (1963), Pablo Pérez-Urruti de Sala"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 12749,
+   "fin": 12755,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "date",
+   "ini": 12757,
+   "fin": 12761,
+   "rasgos": {
+    "when": "1963"
+   },
+   "texto": "1963"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12764,
+   "fin": 12790,
+   "texto": "Pablo Pérez-Urruti de Sala"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14450,
+   "fin": 14537
+  },
+  {
+   "tipo": "work",
+   "ini": 14450,
+   "fin": 14530,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Br4 cmyk\nEdición limitada 5 ejemplares\nDim:30x30x7cm\nTalla en madera policromada"
+  },
+  {
+   "tipo": "title",
+   "ini": 14450,
+   "fin": 14458,
+   "texto": "Br4 cmyk"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 14459,
+   "fin": 14488
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14493,
+   "fin": 14502,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30x30x7cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14493,
+   "fin": 14495,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 14496,
+   "fin": 14498,
+   "texto": "30"
+  },
+  {
+   "tipo": "depth",
+   "ini": 14499,
+   "fin": 14500,
+   "texto": "7"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14503,
+   "fin": 14530,
+   "rasgos": {
+    "type": "polychromedWood"
+   },
+   "texto": "Talla en madera policromada"
+  },
+  {
+   "tipo": "img",
+   "ini": 14532,
+   "fin": 14537,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14539,
+   "fin": 14596
+  },
+  {
+   "tipo": "work",
+   "ini": 14539,
+   "fin": 14589,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Tótem 1\nObra única\nDim: 28x10x10cm\nTalla alabastro"
+  },
+  {
+   "tipo": "title",
+   "ini": 14539,
+   "fin": 14546,
+   "texto": "Tótem 1"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 14547,
+   "fin": 14557
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14563,
+   "fin": 14573,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "28x10x10cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14563,
+   "fin": 14565,
+   "texto": "28"
+  },
+  {
+   "tipo": "width",
+   "ini": 14566,
+   "fin": 14568,
+   "texto": "10"
+  },
+  {
+   "tipo": "depth",
+   "ini": 14569,
+   "fin": 14571,
+   "texto": "10"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14574,
+   "fin": 14589,
+   "rasgos": {
+    "type": "alabaster"
+   },
+   "texto": "Talla alabastro"
+  },
+  {
+   "tipo": "img",
+   "ini": 14591,
+   "fin": 14596,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14598,
+   "fin": 14706
+  },
+  {
+   "tipo": "work",
+   "ini": 14598,
+   "fin": 14699,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Sky2 cmyk\nSerie Skyscraper\nEdición limitada 15 ejemplares\nDim: 93x18x16cm\nTalla en madera policromada"
+  },
+  {
+   "tipo": "title",
+   "ini": 14598,
+   "fin": 14607,
+   "texto": "Sky2 cmyk"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 14608,
+   "fin": 14624
+  },
+  {
+   "tipo": "title",
+   "ini": 14614,
+   "fin": 14624,
+   "texto": "Skyscraper"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 14625,
+   "fin": 14655
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14661,
+   "fin": 14671,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "93x18x16cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14661,
+   "fin": 14663,
+   "texto": "93"
+  },
+  {
+   "tipo": "width",
+   "ini": 14664,
+   "fin": 14666,
+   "texto": "18"
+  },
+  {
+   "tipo": "depth",
+   "ini": 14667,
+   "fin": 14669,
+   "texto": "16"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14672,
+   "fin": 14699,
+   "rasgos": {
+    "type": "polychromedWood"
+   },
+   "texto": "Talla en madera policromada"
+  },
+  {
+   "tipo": "img",
+   "ini": 14701,
+   "fin": 14706,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14708,
+   "fin": 14778
+  },
+  {
+   "tipo": "work",
+   "ini": 14708,
+   "fin": 14771,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Sky 4 yk\nObra única\nDim: 93x18x16cm\nTalla en madera policromada"
+  },
+  {
+   "tipo": "title",
+   "ini": 14708,
+   "fin": 14716,
+   "texto": "Sky 4 yk"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 14717,
+   "fin": 14727
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14733,
+   "fin": 14743,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "93x18x16cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14733,
+   "fin": 14735,
+   "texto": "93"
+  },
+  {
+   "tipo": "width",
+   "ini": 14736,
+   "fin": 14738,
+   "texto": "18"
+  },
+  {
+   "tipo": "depth",
+   "ini": 14739,
+   "fin": 14741,
+   "texto": "16"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14744,
+   "fin": 14771,
+   "rasgos": {
+    "type": "polychromedWood"
+   },
+   "texto": "Talla en madera policromada"
+  },
+  {
+   "tipo": "img",
+   "ini": 14773,
+   "fin": 14778,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 14781,
+   "fin": 18144
+  },
+  {
+   "tipo": "person",
+   "ini": 14781,
+   "fin": 14802,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ODNODER PABLO REDONDO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14781,
+   "fin": 14802,
+   "texto": "ODNODER PABLO REDONDO"
+  },
+  {
+   "tipo": "text",
+   "ini": 14804,
+   "fin": 17019
+  },
+  {
+   "tipo": "person",
+   "ini": 14804,
+   "fin": 14862,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pablo Redondo Díez “Odnoder” nace en Málaga en el\naño 1964"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14804,
+   "fin": 14832,
+   "texto": "Pablo Redondo Díez “Odnoder”"
+  },
+  {
+   "tipo": "birth",
+   "ini": 14833,
+   "fin": 14861
+  },
+  {
+   "tipo": "placeName",
+   "ini": 14841,
+   "fin": 14847,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Málaga"
+  },
+  {
+   "tipo": "date",
+   "ini": 14858,
+   "fin": 14862,
+   "rasgos": {
+    "when": "1964"
+   },
+   "texto": "1964"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17021,
+   "fin": 17054
+  },
+  {
+   "tipo": "work",
+   "ini": 17021,
+   "fin": 17047,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Ángeles\nPieza única\nMadera"
+  },
+  {
+   "tipo": "title",
+   "ini": 17021,
+   "fin": 17028,
+   "texto": "Ángeles"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 17029,
+   "fin": 17040
+  },
+  {
+   "tipo": "material",
+   "ini": 17041,
+   "fin": 17047,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera"
+  },
+  {
+   "tipo": "img",
+   "ini": 17049,
+   "fin": 17054,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 17056,
+   "fin": 17935
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17937,
+   "fin": 17973
+  },
+  {
+   "tipo": "work",
+   "ini": 17937,
+   "fin": 17966,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Maternidad\nPieza única\nMadera"
+  },
+  {
+   "tipo": "title",
+   "ini": 17937,
+   "fin": 17947,
+   "texto": "Maternidad"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 17948,
+   "fin": 17959
+  },
+  {
+   "tipo": "material",
+   "ini": 17960,
+   "fin": 17966,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera"
+  },
+  {
+   "tipo": "img",
+   "ini": 17968,
+   "fin": 17973,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17975,
+   "fin": 18007
+  },
+  {
+   "tipo": "work",
+   "ini": 17975,
+   "fin": 18000,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Angels\nPieza única\nMadera"
+  },
+  {
+   "tipo": "title",
+   "ini": 17975,
+   "fin": 17981,
+   "texto": "Angels"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 17982,
+   "fin": 17993
+  },
+  {
+   "tipo": "material",
+   "ini": 17994,
+   "fin": 18000,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera"
+  },
+  {
+   "tipo": "img",
+   "ini": 18002,
+   "fin": 18007,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18009,
+   "fin": 18040
+  },
+  {
+   "tipo": "work",
+   "ini": 18009,
+   "fin": 18033,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Almas\nPieza única\nMadera"
+  },
+  {
+   "tipo": "title",
+   "ini": 18009,
+   "fin": 18014,
+   "texto": "Almas"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 18015,
+   "fin": 18026
+  },
+  {
+   "tipo": "material",
+   "ini": 18027,
+   "fin": 18033,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera"
+  },
+  {
+   "tipo": "img",
+   "ini": 18035,
+   "fin": 18040,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18042,
+   "fin": 18073
+  },
+  {
+   "tipo": "work",
+   "ini": 18042,
+   "fin": 18066,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Danza\nPieza única\nMadera"
+  },
+  {
+   "tipo": "title",
+   "ini": 18042,
+   "fin": 18047,
+   "texto": "Danza"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 18048,
+   "fin": 18059
+  },
+  {
+   "tipo": "material",
+   "ini": 18060,
+   "fin": 18066,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera"
+  },
+  {
+   "tipo": "img",
+   "ini": 18068,
+   "fin": 18073,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18075,
+   "fin": 18105
+  },
+  {
+   "tipo": "work",
+   "ini": 18075,
+   "fin": 18098,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Amor\nPieza única\nMadera"
+  },
+  {
+   "tipo": "title",
+   "ini": 18075,
+   "fin": 18079,
+   "texto": "Amor"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 18080,
+   "fin": 18091
+  },
+  {
+   "tipo": "material",
+   "ini": 18092,
+   "fin": 18098,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera"
+  },
+  {
+   "tipo": "img",
+   "ini": 18100,
+   "fin": 18105,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18107,
+   "fin": 18144
+  },
+  {
+   "tipo": "work",
+   "ini": 18107,
+   "fin": 18137,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Última cena\nPieza única\nMadera"
+  },
+  {
+   "tipo": "title",
+   "ini": 18107,
+   "fin": 18118,
+   "texto": "Última cena"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 18119,
+   "fin": 18130
+  },
+  {
+   "tipo": "material",
+   "ini": 18131,
+   "fin": 18137,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera"
+  },
+  {
+   "tipo": "img",
+   "ini": 18139,
+   "fin": 18144,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  }
+ ]
+}

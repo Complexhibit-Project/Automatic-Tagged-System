@@ -1,0 +1,5271 @@
+{
+ "id": "cat_010_16_words_and_images",
+ "nombre_original": "16. WORDS AND IMAGES",
+ "longitud_texto": 50973,
+ "sha256_texto": "8a48cb8fe5de4563ca2a86cbf347e7af5a9644607ab2b0a5c6d65c52f1bdebaf",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 45,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 16,
+   "texto": "WORDS and IMAGES"
+  },
+  {
+   "tipo": "institution",
+   "ini": 18,
+   "fin": 45,
+   "rasgos": {
+    "type": "college",
+    "role": "organiser, host"
+   },
+   "texto": "Philadelphia College of Art"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 18,
+   "fin": 30,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Philadelphia"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 48,
+   "fin": 369,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 48,
+   "fin": 64,
+   "texto": "WORDS and IMAGES"
+  },
+  {
+   "tipo": "date",
+   "ini": 66,
+   "fin": 95,
+   "rasgos": {
+    "from": "1979-09-15",
+    "to": "1979-10-12"
+   },
+   "texto": "September 15-October 12, 1979"
+  },
+  {
+   "tipo": "person",
+   "ini": 124,
+   "fin": 139,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Paula Marincola"
+  },
+  {
+   "tipo": "persName",
+   "ini": 124,
+   "fin": 139,
+   "texto": "Paula Marincola"
+  },
+  {
+   "tipo": "institution",
+   "ini": 148,
+   "fin": 175,
+   "rasgos": {
+    "type": "college",
+    "role": "organiser, host"
+   },
+   "texto": "Philadelphia College of Art"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 148,
+   "fin": 160,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Philadelphia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 177,
+   "fin": 204,
+   "rasgos": {
+    "type": "college",
+    "role": "organiser, host"
+   },
+   "texto": "Philadelphia College of Art"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 177,
+   "fin": 189,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Philadelphia"
+  },
+  {
+   "tipo": "person",
+   "ini": 221,
+   "fin": 236,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Paula Marincola"
+  },
+  {
+   "tipo": "persName",
+   "ini": 221,
+   "fin": 236,
+   "texto": "Paula Marincola"
+  },
+  {
+   "tipo": "person",
+   "ini": 268,
+   "fin": 278,
+   "rasgos": {
+    "role": "assistant"
+   },
+   "texto": "Patsy Dass"
+  },
+  {
+   "tipo": "persName",
+   "ini": 268,
+   "fin": 278,
+   "texto": "Patsy Dass"
+  },
+  {
+   "tipo": "person",
+   "ini": 305,
+   "fin": 321,
+   "rasgos": {
+    "role": "assistant"
+   },
+   "texto": "Gordon Gibfriedy"
+  },
+  {
+   "tipo": "persName",
+   "ini": 305,
+   "fin": 321,
+   "texto": "Gordon Gibfriedy"
+  },
+  {
+   "tipo": "person",
+   "ini": 357,
+   "fin": 369,
+   "rasgos": {
+    "role": "catalogueDesigner"
+   },
+   "texto": "Jerome Cloud"
+  },
+  {
+   "tipo": "persName",
+   "ini": 357,
+   "fin": 369,
+   "texto": "Jerome Cloud"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 371,
+   "fin": 1045,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 414,
+   "fin": 469,
+   "rasgos": {
+    "type": "academy",
+    "role": "patron"
+   },
+   "texto": "The National Endowment for the Arts in Washington. D.C."
+  },
+  {
+   "tipo": "institution",
+   "ini": 473,
+   "fin": 487,
+   "rasgos": {
+    "type": "agency",
+    "role": "patron"
+   },
+   "texto": "Federal Agency"
+  },
+  {
+   "tipo": "institution",
+   "ini": 497,
+   "fin": 529,
+   "rasgos": {
+    "type": "council",
+    "role": "patron"
+   },
+   "texto": "Pennsylvania Council on the Arts"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 497,
+   "fin": 509,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Pennsylvania"
+  },
+  {
+   "tipo": "institution",
+   "ini": 545,
+   "fin": 572,
+   "rasgos": {
+    "type": "college",
+    "role": "organiser"
+   },
+   "texto": "Philadelphia College of Art"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 545,
+   "fin": 557,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Philadelphia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 573,
+   "fin": 592,
+   "rasgos": {
+    "type": "library",
+    "role": "collaborator"
+   },
+   "texto": "Library of Congress"
+  },
+  {
+   "tipo": "institution",
+   "ini": 789,
+   "fin": 823,
+   "rasgos": {
+    "type": "museum",
+    "role": "photographer"
+   },
+   "texto": "The Whitney Museum of American Art"
+  },
+  {
+   "tipo": "person",
+   "ini": 832,
+   "fin": 849,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nicholas Africano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 832,
+   "fin": 849,
+   "texto": "Nicholas Africano"
+  },
+  {
+   "tipo": "person",
+   "ini": 850,
+   "fin": 861,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Terry Allen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 850,
+   "fin": 861,
+   "texto": "Terry Allen"
+  },
+  {
+   "tipo": "person",
+   "ini": 862,
+   "fin": 873,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Dotty Attie"
+  },
+  {
+   "tipo": "persName",
+   "ini": 862,
+   "fin": 873,
+   "texto": "Dotty Attie"
+  },
+  {
+   "tipo": "person",
+   "ini": 874,
+   "fin": 886,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bill Beckley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 874,
+   "fin": 886,
+   "texto": "Bill Beckley"
+  },
+  {
+   "tipo": "person",
+   "ini": 887,
+   "fin": 904,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jonathan Borofsky"
+  },
+  {
+   "tipo": "persName",
+   "ini": 887,
+   "fin": 904,
+   "texto": "Jonathan Borofsky"
+  },
+  {
+   "tipo": "person",
+   "ini": 905,
+   "fin": 917,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Steven Jaffe"
+  },
+  {
+   "tipo": "persName",
+   "ini": 905,
+   "fin": 917,
+   "texto": "Steven Jaffe"
+  },
+  {
+   "tipo": "person",
+   "ini": 918,
+   "fin": 937,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Christopher Knowles"
+  },
+  {
+   "tipo": "persName",
+   "ini": 918,
+   "fin": 937,
+   "texto": "Christopher Knowles"
+  },
+  {
+   "tipo": "person",
+   "ini": 938,
+   "fin": 952,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jerry Crimmins"
+  },
+  {
+   "tipo": "persName",
+   "ini": 938,
+   "fin": 952,
+   "texto": "Jerry Crimmins"
+  },
+  {
+   "tipo": "person",
+   "ini": 953,
+   "fin": 977,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Stephanie Brody Lederman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 953,
+   "fin": 977,
+   "texto": "Stephanie Brody Lederman"
+  },
+  {
+   "tipo": "person",
+   "ini": 978,
+   "fin": 990,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Claire Moore"
+  },
+  {
+   "tipo": "persName",
+   "ini": 978,
+   "fin": 990,
+   "texto": "Claire Moore"
+  },
+  {
+   "tipo": "person",
+   "ini": 991,
+   "fin": 1003,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexis Smith"
+  },
+  {
+   "tipo": "persName",
+   "ini": 991,
+   "fin": 1003,
+   "texto": "Alexis Smith"
+  },
+  {
+   "tipo": "person",
+   "ini": 1004,
+   "fin": 1015,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nancy Spero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1004,
+   "fin": 1015,
+   "texto": "Nancy Spero"
+  },
+  {
+   "tipo": "person",
+   "ini": 1016,
+   "fin": 1032,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "William T. Wiley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1016,
+   "fin": 1032,
+   "texto": "William T. Wiley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1033,
+   "fin": 1046,
+   "texto": "Isaiah Zagar\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 1033,
+   "fin": 1045,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Isaiah Zagar"
+  },
+  {
+   "tipo": "title",
+   "ini": 2209,
+   "fin": 2225,
+   "texto": "Words and Images"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 2226,
+   "fin": 2392,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 2226,
+   "fin": 2242,
+   "texto": "Words and Images"
+  },
+  {
+   "tipo": "title",
+   "ini": 3348,
+   "fin": 3364,
+   "texto": "Words and Images"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 3348,
+   "fin": 3364,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 7446,
+   "fin": 7457,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Terry Allen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7446,
+   "fin": 7457,
+   "texto": "Terry Allen"
+  },
+  {
+   "tipo": "person",
+   "ini": 7459,
+   "fin": 7471,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexis Smith"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7459,
+   "fin": 7471,
+   "texto": "Alexis Smith"
+  },
+  {
+   "tipo": "person",
+   "ini": 7473,
+   "fin": 7492,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Christopher Knowles"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7473,
+   "fin": 7492,
+   "texto": "Christopher Knowles"
+  },
+  {
+   "tipo": "person",
+   "ini": 7494,
+   "fin": 7507,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "William Wiley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7494,
+   "fin": 7507,
+   "texto": "William Wiley"
+  },
+  {
+   "tipo": "person",
+   "ini": 7532,
+   "fin": 7544,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "BilI Beckley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7532,
+   "fin": 7544,
+   "texto": "BilI Beckley"
+  },
+  {
+   "tipo": "person",
+   "ini": 7701,
+   "fin": 7725,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Stephanie Brody Lederman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7701,
+   "fin": 7725,
+   "texto": "Stephanie Brody Lederman"
+  },
+  {
+   "tipo": "person",
+   "ini": 7730,
+   "fin": 7747,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nicholas Africano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7730,
+   "fin": 7747,
+   "texto": "Nicholas Africano"
+  },
+  {
+   "tipo": "person",
+   "ini": 7870,
+   "fin": 7882,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Claire Moore"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7870,
+   "fin": 7882,
+   "texto": "Claire Moore"
+  },
+  {
+   "tipo": "person",
+   "ini": 7976,
+   "fin": 7990,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jerry Crimmins"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7976,
+   "fin": 7990,
+   "texto": "Jerry Crimmins"
+  },
+  {
+   "tipo": "person",
+   "ini": 8077,
+   "fin": 8096,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Christopher Knowles"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8077,
+   "fin": 8096,
+   "texto": "Christopher Knowles"
+  },
+  {
+   "tipo": "person",
+   "ini": 8141,
+   "fin": 8154,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Robert Wilson"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8141,
+   "fin": 8154,
+   "texto": "Robert Wilson"
+  },
+  {
+   "tipo": "person",
+   "ini": 9312,
+   "fin": 9320,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Borofsky"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9312,
+   "fin": 9320,
+   "texto": "Borofsky"
+  },
+  {
+   "tipo": "person",
+   "ini": 9322,
+   "fin": 9330,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lederman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9322,
+   "fin": 9330,
+   "texto": "Lederman"
+  },
+  {
+   "tipo": "person",
+   "ini": 9332,
+   "fin": 9337,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Moore"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9332,
+   "fin": 9337,
+   "texto": "Moore"
+  },
+  {
+   "tipo": "person",
+   "ini": 9342,
+   "fin": 9347,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Wiley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9342,
+   "fin": 9347,
+   "texto": "Wiley"
+  },
+  {
+   "tipo": "person",
+   "ini": 9499,
+   "fin": 9504,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Smith"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9499,
+   "fin": 9504,
+   "texto": "Smith"
+  },
+  {
+   "tipo": "person",
+   "ini": 9542,
+   "fin": 9549,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Beckley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9542,
+   "fin": 9549,
+   "texto": "Beckley"
+  },
+  {
+   "tipo": "person",
+   "ini": 9586,
+   "fin": 9597,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nancy Spero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9586,
+   "fin": 9597,
+   "texto": "Nancy Spero"
+  },
+  {
+   "tipo": "person",
+   "ini": 9602,
+   "fin": 9621,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Christopher Knowles"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9602,
+   "fin": 9621,
+   "texto": "Christopher Knowles"
+  },
+  {
+   "tipo": "person",
+   "ini": 9752,
+   "fin": 9763,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Terry Allen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9752,
+   "fin": 9763,
+   "texto": "Terry Allen"
+  },
+  {
+   "tipo": "person",
+   "ini": 9903,
+   "fin": 9915,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Steven Jaffe"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9903,
+   "fin": 9915,
+   "texto": "Steven Jaffe"
+  },
+  {
+   "tipo": "person",
+   "ini": 10145,
+   "fin": 10156,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Dotty Attie"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10145,
+   "fin": 10156,
+   "texto": "Dotty Attie"
+  },
+  {
+   "tipo": "person",
+   "ini": 11292,
+   "fin": 11306,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jerry Crimmins"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11292,
+   "fin": 11306,
+   "texto": "Jerry Crimmins"
+  },
+  {
+   "tipo": "person",
+   "ini": 11308,
+   "fin": 11327,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Christopher Knowles"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11308,
+   "fin": 11327,
+   "texto": "Christopher Knowles"
+  },
+  {
+   "tipo": "person",
+   "ini": 11329,
+   "fin": 11353,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Stephanie Brody Lederman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11329,
+   "fin": 11353,
+   "texto": "Stephanie Brody Lederman"
+  },
+  {
+   "tipo": "person",
+   "ini": 11355,
+   "fin": 11367,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Claire Moore"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11355,
+   "fin": 11367,
+   "texto": "Claire Moore"
+  },
+  {
+   "tipo": "person",
+   "ini": 11373,
+   "fin": 11385,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexis Smith"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11373,
+   "fin": 11385,
+   "texto": "Alexis Smith"
+  },
+  {
+   "tipo": "person",
+   "ini": 11466,
+   "fin": 11471,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Smith"
+  },
+  {
+   "tipo": "person",
+   "ini": 11591,
+   "fin": 11602,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Dotty Attie"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11591,
+   "fin": 11602,
+   "texto": "Dotty Attie"
+  },
+  {
+   "tipo": "person",
+   "ini": 11785,
+   "fin": 11796,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Dotty Attie"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11785,
+   "fin": 11796,
+   "texto": "Dotty Attie"
+  },
+  {
+   "tipo": "person",
+   "ini": 11801,
+   "fin": 11813,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexis Smith"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11801,
+   "fin": 11813,
+   "texto": "Alexis Smith"
+  },
+  {
+   "tipo": "person",
+   "ini": 13172,
+   "fin": 13183,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Dotty Attie"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13172,
+   "fin": 13183,
+   "texto": "Dotty Attie"
+  },
+  {
+   "tipo": "person",
+   "ini": 13219,
+   "fin": 13224,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Smith"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13219,
+   "fin": 13224,
+   "texto": "Smith"
+  },
+  {
+   "tipo": "person",
+   "ini": 13969,
+   "fin": 13974,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Attie"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13969,
+   "fin": 13974,
+   "texto": "Attie"
+  },
+  {
+   "tipo": "person",
+   "ini": 13981,
+   "fin": 13986,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Smith"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13981,
+   "fin": 13986,
+   "texto": "Smith"
+  },
+  {
+   "tipo": "person",
+   "ini": 14907,
+   "fin": 14914,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Beckley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14907,
+   "fin": 14914,
+   "texto": "Beckley"
+  },
+  {
+   "tipo": "person",
+   "ini": 15145,
+   "fin": 15157,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bill Beckley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15145,
+   "fin": 15157,
+   "texto": "Bill Beckley"
+  },
+  {
+   "tipo": "person",
+   "ini": 15934,
+   "fin": 15941,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Beckley"
+  },
+  {
+   "tipo": "person",
+   "ini": 16418,
+   "fin": 16423,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Attie"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16418,
+   "fin": 16423,
+   "texto": "Attie"
+  },
+  {
+   "tipo": "person",
+   "ini": 16427,
+   "fin": 16434,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Beckley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16427,
+   "fin": 16434,
+   "texto": "Beckley"
+  },
+  {
+   "tipo": "person",
+   "ini": 16441,
+   "fin": 16446,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Smith"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16441,
+   "fin": 16446,
+   "texto": "Smith"
+  },
+  {
+   "tipo": "person",
+   "ini": 16703,
+   "fin": 16714,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Terry Allen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16703,
+   "fin": 16714,
+   "texto": "Terry Allen"
+  },
+  {
+   "tipo": "person",
+   "ini": 17305,
+   "fin": 17310,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Allen"
+  },
+  {
+   "tipo": "person",
+   "ini": 17920,
+   "fin": 17934,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jerry Crimmins"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17920,
+   "fin": 17934,
+   "texto": "Jerry Crimmins"
+  },
+  {
+   "tipo": "person",
+   "ini": 18487,
+   "fin": 18498,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Terry Allen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18487,
+   "fin": 18498,
+   "texto": "Terry Allen"
+  },
+  {
+   "tipo": "person",
+   "ini": 18500,
+   "fin": 18511,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Dotty Attie"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18500,
+   "fin": 18511,
+   "texto": "Dotty Attie"
+  },
+  {
+   "tipo": "person",
+   "ini": 18513,
+   "fin": 18527,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jerry Crimmins"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18513,
+   "fin": 18527,
+   "texto": "Jerry Crimmins"
+  },
+  {
+   "tipo": "person",
+   "ini": 18533,
+   "fin": 18545,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexis Smith"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18533,
+   "fin": 18545,
+   "texto": "Alexis Smith"
+  },
+  {
+   "tipo": "person",
+   "ini": 18877,
+   "fin": 18889,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Isaiah Zagar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18877,
+   "fin": 18889,
+   "texto": "Isaiah Zagar"
+  },
+  {
+   "tipo": "person",
+   "ini": 19214,
+   "fin": 19219,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Zagar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19214,
+   "fin": 19219,
+   "texto": "Zagar"
+  },
+  {
+   "tipo": "person",
+   "ini": 19345,
+   "fin": 19358,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "William Wiley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19345,
+   "fin": 19358,
+   "texto": "William Wiley"
+  },
+  {
+   "tipo": "person",
+   "ini": 19360,
+   "fin": 19365,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Wiley"
+  },
+  {
+   "tipo": "person",
+   "ini": 19708,
+   "fin": 19732,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Stephanie Brody Lederman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19708,
+   "fin": 19732,
+   "texto": "Stephanie Brody Lederman"
+  },
+  {
+   "tipo": "person",
+   "ini": 19983,
+   "fin": 19988,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Wiley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19983,
+   "fin": 19988,
+   "texto": "Wiley"
+  },
+  {
+   "tipo": "person",
+   "ini": 19990,
+   "fin": 19998,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lederman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19990,
+   "fin": 19998,
+   "texto": "Lederman"
+  },
+  {
+   "tipo": "person",
+   "ini": 20373,
+   "fin": 20381,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lederman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20373,
+   "fin": 20381,
+   "texto": "Lederman"
+  },
+  {
+   "tipo": "person",
+   "ini": 20821,
+   "fin": 20833,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Claire Moore"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20821,
+   "fin": 20833,
+   "texto": "Claire Moore"
+  },
+  {
+   "tipo": "person",
+   "ini": 21578,
+   "fin": 21586,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lederman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21578,
+   "fin": 21586,
+   "texto": "Lederman"
+  },
+  {
+   "tipo": "person",
+   "ini": 22418,
+   "fin": 22423,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Moore"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22418,
+   "fin": 22423,
+   "texto": "Moore"
+  },
+  {
+   "tipo": "person",
+   "ini": 22783,
+   "fin": 22788,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Moore"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22783,
+   "fin": 22788,
+   "texto": "Moore"
+  },
+  {
+   "tipo": "person",
+   "ini": 23224,
+   "fin": 23229,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Moore"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23224,
+   "fin": 23229,
+   "texto": "Moore"
+  },
+  {
+   "tipo": "person",
+   "ini": 23320,
+   "fin": 23339,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Christopher Knowles"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23320,
+   "fin": 23339,
+   "texto": "Christopher Knowles"
+  },
+  {
+   "tipo": "person",
+   "ini": 24329,
+   "fin": 24346,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nicholas Africano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24329,
+   "fin": 24346,
+   "texto": "Nicholas Africano"
+  },
+  {
+   "tipo": "person",
+   "ini": 25568,
+   "fin": 25576,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Africano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25568,
+   "fin": 25576,
+   "texto": "Africano"
+  },
+  {
+   "tipo": "person",
+   "ini": 25581,
+   "fin": 25593,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jon Borofsky"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25581,
+   "fin": 25593,
+   "texto": "Jon Borofsky"
+  },
+  {
+   "tipo": "person",
+   "ini": 25980,
+   "fin": 25988,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Borofsky"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25980,
+   "fin": 25988,
+   "texto": "Borofsky"
+  },
+  {
+   "tipo": "person",
+   "ini": 26236,
+   "fin": 26244,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Borofsky"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26236,
+   "fin": 26244,
+   "texto": "Borofsky"
+  },
+  {
+   "tipo": "person",
+   "ini": 26278,
+   "fin": 26286,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Africano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26278,
+   "fin": 26286,
+   "texto": "Africano"
+  },
+  {
+   "tipo": "person",
+   "ini": 26291,
+   "fin": 26299,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Borofsky"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26291,
+   "fin": 26299,
+   "texto": "Borofsky"
+  },
+  {
+   "tipo": "person",
+   "ini": 26343,
+   "fin": 26351,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Africano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26343,
+   "fin": 26351,
+   "texto": "Africano"
+  },
+  {
+   "tipo": "person",
+   "ini": 26478,
+   "fin": 26486,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Borofsky"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26478,
+   "fin": 26486,
+   "texto": "Borofsky"
+  },
+  {
+   "tipo": "person",
+   "ini": 26827,
+   "fin": 26835,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Borofsky"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26827,
+   "fin": 26835,
+   "texto": "Borofsky"
+  },
+  {
+   "tipo": "person",
+   "ini": 26840,
+   "fin": 26848,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Africano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26840,
+   "fin": 26848,
+   "texto": "Africano"
+  },
+  {
+   "tipo": "person",
+   "ini": 26996,
+   "fin": 27007,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nancy Spero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26996,
+   "fin": 27007,
+   "texto": "Nancy Spero"
+  },
+  {
+   "tipo": "title",
+   "ini": 27021,
+   "fin": 27037,
+   "texto": "Words and Images"
+  },
+  {
+   "tipo": "person",
+   "ini": 27044,
+   "fin": 27052,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Borofsky"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27044,
+   "fin": 27052,
+   "texto": "Borofsky"
+  },
+  {
+   "tipo": "person",
+   "ini": 27098,
+   "fin": 27106,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Africano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27098,
+   "fin": 27106,
+   "texto": "Africano"
+  },
+  {
+   "tipo": "person",
+   "ini": 28241,
+   "fin": 28246,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Spero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28241,
+   "fin": 28246,
+   "texto": "Spero"
+  },
+  {
+   "tipo": "person",
+   "ini": 28398,
+   "fin": 28403,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Spero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28398,
+   "fin": 28403,
+   "texto": "Spero"
+  },
+  {
+   "tipo": "title",
+   "ini": 28962,
+   "fin": 28978,
+   "texto": "Words and Images"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 28962,
+   "fin": 28978,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 30108,
+   "fin": 30123,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Paula Marincola"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30108,
+   "fin": 30123,
+   "texto": "Paula Marincola"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 33015,
+   "fin": 37657
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 33096,
+   "fin": 33314
+  },
+  {
+   "tipo": "person",
+   "ini": 33096,
+   "fin": 33182,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nicholas Africano Born in Kankakee, Illinois, 1948\nLives and works in Normal, Illinois"
+  },
+  {
+   "tipo": "persName",
+   "ini": 33096,
+   "fin": 33113,
+   "texto": "Nicholas Africano"
+  },
+  {
+   "tipo": "birth",
+   "ini": 33114,
+   "fin": 33146
+  },
+  {
+   "tipo": "placeName",
+   "ini": 33122,
+   "fin": 33140,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Kankakee, Illinois"
+  },
+  {
+   "tipo": "date",
+   "ini": 33142,
+   "fin": 33146,
+   "rasgos": {
+    "when": "1948"
+   },
+   "texto": "1948"
+  },
+  {
+   "tipo": "work",
+   "ini": 33147,
+   "fin": 33314,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Lives and works in Normal, Illinois\nGet Away From Me, You Fucker , 1978 (from The Battered Woman series) Acrylic, oil and wax on canvas 66 x 84\nCollection Martin Sklar"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 33147,
+   "fin": 33182
+  },
+  {
+   "tipo": "placeName",
+   "ini": 33166,
+   "fin": 33182,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Normal, Illinois"
+  },
+  {
+   "tipo": "title",
+   "ini": 33183,
+   "fin": 33211,
+   "texto": "Get Away From Me, You Fucker"
+  },
+  {
+   "tipo": "date",
+   "ini": 33214,
+   "fin": 33218,
+   "rasgos": {
+    "when": "1978"
+   },
+   "texto": "1978"
+  },
+  {
+   "tipo": "title",
+   "ini": 33225,
+   "fin": 33250,
+   "texto": "The Battered Woman series"
+  },
+  {
+   "tipo": "technique",
+   "ini": 33252,
+   "fin": 33282,
+   "rasgos": {
+    "type": "acrylic, oil, wax"
+   },
+   "texto": "Acrylic, oil and wax on canvas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 33283,
+   "fin": 33290,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "66 x 84"
+  },
+  {
+   "tipo": "height",
+   "ini": 33283,
+   "fin": 33285,
+   "texto": "66"
+  },
+  {
+   "tipo": "width",
+   "ini": 33288,
+   "fin": 33290,
+   "texto": "84"
+  },
+  {
+   "tipo": "person",
+   "ini": 33302,
+   "fin": 33314,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "Martin Sklar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 33302,
+   "fin": 33314,
+   "texto": "Martin Sklar"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 33316,
+   "fin": 33556
+  },
+  {
+   "tipo": "person",
+   "ini": 33316,
+   "fin": 33395,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Terry Allen\nBorn in Wichita, Kansas, 1943\nLives and works in Fresno, California"
+  },
+  {
+   "tipo": "persName",
+   "ini": 33316,
+   "fin": 33327,
+   "texto": "Terry Allen"
+  },
+  {
+   "tipo": "birth",
+   "ini": 33328,
+   "fin": 33357
+  },
+  {
+   "tipo": "placeName",
+   "ini": 33336,
+   "fin": 33351,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Wichita, Kansas"
+  },
+  {
+   "tipo": "date",
+   "ini": 33353,
+   "fin": 33357,
+   "rasgos": {
+    "when": "1943"
+   },
+   "texto": "1943"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 33358,
+   "fin": 33395
+  },
+  {
+   "tipo": "placeName",
+   "ini": 33377,
+   "fin": 33395,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Fresno, California"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 33396,
+   "fin": 33556,
+   "rasgos": {
+    "type": "painting",
+    "size": "3"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 33396,
+   "fin": 33467,
+   "texto": "Dark as the Friend Wherein My Grave is Laid or Fighters of the Darkness"
+  },
+  {
+   "tipo": "date",
+   "ini": 33469,
+   "fin": 33473,
+   "rasgos": {
+    "when": "1977"
+   },
+   "texto": "1977"
+  },
+  {
+   "tipo": "technique",
+   "ini": 33474,
+   "fin": 33485,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixed Media"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 33486,
+   "fin": 33495
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 33497,
+   "fin": 33504,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "30 x 40"
+  },
+  {
+   "tipo": "height",
+   "ini": 33497,
+   "fin": 33499,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 33502,
+   "fin": 33504,
+   "texto": "40"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 33505,
+   "fin": 33515
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 33522,
+   "fin": 33532,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "8 1/2 x 11"
+  },
+  {
+   "tipo": "height",
+   "ini": 33522,
+   "fin": 33527,
+   "texto": "8 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 33530,
+   "fin": 33532,
+   "texto": "11"
+  },
+  {
+   "tipo": "person",
+   "ini": 33545,
+   "fin": 33556,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "Graham Gund"
+  },
+  {
+   "tipo": "persName",
+   "ini": 33545,
+   "fin": 33556,
+   "texto": "Graham Gund"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 33558,
+   "fin": 33746
+  },
+  {
+   "tipo": "person",
+   "ini": 33558,
+   "fin": 33650,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Dotty Attie\nBorn in Pennsauken, New Jersey, 1938 \nLives and works in New York City, New York"
+  },
+  {
+   "tipo": "persName",
+   "ini": 33558,
+   "fin": 33569,
+   "texto": "Dotty Attie"
+  },
+  {
+   "tipo": "birth",
+   "ini": 33570,
+   "fin": 33607
+  },
+  {
+   "tipo": "placeName",
+   "ini": 33578,
+   "fin": 33600,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Pennsauken, New Jersey"
+  },
+  {
+   "tipo": "date",
+   "ini": 33602,
+   "fin": 33606,
+   "rasgos": {
+    "when": "1938"
+   },
+   "texto": "1938"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 33608,
+   "fin": 33650
+  },
+  {
+   "tipo": "placeName",
+   "ini": 33627,
+   "fin": 33650,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York City, New York"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 33651,
+   "fin": 33746,
+   "rasgos": {
+    "type": "painting",
+    "role": "140"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 33651,
+   "fin": 33674,
+   "texto": "Pierre and Lady Holland"
+  },
+  {
+   "tipo": "date",
+   "ini": 33676,
+   "fin": 33680,
+   "rasgos": {
+    "when": "1975"
+   },
+   "texto": "1975"
+  },
+  {
+   "tipo": "technique",
+   "ini": 33681,
+   "fin": 33696,
+   "rasgos": {
+    "type": "pencil"
+   },
+   "texto": "Pencil on paper"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 33697,
+   "fin": 33707
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 33714,
+   "fin": 33727,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "4 1/2 x 4 1/2"
+  },
+  {
+   "tipo": "height",
+   "ini": 33714,
+   "fin": 33719,
+   "texto": "4 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 33722,
+   "fin": 33727,
+   "texto": "4 1/2"
+  },
+  {
+   "tipo": "person",
+   "ini": 33736,
+   "fin": 33746,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "the artist"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 33748,
+   "fin": 33922
+  },
+  {
+   "tipo": "person",
+   "ini": 33748,
+   "fin": 33840,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bill Beckley \nBorn in Hamburg, Pennsylvania, 1946\nLives and works in New York City, New York"
+  },
+  {
+   "tipo": "persName",
+   "ini": 33748,
+   "fin": 33761,
+   "texto": "Bill Beckley "
+  },
+  {
+   "tipo": "birth",
+   "ini": 33762,
+   "fin": 33797
+  },
+  {
+   "tipo": "placeName",
+   "ini": 33770,
+   "fin": 33791,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Hamburg, Pennsylvania"
+  },
+  {
+   "tipo": "date",
+   "ini": 33793,
+   "fin": 33797,
+   "rasgos": {
+    "when": "1946"
+   },
+   "texto": "1946"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 33798,
+   "fin": 33840
+  },
+  {
+   "tipo": "placeName",
+   "ini": 33817,
+   "fin": 33840,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York City, New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 33841,
+   "fin": 33922,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "The Shoulder Blade, 1978\nCibachrome photographs\n120 x 40\nCollection of the artist"
+  },
+  {
+   "tipo": "title",
+   "ini": 33841,
+   "fin": 33859,
+   "texto": "The Shoulder Blade"
+  },
+  {
+   "tipo": "date",
+   "ini": 33861,
+   "fin": 33865,
+   "rasgos": {
+    "when": "1978"
+   },
+   "texto": "1978"
+  },
+  {
+   "tipo": "technique",
+   "ini": 33866,
+   "fin": 33888,
+   "rasgos": {
+    "type": "photogrpah"
+   },
+   "texto": "Cibachrome photographs"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 33889,
+   "fin": 33897,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "120 x 40"
+  },
+  {
+   "tipo": "height",
+   "ini": 33889,
+   "fin": 33892,
+   "texto": "120"
+  },
+  {
+   "tipo": "width",
+   "ini": 33895,
+   "fin": 33897,
+   "texto": "40"
+  },
+  {
+   "tipo": "person",
+   "ini": 33912,
+   "fin": 33922,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "the artist"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 33924,
+   "fin": 34172
+  },
+  {
+   "tipo": "person",
+   "ini": 33924,
+   "fin": 34015,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jonathan Borofsky\nBorn in Boston, Massachusetts, 1942\nLives and works in Venice, California"
+  },
+  {
+   "tipo": "persName",
+   "ini": 33924,
+   "fin": 33941,
+   "texto": "Jonathan Borofsky"
+  },
+  {
+   "tipo": "birth",
+   "ini": 33942,
+   "fin": 33977
+  },
+  {
+   "tipo": "placeName",
+   "ini": 33950,
+   "fin": 33971,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Boston, Massachusetts"
+  },
+  {
+   "tipo": "date",
+   "ini": 33973,
+   "fin": 33977,
+   "rasgos": {
+    "when": "1942"
+   },
+   "texto": "1942"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 33978,
+   "fin": 34015
+  },
+  {
+   "tipo": "placeName",
+   "ini": 33997,
+   "fin": 34015,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Venice, California"
+  },
+  {
+   "tipo": "work",
+   "ini": 34016,
+   "fin": 34172,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "I dreamed my parents house was under attack from foreigners... at 2,220,760, 1973\nOil on canvas\nThree panels, each 44 1/2 x 52\nCourtesy Paula Cooper Gallery"
+  },
+  {
+   "tipo": "title",
+   "ini": 34016,
+   "fin": 34091,
+   "texto": "I dreamed my parents house was under attack from foreigners... at 2,220,760"
+  },
+  {
+   "tipo": "date",
+   "ini": 34093,
+   "fin": 34097,
+   "rasgos": {
+    "when": "1973"
+   },
+   "texto": "1973"
+  },
+  {
+   "tipo": "technique",
+   "ini": 34098,
+   "fin": 34111,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Oil on canvas"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 34112,
+   "fin": 34124
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 34131,
+   "fin": 34142,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "44 1/2 x 52"
+  },
+  {
+   "tipo": "height",
+   "ini": 34131,
+   "fin": 34137,
+   "texto": "44 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 34140,
+   "fin": 34142,
+   "texto": "52"
+  },
+  {
+   "tipo": "institution",
+   "ini": 34152,
+   "fin": 34172,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Paula Cooper Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34174,
+   "fin": 34376
+  },
+  {
+   "tipo": "person",
+   "ini": 34174,
+   "fin": 34271,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jerry Crimmins\nBorn in Minneapolis, Minnesota, 1940\nLives and works in Philadelphia,\nPennsylvania"
+  },
+  {
+   "tipo": "persName",
+   "ini": 34174,
+   "fin": 34188,
+   "texto": "Jerry Crimmins"
+  },
+  {
+   "tipo": "birth",
+   "ini": 34189,
+   "fin": 34225
+  },
+  {
+   "tipo": "placeName",
+   "ini": 34197,
+   "fin": 34219,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Minneapolis, Minnesota"
+  },
+  {
+   "tipo": "date",
+   "ini": 34221,
+   "fin": 34225,
+   "rasgos": {
+    "when": "1940"
+   },
+   "texto": "1940"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 34226,
+   "fin": 34271
+  },
+  {
+   "tipo": "placeName",
+   "ini": 34245,
+   "fin": 34271,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Philadelphia,\nPennsylvania"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 34272,
+   "fin": 34376,
+   "rasgos": {
+    "type": "collage",
+    "size": "4"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 34272,
+   "fin": 34299,
+   "texto": "Evidence de 'la République'"
+  },
+  {
+   "tipo": "date",
+   "ini": 34301,
+   "fin": 34308,
+   "rasgos": {
+    "from": "1978",
+    "to": "1979"
+   },
+   "texto": "1978-79"
+  },
+  {
+   "tipo": "technique",
+   "ini": 34309,
+   "fin": 34328,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixed media collage"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 34329,
+   "fin": 34343
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 34350,
+   "fin": 34357,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "15 x 17"
+  },
+  {
+   "tipo": "height",
+   "ini": 34350,
+   "fin": 34352,
+   "texto": "15"
+  },
+  {
+   "tipo": "width",
+   "ini": 34355,
+   "fin": 34357,
+   "texto": "17"
+  },
+  {
+   "tipo": "person",
+   "ini": 34366,
+   "fin": 34376,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "the artist"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34378,
+   "fin": 34574
+  },
+  {
+   "tipo": "person",
+   "ini": 34378,
+   "fin": 34478,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Steven Jaffe\nBorn in Philadelphia, Pennsylvania, 1948 \nLives and works in Philadelphia, Pennsylvania"
+  },
+  {
+   "tipo": "persName",
+   "ini": 34378,
+   "fin": 34390,
+   "texto": "Steven Jaffe"
+  },
+  {
+   "tipo": "birth",
+   "ini": 34391,
+   "fin": 34432
+  },
+  {
+   "tipo": "placeName",
+   "ini": 34399,
+   "fin": 34425,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Philadelphia, Pennsylvania"
+  },
+  {
+   "tipo": "date",
+   "ini": 34427,
+   "fin": 34431,
+   "rasgos": {
+    "when": "1948"
+   },
+   "texto": "1948"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 34433,
+   "fin": 34478
+  },
+  {
+   "tipo": "placeName",
+   "ini": 34452,
+   "fin": 34478,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Philadelphia, Pennsylvania"
+  },
+  {
+   "tipo": "work",
+   "ini": 34479,
+   "fin": 34574,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "The Earthly and the Definite, 1976 \nOil on canvas\n44 1/2 X 58 1/2\nCourtesy Gross-McLeaf Gallery"
+  },
+  {
+   "tipo": "title",
+   "ini": 34479,
+   "fin": 34507,
+   "texto": "The Earthly and the Definite"
+  },
+  {
+   "tipo": "date",
+   "ini": 34509,
+   "fin": 34513,
+   "rasgos": {
+    "when": "1976"
+   },
+   "texto": "1976"
+  },
+  {
+   "tipo": "technique",
+   "ini": 34515,
+   "fin": 34528,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Oil on canvas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 34529,
+   "fin": 34544,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "44 1/2 X 58 1/2"
+  },
+  {
+   "tipo": "height",
+   "ini": 34529,
+   "fin": 34535,
+   "texto": "44 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 34538,
+   "fin": 34544,
+   "texto": "58 1/2"
+  },
+  {
+   "tipo": "institution",
+   "ini": 34554,
+   "fin": 34574,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Gross-McLeaf Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34576,
+   "fin": 34784
+  },
+  {
+   "tipo": "person",
+   "ini": 34576,
+   "fin": 34676,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Christopher Knowles\nBorn in New York City, New York, 1959\nLives and work sin New York City, New York"
+  },
+  {
+   "tipo": "persName",
+   "ini": 34576,
+   "fin": 34595,
+   "texto": "Christopher Knowles"
+  },
+  {
+   "tipo": "birth",
+   "ini": 34596,
+   "fin": 34633
+  },
+  {
+   "tipo": "placeName",
+   "ini": 34604,
+   "fin": 34627,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York City, New York"
+  },
+  {
+   "tipo": "date",
+   "ini": 34629,
+   "fin": 34633,
+   "rasgos": {
+    "when": "1959"
+   },
+   "texto": "1959"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 34634,
+   "fin": 34676
+  },
+  {
+   "tipo": "placeName",
+   "ini": 34653,
+   "fin": 34676,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York City, New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 34677,
+   "fin": 34784,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "American Pie and the Space Needles, 1977\nTypewriter on paper\n102 1/4 x 8 1/2\nCourtesy Holly Solomon Gallery"
+  },
+  {
+   "tipo": "title",
+   "ini": 34677,
+   "fin": 34711,
+   "texto": "American Pie and the Space Needles"
+  },
+  {
+   "tipo": "date",
+   "ini": 34713,
+   "fin": 34717,
+   "rasgos": {
+    "when": "1977"
+   },
+   "texto": "1977"
+  },
+  {
+   "tipo": "technique",
+   "ini": 34718,
+   "fin": 34737,
+   "rasgos": {
+    "type": "typewriter"
+   },
+   "texto": "Typewriter on paper"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 34738,
+   "fin": 34753,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "102 1/4 x 8 1/2"
+  },
+  {
+   "tipo": "height",
+   "ini": 34738,
+   "fin": 34745,
+   "texto": "102 1/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 34748,
+   "fin": 34753,
+   "texto": "8 1/2"
+  },
+  {
+   "tipo": "institution",
+   "ini": 34763,
+   "fin": 34784,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Holly Solomon Gallery"
+  },
+  {
+   "tipo": "work",
+   "ini": 34786,
+   "fin": 34878,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "The Top 100 of 1976, 1977\nTypewriter on paper\n120 7/8 x 8 1/2\nCourtesy Holly Solomon Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34786,
+   "fin": 34878
+  },
+  {
+   "tipo": "title",
+   "ini": 34786,
+   "fin": 34805,
+   "texto": "The Top 100 of 1976"
+  },
+  {
+   "tipo": "date",
+   "ini": 34807,
+   "fin": 34811,
+   "rasgos": {
+    "when": "1977"
+   },
+   "texto": "1977"
+  },
+  {
+   "tipo": "technique",
+   "ini": 34812,
+   "fin": 34831,
+   "rasgos": {
+    "type": "typewriter"
+   },
+   "texto": "Typewriter on paper"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 34832,
+   "fin": 34847,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "120 7/8 x 8 1/2"
+  },
+  {
+   "tipo": "height",
+   "ini": 34832,
+   "fin": 34839,
+   "texto": "120 7/8"
+  },
+  {
+   "tipo": "width",
+   "ini": 34842,
+   "fin": 34847,
+   "texto": "8 1/2"
+  },
+  {
+   "tipo": "institution",
+   "ini": 34857,
+   "fin": 34878,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Holly Solomon Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34880,
+   "fin": 35090
+  },
+  {
+   "tipo": "person",
+   "ini": 34880,
+   "fin": 34982,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Stephanie Brody Lederman\nBorn in New York City, New York, 1939\nLives and works in Great Neck, New York"
+  },
+  {
+   "tipo": "persName",
+   "ini": 34880,
+   "fin": 34904,
+   "texto": "Stephanie Brody Lederman"
+  },
+  {
+   "tipo": "birth",
+   "ini": 34905,
+   "fin": 34942
+  },
+  {
+   "tipo": "placeName",
+   "ini": 34913,
+   "fin": 34936,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York City, New York"
+  },
+  {
+   "tipo": "date",
+   "ini": 34938,
+   "fin": 34942,
+   "rasgos": {
+    "when": "1939"
+   },
+   "texto": "1939"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 34943,
+   "fin": 34982
+  },
+  {
+   "tipo": "placeName",
+   "ini": 34962,
+   "fin": 34982,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Great Neck, New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 34984,
+   "fin": 35090,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "My Father's Sticks, 1977\nOil crayon, paint stick and pencil on paper\n35 x 49\nLent by Ann and Maxwell Brody"
+  },
+  {
+   "tipo": "title",
+   "ini": 34984,
+   "fin": 35002,
+   "texto": "My Father's Sticks"
+  },
+  {
+   "tipo": "date",
+   "ini": 35004,
+   "fin": 35008,
+   "rasgos": {
+    "when": "1977"
+   },
+   "texto": "1977"
+  },
+  {
+   "tipo": "technique",
+   "ini": 35009,
+   "fin": 35052,
+   "rasgos": {
+    "type": "oil, paint, pencil"
+   },
+   "texto": "Oil crayon, paint stick and pencil on paper"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 35053,
+   "fin": 35060,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "35 x 49"
+  },
+  {
+   "tipo": "height",
+   "ini": 35053,
+   "fin": 35055,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 35058,
+   "fin": 35060,
+   "texto": "49"
+  },
+  {
+   "tipo": "person",
+   "ini": 35069,
+   "fin": 35090,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "Ann and Maxwell Brody"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35069,
+   "fin": 35090,
+   "texto": "Ann and Maxwell Brody"
+  },
+  {
+   "tipo": "work",
+   "ini": 35092,
+   "fin": 35227,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "She Would and She Wouldn't, 1978\nAcrylic, pastel, pencil and rubber stamp on paper\n23 x 30 1/2\nCollection Robert Freidus, New York City"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 35092,
+   "fin": 35227
+  },
+  {
+   "tipo": "title",
+   "ini": 35092,
+   "fin": 35118,
+   "texto": "She Would and She Wouldn't"
+  },
+  {
+   "tipo": "date",
+   "ini": 35120,
+   "fin": 35124,
+   "rasgos": {
+    "when": "1978"
+   },
+   "texto": "1978"
+  },
+  {
+   "tipo": "technique",
+   "ini": 35125,
+   "fin": 35174,
+   "rasgos": {
+    "type": "acrylic, pastel, pencil, stamp"
+   },
+   "texto": "Acrylic, pastel, pencil and rubber stamp on paper"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 35175,
+   "fin": 35186,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "23 x 30 1/2"
+  },
+  {
+   "tipo": "height",
+   "ini": 35175,
+   "fin": 35177,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 35180,
+   "fin": 35186,
+   "texto": "30 1/2"
+  },
+  {
+   "tipo": "person",
+   "ini": 35198,
+   "fin": 35227,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "Robert Freidus, New York City"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35198,
+   "fin": 35212,
+   "texto": "Robert Freidus"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 35214,
+   "fin": 35227,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York City"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 35229,
+   "fin": 35415
+  },
+  {
+   "tipo": "person",
+   "ini": 35229,
+   "fin": 35322,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Claire Moore\nBorn in New York City, New York, 1917\nLives and works in New York City, New York"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35229,
+   "fin": 35241,
+   "texto": "Claire Moore"
+  },
+  {
+   "tipo": "birth",
+   "ini": 35242,
+   "fin": 35279
+  },
+  {
+   "tipo": "placeName",
+   "ini": 35250,
+   "fin": 35273,
+   "texto": "New York City, New York"
+  },
+  {
+   "tipo": "date",
+   "ini": 35275,
+   "fin": 35279,
+   "rasgos": {
+    "when": "1917"
+   },
+   "texto": "1917"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 35280,
+   "fin": 35322
+  },
+  {
+   "tipo": "placeName",
+   "ini": 35299,
+   "fin": 35322,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York City, New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 35324,
+   "fin": 35415,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Vermont Visit, 1979\nCharcoal, graphite and liquitex on paper\n50 1/2 x 99\nLent by the artist"
+  },
+  {
+   "tipo": "title",
+   "ini": 35324,
+   "fin": 35337,
+   "texto": "Vermont Visit"
+  },
+  {
+   "tipo": "date",
+   "ini": 35339,
+   "fin": 35343,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "technique",
+   "ini": 35344,
+   "fin": 35384,
+   "rasgos": {
+    "type": "charcoal, graphite, liquitex"
+   },
+   "texto": "Charcoal, graphite and liquitex on paper"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 35385,
+   "fin": 35396,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "50 1/2 x 99"
+  },
+  {
+   "tipo": "height",
+   "ini": 35385,
+   "fin": 35391,
+   "texto": "50 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 35394,
+   "fin": 35396,
+   "texto": "99"
+  },
+  {
+   "tipo": "person",
+   "ini": 35405,
+   "fin": 35415,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "the artist"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 35417,
+   "fin": 35531,
+   "rasgos": {
+    "type": "painting",
+    "size": "5"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 35417,
+   "fin": 35531
+  },
+  {
+   "tipo": "title",
+   "ini": 35417,
+   "fin": 35446,
+   "texto": "Manuscript Series on Dreaming"
+  },
+  {
+   "tipo": "date",
+   "ini": 35448,
+   "fin": 35452,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "technique",
+   "ini": 35453,
+   "fin": 35489,
+   "rasgos": {
+    "type": "pencil, graphite"
+   },
+   "texto": "Colored pencil and graphite on paper"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 35490,
+   "fin": 35494
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 35501,
+   "fin": 35512,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "18 x 22 1/2"
+  },
+  {
+   "tipo": "height",
+   "ini": 35501,
+   "fin": 35503,
+   "texto": "18"
+  },
+  {
+   "tipo": "width",
+   "ini": 35506,
+   "fin": 35512,
+   "texto": "22 1/2"
+  },
+  {
+   "tipo": "person",
+   "ini": 35521,
+   "fin": 35531,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "the artist"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 35533,
+   "fin": 35797
+  },
+  {
+   "tipo": "person",
+   "ini": 35533,
+   "fin": 35621,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexis Smith\nBorn in Los Angeles, California, 1949\nLives and works in Venice, California"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35533,
+   "fin": 35545,
+   "texto": "Alexis Smith"
+  },
+  {
+   "tipo": "birth",
+   "ini": 35546,
+   "fin": 35583
+  },
+  {
+   "tipo": "placeName",
+   "ini": 35554,
+   "fin": 35577,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Los Angeles, California"
+  },
+  {
+   "tipo": "date",
+   "ini": 35579,
+   "fin": 35583,
+   "rasgos": {
+    "when": "1949"
+   },
+   "texto": "1949"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 35584,
+   "fin": 35621
+  },
+  {
+   "tipo": "placeName",
+   "ini": 35603,
+   "fin": 35621,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Venice, California"
+  },
+  {
+   "tipo": "work",
+   "ini": 35622,
+   "fin": 35797,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Beauty and the Beast, 1977\nCollage on paper\nThree panels, each 12 1/2 x 53 3/4\nLent by the Whitney Museum of American Art, New York; Gift of Mr. and Mrs. William A. Marsteller"
+  },
+  {
+   "tipo": "title",
+   "ini": 35622,
+   "fin": 35642,
+   "texto": "Beauty and the Beast"
+  },
+  {
+   "tipo": "date",
+   "ini": 35644,
+   "fin": 35648,
+   "rasgos": {
+    "when": "1977"
+   },
+   "texto": "1977"
+  },
+  {
+   "tipo": "technique",
+   "ini": 35649,
+   "fin": 35665,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage on paper"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 35666,
+   "fin": 35678
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 35685,
+   "fin": 35700,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "12 1/2 x 53 3/4"
+  },
+  {
+   "tipo": "height",
+   "ini": 35685,
+   "fin": 35691,
+   "texto": "12 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 35694,
+   "fin": 35700,
+   "texto": "53 3/4"
+  },
+  {
+   "tipo": "institution",
+   "ini": 35713,
+   "fin": 35743,
+   "rasgos": {
+    "type": "museum",
+    "role": "lender, owner "
+   },
+   "texto": "Whitney Museum of American Art"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 35745,
+   "fin": 35753,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35776,
+   "fin": 35797,
+   "texto": "William A. Marsteller"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 35800,
+   "fin": 36015
+  },
+  {
+   "tipo": "person",
+   "ini": 35800,
+   "fin": 35884,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nancy Spero\nBorn in Cleveland, Ohio, 1926\nLives and works in New York City, New York"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35800,
+   "fin": 35811,
+   "texto": "Nancy Spero"
+  },
+  {
+   "tipo": "birth",
+   "ini": 35812,
+   "fin": 35841
+  },
+  {
+   "tipo": "placeName",
+   "ini": 35820,
+   "fin": 35837,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Cleveland, Ohio, "
+  },
+  {
+   "tipo": "date",
+   "ini": 35837,
+   "fin": 35841,
+   "rasgos": {
+    "when": "1926"
+   },
+   "texto": "1926"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 35842,
+   "fin": 35884
+  },
+  {
+   "tipo": "placeName",
+   "ini": 35861,
+   "fin": 35884,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York City, New York"
+  },
+  {
+   "tipo": "work",
+   "ini": 35885,
+   "fin": 36015,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Torture in Chile, 1974\nHand printing, ink,painted collage on paper\nTwo panels, 12 1/4 x 95 1/2 and 25 1/4 x 122\nLent by the artist"
+  },
+  {
+   "tipo": "title",
+   "ini": 35885,
+   "fin": 35901,
+   "texto": "Torture in Chile"
+  },
+  {
+   "tipo": "date",
+   "ini": 35903,
+   "fin": 35907,
+   "rasgos": {
+    "when": "1974"
+   },
+   "texto": "1974"
+  },
+  {
+   "tipo": "technique",
+   "ini": 35908,
+   "fin": 35951,
+   "rasgos": {
+    "type": "ink, collage"
+   },
+   "texto": "Hand printing, ink,painted collage on paper"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 35952,
+   "fin": 35962
+  },
+  {
+   "tipo": "height",
+   "ini": 35964,
+   "fin": 35970,
+   "texto": "12 1/4"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 35965,
+   "fin": 35979,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "2 1/4 x 95 1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 35973,
+   "fin": 35979,
+   "texto": "95 1/2"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 35984,
+   "fin": 35996,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "25 1/4 x 122"
+  },
+  {
+   "tipo": "height",
+   "ini": 35984,
+   "fin": 35990,
+   "texto": "25 1/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 35993,
+   "fin": 35996,
+   "texto": "122"
+  },
+  {
+   "tipo": "person",
+   "ini": 36005,
+   "fin": 36015,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "the artist"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 36017,
+   "fin": 36229
+  },
+  {
+   "tipo": "person",
+   "ini": 36017,
+   "fin": 36109,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "William T. Wiley\nBorn in Bedford, Indiana, 1937\nLives and works in Forest Knolls, California"
+  },
+  {
+   "tipo": "persName",
+   "ini": 36017,
+   "fin": 36033,
+   "texto": "William T. Wiley"
+  },
+  {
+   "tipo": "birth",
+   "ini": 36034,
+   "fin": 36064
+  },
+  {
+   "tipo": "placeName",
+   "ini": 36042,
+   "fin": 36058,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Bedford, Indiana"
+  },
+  {
+   "tipo": "date",
+   "ini": 36060,
+   "fin": 36064,
+   "rasgos": {
+    "when": "1937"
+   },
+   "texto": "1937"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 36065,
+   "fin": 36109
+  },
+  {
+   "tipo": "placeName",
+   "ini": 36091,
+   "fin": 36109,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Knolls, California"
+  },
+  {
+   "tipo": "work",
+   "ini": 36110,
+   "fin": 36229,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Drawing for Unmuzzled Ox, 1975\nCharcoal, colored pencil and pencil on paper \n30 x 38 1/2\nCourtesy Allan Frumkin Gallery"
+  },
+  {
+   "tipo": "title",
+   "ini": 36110,
+   "fin": 36134,
+   "texto": "Drawing for Unmuzzled Ox"
+  },
+  {
+   "tipo": "date",
+   "ini": 36136,
+   "fin": 36140,
+   "rasgos": {
+    "when": "1975"
+   },
+   "texto": "1975"
+  },
+  {
+   "tipo": "technique",
+   "ini": 36141,
+   "fin": 36186,
+   "rasgos": {
+    "type": "charcoal, pencil"
+   },
+   "texto": "Charcoal, colored pencil and pencil on paper "
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 36187,
+   "fin": 36198,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "30 x 38 1/2"
+  },
+  {
+   "tipo": "height",
+   "ini": 36187,
+   "fin": 36189,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 36192,
+   "fin": 36198,
+   "texto": "38 1/2"
+  },
+  {
+   "tipo": "institution",
+   "ini": 36208,
+   "fin": 36229,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Allan Frumkin Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 36231,
+   "fin": 36480
+  },
+  {
+   "tipo": "person",
+   "ini": 36231,
+   "fin": 36330,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Isaiah Zagar\nBorn in Philadelphia, Pennsylvania, 1939\nLives and works in Philadelphia, Pennsylvania"
+  },
+  {
+   "tipo": "persName",
+   "ini": 36231,
+   "fin": 36243,
+   "texto": "Isaiah Zagar"
+  },
+  {
+   "tipo": "birth",
+   "ini": 36244,
+   "fin": 36284
+  },
+  {
+   "tipo": "placeName",
+   "ini": 36252,
+   "fin": 36278,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Philadelphia, Pennsylvania"
+  },
+  {
+   "tipo": "date",
+   "ini": 36280,
+   "fin": 36284,
+   "rasgos": {
+    "when": "1939"
+   },
+   "texto": "1939"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 36285,
+   "fin": 36330
+  },
+  {
+   "tipo": "placeName",
+   "ini": 36304,
+   "fin": 36330,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Philadelphia, Pennsylvania"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 36331,
+   "fin": 36480,
+   "rasgos": {
+    "type": "painting",
+    "size": "4"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 36331,
+   "fin": 36351,
+   "texto": "Poage Lane Chronicle"
+  },
+  {
+   "tipo": "date",
+   "ini": 36353,
+   "fin": 36357,
+   "rasgos": {
+    "when": ""
+   },
+   "texto": "1978"
+  },
+  {
+   "tipo": "technique",
+   "ini": 36358,
+   "fin": 36402,
+   "rasgos": {
+    "type": "pencil, stamp, watercolor"
+   },
+   "texto": "Pencil, rubber stamp and watercolor on paper"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 36403,
+   "fin": 36416
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 36424,
+   "fin": 36431,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "14 x 17"
+  },
+  {
+   "tipo": "height",
+   "ini": 36424,
+   "fin": 36426,
+   "texto": "14"
+  },
+  {
+   "tipo": "width",
+   "ini": 36429,
+   "fin": 36431,
+   "texto": "17"
+  },
+  {
+   "tipo": "person",
+   "ini": 36440,
+   "fin": 36450,
+   "rasgos": {
+    "role": "lender"
+   },
+   "texto": "the artist"
+  },
+  {
+   "tipo": "institution",
+   "ini": 36461,
+   "fin": 36480,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Eric Makler Gallery"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 36482,
+   "fin": 36684
+  },
+  {
+   "tipo": "work",
+   "ini": 36482,
+   "fin": 36677,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Alexis Smith, Beauty and the Beast , 1977, Collage on paper, Three panels, each 12 1/2\" x 53 3/4\", Lent by the Whitney Museumof American Art, New York; Gift of Mr. and Mrs. William A. Marsteller "
+  },
+  {
+   "tipo": "person",
+   "ini": 36482,
+   "fin": 36494,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexis Smith"
+  },
+  {
+   "tipo": "persName",
+   "ini": 36482,
+   "fin": 36494,
+   "texto": "Alexis Smith"
+  },
+  {
+   "tipo": "title",
+   "ini": 36496,
+   "fin": 36516,
+   "texto": "Beauty and the Beast"
+  },
+  {
+   "tipo": "date",
+   "ini": 36519,
+   "fin": 36523,
+   "rasgos": {
+    "when": "1977"
+   },
+   "texto": "1977"
+  },
+  {
+   "tipo": "technique",
+   "ini": 36525,
+   "fin": 36541,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage on paper"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 36543,
+   "fin": 36555
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 36562,
+   "fin": 36579,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "12 1/2\" x 53 3/4\""
+  },
+  {
+   "tipo": "height",
+   "ini": 36562,
+   "fin": 36569,
+   "texto": "12 1/2\""
+  },
+  {
+   "tipo": "width",
+   "ini": 36572,
+   "fin": 36579,
+   "texto": "53 3/4\""
+  },
+  {
+   "tipo": "institution",
+   "ini": 36593,
+   "fin": 36632,
+   "rasgos": {
+    "type": "museum",
+    "role": "lender"
+   },
+   "texto": "Whitney Museumof American Art, New York"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 36624,
+   "fin": 36632,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "persName",
+   "ini": 36655,
+   "fin": 36676,
+   "texto": "William A. Marsteller"
+  },
+  {
+   "tipo": "img",
+   "ini": 36679,
+   "fin": 36684,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 36686,
+   "fin": 36817
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 36686,
+   "fin": 36810,
+   "rasgos": {
+    "type": "painting",
+    "size": "140"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 36686,
+   "fin": 36697,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Dotty Attie"
+  },
+  {
+   "tipo": "persName",
+   "ini": 36686,
+   "fin": 36697,
+   "texto": "Dotty Attie"
+  },
+  {
+   "tipo": "title",
+   "ini": 36699,
+   "fin": 36722,
+   "texto": "Pierre and Lady Holland"
+  },
+  {
+   "tipo": "date",
+   "ini": 36724,
+   "fin": 36728,
+   "rasgos": {
+    "when": "1975"
+   },
+   "texto": "1975"
+  },
+  {
+   "tipo": "technique",
+   "ini": 36742,
+   "fin": 36757,
+   "rasgos": {
+    "type": "pencil"
+   },
+   "texto": "Pencil on paper"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 36759,
+   "fin": 36769
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 36776,
+   "fin": 36790,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "4 1/2\" x 4 1/2"
+  },
+  {
+   "tipo": "height",
+   "ini": 36776,
+   "fin": 36782,
+   "texto": "4 1/2\""
+  },
+  {
+   "tipo": "width",
+   "ini": 36785,
+   "fin": 36790,
+   "texto": "4 1/2"
+  },
+  {
+   "tipo": "person",
+   "ini": 36800,
+   "fin": 36810,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "the artist"
+  },
+  {
+   "tipo": "img",
+   "ini": 36812,
+   "fin": 36817,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 36819,
+   "fin": 36952
+  },
+  {
+   "tipo": "work",
+   "ini": 36819,
+   "fin": 36945,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Christopher Knowles, The Top 100 of 1976. 1977 (detail), Typewriter on paper, 120 7/8'x 8 1/2\", Courtesy Holly Solomon Gallery"
+  },
+  {
+   "tipo": "person",
+   "ini": 36819,
+   "fin": 36838,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Christopher Knowles"
+  },
+  {
+   "tipo": "persName",
+   "ini": 36819,
+   "fin": 36838,
+   "texto": "Christopher Knowles"
+  },
+  {
+   "tipo": "title",
+   "ini": 36840,
+   "fin": 36859,
+   "texto": "The Top 100 of 1976"
+  },
+  {
+   "tipo": "date",
+   "ini": 36861,
+   "fin": 36865,
+   "rasgos": {
+    "when": "1977"
+   },
+   "texto": "1977"
+  },
+  {
+   "tipo": "technique",
+   "ini": 36876,
+   "fin": 36895,
+   "rasgos": {
+    "type": "typewriter"
+   },
+   "texto": "Typewriter on paper"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 36897,
+   "fin": 36913,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "120 7/8'x 8 1/2\""
+  },
+  {
+   "tipo": "height",
+   "ini": 36897,
+   "fin": 36905,
+   "texto": "120 7/8'"
+  },
+  {
+   "tipo": "width",
+   "ini": 36907,
+   "fin": 36913,
+   "texto": "8 1/2\""
+  },
+  {
+   "tipo": "institution",
+   "ini": 36924,
+   "fin": 36945,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Holly Solomon Gallery"
+  },
+  {
+   "tipo": "img",
+   "ini": 36947,
+   "fin": 36952,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 36954,
+   "fin": 37109
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 36954,
+   "fin": 37102,
+   "rasgos": {
+    "type": "painting",
+    "size": "2"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 36954,
+   "fin": 36965,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Terry Allen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 36954,
+   "fin": 36965,
+   "texto": "Terry Allen"
+  },
+  {
+   "tipo": "title",
+   "ini": 36967,
+   "fin": 37010,
+   "texto": "Dark as the Friend Wherein My Grave is Laid"
+  },
+  {
+   "tipo": "date",
+   "ini": 37012,
+   "fin": 37016,
+   "rasgos": {
+    "when": "1977"
+   },
+   "texto": "1977"
+  },
+  {
+   "tipo": "technique",
+   "ini": 37018,
+   "fin": 37029,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixed media"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 37041,
+   "fin": 37048,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "30\"x40\""
+  },
+  {
+   "tipo": "height",
+   "ini": 37041,
+   "fin": 37044,
+   "texto": "30\""
+  },
+  {
+   "tipo": "width",
+   "ini": 37045,
+   "fin": 37048,
+   "texto": "40\""
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 37050,
+   "fin": 37060
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 37066,
+   "fin": 37078,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "8 1/2\" x 11\""
+  },
+  {
+   "tipo": "height",
+   "ini": 37066,
+   "fin": 37072,
+   "texto": "8 1/2\""
+  },
+  {
+   "tipo": "width",
+   "ini": 37075,
+   "fin": 37078,
+   "texto": "11\""
+  },
+  {
+   "tipo": "person",
+   "ini": 37091,
+   "fin": 37102,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "Graham Gund"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37091,
+   "fin": 37102,
+   "texto": "Graham Gund"
+  },
+  {
+   "tipo": "img",
+   "ini": 37104,
+   "fin": 37109,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 37111,
+   "fin": 37258
+  },
+  {
+   "tipo": "work",
+   "ini": 37111,
+   "fin": 37251,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Stephanie Brody Lederman, My Father's Sticks , 1977, Oil crayon, paint stick, and pencil on paper, 35\" x 49\", Lent by Ann and Maxwell Brody."
+  },
+  {
+   "tipo": "person",
+   "ini": 37111,
+   "fin": 37135,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Stephanie Brody Lederman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37111,
+   "fin": 37135,
+   "texto": "Stephanie Brody Lederman"
+  },
+  {
+   "tipo": "title",
+   "ini": 37137,
+   "fin": 37155,
+   "texto": "My Father's Sticks"
+  },
+  {
+   "tipo": "date",
+   "ini": 37158,
+   "fin": 37162,
+   "rasgos": {
+    "when": "1977"
+   },
+   "texto": "1977"
+  },
+  {
+   "tipo": "technique",
+   "ini": 37164,
+   "fin": 37208,
+   "rasgos": {
+    "type": "oil, paint, pencil"
+   },
+   "texto": "Oil crayon, paint stick, and pencil on paper"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 37210,
+   "fin": 37219,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "35\" x 49\""
+  },
+  {
+   "tipo": "height",
+   "ini": 37210,
+   "fin": 37213,
+   "texto": "35\""
+  },
+  {
+   "tipo": "width",
+   "ini": 37216,
+   "fin": 37219,
+   "texto": "49\""
+  },
+  {
+   "tipo": "person",
+   "ini": 37229,
+   "fin": 37250,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "Ann and Maxwell Brody"
+  },
+  {
+   "tipo": "img",
+   "ini": 37253,
+   "fin": 37258,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 37260,
+   "fin": 37377
+  },
+  {
+   "tipo": "work",
+   "ini": 37260,
+   "fin": 37370,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Claire Moore, Vermont Visit, 1979, Charcoal, graphite, and Uquitex on paper, 50 1/2\" x 99\", Lent by the artist"
+  },
+  {
+   "tipo": "person",
+   "ini": 37260,
+   "fin": 37272,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Claire Moore"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37260,
+   "fin": 37272,
+   "texto": "Claire Moore"
+  },
+  {
+   "tipo": "title",
+   "ini": 37274,
+   "fin": 37287,
+   "texto": "Vermont Visit"
+  },
+  {
+   "tipo": "date",
+   "ini": 37289,
+   "fin": 37293,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "technique",
+   "ini": 37295,
+   "fin": 37335,
+   "rasgos": {
+    "type": "charcoal, graphite, uquitex"
+   },
+   "texto": "Charcoal, graphite, and Uquitex on paper"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 37337,
+   "fin": 37350,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "50 1/2\" x 99\""
+  },
+  {
+   "tipo": "height",
+   "ini": 37337,
+   "fin": 37344,
+   "texto": "50 1/2\""
+  },
+  {
+   "tipo": "width",
+   "ini": 37347,
+   "fin": 37350,
+   "texto": "99\""
+  },
+  {
+   "tipo": "person",
+   "ini": 37360,
+   "fin": 37370,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "the artist"
+  },
+  {
+   "tipo": "img",
+   "ini": 37372,
+   "fin": 37377,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 37379,
+   "fin": 37486
+  },
+  {
+   "tipo": "work",
+   "ini": 37379,
+   "fin": 37479,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Bill Beckley, The Shoulder Blade, 1978, Cibachrome photographs, 120\" x 40\", Collection of the artist"
+  },
+  {
+   "tipo": "person",
+   "ini": 37379,
+   "fin": 37391,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bill Beckley"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37379,
+   "fin": 37391,
+   "texto": "Bill Beckley"
+  },
+  {
+   "tipo": "title",
+   "ini": 37393,
+   "fin": 37411,
+   "texto": "The Shoulder Blade"
+  },
+  {
+   "tipo": "date",
+   "ini": 37413,
+   "fin": 37417,
+   "rasgos": {
+    "when": "1978"
+   },
+   "texto": "1978"
+  },
+  {
+   "tipo": "technique",
+   "ini": 37419,
+   "fin": 37441,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Cibachrome photographs"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 37443,
+   "fin": 37453,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "120\" x 40\""
+  },
+  {
+   "tipo": "height",
+   "ini": 37443,
+   "fin": 37447,
+   "texto": "120\""
+  },
+  {
+   "tipo": "width",
+   "ini": 37450,
+   "fin": 37453,
+   "texto": "40\""
+  },
+  {
+   "tipo": "person",
+   "ini": 37469,
+   "fin": 37479,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "the artist"
+  },
+  {
+   "tipo": "img",
+   "ini": 37481,
+   "fin": 37486,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 37488,
+   "fin": 37657
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 37488,
+   "fin": 37650,
+   "rasgos": {
+    "type": "painting",
+    "size": "2"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 37488,
+   "fin": 37499,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Nancy Spero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37488,
+   "fin": 37499,
+   "texto": "Nancy Spero"
+  },
+  {
+   "tipo": "title",
+   "ini": 37501,
+   "fin": 37517,
+   "texto": "Torture in Chile"
+  },
+  {
+   "tipo": "date",
+   "ini": 37520,
+   "fin": 37524,
+   "rasgos": {
+    "when": "1974"
+   },
+   "texto": "1974"
+  },
+  {
+   "tipo": "technique",
+   "ini": 37536,
+   "fin": 37580,
+   "rasgos": {
+    "type": "ink, collage"
+   },
+   "texto": "Hand printing, ink, painted collage on paper"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 37582,
+   "fin": 37592
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 37594,
+   "fin": 37611,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "12 1/4\" x 95 1/2\""
+  },
+  {
+   "tipo": "height",
+   "ini": 37594,
+   "fin": 37601,
+   "texto": "12 1/4\""
+  },
+  {
+   "tipo": "width",
+   "ini": 37604,
+   "fin": 37611,
+   "texto": "95 1/2\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 37616,
+   "fin": 37630,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "25 1/4\" x 122\""
+  },
+  {
+   "tipo": "height",
+   "ini": 37616,
+   "fin": 37623,
+   "texto": "25 1/4\""
+  },
+  {
+   "tipo": "width",
+   "ini": 37626,
+   "fin": 37630,
+   "texto": "122\""
+  },
+  {
+   "tipo": "person",
+   "ini": 37640,
+   "fin": 37650,
+   "rasgos": {
+    "role": "owner, lender"
+   },
+   "texto": "the artist"
+  },
+  {
+   "tipo": "img",
+   "ini": 37652,
+   "fin": 37657,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 49857,
+   "fin": 50964,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 49857,
+   "fin": 49884,
+   "rasgos": {
+    "type": "college",
+    "role": "organiser, host"
+   },
+   "texto": "Philadelphia College of Art"
+  },
+  {
+   "tipo": "person",
+   "ini": 49904,
+   "fin": 49927,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Sam S. McKeel, Chairman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49904,
+   "fin": 49917,
+   "texto": "Sam S. McKeel"
+  },
+  {
+   "tipo": "person",
+   "ini": 49928,
+   "fin": 49944,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Arnold A. Bayard"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49928,
+   "fin": 49944,
+   "texto": "Arnold A. Bayard"
+  },
+  {
+   "tipo": "person",
+   "ini": 49945,
+   "fin": 49961,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Mrs. Helen Boehm"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49950,
+   "fin": 49961,
+   "texto": "Helen Boehm"
+  },
+  {
+   "tipo": "person",
+   "ini": 49962,
+   "fin": 49983,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Nathaniel R. Bowditch"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49962,
+   "fin": 49983,
+   "texto": "Nathaniel R. Bowditch"
+  },
+  {
+   "tipo": "person",
+   "ini": 49984,
+   "fin": 50000,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Mrs. Helen Chait"
+  },
+  {
+   "tipo": "persName",
+   "ini": 49989,
+   "fin": 50000,
+   "texto": "Helen Chait"
+  },
+  {
+   "tipo": "person",
+   "ini": 50001,
+   "fin": 50021,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Nrs. Evelyn Copelman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50006,
+   "fin": 50021,
+   "texto": "Evelyn Copelman"
+  },
+  {
+   "tipo": "person",
+   "ini": 50022,
+   "fin": 50040,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Thomas Neil Crater"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50022,
+   "fin": 50040,
+   "texto": "Thomas Neil Crater"
+  },
+  {
+   "tipo": "person",
+   "ini": 50041,
+   "fin": 50054,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "James Eiseman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50041,
+   "fin": 50054,
+   "texto": "James Eiseman"
+  },
+  {
+   "tipo": "person",
+   "ini": 50055,
+   "fin": 50071,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Philip J. Eitzen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50055,
+   "fin": 50071,
+   "texto": "Philip J. Eitzen"
+  },
+  {
+   "tipo": "person",
+   "ini": 50072,
+   "fin": 50083,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Kermit Hall"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50072,
+   "fin": 50083,
+   "texto": "Kermit Hall"
+  },
+  {
+   "tipo": "person",
+   "ini": 50084,
+   "fin": 50111,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Mrs. Samuel M. V. Hamilton "
+  },
+  {
+   "tipo": "persName",
+   "ini": 50089,
+   "fin": 50110,
+   "texto": "Samuel M. V. Hamilton"
+  },
+  {
+   "tipo": "person",
+   "ini": 50112,
+   "fin": 50124,
+   "rasgos": {
+    "role": ""
+   },
+   "texto": "H. Ober Hess"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50112,
+   "fin": 50124,
+   "texto": "H. Ober Hess"
+  },
+  {
+   "tipo": "person",
+   "ini": 50125,
+   "fin": 50136,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Josef Jaffe"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50125,
+   "fin": 50136,
+   "texto": "Josef Jaffe"
+  },
+  {
+   "tipo": "person",
+   "ini": 50137,
+   "fin": 50153,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Mrs. Paul Kaiser"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50142,
+   "fin": 50153,
+   "texto": "Paul Kaiser"
+  },
+  {
+   "tipo": "person",
+   "ini": 50154,
+   "fin": 50165,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Louis Klein"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50154,
+   "fin": 50165,
+   "texto": "Louis Klein"
+  },
+  {
+   "tipo": "person",
+   "ini": 50166,
+   "fin": 50190,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Mrs. Virginia H. Knauer "
+  },
+  {
+   "tipo": "persName",
+   "ini": 50171,
+   "fin": 50189,
+   "texto": "Virginia H. Knauer"
+  },
+  {
+   "tipo": "person",
+   "ini": 50191,
+   "fin": 50208,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Berton E. Kormian"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50191,
+   "fin": 50208,
+   "texto": "Berton E. Kormian"
+  },
+  {
+   "tipo": "person",
+   "ini": 50209,
+   "fin": 50227,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Mrs. Austin Lament"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50214,
+   "fin": 50227,
+   "texto": "Austin Lament"
+  },
+  {
+   "tipo": "person",
+   "ini": 50228,
+   "fin": 50247,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Al Paul Lefton, Jr."
+  },
+  {
+   "tipo": "persName",
+   "ini": 50228,
+   "fin": 50247,
+   "texto": "Al Paul Lefton, Jr."
+  },
+  {
+   "tipo": "person",
+   "ini": 50248,
+   "fin": 50274,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "The Hon. Samuel M. Lehrer "
+  },
+  {
+   "tipo": "persName",
+   "ini": 50257,
+   "fin": 50273,
+   "texto": "Samuel M. Lehrer"
+  },
+  {
+   "tipo": "person",
+   "ini": 50275,
+   "fin": 50294,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Mrs. H. Gates Lloyd"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50280,
+   "fin": 50294,
+   "texto": "H. Gates Lloyd"
+  },
+  {
+   "tipo": "person",
+   "ini": 50295,
+   "fin": 50319,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Harvey S. Shipley Miller"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50295,
+   "fin": 50319,
+   "texto": "Harvey S. Shipley Miller"
+  },
+  {
+   "tipo": "person",
+   "ini": 50321,
+   "fin": 50335,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Jeffrey Natkin"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50321,
+   "fin": 50335,
+   "texto": "Jeffrey Natkin"
+  },
+  {
+   "tipo": "person",
+   "ini": 50336,
+   "fin": 50356,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Richard L. Newberger"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50336,
+   "fin": 50356,
+   "texto": "Richard L. Newberger"
+  },
+  {
+   "tipo": "person",
+   "ini": 50357,
+   "fin": 50372,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Joseph L. Ponoe"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50357,
+   "fin": 50372,
+   "texto": "Joseph L. Ponoe"
+  },
+  {
+   "tipo": "person",
+   "ini": 50373,
+   "fin": 50395,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Mrs. Meyer P. Potamkin"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50378,
+   "fin": 50395,
+   "texto": "Meyer P. Potamkin"
+  },
+  {
+   "tipo": "person",
+   "ini": 50397,
+   "fin": 50411,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "William Rafsky"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50397,
+   "fin": 50411,
+   "texto": "William Rafsky"
+  },
+  {
+   "tipo": "person",
+   "ini": 50412,
+   "fin": 50423,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Mel Richman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50412,
+   "fin": 50423,
+   "texto": "Mel Richman"
+  },
+  {
+   "tipo": "person",
+   "ini": 50424,
+   "fin": 50455,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Ms. Sydney Roberts Rockefeller "
+  },
+  {
+   "tipo": "persName",
+   "ini": 50428,
+   "fin": 50455,
+   "texto": "Sydney Roberts Rockefeller "
+  },
+  {
+   "tipo": "person",
+   "ini": 50456,
+   "fin": 50476,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Mrs. Edith Rosenwald"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50461,
+   "fin": 50476,
+   "texto": "Edith Rosenwald"
+  },
+  {
+   "tipo": "person",
+   "ini": 50477,
+   "fin": 50498,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Mrs. Neill Schmeichel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50482,
+   "fin": 50498,
+   "texto": "Neill Schmeichel"
+  },
+  {
+   "tipo": "person",
+   "ini": 50499,
+   "fin": 50521,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Samuel R. Shipley, III"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50499,
+   "fin": 50521,
+   "texto": "Samuel R. Shipley, III"
+  },
+  {
+   "tipo": "person",
+   "ini": 50522,
+   "fin": 50540,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Harold A. Sorgenti"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50522,
+   "fin": 50540,
+   "texto": "Harold A. Sorgenti"
+  },
+  {
+   "tipo": "person",
+   "ini": 50541,
+   "fin": 50565,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "J. Finton Speller, M.D. "
+  },
+  {
+   "tipo": "persName",
+   "ini": 50541,
+   "fin": 50563,
+   "texto": "J. Finton Speller, M.D"
+  },
+  {
+   "tipo": "person",
+   "ini": 50566,
+   "fin": 50586,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Frederick T. Waldeck"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50566,
+   "fin": 50586,
+   "texto": "Frederick T. Waldeck"
+  },
+  {
+   "tipo": "person",
+   "ini": 50587,
+   "fin": 50606,
+   "rasgos": {
+    "role": "trustee"
+   },
+   "texto": "Philip H. Ward, III"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50587,
+   "fin": 50606,
+   "texto": "Philip H. Ward, III"
+  },
+  {
+   "tipo": "person",
+   "ini": 50626,
+   "fin": 50645,
+   "rasgos": {
+    "role": "honoraryTrustee"
+   },
+   "texto": "Mrs. Malcolm Lloyd "
+  },
+  {
+   "tipo": "persName",
+   "ini": 50631,
+   "fin": 50644,
+   "texto": "Malcolm Lloyd"
+  },
+  {
+   "tipo": "person",
+   "ini": 50646,
+   "fin": 50662,
+   "rasgos": {
+    "role": "honoraryTrustee"
+   },
+   "texto": "Ronald K. Porter"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50646,
+   "fin": 50662,
+   "texto": "Ronald K. Porter"
+  },
+  {
+   "tipo": "person",
+   "ini": 50663,
+   "fin": 50686,
+   "rasgos": {
+    "role": "honoraryTrustee"
+   },
+   "texto": "Mrs. Marguerite Walter "
+  },
+  {
+   "tipo": "persName",
+   "ini": 50668,
+   "fin": 50685,
+   "texto": "Marguerite Walter"
+  },
+  {
+   "tipo": "person",
+   "ini": 50687,
+   "fin": 50713,
+   "rasgos": {
+    "role": "honoraryTrustee"
+   },
+   "texto": "Mrs. Thomas Raeburn White "
+  },
+  {
+   "tipo": "persName",
+   "ini": 50692,
+   "fin": 50712,
+   "texto": "Thomas Raeburn White"
+  },
+  {
+   "tipo": "person",
+   "ini": 50714,
+   "fin": 50736,
+   "rasgos": {
+    "role": "honoraryTrustee"
+   },
+   "texto": "Mrs. John Wintersteen "
+  },
+  {
+   "tipo": "persName",
+   "ini": 50719,
+   "fin": 50736,
+   "texto": "John Wintersteen "
+  },
+  {
+   "tipo": "person",
+   "ini": 50737,
+   "fin": 50751,
+   "rasgos": {
+    "role": "honoraryTrustee"
+   },
+   "texto": "Howard A. Wolf"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50737,
+   "fin": 50751,
+   "texto": "Howard A. Wolf"
+  },
+  {
+   "tipo": "person",
+   "ini": 50772,
+   "fin": 50824,
+   "rasgos": {
+    "role": "officioMembers"
+   },
+   "texto": "The Hon. Frank L. Rizzo, Mayor, City of Philadelphia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50781,
+   "fin": 50795,
+   "texto": "Frank L. Rizzo"
+  },
+  {
+   "tipo": "person",
+   "ini": 50825,
+   "fin": 50880,
+   "rasgos": {
+    "role": "officioMembers"
+   },
+   "texto": "The Hon. Robert W. Crawford, Commissioner of Recreation"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50834,
+   "fin": 50852,
+   "texto": "Robert W. Crawford"
+  },
+  {
+   "tipo": "person",
+   "ini": 50881,
+   "fin": 50933,
+   "rasgos": {
+    "role": "officioMembers"
+   },
+   "texto": "The Hon. George X. Schwartz, President, City Council"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50890,
+   "fin": 50908,
+   "texto": "George X. Schwartz"
+  },
+  {
+   "tipo": "person",
+   "ini": 50935,
+   "fin": 50963,
+   "rasgos": {
+    "role": "president"
+   },
+   "texto": "Thomas F. Schutte, President"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50935,
+   "fin": 50952,
+   "texto": "Thomas F. Schutte"
+  }
+ ]
+}

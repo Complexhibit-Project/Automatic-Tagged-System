@@ -1,0 +1,2212 @@
+{
+ "id": "cat_059_catalogo_san_millan_de_la_cogolla_2017_w",
+ "nombre_original": "Catalogo-San-millan-de-la-Cogolla_2017_WEB-1",
+ "longitud_texto": 14103,
+ "sha256_texto": "36787b590b6a225dee906d9426b2f09693dd0195179c3018faa02484549b2401",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 203,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 47,
+   "texto": "Residencia de Artistas\nSan Millán de la Cogolla"
+  },
+  {
+   "tipo": "date",
+   "ini": 49,
+   "fin": 53,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "date",
+   "ini": 65,
+   "fin": 69,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "date",
+   "ini": 74,
+   "fin": 103,
+   "rasgos": {
+    "from": "2017-07-02",
+    "to": "017-09-04"
+   },
+   "texto": "2 de julio al 4 de Septiembre"
+  },
+  {
+   "tipo": "institution",
+   "ini": 139,
+   "fin": 167,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Facultad de Bellas Artes UCM"
+  },
+  {
+   "tipo": "institution",
+   "ini": 169,
+   "fin": 203,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "Fundación San Millán de la Cogolla"
+  },
+  {
+   "tipo": "person",
+   "ini": 226,
+   "fin": 247,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Elena Blanch González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 226,
+   "fin": 247,
+   "texto": "Elena Blanch González"
+  },
+  {
+   "tipo": "person",
+   "ini": 273,
+   "fin": 290,
+   "texto": "Mariola Andonegui"
+  },
+  {
+   "tipo": "persName",
+   "ini": 273,
+   "fin": 290,
+   "texto": "Mariola Andonegui"
+  },
+  {
+   "tipo": "person",
+   "ini": 291,
+   "fin": 304,
+   "texto": "Adolfo Falces"
+  },
+  {
+   "tipo": "persName",
+   "ini": 291,
+   "fin": 304,
+   "texto": "Adolfo Falces"
+  },
+  {
+   "tipo": "institution",
+   "ini": 314,
+   "fin": 348,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "Fundación San Millán de la Cogolla"
+  },
+  {
+   "tipo": "institution",
+   "ini": 349,
+   "fin": 373,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Facultad de Bellas Artes"
+  },
+  {
+   "tipo": "institution",
+   "ini": 384,
+   "fin": 418,
+   "rasgos": {
+    "type": "foundation",
+    "role": "producer"
+   },
+   "texto": "Fundación San Millán de la Cogolla"
+  },
+  {
+   "tipo": "institution",
+   "ini": 428,
+   "fin": 476,
+   "rasgos": {
+    "type": "order"
+   },
+   "texto": "Orden de Agustinos Recoletos. Monasterio de Yuso"
+  },
+  {
+   "tipo": "institution",
+   "ini": 483,
+   "fin": 517,
+   "rasgos": {
+    "type": "foundation",
+    "role": "editor"
+   },
+   "texto": "Fundación San Millán de la Cogolla"
+  },
+  {
+   "tipo": "person",
+   "ini": 533,
+   "fin": 550,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ania Pedraza Rosa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 533,
+   "fin": 550,
+   "texto": "Ania Pedraza Rosa"
+  },
+  {
+   "tipo": "person",
+   "ini": 562,
+   "fin": 579,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ania Pedraza Rosa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 562,
+   "fin": 579,
+   "texto": "Ania Pedraza Rosa"
+  },
+  {
+   "tipo": "institution",
+   "ini": 590,
+   "fin": 602,
+   "rasgos": {
+    "type": "printer"
+   },
+   "texto": "Reproestudio"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 604,
+   "fin": 766,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 604,
+   "fin": 651,
+   "texto": "Residencia de Artistas\nSAN MILLÁN DE LA COGOLLA"
+  },
+  {
+   "tipo": "date",
+   "ini": 663,
+   "fin": 667,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "date",
+   "ini": 672,
+   "fin": 701,
+   "rasgos": {
+    "from": "2017-07-02",
+    "to": "2017-09-04"
+   },
+   "texto": "2 de julio\nal 4 de septiembre"
+  },
+  {
+   "tipo": "institution",
+   "ini": 703,
+   "fin": 731,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Facultad de Bellas Artes UCM"
+  },
+  {
+   "tipo": "institution",
+   "ini": 732,
+   "fin": 766,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "Fundación San Millán de la Cogolla"
+  },
+  {
+   "tipo": "institution",
+   "ini": 797,
+   "fin": 821,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "San Millán de la Cogolla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 797,
+   "fin": 821,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "San Millán de la Cogolla"
+  },
+  {
+   "tipo": "institution",
+   "ini": 904,
+   "fin": 941,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser, host"
+   },
+   "texto": "Facultad de Bellas Artes de la U.C.M."
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1283,
+   "fin": 1292,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "San Milán"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1675,
+   "fin": 1699,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "San\nMillán de la Cogolla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1933,
+   "fin": 1943,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "San Millán"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2156,
+   "fin": 2190,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "Fundación San Millán de la Cogolla"
+  },
+  {
+   "tipo": "title",
+   "ini": 2236,
+   "fin": 2261,
+   "texto": "II Residencia de Artistas"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 2236,
+   "fin": 2261,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "venue",
+   "ini": 2358,
+   "fin": 2400,
+   "texto": "Monasterios de San Milán de Suso y de Yuso"
+  },
+  {
+   "tipo": "venue",
+   "ini": 2408,
+   "fin": 2419,
+   "texto": "Monasterios"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2792,
+   "fin": 2802,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "San Millán"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3250,
+   "fin": 3284,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "Fundación San Millán de la Cogolla"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3740,
+   "fin": 3760,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "Fundación San Millán"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3800,
+   "fin": 3834,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "Fundación\nSan Millán de la Cogolla"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 3839,
+   "fin": 3864,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 3839,
+   "fin": 3864,
+   "texto": "II Residencia de Artistas"
+  },
+  {
+   "tipo": "person",
+   "ini": 4592,
+   "fin": 4598,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sandra"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4592,
+   "fin": 4598,
+   "texto": "Sandra"
+  },
+  {
+   "tipo": "person",
+   "ini": 4600,
+   "fin": 4606,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Kalima"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4600,
+   "fin": 4606,
+   "texto": "Kalima"
+  },
+  {
+   "tipo": "person",
+   "ini": 4608,
+   "fin": 4612,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ania"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4608,
+   "fin": 4612,
+   "texto": "Ania"
+  },
+  {
+   "tipo": "person",
+   "ini": 4614,
+   "fin": 4619,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Irene"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4614,
+   "fin": 4619,
+   "texto": "Irene"
+  },
+  {
+   "tipo": "person",
+   "ini": 4622,
+   "fin": 4628,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Silvia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4622,
+   "fin": 4628,
+   "texto": "Silvia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4640,
+   "fin": 4664,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "San Millán de la\nCogolla"
+  },
+  {
+   "tipo": "venue",
+   "ini": 4854,
+   "fin": 4883,
+   "texto": "Monasterios\nde Suso y de Yuso"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 5429,
+   "fin": 7062
+  },
+  {
+   "tipo": "img",
+   "ini": 5429,
+   "fin": 5434,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 5436,
+   "fin": 13596
+  },
+  {
+   "tipo": "person",
+   "ini": 5436,
+   "fin": 5449,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "SILVIA VERENA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5436,
+   "fin": 5449,
+   "texto": "SILVIA VERENA"
+  },
+  {
+   "tipo": "text",
+   "ini": 5450,
+   "fin": 6862
+  },
+  {
+   "tipo": "title",
+   "ini": 5450,
+   "fin": 5474,
+   "texto": "Instalación y fotografía"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5450,
+   "fin": 5474,
+   "rasgos": {
+    "type": "photograph, installation"
+   },
+   "texto": "Instalación y fotografía"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6864,
+   "fin": 6911
+  },
+  {
+   "tipo": "img",
+   "ini": 6864,
+   "fin": 6869,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6871,
+   "fin": 6911,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Ágora I\nImpresión Cromogénica\n20 x 30 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 6871,
+   "fin": 6878,
+   "texto": "Ágora I"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6879,
+   "fin": 6900,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Impresión Cromogénica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6901,
+   "fin": 6911,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6901,
+   "fin": 6903,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 6906,
+   "fin": 6908,
+   "texto": "30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6913,
+   "fin": 6961
+  },
+  {
+   "tipo": "img",
+   "ini": 6913,
+   "fin": 6918,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6920,
+   "fin": 6961,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Ágora II\nImpresión Cromogénica\n30 x 45 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 6920,
+   "fin": 6928,
+   "texto": "Ágora II"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6929,
+   "fin": 6950,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Impresión Cromogénica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6951,
+   "fin": 6961,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 45 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6951,
+   "fin": 6953,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 6956,
+   "fin": 6958,
+   "texto": "45"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6963,
+   "fin": 7012
+  },
+  {
+   "tipo": "img",
+   "ini": 6963,
+   "fin": 6968,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6970,
+   "fin": 7012,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Ágora III\nImpresión Cromogénica\n30 x 45 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 6970,
+   "fin": 6979,
+   "texto": "Ágora III"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6980,
+   "fin": 7001,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Impresión Cromogénica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7002,
+   "fin": 7012,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 45 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7002,
+   "fin": 7004,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 7007,
+   "fin": 7009,
+   "texto": "45"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7014,
+   "fin": 7062
+  },
+  {
+   "tipo": "img",
+   "ini": 7014,
+   "fin": 7019,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7021,
+   "fin": 7062,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Ágora VI\nImpresión Cromogénica\n20 x 30 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 7021,
+   "fin": 7029,
+   "texto": "Ágora VI"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7030,
+   "fin": 7051,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Impresión Cromogénica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7052,
+   "fin": 7062,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7052,
+   "fin": 7054,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 7057,
+   "fin": 7059,
+   "texto": "30"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 7064,
+   "fin": 8563
+  },
+  {
+   "tipo": "img",
+   "ini": 7064,
+   "fin": 7069,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7064,
+   "fin": 7069
+  },
+  {
+   "tipo": "person",
+   "ini": 7071,
+   "fin": 7084,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "SANDRA MALVAR"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7071,
+   "fin": 7084,
+   "texto": "SANDRA MALVAR"
+  },
+  {
+   "tipo": "text",
+   "ini": 7085,
+   "fin": 8348
+  },
+  {
+   "tipo": "technique",
+   "ini": 7085,
+   "fin": 7101,
+   "rasgos": {
+    "type": "painting, drawing"
+   },
+   "texto": "Pintura y dibujo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8350,
+   "fin": 8406
+  },
+  {
+   "tipo": "img",
+   "ini": 8350,
+   "fin": 8355,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8357,
+   "fin": 8406,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Miradas cerradas\nGrafito sobre papel\n42 x 29,7 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8357,
+   "fin": 8373,
+   "texto": "Miradas cerradas"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8374,
+   "fin": 8393,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Grafito sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8394,
+   "fin": 8406,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "42 x 29,7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8394,
+   "fin": 8396,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 8399,
+   "fin": 8403,
+   "texto": "29,7"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8408,
+   "fin": 8474
+  },
+  {
+   "tipo": "img",
+   "ini": 8408,
+   "fin": 8413,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8415,
+   "fin": 8474,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Repliques, horas y cuartos\nGrafito sobre papel\n42 x 29,7 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8415,
+   "fin": 8441,
+   "texto": "Repliques, horas y cuartos"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8442,
+   "fin": 8461,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Grafito sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8462,
+   "fin": 8474,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "42 x 29,7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8462,
+   "fin": 8464,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 8467,
+   "fin": 8471,
+   "texto": "29,7"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8476,
+   "fin": 8518
+  },
+  {
+   "tipo": "img",
+   "ini": 8476,
+   "fin": 8481,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8483,
+   "fin": 8518,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Ascenso\nÓleo sobre tabla\n61 x 50 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8483,
+   "fin": 8490,
+   "texto": "Ascenso"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8491,
+   "fin": 8507,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8508,
+   "fin": 8518,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8508,
+   "fin": 8510,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 8513,
+   "fin": 8515,
+   "texto": "50"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8520,
+   "fin": 8563
+  },
+  {
+   "tipo": "img",
+   "ini": 8520,
+   "fin": 8525,
+   "rasgos": {
+    "color": "true",
+    "size": "medium",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8527,
+   "fin": 8563,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Descenso\nÓleo sobre tabla\n65 x 54 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 8527,
+   "fin": 8535,
+   "texto": "Descenso"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8536,
+   "fin": 8552,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8553,
+   "fin": 8563,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 54 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8553,
+   "fin": 8555,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 8558,
+   "fin": 8560,
+   "texto": "54"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 8565,
+   "fin": 10452
+  },
+  {
+   "tipo": "img",
+   "ini": 8565,
+   "fin": 8570,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 8572,
+   "fin": 8589,
+   "rasgos": {
+    "type": "creator"
+   },
+   "texto": "ANIA PEDRAZA ROSA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8572,
+   "fin": 8589,
+   "texto": "ANIA PEDRAZA ROSA"
+  },
+  {
+   "tipo": "text",
+   "ini": 8590,
+   "fin": 10070
+  },
+  {
+   "tipo": "title",
+   "ini": 8590,
+   "fin": 8600,
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8590,
+   "fin": 8600,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10072,
+   "fin": 10139
+  },
+  {
+   "tipo": "img",
+   "ini": 10072,
+   "fin": 10077,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10079,
+   "fin": 10139,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Ámbito oculto I\nFotografía, impresión cromogénica\n60 x 75 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 10079,
+   "fin": 10094,
+   "texto": "Ámbito oculto I"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10095,
+   "fin": 10128,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía, impresión cromogénica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10129,
+   "fin": 10139,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 75 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 10129,
+   "fin": 10131,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 10134,
+   "fin": 10136,
+   "texto": "75"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10141,
+   "fin": 10209
+  },
+  {
+   "tipo": "img",
+   "ini": 10141,
+   "fin": 10146,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10148,
+   "fin": 10209,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Ámbito oculto II\nFotografía, impresión cromogénica\n60 x 75 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 10148,
+   "fin": 10164,
+   "texto": "Ámbito oculto II"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10165,
+   "fin": 10198,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía, impresión cromogénica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10199,
+   "fin": 10209,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 75 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 10199,
+   "fin": 10201,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 10204,
+   "fin": 10206,
+   "texto": "75"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10211,
+   "fin": 10275
+  },
+  {
+   "tipo": "img",
+   "ini": 10211,
+   "fin": 10216,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10218,
+   "fin": 10275,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fraile Cuesta\nFotografía\nimpresión cromogénica\n60 x 75 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 10218,
+   "fin": 10231,
+   "texto": "Fraile Cuesta"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10232,
+   "fin": 10264,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía\nimpresión cromogénica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10265,
+   "fin": 10275,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 75 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 10265,
+   "fin": 10267,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 10270,
+   "fin": 10272,
+   "texto": "75"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10277,
+   "fin": 10363
+  },
+  {
+   "tipo": "img",
+   "ini": 10277,
+   "fin": 10282,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10284,
+   "fin": 10363,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Donde habita\nhabita el\nel olvido II\nFotografía\nimpresión cromogénica\n60 x 75 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 10284,
+   "fin": 10319,
+   "texto": "Donde habita\nhabita el\nel olvido II"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10320,
+   "fin": 10352,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía\nimpresión cromogénica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10353,
+   "fin": 10363,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 75 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 10353,
+   "fin": 10355,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 10358,
+   "fin": 10360,
+   "texto": "75"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10365,
+   "fin": 10452
+  },
+  {
+   "tipo": "img",
+   "ini": 10365,
+   "fin": 10370,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10372,
+   "fin": 10452,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Donde habita\nhabita el\nel olvido III\nFotografía\nimpresión cromogénica\n40 x 50 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 10372,
+   "fin": 10408,
+   "texto": "Donde habita\nhabita el\nel olvido III"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10409,
+   "fin": 10441,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía\nimpresión cromogénica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10442,
+   "fin": 10452,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 10442,
+   "fin": 10444,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 10447,
+   "fin": 10449,
+   "texto": "50"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 10454,
+   "fin": 12098
+  },
+  {
+   "tipo": "img",
+   "ini": 10454,
+   "fin": 10459,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 10461,
+   "fin": 10472,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "IRENE HARTO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10461,
+   "fin": 10472,
+   "texto": "IRENE HARTO"
+  },
+  {
+   "tipo": "text",
+   "ini": 10473,
+   "fin": 11860
+  },
+  {
+   "tipo": "title",
+   "ini": 10473,
+   "fin": 10480,
+   "texto": "Pintura"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10473,
+   "fin": 10480,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pintura"
+  },
+  {
+   "tipo": "work",
+   "ini": 10584,
+   "fin": 10650,
+   "texto": "La pintura metafísica (1917, Giorgio\nde Chirico y Alberto Morandi)"
+  },
+  {
+   "tipo": "title",
+   "ini": 10584,
+   "fin": 10605,
+   "texto": "La pintura metafísica"
+  },
+  {
+   "tipo": "date",
+   "ini": 10607,
+   "fin": 10611,
+   "rasgos": {
+    "when": "1917"
+   },
+   "texto": "1917"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10613,
+   "fin": 10631,
+   "texto": "Giorgio\nde Chirico"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10634,
+   "fin": 10649,
+   "texto": "Alberto Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11177,
+   "fin": 11199,
+   "texto": "Santiago Ramón y Cajal"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11854,
+   "fin": 11926
+  },
+  {
+   "tipo": "img",
+   "ini": 11854,
+   "fin": 11859,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11861,
+   "fin": 11926,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Prometeo en la peña de Suso\nTécnica mixta sobre lienzo\n61 x 50 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 11861,
+   "fin": 11888,
+   "texto": "Prometeo en la peña de Suso"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11889,
+   "fin": 11915,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11916,
+   "fin": 11926,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11916,
+   "fin": 11918,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 11921,
+   "fin": 11923,
+   "texto": "50"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11928,
+   "fin": 11979
+  },
+  {
+   "tipo": "img",
+   "ini": 11928,
+   "fin": 11933,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11935,
+   "fin": 11979,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Infantes de Lara\nÓleo sobre tabla\n24 x 19 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 11935,
+   "fin": 11951,
+   "texto": "Infantes de Lara"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11952,
+   "fin": 11968,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11969,
+   "fin": 11979,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "24 x 19 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11969,
+   "fin": 11971,
+   "texto": "24"
+  },
+  {
+   "tipo": "width",
+   "ini": 11974,
+   "fin": 11976,
+   "texto": "19"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11981,
+   "fin": 12035
+  },
+  {
+   "tipo": "img",
+   "ini": 11981,
+   "fin": 11986,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11988,
+   "fin": 12035,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El salto\nTécnica mixta sobre lienzo\n100 x 73 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 11988,
+   "fin": 11996,
+   "texto": "El salto"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11997,
+   "fin": 12023,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12024,
+   "fin": 12035,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 73 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 12024,
+   "fin": 12027,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 12030,
+   "fin": 12032,
+   "texto": "73"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12037,
+   "fin": 12098
+  },
+  {
+   "tipo": "img",
+   "ini": 12037,
+   "fin": 12042,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12044,
+   "fin": 12098,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Orfeo y Eurídice\nTécnica mixta sobre lienzo\n81 x 60 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 12044,
+   "fin": 12060,
+   "texto": "Orfeo y Eurídice"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12061,
+   "fin": 12087,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12088,
+   "fin": 12098,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 12088,
+   "fin": 12090,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 12093,
+   "fin": 12095,
+   "texto": "60"
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 12100,
+   "fin": 13596
+  },
+  {
+   "tipo": "img",
+   "ini": 12100,
+   "fin": 12105,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 12107,
+   "fin": 12120,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "KALIMA KANDEL"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12107,
+   "fin": 12120,
+   "texto": "KALIMA KANDEL"
+  },
+  {
+   "tipo": "text",
+   "ini": 12121,
+   "fin": 13350
+  },
+  {
+   "tipo": "title",
+   "ini": 12121,
+   "fin": 12137,
+   "texto": "Pintura y dibujo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12121,
+   "fin": 12137,
+   "rasgos": {
+    "type": "painting, drawing"
+   },
+   "texto": "Pintura y dibujo"
+  },
+  {
+   "tipo": "reference",
+   "ini": 12258,
+   "fin": 12348
+  },
+  {
+   "tipo": "persName",
+   "ini": 12258,
+   "fin": 12271,
+   "texto": "LE BRETON, D."
+  },
+  {
+   "tipo": "date",
+   "ini": 12273,
+   "fin": 12277,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "title",
+   "ini": 12280,
+   "fin": 12312,
+   "texto": "Una antropología de los sentidos"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 12314,
+   "fin": 12326,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Buenos Aires"
+  },
+  {
+   "tipo": "institution",
+   "ini": 12328,
+   "fin": 12340,
+   "rasgos": {
+    "type": "editorial"
+   },
+   "texto": "Nueva Visión"
+  },
+  {
+   "tipo": "venue",
+   "ini": 13075,
+   "fin": 13123,
+   "texto": "residencia artística de San Millan de la Cogolla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 13099,
+   "fin": 13123,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "San Millan de la Cogolla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13352,
+   "fin": 13404
+  },
+  {
+   "tipo": "img",
+   "ini": 13352,
+   "fin": 13357,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 13359,
+   "fin": 13404,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Huerto y uralita\nÓleo sobre lienzo\n80 x 65 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 13359,
+   "fin": 13375,
+   "texto": "Huerto y uralita"
+  },
+  {
+   "tipo": "technique",
+   "ini": 13376,
+   "fin": 13393,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13394,
+   "fin": 13404,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80 x 65 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 13394,
+   "fin": 13396,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 13399,
+   "fin": 13401,
+   "texto": "65"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13406,
+   "fin": 13461
+  },
+  {
+   "tipo": "img",
+   "ini": 13406,
+   "fin": 13411,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 13413,
+   "fin": 13461,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Tejas y árboles\nRotulador sobre papel\n30 x 20 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 13413,
+   "fin": 13428,
+   "texto": "Tejas y árboles"
+  },
+  {
+   "tipo": "technique",
+   "ini": 13429,
+   "fin": 13450,
+   "rasgos": {
+    "type": "feltTipPen"
+   },
+   "texto": "Rotulador sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13451,
+   "fin": 13461,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 20 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 13451,
+   "fin": 13453,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 13456,
+   "fin": 13458,
+   "texto": "20"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13463,
+   "fin": 13542
+  },
+  {
+   "tipo": "img",
+   "ini": 13463,
+   "fin": 13468,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 13470,
+   "fin": 13542,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Plegado de paisaje en bodegón sobre silla\nÓleo sobre lienzo\n147 x 103 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 13470,
+   "fin": 13511,
+   "texto": "Plegado de paisaje en bodegón sobre silla"
+  },
+  {
+   "tipo": "technique",
+   "ini": 13512,
+   "fin": 13529,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13530,
+   "fin": 13542,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "147 x 103 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 13530,
+   "fin": 13533,
+   "texto": "147"
+  },
+  {
+   "tipo": "width",
+   "ini": 13536,
+   "fin": 13539,
+   "texto": "103"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13544,
+   "fin": 13596
+  },
+  {
+   "tipo": "img",
+   "ini": 13544,
+   "fin": 13549,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 13551,
+   "fin": 13596,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Bodegón con fixo\nÓleo sobre lienzo\n72 x 71 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 13551,
+   "fin": 13567,
+   "texto": "Bodegón con fixo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 13568,
+   "fin": 13585,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13586,
+   "fin": 13596,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "72 x 71 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 13586,
+   "fin": 13588,
+   "texto": "72"
+  },
+  {
+   "tipo": "width",
+   "ini": 13591,
+   "fin": 13593,
+   "texto": "71"
+  },
+  {
+   "tipo": "person",
+   "ini": 13608,
+   "fin": 13629,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Elena Blanch González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13608,
+   "fin": 13629,
+   "texto": "Elena Blanch González"
+  },
+  {
+   "tipo": "person",
+   "ini": 13674,
+   "fin": 13691,
+   "texto": "Mariola Andonegui"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13674,
+   "fin": 13691,
+   "texto": "Mariola Andonegui"
+  },
+  {
+   "tipo": "person",
+   "ini": 13718,
+   "fin": 13731,
+   "texto": "Adolfo Falces"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13718,
+   "fin": 13731,
+   "texto": "Adolfo Falces"
+  },
+  {
+   "tipo": "person",
+   "ini": 13764,
+   "fin": 13777,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Silvia Verena"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13764,
+   "fin": 13777,
+   "texto": "Silvia Verena"
+  },
+  {
+   "tipo": "person",
+   "ini": 13838,
+   "fin": 13851,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sandra Malvar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13838,
+   "fin": 13851,
+   "texto": "Sandra Malvar"
+  },
+  {
+   "tipo": "person",
+   "ini": 13889,
+   "fin": 13906,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ania Pedraza Rosa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13889,
+   "fin": 13906,
+   "texto": "Ania Pedraza Rosa"
+  },
+  {
+   "tipo": "person",
+   "ini": 13943,
+   "fin": 13954,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Irene Harto"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13943,
+   "fin": 13954,
+   "texto": "Irene Harto"
+  },
+  {
+   "tipo": "person",
+   "ini": 14015,
+   "fin": 14028,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Kalima Kandel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14015,
+   "fin": 14028,
+   "texto": "Kalima Kandel"
+  }
+ ]
+}

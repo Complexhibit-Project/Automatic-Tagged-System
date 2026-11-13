@@ -1,0 +1,5345 @@
+{
+ "id": "cat_054_catalogo_miguel_herrero_compressed",
+ "nombre_original": "CATALOGO-MIGUEL-HERRERO_compressed",
+ "longitud_texto": 31679,
+ "sha256_texto": "c8d3b3b4191e77a5974287935c864fff382b0c2cea844342d44e3a55fef6074b",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 68,
+   "texto": "MIGUEL HERRERO\n\nSiempre te hablo\n100 años del nacimiento del artista"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 68,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 14,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MIGUEL HERRERO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 14,
+   "texto": "MIGUEL HERRERO"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 70,
+   "fin": 170,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 70,
+   "fin": 138,
+   "texto": "MIGUEL HERRERO\n\nSiempre te hablo\n100 años del nacimiento del artista"
+  },
+  {
+   "tipo": "person",
+   "ini": 70,
+   "fin": 84,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MIGUEL HERRERO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 70,
+   "fin": 84,
+   "texto": "MIGUEL HERRERO"
+  },
+  {
+   "tipo": "institution",
+   "ini": 140,
+   "fin": 170,
+   "rasgos": {
+    "type": "townHall",
+    "role": "organiser"
+   },
+   "texto": "Alcalá de Henares Ayuntamiento"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 140,
+   "fin": 157,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Alcalá de Henares"
+  },
+  {
+   "tipo": "person",
+   "ini": 1049,
+   "fin": 1063,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1050,
+   "fin": 1063,
+   "texto": "iguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 1198,
+   "fin": 1205,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1198,
+   "fin": 1205,
+   "texto": "Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 1490,
+   "fin": 1504,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1490,
+   "fin": 1504,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1669,
+   "fin": 1715,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 1697,
+   "fin": 1715,
+   "texto": "“Siempre te hablo”"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1814,
+   "fin": 2019,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2002,
+   "fin": 2019,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Alcalá de Henares"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2021,
+   "fin": 2046,
+   "texto": "Javier Rodríguez Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 2077,
+   "fin": 2091,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2077,
+   "fin": 2091,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2137,
+   "fin": 2153,
+   "texto": " Miguel Herrero\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 2138,
+   "fin": 2152,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 2154,
+   "fin": 2168,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2154,
+   "fin": 2168,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 2455,
+   "fin": 2469,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2455,
+   "fin": 2469,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 2944,
+   "fin": 2990,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 2972,
+   "fin": 2990,
+   "texto": "“Siempre te hablo”"
+  },
+  {
+   "tipo": "person",
+   "ini": 3195,
+   "fin": 3209,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3195,
+   "fin": 3209,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 3464,
+   "fin": 3478,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3464,
+   "fin": 3478,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 3683,
+   "fin": 3697,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3683,
+   "fin": 3697,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3746,
+   "fin": 3753,
+   "texto": "Picasso"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3755,
+   "fin": 3759,
+   "texto": "Dalí"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3761,
+   "fin": 3767,
+   "texto": "Tàpies"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3770,
+   "fin": 3777,
+   "texto": "Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 3829,
+   "fin": 3843,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3829,
+   "fin": 3843,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 3969,
+   "fin": 3983,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3969,
+   "fin": 3983,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 4240,
+   "fin": 4246,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4240,
+   "fin": 4246,
+   "texto": "Miguel"
+  },
+  {
+   "tipo": "person",
+   "ini": 4267,
+   "fin": 4271,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "M.H."
+  },
+  {
+   "tipo": "persName",
+   "ini": 4267,
+   "fin": 4271,
+   "texto": "M.H."
+  },
+  {
+   "tipo": "person",
+   "ini": 4562,
+   "fin": 4568,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4562,
+   "fin": 4568,
+   "texto": "Miguel"
+  },
+  {
+   "tipo": "person",
+   "ini": 4826,
+   "fin": 4836,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "M. Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4826,
+   "fin": 4836,
+   "texto": "M. Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 4939,
+   "fin": 4953,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4939,
+   "fin": 4953,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 5184,
+   "fin": 5198,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5184,
+   "fin": 5198,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 5666,
+   "fin": 5680,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5666,
+   "fin": 5680,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 6927,
+   "fin": 6941,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6927,
+   "fin": 6941,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 7254,
+   "fin": 7268,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7254,
+   "fin": 7268,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 7427,
+   "fin": 7441,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7427,
+   "fin": 7441,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 7848,
+   "fin": 7855,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7848,
+   "fin": 7855,
+   "texto": "Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 7872,
+   "fin": 7879,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7872,
+   "fin": 7879,
+   "texto": "Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 7903,
+   "fin": 7910,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7903,
+   "fin": 7910,
+   "texto": "Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 7931,
+   "fin": 7938,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7931,
+   "fin": 7938,
+   "texto": "Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 7962,
+   "fin": 7976,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7962,
+   "fin": 7976,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 8013,
+   "fin": 8020,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8013,
+   "fin": 8020,
+   "texto": "Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 8068,
+   "fin": 8082,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8068,
+   "fin": 8082,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 8490,
+   "fin": 8504,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8490,
+   "fin": 8504,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 8709,
+   "fin": 8723,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8709,
+   "fin": 8723,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8868,
+   "fin": 8883,
+   "texto": "Georges Rouault"
+  },
+  {
+   "tipo": "person",
+   "ini": 9005,
+   "fin": 9019,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9005,
+   "fin": 9019,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 9362,
+   "fin": 9376,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9362,
+   "fin": 9376,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9395,
+   "fin": 9413,
+   "texto": "Roberto Montenegro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9416,
+   "fin": 9436,
+   "texto": "José Clemente Orozco"
+  },
+  {
+   "tipo": "person",
+   "ini": 9673,
+   "fin": 9687,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9673,
+   "fin": 9687,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 9913,
+   "fin": 9927,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9913,
+   "fin": 9927,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10488,
+   "fin": 10499,
+   "texto": "Lucio Muñoz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10542,
+   "fin": 10555,
+   "texto": "Antonio López"
+  },
+  {
+   "tipo": "person",
+   "ini": 10557,
+   "fin": 10571,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10557,
+   "fin": 10571,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 10686,
+   "fin": 10700,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10686,
+   "fin": 10700,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 11262,
+   "fin": 11276,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11262,
+   "fin": 11276,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 11598,
+   "fin": 11612,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11598,
+   "fin": 11612,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 11787,
+   "fin": 11794,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11787,
+   "fin": 11794,
+   "texto": "Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 12247,
+   "fin": 12261,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12247,
+   "fin": 12261,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 12281,
+   "fin": 12707,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 12295,
+   "fin": 12309,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12295,
+   "fin": 12309,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "title",
+   "ini": 12311,
+   "fin": 12327,
+   "texto": "Siempre te hablo"
+  },
+  {
+   "tipo": "person",
+   "ini": 12676,
+   "fin": 12690,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12676,
+   "fin": 12690,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 13725,
+   "fin": 13739,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13725,
+   "fin": 13739,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 14779,
+   "fin": 14793,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14779,
+   "fin": 14793,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 14939,
+   "fin": 14953,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14939,
+   "fin": 14953,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 15818,
+   "fin": 15832,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel\nHerrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15818,
+   "fin": 15832,
+   "texto": "Miguel\nHerrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 16086,
+   "fin": 16100,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel\nHerrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16086,
+   "fin": 16100,
+   "texto": "Miguel\nHerrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16731,
+   "fin": 16738,
+   "texto": "Picasso"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16741,
+   "fin": 16745,
+   "texto": "Dalí"
+  },
+  {
+   "tipo": "person",
+   "ini": 16810,
+   "fin": 16824,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16810,
+   "fin": 16824,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16991,
+   "fin": 16995,
+   "texto": "Goya"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16997,
+   "fin": 17004,
+   "texto": "Picasso"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17006,
+   "fin": 17013,
+   "texto": "Zuloaga"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17017,
+   "fin": 17022,
+   "texto": "Manet"
+  },
+  {
+   "tipo": "person",
+   "ini": 17050,
+   "fin": 17064,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17050,
+   "fin": 17064,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 17232,
+   "fin": 17239,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17232,
+   "fin": 17239,
+   "texto": "Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17556,
+   "fin": 17568,
+   "texto": "Felipe Garín"
+  },
+  {
+   "tipo": "person",
+   "ini": 17614,
+   "fin": 17628,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17614,
+   "fin": 17628,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17691,
+   "fin": 17707,
+   "texto": "Luis María Ansón"
+  },
+  {
+   "tipo": "person",
+   "ini": 17792,
+   "fin": 17806,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17792,
+   "fin": 17806,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17972,
+   "fin": 17996,
+   "texto": "Antonio Garrigues Walker"
+  },
+  {
+   "tipo": "person",
+   "ini": 18141,
+   "fin": 18155,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18141,
+   "fin": 18155,
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18164,
+   "fin": 18178,
+   "texto": "Judy Greenberg"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 18226,
+   "fin": 21763
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18250,
+   "fin": 18299
+  },
+  {
+   "tipo": "img",
+   "ini": 18250,
+   "fin": 18255
+  },
+  {
+   "tipo": "work",
+   "ini": 18257,
+   "fin": 18299,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Teatro, 1948\n120 x 80 cm\nÓleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 18257,
+   "fin": 18263,
+   "texto": "Teatro"
+  },
+  {
+   "tipo": "date",
+   "ini": 18265,
+   "fin": 18269,
+   "rasgos": {
+    "when": "1948"
+   },
+   "texto": "1948"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18270,
+   "fin": 18281,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "120 x 80 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18270,
+   "fin": 18273,
+   "texto": "120"
+  },
+  {
+   "tipo": "width",
+   "ini": 18276,
+   "fin": 18278,
+   "texto": "80"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18282,
+   "fin": 18299,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18301,
+   "fin": 18353
+  },
+  {
+   "tipo": "img",
+   "ini": 18301,
+   "fin": 18306,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18308,
+   "fin": 18353,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Mercado, 1950\n60 x 149 cm\nTécnica sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 18308,
+   "fin": 18315,
+   "texto": "Mercado"
+  },
+  {
+   "tipo": "date",
+   "ini": 18317,
+   "fin": 18321,
+   "rasgos": {
+    "when": "1950"
+   },
+   "texto": "1950"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18322,
+   "fin": 18333,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 149 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18322,
+   "fin": 18324,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 18327,
+   "fin": 18330,
+   "texto": "149"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18334,
+   "fin": 18353,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18355,
+   "fin": 18415
+  },
+  {
+   "tipo": "img",
+   "ini": 18355,
+   "fin": 18360,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18362,
+   "fin": 18415,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Hombre metafísico, 1957\n65,5 x 50 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 18362,
+   "fin": 18379,
+   "texto": "Hombre metafísico"
+  },
+  {
+   "tipo": "date",
+   "ini": 18381,
+   "fin": 18385,
+   "rasgos": {
+    "when": "1957"
+   },
+   "texto": "1957"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18386,
+   "fin": 18398,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65,5 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18386,
+   "fin": 18390,
+   "texto": "65,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 18393,
+   "fin": 18395,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18399,
+   "fin": 18415,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18417,
+   "fin": 18466
+  },
+  {
+   "tipo": "img",
+   "ini": 18417,
+   "fin": 18422,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18424,
+   "fin": 18466,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Matador, 1955\n65 x 30 cm\nÓleo sobre cartón"
+  },
+  {
+   "tipo": "title",
+   "ini": 18424,
+   "fin": 18431,
+   "texto": "Matador"
+  },
+  {
+   "tipo": "date",
+   "ini": 18433,
+   "fin": 18437,
+   "rasgos": {
+    "when": "1955"
+   },
+   "texto": "1955"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18438,
+   "fin": 18448,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18438,
+   "fin": 18440,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 18443,
+   "fin": 18445,
+   "texto": "30"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18449,
+   "fin": 18466,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre cartón"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18468,
+   "fin": 18530
+  },
+  {
+   "tipo": "img",
+   "ini": 18468,
+   "fin": 18473,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18475,
+   "fin": 18530,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Duende del flamenco, 1959\n200 x 122 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 18475,
+   "fin": 18494,
+   "texto": "Duende del flamenco"
+  },
+  {
+   "tipo": "date",
+   "ini": 18496,
+   "fin": 18500,
+   "rasgos": {
+    "when": "1959"
+   },
+   "texto": "1959"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18501,
+   "fin": 18513,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 122 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18501,
+   "fin": 18504,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 18507,
+   "fin": 18510,
+   "texto": "122"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18514,
+   "fin": 18530,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18532,
+   "fin": 18594
+  },
+  {
+   "tipo": "img",
+   "ini": 18532,
+   "fin": 18537,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18539,
+   "fin": 18594,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Meditación nacional, 1958\n200 x 122 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 18539,
+   "fin": 18558,
+   "texto": "Meditación nacional"
+  },
+  {
+   "tipo": "date",
+   "ini": 18560,
+   "fin": 18564,
+   "rasgos": {
+    "when": "1958"
+   },
+   "texto": "1958"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18565,
+   "fin": 18577,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 122 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18565,
+   "fin": 18568,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 18571,
+   "fin": 18574,
+   "texto": "122"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18578,
+   "fin": 18594,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18596,
+   "fin": 18653
+  },
+  {
+   "tipo": "img",
+   "ini": 18596,
+   "fin": 18601,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18603,
+   "fin": 18652,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Torero herido, 1958\n200 x 122 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 18603,
+   "fin": 18616,
+   "texto": "Torero herido"
+  },
+  {
+   "tipo": "date",
+   "ini": 18618,
+   "fin": 18622,
+   "rasgos": {
+    "when": "1958"
+   },
+   "texto": "1958"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18623,
+   "fin": 18635,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 122 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18623,
+   "fin": 18626,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 18629,
+   "fin": 18632,
+   "texto": "122"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18636,
+   "fin": 18652,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18654,
+   "fin": 18714
+  },
+  {
+   "tipo": "img",
+   "ini": 18654,
+   "fin": 18659,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18661,
+   "fin": 18714,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Dos peces abismales, 1959\n38 x 47 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 18661,
+   "fin": 18680,
+   "texto": "Dos peces abismales"
+  },
+  {
+   "tipo": "date",
+   "ini": 18682,
+   "fin": 18686,
+   "rasgos": {
+    "when": "1959"
+   },
+   "texto": "1959"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18687,
+   "fin": 18697,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "38 x 47 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18687,
+   "fin": 18689,
+   "texto": "38"
+  },
+  {
+   "tipo": "width",
+   "ini": 18692,
+   "fin": 18694,
+   "texto": "47"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18698,
+   "fin": 18714,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18716,
+   "fin": 18782
+  },
+  {
+   "tipo": "img",
+   "ini": 18716,
+   "fin": 18721,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18723,
+   "fin": 18782,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Radiografía del ser, 1957\n104,5 x 75,5 cm\nÓleo sobre cartón"
+  },
+  {
+   "tipo": "title",
+   "ini": 18723,
+   "fin": 18742,
+   "texto": "Radiografía del ser"
+  },
+  {
+   "tipo": "date",
+   "ini": 18744,
+   "fin": 18748,
+   "rasgos": {
+    "when": "1957"
+   },
+   "texto": "1957"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18749,
+   "fin": 18764,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "104,5 x 75,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18749,
+   "fin": 18754,
+   "texto": "104,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 18757,
+   "fin": 18761,
+   "texto": "75,5"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18765,
+   "fin": 18782,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre cartón"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18784,
+   "fin": 18833
+  },
+  {
+   "tipo": "img",
+   "ini": 18784,
+   "fin": 18790,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18791,
+   "fin": 18833,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pez azul, 1958\n39 x 46 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 18791,
+   "fin": 18799,
+   "texto": "Pez azul"
+  },
+  {
+   "tipo": "date",
+   "ini": 18801,
+   "fin": 18805,
+   "rasgos": {
+    "when": "1958"
+   },
+   "texto": "1958"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18806,
+   "fin": 18816,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "39 x 46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18806,
+   "fin": 18808,
+   "texto": "39"
+  },
+  {
+   "tipo": "width",
+   "ini": 18811,
+   "fin": 18813,
+   "texto": "46"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18817,
+   "fin": 18834,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla\n"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18835,
+   "fin": 18887
+  },
+  {
+   "tipo": "img",
+   "ini": 18835,
+   "fin": 18840,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18842,
+   "fin": 18887,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pez abismal, 1960\n38 x 46 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 18842,
+   "fin": 18853,
+   "texto": "Pez abismal"
+  },
+  {
+   "tipo": "date",
+   "ini": 18855,
+   "fin": 18859,
+   "rasgos": {
+    "when": "1960"
+   },
+   "texto": "1960"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18860,
+   "fin": 18870,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "38 x 46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18860,
+   "fin": 18862,
+   "texto": "38"
+  },
+  {
+   "tipo": "width",
+   "ini": 18865,
+   "fin": 18867,
+   "texto": "46"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18871,
+   "fin": 18887,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18889,
+   "fin": 18942
+  },
+  {
+   "tipo": "img",
+   "ini": 18889,
+   "fin": 18894,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18896,
+   "fin": 18942,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Torerillo, 1960\n50,4 x 33 cm\nÓleo sobre cartón"
+  },
+  {
+   "tipo": "title",
+   "ini": 18896,
+   "fin": 18905,
+   "texto": "Torerillo"
+  },
+  {
+   "tipo": "date",
+   "ini": 18907,
+   "fin": 18911,
+   "rasgos": {
+    "when": "1960"
+   },
+   "texto": "1960"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18912,
+   "fin": 18924,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50,4 x 33 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18912,
+   "fin": 18916,
+   "texto": "50,4"
+  },
+  {
+   "tipo": "width",
+   "ini": 18919,
+   "fin": 18921,
+   "texto": "33"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18925,
+   "fin": 18942,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre cartón"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18944,
+   "fin": 18999
+  },
+  {
+   "tipo": "img",
+   "ini": 18944,
+   "fin": 18949,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18951,
+   "fin": 19000,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Cabeza taurina, 1959\n46 x 38 cm\nÓleo sobre tabla\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 18951,
+   "fin": 18965,
+   "texto": "Cabeza taurina"
+  },
+  {
+   "tipo": "date",
+   "ini": 18967,
+   "fin": 18971,
+   "rasgos": {
+    "when": "1959"
+   },
+   "texto": "1959"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18972,
+   "fin": 18982,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 38 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18972,
+   "fin": 18974,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 18977,
+   "fin": 18979,
+   "texto": "38"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18983,
+   "fin": 18999,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19001,
+   "fin": 19056
+  },
+  {
+   "tipo": "img",
+   "ini": 19001,
+   "fin": 19006,
+   "rasgos": {
+    "color": "true",
+    "size": "medium",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19008,
+   "fin": 19056,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La seguiriya, 1958\n99,5 x 70 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 19008,
+   "fin": 19020,
+   "texto": "La seguiriya"
+  },
+  {
+   "tipo": "date",
+   "ini": 19022,
+   "fin": 19026,
+   "rasgos": {
+    "when": "1958"
+   },
+   "texto": "1958"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19027,
+   "fin": 19039,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "99,5 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19027,
+   "fin": 19031,
+   "texto": "99,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 19034,
+   "fin": 19036,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19040,
+   "fin": 19056,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19059,
+   "fin": 19119
+  },
+  {
+   "tipo": "img",
+   "ini": 19059,
+   "fin": 19064,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19066,
+   "fin": 19119,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Figura Taurina, 1963\n122,5 x 74,5 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 19066,
+   "fin": 19080,
+   "texto": "Figura Taurina"
+  },
+  {
+   "tipo": "date",
+   "ini": 19082,
+   "fin": 19086,
+   "rasgos": {
+    "when": "1963"
+   },
+   "texto": "1963"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19087,
+   "fin": 19102,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122,5 x 74,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19087,
+   "fin": 19092,
+   "texto": "122,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 19095,
+   "fin": 19099,
+   "texto": "74,5"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19103,
+   "fin": 19119,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19121,
+   "fin": 19171
+  },
+  {
+   "tipo": "img",
+   "ini": 19121,
+   "fin": 19127,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19128,
+   "fin": 19171,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El Duelo, 1958\n100 x 70 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 19128,
+   "fin": 19136,
+   "texto": "El Duelo"
+  },
+  {
+   "tipo": "date",
+   "ini": 19138,
+   "fin": 19142,
+   "rasgos": {
+    "when": "1958"
+   },
+   "texto": "1958"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19143,
+   "fin": 19154,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19143,
+   "fin": 19146,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 19149,
+   "fin": 19151,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19155,
+   "fin": 19171,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19173,
+   "fin": 19227
+  },
+  {
+   "tipo": "img",
+   "ini": 19173,
+   "fin": 19178,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19180,
+   "fin": 19227,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Joven ibérica, 1968\n55 x 46 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 19180,
+   "fin": 19193,
+   "texto": "Joven ibérica"
+  },
+  {
+   "tipo": "date",
+   "ini": 19195,
+   "fin": 19199,
+   "rasgos": {
+    "when": "1968"
+   },
+   "texto": "1968"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19200,
+   "fin": 19210,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55 x 46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19200,
+   "fin": 19202,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 19205,
+   "fin": 19207,
+   "texto": "46"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19211,
+   "fin": 19227,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19229,
+   "fin": 19286
+  },
+  {
+   "tipo": "img",
+   "ini": 19229,
+   "fin": 19234,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19236,
+   "fin": 19286,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Joven ibérica II, 1968\n55 x 45 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 19236,
+   "fin": 19252,
+   "texto": "Joven ibérica II"
+  },
+  {
+   "tipo": "date",
+   "ini": 19254,
+   "fin": 19258,
+   "rasgos": {
+    "when": "1968"
+   },
+   "texto": "1968"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19259,
+   "fin": 19269,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55 x 45 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19259,
+   "fin": 19261,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 19264,
+   "fin": 19266,
+   "texto": "45"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19270,
+   "fin": 19286,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19288,
+   "fin": 19343
+  },
+  {
+   "tipo": "img",
+   "ini": 19288,
+   "fin": 19293,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19295,
+   "fin": 19343,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Dama bizantina, 1969\n73 x 60 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 19295,
+   "fin": 19309,
+   "texto": "Dama bizantina"
+  },
+  {
+   "tipo": "date",
+   "ini": 19311,
+   "fin": 19315,
+   "rasgos": {
+    "when": "1969"
+   },
+   "texto": "1969"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19316,
+   "fin": 19326,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "73 x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19316,
+   "fin": 19318,
+   "texto": "73"
+  },
+  {
+   "tipo": "width",
+   "ini": 19321,
+   "fin": 19323,
+   "texto": "60"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19327,
+   "fin": 19343,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19345,
+   "fin": 19396
+  },
+  {
+   "tipo": "img",
+   "ini": 19345,
+   "fin": 19350,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19352,
+   "fin": 19396,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La faraona, 1969\n62 x 50 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 19352,
+   "fin": 19362,
+   "texto": "La faraona"
+  },
+  {
+   "tipo": "date",
+   "ini": 19364,
+   "fin": 19368,
+   "rasgos": {
+    "when": "1969"
+   },
+   "texto": "1969"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19369,
+   "fin": 19379,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "62 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19369,
+   "fin": 19371,
+   "texto": "62"
+  },
+  {
+   "tipo": "width",
+   "ini": 19374,
+   "fin": 19376,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19380,
+   "fin": 19396,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19398,
+   "fin": 19448
+  },
+  {
+   "tipo": "img",
+   "ini": 19398,
+   "fin": 19403,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19405,
+   "fin": 19448,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Nefertiti, 1968\n54 x 45 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 19405,
+   "fin": 19414,
+   "texto": "Nefertiti"
+  },
+  {
+   "tipo": "date",
+   "ini": 19416,
+   "fin": 19420,
+   "rasgos": {
+    "when": "1968"
+   },
+   "texto": "1968"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19421,
+   "fin": 19431,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "54 x 45 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19421,
+   "fin": 19423,
+   "texto": "54"
+  },
+  {
+   "tipo": "width",
+   "ini": 19426,
+   "fin": 19428,
+   "texto": "45"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19432,
+   "fin": 19448,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19450,
+   "fin": 19504
+  },
+  {
+   "tipo": "img",
+   "ini": 19450,
+   "fin": 19455,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19457,
+   "fin": 19504,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La gatificia, 1969\n100 x 72 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 19457,
+   "fin": 19469,
+   "texto": "La gatificia"
+  },
+  {
+   "tipo": "date",
+   "ini": 19471,
+   "fin": 19475,
+   "rasgos": {
+    "when": "1969"
+   },
+   "texto": "1969"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19476,
+   "fin": 19487,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 72 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19476,
+   "fin": 19479,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 19482,
+   "fin": 19484,
+   "texto": "72"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19488,
+   "fin": 19504,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19506,
+   "fin": 19565
+  },
+  {
+   "tipo": "img",
+   "ini": 19506,
+   "fin": 19511,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19513,
+   "fin": 19565,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Torero metafísico, 1962\n122 x 75 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 19513,
+   "fin": 19530,
+   "texto": "Torero metafísico"
+  },
+  {
+   "tipo": "date",
+   "ini": 19532,
+   "fin": 19536,
+   "rasgos": {
+    "when": "1962"
+   },
+   "texto": "1962"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19537,
+   "fin": 19548,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122 x 75 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19537,
+   "fin": 19540,
+   "texto": "122"
+  },
+  {
+   "tipo": "width",
+   "ini": 19543,
+   "fin": 19545,
+   "texto": "75"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19549,
+   "fin": 19566,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla\n"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19567,
+   "fin": 19622
+  },
+  {
+   "tipo": "img",
+   "ini": 19567,
+   "fin": 19572,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19574,
+   "fin": 19623,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Gallo tricolor, 1968\n54 x 46 cm\nÓleo sobre tabla\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 19574,
+   "fin": 19588,
+   "texto": "Gallo tricolor"
+  },
+  {
+   "tipo": "date",
+   "ini": 19590,
+   "fin": 19594,
+   "rasgos": {
+    "when": "1968"
+   },
+   "texto": "1968"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19595,
+   "fin": 19605,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "54 x 46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19595,
+   "fin": 19597,
+   "texto": "54"
+  },
+  {
+   "tipo": "width",
+   "ini": 19600,
+   "fin": 19602,
+   "texto": "46"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19606,
+   "fin": 19622,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19624,
+   "fin": 19680
+  },
+  {
+   "tipo": "img",
+   "ini": 19624,
+   "fin": 19629,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19631,
+   "fin": 19680,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Bodegón taurino, 1971\n81 x 65 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 19631,
+   "fin": 19646,
+   "texto": "Bodegón taurino"
+  },
+  {
+   "tipo": "date",
+   "ini": 19648,
+   "fin": 19652,
+   "rasgos": {
+    "when": "1971"
+   },
+   "texto": "1971"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19653,
+   "fin": 19663,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 65 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19653,
+   "fin": 19655,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 19658,
+   "fin": 19660,
+   "texto": "65"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19664,
+   "fin": 19680,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19682,
+   "fin": 19738
+  },
+  {
+   "tipo": "img",
+   "ini": 19682,
+   "fin": 19687,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19689,
+   "fin": 19738,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Dama y bodegón, 1975\n73 x 120 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 19689,
+   "fin": 19703,
+   "texto": "Dama y bodegón"
+  },
+  {
+   "tipo": "date",
+   "ini": 19705,
+   "fin": 19709,
+   "rasgos": {
+    "when": "1975"
+   },
+   "texto": "1975"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19710,
+   "fin": 19721,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "73 x 120 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19710,
+   "fin": 19712,
+   "texto": "73"
+  },
+  {
+   "tipo": "width",
+   "ini": 19715,
+   "fin": 19718,
+   "texto": "120"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19722,
+   "fin": 19738,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19740,
+   "fin": 19801
+  },
+  {
+   "tipo": "img",
+   "ini": 19740,
+   "fin": 19745,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19747,
+   "fin": 19801,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Mujer con gallo azul, 1978\n81 x 65 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 19747,
+   "fin": 19767,
+   "texto": "Mujer con gallo azul"
+  },
+  {
+   "tipo": "date",
+   "ini": 19769,
+   "fin": 19773,
+   "rasgos": {
+    "when": "1978"
+   },
+   "texto": "1978"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19774,
+   "fin": 19784,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 65 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19774,
+   "fin": 19776,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 19779,
+   "fin": 19781,
+   "texto": "65"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19785,
+   "fin": 19801,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19803,
+   "fin": 19862
+  },
+  {
+   "tipo": "img",
+   "ini": 19803,
+   "fin": 19808,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19810,
+   "fin": 19862,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Rapto de Europa I, 1976\n52 x 72 cm\nTinta sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 19810,
+   "fin": 19827,
+   "texto": "Rapto de Europa I"
+  },
+  {
+   "tipo": "date",
+   "ini": 19829,
+   "fin": 19833,
+   "rasgos": {
+    "when": "1976"
+   },
+   "texto": "1976"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19834,
+   "fin": 19844,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "52 x 72 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19834,
+   "fin": 19836,
+   "texto": "52"
+  },
+  {
+   "tipo": "width",
+   "ini": 19839,
+   "fin": 19841,
+   "texto": "72"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19845,
+   "fin": 19862,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19864,
+   "fin": 19924
+  },
+  {
+   "tipo": "img",
+   "ini": 19864,
+   "fin": 19869,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19871,
+   "fin": 19924,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Rapto de Europa II, 1976\n50 x 70 cm\nTinta sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 19871,
+   "fin": 19889,
+   "texto": "Rapto de Europa II"
+  },
+  {
+   "tipo": "date",
+   "ini": 19891,
+   "fin": 19895,
+   "rasgos": {
+    "when": "1976"
+   },
+   "texto": "1976"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19896,
+   "fin": 19906,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19896,
+   "fin": 19898,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 19901,
+   "fin": 19903,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19907,
+   "fin": 19924,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19926,
+   "fin": 19986
+  },
+  {
+   "tipo": "img",
+   "ini": 19926,
+   "fin": 19931,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19933,
+   "fin": 19986,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Centáuride, 1978\n62 x 44 cm\nTécnica mixta sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 19933,
+   "fin": 19943,
+   "texto": "Centáuride"
+  },
+  {
+   "tipo": "date",
+   "ini": 19945,
+   "fin": 19949,
+   "rasgos": {
+    "when": "1978"
+   },
+   "texto": "1978"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19950,
+   "fin": 19960,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "62 x 44 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19950,
+   "fin": 19952,
+   "texto": "62"
+  },
+  {
+   "tipo": "width",
+   "ini": 19955,
+   "fin": 19957,
+   "texto": "44"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19961,
+   "fin": 19986,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19988,
+   "fin": 20056
+  },
+  {
+   "tipo": "img",
+   "ini": 19988,
+   "fin": 19993,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19995,
+   "fin": 20056,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El canto del gallo, 1975\n70 x 51 cm\nTécnica mixta sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 19995,
+   "fin": 20013,
+   "texto": "El canto del gallo"
+  },
+  {
+   "tipo": "date",
+   "ini": 20015,
+   "fin": 20019,
+   "rasgos": {
+    "when": "1975"
+   },
+   "texto": "1975"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20020,
+   "fin": 20030,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 51 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20020,
+   "fin": 20022,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 20025,
+   "fin": 20027,
+   "texto": "51"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20031,
+   "fin": 20056,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20058,
+   "fin": 20126
+  },
+  {
+   "tipo": "img",
+   "ini": 20058,
+   "fin": 20063,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20065,
+   "fin": 20126,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Paternidad taurina, 1979\n65 x 50 cm\nTécnica mixta sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 20065,
+   "fin": 20083,
+   "texto": "Paternidad taurina"
+  },
+  {
+   "tipo": "date",
+   "ini": 20085,
+   "fin": 20089,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20090,
+   "fin": 20101,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 50 cm\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 20090,
+   "fin": 20092,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 20095,
+   "fin": 20097,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20101,
+   "fin": 20126,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20128,
+   "fin": 20193
+  },
+  {
+   "tipo": "img",
+   "ini": 20128,
+   "fin": 20133,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20135,
+   "fin": 20193,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Mujer y caballo, 1976\n51 x 76 cm\nTécnica mixta sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 20135,
+   "fin": 20150,
+   "texto": "Mujer y caballo"
+  },
+  {
+   "tipo": "date",
+   "ini": 20152,
+   "fin": 20156,
+   "rasgos": {
+    "when": "1976"
+   },
+   "texto": "1976"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20157,
+   "fin": 20167,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "51 x 76 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20157,
+   "fin": 20159,
+   "texto": "51"
+  },
+  {
+   "tipo": "width",
+   "ini": 20162,
+   "fin": 20164,
+   "texto": "76"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20168,
+   "fin": 20193,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20195,
+   "fin": 20255
+  },
+  {
+   "tipo": "img",
+   "ini": 20195,
+   "fin": 20200,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20202,
+   "fin": 20255,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Figura escultórica, 1976\n50 x 65 cm\nTinta sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 20202,
+   "fin": 20220,
+   "texto": "Figura escultórica"
+  },
+  {
+   "tipo": "date",
+   "ini": 20222,
+   "fin": 20226,
+   "rasgos": {
+    "when": "1976"
+   },
+   "texto": "1976"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20227,
+   "fin": 20237,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 65 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20227,
+   "fin": 20229,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 20232,
+   "fin": 20234,
+   "texto": "65"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20238,
+   "fin": 20255,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20257,
+   "fin": 20317
+  },
+  {
+   "tipo": "img",
+   "ini": 20257,
+   "fin": 20262,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20264,
+   "fin": 20317,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Maternidad, 1979\n65 x 50 cm\nTécnica mixta sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 20264,
+   "fin": 20274,
+   "texto": "Maternidad"
+  },
+  {
+   "tipo": "date",
+   "ini": 20276,
+   "fin": 20280,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20281,
+   "fin": 20291,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20281,
+   "fin": 20283,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 20286,
+   "fin": 20288,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20292,
+   "fin": 20317,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20319,
+   "fin": 20376
+  },
+  {
+   "tipo": "img",
+   "ini": 20319,
+   "fin": 20324,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20326,
+   "fin": 20376,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Amazona, 1979\n49 x 34 cm\nTécnica mixta sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 20326,
+   "fin": 20333,
+   "texto": "Amazona"
+  },
+  {
+   "tipo": "date",
+   "ini": 20335,
+   "fin": 20339,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20340,
+   "fin": 20350,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "49 x 34 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20340,
+   "fin": 20342,
+   "texto": "49"
+  },
+  {
+   "tipo": "width",
+   "ini": 20345,
+   "fin": 20347,
+   "texto": "34"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20351,
+   "fin": 20376,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20378,
+   "fin": 20430
+  },
+  {
+   "tipo": "img",
+   "ini": 20378,
+   "fin": 20383,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20385,
+   "fin": 20430,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Toro negro, 1973\n49 x 64 cm\nTinta sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 20385,
+   "fin": 20395,
+   "texto": "Toro negro"
+  },
+  {
+   "tipo": "date",
+   "ini": 20397,
+   "fin": 20401,
+   "rasgos": {
+    "when": "1973"
+   },
+   "texto": "1973"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20402,
+   "fin": 20412,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "49 x 64 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20402,
+   "fin": 20404,
+   "texto": "49"
+  },
+  {
+   "tipo": "width",
+   "ini": 20407,
+   "fin": 20409,
+   "texto": "64"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20413,
+   "fin": 20430,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20432,
+   "fin": 20491
+  },
+  {
+   "tipo": "img",
+   "ini": 20432,
+   "fin": 20437,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20439,
+   "fin": 20491,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Pelea de gallos, 1981\n80 x 122,5 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 20439,
+   "fin": 20454,
+   "texto": "Pelea de gallos"
+  },
+  {
+   "tipo": "date",
+   "ini": 20456,
+   "fin": 20460,
+   "rasgos": {
+    "when": "1981"
+   },
+   "texto": "1981"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20461,
+   "fin": 20474,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80 x 122,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20461,
+   "fin": 20463,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 20466,
+   "fin": 20471,
+   "texto": "122,5"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20475,
+   "fin": 20491,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20493,
+   "fin": 20557
+  },
+  {
+   "tipo": "img",
+   "ini": 20493,
+   "fin": 20498,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20500,
+   "fin": 20557,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Dama, cabeza y gallo, 1980\n75 x 122,5 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "title",
+   "ini": 20500,
+   "fin": 20520,
+   "texto": "Dama, cabeza y gallo"
+  },
+  {
+   "tipo": "date",
+   "ini": 20522,
+   "fin": 20526,
+   "rasgos": {
+    "when": "1980"
+   },
+   "texto": "1980"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20527,
+   "fin": 20540,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "75 x 122,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20527,
+   "fin": 20529,
+   "texto": "75"
+  },
+  {
+   "tipo": "width",
+   "ini": 20532,
+   "fin": 20537,
+   "texto": "122,5"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20541,
+   "fin": 20557,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20559,
+   "fin": 20623
+  },
+  {
+   "tipo": "img",
+   "ini": 20559,
+   "fin": 20564,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20566,
+   "fin": 20623,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Damas de las galaxias, 1980\n100 x 73 cm\nÓleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 20566,
+   "fin": 20587,
+   "texto": "Damas de las galaxias"
+  },
+  {
+   "tipo": "date",
+   "ini": 20589,
+   "fin": 20593,
+   "rasgos": {
+    "when": "1980"
+   },
+   "texto": "1980"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20594,
+   "fin": 20605,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 73 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20594,
+   "fin": 20597,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 20600,
+   "fin": 20602,
+   "texto": "73"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20606,
+   "fin": 20623,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20625,
+   "fin": 20681
+  },
+  {
+   "tipo": "img",
+   "ini": 20625,
+   "fin": 20630,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20632,
+   "fin": 20681,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Mujer y gallo, 1981\n81 x 100 cm\nÓleo sobre lienzo"
+  },
+  {
+   "tipo": "title",
+   "ini": 20632,
+   "fin": 20645,
+   "texto": "Mujer y gallo"
+  },
+  {
+   "tipo": "date",
+   "ini": 20647,
+   "fin": 20651,
+   "rasgos": {
+    "when": "1981"
+   },
+   "texto": "1981"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20652,
+   "fin": 20663,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "81 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20652,
+   "fin": 20654,
+   "texto": "81"
+  },
+  {
+   "tipo": "width",
+   "ini": 20657,
+   "fin": 20660,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20664,
+   "fin": 20681,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20683,
+   "fin": 20741
+  },
+  {
+   "tipo": "img",
+   "ini": 20683,
+   "fin": 20688,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20690,
+   "fin": 20741,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Dualidad, 1982\n36 x 50 cm\nTécnica mixta sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 20690,
+   "fin": 20698,
+   "texto": "Dualidad"
+  },
+  {
+   "tipo": "date",
+   "ini": 20700,
+   "fin": 20704,
+   "rasgos": {
+    "when": "1982"
+   },
+   "texto": "1982"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20705,
+   "fin": 20715,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "36 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20705,
+   "fin": 20707,
+   "texto": "36"
+  },
+  {
+   "tipo": "width",
+   "ini": 20710,
+   "fin": 20712,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20716,
+   "fin": 20741,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20743,
+   "fin": 20808
+  },
+  {
+   "tipo": "img",
+   "ini": 20743,
+   "fin": 20748,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20750,
+   "fin": 20808,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Amazona ibérica, 1983\n35 x 50 cm\nTécnica mixta sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 20750,
+   "fin": 20765,
+   "texto": "Amazona ibérica"
+  },
+  {
+   "tipo": "date",
+   "ini": 20767,
+   "fin": 20771,
+   "rasgos": {
+    "when": "1983"
+   },
+   "texto": "1983"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20772,
+   "fin": 20782,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20772,
+   "fin": 20774,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 20777,
+   "fin": 20779,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20783,
+   "fin": 20808,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20810,
+   "fin": 20879
+  },
+  {
+   "tipo": "img",
+   "ini": 20810,
+   "fin": 20815,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20817,
+   "fin": 20879,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Figura del torero, 1981\n43 x 30,5 cm\nTécnica mixta sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 20817,
+   "fin": 20834,
+   "texto": "Figura del torero"
+  },
+  {
+   "tipo": "date",
+   "ini": 20836,
+   "fin": 20840,
+   "rasgos": {
+    "when": "1981"
+   },
+   "texto": "1981"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20841,
+   "fin": 20853,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "43 x 30,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20841,
+   "fin": 20843,
+   "texto": "43"
+  },
+  {
+   "tipo": "width",
+   "ini": 20846,
+   "fin": 20850,
+   "texto": "30,5"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20854,
+   "fin": 20879,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20881,
+   "fin": 20953
+  },
+  {
+   "tipo": "img",
+   "ini": 20881,
+   "fin": 20886,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20888,
+   "fin": 20953,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Alegoría hispánica, 1983\n30,5 x 44,5 cm\nTécnica mixta sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 20888,
+   "fin": 20906,
+   "texto": "Alegoría hispánica"
+  },
+  {
+   "tipo": "date",
+   "ini": 20908,
+   "fin": 20912,
+   "rasgos": {
+    "when": "1983"
+   },
+   "texto": "1983"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20913,
+   "fin": 20927,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30,5 x 44,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20913,
+   "fin": 20917,
+   "texto": "30,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 20920,
+   "fin": 20924,
+   "texto": "44,5"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20928,
+   "fin": 20953,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20955,
+   "fin": 21016
+  },
+  {
+   "tipo": "img",
+   "ini": 20955,
+   "fin": 20960,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20962,
+   "fin": 21016,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Toro azul, 1983\n35,5 x 50 cm\nTécnica mixta sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 20962,
+   "fin": 20971,
+   "texto": "Toro azul"
+  },
+  {
+   "tipo": "date",
+   "ini": 20973,
+   "fin": 20977,
+   "rasgos": {
+    "when": "1983"
+   },
+   "texto": "1983"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20978,
+   "fin": 20990,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35,5 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20978,
+   "fin": 20982,
+   "texto": "35,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 20985,
+   "fin": 20987,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20991,
+   "fin": 21016,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21018,
+   "fin": 21084
+  },
+  {
+   "tipo": "img",
+   "ini": 21018,
+   "fin": 21023,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 21025,
+   "fin": 21084,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Dama descansando, 1983\n36 x 50 cm\nTécnica mixta sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 21025,
+   "fin": 21041,
+   "texto": "Dama descansando"
+  },
+  {
+   "tipo": "date",
+   "ini": 21043,
+   "fin": 21047,
+   "rasgos": {
+    "when": "1983"
+   },
+   "texto": "1983"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21048,
+   "fin": 21058,
+   "rasgos": {
+    "unit": "unit"
+   },
+   "texto": "36 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21048,
+   "fin": 21050,
+   "texto": "36"
+  },
+  {
+   "tipo": "width",
+   "ini": 21053,
+   "fin": 21055,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21059,
+   "fin": 21084,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21086,
+   "fin": 21152
+  },
+  {
+   "tipo": "img",
+   "ini": 21086,
+   "fin": 21091,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 21093,
+   "fin": 21152,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Dos damas azules, 1982\n32 x 49 cm\nTécnica mixta sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 21093,
+   "fin": 21109,
+   "texto": "Dos damas azules"
+  },
+  {
+   "tipo": "date",
+   "ini": 21111,
+   "fin": 21115,
+   "rasgos": {
+    "when": "1982"
+   },
+   "texto": "1982"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21116,
+   "fin": 21126,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32 x 49 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21116,
+   "fin": 21118,
+   "texto": "32"
+  },
+  {
+   "tipo": "width",
+   "ini": 21121,
+   "fin": 21123,
+   "texto": "49"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21127,
+   "fin": 21152,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21154,
+   "fin": 21226
+  },
+  {
+   "tipo": "img",
+   "ini": 21154,
+   "fin": 21159,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 21161,
+   "fin": 21226,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Dama y coro mitológico, 1982\n32 x 49 cm\nTécnica mixta sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 21161,
+   "fin": 21183,
+   "texto": "Dama y coro mitológico"
+  },
+  {
+   "tipo": "date",
+   "ini": 21185,
+   "fin": 21189,
+   "rasgos": {
+    "when": "1982"
+   },
+   "texto": "1982"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21190,
+   "fin": 21200,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32 x 49 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21190,
+   "fin": 21192,
+   "texto": "32"
+  },
+  {
+   "tipo": "width",
+   "ini": 21195,
+   "fin": 21197,
+   "texto": "49"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21201,
+   "fin": 21226,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21228,
+   "fin": 21296
+  },
+  {
+   "tipo": "img",
+   "ini": 21228,
+   "fin": 21234,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 21235,
+   "fin": 21296,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Dama con unicornio, 1986\n36 x 50 cm\nTécnica mixta sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 21235,
+   "fin": 21253,
+   "texto": "Dama con unicornio"
+  },
+  {
+   "tipo": "date",
+   "ini": 21255,
+   "fin": 21259,
+   "rasgos": {
+    "when": "1986"
+   },
+   "texto": "1986"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21260,
+   "fin": 21270,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "36 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21260,
+   "fin": 21262,
+   "texto": "36"
+  },
+  {
+   "tipo": "width",
+   "ini": 21265,
+   "fin": 21267,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21271,
+   "fin": 21296,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21298,
+   "fin": 21367
+  },
+  {
+   "tipo": "img",
+   "ini": 21298,
+   "fin": 21303,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 21305,
+   "fin": 21367,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "La dama y el poema, 1982\n65 x 50 cm\nTinta y pastel sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 21305,
+   "fin": 21323,
+   "texto": "La dama y el poema"
+  },
+  {
+   "tipo": "date",
+   "ini": 21325,
+   "fin": 21329,
+   "rasgos": {
+    "when": "1982"
+   },
+   "texto": "1982"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21330,
+   "fin": 21341,
+   "rasgos": {
+    "unit": "unit"
+   },
+   "texto": "65 x 50 cm\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 21330,
+   "fin": 21332,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 21335,
+   "fin": 21337,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21341,
+   "fin": 21367,
+   "rasgos": {
+    "type": "ink, pastel"
+   },
+   "texto": "Tinta y pastel sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21369,
+   "fin": 21436
+  },
+  {
+   "tipo": "img",
+   "ini": 21369,
+   "fin": 21374,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 21376,
+   "fin": 21436,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Dama y estrellas, 1983\n65 x 50 cm\nLápiz y pastel sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 21376,
+   "fin": 21392,
+   "texto": "Dama y estrellas"
+  },
+  {
+   "tipo": "date",
+   "ini": 21394,
+   "fin": 21398,
+   "rasgos": {
+    "when": "1983"
+   },
+   "texto": "1983"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21399,
+   "fin": 21409,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21399,
+   "fin": 21401,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 21404,
+   "fin": 21406,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21410,
+   "fin": 21436,
+   "rasgos": {
+    "type": "pencil, pastel"
+   },
+   "texto": "Lápiz y pastel sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21438,
+   "fin": 21499
+  },
+  {
+   "tipo": "img",
+   "ini": 21438,
+   "fin": 21443,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 21445,
+   "fin": 21499,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Bailarinas, 1990\n112 x 76 cm\nTécnica mixta sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 21445,
+   "fin": 21455,
+   "texto": "Bailarinas"
+  },
+  {
+   "tipo": "date",
+   "ini": 21457,
+   "fin": 21461,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21462,
+   "fin": 21473,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "112 x 76 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21462,
+   "fin": 21465,
+   "texto": "112"
+  },
+  {
+   "tipo": "width",
+   "ini": 21468,
+   "fin": 21470,
+   "texto": "76"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21474,
+   "fin": 21499,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21501,
+   "fin": 21571
+  },
+  {
+   "tipo": "img",
+   "ini": 21501,
+   "fin": 21506,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 21508,
+   "fin": 21571,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Desnudo femenino II, 1989\n112 x 76 cm\nTécnica mixta sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 21508,
+   "fin": 21527,
+   "texto": "Desnudo femenino II"
+  },
+  {
+   "tipo": "date",
+   "ini": 21529,
+   "fin": 21533,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21534,
+   "fin": 21545,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "112 x 76 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21534,
+   "fin": 21537,
+   "texto": "112"
+  },
+  {
+   "tipo": "width",
+   "ini": 21540,
+   "fin": 21542,
+   "texto": "76"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21546,
+   "fin": 21571,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21573,
+   "fin": 21637
+  },
+  {
+   "tipo": "img",
+   "ini": 21573,
+   "fin": 21578,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 21580,
+   "fin": 21637,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Multitudes II, 1990\n112 x 76 cm\nTécnica mixta sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 21580,
+   "fin": 21593,
+   "texto": "Multitudes II"
+  },
+  {
+   "tipo": "date",
+   "ini": 21595,
+   "fin": 21599,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21600,
+   "fin": 21611,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "112 x 76 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21600,
+   "fin": 21603,
+   "texto": "112"
+  },
+  {
+   "tipo": "width",
+   "ini": 21606,
+   "fin": 21608,
+   "texto": "76"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21612,
+   "fin": 21637,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21639,
+   "fin": 21698
+  },
+  {
+   "tipo": "img",
+   "ini": 21639,
+   "fin": 21644,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 21646,
+   "fin": 21698,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El sueño, 1991\n76 x 112 cm\nTécnica mixta sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 21646,
+   "fin": 21654,
+   "texto": "El sueño"
+  },
+  {
+   "tipo": "date",
+   "ini": 21656,
+   "fin": 21660,
+   "rasgos": {
+    "when": "1991"
+   },
+   "texto": "1991"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21661,
+   "fin": 21672,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "76 x 112 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21661,
+   "fin": 21663,
+   "texto": "76"
+  },
+  {
+   "tipo": "width",
+   "ini": 21666,
+   "fin": 21669,
+   "texto": "112"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21673,
+   "fin": 21698,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21700,
+   "fin": 21763
+  },
+  {
+   "tipo": "img",
+   "ini": 21700,
+   "fin": 21705,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 21707,
+   "fin": 21763,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Multitudes I, 1990\n112 x 76 cm\nTécnica mixta sobre papel"
+  },
+  {
+   "tipo": "title",
+   "ini": 21707,
+   "fin": 21719,
+   "texto": "Multitudes I"
+  },
+  {
+   "tipo": "date",
+   "ini": 21721,
+   "fin": 21725,
+   "rasgos": {
+    "when": "1990"
+   },
+   "texto": "1990"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21726,
+   "fin": 21737,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "112 x 76 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21726,
+   "fin": 21729,
+   "texto": "112"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21738,
+   "fin": 21763,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre papel"
+  },
+  {
+   "tipo": "birth",
+   "ini": 21787,
+   "fin": 21821
+  },
+  {
+   "tipo": "date",
+   "ini": 21787,
+   "fin": 21791,
+   "rasgos": {
+    "when": "1922"
+   },
+   "texto": "1922"
+  },
+  {
+   "tipo": "person",
+   "ini": 21792,
+   "fin": 21806,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Herrero"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 30802,
+   "fin": 31515,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 30831,
+   "fin": 30964,
+   "rasgos": {
+    "type": "townHall",
+    "role": "organiser"
+   },
+   "texto": "AYUNTAMIENTO DE ALCALÁ DE HENARES\nCONCEJALÍA DE CULTURA, UNIVERSIDAD, TURISMO,\nCASCO HISTÓRICO, FESTEJOS Y COMUNICACIÓN INSTITUCIONAL"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 30847,
+   "fin": 30864,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "ALCALÁ DE HENARES"
+  },
+  {
+   "tipo": "person",
+   "ini": 30973,
+   "fin": 30998,
+   "rasgos": {
+    "role": "mayor"
+   },
+   "texto": "Javier Rodríguez Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30973,
+   "fin": 30998,
+   "texto": "Javier Rodríguez Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 31051,
+   "fin": 31074,
+   "rasgos": {
+    "role": "organiser"
+   },
+   "texto": "María Aranguren Vergara"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31051,
+   "fin": 31074,
+   "texto": "María Aranguren Vergara"
+  },
+  {
+   "tipo": "person",
+   "ini": 31112,
+   "fin": 31133,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "Pablo Nogales Herrera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31112,
+   "fin": 31133,
+   "texto": "Pablo Nogales Herrera"
+  },
+  {
+   "tipo": "person",
+   "ini": 31186,
+   "fin": 31198,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Iván Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31186,
+   "fin": 31198,
+   "texto": "Iván Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 31219,
+   "fin": 31232,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "África Llanos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31219,
+   "fin": 31232,
+   "texto": "África Llanos"
+  },
+  {
+   "tipo": "person",
+   "ini": 31274,
+   "fin": 31294,
+   "rasgos": {
+    "role": "advisory"
+   },
+   "texto": "Miguel Ángel Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31274,
+   "fin": 31294,
+   "texto": "Miguel Ángel Herrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 31316,
+   "fin": 31327,
+   "rasgos": {
+    "role": "layoutDirector"
+   },
+   "texto": "Antonio Bas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31316,
+   "fin": 31327,
+   "texto": "Antonio Bas"
+  },
+  {
+   "tipo": "person",
+   "ini": 31343,
+   "fin": 31358,
+   "rasgos": {
+    "role": "technician"
+   },
+   "texto": "Antonio Gismero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31343,
+   "fin": 31358,
+   "texto": "Antonio Gismero"
+  },
+  {
+   "tipo": "person",
+   "ini": 31359,
+   "fin": 31372,
+   "rasgos": {
+    "role": "technician"
+   },
+   "texto": "Julio Jiménez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31359,
+   "fin": 31372,
+   "texto": "Julio Jiménez"
+  },
+  {
+   "tipo": "person",
+   "ini": 31373,
+   "fin": 31388,
+   "rasgos": {
+    "role": "technician"
+   },
+   "texto": "Esteban Lorenzo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31373,
+   "fin": 31388,
+   "texto": "Esteban Lorenzo"
+  },
+  {
+   "tipo": "person",
+   "ini": 31389,
+   "fin": 31407,
+   "rasgos": {
+    "role": "technician"
+   },
+   "texto": "Darío Ángel Martín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31389,
+   "fin": 31407,
+   "texto": "Darío Ángel Martín"
+  },
+  {
+   "tipo": "person",
+   "ini": 31408,
+   "fin": 31424,
+   "rasgos": {
+    "role": "technician"
+   },
+   "texto": "Antonio Martínez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31408,
+   "fin": 31424,
+   "texto": "Antonio Martínez"
+  },
+  {
+   "tipo": "person",
+   "ini": 31425,
+   "fin": 31439,
+   "rasgos": {
+    "role": "technician"
+   },
+   "texto": "Jesús Rizaldos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31425,
+   "fin": 31439,
+   "texto": "Jesús Rizaldos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31440,
+   "fin": 31455,
+   "texto": "José Rodríguez\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 31440,
+   "fin": 31454,
+   "rasgos": {
+    "role": "technician"
+   },
+   "texto": "José Rodríguez"
+  },
+  {
+   "tipo": "person",
+   "ini": 31460,
+   "fin": 31473,
+   "texto": "Regina Alonso"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31460,
+   "fin": 31473,
+   "texto": "Regina Alonso"
+  },
+  {
+   "tipo": "person",
+   "ini": 31474,
+   "fin": 31492,
+   "texto": "Isabel Ballesteros"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31474,
+   "fin": 31492,
+   "texto": "Isabel Ballesteros"
+  },
+  {
+   "tipo": "person",
+   "ini": 31493,
+   "fin": 31503,
+   "texto": "Ramón Puyo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31493,
+   "fin": 31503,
+   "texto": "Ramón Puyo"
+  },
+  {
+   "tipo": "person",
+   "ini": 31504,
+   "fin": 31515,
+   "texto": "Raquel Ruiz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31504,
+   "fin": 31515,
+   "texto": "Raquel Ruiz"
+  },
+  {
+   "tipo": "person",
+   "ini": 31539,
+   "fin": 31554,
+   "rasgos": {
+    "role": "catalogueDesigner"
+   },
+   "texto": "Yolanda Sánchez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31539,
+   "fin": 31554,
+   "texto": "Yolanda Sánchez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 31562,
+   "fin": 31587,
+   "rasgos": {
+    "type": "townHall",
+    "role": "designer"
+   },
+   "texto": "Servicio de Publicaciones"
+  },
+  {
+   "tipo": "institution",
+   "ini": 31598,
+   "fin": 31624,
+   "rasgos": {
+    "type": "company",
+    "role": "printer"
+   },
+   "texto": "Punto Verde Artes Gráficas"
+  }
+ ]
+}

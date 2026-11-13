@@ -1,0 +1,2504 @@
+{
+ "id": "cat_018_5_cat_vesianart_suiza_okey",
+ "nombre_original": "5. CAT-VESIANart-SUIZA-okey.....",
+ "longitud_texto": 29984,
+ "sha256_texto": "443c41135aa860f75bb880cb0dbbf107d3c20aa7750290f80f0d3a1d4e044345",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 12,
+   "fin": 719,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 12,
+   "fin": 37,
+   "texto": "“Baja al Sur: al-Andalus”"
+  },
+  {
+   "tipo": "date",
+   "ini": 46,
+   "fin": 67,
+   "rasgos": {
+    "from": "2020-11-12",
+    "to": "2021-01-09"
+   },
+   "texto": "12/11/2020 - 9/1/2021"
+  },
+  {
+   "tipo": "institution",
+   "ini": 79,
+   "fin": 100,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "VESANIART Art Gallery"
+  },
+  {
+   "tipo": "institution",
+   "ini": 101,
+   "fin": 158,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser"
+   },
+   "texto": "Instituto de Cultura Árabe y Mediterránea de Ginebra ICAM"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 146,
+   "fin": 153,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Ginebra"
+  },
+  {
+   "tipo": "institution",
+   "ini": 170,
+   "fin": 197,
+   "rasgos": {
+    "role": "patron"
+   },
+   "texto": "Embajada de España en Suiza"
+  },
+  {
+   "tipo": "institution",
+   "ini": 208,
+   "fin": 261,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "Vicerrectorado de Cultura de la Universidad de Málaga"
+  },
+  {
+   "tipo": "institution",
+   "ini": 262,
+   "fin": 303,
+   "rasgos": {
+    "type": "association"
+   },
+   "texto": "Fundación Tres Culturas del Mediterráneo\n"
+  },
+  {
+   "tipo": "address",
+   "ini": 330,
+   "fin": 368,
+   "texto": "Rue de Fribourg 5, 1201 Genève. Suisse"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 354,
+   "fin": 368,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Genève. Suisse"
+  },
+  {
+   "tipo": "person",
+   "ini": 379,
+   "fin": 395,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Abraham Benzadón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 379,
+   "fin": 395,
+   "texto": "Abraham Benzadón"
+  },
+  {
+   "tipo": "person",
+   "ini": 397,
+   "fin": 406,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ana Pavón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 397,
+   "fin": 406,
+   "texto": "Ana Pavón"
+  },
+  {
+   "tipo": "person",
+   "ini": 408,
+   "fin": 422,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Daniel Garbade"
+  },
+  {
+   "tipo": "persName",
+   "ini": 408,
+   "fin": 422,
+   "texto": "Daniel Garbade"
+  },
+  {
+   "tipo": "person",
+   "ini": 424,
+   "fin": 437,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Julia Diazdel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 424,
+   "fin": 437,
+   "texto": "Julia Diazdel"
+  },
+  {
+   "tipo": "person",
+   "ini": 439,
+   "fin": 449,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mar Aragón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 439,
+   "fin": 449,
+   "texto": "Mar Aragón"
+  },
+  {
+   "tipo": "person",
+   "ini": 451,
+   "fin": 464,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Kelly Fischer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 451,
+   "fin": 464,
+   "texto": "Kelly Fischer"
+  },
+  {
+   "tipo": "person",
+   "ini": 466,
+   "fin": 476,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pedro Peña"
+  },
+  {
+   "tipo": "persName",
+   "ini": 466,
+   "fin": 476,
+   "texto": "Pedro Peña"
+  },
+  {
+   "tipo": "person",
+   "ini": 478,
+   "fin": 494,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sebastián Navas\n"
+  },
+  {
+   "tipo": "persName",
+   "ini": 478,
+   "fin": 493,
+   "texto": "Sebastián Navas"
+  },
+  {
+   "tipo": "person",
+   "ini": 506,
+   "fin": 519,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Nuria Delgado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 506,
+   "fin": 519,
+   "texto": "Nuria Delgado"
+  },
+  {
+   "tipo": "person",
+   "ini": 522,
+   "fin": 534,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Alain Bittar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 522,
+   "fin": 534,
+   "texto": "Alain Bittar"
+  },
+  {
+   "tipo": "person",
+   "ini": 543,
+   "fin": 558,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Tecla Lumbreras"
+  },
+  {
+   "tipo": "persName",
+   "ini": 543,
+   "fin": 558,
+   "texto": "Tecla Lumbreras"
+  },
+  {
+   "tipo": "person",
+   "ini": 586,
+   "fin": 600,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Virginia Luque"
+  },
+  {
+   "tipo": "persName",
+   "ini": 586,
+   "fin": 600,
+   "texto": "Virginia Luque"
+  },
+  {
+   "tipo": "person",
+   "ini": 610,
+   "fin": 623,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Nuria Delgado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 610,
+   "fin": 623,
+   "texto": "Nuria Delgado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 656,
+   "fin": 670,
+   "texto": "Pedro Peinado\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 656,
+   "fin": 669,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "Pedro Peinado"
+  },
+  {
+   "tipo": "person",
+   "ini": 704,
+   "fin": 719,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "Agustín Linares"
+  },
+  {
+   "tipo": "persName",
+   "ini": 704,
+   "fin": 719,
+   "texto": "Agustín Linares"
+  },
+  {
+   "tipo": "person",
+   "ini": 1595,
+   "fin": 1611,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Abraham\nBenzadón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1595,
+   "fin": 1611,
+   "texto": "Abraham\nBenzadón"
+  },
+  {
+   "tipo": "person",
+   "ini": 1613,
+   "fin": 1622,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ana Pavón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1613,
+   "fin": 1622,
+   "texto": "Ana Pavón"
+  },
+  {
+   "tipo": "person",
+   "ini": 1624,
+   "fin": 1638,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Daniel Garbade"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1624,
+   "fin": 1638,
+   "texto": "Daniel Garbade"
+  },
+  {
+   "tipo": "person",
+   "ini": 1640,
+   "fin": 1653,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Julia\nDiazdel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1640,
+   "fin": 1653,
+   "texto": "Julia\nDiazdel"
+  },
+  {
+   "tipo": "person",
+   "ini": 1655,
+   "fin": 1665,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mar Aragón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1655,
+   "fin": 1665,
+   "texto": "Mar Aragón"
+  },
+  {
+   "tipo": "person",
+   "ini": 1667,
+   "fin": 1680,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Kelly Fischer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1667,
+   "fin": 1680,
+   "texto": "Kelly Fischer"
+  },
+  {
+   "tipo": "person",
+   "ini": 1682,
+   "fin": 1692,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pedro Peña"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1682,
+   "fin": 1692,
+   "texto": "Pedro Peña"
+  },
+  {
+   "tipo": "person",
+   "ini": 1695,
+   "fin": 1710,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sebastián Navas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1695,
+   "fin": 1710,
+   "texto": "Sebastián Navas"
+  },
+  {
+   "tipo": "title",
+   "ini": 1769,
+   "fin": 1793,
+   "texto": "Bajar al sur: Al-Andalus"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2084,
+   "fin": 2087,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "UMA"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2360,
+   "fin": 2413,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "Vicerrectorado de Cultura\nde la Universidad de Málaga"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2458,
+   "fin": 2479,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "VESANIART Art Gallery"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2485,
+   "fin": 2542,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser"
+   },
+   "texto": "ICAM Instituto de Cultura Árabe y Mediterránea de Ginebra"
+  },
+  {
+   "tipo": "person",
+   "ini": 2594,
+   "fin": 2608,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Virginia Luque"
+  },
+  {
+   "tipo": "person",
+   "ini": 2691,
+   "fin": 2704,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Nuria Delgado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2691,
+   "fin": 2704,
+   "texto": "Nuria Delgado"
+  },
+  {
+   "tipo": "person",
+   "ini": 3775,
+   "fin": 3791,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Abraham Benzadón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3775,
+   "fin": 3791,
+   "texto": "Abraham Benzadón"
+  },
+  {
+   "tipo": "person",
+   "ini": 3793,
+   "fin": 3802,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ana Pavón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3793,
+   "fin": 3802,
+   "texto": "Ana Pavón"
+  },
+  {
+   "tipo": "person",
+   "ini": 3804,
+   "fin": 3818,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Daniel Garbade"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3804,
+   "fin": 3818,
+   "texto": "Daniel Garbade"
+  },
+  {
+   "tipo": "person",
+   "ini": 3820,
+   "fin": 3833,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Julia Diazdel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3820,
+   "fin": 3833,
+   "texto": "Julia Diazdel"
+  },
+  {
+   "tipo": "person",
+   "ini": 3835,
+   "fin": 3845,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mar\nAragón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3835,
+   "fin": 3845,
+   "texto": "Mar\nAragón"
+  },
+  {
+   "tipo": "person",
+   "ini": 3847,
+   "fin": 3860,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Kelly Fischer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3847,
+   "fin": 3860,
+   "texto": "Kelly Fischer"
+  },
+  {
+   "tipo": "person",
+   "ini": 3862,
+   "fin": 3872,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pedro Peña"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3862,
+   "fin": 3872,
+   "texto": "Pedro Peña"
+  },
+  {
+   "tipo": "person",
+   "ini": 3876,
+   "fin": 3891,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sebastián\nNavas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3876,
+   "fin": 3891,
+   "texto": "Sebastián\nNavas"
+  },
+  {
+   "tipo": "title",
+   "ini": 3907,
+   "fin": 3971,
+   "texto": "“Bajar al sur : Al-Andalus” (Descendre dans le Sud : Al-Andalus)"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4115,
+   "fin": 4121,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Genève"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4237,
+   "fin": 4243,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Malaga"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4294,
+   "fin": 4297,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "UMA"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4580,
+   "fin": 4633,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "vice-rectorat de la culture de l’Université de Malaga"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4627,
+   "fin": 4633,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Malaga"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4684,
+   "fin": 4701,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "galerie\nVESANIART"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4705,
+   "fin": 4771,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser"
+   },
+   "texto": "l’Institut de la Culture Arabe et\nMéditerranéenne (ICAM) de Genève"
+  },
+  {
+   "tipo": "person",
+   "ini": 4925,
+   "fin": 4938,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Nuria Delgado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4925,
+   "fin": 4938,
+   "texto": "Nuria Delgado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5307,
+   "fin": 5321,
+   "texto": "Nuria Delgado\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 5307,
+   "fin": 5320,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Nuria Delgado"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5361,
+   "fin": 5370,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "VESANIART"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 12667,
+   "fin": 12801,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 12667,
+   "fin": 12692,
+   "texto": "\"Baja al Sur: Al-Andalus\""
+  },
+  {
+   "tipo": "institution",
+   "ini": 12697,
+   "fin": 12745,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "galería\nespañola de arte contemporáneo VESANIART"
+  },
+  {
+   "tipo": "institution",
+   "ini": 12751,
+   "fin": 12801,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser"
+   },
+   "texto": "Instituto Cultural Árabe y Mediterráneo de\nGinebra"
+  },
+  {
+   "tipo": "person",
+   "ini": 12896,
+   "fin": 12909,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Nuria Delgado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12896,
+   "fin": 12909,
+   "texto": "Nuria Delgado"
+  },
+  {
+   "tipo": "person",
+   "ini": 13151,
+   "fin": 13167,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Abraham Benzadón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13151,
+   "fin": 13167,
+   "texto": "Abraham Benzadón"
+  },
+  {
+   "tipo": "person",
+   "ini": 13247,
+   "fin": 13256,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ana Pavón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13247,
+   "fin": 13256,
+   "texto": "Ana Pavón"
+  },
+  {
+   "tipo": "person",
+   "ini": 13391,
+   "fin": 13405,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Daniel Garbade"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13391,
+   "fin": 13405,
+   "texto": "Daniel Garbade"
+  },
+  {
+   "tipo": "person",
+   "ini": 13500,
+   "fin": 13513,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Julia Diazdel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13500,
+   "fin": 13513,
+   "texto": "Julia Diazdel"
+  },
+  {
+   "tipo": "person",
+   "ini": 13603,
+   "fin": 13616,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Kelly Fischer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13603,
+   "fin": 13616,
+   "texto": "Kelly Fischer"
+  },
+  {
+   "tipo": "person",
+   "ini": 13721,
+   "fin": 13731,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pedro\nPeña"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13721,
+   "fin": 13731,
+   "texto": "Pedro\nPeña"
+  },
+  {
+   "tipo": "person",
+   "ini": 13815,
+   "fin": 13825,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mar Aragón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13815,
+   "fin": 13825,
+   "texto": "Mar Aragón"
+  },
+  {
+   "tipo": "person",
+   "ini": 13922,
+   "fin": 13937,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sebastián Navas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13922,
+   "fin": 13937,
+   "texto": "Sebastián Navas"
+  },
+  {
+   "tipo": "institution",
+   "ini": 14544,
+   "fin": 14627,
+   "rasgos": {
+    "type": "society"
+   },
+   "texto": "Société espagnole d’études arabes et du\nRéseau d’experts sur le patrimoine culturel"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 22265,
+   "fin": 22433,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 22265,
+   "fin": 22290,
+   "texto": "\"Baja al Sur: Al-Andalus\""
+  },
+  {
+   "tipo": "institution",
+   "ini": 22309,
+   "fin": 22332,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "galerie d›art VESANIART"
+  },
+  {
+   "tipo": "institution",
+   "ini": 22355,
+   "fin": 22433,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser"
+   },
+   "texto": "l›Institut culturel arabe\n\net méditerranéen et l›ambassade d›Espagne\nen Suisse"
+  },
+  {
+   "tipo": "institution",
+   "ini": 22644,
+   "fin": 22653,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Vesaniart"
+  },
+  {
+   "tipo": "person",
+   "ini": 22734,
+   "fin": 22747,
+   "rasgos": {
+    "role": "exhibitiumCurator"
+   },
+   "texto": "Nuria Delgado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22734,
+   "fin": 22747,
+   "texto": "Nuria Delgado"
+  },
+  {
+   "tipo": "person",
+   "ini": 23053,
+   "fin": 23069,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Abraham Benzadón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23053,
+   "fin": 23069,
+   "texto": "Abraham Benzadón"
+  },
+  {
+   "tipo": "person",
+   "ini": 23152,
+   "fin": 23161,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ana Pavón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23152,
+   "fin": 23161,
+   "texto": "Ana Pavón"
+  },
+  {
+   "tipo": "person",
+   "ini": 23318,
+   "fin": 23332,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Daniel Garbade"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23318,
+   "fin": 23332,
+   "texto": "Daniel Garbade"
+  },
+  {
+   "tipo": "person",
+   "ini": 23423,
+   "fin": 23436,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Julia Diazdel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23423,
+   "fin": 23436,
+   "texto": "Julia Diazdel"
+  },
+  {
+   "tipo": "person",
+   "ini": 23543,
+   "fin": 23556,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Kelly Fischer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23543,
+   "fin": 23556,
+   "texto": "Kelly Fischer"
+  },
+  {
+   "tipo": "person",
+   "ini": 23673,
+   "fin": 23683,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pedro Peña"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23673,
+   "fin": 23683,
+   "texto": "Pedro Peña"
+  },
+  {
+   "tipo": "person",
+   "ini": 23767,
+   "fin": 23777,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mar Aragón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23767,
+   "fin": 23777,
+   "texto": "Mar Aragón"
+  },
+  {
+   "tipo": "person",
+   "ini": 23887,
+   "fin": 23902,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sebastián Navas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23887,
+   "fin": 23902,
+   "texto": "Sebastián Navas"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 24432,
+   "fin": 29983
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 24432,
+   "fin": 24805
+  },
+  {
+   "tipo": "text",
+   "ini": 24432,
+   "fin": 24692
+  },
+  {
+   "tipo": "person",
+   "ini": 24664,
+   "fin": 24677,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Nuria Delgado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24664,
+   "fin": 24677,
+   "texto": "Nuria Delgado"
+  },
+  {
+   "tipo": "birth",
+   "ini": 24679,
+   "fin": 24692
+  },
+  {
+   "tipo": "placeName",
+   "ini": 24679,
+   "fin": 24686,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Melilla"
+  },
+  {
+   "tipo": "date",
+   "ini": 24688,
+   "fin": 24692,
+   "rasgos": {
+    "when": "1962"
+   },
+   "texto": "1962"
+  },
+  {
+   "tipo": "person",
+   "ini": 24694,
+   "fin": 24710,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ABRAHAM BENZADON"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24694,
+   "fin": 24710,
+   "texto": "ABRAHAM BENZADON"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24712,
+   "fin": 24755
+  },
+  {
+   "tipo": "work",
+   "ini": 24712,
+   "fin": 24749,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ARMONÍAS\nLatón\n35 x 28 x 28 cm. 2020\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 24712,
+   "fin": 24720,
+   "texto": "ARMONÍAS"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24721,
+   "fin": 24726,
+   "rasgos": {
+    "type": "brass"
+   },
+   "texto": "Latón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24727,
+   "fin": 24742,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35 x 28 x 28 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24727,
+   "fin": 24729,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 24732,
+   "fin": 24734,
+   "texto": "28"
+  },
+  {
+   "tipo": "depth",
+   "ini": 24737,
+   "fin": 24739,
+   "texto": "28"
+  },
+  {
+   "tipo": "date",
+   "ini": 24744,
+   "fin": 24754,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020\n[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 24749,
+   "fin": 24755,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24756,
+   "fin": 24805
+  },
+  {
+   "tipo": "work",
+   "ini": 24756,
+   "fin": 24799,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "DIÁLOGOS\nMetacrilato\n30 x 30 x 30 cm. 2020\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 24756,
+   "fin": 24764,
+   "texto": "DIÁLOGOS"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24765,
+   "fin": 24776,
+   "rasgos": {
+    "type": "methacrylate"
+   },
+   "texto": "Metacrilato"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24777,
+   "fin": 24792,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 30 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24777,
+   "fin": 24779,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 24782,
+   "fin": 24784,
+   "texto": "30"
+  },
+  {
+   "tipo": "depth",
+   "ini": 24787,
+   "fin": 24789,
+   "texto": "30"
+  },
+  {
+   "tipo": "date",
+   "ini": 24794,
+   "fin": 24805,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020\n[img]\n"
+  },
+  {
+   "tipo": "img",
+   "ini": 24799,
+   "fin": 24804,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 24807,
+   "fin": 25585
+  },
+  {
+   "tipo": "text",
+   "ini": 24807,
+   "fin": 25424
+  },
+  {
+   "tipo": "birth",
+   "ini": 25397,
+   "fin": 25409
+  },
+  {
+   "tipo": "death",
+   "ini": 25412,
+   "fin": 25424
+  },
+  {
+   "tipo": "person",
+   "ini": 25426,
+   "fin": 25442,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ANA PAVÓN PORRAS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25426,
+   "fin": 25442,
+   "texto": "ANA PAVÓN PORRAS"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25444,
+   "fin": 25514
+  },
+  {
+   "tipo": "work",
+   "ini": 25444,
+   "fin": 25508,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "LA PERSUASIÓN DEL ERASTA (I)\nÓleo sobre lienzo\n89 x 89 cm. 2020\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 25444,
+   "fin": 25472,
+   "texto": "LA PERSUASIÓN DEL ERASTA (I)"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25473,
+   "fin": 25490,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25491,
+   "fin": 25501,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "89 x 89 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25491,
+   "fin": 25493,
+   "texto": "89"
+  },
+  {
+   "tipo": "width",
+   "ini": 25496,
+   "fin": 25498,
+   "texto": "89"
+  },
+  {
+   "tipo": "date",
+   "ini": 25503,
+   "fin": 25513,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020\n[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 25508,
+   "fin": 25513,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25515,
+   "fin": 25585
+  },
+  {
+   "tipo": "work",
+   "ini": 25515,
+   "fin": 25580,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "LA PERSUASIÓN DEL ERASTA (II)\nÓleo sobre lienzo\n89 x 89 cm. 2020\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 25515,
+   "fin": 25544,
+   "texto": "LA PERSUASIÓN DEL ERASTA (II)"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25545,
+   "fin": 25562,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25563,
+   "fin": 25573,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "89 x 89 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25563,
+   "fin": 25565,
+   "texto": "89"
+  },
+  {
+   "tipo": "width",
+   "ini": 25568,
+   "fin": 25570,
+   "texto": "89"
+  },
+  {
+   "tipo": "date",
+   "ini": 25575,
+   "fin": 25585,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020\n[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 25580,
+   "fin": 25585,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 25587,
+   "fin": 26041
+  },
+  {
+   "tipo": "text",
+   "ini": 25587,
+   "fin": 25812
+  },
+  {
+   "tipo": "birth",
+   "ini": 25799,
+   "fin": 25812
+  },
+  {
+   "tipo": "person",
+   "ini": 25814,
+   "fin": 25828,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "DANIEL GARBADE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25814,
+   "fin": 25828,
+   "texto": "DANIEL GARBADE"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25830,
+   "fin": 25936
+  },
+  {
+   "tipo": "work",
+   "ini": 25830,
+   "fin": 25931,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "MIRADA EN TIEMPOS DE CÓLERA,\nMEDINA AZAHARA\nRotulador de tinta china sobre lienzo\n100 x 100 cm. 2020\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 25830,
+   "fin": 25873,
+   "texto": "MIRADA EN TIEMPOS DE CÓLERA,\nMEDINA AZAHARA"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25874,
+   "fin": 25911,
+   "rasgos": {
+    "type": "feltTipPen"
+   },
+   "texto": "Rotulador de tinta china sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25912,
+   "fin": 25924,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25912,
+   "fin": 25915,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 25918,
+   "fin": 25921,
+   "texto": "100"
+  },
+  {
+   "tipo": "date",
+   "ini": 25926,
+   "fin": 25936,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020\n[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 25931,
+   "fin": 25936,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25938,
+   "fin": 26041
+  },
+  {
+   "tipo": "work",
+   "ini": 25938,
+   "fin": 26036,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "MIRADA EN TIEMPOS DE PAZ,\nMEDINA AZAHARA\nRotulador de tinta china sobre lienzo\n100 x 100 cm. 2020\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 25938,
+   "fin": 25978,
+   "texto": "MIRADA EN TIEMPOS DE PAZ,\nMEDINA AZAHARA"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25979,
+   "fin": 26016,
+   "rasgos": {
+    "type": "feltTipPen"
+   },
+   "texto": "Rotulador de tinta china sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 26017,
+   "fin": 26029,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 26017,
+   "fin": 26020,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 26023,
+   "fin": 26026,
+   "texto": "100"
+  },
+  {
+   "tipo": "date",
+   "ini": 26031,
+   "fin": 26041,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020\n[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 26036,
+   "fin": 26041,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 26043,
+   "fin": 27110
+  },
+  {
+   "tipo": "text",
+   "ini": 26043,
+   "fin": 26953
+  },
+  {
+   "tipo": "birth",
+   "ini": 26923,
+   "fin": 26953
+  },
+  {
+   "tipo": "person",
+   "ini": 26955,
+   "fin": 26965,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MAR ARAGÓN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26955,
+   "fin": 26965,
+   "texto": "MAR ARAGÓN"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26967,
+   "fin": 27037
+  },
+  {
+   "tipo": "work",
+   "ini": 26967,
+   "fin": 27032,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ALHAMBRA DE GRANADA I\nAcuarela y carbón líquido\n50 x 50 cm. 2020\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 26967,
+   "fin": 26988,
+   "texto": "ALHAMBRA DE GRANADA I"
+  },
+  {
+   "tipo": "technique",
+   "ini": 26989,
+   "fin": 27014,
+   "rasgos": {
+    "type": "watercolour, charcoal"
+   },
+   "texto": "Acuarela y carbón líquido"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 27015,
+   "fin": 27025,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 27015,
+   "fin": 27017,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 27020,
+   "fin": 27022,
+   "texto": "50"
+  },
+  {
+   "tipo": "date",
+   "ini": 27027,
+   "fin": 27037,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020\n[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 27032,
+   "fin": 27037,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 27039,
+   "fin": 27110
+  },
+  {
+   "tipo": "work",
+   "ini": 27039,
+   "fin": 27105,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ALHAMBRA DE GRANADA II\nAcuarela y carbón líquido\n50 x 50 cm. 2020\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 27039,
+   "fin": 27061,
+   "texto": "ALHAMBRA DE GRANADA II"
+  },
+  {
+   "tipo": "technique",
+   "ini": 27062,
+   "fin": 27087,
+   "rasgos": {
+    "type": "watercolour, charcoal"
+   },
+   "texto": "Acuarela y carbón líquido"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 27088,
+   "fin": 27098,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 27088,
+   "fin": 27090,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 27093,
+   "fin": 27095,
+   "texto": "50"
+  },
+  {
+   "tipo": "date",
+   "ini": 27100,
+   "fin": 27110,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020\n[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 27105,
+   "fin": 27110,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 27112,
+   "fin": 27861
+  },
+  {
+   "tipo": "text",
+   "ini": 27112,
+   "fin": 27729
+  },
+  {
+   "tipo": "birth",
+   "ini": 27711,
+   "fin": 27729
+  },
+  {
+   "tipo": "person",
+   "ini": 27731,
+   "fin": 27744,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "KELLY FISCHER"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27731,
+   "fin": 27744,
+   "texto": "KELLY FISCHER"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 27746,
+   "fin": 27802
+  },
+  {
+   "tipo": "work",
+   "ini": 27746,
+   "fin": 27797,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "CONNETION I\nAcrílico sobre tela\n100 x 100 cm. 2020\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 27746,
+   "fin": 27757,
+   "texto": "CONNETION I"
+  },
+  {
+   "tipo": "technique",
+   "ini": 27758,
+   "fin": 27777,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 27778,
+   "fin": 27790,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 27778,
+   "fin": 27781,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 27784,
+   "fin": 27787,
+   "texto": "100"
+  },
+  {
+   "tipo": "date",
+   "ini": 27792,
+   "fin": 27802,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020\n[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 27797,
+   "fin": 27802,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 27804,
+   "fin": 27861
+  },
+  {
+   "tipo": "work",
+   "ini": 27804,
+   "fin": 27856,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "CONNETION II\nAcrílico sobre tela\n100 x 100 cm. 2020\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 27804,
+   "fin": 27816,
+   "texto": "CONNETION II"
+  },
+  {
+   "tipo": "technique",
+   "ini": 27817,
+   "fin": 27836,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 27837,
+   "fin": 27849,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 27837,
+   "fin": 27840,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 27843,
+   "fin": 27846,
+   "texto": "100"
+  },
+  {
+   "tipo": "date",
+   "ini": 27851,
+   "fin": 27861,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020\n[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 27856,
+   "fin": 27861,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 27863,
+   "fin": 28206
+  },
+  {
+   "tipo": "text",
+   "ini": 27863,
+   "fin": 28091
+  },
+  {
+   "tipo": "birth",
+   "ini": 28080,
+   "fin": 28091
+  },
+  {
+   "tipo": "person",
+   "ini": 28093,
+   "fin": 28103,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "PEDRO PEÑA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28093,
+   "fin": 28103,
+   "texto": "PEDRO PEÑA"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28105,
+   "fin": 28154
+  },
+  {
+   "tipo": "work",
+   "ini": 28105,
+   "fin": 28149,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ALHAMBRA I\nTécnica Mixta\n100 x 100 cm. 2020\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 28105,
+   "fin": 28115,
+   "texto": "ALHAMBRA I"
+  },
+  {
+   "tipo": "technique",
+   "ini": 28116,
+   "fin": 28129,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28130,
+   "fin": 28142,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28130,
+   "fin": 28133,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 28136,
+   "fin": 28139,
+   "texto": "100"
+  },
+  {
+   "tipo": "date",
+   "ini": 28144,
+   "fin": 28154,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020\n[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 28149,
+   "fin": 28154,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28156,
+   "fin": 28206
+  },
+  {
+   "tipo": "work",
+   "ini": 28156,
+   "fin": 28201,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ALHAMBRA II\nTécnica Mixta\n100 x 100 cm. 2020\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 28156,
+   "fin": 28167,
+   "texto": "ALHAMBRA II"
+  },
+  {
+   "tipo": "technique",
+   "ini": 28168,
+   "fin": 28181,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28182,
+   "fin": 28194,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28182,
+   "fin": 28185,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 28188,
+   "fin": 28191,
+   "texto": "100"
+  },
+  {
+   "tipo": "date",
+   "ini": 28196,
+   "fin": 28206,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020\n[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 28201,
+   "fin": 28206,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 28208,
+   "fin": 29401
+  },
+  {
+   "tipo": "text",
+   "ini": 28208,
+   "fin": 29281
+  },
+  {
+   "tipo": "birth",
+   "ini": 29266,
+   "fin": 29281
+  },
+  {
+   "tipo": "persName",
+   "ini": 29283,
+   "fin": 29297,
+   "texto": "JULIA DIAZDEL\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 29283,
+   "fin": 29296,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JULIA DIAZDEL"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 29298,
+   "fin": 29348
+  },
+  {
+   "tipo": "work",
+   "ini": 29298,
+   "fin": 29343,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "AL-JENNA I\nGouache on paper\n50 x 50 cm. 2020\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 29298,
+   "fin": 29308,
+   "texto": "AL-JENNA I"
+  },
+  {
+   "tipo": "technique",
+   "ini": 29309,
+   "fin": 29325,
+   "rasgos": {
+    "type": "gouache"
+   },
+   "texto": "Gouache on paper"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 29326,
+   "fin": 29336,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 29326,
+   "fin": 29328,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 29331,
+   "fin": 29333,
+   "texto": "50"
+  },
+  {
+   "tipo": "date",
+   "ini": 29338,
+   "fin": 29348,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020\n[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 29343,
+   "fin": 29348,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 29350,
+   "fin": 29401
+  },
+  {
+   "tipo": "work",
+   "ini": 29350,
+   "fin": 29396,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "AL-JENNA II\nGouache on paper\n50 x 50 cm. 2020\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 29350,
+   "fin": 29361,
+   "texto": "AL-JENNA II"
+  },
+  {
+   "tipo": "technique",
+   "ini": 29362,
+   "fin": 29378,
+   "rasgos": {
+    "type": "gouache"
+   },
+   "texto": "Gouache on paper"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 29379,
+   "fin": 29389,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 29379,
+   "fin": 29381,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 29384,
+   "fin": 29386,
+   "texto": "50"
+  },
+  {
+   "tipo": "date",
+   "ini": 29391,
+   "fin": 29401,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020\n[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 29396,
+   "fin": 29401,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueSection",
+   "ini": 29403,
+   "fin": 29982
+  },
+  {
+   "tipo": "text",
+   "ini": 29403,
+   "fin": 29836
+  },
+  {
+   "tipo": "birth",
+   "ini": 29809,
+   "fin": 29836
+  },
+  {
+   "tipo": "person",
+   "ini": 29838,
+   "fin": 29853,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "SEBASTIÁN NAVAS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29838,
+   "fin": 29853,
+   "texto": "SEBASTIÁN NAVAS"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 29855,
+   "fin": 29918
+  },
+  {
+   "tipo": "work",
+   "ini": 29855,
+   "fin": 29912,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "PÁJAROS DEL PARAISO I\nÓleo sobre lino\n100 x 100 cm. 2020\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 29855,
+   "fin": 29876,
+   "texto": "PÁJAROS DEL PARAISO I"
+  },
+  {
+   "tipo": "technique",
+   "ini": 29877,
+   "fin": 29892,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lino"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 29893,
+   "fin": 29905,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 29893,
+   "fin": 29896,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 29899,
+   "fin": 29902,
+   "texto": "100"
+  },
+  {
+   "tipo": "date",
+   "ini": 29907,
+   "fin": 29917,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020\n[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 29912,
+   "fin": 29917,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 29919,
+   "fin": 29983
+  },
+  {
+   "tipo": "work",
+   "ini": 29919,
+   "fin": 29977,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "PÁJAROS DEL PARAISO II\nÓleo sobre lino\n100 x 100 cm. 2020\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 29919,
+   "fin": 29941,
+   "texto": "PÁJAROS DEL PARAISO II"
+  },
+  {
+   "tipo": "technique",
+   "ini": 29942,
+   "fin": 29957,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lino"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 29958,
+   "fin": 29970,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 29958,
+   "fin": 29961,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 29964,
+   "fin": 29967,
+   "texto": "100"
+  },
+  {
+   "tipo": "date",
+   "ini": 29972,
+   "fin": 29982,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020\n[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 29977,
+   "fin": 29982,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  }
+ ]
+}

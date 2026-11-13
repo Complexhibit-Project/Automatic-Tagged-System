@@ -1,0 +1,6031 @@
+{
+ "id": "cat_051_catalogo_gpv_2021_con_portada_low",
+ "nombre_original": "Catalogo-GPV-2021-con-portada-low",
+ "longitud_texto": 50524,
+ "sha256_texto": "fbf1d94b9f00765c68614eab4ad31a65768f04640641de25c0d461f2a29237db",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 45,
+   "texto": "Guillermo Pérez Villalta\nPinturas 2018 - 2020"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 45,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 24,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guillermo Pérez Villalta"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 24,
+   "texto": "Guillermo Pérez Villalta"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 47,
+   "fin": 119,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 47,
+   "fin": 90,
+   "texto": "Guillermo Pérez Villalta\nPinturas 2018-2020"
+  },
+  {
+   "tipo": "person",
+   "ini": 47,
+   "fin": 71,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guillermo Pérez Villalta"
+  },
+  {
+   "tipo": "persName",
+   "ini": 47,
+   "fin": 71,
+   "texto": "Guillermo Pérez Villalta"
+  },
+  {
+   "tipo": "date",
+   "ini": 92,
+   "fin": 119,
+   "rasgos": {
+    "from": "2021-11-01",
+    "to": "2022-01-31"
+   },
+   "texto": "Noviembre 2021 - enero 2022"
+  },
+  {
+   "tipo": "person",
+   "ini": 141,
+   "fin": 165,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guillermo Pérez Villalta"
+  },
+  {
+   "tipo": "persName",
+   "ini": 141,
+   "fin": 165,
+   "texto": "Guillermo Pérez Villalta"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 21269,
+   "fin": 42361
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21269,
+   "fin": 21337
+  },
+  {
+   "tipo": "work",
+   "ini": 21269,
+   "fin": 21330,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Los placeres del arte, 2018\nTemple sobre lienzo. 141 x 200 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 21269,
+   "fin": 21290,
+   "texto": "Los placeres del arte"
+  },
+  {
+   "tipo": "date",
+   "ini": 21292,
+   "fin": 21296,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21297,
+   "fin": 21316,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21318,
+   "fin": 21330,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "141 x 200 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21318,
+   "fin": 21321,
+   "texto": "141"
+  },
+  {
+   "tipo": "width",
+   "ini": 21324,
+   "fin": 21327,
+   "texto": "200"
+  },
+  {
+   "tipo": "img",
+   "ini": 21332,
+   "fin": 21337,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21339,
+   "fin": 21430
+  },
+  {
+   "tipo": "work",
+   "ini": 21339,
+   "fin": 21422,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Grupo de personas en un puerto (Clasicidad), 2019\nTemple sobre lienzo. 141 x 200 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 21339,
+   "fin": 21382,
+   "texto": "Grupo de personas en un puerto (Clasicidad)"
+  },
+  {
+   "tipo": "date",
+   "ini": 21384,
+   "fin": 21388,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21389,
+   "fin": 21408,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21410,
+   "fin": 21422,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "141 x 200 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21410,
+   "fin": 21413,
+   "texto": "141"
+  },
+  {
+   "tipo": "width",
+   "ini": 21416,
+   "fin": 21419,
+   "texto": "200"
+  },
+  {
+   "tipo": "img",
+   "ini": 21424,
+   "fin": 21429,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21431,
+   "fin": 21489
+  },
+  {
+   "tipo": "work",
+   "ini": 21431,
+   "fin": 21482,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La reunión, 2020. Temple sobre lienzo. 100 x 141 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 21431,
+   "fin": 21441,
+   "texto": "La reunión"
+  },
+  {
+   "tipo": "date",
+   "ini": 21443,
+   "fin": 21447,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21449,
+   "fin": 21468,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21470,
+   "fin": 21482,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 141 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21470,
+   "fin": 21473,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 21476,
+   "fin": 21479,
+   "texto": "141"
+  },
+  {
+   "tipo": "img",
+   "ini": 21484,
+   "fin": 21489,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21491,
+   "fin": 21551
+  },
+  {
+   "tipo": "work",
+   "ini": 21491,
+   "fin": 21544,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El observador, 2020. Temple sobre lienzo. 71 x 100 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 21491,
+   "fin": 21504,
+   "texto": "El observador"
+  },
+  {
+   "tipo": "date",
+   "ini": 21506,
+   "fin": 21510,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21512,
+   "fin": 21531,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21533,
+   "fin": 21544,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "71 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21533,
+   "fin": 21535,
+   "texto": "71"
+  },
+  {
+   "tipo": "width",
+   "ini": 21538,
+   "fin": 21541,
+   "texto": "100"
+  },
+  {
+   "tipo": "img",
+   "ini": 21546,
+   "fin": 21551,
+   "rasgos": {
+    "size": "medium",
+    "src": "catalogue",
+    "color ": "true"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21553,
+   "fin": 21621
+  },
+  {
+   "tipo": "work",
+   "ini": 21553,
+   "fin": 21614,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Las individualidades, 2019. Temple sobre lienzo. 100 x 100 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 21553,
+   "fin": 21573,
+   "texto": "Las individualidades"
+  },
+  {
+   "tipo": "date",
+   "ini": 21575,
+   "fin": 21579,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21581,
+   "fin": 21600,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21602,
+   "fin": 21614,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21602,
+   "fin": 21605,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 21608,
+   "fin": 21611,
+   "texto": "100"
+  },
+  {
+   "tipo": "img",
+   "ini": 21616,
+   "fin": 21621,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21623,
+   "fin": 21713
+  },
+  {
+   "tipo": "work",
+   "ini": 21623,
+   "fin": 21706,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Grupo de personas en una arquitectura moderna, 2020\nTemple sobre lienzo. 35 x 50 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 21623,
+   "fin": 21668,
+   "texto": "Grupo de personas en una arquitectura moderna"
+  },
+  {
+   "tipo": "date",
+   "ini": 21670,
+   "fin": 21674,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21675,
+   "fin": 21694,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21696,
+   "fin": 21706,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21696,
+   "fin": 21698,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 21701,
+   "fin": 21703,
+   "texto": "50"
+  },
+  {
+   "tipo": "img",
+   "ini": 21708,
+   "fin": 21713,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21715,
+   "fin": 21779
+  },
+  {
+   "tipo": "work",
+   "ini": 21715,
+   "fin": 21772,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Los sentimientos, 2020. Temple sobre lienzo. 100 x 141 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 21715,
+   "fin": 21731,
+   "texto": "Los sentimientos"
+  },
+  {
+   "tipo": "date",
+   "ini": 21733,
+   "fin": 21737,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21739,
+   "fin": 21758,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21760,
+   "fin": 21772,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 141 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21760,
+   "fin": 21763,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 21766,
+   "fin": 21769,
+   "texto": "141"
+  },
+  {
+   "tipo": "img",
+   "ini": 21774,
+   "fin": 21779,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21781,
+   "fin": 21852
+  },
+  {
+   "tipo": "work",
+   "ini": 21781,
+   "fin": 21845,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La soledad y la compañía, 2019. Temple sobre lienzo. 100 x 71 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 21781,
+   "fin": 21805,
+   "texto": "La soledad y la compañía"
+  },
+  {
+   "tipo": "date",
+   "ini": 21807,
+   "fin": 21811,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21813,
+   "fin": 21832,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21834,
+   "fin": 21845,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 71 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21834,
+   "fin": 21837,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 21840,
+   "fin": 21842,
+   "texto": "71"
+  },
+  {
+   "tipo": "img",
+   "ini": 21847,
+   "fin": 21852,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21854,
+   "fin": 21912
+  },
+  {
+   "tipo": "work",
+   "ini": 21854,
+   "fin": 21905,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Magnificat, 2020. Temple sobre lienzo. 100 x 141 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 21854,
+   "fin": 21864,
+   "texto": "Magnificat"
+  },
+  {
+   "tipo": "date",
+   "ini": 21866,
+   "fin": 21870,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21872,
+   "fin": 21891,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21893,
+   "fin": 21905,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 141 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21893,
+   "fin": 21896,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 21899,
+   "fin": 21902,
+   "texto": "141"
+  },
+  {
+   "tipo": "img",
+   "ini": 21907,
+   "fin": 21912,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21914,
+   "fin": 21974
+  },
+  {
+   "tipo": "work",
+   "ini": 21914,
+   "fin": 21967,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La excavación, 2020\nTemple sobre lienzo. 141 x 200 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 21914,
+   "fin": 21927,
+   "texto": "La excavación"
+  },
+  {
+   "tipo": "date",
+   "ini": 21929,
+   "fin": 21933,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21934,
+   "fin": 21953,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21955,
+   "fin": 21967,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "141 x 200 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21955,
+   "fin": 21958,
+   "texto": "141"
+  },
+  {
+   "tipo": "width",
+   "ini": 21961,
+   "fin": 21964,
+   "texto": "200"
+  },
+  {
+   "tipo": "img",
+   "ini": 21969,
+   "fin": 21974,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21976,
+   "fin": 22046
+  },
+  {
+   "tipo": "work",
+   "ini": 21976,
+   "fin": 22039,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El templo y el obelisco, 2019. Temple sobre lienzo. 100 x 71 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 21976,
+   "fin": 21999,
+   "texto": "El templo y el obelisco"
+  },
+  {
+   "tipo": "date",
+   "ini": 22001,
+   "fin": 22005,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22007,
+   "fin": 22026,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22028,
+   "fin": 22039,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 71 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22028,
+   "fin": 22031,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 22034,
+   "fin": 22036,
+   "texto": "71"
+  },
+  {
+   "tipo": "img",
+   "ini": 22041,
+   "fin": 22046,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22048,
+   "fin": 22103
+  },
+  {
+   "tipo": "work",
+   "ini": 22048,
+   "fin": 22096,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Eleusis, 2019. Temple sobre lienzo. 100 x 100 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 22048,
+   "fin": 22055,
+   "texto": "Eleusis"
+  },
+  {
+   "tipo": "date",
+   "ini": 22057,
+   "fin": 22061,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22063,
+   "fin": 22082,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22084,
+   "fin": 22096,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22084,
+   "fin": 22087,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 22090,
+   "fin": 22093,
+   "texto": "100"
+  },
+  {
+   "tipo": "img",
+   "ini": 22098,
+   "fin": 22103,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22105,
+   "fin": 22175
+  },
+  {
+   "tipo": "work",
+   "ini": 22105,
+   "fin": 22168,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La casa cuadrada, 2020\nTemple sobre madera estucada. 30 x 30 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 22105,
+   "fin": 22121,
+   "texto": "La casa cuadrada"
+  },
+  {
+   "tipo": "date",
+   "ini": 22123,
+   "fin": 22127,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22128,
+   "fin": 22156,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre madera estucada"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22158,
+   "fin": 22168,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22158,
+   "fin": 22160,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 22163,
+   "fin": 22165,
+   "texto": "30"
+  },
+  {
+   "tipo": "img",
+   "ini": 22170,
+   "fin": 22175,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22177,
+   "fin": 22251
+  },
+  {
+   "tipo": "work",
+   "ini": 22177,
+   "fin": 22244,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La casa del Espíritu Santo, 2020. Temple sobre lienzo. 100 x 100 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 22177,
+   "fin": 22203,
+   "texto": "La casa del Espíritu Santo"
+  },
+  {
+   "tipo": "date",
+   "ini": 22205,
+   "fin": 22209,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22211,
+   "fin": 22230,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22232,
+   "fin": 22244,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22232,
+   "fin": 22235,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 22238,
+   "fin": 22241,
+   "texto": "100"
+  },
+  {
+   "tipo": "img",
+   "ini": 22246,
+   "fin": 22251,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22253,
+   "fin": 22321
+  },
+  {
+   "tipo": "work",
+   "ini": 22253,
+   "fin": 22314,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Los depósitos, 2019. Temple sobre madera estucada. 50 x 50 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 22253,
+   "fin": 22266,
+   "texto": "Los depósitos"
+  },
+  {
+   "tipo": "date",
+   "ini": 22268,
+   "fin": 22272,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22274,
+   "fin": 22302,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre madera estucada"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22304,
+   "fin": 22314,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22304,
+   "fin": 22306,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 22309,
+   "fin": 22311,
+   "texto": "50"
+  },
+  {
+   "tipo": "img",
+   "ini": 22316,
+   "fin": 22321,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22323,
+   "fin": 22404
+  },
+  {
+   "tipo": "work",
+   "ini": 22323,
+   "fin": 22397,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El recinto de las albercas, 2019. Temple sobre madera estucada. 50 x 50 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 22323,
+   "fin": 22349,
+   "texto": "El recinto de las albercas"
+  },
+  {
+   "tipo": "date",
+   "ini": 22351,
+   "fin": 22355,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22357,
+   "fin": 22385,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre madera estucada"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22387,
+   "fin": 22397,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22387,
+   "fin": 22389,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 22392,
+   "fin": 22394,
+   "texto": "50"
+  },
+  {
+   "tipo": "img",
+   "ini": 22399,
+   "fin": 22404,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22406,
+   "fin": 22472
+  },
+  {
+   "tipo": "work",
+   "ini": 22406,
+   "fin": 22465,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Los lagares, 2019. Temple sobre madera estucada. 50 x 50 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 22406,
+   "fin": 22417,
+   "texto": "Los lagares"
+  },
+  {
+   "tipo": "date",
+   "ini": 22419,
+   "fin": 22423,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22425,
+   "fin": 22453,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre madera estucada"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22455,
+   "fin": 22465,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22455,
+   "fin": 22457,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 22460,
+   "fin": 22462,
+   "texto": "50"
+  },
+  {
+   "tipo": "img",
+   "ini": 22467,
+   "fin": 22472,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22474,
+   "fin": 22535
+  },
+  {
+   "tipo": "work",
+   "ini": 22474,
+   "fin": 22528,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Bautismo de luz, 2019. Temple sobre lienzo. 50 x 35 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 22474,
+   "fin": 22489,
+   "texto": "Bautismo de luz"
+  },
+  {
+   "tipo": "date",
+   "ini": 22491,
+   "fin": 22495,
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22497,
+   "fin": 22516,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22518,
+   "fin": 22528,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 35 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22518,
+   "fin": 22520,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 22523,
+   "fin": 22525,
+   "texto": "35"
+  },
+  {
+   "tipo": "img",
+   "ini": 22530,
+   "fin": 22535,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22537,
+   "fin": 22602
+  },
+  {
+   "tipo": "work",
+   "ini": 22537,
+   "fin": 22595,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El tiempo detenido, 2019. Temple sobre lienzo. 100 x 71 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 22537,
+   "fin": 22555,
+   "texto": "El tiempo detenido"
+  },
+  {
+   "tipo": "date",
+   "ini": 22557,
+   "fin": 22561,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22563,
+   "fin": 22582,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22584,
+   "fin": 22595,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 71 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22584,
+   "fin": 22587,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 22590,
+   "fin": 22592,
+   "texto": "71"
+  },
+  {
+   "tipo": "img",
+   "ini": 22597,
+   "fin": 22602,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22604,
+   "fin": 22665
+  },
+  {
+   "tipo": "work",
+   "ini": 22604,
+   "fin": 22658,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El gran espacio, 2019. Temple sobre lienzo. 71 x 50 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 22604,
+   "fin": 22619,
+   "texto": "El gran espacio"
+  },
+  {
+   "tipo": "date",
+   "ini": 22621,
+   "fin": 22625,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22627,
+   "fin": 22646,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22648,
+   "fin": 22658,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "71 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22648,
+   "fin": 22650,
+   "texto": "71"
+  },
+  {
+   "tipo": "width",
+   "ini": 22653,
+   "fin": 22655,
+   "texto": "50"
+  },
+  {
+   "tipo": "img",
+   "ini": 22660,
+   "fin": 22665,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22667,
+   "fin": 22727
+  },
+  {
+   "tipo": "work",
+   "ini": 22667,
+   "fin": 22720,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La biblioteca, 2019\nTemple sobre lienzo. 141 x 141 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 22667,
+   "fin": 22680,
+   "texto": "La biblioteca"
+  },
+  {
+   "tipo": "date",
+   "ini": 22682,
+   "fin": 22686,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22687,
+   "fin": 22706,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22708,
+   "fin": 22720,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "141 x 141 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22708,
+   "fin": 22711,
+   "texto": "141"
+  },
+  {
+   "tipo": "width",
+   "ini": 22714,
+   "fin": 22717,
+   "texto": "141"
+  },
+  {
+   "tipo": "img",
+   "ini": 22722,
+   "fin": 22727,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22729,
+   "fin": 22797
+  },
+  {
+   "tipo": "work",
+   "ini": 22729,
+   "fin": 22790,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El rito del equinocio, 2019. Temple sobre lienzo. 71 x 100 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 22729,
+   "fin": 22750,
+   "texto": "El rito del equinocio"
+  },
+  {
+   "tipo": "date",
+   "ini": 22752,
+   "fin": 22756,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22758,
+   "fin": 22777,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22779,
+   "fin": 22790,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "71 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22779,
+   "fin": 22781,
+   "texto": "71"
+  },
+  {
+   "tipo": "width",
+   "ini": 22784,
+   "fin": 22787,
+   "texto": "100"
+  },
+  {
+   "tipo": "img",
+   "ini": 22792,
+   "fin": 22797,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22799,
+   "fin": 22859
+  },
+  {
+   "tipo": "work",
+   "ini": 22799,
+   "fin": 22852,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Juego de bolos, 2018. Temple sobre lienzo. 70 x 70 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 22799,
+   "fin": 22813,
+   "texto": "Juego de bolos"
+  },
+  {
+   "tipo": "date",
+   "ini": 22815,
+   "fin": 22819,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22821,
+   "fin": 22840,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22842,
+   "fin": 22852,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22842,
+   "fin": 22844,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 22847,
+   "fin": 22849,
+   "texto": "70"
+  },
+  {
+   "tipo": "img",
+   "ini": 22854,
+   "fin": 22859,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22861,
+   "fin": 22925
+  },
+  {
+   "tipo": "work",
+   "ini": 22861,
+   "fin": 22918,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La sombra diagonal, 2019. Temple sobre lienzo. 35 x 50 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 22861,
+   "fin": 22879,
+   "texto": "La sombra diagonal"
+  },
+  {
+   "tipo": "date",
+   "ini": 22881,
+   "fin": 22885,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22887,
+   "fin": 22906,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22908,
+   "fin": 22918,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22908,
+   "fin": 22910,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 22913,
+   "fin": 22915,
+   "texto": "50"
+  },
+  {
+   "tipo": "img",
+   "ini": 22920,
+   "fin": 22925,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22927,
+   "fin": 22993
+  },
+  {
+   "tipo": "work",
+   "ini": 22927,
+   "fin": 22986,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Gilgamesh y Enkidu, 2019. Temple sobre lienzo. 100 x 100 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 22927,
+   "fin": 22945,
+   "texto": "Gilgamesh y Enkidu"
+  },
+  {
+   "tipo": "date",
+   "ini": 22947,
+   "fin": 22951,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22953,
+   "fin": 22972,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22974,
+   "fin": 22986,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22974,
+   "fin": 22977,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 22980,
+   "fin": 22983,
+   "texto": "100"
+  },
+  {
+   "tipo": "img",
+   "ini": 22988,
+   "fin": 22993,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22995,
+   "fin": 23064
+  },
+  {
+   "tipo": "work",
+   "ini": 22995,
+   "fin": 23057,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El sueño premonitorio, 2018. Temple sobre lienzo. 100 x 100 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 22995,
+   "fin": 23016,
+   "texto": "El sueño premonitorio"
+  },
+  {
+   "tipo": "date",
+   "ini": 23018,
+   "fin": 23022,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23024,
+   "fin": 23043,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23045,
+   "fin": 23057,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23045,
+   "fin": 23048,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 23051,
+   "fin": 23054,
+   "texto": "100"
+  },
+  {
+   "tipo": "img",
+   "ini": 23059,
+   "fin": 23064,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23066,
+   "fin": 23126
+  },
+  {
+   "tipo": "work",
+   "ini": 23066,
+   "fin": 23119,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Descendimiento, 2020\nTemple sobre lienzo. 100 x 71 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 23066,
+   "fin": 23080,
+   "texto": "Descendimiento"
+  },
+  {
+   "tipo": "date",
+   "ini": 23082,
+   "fin": 23086,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23087,
+   "fin": 23106,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23108,
+   "fin": 23119,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 71 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23108,
+   "fin": 23111,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 23114,
+   "fin": 23116,
+   "texto": "71"
+  },
+  {
+   "tipo": "img",
+   "ini": 23121,
+   "fin": 23126,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23128,
+   "fin": 23184
+  },
+  {
+   "tipo": "work",
+   "ini": 23128,
+   "fin": 23177,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La alfombra, 2020\nTemple sobre lienzo. 71 x 71 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 23128,
+   "fin": 23139,
+   "texto": "La alfombra"
+  },
+  {
+   "tipo": "date",
+   "ini": 23141,
+   "fin": 23145,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23146,
+   "fin": 23165,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23167,
+   "fin": 23177,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "71 x 71 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23167,
+   "fin": 23169,
+   "texto": "71"
+  },
+  {
+   "tipo": "width",
+   "ini": 23172,
+   "fin": 23174,
+   "texto": "71"
+  },
+  {
+   "tipo": "img",
+   "ini": 23179,
+   "fin": 23184,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23186,
+   "fin": 23256
+  },
+  {
+   "tipo": "work",
+   "ini": 23186,
+   "fin": 23249,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El círculo y el cuadrado, 2020. Temple sobre lienzo. 50 x 70 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 23186,
+   "fin": 23210,
+   "texto": "El círculo y el cuadrado"
+  },
+  {
+   "tipo": "date",
+   "ini": 23212,
+   "fin": 23216,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23218,
+   "fin": 23237,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23239,
+   "fin": 23249,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23239,
+   "fin": 23241,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 23244,
+   "fin": 23246,
+   "texto": "70"
+  },
+  {
+   "tipo": "img",
+   "ini": 23251,
+   "fin": 23256,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23258,
+   "fin": 23325
+  },
+  {
+   "tipo": "work",
+   "ini": 23258,
+   "fin": 23318,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Los frutos del verano, 2020. Temple sobre lienzo. 50 x 70 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 23258,
+   "fin": 23279,
+   "texto": "Los frutos del verano"
+  },
+  {
+   "tipo": "date",
+   "ini": 23281,
+   "fin": 23285,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23287,
+   "fin": 23306,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23308,
+   "fin": 23318,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23308,
+   "fin": 23310,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 23313,
+   "fin": 23315,
+   "texto": "70"
+  },
+  {
+   "tipo": "img",
+   "ini": 23320,
+   "fin": 23325,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23327,
+   "fin": 23387
+  },
+  {
+   "tipo": "work",
+   "ini": 23327,
+   "fin": 23380,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La hora del té, 2020. Temple sobre lienzo. 35 x 50 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 23327,
+   "fin": 23341,
+   "texto": "La hora del té"
+  },
+  {
+   "tipo": "date",
+   "ini": 23343,
+   "fin": 23347,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23349,
+   "fin": 23368,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23370,
+   "fin": 23380,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23370,
+   "fin": 23372,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 23375,
+   "fin": 23377,
+   "texto": "50"
+  },
+  {
+   "tipo": "img",
+   "ini": 23382,
+   "fin": 23387,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23389,
+   "fin": 23449
+  },
+  {
+   "tipo": "work",
+   "ini": 23389,
+   "fin": 23442,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El rito oculto, 2020. Temple sobre lienzo. 35 x 50 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 23389,
+   "fin": 23403,
+   "texto": "El rito oculto"
+  },
+  {
+   "tipo": "date",
+   "ini": 23405,
+   "fin": 23409,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23411,
+   "fin": 23430,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23432,
+   "fin": 23442,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23432,
+   "fin": 23434,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 23437,
+   "fin": 23439,
+   "texto": "50"
+  },
+  {
+   "tipo": "img",
+   "ini": 23444,
+   "fin": 23449,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23451,
+   "fin": 23519
+  },
+  {
+   "tipo": "work",
+   "ini": 23451,
+   "fin": 23512,
+   "rasgos": {
+    "type": ""
+   },
+   "texto": "El contador del tiempo, 2020. Temple sobre lienzo. 70 x 50 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 23451,
+   "fin": 23473,
+   "texto": "El contador del tiempo"
+  },
+  {
+   "tipo": "date",
+   "ini": 23475,
+   "fin": 23479,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23481,
+   "fin": 23500,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23502,
+   "fin": 23512,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23502,
+   "fin": 23504,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 23507,
+   "fin": 23509,
+   "texto": "50"
+  },
+  {
+   "tipo": "img",
+   "ini": 23514,
+   "fin": 23519,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23521,
+   "fin": 23589
+  },
+  {
+   "tipo": "work",
+   "ini": 23521,
+   "fin": 23582,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La belleza de la cosas, 2020. Temple sobre lienzo. 70 x 70 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 23521,
+   "fin": 23543,
+   "texto": "La belleza de la cosas"
+  },
+  {
+   "tipo": "date",
+   "ini": 23545,
+   "fin": 23549,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23551,
+   "fin": 23570,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23572,
+   "fin": 23582,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23572,
+   "fin": 23574,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 23577,
+   "fin": 23579,
+   "texto": "70"
+  },
+  {
+   "tipo": "img",
+   "ini": 23584,
+   "fin": 23589,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23591,
+   "fin": 23647
+  },
+  {
+   "tipo": "work",
+   "ini": 23591,
+   "fin": 23640,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La higuera, 2020. Temple sobre lienzo. 50 x 70 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 23591,
+   "fin": 23601,
+   "texto": "La higuera"
+  },
+  {
+   "tipo": "date",
+   "ini": 23603,
+   "fin": 23607,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23609,
+   "fin": 23628,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23630,
+   "fin": 23640,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23630,
+   "fin": 23632,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 23635,
+   "fin": 23637,
+   "texto": "70"
+  },
+  {
+   "tipo": "img",
+   "ini": 23642,
+   "fin": 23647,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23649,
+   "fin": 23717
+  },
+  {
+   "tipo": "work",
+   "ini": 23649,
+   "fin": 23710,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Minerva y la alcachofa, 2018. Temple sobre lienzo. 70 x 70 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 23649,
+   "fin": 23671,
+   "texto": "Minerva y la alcachofa"
+  },
+  {
+   "tipo": "date",
+   "ini": 23673,
+   "fin": 23677,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23679,
+   "fin": 23698,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23700,
+   "fin": 23710,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23700,
+   "fin": 23702,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 23705,
+   "fin": 23707,
+   "texto": "70"
+  },
+  {
+   "tipo": "img",
+   "ini": 23712,
+   "fin": 23717,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23719,
+   "fin": 23782
+  },
+  {
+   "tipo": "work",
+   "ini": 23719,
+   "fin": 23775,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Las tres hermanas, 2020. Temple sobre lienzo. 35 x 50 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 23719,
+   "fin": 23736,
+   "texto": "Las tres hermanas"
+  },
+  {
+   "tipo": "date",
+   "ini": 23738,
+   "fin": 23742,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23744,
+   "fin": 23763,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23765,
+   "fin": 23775,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23765,
+   "fin": 23767,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 23770,
+   "fin": 23772,
+   "texto": "50"
+  },
+  {
+   "tipo": "img",
+   "ini": 23777,
+   "fin": 23782,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23784,
+   "fin": 23852
+  },
+  {
+   "tipo": "work",
+   "ini": 23784,
+   "fin": 23845,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Elementos de geometría, 2019. Temple sobre lienzo. 71 x 71 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 23784,
+   "fin": 23806,
+   "texto": "Elementos de geometría"
+  },
+  {
+   "tipo": "date",
+   "ini": 23808,
+   "fin": 23812,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "institution",
+   "ini": 23814,
+   "fin": 23833,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23835,
+   "fin": 23845,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "71 x 71 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23835,
+   "fin": 23837,
+   "texto": "71"
+  },
+  {
+   "tipo": "width",
+   "ini": 23840,
+   "fin": 23842,
+   "texto": "71"
+  },
+  {
+   "tipo": "img",
+   "ini": 23847,
+   "fin": 23852,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23854,
+   "fin": 23922
+  },
+  {
+   "tipo": "work",
+   "ini": 23854,
+   "fin": 23915,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La perspectiva cegada, 2019\nTemple sobre lienzo. 141 x 100 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 23854,
+   "fin": 23875,
+   "texto": "La perspectiva cegada"
+  },
+  {
+   "tipo": "date",
+   "ini": 23877,
+   "fin": 23881,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "institution",
+   "ini": 23882,
+   "fin": 23901,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23903,
+   "fin": 23915,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "141 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23903,
+   "fin": 23906,
+   "texto": "141"
+  },
+  {
+   "tipo": "width",
+   "ini": 23909,
+   "fin": 23912,
+   "texto": "100"
+  },
+  {
+   "tipo": "img",
+   "ini": 23917,
+   "fin": 23922,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23924,
+   "fin": 23992
+  },
+  {
+   "tipo": "work",
+   "ini": 23924,
+   "fin": 23985,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Hexagon, 2020\nTemple sobre madera estucada\n80 cm. de diámetro"
+  },
+  {
+   "tipo": "title",
+   "ini": 23924,
+   "fin": 23931,
+   "texto": "Hexagon"
+  },
+  {
+   "tipo": "date",
+   "ini": 23933,
+   "fin": 23937,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "institution",
+   "ini": 23938,
+   "fin": 23966,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Temple sobre madera estucada"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23967,
+   "fin": 23985,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80 cm. de diámetro"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 23967,
+   "fin": 23969,
+   "texto": "80"
+  },
+  {
+   "tipo": "img",
+   "ini": 23987,
+   "fin": 23992,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 24005,
+   "fin": 24029,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guillermo Pérez Villalta"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24005,
+   "fin": 24029,
+   "texto": "Guillermo Pérez Villalta"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 24031,
+   "fin": 25861
+  },
+  {
+   "tipo": "title",
+   "ini": 25725,
+   "fin": 25737,
+   "texto": "Agrupaciones"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25863,
+   "fin": 26571
+  },
+  {
+   "tipo": "img",
+   "ini": 25863,
+   "fin": 25868,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25870,
+   "fin": 26571,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 25870,
+   "fin": 25891,
+   "texto": "Los placeres del Arte"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25893,
+   "fin": 25905,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "141 x 200 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25893,
+   "fin": 25896,
+   "texto": "141"
+  },
+  {
+   "tipo": "width",
+   "ini": 25899,
+   "fin": 25902,
+   "texto": "200"
+  },
+  {
+   "tipo": "institution",
+   "ini": 25908,
+   "fin": 25927,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 25929,
+   "fin": 25933,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 25935,
+   "fin": 26571
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26573,
+   "fin": 27872
+  },
+  {
+   "tipo": "img",
+   "ini": 26573,
+   "fin": 26578,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 26580,
+   "fin": 27872,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 26580,
+   "fin": 26623,
+   "texto": "Grupo de personas en un puerto (Clasicidad)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 26625,
+   "fin": 26637,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "141 x 200 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 26625,
+   "fin": 26628,
+   "texto": "141"
+  },
+  {
+   "tipo": "width",
+   "ini": 26631,
+   "fin": 26634,
+   "texto": "200"
+  },
+  {
+   "tipo": "institution",
+   "ini": 26640,
+   "fin": 26659,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple\nsobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 26661,
+   "fin": 26665,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 26667,
+   "fin": 27872
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 27874,
+   "fin": 28610
+  },
+  {
+   "tipo": "img",
+   "ini": 27874,
+   "fin": 27879,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 27881,
+   "fin": 28610,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 27881,
+   "fin": 27891,
+   "texto": "La reunión"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 27893,
+   "fin": 27905,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 141 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 27893,
+   "fin": 27896,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 27899,
+   "fin": 27902,
+   "texto": "141"
+  },
+  {
+   "tipo": "institution",
+   "ini": 27908,
+   "fin": 27927,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 27929,
+   "fin": 27939,
+   "rasgos": {
+    "from": "2020-03-01",
+    "to": "2020-03-31"
+   },
+   "texto": "Marzo 2020"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 27941,
+   "fin": 28610
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28612,
+   "fin": 28956
+  },
+  {
+   "tipo": "img",
+   "ini": 28612,
+   "fin": 28617,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28619,
+   "fin": 28956,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 28619,
+   "fin": 28643,
+   "texto": "La soledad y la compañía"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28645,
+   "fin": 28656,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 71 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28645,
+   "fin": 28648,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 28651,
+   "fin": 28653,
+   "texto": "71"
+  },
+  {
+   "tipo": "institution",
+   "ini": 28659,
+   "fin": 28678,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 28680,
+   "fin": 28690,
+   "rasgos": {
+    "from": "2019-04-01",
+    "to": "2019-04-30"
+   },
+   "texto": "Abril\n2019"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 28692,
+   "fin": 28956
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28958,
+   "fin": 29180
+  },
+  {
+   "tipo": "img",
+   "ini": 28958,
+   "fin": 28963,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28965,
+   "fin": 29180,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 28965,
+   "fin": 28978,
+   "texto": "El observador"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28980,
+   "fin": 28991,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "71 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28980,
+   "fin": 28982,
+   "texto": "71"
+  },
+  {
+   "tipo": "width",
+   "ini": 28985,
+   "fin": 28988,
+   "texto": "100"
+  },
+  {
+   "tipo": "institution",
+   "ini": 28994,
+   "fin": 29013,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 29015,
+   "fin": 29026,
+   "rasgos": {
+    "from": "2020-08-01",
+    "to": "2020-08-31"
+   },
+   "texto": "Agosto 2020"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 29028,
+   "fin": 29180
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 29182,
+   "fin": 29647
+  },
+  {
+   "tipo": "img",
+   "ini": 29182,
+   "fin": 29187,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 29189,
+   "fin": 29647,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 29189,
+   "fin": 29209,
+   "texto": "Las individualidades"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 29211,
+   "fin": 29223,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 29211,
+   "fin": 29214,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 29217,
+   "fin": 29220,
+   "texto": "100"
+  },
+  {
+   "tipo": "institution",
+   "ini": 29226,
+   "fin": 29245,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 29247,
+   "fin": 29251,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 29253,
+   "fin": 29647
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 29649,
+   "fin": 30052
+  },
+  {
+   "tipo": "img",
+   "ini": 29649,
+   "fin": 29654,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 29656,
+   "fin": 30052,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 29656,
+   "fin": 29672,
+   "texto": "Los sentimientos"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 29674,
+   "fin": 29686,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 141 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 29674,
+   "fin": 29677,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 29680,
+   "fin": 29683,
+   "texto": "141"
+  },
+  {
+   "tipo": "technique",
+   "ini": 29689,
+   "fin": 29708,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 29710,
+   "fin": 29720,
+   "rasgos": {
+    "from": "2020-07-01",
+    "to": "2020-07-31"
+   },
+   "texto": "Julio 2020"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 29722,
+   "fin": 30052
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30054,
+   "fin": 30436
+  },
+  {
+   "tipo": "img",
+   "ini": 30054,
+   "fin": 30059,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30061,
+   "fin": 30436,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 30061,
+   "fin": 30106,
+   "texto": "Grupo de personas en una arquitectura moderna"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 30108,
+   "fin": 30118,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 30108,
+   "fin": 30110,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 30113,
+   "fin": 30115,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 30121,
+   "fin": 30140,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple\nsobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 30142,
+   "fin": 30151,
+   "rasgos": {
+    "from": "2020-05-01",
+    "to": "2020-05-31"
+   },
+   "texto": "Mayo 2020"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 30153,
+   "fin": 30436
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30438,
+   "fin": 31295
+  },
+  {
+   "tipo": "img",
+   "ini": 30438,
+   "fin": 30443,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30445,
+   "fin": 31295,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 30445,
+   "fin": 30455,
+   "texto": "Magnificat"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 30457,
+   "fin": 30469,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 141 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 30457,
+   "fin": 30460,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 30463,
+   "fin": 30466,
+   "texto": "141"
+  },
+  {
+   "tipo": "technique",
+   "ini": 30472,
+   "fin": 30491,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 30493,
+   "fin": 30505,
+   "rasgos": {
+    "from": "2020-10-01",
+    "to": "2020-10-31"
+   },
+   "texto": "Octubre 2020"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 30507,
+   "fin": 31295
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 31297,
+   "fin": 31707
+  },
+  {
+   "tipo": "img",
+   "ini": 31297,
+   "fin": 31302,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 31304,
+   "fin": 31707,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 31304,
+   "fin": 31311,
+   "texto": "Eleusis"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 31313,
+   "fin": 31325,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 31313,
+   "fin": 31316,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 31319,
+   "fin": 31322,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 31328,
+   "fin": 31347,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 31349,
+   "fin": 31360,
+   "rasgos": {
+    "from": "2019-08-01",
+    "to": "2019-08-31"
+   },
+   "texto": "Agosto 2019"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 31362,
+   "fin": 31707
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 31709,
+   "fin": 31864
+  },
+  {
+   "tipo": "img",
+   "ini": 31709,
+   "fin": 31714,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 31716,
+   "fin": 31864,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El templo y el obelisco. 100 x 71 cm., temple sobre lienzo. 2019.\nUn mundo parecido al anterior: lugares de culto y ritos desconocidos,\nsilenciosos."
+  },
+  {
+   "tipo": "title",
+   "ini": 31716,
+   "fin": 31739,
+   "texto": "El templo y el obelisco"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 31741,
+   "fin": 31752,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 71 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 31741,
+   "fin": 31744,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 31747,
+   "fin": 31749,
+   "texto": "71"
+  },
+  {
+   "tipo": "technique",
+   "ini": 31755,
+   "fin": 31774,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 31776,
+   "fin": 31780,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 31782,
+   "fin": 31864
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 31866,
+   "fin": 32491
+  },
+  {
+   "tipo": "img",
+   "ini": 31866,
+   "fin": 31871,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 31873,
+   "fin": 32491,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 31873,
+   "fin": 31886,
+   "texto": "La excavación"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 31888,
+   "fin": 31900,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "141 x 200 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 31888,
+   "fin": 31891,
+   "texto": "141"
+  },
+  {
+   "tipo": "width",
+   "ini": 31894,
+   "fin": 31897,
+   "texto": "200"
+  },
+  {
+   "tipo": "technique",
+   "ini": 31903,
+   "fin": 31922,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 31924,
+   "fin": 31928,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 31930,
+   "fin": 32491
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 32493,
+   "fin": 33178
+  },
+  {
+   "tipo": "img",
+   "ini": 32493,
+   "fin": 32498,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 32500,
+   "fin": 33178,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 32500,
+   "fin": 32526,
+   "texto": "La casa del Espíritu Santo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 32528,
+   "fin": 32540,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 32528,
+   "fin": 32531,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 32534,
+   "fin": 32537,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 32543,
+   "fin": 32562,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 32564,
+   "fin": 32568,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 32570,
+   "fin": 33178
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 33180,
+   "fin": 33358
+  },
+  {
+   "tipo": "img",
+   "ini": 33180,
+   "fin": 33185,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 33187,
+   "fin": 33358,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El recinto de las albercas. 50 x 50 cm., temple sobre madera\nestucada. 2019.\nUna curiosa mezcla perspectiva hace extraña su percepción.\nTambién tiene un cierto simbolismo."
+  },
+  {
+   "tipo": "title",
+   "ini": 33187,
+   "fin": 33213,
+   "texto": "El recinto de las albercas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 33215,
+   "fin": 33225,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 33215,
+   "fin": 33217,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 33220,
+   "fin": 33222,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 33228,
+   "fin": 33256,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre madera\nestucada"
+  },
+  {
+   "tipo": "date",
+   "ini": 33258,
+   "fin": 33262,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 33264,
+   "fin": 33358
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 33360,
+   "fin": 33506
+  },
+  {
+   "tipo": "img",
+   "ini": 33360,
+   "fin": 33365,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 33367,
+   "fin": 33506,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Los depósitos. 50 x 50 cm., temple sobre madera estucada. 2019.\nLos contenedores de agua en un lugar árido llegan a tener algo\nreverencial."
+  },
+  {
+   "tipo": "title",
+   "ini": 33367,
+   "fin": 33380,
+   "texto": "Los depósitos"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 33382,
+   "fin": 33392,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 33382,
+   "fin": 33384,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 33387,
+   "fin": 33389,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 33395,
+   "fin": 33423,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre madera estucada"
+  },
+  {
+   "tipo": "date",
+   "ini": 33425,
+   "fin": 33429,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 33431,
+   "fin": 33506
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 33508,
+   "fin": 33644
+  },
+  {
+   "tipo": "img",
+   "ini": 33508,
+   "fin": 33513,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 33515,
+   "fin": 33644,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Los lagares. 50 x 50 cm., temple sobre madera estucada. 2019.\nLa geometría construye pequeños habitáculos cuyo centro es el\nagua."
+  },
+  {
+   "tipo": "title",
+   "ini": 33515,
+   "fin": 33526,
+   "texto": "Los lagares"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 33528,
+   "fin": 33538,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 33528,
+   "fin": 33530,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 33533,
+   "fin": 33535,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 33541,
+   "fin": 33569,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre madera estucada"
+  },
+  {
+   "tipo": "date",
+   "ini": 33571,
+   "fin": 33575,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 33577,
+   "fin": 33644
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 33646,
+   "fin": 33937
+  },
+  {
+   "tipo": "img",
+   "ini": 33646,
+   "fin": 33651,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 33653,
+   "fin": 33937,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 33653,
+   "fin": 33669,
+   "texto": "La casa cuadrada"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 33671,
+   "fin": 33681,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 33671,
+   "fin": 33673,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 33676,
+   "fin": 33678,
+   "texto": "30"
+  },
+  {
+   "tipo": "technique",
+   "ini": 33684,
+   "fin": 33712,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre madera estucada"
+  },
+  {
+   "tipo": "date",
+   "ini": 33714,
+   "fin": 33718,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 33720,
+   "fin": 33937
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 33939,
+   "fin": 34096
+  },
+  {
+   "tipo": "img",
+   "ini": 33939,
+   "fin": 33944,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 33946,
+   "fin": 34096,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Bautismo de luz. 50 x 35 cm., temple sobre lienzo. 2019.\nRitual alegórico en un espacio inspirado por los baños de Carratraca,\nen la Sierra de Málaga."
+  },
+  {
+   "tipo": "title",
+   "ini": 33946,
+   "fin": 33961,
+   "texto": "Bautismo de luz"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 33963,
+   "fin": 33973,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 35 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 33963,
+   "fin": 33965,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 33968,
+   "fin": 33970,
+   "texto": "35"
+  },
+  {
+   "tipo": "technique",
+   "ini": 33976,
+   "fin": 33995,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 33997,
+   "fin": 34001,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 34003,
+   "fin": 34096
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34098,
+   "fin": 34920
+  },
+  {
+   "tipo": "img",
+   "ini": 34098,
+   "fin": 34103,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 34105,
+   "fin": 34920,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 34105,
+   "fin": 34118,
+   "texto": "La biblioteca"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 34120,
+   "fin": 34132,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "141 x 141 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 34120,
+   "fin": 34123,
+   "texto": "141"
+  },
+  {
+   "tipo": "width",
+   "ini": 34126,
+   "fin": 34129,
+   "texto": "141"
+  },
+  {
+   "tipo": "technique",
+   "ini": 34135,
+   "fin": 34154,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 34156,
+   "fin": 34160,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 34162,
+   "fin": 34920
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34922,
+   "fin": 35088
+  },
+  {
+   "tipo": "img",
+   "ini": 34922,
+   "fin": 34927,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 34929,
+   "fin": 35088,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El gran espacio. 71 x 50 cm., temple sobre lienzo. 2019.\nConcebí un enorme lugar porticado con un pequeño personaje que\nsiente la sensación física del espacio."
+  },
+  {
+   "tipo": "title",
+   "ini": 34929,
+   "fin": 34944,
+   "texto": "El gran espacio"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 34946,
+   "fin": 34956,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "71 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 34946,
+   "fin": 34948,
+   "texto": "71"
+  },
+  {
+   "tipo": "width",
+   "ini": 34951,
+   "fin": 34953,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 34959,
+   "fin": 34978,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 34980,
+   "fin": 34984,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 34986,
+   "fin": 35088
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 35090,
+   "fin": 35328
+  },
+  {
+   "tipo": "img",
+   "ini": 35090,
+   "fin": 35095,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 35097,
+   "fin": 35328,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 35097,
+   "fin": 35115,
+   "texto": "El tiempo detenido"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 35117,
+   "fin": 35128,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 71 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 35117,
+   "fin": 35120,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 35123,
+   "fin": 35125,
+   "texto": "71"
+  },
+  {
+   "tipo": "technique",
+   "ini": 35131,
+   "fin": 35150,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 35152,
+   "fin": 35156,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 35158,
+   "fin": 35328
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 35330,
+   "fin": 35519
+  },
+  {
+   "tipo": "img",
+   "ini": 35330,
+   "fin": 35335,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 35337,
+   "fin": 35519,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La sombra diagonal. 35 x 50 cm., temple sobre lienzo. 2019.\nObra a la que aprecio especialmente. Representa a la perfección el\nsentimiento estético que en aquellos días me embargaba."
+  },
+  {
+   "tipo": "title",
+   "ini": 35337,
+   "fin": 35355,
+   "texto": "La sombra diagonal"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 35357,
+   "fin": 35367,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 35357,
+   "fin": 35359,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 35362,
+   "fin": 35364,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 35370,
+   "fin": 35389,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 35391,
+   "fin": 35395,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 35397,
+   "fin": 35519
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 35521,
+   "fin": 35640
+  },
+  {
+   "tipo": "img",
+   "ini": 35521,
+   "fin": 35526,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 35528,
+   "fin": 35640,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Juego de bolos. 70 x 70 cm., temple sobre lienzo. 2018.\nUn juego dinámico en un lugar inapropiado e inverosímil."
+  },
+  {
+   "tipo": "title",
+   "ini": 35528,
+   "fin": 35542,
+   "texto": "Juego de bolos"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 35544,
+   "fin": 35554,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 35544,
+   "fin": 35546,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 35549,
+   "fin": 35551,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 35557,
+   "fin": 35576,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 35578,
+   "fin": 35582,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 35584,
+   "fin": 35640
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 35642,
+   "fin": 35787
+  },
+  {
+   "tipo": "img",
+   "ini": 35642,
+   "fin": 35647,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 35649,
+   "fin": 35787,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Los frutos del verano. 50 x 70 cm., temple sobre lienzo. 2020.\nLa simetría asimétrica construye esta obra sobre los rituales\nestacionales."
+  },
+  {
+   "tipo": "title",
+   "ini": 35649,
+   "fin": 35670,
+   "texto": "Los frutos del verano"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 35672,
+   "fin": 35682,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 35672,
+   "fin": 35674,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 35677,
+   "fin": 35679,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 35685,
+   "fin": 35704,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 35706,
+   "fin": 35710,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 35712,
+   "fin": 35787
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 35789,
+   "fin": 36180
+  },
+  {
+   "tipo": "img",
+   "ini": 35789,
+   "fin": 35794,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 35796,
+   "fin": 36180,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 35796,
+   "fin": 35817,
+   "texto": "El rito del equinocio"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 35819,
+   "fin": 35830,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "71 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 35819,
+   "fin": 35821,
+   "texto": "71"
+  },
+  {
+   "tipo": "width",
+   "ini": 35824,
+   "fin": 35827,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 35833,
+   "fin": 35852,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 35854,
+   "fin": 35858,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 35860,
+   "fin": 36180
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 36182,
+   "fin": 36495
+  },
+  {
+   "tipo": "img",
+   "ini": 36182,
+   "fin": 36187,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 36189,
+   "fin": 36495,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 36189,
+   "fin": 36210,
+   "texto": "El sueño premonitorio"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 36212,
+   "fin": 36224,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 36212,
+   "fin": 36215,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 36218,
+   "fin": 36221,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 36227,
+   "fin": 36246,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 36248,
+   "fin": 36252,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 36254,
+   "fin": 36495
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 36497,
+   "fin": 36911
+  },
+  {
+   "tipo": "img",
+   "ini": 36497,
+   "fin": 36502,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 36504,
+   "fin": 36911,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 36504,
+   "fin": 36522,
+   "texto": "Gilgamesh y Enkidu"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 36524,
+   "fin": 36536,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 36524,
+   "fin": 36527,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 36530,
+   "fin": 36533,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 36539,
+   "fin": 36558,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 36560,
+   "fin": 36564,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 36566,
+   "fin": 36911
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 36913,
+   "fin": 37455
+  },
+  {
+   "tipo": "img",
+   "ini": 36913,
+   "fin": 36918,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 36920,
+   "fin": 37455,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 36920,
+   "fin": 36934,
+   "texto": "Descendimiento"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 36936,
+   "fin": 36947,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 71 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 36936,
+   "fin": 36939,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 36942,
+   "fin": 36944,
+   "texto": "71"
+  },
+  {
+   "tipo": "technique",
+   "ini": 36950,
+   "fin": 36969,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 36971,
+   "fin": 36975,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 36977,
+   "fin": 37455
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 37457,
+   "fin": 37757
+  },
+  {
+   "tipo": "img",
+   "ini": 37457,
+   "fin": 37462,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 37464,
+   "fin": 37757,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 37464,
+   "fin": 37475,
+   "texto": "La alfombra"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 37477,
+   "fin": 37487,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "71 x 71 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 37477,
+   "fin": 37479,
+   "texto": "71"
+  },
+  {
+   "tipo": "width",
+   "ini": 37482,
+   "fin": 37484,
+   "texto": "71"
+  },
+  {
+   "tipo": "technique",
+   "ini": 37490,
+   "fin": 37509,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 37511,
+   "fin": 37515,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 37517,
+   "fin": 37757
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 37759,
+   "fin": 38300
+  },
+  {
+   "tipo": "img",
+   "ini": 37759,
+   "fin": 37764,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 37766,
+   "fin": 38300,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 37766,
+   "fin": 37790,
+   "texto": "El círculo y el cuadrado"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 37792,
+   "fin": 37802,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 37792,
+   "fin": 37794,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 37797,
+   "fin": 37799,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 37805,
+   "fin": 37824,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 37826,
+   "fin": 37830,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 37832,
+   "fin": 38300
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 38302,
+   "fin": 38539
+  },
+  {
+   "tipo": "img",
+   "ini": 38302,
+   "fin": 38307,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 38309,
+   "fin": 38539,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 38309,
+   "fin": 38323,
+   "texto": "El rito oculto"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 38325,
+   "fin": 38335,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 38325,
+   "fin": 38327,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 38330,
+   "fin": 38332,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 38338,
+   "fin": 38357,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 38359,
+   "fin": 38363,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 38365,
+   "fin": 38539
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 38541,
+   "fin": 38703
+  },
+  {
+   "tipo": "img",
+   "ini": 38541,
+   "fin": 38546,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 38548,
+   "fin": 38703,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La hora del té. 35 x 50 cm., temple sobre lienzo. 2020.\nUno de los rituales que realizo todas las tardes. El aire orientalista es\nintencionado, obviamente."
+  },
+  {
+   "tipo": "title",
+   "ini": 38548,
+   "fin": 38562,
+   "texto": "La hora del té"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 38564,
+   "fin": 38574,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 38564,
+   "fin": 38566,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 38569,
+   "fin": 38571,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 38577,
+   "fin": 38596,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 38598,
+   "fin": 38602,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 38604,
+   "fin": 38703
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 38705,
+   "fin": 39071
+  },
+  {
+   "tipo": "img",
+   "ini": 38705,
+   "fin": 38710,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 38712,
+   "fin": 39071,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 38712,
+   "fin": 38735,
+   "texto": "La belleza de las cosas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 38737,
+   "fin": 38747,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 38737,
+   "fin": 38739,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 38742,
+   "fin": 38744,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 38750,
+   "fin": 38769,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 38771,
+   "fin": 38775,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 38777,
+   "fin": 39071
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39073,
+   "fin": 39298
+  },
+  {
+   "tipo": "img",
+   "ini": 39073,
+   "fin": 39078,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 39080,
+   "fin": 39298,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 39080,
+   "fin": 39101,
+   "texto": "El contador de tiempo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39103,
+   "fin": 39113,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 39103,
+   "fin": 39105,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 39108,
+   "fin": 39110,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 39116,
+   "fin": 39135,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 39137,
+   "fin": 39141,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 39143,
+   "fin": 39298
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 39300,
+   "fin": 40192
+  },
+  {
+   "tipo": "img",
+   "ini": 39300,
+   "fin": 39305,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 39307,
+   "fin": 40192,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 39307,
+   "fin": 39328,
+   "texto": "La perspectiva cegada"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 39330,
+   "fin": 39342,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 141 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 39330,
+   "fin": 39333,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 39336,
+   "fin": 39339,
+   "texto": "141"
+  },
+  {
+   "tipo": "technique",
+   "ini": 39345,
+   "fin": 39364,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 39366,
+   "fin": 39370,
+   "rasgos": {
+    "when": ""
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 39371,
+   "fin": 40192
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40194,
+   "fin": 40522
+  },
+  {
+   "tipo": "img",
+   "ini": 40194,
+   "fin": 40199,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 40201,
+   "fin": 40522,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 40201,
+   "fin": 40223,
+   "texto": "Minerva y la alcachofa"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40225,
+   "fin": 40235,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40225,
+   "fin": 40227,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 40230,
+   "fin": 40232,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 40238,
+   "fin": 40257,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 40259,
+   "fin": 40263,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 40265,
+   "fin": 40522
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40524,
+   "fin": 40886
+  },
+  {
+   "tipo": "img",
+   "ini": 40524,
+   "fin": 40529,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 40531,
+   "fin": 40887,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 40531,
+   "fin": 40556,
+   "texto": "Elementos de la geometría"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40558,
+   "fin": 40568,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "71 x 71 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40558,
+   "fin": 40560,
+   "texto": "71"
+  },
+  {
+   "tipo": "width",
+   "ini": 40563,
+   "fin": 40565,
+   "texto": "71"
+  },
+  {
+   "tipo": "technique",
+   "ini": 40571,
+   "fin": 40590,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 40592,
+   "fin": 40596,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 40598,
+   "fin": 40886
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 40888,
+   "fin": 41099
+  },
+  {
+   "tipo": "img",
+   "ini": 40888,
+   "fin": 40893,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 40895,
+   "fin": 41099,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 40895,
+   "fin": 40905,
+   "texto": "La higuera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 40907,
+   "fin": 40917,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 40907,
+   "fin": 40909,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 40912,
+   "fin": 40914,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 40920,
+   "fin": 40939,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 40941,
+   "fin": 40945,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 40947,
+   "fin": 41099
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 41101,
+   "fin": 41582
+  },
+  {
+   "tipo": "img",
+   "ini": 41101,
+   "fin": 41106,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 41108,
+   "fin": 41582,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 41108,
+   "fin": 41125,
+   "texto": "Las tres hermanas"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 41127,
+   "fin": 41137,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 41127,
+   "fin": 41129,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 41132,
+   "fin": 41134,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 41140,
+   "fin": 41159,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 41161,
+   "fin": 41165,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 41167,
+   "fin": 41582
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 41584,
+   "fin": 42360
+  },
+  {
+   "tipo": "img",
+   "ini": 41584,
+   "fin": 41589,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 41591,
+   "fin": 42360,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 41591,
+   "fin": 41598,
+   "texto": "Hexagón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 41600,
+   "fin": 41615,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80 cm. diámetro"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 41600,
+   "fin": 41602,
+   "texto": "80"
+  },
+  {
+   "tipo": "technique",
+   "ini": 41617,
+   "fin": 41645,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "temple sobre madura estucada"
+  },
+  {
+   "tipo": "date",
+   "ini": 41647,
+   "fin": 41651,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 41653,
+   "fin": 42360
+  },
+  {
+   "tipo": "person",
+   "ini": 42364,
+   "fin": 42420,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guillermo Pérez Villalta\n\nNace en Tarifa, Cádiz, en 1948"
+  },
+  {
+   "tipo": "persName",
+   "ini": 42364,
+   "fin": 42388,
+   "texto": "Guillermo Pérez Villalta"
+  },
+  {
+   "tipo": "birth",
+   "ini": 42398,
+   "fin": 42420
+  },
+  {
+   "tipo": "placeName",
+   "ini": 42398,
+   "fin": 42411,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Tarifa, Cádiz"
+  },
+  {
+   "tipo": "date",
+   "ini": 42416,
+   "fin": 42420,
+   "rasgos": {
+    "when": "1948"
+   },
+   "texto": "1948"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 42641,
+   "fin": 42723,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 42641,
+   "fin": 42645,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 42646,
+   "fin": 42690,
+   "texto": "Guillermo Pérez Villalta. Pinturas 2018-2020"
+  },
+  {
+   "tipo": "person",
+   "ini": 42646,
+   "fin": 42670,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guillermo Pérez Villalta"
+  },
+  {
+   "tipo": "persName",
+   "ini": 42646,
+   "fin": 42670,
+   "texto": "Guillermo Pérez Villalta"
+  },
+  {
+   "tipo": "institution",
+   "ini": 42692,
+   "fin": 42723,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería Fernández-Braso, Madrid"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 42717,
+   "fin": 42723,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 50096,
+   "fin": 50522,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 50108,
+   "fin": 50139,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería Fernández-Braso, Madrid"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 50133,
+   "fin": 50139,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "person",
+   "ini": 50157,
+   "fin": 50181,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Guillermo Pérez Villalta"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50157,
+   "fin": 50181,
+   "texto": "Guillermo Pérez Villalta"
+  },
+  {
+   "tipo": "person",
+   "ini": 50220,
+   "fin": 50239,
+   "rasgos": {
+    "role": "editor"
+   },
+   "texto": "Óscar Alonso Molina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50220,
+   "fin": 50239,
+   "texto": "Óscar Alonso Molina"
+  },
+  {
+   "tipo": "institution",
+   "ini": 50257,
+   "fin": 50280,
+   "rasgos": {
+    "type": "gallery",
+    "role": "catalogueEditor"
+   },
+   "texto": "Galería Fernández-Braso"
+  },
+  {
+   "tipo": "person",
+   "ini": 50332,
+   "fin": 50343,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Pablo Linés"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50332,
+   "fin": 50343,
+   "texto": "Pablo Linés"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50361,
+   "fin": 50380,
+   "texto": "Óscar Alonso Molina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50381,
+   "fin": 50395,
+   "texto": "Javier Sampalo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50396,
+   "fin": 50409,
+   "texto": "Fernando Boix"
+  },
+  {
+   "tipo": "persName",
+   "ini": 50410,
+   "fin": 50425,
+   "texto": "María Escribano"
+  },
+  {
+   "tipo": "institution",
+   "ini": 50427,
+   "fin": 50522,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Calle Villanueva, 30. 28001. Madrid\nwww.galeriafernandez-braso.com\nTeléfono: (+34) 91 575 98 17"
+  },
+  {
+   "tipo": "address",
+   "ini": 50427,
+   "fin": 50462,
+   "texto": "Calle Villanueva, 30. 28001. Madrid"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 50456,
+   "fin": 50462,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  }
+ ]
+}

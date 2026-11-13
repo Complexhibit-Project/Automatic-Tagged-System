@@ -1,0 +1,3976 @@
+{
+ "id": "cat_017_4_bill_jensen",
+ "nombre_original": "4. BILL JENSEN",
+ "longitud_texto": 23300,
+ "sha256_texto": "4397304d2c86de3e6f5b254f3853de7624946620458f5199424daba36f38835a",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 170,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 27,
+   "texto": "Bill Jensen, first etchings"
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 11,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bill Jensen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 11,
+   "texto": "Bill Jensen"
+  },
+  {
+   "tipo": "institution",
+   "ini": 30,
+   "fin": 54,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "the Museum\nof Modern Art"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 56,
+   "fin": 64,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "date",
+   "ini": 66,
+   "fin": 89,
+   "rasgos": {
+    "from": "1986-01-16",
+    "to": "1986-03-04"
+   },
+   "texto": "January 16March 4, 1986"
+  },
+  {
+   "tipo": "person",
+   "ini": 90,
+   "fin": 101,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Deborah Wye"
+  },
+  {
+   "tipo": "persName",
+   "ini": 90,
+   "fin": 101,
+   "texto": "Deborah Wye"
+  },
+  {
+   "tipo": "person",
+   "ini": 111,
+   "fin": 123,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Wye, Deborah"
+  },
+  {
+   "tipo": "persName",
+   "ini": 111,
+   "fin": 123,
+   "texto": "Wye, Deborah"
+  },
+  {
+   "tipo": "date",
+   "ini": 130,
+   "fin": 134,
+   "rasgos": {
+    "when": "1986"
+   },
+   "texto": "1986"
+  },
+  {
+   "tipo": "institution",
+   "ini": 146,
+   "fin": 170,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "The Museum of Modern Art"
+  },
+  {
+   "tipo": "institution",
+   "ini": 461,
+   "fin": 485,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "The Museum of Modern Art"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 487,
+   "fin": 781,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 487,
+   "fin": 501,
+   "texto": "FIRST ETCHINGS"
+  },
+  {
+   "tipo": "institution",
+   "ini": 503,
+   "fin": 527,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "The Museum of Modern Art"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 529,
+   "fin": 537,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "person",
+   "ini": 668,
+   "fin": 679,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bill Jensen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 668,
+   "fin": 679,
+   "texto": "Bill Jensen"
+  },
+  {
+   "tipo": "person",
+   "ini": 681,
+   "fin": 692,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bill Jensen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 681,
+   "fin": 692,
+   "texto": "Bill Jensen"
+  },
+  {
+   "tipo": "person",
+   "ini": 709,
+   "fin": 720,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Deborah Wye"
+  },
+  {
+   "tipo": "institution",
+   "ini": 722,
+   "fin": 746,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "The Museum of Modern Art"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 748,
+   "fin": 756,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "date",
+   "ini": 757,
+   "fin": 781,
+   "rasgos": {
+    "from": "1986-01-16",
+    "to": "1986-03-04"
+   },
+   "texto": "January 16- March4, 1986"
+  },
+  {
+   "tipo": "institution",
+   "ini": 818,
+   "fin": 842,
+   "rasgos": {
+    "type": "museum ",
+    "role": "organiser, host"
+   },
+   "texto": "The Museum of Modern Art"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 844,
+   "fin": 852,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "person",
+   "ini": 883,
+   "fin": 894,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bill Jensen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 883,
+   "fin": 894,
+   "texto": "Bill Jensen"
+  },
+  {
+   "tipo": "title",
+   "ini": 932,
+   "fin": 960,
+   "texto": "BILL JENSEN / FIRST ETCHINGS"
+  },
+  {
+   "tipo": "person",
+   "ini": 932,
+   "fin": 943,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "BILL JENSEN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 932,
+   "fin": 943,
+   "texto": "BILL JENSEN"
+  },
+  {
+   "tipo": "person",
+   "ini": 1015,
+   "fin": 1026,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bill Jensen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1015,
+   "fin": 1026,
+   "texto": "Bill Jensen"
+  },
+  {
+   "tipo": "person",
+   "ini": 2319,
+   "fin": 2359,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bill Jensen was bom in 1945 in Minnesota"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2319,
+   "fin": 2330,
+   "texto": "Bill Jensen"
+  },
+  {
+   "tipo": "birth",
+   "ini": 2342,
+   "fin": 2359
+  },
+  {
+   "tipo": "date",
+   "ini": 2342,
+   "fin": 2346,
+   "rasgos": {
+    "when": "1945"
+   },
+   "texto": "1945"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2350,
+   "fin": 2359,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Minnesota"
+  },
+  {
+   "tipo": "person",
+   "ini": 2881,
+   "fin": 2892,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bill Jensen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2881,
+   "fin": 2892,
+   "texto": "Bill Jensen"
+  },
+  {
+   "tipo": "person",
+   "ini": 5248,
+   "fin": 5254,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jensen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5248,
+   "fin": 5254,
+   "texto": "Jensen"
+  },
+  {
+   "tipo": "person",
+   "ini": 6242,
+   "fin": 6248,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jensen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6242,
+   "fin": 6248,
+   "texto": "Jensen"
+  },
+  {
+   "tipo": "person",
+   "ini": 6680,
+   "fin": 6686,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jensen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6680,
+   "fin": 6686,
+   "texto": "Jensen"
+  },
+  {
+   "tipo": "person",
+   "ini": 8467,
+   "fin": 8473,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jensen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8467,
+   "fin": 8473,
+   "texto": "Jensen"
+  },
+  {
+   "tipo": "person",
+   "ini": 9504,
+   "fin": 9510,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jensen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9504,
+   "fin": 9510,
+   "texto": "Jensen"
+  },
+  {
+   "tipo": "person",
+   "ini": 12048,
+   "fin": 12054,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jensen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12048,
+   "fin": 12054,
+   "texto": "Jensen"
+  },
+  {
+   "tipo": "person",
+   "ini": 12377,
+   "fin": 12383,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jensen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12377,
+   "fin": 12383,
+   "texto": "Jensen"
+  },
+  {
+   "tipo": "person",
+   "ini": 13021,
+   "fin": 13032,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bill Jensen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13021,
+   "fin": 13032,
+   "texto": "Bill Jensen"
+  },
+  {
+   "tipo": "person",
+   "ini": 13274,
+   "fin": 13278,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bill"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13274,
+   "fin": 13278,
+   "texto": "Bill"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 14219,
+   "fin": 20698
+  },
+  {
+   "tipo": "work",
+   "ini": 14957,
+   "fin": 15120,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "1. Studio. (1983-84.) Published 1984. Etching, aquatint, drypoint,\nand roulette, 7 x 5\" (17.8 x 12.7 cm). The Museum of\nModern Art, New York. Gift of Emily Landau."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14957,
+   "fin": 15120
+  },
+  {
+   "tipo": "title",
+   "ini": 14960,
+   "fin": 14966,
+   "texto": "Studio"
+  },
+  {
+   "tipo": "date",
+   "ini": 14969,
+   "fin": 14976,
+   "rasgos": {
+    "from": "1983",
+    "to": "1984"
+   },
+   "texto": "1983-84"
+  },
+  {
+   "tipo": "date",
+   "ini": 14989,
+   "fin": 14993,
+   "rasgos": {
+    "when": "1984"
+   },
+   "texto": "1984"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14995,
+   "fin": 15036,
+   "rasgos": {
+    "type": "etching, aquatint, drypoint, roulette"
+   },
+   "texto": "Etching, aquatint, drypoint,\nand roulette"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15038,
+   "fin": 15044,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "7 x 5\""
+  },
+  {
+   "tipo": "height",
+   "ini": 15038,
+   "fin": 15039,
+   "texto": "7"
+  },
+  {
+   "tipo": "width",
+   "ini": 15042,
+   "fin": 15044,
+   "texto": "5\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15046,
+   "fin": 15060,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "17.8 x 12.7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15046,
+   "fin": 15050,
+   "texto": "17.8"
+  },
+  {
+   "tipo": "width",
+   "ini": 15053,
+   "fin": 15057,
+   "texto": "12.7"
+  },
+  {
+   "tipo": "institution",
+   "ini": 15063,
+   "fin": 15087,
+   "rasgos": {
+    "type": "museum",
+    "role": "owner, lender"
+   },
+   "texto": "The Museum of\nModern Art"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 15089,
+   "fin": 15097,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15107,
+   "fin": 15119,
+   "texto": "Emily Landau"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 15123,
+   "fin": 19859,
+   "rasgos": {
+    "size": "11",
+    "type": "engraving"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 15129,
+   "fin": 15136,
+   "texto": "Endless"
+  },
+  {
+   "tipo": "date",
+   "ini": 15148,
+   "fin": 15152,
+   "rasgos": {
+    "when": "1985"
+   },
+   "texto": "1985"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 15154,
+   "fin": 15184
+  },
+  {
+   "tipo": "institution",
+   "ini": 15186,
+   "fin": 15210,
+   "rasgos": {
+    "type": "museum",
+    "role": "lender, owner"
+   },
+   "texto": "The\nMuseum of Modern Art"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 15212,
+   "fin": 15220,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "New York"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15230,
+   "fin": 15242,
+   "texto": "Emily Landau"
+  },
+  {
+   "tipo": "work",
+   "ini": 15245,
+   "fin": 15317,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "2. Title page. Etching, drypoint, and roulette,\n7 x 5\" (17.8 x 12.7 cm)."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15245,
+   "fin": 15317
+  },
+  {
+   "tipo": "title",
+   "ini": 15248,
+   "fin": 15258,
+   "texto": "Title page"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15260,
+   "fin": 15291,
+   "rasgos": {
+    "type": "etching, drypoint, roulette"
+   },
+   "texto": "Etching, drypoint, and roulette"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15293,
+   "fin": 15299,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "7 x 5\""
+  },
+  {
+   "tipo": "height",
+   "ini": 15293,
+   "fin": 15294,
+   "texto": "7"
+  },
+  {
+   "tipo": "width",
+   "ini": 15297,
+   "fin": 15299,
+   "texto": "5\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15301,
+   "fin": 15315,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "17.8 x 12.7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15301,
+   "fin": 15305,
+   "texto": "17.8"
+  },
+  {
+   "tipo": "width",
+   "ini": 15308,
+   "fin": 15312,
+   "texto": "12.7"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 15319,
+   "fin": 15532,
+   "rasgos": {
+    "size": "5",
+    "type": "engraving"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15319,
+   "fin": 15532
+  },
+  {
+   "tipo": "title",
+   "ini": 15322,
+   "fin": 15327,
+   "texto": "Angel"
+  },
+  {
+   "tipo": "date",
+   "ini": 15330,
+   "fin": 15337,
+   "rasgos": {
+    "from": "1983",
+    "to": "1985"
+   },
+   "texto": "1983-85"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15340,
+   "fin": 15360,
+   "rasgos": {
+    "type": "etching, aquatint"
+   },
+   "texto": "Etching and aquatint"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15362,
+   "fin": 15368,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "7 x 5\""
+  },
+  {
+   "tipo": "height",
+   "ini": 15362,
+   "fin": 15363,
+   "texto": "7"
+  },
+  {
+   "tipo": "width",
+   "ini": 15366,
+   "fin": 15368,
+   "texto": "5\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15370,
+   "fin": 15384,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "17.8 x 12.7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15370,
+   "fin": 15374,
+   "texto": "17.8"
+  },
+  {
+   "tipo": "width",
+   "ini": 15377,
+   "fin": 15381,
+   "texto": "12.7"
+  },
+  {
+   "tipo": "work",
+   "ini": 15387,
+   "fin": 15407,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "a. State 1. Etching."
+  },
+  {
+   "tipo": "title",
+   "ini": 15390,
+   "fin": 15397,
+   "texto": "State 1"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15399,
+   "fin": 15406,
+   "rasgos": {
+    "type": "etching"
+   },
+   "texto": "Etching"
+  },
+  {
+   "tipo": "work",
+   "ini": 15408,
+   "fin": 15428,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "b. State 2. Etching."
+  },
+  {
+   "tipo": "title",
+   "ini": 15411,
+   "fin": 15418,
+   "texto": "State 2"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15420,
+   "fin": 15427,
+   "rasgos": {
+    "type": "etching"
+   },
+   "texto": "Etching"
+  },
+  {
+   "tipo": "work",
+   "ini": 15429,
+   "fin": 15449,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "c. State 3. Etching."
+  },
+  {
+   "tipo": "title",
+   "ini": 15432,
+   "fin": 15439,
+   "texto": "State 3"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15441,
+   "fin": 15448,
+   "rasgos": {
+    "type": "etching"
+   },
+   "texto": "Etching"
+  },
+  {
+   "tipo": "work",
+   "ini": 15450,
+   "fin": 15483,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "d. State 4. Etching and aquatint."
+  },
+  {
+   "tipo": "title",
+   "ini": 15453,
+   "fin": 15460,
+   "texto": "State 4"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15462,
+   "fin": 15482,
+   "rasgos": {
+    "type": "etching, aquatint"
+   },
+   "texto": "Etching and aquatint"
+  },
+  {
+   "tipo": "work",
+   "ini": 15484,
+   "fin": 15532,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "e. State 4. Etching and aquatint on chine colle."
+  },
+  {
+   "tipo": "title",
+   "ini": 15487,
+   "fin": 15494,
+   "texto": "State 4"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15496,
+   "fin": 15531,
+   "rasgos": {
+    "type": "etching, aquatint"
+   },
+   "texto": "Etching and aquatint on chine colle"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 15534,
+   "fin": 15776,
+   "rasgos": {
+    "size": "5",
+    "type": "engraving"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15534,
+   "fin": 15776
+  },
+  {
+   "tipo": "title",
+   "ini": 15537,
+   "fin": 15541,
+   "texto": "Mute"
+  },
+  {
+   "tipo": "date",
+   "ini": 15544,
+   "fin": 15551,
+   "rasgos": {
+    "from": "1983",
+    "to": "1985"
+   },
+   "texto": "1983-85"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15554,
+   "fin": 15575,
+   "rasgos": {
+    "type": "drypoint, aquatint"
+   },
+   "texto": "Drypoint and aquatint"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15577,
+   "fin": 15583,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "7 x 5\""
+  },
+  {
+   "tipo": "height",
+   "ini": 15577,
+   "fin": 15578,
+   "texto": "7"
+  },
+  {
+   "tipo": "width",
+   "ini": 15581,
+   "fin": 15583,
+   "texto": "5\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15585,
+   "fin": 15599,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "17.8 x 12.7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15585,
+   "fin": 15589,
+   "texto": "17.8"
+  },
+  {
+   "tipo": "width",
+   "ini": 15592,
+   "fin": 15596,
+   "texto": "12.7"
+  },
+  {
+   "tipo": "work",
+   "ini": 15602,
+   "fin": 15623,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "a. State 1. Drypoint."
+  },
+  {
+   "tipo": "title",
+   "ini": 15605,
+   "fin": 15612,
+   "texto": "State 1"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15614,
+   "fin": 15622,
+   "rasgos": {
+    "type": "drypoint"
+   },
+   "texto": "Drypoint"
+  },
+  {
+   "tipo": "work",
+   "ini": 15624,
+   "fin": 15671,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "b. State 3. Drypoint with selective plate-tone."
+  },
+  {
+   "tipo": "title",
+   "ini": 15627,
+   "fin": 15634,
+   "texto": "State 3"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15636,
+   "fin": 15670,
+   "rasgos": {
+    "type": "drypoint, plateTone"
+   },
+   "texto": "Drypoint with selective plate-tone"
+  },
+  {
+   "tipo": "work",
+   "ini": 15672,
+   "fin": 15706,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "c. State 4. Drypoint and aquatint."
+  },
+  {
+   "tipo": "title",
+   "ini": 15675,
+   "fin": 15682,
+   "texto": "State 4"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15684,
+   "fin": 15705,
+   "rasgos": {
+    "type": "drypoint, aquatint"
+   },
+   "texto": "Drypoint and aquatint"
+  },
+  {
+   "tipo": "work",
+   "ini": 15707,
+   "fin": 15741,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "d. State 5. Drypoint and aquatint."
+  },
+  {
+   "tipo": "title",
+   "ini": 15710,
+   "fin": 15717,
+   "texto": "State 5"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15719,
+   "fin": 15740,
+   "rasgos": {
+    "type": "drypoint, aquatint"
+   },
+   "texto": "Drypoint and aquatint"
+  },
+  {
+   "tipo": "work",
+   "ini": 15742,
+   "fin": 15776,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "e. State 6. Drypoint and aquatint."
+  },
+  {
+   "tipo": "title",
+   "ini": 15745,
+   "fin": 15752,
+   "texto": "State 6"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15754,
+   "fin": 15775,
+   "rasgos": {
+    "type": "drypoint, aquatint"
+   },
+   "texto": "Drypoint and aquatint"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 15778,
+   "fin": 15960,
+   "rasgos": {
+    "size": "3",
+    "type": "engraving"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15778,
+   "fin": 15960
+  },
+  {
+   "tipo": "title",
+   "ini": 15781,
+   "fin": 15789,
+   "texto": "Melville"
+  },
+  {
+   "tipo": "date",
+   "ini": 15792,
+   "fin": 15799,
+   "rasgos": {
+    "from": "1983",
+    "to": "1985"
+   },
+   "texto": "1983-85"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15802,
+   "fin": 15822,
+   "rasgos": {
+    "type": "etching, aquatint"
+   },
+   "texto": "Etching and aquatint"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15824,
+   "fin": 15830,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "7 x 5\""
+  },
+  {
+   "tipo": "height",
+   "ini": 15824,
+   "fin": 15825,
+   "texto": "7"
+  },
+  {
+   "tipo": "width",
+   "ini": 15828,
+   "fin": 15830,
+   "texto": "5\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15832,
+   "fin": 15846,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "17.8 x 12.7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15832,
+   "fin": 15836,
+   "texto": "17.8"
+  },
+  {
+   "tipo": "width",
+   "ini": 15839,
+   "fin": 15843,
+   "texto": "12.7"
+  },
+  {
+   "tipo": "work",
+   "ini": 15849,
+   "fin": 15869,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "a. State 1. Etching."
+  },
+  {
+   "tipo": "title",
+   "ini": 15852,
+   "fin": 15859,
+   "texto": "State 1"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15861,
+   "fin": 15868,
+   "rasgos": {
+    "type": "etching"
+   },
+   "texto": "Etching"
+  },
+  {
+   "tipo": "work",
+   "ini": 15870,
+   "fin": 15908,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "b. State 1. Etching with pencil notes."
+  },
+  {
+   "tipo": "title",
+   "ini": 15873,
+   "fin": 15880,
+   "texto": "State 1"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15882,
+   "fin": 15907,
+   "rasgos": {
+    "type": "etching, pencil"
+   },
+   "texto": "Etching with pencil notes"
+  },
+  {
+   "tipo": "work",
+   "ini": 15909,
+   "fin": 15960,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "c. State 4. Etching and aquatint, printed in color."
+  },
+  {
+   "tipo": "title",
+   "ini": 15912,
+   "fin": 15919,
+   "texto": "State 4"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15921,
+   "fin": 15959,
+   "rasgos": {
+    "type": "etching"
+   },
+   "texto": "Etching and aquatint, printed in color"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 15962,
+   "fin": 16551,
+   "rasgos": {
+    "size": "5",
+    "type": "engraving"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15962,
+   "fin": 16551
+  },
+  {
+   "tipo": "title",
+   "ini": 15965,
+   "fin": 15972,
+   "texto": "Mussels"
+  },
+  {
+   "tipo": "date",
+   "ini": 15975,
+   "fin": 15982,
+   "rasgos": {
+    "from": "1983",
+    "to": "1985"
+   },
+   "texto": "1983-85"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15985,
+   "fin": 16030,
+   "rasgos": {
+    "type": "solventLift, aquatint, etching, drypoint"
+   },
+   "texto": "Solvent-lift, aquatint, etching, and\ndrypoint"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16032,
+   "fin": 16038,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "7 x 5\""
+  },
+  {
+   "tipo": "height",
+   "ini": 16032,
+   "fin": 16033,
+   "texto": "7"
+  },
+  {
+   "tipo": "width",
+   "ini": 16036,
+   "fin": 16038,
+   "texto": "5\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16040,
+   "fin": 16054,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "17.8 x 12.7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16040,
+   "fin": 16044,
+   "texto": "17.8"
+  },
+  {
+   "tipo": "width",
+   "ini": 16047,
+   "fin": 16051,
+   "texto": "12.7"
+  },
+  {
+   "tipo": "work",
+   "ini": 16057,
+   "fin": 16105,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "a. State 1. Solvent-lift, aquatint, and etching."
+  },
+  {
+   "tipo": "title",
+   "ini": 16060,
+   "fin": 16067,
+   "texto": "State 1"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16069,
+   "fin": 16104,
+   "rasgos": {
+    "type": "solventLift, aquatint, etching"
+   },
+   "texto": "Solvent-lift, aquatint, and etching"
+  },
+  {
+   "tipo": "work",
+   "ini": 16106,
+   "fin": 16221,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "b. State 2. Solvent-lift, aquatint, etching, and drypoint with\nink-wash additions, 12-15/16 x 10\" (32.8 x 25.4 cm)."
+  },
+  {
+   "tipo": "title",
+   "ini": 16109,
+   "fin": 16116,
+   "texto": "State 2"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16118,
+   "fin": 16187,
+   "rasgos": {
+    "type": "solventLift, aquatint, etching, drypoint, inkWash"
+   },
+   "texto": "Solvent-lift, aquatint, etching, and drypoint with\nink-wash additions"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16189,
+   "fin": 16203,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "12-15/16 x 10\""
+  },
+  {
+   "tipo": "height",
+   "ini": 16189,
+   "fin": 16197,
+   "texto": "12-15/16"
+  },
+  {
+   "tipo": "width",
+   "ini": 16200,
+   "fin": 16203,
+   "texto": "10\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16205,
+   "fin": 16219,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32.8 x 25.4 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16205,
+   "fin": 16209,
+   "texto": "32.8"
+  },
+  {
+   "tipo": "width",
+   "ini": 16212,
+   "fin": 16216,
+   "texto": "25.4"
+  },
+  {
+   "tipo": "work",
+   "ini": 16222,
+   "fin": 16354,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "c. State 3. Solvent-lift, aquatint, etching, and drypoint with\ngouache additions and ink notes, 14-9/16 x 11-5/16\"\n(36.9 x 28.7 cm)."
+  },
+  {
+   "tipo": "title",
+   "ini": 16225,
+   "fin": 16232,
+   "texto": "State 3"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16234,
+   "fin": 16316,
+   "rasgos": {
+    "type": "solventLift, aquatint, etching, drypoint, gouache, ink"
+   },
+   "texto": "Solvent-lift, aquatint, etching, and drypoint with\ngouache additions and ink notes"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16318,
+   "fin": 16336,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "14-9/16 x 11-5/16\""
+  },
+  {
+   "tipo": "height",
+   "ini": 16318,
+   "fin": 16325,
+   "texto": "14-9/16"
+  },
+  {
+   "tipo": "width",
+   "ini": 16328,
+   "fin": 16336,
+   "texto": "11-5/16\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16338,
+   "fin": 16352,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "36.9 x 28.7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16338,
+   "fin": 16342,
+   "texto": "36.9"
+  },
+  {
+   "tipo": "width",
+   "ini": 16345,
+   "fin": 16349,
+   "texto": "28.7"
+  },
+  {
+   "tipo": "work",
+   "ini": 16355,
+   "fin": 16438,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "d. Spit-bite template. Pastel chalk and felt pen,\n12-1/16x 9-1/16\"(30.6 x 23.0 cm)."
+  },
+  {
+   "tipo": "title",
+   "ini": 16358,
+   "fin": 16376,
+   "texto": "Spit-bite template"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16378,
+   "fin": 16403,
+   "rasgos": {
+    "type": "pastel, feltPen"
+   },
+   "texto": "Pastel chalk and felt pen"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16405,
+   "fin": 16421,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "12-1/16x 9-1/16\""
+  },
+  {
+   "tipo": "height",
+   "ini": 16405,
+   "fin": 16412,
+   "texto": "12-1/16"
+  },
+  {
+   "tipo": "width",
+   "ini": 16414,
+   "fin": 16421,
+   "texto": "9-1/16\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16422,
+   "fin": 16436,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30.6 x 23.0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16422,
+   "fin": 16426,
+   "texto": "30.6"
+  },
+  {
+   "tipo": "width",
+   "ini": 16429,
+   "fin": 16433,
+   "texto": "23.0"
+  },
+  {
+   "tipo": "work",
+   "ini": 16439,
+   "fin": 16551,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "e. State 5. Solvent-lift, aquatint, etching, and drypoint with\npencil notes, 17-5/8 x 14-3/16\" (44.8 x 36.0 cm)."
+  },
+  {
+   "tipo": "title",
+   "ini": 16442,
+   "fin": 16449,
+   "texto": "State 5"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16451,
+   "fin": 16514,
+   "rasgos": {
+    "type": "solventLift, aquatint, etching, drypoint, pencil"
+   },
+   "texto": "Solvent-lift, aquatint, etching, and drypoint with\npencil notes"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16516,
+   "fin": 16533,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "17-5/8 x 14-3/16\""
+  },
+  {
+   "tipo": "height",
+   "ini": 16516,
+   "fin": 16522,
+   "texto": "17-5/8"
+  },
+  {
+   "tipo": "width",
+   "ini": 16525,
+   "fin": 16533,
+   "texto": "14-3/16\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16535,
+   "fin": 16549,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "44.8 x 36.0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16535,
+   "fin": 16539,
+   "texto": "44.8"
+  },
+  {
+   "tipo": "width",
+   "ini": 16542,
+   "fin": 16546,
+   "texto": "36.0"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 16553,
+   "fin": 16923,
+   "rasgos": {
+    "size": "5",
+    "type": "engraving"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16553,
+   "fin": 16923
+  },
+  {
+   "tipo": "title",
+   "ini": 16556,
+   "fin": 16563,
+   "texto": "Ribbons"
+  },
+  {
+   "tipo": "date",
+   "ini": 16566,
+   "fin": 16573,
+   "rasgos": {
+    "from": "1983",
+    "to": "1985"
+   },
+   "texto": "1983-85"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16576,
+   "fin": 16628,
+   "rasgos": {
+    "type": "etching, openBite, aquatint, drypoint, roulette"
+   },
+   "texto": "Etching, open-bite, aquatint, drypoint,\nand roulette"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16630,
+   "fin": 16636,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "7 x 5\""
+  },
+  {
+   "tipo": "height",
+   "ini": 16630,
+   "fin": 16631,
+   "texto": "7"
+  },
+  {
+   "tipo": "width",
+   "ini": 16634,
+   "fin": 16636,
+   "texto": "5\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16638,
+   "fin": 16652,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "17.8 x 12.7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16638,
+   "fin": 16642,
+   "texto": "17.8"
+  },
+  {
+   "tipo": "width",
+   "ini": 16645,
+   "fin": 16649,
+   "texto": "12.7"
+  },
+  {
+   "tipo": "work",
+   "ini": 16655,
+   "fin": 16702,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "a. State 1. Open-bite, drypoint, and engraving."
+  },
+  {
+   "tipo": "title",
+   "ini": 16658,
+   "fin": 16665,
+   "texto": "State 1"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16667,
+   "fin": 16701,
+   "rasgos": {
+    "type": "openBite, drypoint, engraving"
+   },
+   "texto": "Open-bite, drypoint, and engraving"
+  },
+  {
+   "tipo": "work",
+   "ini": 16703,
+   "fin": 16780,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "b. State 1. Open-bite, drypoint, and engraving with\nink wash and pen-and-ink."
+  },
+  {
+   "tipo": "title",
+   "ini": 16706,
+   "fin": 16713,
+   "texto": "State 1"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16715,
+   "fin": 16779,
+   "rasgos": {
+    "type": "openBite, drypoint, engraving, inkWash, pen"
+   },
+   "texto": "Open-bite, drypoint, and engraving with\nink wash and pen-and-ink"
+  },
+  {
+   "tipo": "work",
+   "ini": 16781,
+   "fin": 16828,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "c. State 2. Open-bite, drypoint, and engraving."
+  },
+  {
+   "tipo": "title",
+   "ini": 16784,
+   "fin": 16791,
+   "texto": "State 2"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16793,
+   "fin": 16827,
+   "rasgos": {
+    "type": "openBite, drypoint, engraving"
+   },
+   "texto": "Open-bite, drypoint, and engraving"
+  },
+  {
+   "tipo": "work",
+   "ini": 16829,
+   "fin": 16876,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "d. State 4. Open-bite, drypoint, and engraving."
+  },
+  {
+   "tipo": "title",
+   "ini": 16832,
+   "fin": 16839,
+   "texto": "State 4"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16841,
+   "fin": 16875,
+   "rasgos": {
+    "type": "openBite, drypoint, engraving"
+   },
+   "texto": "Open-bite, drypoint, and engraving"
+  },
+  {
+   "tipo": "work",
+   "ini": 16877,
+   "fin": 16923,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "e. State 5. Open-bite, drypoint, and aquatint."
+  },
+  {
+   "tipo": "title",
+   "ini": 16880,
+   "fin": 16887,
+   "texto": "State 5"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16889,
+   "fin": 16922,
+   "rasgos": {
+    "type": "openBite, drypoint, aquatint"
+   },
+   "texto": "Open-bite, drypoint, and aquatint"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 16925,
+   "fin": 17263,
+   "rasgos": {
+    "size": "4",
+    "type": "engraving"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16925,
+   "fin": 17263
+  },
+  {
+   "tipo": "title",
+   "ini": 16928,
+   "fin": 16935,
+   "texto": "Pilgrim"
+  },
+  {
+   "tipo": "date",
+   "ini": 16938,
+   "fin": 16945,
+   "rasgos": {
+    "from": "1983",
+    "to": "1985"
+   },
+   "texto": "1983-85"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16948,
+   "fin": 16986,
+   "rasgos": {
+    "type": "etching, aquatint"
+   },
+   "texto": "Etching and aquatint, printed in color"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16988,
+   "fin": 16994,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "7 x 5\""
+  },
+  {
+   "tipo": "height",
+   "ini": 16988,
+   "fin": 16989,
+   "texto": "7"
+  },
+  {
+   "tipo": "width",
+   "ini": 16992,
+   "fin": 16994,
+   "texto": "5\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16996,
+   "fin": 17010,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "17.8 x 12.7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16996,
+   "fin": 17000,
+   "texto": "17.8"
+  },
+  {
+   "tipo": "width",
+   "ini": 17003,
+   "fin": 17007,
+   "texto": "12.7"
+  },
+  {
+   "tipo": "work",
+   "ini": 17013,
+   "fin": 17042,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "a. Plate 1, State 1. Etching."
+  },
+  {
+   "tipo": "title",
+   "ini": 17016,
+   "fin": 17032,
+   "texto": "Plate 1, State 1"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17034,
+   "fin": 17041,
+   "rasgos": {
+    "type": "etching"
+   },
+   "texto": "Etching"
+  },
+  {
+   "tipo": "work",
+   "ini": 17043,
+   "fin": 17112,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "b. Plate 1, State 1 with Plate 2, State 2. Etching, printed\nin color."
+  },
+  {
+   "tipo": "title",
+   "ini": 17046,
+   "fin": 17084,
+   "texto": "Plate 1, State 1 with Plate 2, State 2"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17086,
+   "fin": 17111,
+   "rasgos": {
+    "type": "etching"
+   },
+   "texto": "Etching, printed\nin color"
+  },
+  {
+   "tipo": "work",
+   "ini": 17113,
+   "fin": 17202,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "c. Plate 1, State 1. Etching with ink-wash additions,\n12-7/8 x 9-15/16\" (32.6 x 25.7 cm)."
+  },
+  {
+   "tipo": "title",
+   "ini": 17116,
+   "fin": 17132,
+   "texto": "Plate 1, State 1"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17134,
+   "fin": 17165,
+   "rasgos": {
+    "type": "etching, inkWash"
+   },
+   "texto": "Etching with ink-wash additions"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17167,
+   "fin": 17184,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "12-7/8 x 9-15/16\""
+  },
+  {
+   "tipo": "height",
+   "ini": 17167,
+   "fin": 17173,
+   "texto": "12-7/8"
+  },
+  {
+   "tipo": "width",
+   "ini": 17176,
+   "fin": 17184,
+   "texto": "9-15/16\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17186,
+   "fin": 17200,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32.6 x 25.7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17186,
+   "fin": 17190,
+   "texto": "32.6"
+  },
+  {
+   "tipo": "width",
+   "ini": 17193,
+   "fin": 17197,
+   "texto": "25.7"
+  },
+  {
+   "tipo": "work",
+   "ini": 17203,
+   "fin": 17263,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "d. Plate 2, State 2. Etching and aquatint, printed in color."
+  },
+  {
+   "tipo": "title",
+   "ini": 17206,
+   "fin": 17223,
+   "texto": "Plate 2, State 2."
+  },
+  {
+   "tipo": "technique",
+   "ini": 17224,
+   "fin": 17262,
+   "rasgos": {
+    "type": "etching, aquatint"
+   },
+   "texto": "Etching and aquatint, printed in color"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 17265,
+   "fin": 17771,
+   "rasgos": {
+    "size": "7",
+    "type": "engraving"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17265,
+   "fin": 17771
+  },
+  {
+   "tipo": "title",
+   "ini": 17268,
+   "fin": 17274,
+   "texto": "Daniel"
+  },
+  {
+   "tipo": "date",
+   "ini": 17277,
+   "fin": 17284,
+   "rasgos": {
+    "from": "1983",
+    "to": "1985"
+   },
+   "texto": "1983-85"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17287,
+   "fin": 17340,
+   "rasgos": {
+    "type": "etching, aquatint, drypoint, scraping, burnishing"
+   },
+   "texto": "Etching, aquatint, drypoint, scraping,\nand burnishing"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17342,
+   "fin": 17348,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "5 x 7\""
+  },
+  {
+   "tipo": "height",
+   "ini": 17342,
+   "fin": 17343,
+   "texto": "5"
+  },
+  {
+   "tipo": "width",
+   "ini": 17346,
+   "fin": 17348,
+   "texto": "7\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17350,
+   "fin": 17364,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "12.7 x 17.8 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17350,
+   "fin": 17354,
+   "texto": "12.7"
+  },
+  {
+   "tipo": "width",
+   "ini": 17357,
+   "fin": 17361,
+   "texto": "17.8"
+  },
+  {
+   "tipo": "work",
+   "ini": 17367,
+   "fin": 17388,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "a. State 1. Aquatint."
+  },
+  {
+   "tipo": "title",
+   "ini": 17370,
+   "fin": 17377,
+   "texto": "State 1"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17379,
+   "fin": 17387,
+   "rasgos": {
+    "type": "aquatint"
+   },
+   "texto": "Aquatint"
+  },
+  {
+   "tipo": "work",
+   "ini": 17389,
+   "fin": 17410,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "b. State 3. Aquatint."
+  },
+  {
+   "tipo": "title",
+   "ini": 17392,
+   "fin": 17399,
+   "texto": "State 3"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17401,
+   "fin": 17409,
+   "rasgos": {
+    "type": "aquatint"
+   },
+   "texto": "Aquatint"
+  },
+  {
+   "tipo": "work",
+   "ini": 17411,
+   "fin": 17458,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "c. State 6. Aquatint, scraping, and burnishing."
+  },
+  {
+   "tipo": "title",
+   "ini": 17414,
+   "fin": 17421,
+   "texto": "State 6"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17423,
+   "fin": 17457,
+   "rasgos": {
+    "type": "aquatint, scraping, burnishing"
+   },
+   "texto": "Aquatint, scraping, and burnishing"
+  },
+  {
+   "tipo": "work",
+   "ini": 17459,
+   "fin": 17516,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "d. State 8. Aquatint, drypoint, scraping, and burnishing."
+  },
+  {
+   "tipo": "title",
+   "ini": 17462,
+   "fin": 17469,
+   "texto": "State 8"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17471,
+   "fin": 17515,
+   "rasgos": {
+    "type": "aquatint, drypoing, scraping, burnishing"
+   },
+   "texto": "Aquatint, drypoint, scraping, and burnishing"
+  },
+  {
+   "tipo": "work",
+   "ini": 17517,
+   "fin": 17575,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "e. State 11. Aquatint, drypoint, scraping, and burnishing."
+  },
+  {
+   "tipo": "title",
+   "ini": 17520,
+   "fin": 17528,
+   "texto": "State 11"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17530,
+   "fin": 17574,
+   "rasgos": {
+    "type": "aquatint, drypoint, scraping, burnishing"
+   },
+   "texto": "Aquatint, drypoint, scraping, and burnishing"
+  },
+  {
+   "tipo": "work",
+   "ini": 17576,
+   "fin": 17645,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "f. State 6. Aquatint, scraping, and burnishing with\npencil additions."
+  },
+  {
+   "tipo": "title",
+   "ini": 17579,
+   "fin": 17586,
+   "texto": "State 6"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17588,
+   "fin": 17644,
+   "rasgos": {
+    "type": "aquatint, scraping, burnishing, pencil"
+   },
+   "texto": "Aquatint, scraping, and burnishing with\npencil additions"
+  },
+  {
+   "tipo": "work",
+   "ini": 17646,
+   "fin": 17771,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "g. State 13. Aquatint, drypoint, scraping, and burnishing\nwith ink-wash and gouache additions, 10-1/2 x 15\"\n(26.8 x 38.1 cm)."
+  },
+  {
+   "tipo": "title",
+   "ini": 17649,
+   "fin": 17657,
+   "texto": "State 13"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17659,
+   "fin": 17739,
+   "rasgos": {
+    "type": "aquatint, drypoint, scraping, burnishing, inkWash, gouache"
+   },
+   "texto": "Aquatint, drypoint, scraping, and burnishing\nwith ink-wash and gouache additions"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17741,
+   "fin": 17753,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "10-1/2 x 15\""
+  },
+  {
+   "tipo": "height",
+   "ini": 17741,
+   "fin": 17747,
+   "texto": "10-1/2"
+  },
+  {
+   "tipo": "width",
+   "ini": 17750,
+   "fin": 17753,
+   "texto": "15\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17755,
+   "fin": 17769,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "26.8 x 38.1 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17755,
+   "fin": 17759,
+   "texto": "26.8"
+  },
+  {
+   "tipo": "width",
+   "ini": 17762,
+   "fin": 17766,
+   "texto": "38.1"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 17773,
+   "fin": 18241,
+   "rasgos": {
+    "size": "4",
+    "type": "engraving"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17773,
+   "fin": 18241
+  },
+  {
+   "tipo": "title",
+   "ini": 17777,
+   "fin": 17787,
+   "texto": "Good Earth"
+  },
+  {
+   "tipo": "date",
+   "ini": 17790,
+   "fin": 17797,
+   "rasgos": {
+    "from": "1984",
+    "to": "1985"
+   },
+   "texto": "1984-85"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17800,
+   "fin": 17848,
+   "rasgos": {
+    "type": "sugarLift, aquatint, drypoint"
+   },
+   "texto": "Sugar-lift, aquatint, drypoint,\nprinted in color"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17850,
+   "fin": 17856,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "7 x 5\""
+  },
+  {
+   "tipo": "height",
+   "ini": 17850,
+   "fin": 17851,
+   "texto": "7"
+  },
+  {
+   "tipo": "width",
+   "ini": 17854,
+   "fin": 17856,
+   "texto": "5\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17858,
+   "fin": 17872,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "17.8 x 12.7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17858,
+   "fin": 17862,
+   "texto": "17.8"
+  },
+  {
+   "tipo": "width",
+   "ini": 17865,
+   "fin": 17869,
+   "texto": "12.7"
+  },
+  {
+   "tipo": "work",
+   "ini": 17875,
+   "fin": 17920,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "a. Plate 1, State 1. Sugar-lift and aquatint."
+  },
+  {
+   "tipo": "title",
+   "ini": 17878,
+   "fin": 17894,
+   "texto": "Plate 1, State 1"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17896,
+   "fin": 17919,
+   "rasgos": {
+    "type": "sugarLift, aquatint"
+   },
+   "texto": "Sugar-lift and aquatint"
+  },
+  {
+   "tipo": "work",
+   "ini": 17921,
+   "fin": 18002,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "b. Plate 1, State 1. Sugar-lift and aquatint with\npen-and-ink and wash additions."
+  },
+  {
+   "tipo": "title",
+   "ini": 17924,
+   "fin": 17940,
+   "texto": "Plate 1, State 1"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17942,
+   "fin": 18001,
+   "rasgos": {
+    "type": "sugarLift, aquatint, pen, inkWash"
+   },
+   "texto": "Sugar-lift and aquatint with\npen-and-ink and wash additions"
+  },
+  {
+   "tipo": "work",
+   "ini": 18003,
+   "fin": 18059,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "c. Plate 2, State 1. Sugar-lift, aquatint, and drypoint."
+  },
+  {
+   "tipo": "title",
+   "ini": 18006,
+   "fin": 18022,
+   "texto": "Plate 2, State 1"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18024,
+   "fin": 18058,
+   "rasgos": {
+    "type": "sugarLift, aquatint, drypoint"
+   },
+   "texto": "Sugar-lift, aquatint, and drypoint"
+  },
+  {
+   "tipo": "work",
+   "ini": 18060,
+   "fin": 18241,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "d. Plate 1, State 2 with Plate 2, State 2. Sugar-lift,\naquatint, and drypoint with etching-ink and ink-wash\nadditions and notes in ink and pencil,\n16-1/4 x 12-3/8\" (41.0 x 31.5 cm)."
+  },
+  {
+   "tipo": "title",
+   "ini": 18063,
+   "fin": 18101,
+   "texto": "Plate 1, State 2 with Plate 2, State 2"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18103,
+   "fin": 18205,
+   "rasgos": {
+    "type": "sugarLift, aquatint, drypoint, etching, inkWash, pencil"
+   },
+   "texto": "Sugar-lift,\naquatint, and drypoint with etching-ink and ink-wash\nadditions and notes in ink and pencil"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18207,
+   "fin": 18223,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "16-1/4 x 12-3/8\""
+  },
+  {
+   "tipo": "height",
+   "ini": 18207,
+   "fin": 18213,
+   "texto": "16-1/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 18216,
+   "fin": 18223,
+   "texto": "12-3/8\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18225,
+   "fin": 18239,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41.0 x 31.5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18225,
+   "fin": 18229,
+   "texto": "41.0"
+  },
+  {
+   "tipo": "width",
+   "ini": 18232,
+   "fin": 18236,
+   "texto": "31.5"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 18243,
+   "fin": 18493,
+   "rasgos": {
+    "size": "3",
+    "type": "engraving"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18243,
+   "fin": 18493
+  },
+  {
+   "tipo": "title",
+   "ini": 18247,
+   "fin": 18251,
+   "texto": "Lust"
+  },
+  {
+   "tipo": "date",
+   "ini": 18254,
+   "fin": 18261,
+   "rasgos": {
+    "from": "1984",
+    "to": "1985"
+   },
+   "texto": "1984-85"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18264,
+   "fin": 18271,
+   "rasgos": {
+    "type": "etching"
+   },
+   "texto": "Etching"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18273,
+   "fin": 18279,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "7 x 5\""
+  },
+  {
+   "tipo": "height",
+   "ini": 18273,
+   "fin": 18274,
+   "texto": "7"
+  },
+  {
+   "tipo": "width",
+   "ini": 18277,
+   "fin": 18279,
+   "texto": "5\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18281,
+   "fin": 18295,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "17.8 x 12.7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18281,
+   "fin": 18285,
+   "texto": "17.8"
+  },
+  {
+   "tipo": "width",
+   "ini": 18288,
+   "fin": 18292,
+   "texto": "12.7"
+  },
+  {
+   "tipo": "work",
+   "ini": 18298,
+   "fin": 18327,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "a. Plate 1, State 1. Etching."
+  },
+  {
+   "tipo": "title",
+   "ini": 18301,
+   "fin": 18317,
+   "texto": "Plate 1, State 1"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18319,
+   "fin": 18326,
+   "rasgos": {
+    "type": "etching"
+   },
+   "texto": "Etching"
+  },
+  {
+   "tipo": "work",
+   "ini": 18328,
+   "fin": 18439,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "b. Plate 1, State 1 with Plate 2, State 2. Etching, openbite, aquatint, and sugar-lift with ink-wash additions."
+  },
+  {
+   "tipo": "title",
+   "ini": 18331,
+   "fin": 18369,
+   "texto": "Plate 1, State 1 with Plate 2, State 2"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18371,
+   "fin": 18438,
+   "rasgos": {
+    "type": "etching, openBite, aquatint, sugarLift, inkWash"
+   },
+   "texto": "Etching, openbite, aquatint, and sugar-lift with ink-wash additions"
+  },
+  {
+   "tipo": "work",
+   "ini": 18440,
+   "fin": 18493,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "c. Plate 1, State 2. Etching, drypoint, and aquatint."
+  },
+  {
+   "tipo": "title",
+   "ini": 18443,
+   "fin": 18459,
+   "texto": "Plate 1, State 2"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18461,
+   "fin": 18492,
+   "rasgos": {
+    "type": "etching, drypoint, aquatint"
+   },
+   "texto": "Etching, drypoint, and aquatint"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 18495,
+   "fin": 19185,
+   "rasgos": {
+    "size": "5",
+    "type": "engraving"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18495,
+   "fin": 19185
+  },
+  {
+   "tipo": "title",
+   "ini": 18499,
+   "fin": 18507,
+   "texto": "Innocent"
+  },
+  {
+   "tipo": "date",
+   "ini": 18510,
+   "fin": 18517,
+   "rasgos": {
+    "from": "1984",
+    "to": "1985"
+   },
+   "texto": "1984-85"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18520,
+   "fin": 18555,
+   "rasgos": {
+    "type": "photogravure, etching, aquatint"
+   },
+   "texto": "Aquatint, photogravure, and etching"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18557,
+   "fin": 18563,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "7 x 5\""
+  },
+  {
+   "tipo": "height",
+   "ini": 18557,
+   "fin": 18558,
+   "texto": "7"
+  },
+  {
+   "tipo": "width",
+   "ini": 18561,
+   "fin": 18563,
+   "texto": "5\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18565,
+   "fin": 18579,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "17.8 x 12.7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18565,
+   "fin": 18569,
+   "texto": "17.8"
+  },
+  {
+   "tipo": "width",
+   "ini": 18572,
+   "fin": 18576,
+   "texto": "12.7"
+  },
+  {
+   "tipo": "work",
+   "ini": 18582,
+   "fin": 18648,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "a. Plate 2, State 2 from Lust. Sugar-lift, open-bite,\nand etching."
+  },
+  {
+   "tipo": "title",
+   "ini": 18585,
+   "fin": 18611,
+   "texto": "Plate 2, State 2 from Lust"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18613,
+   "fin": 18647,
+   "rasgos": {
+    "type": "sugarLift, openBite, etching"
+   },
+   "texto": "Sugar-lift, open-bite,\nand etching"
+  },
+  {
+   "tipo": "work",
+   "ini": 18649,
+   "fin": 18797,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "b. Plate 2, State 2 from Lust. Sugar-lift, open-bite, and\netching with ink-wash,charcoal, and gouache additions,\n16-1/8 x 11-1/16\" (41.0 x 28.1 cm)."
+  },
+  {
+   "tipo": "title",
+   "ini": 18652,
+   "fin": 18678,
+   "texto": "Plate 2, State 2 from Lust"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18680,
+   "fin": 18760,
+   "rasgos": {
+    "type": "sugarLift, openBite, etching, inkWash, charcoal, gouache"
+   },
+   "texto": "Sugar-lift, open-bite, and\netching with ink-wash,charcoal, and gouache additions"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18762,
+   "fin": 18779,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "16-1/8 x 11-1/16\""
+  },
+  {
+   "tipo": "height",
+   "ini": 18762,
+   "fin": 18768,
+   "texto": "16-1/8"
+  },
+  {
+   "tipo": "width",
+   "ini": 18771,
+   "fin": 18779,
+   "texto": "11-1/16\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18781,
+   "fin": 18795,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41.0 x 28.1 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 18781,
+   "fin": 18785,
+   "texto": "41.0"
+  },
+  {
+   "tipo": "width",
+   "ini": 18788,
+   "fin": 18792,
+   "texto": "28.1"
+  },
+  {
+   "tipo": "work",
+   "ini": 18798,
+   "fin": 18839,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "c. Plate 1, State 1. Photogravure from b."
+  },
+  {
+   "tipo": "title",
+   "ini": 18801,
+   "fin": 18817,
+   "texto": "Plate 1, State 1"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18819,
+   "fin": 18831,
+   "rasgos": {
+    "type": "photogravure"
+   },
+   "texto": "Photogravure"
+  },
+  {
+   "tipo": "work",
+   "ini": 18840,
+   "fin": 19033,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "d. Plate 1, State 2 with Plate 2, State 3. Photogravure,\nscraping, burnishing, sugar-lift, open-bite, etching, and\nsoft-ground with ink and gouache additions,\n15-5/8 x 11-1/2\" (39.6 x 29.3 cm)."
+  },
+  {
+   "tipo": "title",
+   "ini": 18843,
+   "fin": 18881,
+   "texto": "Plate 1, State 2 with Plate 2, State 3"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18883,
+   "fin": 18997,
+   "rasgos": {
+    "type": "photogravure, scraping, burnishing, sugarLift, openBite, etching, ink, gouache"
+   },
+   "texto": "Photogravure,\nscraping, burnishing, sugar-lift, open-bite, etching, and\nsoft-ground with ink and gouache additions"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 18999,
+   "fin": 19015,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "15-5/8 x 11-1/2\""
+  },
+  {
+   "tipo": "height",
+   "ini": 18999,
+   "fin": 19005,
+   "texto": "15-5/8"
+  },
+  {
+   "tipo": "width",
+   "ini": 19008,
+   "fin": 19015,
+   "texto": "11-1/2\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19017,
+   "fin": 19031,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "39.6 x 29.3 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19017,
+   "fin": 19021,
+   "texto": "39.6"
+  },
+  {
+   "tipo": "width",
+   "ini": 19024,
+   "fin": 19028,
+   "texto": "29.3"
+  },
+  {
+   "tipo": "work",
+   "ini": 19034,
+   "fin": 19185,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "e. Plate 1, State 3. Photogravure, aquatint, etching,\nscraping, and burnishing with pen-and-ink and wash\nadditions, 15-1/4 x 11-3/16\" (38.7 x 28.4 cm)."
+  },
+  {
+   "tipo": "title",
+   "ini": 19037,
+   "fin": 19053,
+   "texto": "Plate 1, State 3"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19055,
+   "fin": 19148,
+   "rasgos": {
+    "type": "photogravure, aquatint, etching, scraping, burnishing, pen, inkWash"
+   },
+   "texto": "Photogravure, aquatint, etching,\nscraping, and burnishing with pen-and-ink and wash\nadditions"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19150,
+   "fin": 19167,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "15-1/4 x 11-3/16\""
+  },
+  {
+   "tipo": "height",
+   "ini": 19150,
+   "fin": 19156,
+   "texto": "15-1/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 19159,
+   "fin": 19167,
+   "texto": "11-3/16\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19169,
+   "fin": 19183,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "38.7 x 28.4 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19169,
+   "fin": 19173,
+   "texto": "38.7"
+  },
+  {
+   "tipo": "width",
+   "ini": 19176,
+   "fin": 19180,
+   "texto": "28.4"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 19187,
+   "fin": 19859,
+   "rasgos": {
+    "size": "4",
+    "type": "engraving"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19187,
+   "fin": 19859
+  },
+  {
+   "tipo": "title",
+   "ini": 19191,
+   "fin": 19199,
+   "texto": "Fearless"
+  },
+  {
+   "tipo": "date",
+   "ini": 19202,
+   "fin": 19209,
+   "rasgos": {
+    "from": "1984",
+    "to": "1985"
+   },
+   "texto": "1984-85"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19212,
+   "fin": 19279,
+   "rasgos": {
+    "type": "drypoint, scraping, burnishing, solventLift, aquatint, etching"
+   },
+   "texto": "Drypoint, scraping, burnishing,\nsolvent-lift, aquatint, and etching"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19281,
+   "fin": 19287,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "7 x 5\""
+  },
+  {
+   "tipo": "height",
+   "ini": 19281,
+   "fin": 19282,
+   "texto": "7"
+  },
+  {
+   "tipo": "width",
+   "ini": 19285,
+   "fin": 19287,
+   "texto": "5\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19289,
+   "fin": 19303,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "17.8 x 12.7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19289,
+   "fin": 19293,
+   "texto": "17.8"
+  },
+  {
+   "tipo": "width",
+   "ini": 19296,
+   "fin": 19300,
+   "texto": "12.7"
+  },
+  {
+   "tipo": "work",
+   "ini": 19306,
+   "fin": 19439,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "a. State 1 (Plate 2, State 4 from Innocent). Scraping and\nburnishing with ink-wash and felt-pen additions,\n15 x 11\" (38.1 x 27.9 cm)."
+  },
+  {
+   "tipo": "title",
+   "ini": 19309,
+   "fin": 19349,
+   "texto": "State 1 (Plate 2, State 4 from Innocent)"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19351,
+   "fin": 19411,
+   "rasgos": {
+    "type": "scraping, burnishing, inkWash, feltPen"
+   },
+   "texto": "Scraping and\nburnishing with ink-wash and felt-pen additions"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19413,
+   "fin": 19421,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "15 x 11\""
+  },
+  {
+   "tipo": "height",
+   "ini": 19413,
+   "fin": 19415,
+   "texto": "15"
+  },
+  {
+   "tipo": "width",
+   "ini": 19418,
+   "fin": 19421,
+   "texto": "11\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19423,
+   "fin": 19437,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "38.1 x 27.9 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19423,
+   "fin": 19427,
+   "texto": "38.1"
+  },
+  {
+   "tipo": "width",
+   "ini": 19430,
+   "fin": 19434,
+   "texto": "27.9"
+  },
+  {
+   "tipo": "work",
+   "ini": 19440,
+   "fin": 19575,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "b. State 2. Scraping, burnishing, and aquatint with\nink-wash additions and notes in pencil and pen,\n15-5/16 x 11-1/8\" (38.9 x 28.2 cm)."
+  },
+  {
+   "tipo": "title",
+   "ini": 19443,
+   "fin": 19450,
+   "texto": "State 2"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19452,
+   "fin": 19538,
+   "rasgos": {
+    "type": "scraping, burnishing, aquatint, inkWash, pencil, pen"
+   },
+   "texto": "Scraping, burnishing, and aquatint with\nink-wash additions and notes in pencil and pen"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19540,
+   "fin": 19557,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "15-5/16 x 11-1/8\""
+  },
+  {
+   "tipo": "height",
+   "ini": 19540,
+   "fin": 19547,
+   "texto": "15-5/16"
+  },
+  {
+   "tipo": "width",
+   "ini": 19550,
+   "fin": 19557,
+   "texto": "11-1/8\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19559,
+   "fin": 19573,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "38.9 x 28.2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19559,
+   "fin": 19563,
+   "texto": "38.9"
+  },
+  {
+   "tipo": "width",
+   "ini": 19566,
+   "fin": 19570,
+   "texto": "28.2"
+  },
+  {
+   "tipo": "work",
+   "ini": 19576,
+   "fin": 19682,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "c. State 9. Scraping, burnishing, aquatint, and etching\nwith pencil notes, 20 x 15-1/16\" (50.8 x 38.3 cm)."
+  },
+  {
+   "tipo": "title",
+   "ini": 19579,
+   "fin": 19586,
+   "texto": "State 9"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19588,
+   "fin": 19649,
+   "rasgos": {
+    "type": "scraping, burnishing, aquatint, etching, pencil"
+   },
+   "texto": "Scraping, burnishing, aquatint, and etching\nwith pencil notes"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19651,
+   "fin": 19664,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "20 x 15-1/16\""
+  },
+  {
+   "tipo": "height",
+   "ini": 19651,
+   "fin": 19653,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 19656,
+   "fin": 19664,
+   "texto": "15-1/16\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19666,
+   "fin": 19680,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50.8 x 38.3 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19666,
+   "fin": 19670,
+   "texto": "50.8"
+  },
+  {
+   "tipo": "width",
+   "ini": 19673,
+   "fin": 19677,
+   "texto": "38.3"
+  },
+  {
+   "tipo": "work",
+   "ini": 19683,
+   "fin": 19859,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "d. State 10. Scraping, burnishing, aquatint, and etching\nwith ink and pastel chalk additions and pencil,\nfelt-pen, and ballpoint additions,\n20-5/16 x 15-7/16\" (51.6 x 39.2 cm)."
+  },
+  {
+   "tipo": "title",
+   "ini": 19686,
+   "fin": 19694,
+   "texto": "State 10"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19696,
+   "fin": 19821,
+   "rasgos": {
+    "type": "scraping, burnishing, aquatint, etching, pastel, pencil, feltPen, ballpoint"
+   },
+   "texto": "Scraping, burnishing, aquatint, and etching\nwith ink and pastel chalk additions and pencil,\nfelt-pen, and ballpoint additions"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19823,
+   "fin": 19841,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "20-5/16 x 15-7/16\""
+  },
+  {
+   "tipo": "height",
+   "ini": 19823,
+   "fin": 19830,
+   "texto": "20-5/16"
+  },
+  {
+   "tipo": "width",
+   "ini": 19833,
+   "fin": 19841,
+   "texto": "15-7/16\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19843,
+   "fin": 19857,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "51.6 x 39.2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19843,
+   "fin": 19847,
+   "texto": "51.6"
+  },
+  {
+   "tipo": "width",
+   "ini": 19850,
+   "fin": 19854,
+   "texto": "39.2"
+  },
+  {
+   "tipo": "work",
+   "ini": 19861,
+   "fin": 19957,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "14. Isle Le Block. (1984-85.) Etching, engraving, and drypoint,\n5-1/4 x 8-1/8\" (13.3 x 20.6 cm)."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19861,
+   "fin": 19957
+  },
+  {
+   "tipo": "title",
+   "ini": 19865,
+   "fin": 19878,
+   "texto": "Isle Le Block"
+  },
+  {
+   "tipo": "date",
+   "ini": 19881,
+   "fin": 19888,
+   "rasgos": {
+    "from": "1984",
+    "to": "1985"
+   },
+   "texto": "1984-85"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19891,
+   "fin": 19923,
+   "rasgos": {
+    "type": "etching, engraving, drypoint"
+   },
+   "texto": "Etching, engraving, and drypoint"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19925,
+   "fin": 19939,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "5-1/4 x 8-1/8\""
+  },
+  {
+   "tipo": "height",
+   "ini": 19925,
+   "fin": 19930,
+   "texto": "5-1/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 19933,
+   "fin": 19939,
+   "texto": "8-1/8\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 19941,
+   "fin": 19955,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "13.3 x 20.6 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 19941,
+   "fin": 19945,
+   "texto": "13.3"
+  },
+  {
+   "tipo": "width",
+   "ini": 19948,
+   "fin": 19952,
+   "texto": "20.6"
+  },
+  {
+   "tipo": "work",
+   "ini": 19959,
+   "fin": 20051,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "15. Kepler. (1984-85.) Etching, engraving, and aquatint,\n5-3/8 x 8-11/16\" (13.7 x 22.0 cm).\n"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19959,
+   "fin": 20050
+  },
+  {
+   "tipo": "title",
+   "ini": 19963,
+   "fin": 19969,
+   "texto": "Kepler"
+  },
+  {
+   "tipo": "date",
+   "ini": 19972,
+   "fin": 19979,
+   "rasgos": {
+    "from": "1984",
+    "to": "1985"
+   },
+   "texto": "1984-85"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19982,
+   "fin": 20014,
+   "rasgos": {
+    "type": "etching, engraving, aquatint"
+   },
+   "texto": "Etching, engraving, and aquatint"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20016,
+   "fin": 20032,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "5-3/8 x 8-11/16\""
+  },
+  {
+   "tipo": "height",
+   "ini": 20016,
+   "fin": 20021,
+   "texto": "5-3/8"
+  },
+  {
+   "tipo": "width",
+   "ini": 20024,
+   "fin": 20032,
+   "texto": "8-11/16\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20034,
+   "fin": 20048,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "13.7 x 22.0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20034,
+   "fin": 20038,
+   "texto": "13.7"
+  },
+  {
+   "tipo": "width",
+   "ini": 20041,
+   "fin": 20045,
+   "texto": "22.0"
+  },
+  {
+   "tipo": "work",
+   "ini": 20052,
+   "fin": 20141,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "16. Lyons. (1984-85.) Engraving, roulette, and drypoint.\n4-5/8 x 7-7/8\" (11.6 x 20.1 cm)."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20052,
+   "fin": 20141
+  },
+  {
+   "tipo": "title",
+   "ini": 20056,
+   "fin": 20061,
+   "texto": "Lyons"
+  },
+  {
+   "tipo": "date",
+   "ini": 20064,
+   "fin": 20071,
+   "rasgos": {
+    "from": "1984",
+    "to": "1985"
+   },
+   "texto": "1984-85"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20074,
+   "fin": 20107,
+   "rasgos": {
+    "type": "engraving, roulette, drypoint"
+   },
+   "texto": "Engraving, roulette, and drypoint"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20109,
+   "fin": 20123,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "4-5/8 x 7-7/8\""
+  },
+  {
+   "tipo": "height",
+   "ini": 20109,
+   "fin": 20114,
+   "texto": "4-5/8"
+  },
+  {
+   "tipo": "width",
+   "ini": 20117,
+   "fin": 20123,
+   "texto": "7-7/8\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20125,
+   "fin": 20139,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "11.6 x 20.1 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20125,
+   "fin": 20129,
+   "texto": "11.6"
+  },
+  {
+   "tipo": "width",
+   "ini": 20132,
+   "fin": 20136,
+   "texto": "20.1"
+  },
+  {
+   "tipo": "work",
+   "ini": 20143,
+   "fin": 20297,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "17. Ancestors. (1984-85.) Etching, open-bite, aquatint, drypoint,\nroulette, scraping, and burnishing, printed in color,\n9-3/4 x 6-13/16\" (24.7 x 17.2 cm)."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20143,
+   "fin": 20297
+  },
+  {
+   "tipo": "title",
+   "ini": 20147,
+   "fin": 20156,
+   "texto": "Ancestors"
+  },
+  {
+   "tipo": "date",
+   "ini": 20159,
+   "fin": 20166,
+   "rasgos": {
+    "from": "1984",
+    "to": "1985"
+   },
+   "texto": "1984-85"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20169,
+   "fin": 20261,
+   "rasgos": {
+    "type": "etching, openBite, aquatint, drypoint, roulette, scraping, burnishing"
+   },
+   "texto": "Etching, open-bite, aquatint, drypoint,\nroulette, scraping, and burnishing, printed in color"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20263,
+   "fin": 20279,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "9-3/4 x 6-13/16\""
+  },
+  {
+   "tipo": "height",
+   "ini": 20263,
+   "fin": 20268,
+   "texto": "9-3/4"
+  },
+  {
+   "tipo": "width",
+   "ini": 20271,
+   "fin": 20279,
+   "texto": "6-13/16\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20281,
+   "fin": 20295,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "24.7 x 17.2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20281,
+   "fin": 20285,
+   "texto": "24.7"
+  },
+  {
+   "tipo": "width",
+   "ini": 20288,
+   "fin": 20292,
+   "texto": "17.2"
+  },
+  {
+   "tipo": "work",
+   "ini": 20299,
+   "fin": 20432,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "18. Babylon. (1984-85.) Etching, engraving, drypoint, aquatint, and\nroulette, printed in color, 10-13/16 x 7-11/16\" (27.5 x 19.5 cm)."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20299,
+   "fin": 20432
+  },
+  {
+   "tipo": "title",
+   "ini": 20303,
+   "fin": 20310,
+   "texto": "Babylon"
+  },
+  {
+   "tipo": "date",
+   "ini": 20313,
+   "fin": 20320,
+   "rasgos": {
+    "from": "1984",
+    "to": "1985"
+   },
+   "texto": "1984-85"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20323,
+   "fin": 20393,
+   "rasgos": {
+    "type": "etching, engraving, drypoint, aquatint, roulette"
+   },
+   "texto": "Etching, engraving, drypoint, aquatint, and\nroulette, printed in color"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20395,
+   "fin": 20414,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "10-13/16 x 7-11/16\""
+  },
+  {
+   "tipo": "height",
+   "ini": 20395,
+   "fin": 20403,
+   "texto": "10-13/16"
+  },
+  {
+   "tipo": "width",
+   "ini": 20406,
+   "fin": 20414,
+   "texto": "7-11/16\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20416,
+   "fin": 20430,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27.5 x 19.5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20416,
+   "fin": 20420,
+   "texto": "27.5"
+  },
+  {
+   "tipo": "width",
+   "ini": 20423,
+   "fin": 20427,
+   "texto": "19.5"
+  },
+  {
+   "tipo": "work",
+   "ini": 20434,
+   "fin": 20561,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "19. Exit. (1984-85.) Etching, engraving, drypoint, aquatint, and\nroulette, printed in color, 5-1/16 x 9-1/16\" (12.9 x 23.0 cm)."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20434,
+   "fin": 20561
+  },
+  {
+   "tipo": "title",
+   "ini": 20438,
+   "fin": 20442,
+   "texto": "Exit"
+  },
+  {
+   "tipo": "date",
+   "ini": 20445,
+   "fin": 20452,
+   "rasgos": {
+    "from": "1984",
+    "to": "1985"
+   },
+   "texto": "1984-85"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20455,
+   "fin": 20525,
+   "rasgos": {
+    "type": "etching, engraving, drypoint, aquatint, roulette"
+   },
+   "texto": "Etching, engraving, drypoint, aquatint, and\nroulette, printed in color"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20527,
+   "fin": 20543,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "5-1/16 x 9-1/16\""
+  },
+  {
+   "tipo": "height",
+   "ini": 20527,
+   "fin": 20533,
+   "texto": "5-1/16"
+  },
+  {
+   "tipo": "width",
+   "ini": 20536,
+   "fin": 20543,
+   "texto": "9-1/16\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20545,
+   "fin": 20559,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "12.9 x 23.0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20545,
+   "fin": 20549,
+   "texto": "12.9"
+  },
+  {
+   "tipo": "width",
+   "ini": 20552,
+   "fin": 20556,
+   "texto": "23.0"
+  },
+  {
+   "tipo": "work",
+   "ini": 20563,
+   "fin": 20698,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "20. Plight. (1984-85.) Etching, aquatint, drypoint, roulette, scraping,\nand burnishing, printed in color, 10-7/8 x 9\" (27.6 x 22.9 cm)."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20563,
+   "fin": 20698
+  },
+  {
+   "tipo": "title",
+   "ini": 20567,
+   "fin": 20573,
+   "texto": "Plight"
+  },
+  {
+   "tipo": "date",
+   "ini": 20576,
+   "fin": 20583,
+   "rasgos": {
+    "from": "1984",
+    "to": "1985"
+   },
+   "texto": "1984-85"
+  },
+  {
+   "tipo": "technique",
+   "ini": 20586,
+   "fin": 20667,
+   "rasgos": {
+    "type": "etching, aquatint, drypoint, roulette, scraping, burnishing"
+   },
+   "texto": "Etching, aquatint, drypoint, roulette, scraping,\nand burnishing, printed in color"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20669,
+   "fin": 20680,
+   "rasgos": {
+    "unit": "inches"
+   },
+   "texto": "10-7/8 x 9\""
+  },
+  {
+   "tipo": "height",
+   "ini": 20669,
+   "fin": 20675,
+   "texto": "10-7/8"
+  },
+  {
+   "tipo": "width",
+   "ini": 20678,
+   "fin": 20679,
+   "texto": "9"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20682,
+   "fin": 20696,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27.6 x 22.9 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20682,
+   "fin": 20686,
+   "texto": "27.6"
+  },
+  {
+   "tipo": "width",
+   "ini": 20689,
+   "fin": 20693,
+   "texto": "22.9"
+  }
+ ]
+}

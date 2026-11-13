@@ -1,0 +1,4712 @@
+{
+ "id": "cat_030_cat_becqueratrazos",
+ "nombre_original": "Cat_BécquerATrazos",
+ "longitud_texto": 23840,
+ "sha256_texto": "9b5f8454a73a412ea18c9d24a2ca20bcca8a1365cb1239d53e6bb3d99eb78757",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 16,
+   "texto": "Bécquer a trazos"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 16,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 7,
+   "texto": "Bécquer"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 62,
+   "fin": 226,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 62,
+   "fin": 78,
+   "texto": "Bécquer a trazos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 62,
+   "fin": 69,
+   "texto": "Bécquer"
+  },
+  {
+   "tipo": "institution",
+   "ini": 80,
+   "fin": 147,
+   "rasgos": {
+    "type": "culturalCenter",
+    "role": "organiser, host"
+   },
+   "texto": "CICUS Centro de Iniciativas Culturales de la Universidad de Sevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 140,
+   "fin": 147,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "person",
+   "ini": 149,
+   "fin": 161,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 149,
+   "fin": 161,
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "person",
+   "ini": 164,
+   "fin": 176,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Celia Burgos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 164,
+   "fin": 176,
+   "texto": "Celia Burgos"
+  },
+  {
+   "tipo": "person",
+   "ini": 179,
+   "fin": 197,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 179,
+   "fin": 197,
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "person",
+   "ini": 198,
+   "fin": 212,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Arturo Redondo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 198,
+   "fin": 212,
+   "texto": "Arturo Redondo"
+  },
+  {
+   "tipo": "person",
+   "ini": 215,
+   "fin": 226,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Otero\n"
+  },
+  {
+   "tipo": "persName",
+   "ini": 215,
+   "fin": 225,
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 228,
+   "fin": 1295,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 228,
+   "fin": 244,
+   "texto": "Bécquer a trazos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 228,
+   "fin": 235,
+   "texto": "Bécquer"
+  },
+  {
+   "tipo": "date",
+   "ini": 246,
+   "fin": 287,
+   "rasgos": {
+    "from": "2020-12-15",
+    "to": "2021-01-29"
+   },
+   "texto": "15 de diciembre, 2020 / 29 de enero, 2021"
+  },
+  {
+   "tipo": "institution",
+   "ini": 289,
+   "fin": 361,
+   "rasgos": {
+    "type": "culturalCenter",
+    "role": "organiser, host"
+   },
+   "texto": "CICUS, Sala MDD, calle Madre de Dios, 1. Sevilla\n\nUNIVERSIDAD DE SEVILLA"
+  },
+  {
+   "tipo": "venue",
+   "ini": 296,
+   "fin": 304,
+   "texto": "Sala MDD"
+  },
+  {
+   "tipo": "address",
+   "ini": 306,
+   "fin": 337,
+   "texto": "calle Madre de Dios, 1. Sevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 330,
+   "fin": 337,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 354,
+   "fin": 361,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "SEVILLA"
+  },
+  {
+   "tipo": "person",
+   "ini": 370,
+   "fin": 396,
+   "rasgos": {
+    "role": "rector"
+   },
+   "texto": "Miguel Ángel Castro Arroyo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 370,
+   "fin": 396,
+   "texto": "Miguel Ángel Castro Arroyo"
+  },
+  {
+   "tipo": "person",
+   "ini": 439,
+   "fin": 460,
+   "rasgos": {
+    "role": "generalDirector"
+   },
+   "texto": "Luis Méndez Rodríguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 439,
+   "fin": 460,
+   "texto": "Luis Méndez Rodríguez"
+  },
+  {
+   "tipo": "person",
+   "ini": 502,
+   "fin": 526,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Luis F. Martínez-Montiel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 502,
+   "fin": 526,
+   "texto": "Luis F. Martínez-Montiel"
+  },
+  {
+   "tipo": "institution",
+   "ini": 528,
+   "fin": 533,
+   "rasgos": {
+    "type": "culturalCenter",
+    "role": "organiser, host"
+   },
+   "texto": "CICUS"
+  },
+  {
+   "tipo": "person",
+   "ini": 552,
+   "fin": 582,
+   "texto": "José Luis Hohenleiter Barranco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 552,
+   "fin": 582,
+   "texto": "José Luis Hohenleiter Barranco"
+  },
+  {
+   "tipo": "person",
+   "ini": 601,
+   "fin": 625,
+   "texto": "Javier Gutiérrez Padilla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 601,
+   "fin": 625,
+   "texto": "Javier Gutiérrez Padilla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 673,
+   "fin": 697,
+   "texto": "Domingo González Lavado\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 673,
+   "fin": 696,
+   "texto": "Domingo González Lavado"
+  },
+  {
+   "tipo": "person",
+   "ini": 724,
+   "fin": 748,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "Juan Diego Martín Cabeza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 724,
+   "fin": 748,
+   "texto": "Juan Diego Martín Cabeza"
+  },
+  {
+   "tipo": "person",
+   "ini": 758,
+   "fin": 768,
+   "rasgos": {
+    "role": "assembly"
+   },
+   "texto": "Otto Pardo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 758,
+   "fin": 768,
+   "texto": "Otto Pardo"
+  },
+  {
+   "tipo": "person",
+   "ini": 770,
+   "fin": 784,
+   "rasgos": {
+    "role": "assembly"
+   },
+   "texto": "Esteban Guzmán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 770,
+   "fin": 784,
+   "texto": "Esteban Guzmán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 787,
+   "fin": 802,
+   "texto": "Isidoro Guzmán\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 787,
+   "fin": 801,
+   "rasgos": {
+    "role": "assembly"
+   },
+   "texto": "Isidoro Guzmán"
+  },
+  {
+   "tipo": "institution",
+   "ini": 834,
+   "fin": 860,
+   "rasgos": {
+    "type": "company",
+    "role": "digitalPrinter"
+   },
+   "texto": "Trillo Comunicación Visual"
+  },
+  {
+   "tipo": "person",
+   "ini": 880,
+   "fin": 892,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 880,
+   "fin": 892,
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "person",
+   "ini": 894,
+   "fin": 906,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Celia Burgos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 894,
+   "fin": 906,
+   "texto": "Celia Burgos"
+  },
+  {
+   "tipo": "person",
+   "ini": 908,
+   "fin": 926,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 908,
+   "fin": 926,
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "person",
+   "ini": 928,
+   "fin": 942,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Arturo Redondo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 928,
+   "fin": 942,
+   "texto": "Arturo Redondo"
+  },
+  {
+   "tipo": "person",
+   "ini": 945,
+   "fin": 955,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 945,
+   "fin": 955,
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "person",
+   "ini": 971,
+   "fin": 983,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 971,
+   "fin": 983,
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "person",
+   "ini": 985,
+   "fin": 997,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Celia Burgos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 985,
+   "fin": 997,
+   "texto": "Celia Burgos"
+  },
+  {
+   "tipo": "person",
+   "ini": 999,
+   "fin": 1017,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 999,
+   "fin": 1017,
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "person",
+   "ini": 1019,
+   "fin": 1033,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Arturo Redondo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1019,
+   "fin": 1033,
+   "texto": "Arturo Redondo"
+  },
+  {
+   "tipo": "person",
+   "ini": 1036,
+   "fin": 1046,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1036,
+   "fin": 1046,
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1063,
+   "fin": 1083,
+   "rasgos": {
+    "type": "studio",
+    "role": "designer"
+   },
+   "texto": "Estudio Manuel Ortiz"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1112,
+   "fin": 1125,
+   "rasgos": {
+    "type": "company",
+    "role": "printer"
+   },
+   "texto": "Imprenta Sand"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1213,
+   "fin": 1242,
+   "rasgos": {
+    "type": "culturalCenter",
+    "role": "editor"
+   },
+   "texto": "Universidad de Sevilla. CICUS"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1228,
+   "fin": 1235,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1328,
+   "fin": 1350,
+   "texto": "Gustavo Adolfo Bécquer"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2016,
+   "fin": 2023,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2185,
+   "fin": 2192,
+   "texto": "Bécquer"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2381,
+   "fin": 2388,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2392,
+   "fin": 2399,
+   "texto": "Bécquer"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2776,
+   "fin": 2781,
+   "rasgos": {
+    "type": "culturalCenter",
+    "role": "organiser, host"
+   },
+   "texto": "CICUS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3112,
+   "fin": 3121,
+   "texto": "Valeriano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3124,
+   "fin": 3146,
+   "texto": "Gustavo Adolfo Bécquer"
+  },
+  {
+   "tipo": "title",
+   "ini": 3497,
+   "fin": 3513,
+   "texto": "Bécquer a trazos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3497,
+   "fin": 3504,
+   "texto": "Bécquer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4245,
+   "fin": 4267,
+   "texto": "Gustavo\nAdolfo Bécquer"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4271,
+   "fin": 4278,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 4459,
+   "fin": 4466,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4470,
+   "fin": 4477,
+   "texto": "Bécquer"
+  },
+  {
+   "tipo": "person",
+   "ini": 4480,
+   "fin": 4492,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4480,
+   "fin": 4492,
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "person",
+   "ini": 4494,
+   "fin": 4512,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4494,
+   "fin": 4512,
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "person",
+   "ini": 4514,
+   "fin": 4528,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Arturo Redondo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4514,
+   "fin": 4528,
+   "texto": "Arturo Redondo"
+  },
+  {
+   "tipo": "person",
+   "ini": 4530,
+   "fin": 4540,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4530,
+   "fin": 4540,
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "person",
+   "ini": 4543,
+   "fin": 4555,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Celia Burgos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4543,
+   "fin": 4555,
+   "texto": "Celia Burgos"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 4558,
+   "fin": 17786
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4558,
+   "fin": 4613
+  },
+  {
+   "tipo": "img",
+   "ini": 4558,
+   "fin": 4563,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4565,
+   "fin": 4613,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Inma Serrano\nDibujos preparatorios\nLápiz y tinta"
+  },
+  {
+   "tipo": "person",
+   "ini": 4565,
+   "fin": 4577,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4565,
+   "fin": 4577,
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "title",
+   "ini": 4578,
+   "fin": 4599,
+   "texto": "Dibujos preparatorios"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4578,
+   "fin": 4599,
+   "rasgos": {
+    "type": "sketch"
+   },
+   "texto": "Dibujos preparatorios"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4615,
+   "fin": 4704
+  },
+  {
+   "tipo": "img",
+   "ini": 4615,
+   "fin": 4621,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4622,
+   "fin": 4704,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Inma Serrano\nGustavo Adolfo Bécquer\nArcilla polimérica policromada\n11 x 10 x 15 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 4622,
+   "fin": 4634,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4622,
+   "fin": 4634,
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "title",
+   "ini": 4635,
+   "fin": 4657,
+   "texto": "Gustavo Adolfo Bécquer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4635,
+   "fin": 4657,
+   "texto": "Gustavo Adolfo Bécquer"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4658,
+   "fin": 4688,
+   "rasgos": {
+    "type": "PolychromatiClay"
+   },
+   "texto": "Arcilla polimérica policromada"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4689,
+   "fin": 4704,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "11 x 10 x 15 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4689,
+   "fin": 4691,
+   "texto": "11"
+  },
+  {
+   "tipo": "width",
+   "ini": 4694,
+   "fin": 4696,
+   "texto": "10"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4699,
+   "fin": 4701,
+   "texto": "15"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4706,
+   "fin": 4776
+  },
+  {
+   "tipo": "work",
+   "ini": 4706,
+   "fin": 4769,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Arturo Redondo\nPrimer boceto\nBolígrafo y acuarela.\n29,7 x 21 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 4706,
+   "fin": 4720,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Arturo Redondo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4706,
+   "fin": 4720,
+   "texto": "Arturo Redondo"
+  },
+  {
+   "tipo": "title",
+   "ini": 4721,
+   "fin": 4734,
+   "texto": "Primer boceto"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4735,
+   "fin": 4755,
+   "rasgos": {
+    "type": "pen, watercolour"
+   },
+   "texto": "Bolígrafo y acuarela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4757,
+   "fin": 4769,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29,7 x 21 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4757,
+   "fin": 4761,
+   "texto": "29,7"
+  },
+  {
+   "tipo": "width",
+   "ini": 4764,
+   "fin": 4766,
+   "texto": "21"
+  },
+  {
+   "tipo": "img",
+   "ini": 4771,
+   "fin": 4776,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4778,
+   "fin": 4850
+  },
+  {
+   "tipo": "work",
+   "ini": 4778,
+   "fin": 4843,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Arturo Redondo\nBecquer 34 años\nTinta, acuarela y lápiz\n42 x 30 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 4778,
+   "fin": 4792,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Arturo Redondo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4778,
+   "fin": 4792,
+   "texto": "Arturo Redondo"
+  },
+  {
+   "tipo": "title",
+   "ini": 4793,
+   "fin": 4808,
+   "texto": "Becquer 34 años"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4793,
+   "fin": 4800,
+   "texto": "Becquer"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4809,
+   "fin": 4832,
+   "rasgos": {
+    "type": "ink, watercolour, pencil"
+   },
+   "texto": "Tinta, acuarela y lápiz"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4833,
+   "fin": 4843,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "42 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4833,
+   "fin": 4835,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 4838,
+   "fin": 4840,
+   "texto": "30"
+  },
+  {
+   "tipo": "img",
+   "ini": 4845,
+   "fin": 4850,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4852,
+   "fin": 4937
+  },
+  {
+   "tipo": "work",
+   "ini": 4852,
+   "fin": 4930,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Celia Burgos\n¿Qué es Poesía?\nLápices de colores, acuarela y tinta\n42 x 29,7 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 4852,
+   "fin": 4864,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Celia Burgos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4852,
+   "fin": 4864,
+   "texto": "Celia Burgos"
+  },
+  {
+   "tipo": "title",
+   "ini": 4865,
+   "fin": 4880,
+   "texto": "¿Qué es Poesía?"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4881,
+   "fin": 4917,
+   "rasgos": {
+    "type": "colorPencil, watercolour, ink"
+   },
+   "texto": "Lápices de colores, acuarela y tinta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4918,
+   "fin": 4930,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "42 x 29,7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4918,
+   "fin": 4920,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 4923,
+   "fin": 4927,
+   "texto": "29,7"
+  },
+  {
+   "tipo": "img",
+   "ini": 4932,
+   "fin": 4937,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4939,
+   "fin": 5003
+  },
+  {
+   "tipo": "img",
+   "ini": 4939,
+   "fin": 4944,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4946,
+   "fin": 5003,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Inma Otero\nValeriano Domínguez Bastida\nTémpera\n42 x 30 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 4946,
+   "fin": 4956,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4946,
+   "fin": 4956,
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "title",
+   "ini": 4957,
+   "fin": 4984,
+   "texto": "Valeriano Domínguez Bastida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4957,
+   "fin": 4984,
+   "texto": "Valeriano Domínguez Bastida"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4985,
+   "fin": 4992,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Témpera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4993,
+   "fin": 5003,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "42 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4993,
+   "fin": 4995,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 4998,
+   "fin": 5000,
+   "texto": "30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5005,
+   "fin": 5074
+  },
+  {
+   "tipo": "img",
+   "ini": 5005,
+   "fin": 5010,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5012,
+   "fin": 5074,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Inma Otero\nGustavo Adolfo Domínguez Bastida\nTémpera\n42 x 30 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 5012,
+   "fin": 5022,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5012,
+   "fin": 5022,
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "title",
+   "ini": 5023,
+   "fin": 5055,
+   "texto": "Gustavo Adolfo Domínguez Bastida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5023,
+   "fin": 5055,
+   "texto": "Gustavo Adolfo Domínguez Bastida"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5056,
+   "fin": 5063,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Témpera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5064,
+   "fin": 5074,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "42 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5064,
+   "fin": 5066,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 5069,
+   "fin": 5071,
+   "texto": "30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5077,
+   "fin": 5139
+  },
+  {
+   "tipo": "work",
+   "ini": 5077,
+   "fin": 5132,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Inma Serrano\nLas oscuras golondrinas\nGouache\n40 x 30 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 5077,
+   "fin": 5089,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5077,
+   "fin": 5089,
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "title",
+   "ini": 5090,
+   "fin": 5113,
+   "texto": "Las oscuras golondrinas"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5114,
+   "fin": 5121,
+   "rasgos": {
+    "type": "gouache"
+   },
+   "texto": "Gouache"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5122,
+   "fin": 5132,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5122,
+   "fin": 5124,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 5127,
+   "fin": 5129,
+   "texto": "30"
+  },
+  {
+   "tipo": "img",
+   "ini": 5134,
+   "fin": 5139,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5141,
+   "fin": 5237
+  },
+  {
+   "tipo": "img",
+   "ini": 5141,
+   "fin": 5146,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5148,
+   "fin": 5237,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Aurora Villaviejas\nLos hermanos Bécquer a la luz de la luna\nAcuarela y grafito\n30 x 42 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 5148,
+   "fin": 5166,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5148,
+   "fin": 5166,
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "title",
+   "ini": 5167,
+   "fin": 5207,
+   "texto": "Los hermanos Bécquer a la luz de la luna"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5180,
+   "fin": 5187,
+   "texto": "Bécquer"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5208,
+   "fin": 5226,
+   "rasgos": {
+    "type": "watercolour, graphite"
+   },
+   "texto": "Acuarela y grafito"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5227,
+   "fin": 5237,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 42 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5227,
+   "fin": 5229,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 5232,
+   "fin": 5234,
+   "texto": "42"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5240,
+   "fin": 5320
+  },
+  {
+   "tipo": "work",
+   "ini": 5240,
+   "fin": 5313,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Celia Burgos\nGlorieta de Bécquer\nLápices de colores y acuarela\n42 x 30 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 5240,
+   "fin": 5252,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Celia Burgos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5240,
+   "fin": 5252,
+   "texto": "Celia Burgos"
+  },
+  {
+   "tipo": "title",
+   "ini": 5253,
+   "fin": 5272,
+   "texto": "Glorieta de Bécquer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5265,
+   "fin": 5272,
+   "texto": "Bécquer"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5273,
+   "fin": 5302,
+   "rasgos": {
+    "type": "colorPencil, watercolour"
+   },
+   "texto": "Lápices de colores y acuarela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5303,
+   "fin": 5313,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "42 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5303,
+   "fin": 5305,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 5308,
+   "fin": 5310,
+   "texto": "30"
+  },
+  {
+   "tipo": "img",
+   "ini": 5315,
+   "fin": 5320,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5322,
+   "fin": 5393
+  },
+  {
+   "tipo": "img",
+   "ini": 5322,
+   "fin": 5327,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5329,
+   "fin": 5393,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Inma Serrano\nAlegoría del amor\nTinta y lápiz de color\n40 x 40 cm"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5329,
+   "fin": 5342,
+   "texto": "Inma Serrano\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 5329,
+   "fin": 5341,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "title",
+   "ini": 5342,
+   "fin": 5359,
+   "texto": "Alegoría del amor"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5360,
+   "fin": 5382,
+   "rasgos": {
+    "type": "ink, colorPencil"
+   },
+   "texto": "Tinta y lápiz de color"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5383,
+   "fin": 5393,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5383,
+   "fin": 5385,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 5388,
+   "fin": 5390,
+   "texto": "40"
+  },
+  {
+   "tipo": "text",
+   "ini": 5396,
+   "fin": 6540
+  },
+  {
+   "tipo": "title",
+   "ini": 5396,
+   "fin": 5428,
+   "texto": "Capilla de Santas Justa y Rufina"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5475,
+   "fin": 5482,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5515,
+   "fin": 5524,
+   "texto": "afincarse"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5797,
+   "fin": 5804,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6325,
+   "fin": 6339,
+   "texto": "Gustavo Adolfo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6521,
+   "fin": 6541,
+   "texto": "Inma Otero Carrasco\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 6521,
+   "fin": 6540,
+   "rasgos": {
+    "role": "creator, textAuthor"
+   },
+   "texto": "Inma Otero Carrasco"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6542,
+   "fin": 6600
+  },
+  {
+   "tipo": "img",
+   "ini": 6542,
+   "fin": 6547,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6549,
+   "fin": 6600,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Inma Otero\nBautismo de Gustavo\nGráfito\n29,7 x 42 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 6549,
+   "fin": 6559,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6549,
+   "fin": 6559,
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "title",
+   "ini": 6560,
+   "fin": 6579,
+   "texto": "Bautismo de Gustavo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6572,
+   "fin": 6579,
+   "texto": "Gustavo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6580,
+   "fin": 6587,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Gráfito"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6588,
+   "fin": 6600,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29,7 x 42 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6588,
+   "fin": 6592,
+   "texto": "29,7"
+  },
+  {
+   "tipo": "width",
+   "ini": 6595,
+   "fin": 6597,
+   "texto": "42"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6603,
+   "fin": 6661
+  },
+  {
+   "tipo": "work",
+   "ini": 6603,
+   "fin": 6654,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Inma Otero\nBautismo de Gustavo\nGráfito\n42 x 29,7 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 6603,
+   "fin": 6613,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6603,
+   "fin": 6613,
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "title",
+   "ini": 6614,
+   "fin": 6633,
+   "texto": "Bautismo de Gustavo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6626,
+   "fin": 6633,
+   "texto": "Gustavo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6634,
+   "fin": 6641,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Gráfito"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6642,
+   "fin": 6654,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "42 x 29,7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6642,
+   "fin": 6644,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 6647,
+   "fin": 6651,
+   "texto": "29,7"
+  },
+  {
+   "tipo": "img",
+   "ini": 6656,
+   "fin": 6661,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6663,
+   "fin": 6721
+  },
+  {
+   "tipo": "work",
+   "ini": 6663,
+   "fin": 6714,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Inma Otero\nBautismo de Gustavo\nTémpera\n42 x 29,7 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 6663,
+   "fin": 6674,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Otero\n"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6663,
+   "fin": 6673,
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "title",
+   "ini": 6674,
+   "fin": 6693,
+   "texto": "Bautismo de Gustavo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6686,
+   "fin": 6693,
+   "texto": "Gustavo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6694,
+   "fin": 6701,
+   "rasgos": {
+    "type": "tempera"
+   },
+   "texto": "Témpera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6702,
+   "fin": 6714,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "42 x 29,7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6702,
+   "fin": 6704,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 6707,
+   "fin": 6711,
+   "texto": "29,7"
+  },
+  {
+   "tipo": "img",
+   "ini": 6716,
+   "fin": 6721,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 6723,
+   "fin": 7361
+  },
+  {
+   "tipo": "title",
+   "ini": 6723,
+   "fin": 6745,
+   "texto": "Convento de Santa Inés"
+  },
+  {
+   "tipo": "person",
+   "ini": 7343,
+   "fin": 7361,
+   "rasgos": {
+    "role": "creator, textAuthor"
+   },
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7343,
+   "fin": 7361,
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7364,
+   "fin": 7440
+  },
+  {
+   "tipo": "work",
+   "ini": 7364,
+   "fin": 7433,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Aurora Villaviejas\nUna música celestial\nAcuarela y grafito\n31 x 41 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 7364,
+   "fin": 7382,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7364,
+   "fin": 7382,
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "title",
+   "ini": 7383,
+   "fin": 7403,
+   "texto": "Una música celestial"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7404,
+   "fin": 7422,
+   "rasgos": {
+    "type": "watercolour, graphite"
+   },
+   "texto": "Acuarela y grafito"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7423,
+   "fin": 7441,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "31 x 41 cm\n\n[img]\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 7423,
+   "fin": 7425,
+   "texto": "31"
+  },
+  {
+   "tipo": "width",
+   "ini": 7428,
+   "fin": 7430,
+   "texto": "41"
+  },
+  {
+   "tipo": "img",
+   "ini": 7435,
+   "fin": 7440,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7442,
+   "fin": 7516
+  },
+  {
+   "tipo": "img",
+   "ini": 7442,
+   "fin": 7447,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7449,
+   "fin": 7516,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Celia Burgos\nMaese Pérez\nLápices de colores y acuarela\n29,7 x 42 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 7449,
+   "fin": 7461,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Celia Burgos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7449,
+   "fin": 7461,
+   "texto": "Celia Burgos"
+  },
+  {
+   "tipo": "title",
+   "ini": 7462,
+   "fin": 7473,
+   "texto": "Maese Pérez"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7474,
+   "fin": 7503,
+   "rasgos": {
+    "type": "colorPencil, watercolour"
+   },
+   "texto": "Lápices de colores y acuarela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7504,
+   "fin": 7516,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29,7 x 42 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7504,
+   "fin": 7508,
+   "texto": "29,7"
+  },
+  {
+   "tipo": "width",
+   "ini": 7511,
+   "fin": 7513,
+   "texto": "42"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7519,
+   "fin": 7599
+  },
+  {
+   "tipo": "work",
+   "ini": 7519,
+   "fin": 7592,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Inma Otero\nMuestra de ornamentación\nTémpera y lápiz de color\n42 x 14,5 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 7519,
+   "fin": 7529,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7519,
+   "fin": 7529,
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "title",
+   "ini": 7530,
+   "fin": 7554,
+   "texto": "Muestra de ornamentación"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7555,
+   "fin": 7579,
+   "rasgos": {
+    "type": "tempera, colorPencil"
+   },
+   "texto": "Témpera y lápiz de color"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7580,
+   "fin": 7592,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "42 x 14,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7580,
+   "fin": 7582,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 7585,
+   "fin": 7589,
+   "texto": "14,5"
+  },
+  {
+   "tipo": "img",
+   "ini": 7594,
+   "fin": 7599,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7601,
+   "fin": 7678
+  },
+  {
+   "tipo": "work",
+   "ini": 7601,
+   "fin": 7671,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Aurora Villaviejas\nCapilla de Santa Inés\nAcuarela y grafito\n41 x 31 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 7601,
+   "fin": 7619,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7601,
+   "fin": 7619,
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "title",
+   "ini": 7620,
+   "fin": 7641,
+   "texto": "Capilla de Santa Inés"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7642,
+   "fin": 7661,
+   "rasgos": {
+    "type": "watercolour, graphite"
+   },
+   "texto": "Acuarela y grafito\n"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7661,
+   "fin": 7671,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 31 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7661,
+   "fin": 7663,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 7666,
+   "fin": 7668,
+   "texto": "31"
+  },
+  {
+   "tipo": "img",
+   "ini": 7673,
+   "fin": 7678,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7680,
+   "fin": 7747
+  },
+  {
+   "tipo": "img",
+   "ini": 7680,
+   "fin": 7685,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7687,
+   "fin": 7747,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Inma Serrano\nCapilla de Santa Inés. In situ\nTinta\n25 x 40 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 7687,
+   "fin": 7699,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7687,
+   "fin": 7699,
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "title",
+   "ini": 7700,
+   "fin": 7730,
+   "texto": "Capilla de Santa Inés. In situ"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7731,
+   "fin": 7736,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7737,
+   "fin": 7747,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "25 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7737,
+   "fin": 7739,
+   "texto": "25"
+  },
+  {
+   "tipo": "width",
+   "ini": 7742,
+   "fin": 7744,
+   "texto": "40"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7750,
+   "fin": 7822
+  },
+  {
+   "tipo": "work",
+   "ini": 7750,
+   "fin": 7814,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Inma Serrano\nCapilla de Santa Inés\nTinta y acuarela\n42 x 29,5 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 7750,
+   "fin": 7762,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7750,
+   "fin": 7762,
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "title",
+   "ini": 7763,
+   "fin": 7785,
+   "texto": "Capilla de Santa Inés\n"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7785,
+   "fin": 7801,
+   "rasgos": {
+    "type": "ink, watercolour"
+   },
+   "texto": "Tinta y acuarela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7802,
+   "fin": 7814,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "42 x 29,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7802,
+   "fin": 7804,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 7807,
+   "fin": 7811,
+   "texto": "29,5"
+  },
+  {
+   "tipo": "img",
+   "ini": 7816,
+   "fin": 7821,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 7823,
+   "fin": 8561
+  },
+  {
+   "tipo": "title",
+   "ini": 7823,
+   "fin": 7840,
+   "texto": "Puente de Triana "
+  },
+  {
+   "tipo": "title",
+   "ini": 7842,
+   "fin": 7848,
+   "texto": "Rima X"
+  },
+  {
+   "tipo": "title",
+   "ini": 8118,
+   "fin": 8130,
+   "texto": "Rima XXXVIII"
+  },
+  {
+   "tipo": "title",
+   "ini": 8266,
+   "fin": 8273,
+   "texto": "Rima IX"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8564,
+   "fin": 8654
+  },
+  {
+   "tipo": "work",
+   "ini": 8564,
+   "fin": 8647,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Celia Burgos\nFlotando en olas de armonía\nLápices de colores y acuarela\n29.7 x 42 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 8564,
+   "fin": 8576,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Celia Burgos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8564,
+   "fin": 8576,
+   "texto": "Celia Burgos"
+  },
+  {
+   "tipo": "title",
+   "ini": 8577,
+   "fin": 8604,
+   "texto": "Flotando en olas de armonía"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8605,
+   "fin": 8634,
+   "rasgos": {
+    "type": "colorPencil, watercolour"
+   },
+   "texto": "Lápices de colores y acuarela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8635,
+   "fin": 8647,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29.7 x 42 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8635,
+   "fin": 8639,
+   "texto": "29.7"
+  },
+  {
+   "tipo": "width",
+   "ini": 8642,
+   "fin": 8644,
+   "texto": "42"
+  },
+  {
+   "tipo": "img",
+   "ini": 8649,
+   "fin": 8654,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8656,
+   "fin": 8744
+  },
+  {
+   "tipo": "work",
+   "ini": 8656,
+   "fin": 8737,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Celia Burgos\nFlotando en olas de armonía\nLápices de colores y acuarela\n25 x 35 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 8656,
+   "fin": 8668,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Celia Burgos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8656,
+   "fin": 8668,
+   "texto": "Celia Burgos"
+  },
+  {
+   "tipo": "title",
+   "ini": 8669,
+   "fin": 8696,
+   "texto": "Flotando en olas de armonía"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8697,
+   "fin": 8726,
+   "rasgos": {
+    "type": "watercolour, colorPencil"
+   },
+   "texto": "Lápices de colores y acuarela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8727,
+   "fin": 8737,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "25 x 35 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8727,
+   "fin": 8729,
+   "texto": "25"
+  },
+  {
+   "tipo": "width",
+   "ini": 8732,
+   "fin": 8734,
+   "texto": "35"
+  },
+  {
+   "tipo": "img",
+   "ini": 8739,
+   "fin": 8744,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8746,
+   "fin": 8834
+  },
+  {
+   "tipo": "img",
+   "ini": 8746,
+   "fin": 8751,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8753,
+   "fin": 8834,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Celia Burgos\nFlotando en olas de armonía\nLápices de colores y acuarela\n25 x 35 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 8753,
+   "fin": 8765,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Celia Burgos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8753,
+   "fin": 8765,
+   "texto": "Celia Burgos"
+  },
+  {
+   "tipo": "title",
+   "ini": 8766,
+   "fin": 8793,
+   "texto": "Flotando en olas de armonía"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8794,
+   "fin": 8824,
+   "rasgos": {
+    "type": "colorPencil, watercolour"
+   },
+   "texto": "Lápices de colores y acuarela\n"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8824,
+   "fin": 8834,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "25 x 35 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8824,
+   "fin": 8826,
+   "texto": "25"
+  },
+  {
+   "tipo": "width",
+   "ini": 8829,
+   "fin": 8831,
+   "texto": "35"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8837,
+   "fin": 8891
+  },
+  {
+   "tipo": "work",
+   "ini": 8837,
+   "fin": 8884,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Inma Otero\nDesde el puente\nGrafito\n42 x 29,7 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 8837,
+   "fin": 8847,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8837,
+   "fin": 8847,
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "title",
+   "ini": 8848,
+   "fin": 8863,
+   "texto": "Desde el puente"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8864,
+   "fin": 8871,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Grafito"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8872,
+   "fin": 8884,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "42 x 29,7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 8872,
+   "fin": 8874,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 8877,
+   "fin": 8881,
+   "texto": "29,7"
+  },
+  {
+   "tipo": "img",
+   "ini": 8886,
+   "fin": 8891,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8893,
+   "fin": 8947
+  },
+  {
+   "tipo": "img",
+   "ini": 8893,
+   "fin": 8898,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 8900,
+   "fin": 8946,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Inma Otero\nLa Otra Orilla\nGrafito\n29,7 x 42 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 8900,
+   "fin": 8910,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8900,
+   "fin": 8910,
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "title",
+   "ini": 8911,
+   "fin": 8925,
+   "texto": "La Otra Orilla"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8926,
+   "fin": 8933,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Grafito"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 8934,
+   "fin": 8947,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29,7 x 42 cm\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 8934,
+   "fin": 8938,
+   "texto": "29,7"
+  },
+  {
+   "tipo": "width",
+   "ini": 8941,
+   "fin": 8943,
+   "texto": "42"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 8949,
+   "fin": 9026
+  },
+  {
+   "tipo": "work",
+   "ini": 8949,
+   "fin": 9019,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Aurora Villaviejas\nUn marco incomparable\nAcuarela y grafito\n31 x 41 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 8949,
+   "fin": 8967,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8949,
+   "fin": 8967,
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "title",
+   "ini": 8968,
+   "fin": 8989,
+   "texto": "Un marco incomparable"
+  },
+  {
+   "tipo": "technique",
+   "ini": 8990,
+   "fin": 9008,
+   "rasgos": {
+    "type": "watercolour, ink"
+   },
+   "texto": "Acuarela y grafito"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9009,
+   "fin": 9027,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "31 x 41 cm\n\n[img]\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 9009,
+   "fin": 9011,
+   "texto": "31"
+  },
+  {
+   "tipo": "width",
+   "ini": 9014,
+   "fin": 9016,
+   "texto": "41"
+  },
+  {
+   "tipo": "img",
+   "ini": 9021,
+   "fin": 9026,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9028,
+   "fin": 9087
+  },
+  {
+   "tipo": "img",
+   "ini": 9028,
+   "fin": 9033,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9035,
+   "fin": 9087,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Arturo Redondo\nIn situ\nAcuarela y tinta\n21 x 29,7 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 9035,
+   "fin": 9049,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Arturo Redondo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9035,
+   "fin": 9049,
+   "texto": "Arturo Redondo"
+  },
+  {
+   "tipo": "title",
+   "ini": 9050,
+   "fin": 9057,
+   "texto": "In situ"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9058,
+   "fin": 9074,
+   "rasgos": {
+    "type": "watercolour, ink"
+   },
+   "texto": "Acuarela y tinta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9075,
+   "fin": 9087,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "21 x 29,7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 9075,
+   "fin": 9077,
+   "texto": "21"
+  },
+  {
+   "tipo": "width",
+   "ini": 9080,
+   "fin": 9084,
+   "texto": "29,7"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 9090,
+   "fin": 9155
+  },
+  {
+   "tipo": "work",
+   "ini": 9090,
+   "fin": 9148,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Arturo Redondo\nBécquer 27 años\nAcuarela y tinta\n30 x 42 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 9090,
+   "fin": 9104,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Arturo Redondo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9090,
+   "fin": 9104,
+   "texto": "Arturo Redondo"
+  },
+  {
+   "tipo": "title",
+   "ini": 9105,
+   "fin": 9120,
+   "texto": "Bécquer 27 años"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9105,
+   "fin": 9112,
+   "texto": "Bécquer"
+  },
+  {
+   "tipo": "technique",
+   "ini": 9121,
+   "fin": 9137,
+   "rasgos": {
+    "type": "watercolour, ink"
+   },
+   "texto": "Acuarela y tinta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 9138,
+   "fin": 9148,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 42 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 9138,
+   "fin": 9140,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 9143,
+   "fin": 9145,
+   "texto": "42"
+  },
+  {
+   "tipo": "img",
+   "ini": 9150,
+   "fin": 9155,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 9157,
+   "fin": 11163
+  },
+  {
+   "tipo": "title",
+   "ini": 9157,
+   "fin": 9194,
+   "texto": "Poesía escolar [Plaza de San Lorenzo]"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9205,
+   "fin": 9219,
+   "texto": "Gustavo Adolfo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9581,
+   "fin": 9588,
+   "texto": "Bécquer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9657,
+   "fin": 9664,
+   "texto": "Bécquer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10130,
+   "fin": 10137,
+   "texto": "Bécquer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10677,
+   "fin": 10684,
+   "texto": "Bécquer"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 10700,
+   "fin": 10707,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11070,
+   "fin": 11077,
+   "texto": "Bécquer"
+  },
+  {
+   "tipo": "person",
+   "ini": 11149,
+   "fin": 11164,
+   "rasgos": {
+    "role": "creator, textAuthor"
+   },
+   "texto": "Arturo Redondo\n"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11149,
+   "fin": 11163,
+   "texto": "Arturo Redondo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11166,
+   "fin": 11241
+  },
+  {
+   "tipo": "work",
+   "ini": 11166,
+   "fin": 11234,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Inma Serrano\nEn espiral inmensa\nAcuarela y lápiz de color\n41 x 31 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 11166,
+   "fin": 11178,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11166,
+   "fin": 11178,
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "title",
+   "ini": 11179,
+   "fin": 11197,
+   "texto": "En espiral inmensa"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11198,
+   "fin": 11223,
+   "rasgos": {
+    "type": "watercolour, colorPencil"
+   },
+   "texto": "Acuarela y lápiz de color"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11224,
+   "fin": 11234,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 31 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11224,
+   "fin": 11226,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 11229,
+   "fin": 11231,
+   "texto": "31"
+  },
+  {
+   "tipo": "img",
+   "ini": 11236,
+   "fin": 11241,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11243,
+   "fin": 11311
+  },
+  {
+   "tipo": "img",
+   "ini": 11243,
+   "fin": 11248,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 11250,
+   "fin": 11311,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Arturo Redondo\nBecquer 8 años\nTinta acuarela lapiz\n30 x 42 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 11250,
+   "fin": 11264,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Arturo Redondo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11250,
+   "fin": 11264,
+   "texto": "Arturo Redondo"
+  },
+  {
+   "tipo": "title",
+   "ini": 11265,
+   "fin": 11279,
+   "texto": "Becquer 8 años"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11265,
+   "fin": 11272,
+   "texto": "Becquer"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11280,
+   "fin": 11300,
+   "rasgos": {
+    "type": "ink, watercolour, pencil"
+   },
+   "texto": "Tinta acuarela lapiz"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11301,
+   "fin": 11311,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 42 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11301,
+   "fin": 11303,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 11306,
+   "fin": 11308,
+   "texto": "42"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11314,
+   "fin": 11372
+  },
+  {
+   "tipo": "work",
+   "ini": 11314,
+   "fin": 11365,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Arturo Redondo\ndibujo preparatorio\nlapiz\n30 x 42 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 11314,
+   "fin": 11328,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Arturo Redondo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11314,
+   "fin": 11328,
+   "texto": "Arturo Redondo"
+  },
+  {
+   "tipo": "title",
+   "ini": 11329,
+   "fin": 11348,
+   "texto": "dibujo preparatorio"
+  },
+  {
+   "tipo": "technique",
+   "ini": 11329,
+   "fin": 11348,
+   "rasgos": {
+    "type": "sketch"
+   },
+   "texto": "dibujo preparatorio"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11355,
+   "fin": 11365,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 42 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11355,
+   "fin": 11357,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 11360,
+   "fin": 11362,
+   "texto": "42"
+  },
+  {
+   "tipo": "img",
+   "ini": 11367,
+   "fin": 11372,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 11374,
+   "fin": 12363
+  },
+  {
+   "tipo": "title",
+   "ini": 11374,
+   "fin": 11404,
+   "texto": "Panteón de Sevillanos Ilustres"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11617,
+   "fin": 11644,
+   "texto": "Gustavo y\nValeriano Bécquer"
+  },
+  {
+   "tipo": "person",
+   "ini": 12344,
+   "fin": 12363,
+   "rasgos": {
+    "role": "creator, textAuthor"
+   },
+   "texto": "Inma Otero Carrasco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12344,
+   "fin": 12363,
+   "texto": "Inma Otero Carrasco"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12366,
+   "fin": 12414
+  },
+  {
+   "tipo": "work",
+   "ini": 12366,
+   "fin": 12407,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Inma Otero\nLa Guarda\nGrafito\n42 x 29,7 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 12366,
+   "fin": 12376,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12366,
+   "fin": 12376,
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "title",
+   "ini": 12377,
+   "fin": 12386,
+   "texto": "La Guarda"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12387,
+   "fin": 12394,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Grafito"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12395,
+   "fin": 12407,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "42 x 29,7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 12395,
+   "fin": 12397,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 12400,
+   "fin": 12404,
+   "texto": "29,7"
+  },
+  {
+   "tipo": "img",
+   "ini": 12409,
+   "fin": 12414,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12416,
+   "fin": 12487
+  },
+  {
+   "tipo": "img",
+   "ini": 12416,
+   "fin": 12421,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 12423,
+   "fin": 12487,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Aurora Villaviejas\nUn día de rimas\nAcuarela y grafito\n24 x 32 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 12423,
+   "fin": 12441,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12423,
+   "fin": 12441,
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "title",
+   "ini": 12442,
+   "fin": 12457,
+   "texto": "Un día de rimas"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12458,
+   "fin": 12476,
+   "rasgos": {
+    "type": "watercolour, graphite"
+   },
+   "texto": "Acuarela y grafito"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12477,
+   "fin": 12487,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "24 x 32 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 12477,
+   "fin": 12479,
+   "texto": "24"
+  },
+  {
+   "tipo": "width",
+   "ini": 12482,
+   "fin": 12484,
+   "texto": "32"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12490,
+   "fin": 12564
+  },
+  {
+   "tipo": "work",
+   "ini": 12490,
+   "fin": 12557,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Inma Serrano\nTan oscuro y yerto\nTinta y lápices de color\n31 x 41 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 12490,
+   "fin": 12502,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12490,
+   "fin": 12502,
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "title",
+   "ini": 12503,
+   "fin": 12521,
+   "texto": "Tan oscuro y yerto"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12522,
+   "fin": 12546,
+   "rasgos": {
+    "type": "ink, colorPencil"
+   },
+   "texto": "Tinta y lápices de color"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12547,
+   "fin": 12557,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "31 x 41 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 12547,
+   "fin": 12549,
+   "texto": "31"
+  },
+  {
+   "tipo": "width",
+   "ini": 12552,
+   "fin": 12554,
+   "texto": "41"
+  },
+  {
+   "tipo": "img",
+   "ini": 12559,
+   "fin": 12564,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 12566,
+   "fin": 13274
+  },
+  {
+   "tipo": "title",
+   "ini": 12566,
+   "fin": 12584,
+   "texto": "Venta de los Gatos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12934,
+   "fin": 12941,
+   "texto": "Becquer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13196,
+   "fin": 13203,
+   "texto": "Bécquer"
+  },
+  {
+   "tipo": "person",
+   "ini": 13256,
+   "fin": 13274,
+   "rasgos": {
+    "role": "creator, textAuthor"
+   },
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13256,
+   "fin": 13274,
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13277,
+   "fin": 13370
+  },
+  {
+   "tipo": "work",
+   "ini": 13277,
+   "fin": 13363,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Aurora Villaviejas\nLa Venta de los Gatos:\nPrimer intento\nAcuarela y grafito\n31 x 41 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 13277,
+   "fin": 13295,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13277,
+   "fin": 13295,
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "title",
+   "ini": 13296,
+   "fin": 13333,
+   "texto": "La Venta de los Gatos:\nPrimer intento"
+  },
+  {
+   "tipo": "technique",
+   "ini": 13334,
+   "fin": 13352,
+   "rasgos": {
+    "type": "watercolour, graphite"
+   },
+   "texto": "Acuarela y grafito"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13353,
+   "fin": 13363,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "31 x 41 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 13353,
+   "fin": 13355,
+   "texto": "31"
+  },
+  {
+   "tipo": "width",
+   "ini": 13358,
+   "fin": 13360,
+   "texto": "41"
+  },
+  {
+   "tipo": "img",
+   "ini": 13365,
+   "fin": 13370,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13372,
+   "fin": 13446
+  },
+  {
+   "tipo": "img",
+   "ini": 13372,
+   "fin": 13377,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 13379,
+   "fin": 13446,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Aurora Villaviejas\nLa venta de los Gatos: boceto\nGrafito\n21 x 30 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 13379,
+   "fin": 13397,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13379,
+   "fin": 13397,
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "title",
+   "ini": 13398,
+   "fin": 13427,
+   "texto": "La venta de los Gatos: boceto"
+  },
+  {
+   "tipo": "technique",
+   "ini": 13428,
+   "fin": 13435,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Grafito"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13436,
+   "fin": 13446,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "21 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 13436,
+   "fin": 13438,
+   "texto": "21"
+  },
+  {
+   "tipo": "width",
+   "ini": 13441,
+   "fin": 13443,
+   "texto": "30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 13449,
+   "fin": 13543
+  },
+  {
+   "tipo": "work",
+   "ini": 13449,
+   "fin": 13536,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Aurora Villaviejas\nLa venta de los Gatos no\ntiene 7 vidas\nAcuarela y grafito\n31 x 41 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 13449,
+   "fin": 13467,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13449,
+   "fin": 13467,
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "title",
+   "ini": 13468,
+   "fin": 13506,
+   "texto": "La venta de los Gatos no\ntiene 7 vidas"
+  },
+  {
+   "tipo": "technique",
+   "ini": 13507,
+   "fin": 13525,
+   "rasgos": {
+    "type": "watercolour, graphite"
+   },
+   "texto": "Acuarela y grafito"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 13526,
+   "fin": 13536,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "31 x 41 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 13526,
+   "fin": 13528,
+   "texto": "31"
+  },
+  {
+   "tipo": "width",
+   "ini": 13531,
+   "fin": 13533,
+   "texto": "41"
+  },
+  {
+   "tipo": "img",
+   "ini": 13538,
+   "fin": 13543,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 13545,
+   "fin": 14382
+  },
+  {
+   "tipo": "title",
+   "ini": 13545,
+   "fin": 13560,
+   "texto": "Plaza del Museo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14204,
+   "fin": 14210,
+   "texto": "Béquer"
+  },
+  {
+   "tipo": "person",
+   "ini": 14370,
+   "fin": 14382,
+   "rasgos": {
+    "role": "creator, textAuthor"
+   },
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14370,
+   "fin": 14382,
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14385,
+   "fin": 14463
+  },
+  {
+   "tipo": "work",
+   "ini": 14385,
+   "fin": 14456,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Aurora Villaviejas\nAl museo de Sevilla...\nAcuarela y grafito\n31 x 41 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 14385,
+   "fin": 14403,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14385,
+   "fin": 14403,
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "title",
+   "ini": 14404,
+   "fin": 14426,
+   "texto": "Al museo de Sevilla..."
+  },
+  {
+   "tipo": "technique",
+   "ini": 14427,
+   "fin": 14445,
+   "rasgos": {
+    "type": "watercolour, graphite"
+   },
+   "texto": "Acuarela y grafito"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14446,
+   "fin": 14456,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "31 x 41 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14446,
+   "fin": 14448,
+   "texto": "31"
+  },
+  {
+   "tipo": "width",
+   "ini": 14451,
+   "fin": 14453,
+   "texto": "41"
+  },
+  {
+   "tipo": "img",
+   "ini": 14458,
+   "fin": 14464,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14465,
+   "fin": 14523
+  },
+  {
+   "tipo": "work",
+   "ini": 14465,
+   "fin": 14516,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Arturo Redondo\nDibujo preparatorio\nLápiz\n30 x 42 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 14465,
+   "fin": 14479,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Arturo Redondo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14465,
+   "fin": 14479,
+   "texto": "Arturo Redondo"
+  },
+  {
+   "tipo": "title",
+   "ini": 14480,
+   "fin": 14499,
+   "texto": "Dibujo preparatorio"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14480,
+   "fin": 14499,
+   "rasgos": {
+    "type": "sketch"
+   },
+   "texto": "Dibujo preparatorio"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14506,
+   "fin": 14516,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 42 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14506,
+   "fin": 14508,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 14511,
+   "fin": 14513,
+   "texto": "42"
+  },
+  {
+   "tipo": "img",
+   "ini": 14518,
+   "fin": 14523,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14525,
+   "fin": 14597
+  },
+  {
+   "tipo": "work",
+   "ini": 14525,
+   "fin": 14590,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Arturo Redondo\nBecquer 14 años\nTinta, acuarela y lápiz\n30 x 42 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 14525,
+   "fin": 14539,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Arturo Redondo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14525,
+   "fin": 14539,
+   "texto": "Arturo Redondo"
+  },
+  {
+   "tipo": "title",
+   "ini": 14540,
+   "fin": 14555,
+   "texto": "Becquer 14 años"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14540,
+   "fin": 14547,
+   "texto": "Becquer"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14556,
+   "fin": 14579,
+   "rasgos": {
+    "type": "watercolour, ink, pencil"
+   },
+   "texto": "Tinta, acuarela y lápiz"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14580,
+   "fin": 14590,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 42 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14580,
+   "fin": 14582,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 14585,
+   "fin": 14587,
+   "texto": "42"
+  },
+  {
+   "tipo": "img",
+   "ini": 14592,
+   "fin": 14597,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14599,
+   "fin": 14689
+  },
+  {
+   "tipo": "img",
+   "ini": 14599,
+   "fin": 14604,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14606,
+   "fin": 14688,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Inma Serrano\nLejos entre los árboles. In situ\nAcuarela y lápiz de color\n25 x 40 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 14606,
+   "fin": 14618,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14606,
+   "fin": 14618,
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "title",
+   "ini": 14619,
+   "fin": 14651,
+   "texto": "Lejos entre los árboles. In situ"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14652,
+   "fin": 14677,
+   "rasgos": {
+    "type": "watercolour, colorPencil"
+   },
+   "texto": "Acuarela y lápiz de color"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14678,
+   "fin": 14688,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "25 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14678,
+   "fin": 14680,
+   "texto": "25"
+  },
+  {
+   "tipo": "width",
+   "ini": 14683,
+   "fin": 14685,
+   "texto": "40"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14691,
+   "fin": 14767
+  },
+  {
+   "tipo": "work",
+   "ini": 14691,
+   "fin": 14760,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Inma Serrano\nLejos entre los árboles\nTinta y cera blanda\n29,5 x 42 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 14691,
+   "fin": 14703,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14691,
+   "fin": 14703,
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "title",
+   "ini": 14704,
+   "fin": 14727,
+   "texto": "Lejos entre los árboles"
+  },
+  {
+   "tipo": "technique",
+   "ini": 14728,
+   "fin": 14747,
+   "rasgos": {
+    "type": "ink, crayon"
+   },
+   "texto": "Tinta y cera blanda"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14748,
+   "fin": 14760,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29,5 x 42 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14748,
+   "fin": 14752,
+   "texto": "29,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 14755,
+   "fin": 14757,
+   "texto": "42"
+  },
+  {
+   "tipo": "img",
+   "ini": 14762,
+   "fin": 14767,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 14769,
+   "fin": 17509
+  },
+  {
+   "tipo": "title",
+   "ini": 14769,
+   "fin": 14784,
+   "texto": "Cruz de Bécquer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14777,
+   "fin": 14784,
+   "texto": "Bécquer"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 15453,
+   "fin": 15460,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17219,
+   "fin": 17226,
+   "texto": "Bécquer"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 17345,
+   "fin": 17352,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "person",
+   "ini": 17497,
+   "fin": 17509,
+   "rasgos": {
+    "role": "creator, textAuthor"
+   },
+   "texto": "Celia Burgos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17497,
+   "fin": 17509,
+   "texto": "Celia Burgos"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17511,
+   "fin": 17610
+  },
+  {
+   "tipo": "img",
+   "ini": 17511,
+   "fin": 17516,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17529,
+   "fin": 17610,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Celia Burgos\nVuelos de luces y sombras\nLápices de colores y acuarela\n29.7 x 42 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 17529,
+   "fin": 17541,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Celia Burgos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17529,
+   "fin": 17541,
+   "texto": "Celia Burgos"
+  },
+  {
+   "tipo": "title",
+   "ini": 17542,
+   "fin": 17567,
+   "texto": "Vuelos de luces y sombras"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17568,
+   "fin": 17597,
+   "rasgos": {
+    "type": "colorPencil, watercolour"
+   },
+   "texto": "Lápices de colores y acuarela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17598,
+   "fin": 17610,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29.7 x 42 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17598,
+   "fin": 17602,
+   "texto": "29.7"
+  },
+  {
+   "tipo": "width",
+   "ini": 17605,
+   "fin": 17607,
+   "texto": "42"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17613,
+   "fin": 17705
+  },
+  {
+   "tipo": "work",
+   "ini": 17624,
+   "fin": 17698,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Aurora Villaviejas\nUna cruz de piedra blanca\nAcuarela y Grafito\n31 x 41 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 17624,
+   "fin": 17643,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Aurora Villaviejas\n"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17624,
+   "fin": 17642,
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "title",
+   "ini": 17643,
+   "fin": 17668,
+   "texto": "Una cruz de piedra blanca"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17669,
+   "fin": 17687,
+   "rasgos": {
+    "type": "watercolor, graphite"
+   },
+   "texto": "Acuarela y Grafito"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17688,
+   "fin": 17698,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "31 x 41 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17688,
+   "fin": 17690,
+   "texto": "31"
+  },
+  {
+   "tipo": "width",
+   "ini": 17693,
+   "fin": 17695,
+   "texto": "41"
+  },
+  {
+   "tipo": "img",
+   "ini": 17700,
+   "fin": 17705,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17707,
+   "fin": 17786
+  },
+  {
+   "tipo": "work",
+   "ini": 17707,
+   "fin": 17779,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Inma Serrano\nDonde habite el olvido\nAcuarela y lápiz de color\n30 x 40 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 17707,
+   "fin": 17719,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17707,
+   "fin": 17719,
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "title",
+   "ini": 17720,
+   "fin": 17742,
+   "texto": "Donde habite el olvido"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17743,
+   "fin": 17768,
+   "rasgos": {
+    "type": "watercolour, colorPencil"
+   },
+   "texto": "Acuarela y lápiz de color"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17769,
+   "fin": 17779,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17769,
+   "fin": 17771,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 17774,
+   "fin": 17776,
+   "texto": "40"
+  },
+  {
+   "tipo": "img",
+   "ini": 17781,
+   "fin": 17786,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 17788,
+   "fin": 17800,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17788,
+   "fin": 17800,
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "person",
+   "ini": 17864,
+   "fin": 17876,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17864,
+   "fin": 17876,
+   "texto": "Inma Serrano"
+  },
+  {
+   "tipo": "person",
+   "ini": 18648,
+   "fin": 18667,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Celia Burgos Romero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18648,
+   "fin": 18667,
+   "texto": "Celia Burgos Romero"
+  },
+  {
+   "tipo": "person",
+   "ini": 19726,
+   "fin": 19744,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19726,
+   "fin": 19744,
+   "texto": "Aurora Villaviejas"
+  },
+  {
+   "tipo": "person",
+   "ini": 20559,
+   "fin": 20577,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Arturo Redondo Paz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20559,
+   "fin": 20577,
+   "texto": "Arturo Redondo Paz"
+  },
+  {
+   "tipo": "person",
+   "ini": 21542,
+   "fin": 21552,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21542,
+   "fin": 21552,
+   "texto": "Inma Otero"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 22899,
+   "fin": 23840,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 22899,
+   "fin": 22915,
+   "texto": "Bécquer a trazos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22899,
+   "fin": 22906,
+   "texto": "Bécquer"
+  },
+  {
+   "tipo": "date",
+   "ini": 22946,
+   "fin": 22983,
+   "rasgos": {
+    "when": "2020-12-15"
+   },
+   "texto": "quince de diciembre\nde dos mil veinte"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 22987,
+   "fin": 22994,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23013,
+   "fin": 23020,
+   "texto": "Bécquer"
+  },
+  {
+   "tipo": "institution",
+   "ini": 23021,
+   "fin": 23043,
+   "rasgos": {
+    "type": "univerisity",
+    "role": "organiser"
+   },
+   "texto": "Universidad de Sevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 23036,
+   "fin": 23043,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 23109,
+   "fin": 23116,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23120,
+   "fin": 23127,
+   "texto": "Bécquer"
+  },
+  {
+   "tipo": "institution",
+   "ini": 23504,
+   "fin": 23509,
+   "rasgos": {
+    "type": "culturalCenter",
+    "role": "organiser, host"
+   },
+   "texto": "CICUS"
+  },
+  {
+   "tipo": "institution",
+   "ini": 23773,
+   "fin": 23840,
+   "rasgos": {
+    "type": "culturalCenter",
+    "role": "organiser, host"
+   },
+   "texto": "CICUS\nCentro de Iniciativas Culturales de la Universidad de Sevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 23833,
+   "fin": 23840,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  }
+ ]
+}

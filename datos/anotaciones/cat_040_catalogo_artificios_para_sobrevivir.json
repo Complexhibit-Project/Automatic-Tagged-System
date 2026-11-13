@@ -1,0 +1,3636 @@
+{
+ "id": "cat_040_catalogo_artificios_para_sobrevivir",
+ "nombre_original": "Catalogo-Artificios-para-sobrevivir",
+ "longitud_texto": 40744,
+ "sha256_texto": "c85d6e624e73af1e000dda47d00e72d8fac86273a4ff79cae51dcd71adb270df",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 51,
+   "texto": "ARTIFICIOS PARA SOBREVIVIR\nEL EXTRAÑO CASO DEL ITAE"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 51,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 47,
+   "fin": 51,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 109,
+   "fin": 113,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 254,
+   "fin": 258,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 410,
+   "fin": 414,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 798,
+   "fin": 802,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1103,
+   "fin": 1107,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1339,
+   "fin": 1343,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1479,
+   "fin": 1483,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1648,
+   "fin": 1657,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "Instituto"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1869,
+   "fin": 1873,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1994,
+   "fin": 1998,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2444,
+   "fin": 2448,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2562,
+   "fin": 2592,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "Laboratorio de Teatro del ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2717,
+   "fin": 2721,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2734,
+   "fin": 2751,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "Cineclub del ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3133,
+   "fin": 3137,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3587,
+   "fin": 3591,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3596,
+   "fin": 3600,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4296,
+   "fin": 4300,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4506,
+   "fin": 4510,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4747,
+   "fin": 4751,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4935,
+   "fin": 4939,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5567,
+   "fin": 5571,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5905,
+   "fin": 5909,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6310,
+   "fin": 6314,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6482,
+   "fin": 6486,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6546,
+   "fin": 6550,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6625,
+   "fin": 6629,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6799,
+   "fin": 6803,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 6996,
+   "fin": 7000,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 7262,
+   "fin": 7266,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 7374,
+   "fin": 7378,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 8110,
+   "fin": 8114,
+   "rasgos": {
+    "type": "institution",
+    "role": "organiser"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 8233,
+   "fin": 8237,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 8731,
+   "fin": 8735,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 8791,
+   "fin": 8795,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 9148,
+   "fin": 9152,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 9792,
+   "fin": 9796,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 9918,
+   "fin": 9922,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 10026,
+   "fin": 10030,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 10050,
+   "fin": 10518,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 10050,
+   "fin": 10101,
+   "texto": "ARTIFICIOS PARA SOBREVIVIR\nEL EXTRAÑO CASO DEL ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 10097,
+   "fin": 10101,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "person",
+   "ini": 10103,
+   "fin": 10117,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10103,
+   "fin": 10117,
+   "texto": "David Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 10119,
+   "fin": 10135,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Carlos León"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10119,
+   "fin": 10135,
+   "texto": "Juan Carlos León"
+  },
+  {
+   "tipo": "person",
+   "ini": 10137,
+   "fin": 10151,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ilich Castillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10137,
+   "fin": 10151,
+   "texto": "Ilich Castillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 10153,
+   "fin": 10168,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Daniel Chonillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10153,
+   "fin": 10168,
+   "texto": "Daniel Chonillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 10170,
+   "fin": 10181,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lorena Peña"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10170,
+   "fin": 10181,
+   "texto": "Lorena Peña"
+  },
+  {
+   "tipo": "person",
+   "ini": 10183,
+   "fin": 10199,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gabriela Chérrez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10183,
+   "fin": 10199,
+   "texto": "Gabriela Chérrez"
+  },
+  {
+   "tipo": "person",
+   "ini": 10201,
+   "fin": 10211,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "René\nPonce"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10201,
+   "fin": 10211,
+   "texto": "René\nPonce"
+  },
+  {
+   "tipo": "person",
+   "ini": 10213,
+   "fin": 10229,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gabriela Cabrera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10213,
+   "fin": 10229,
+   "texto": "Gabriela Cabrera"
+  },
+  {
+   "tipo": "person",
+   "ini": 10231,
+   "fin": 10247,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oswaldo Terreros"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10231,
+   "fin": 10247,
+   "texto": "Oswaldo Terreros"
+  },
+  {
+   "tipo": "person",
+   "ini": 10249,
+   "fin": 10261,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Caguana"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10249,
+   "fin": 10261,
+   "texto": "Juan Caguana"
+  },
+  {
+   "tipo": "person",
+   "ini": 10263,
+   "fin": 10277,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Anthony Arrobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10263,
+   "fin": 10277,
+   "texto": "Anthony Arrobo"
+  },
+  {
+   "tipo": "person",
+   "ini": 10279,
+   "fin": 10294,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Leonidas Corozo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10279,
+   "fin": 10294,
+   "texto": "Leonidas Corozo"
+  },
+  {
+   "tipo": "person",
+   "ini": 10296,
+   "fin": 10310,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel\nCórdova"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10296,
+   "fin": 10310,
+   "texto": "Manuel\nCórdova"
+  },
+  {
+   "tipo": "person",
+   "ini": 10312,
+   "fin": 10327,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Daniel Alvarado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10312,
+   "fin": 10327,
+   "texto": "Daniel Alvarado"
+  },
+  {
+   "tipo": "person",
+   "ini": 10329,
+   "fin": 10341,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José HIdalgo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10329,
+   "fin": 10341,
+   "texto": "José HIdalgo"
+  },
+  {
+   "tipo": "person",
+   "ini": 10343,
+   "fin": 10358,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sandra González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10343,
+   "fin": 10358,
+   "texto": "Sandra González"
+  },
+  {
+   "tipo": "person",
+   "ini": 10360,
+   "fin": 10372,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Romina Muñoz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10360,
+   "fin": 10372,
+   "texto": "Romina Muñoz"
+  },
+  {
+   "tipo": "person",
+   "ini": 10374,
+   "fin": 10388,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gabriela Fabre"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10374,
+   "fin": 10388,
+   "texto": "Gabriela Fabre"
+  },
+  {
+   "tipo": "person",
+   "ini": 10402,
+   "fin": 10417,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Ana Rosa Valdez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10402,
+   "fin": 10417,
+   "texto": "Ana Rosa Valdez"
+  },
+  {
+   "tipo": "person",
+   "ini": 10420,
+   "fin": 10436,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Juan Carlos León"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10420,
+   "fin": 10436,
+   "texto": "Juan Carlos León"
+  },
+  {
+   "tipo": "venue",
+   "ini": 10438,
+   "fin": 10490,
+   "texto": "Centro Cultural Ccori Wasi\nGALERÍA DE ARTES VISUALES"
+  },
+  {
+   "tipo": "date",
+   "ini": 10491,
+   "fin": 10518,
+   "rasgos": {
+    "from": "2011-05-05",
+    "to": "2011-05-31"
+   },
+   "texto": "Del 5 al 31 de mayo de 2011"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 10520,
+   "fin": 10576,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 10520,
+   "fin": 10571,
+   "texto": "ARTIFICIOS PARA SOBREVIVIR\nEL EXTRAÑO CASO DEL ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 10567,
+   "fin": 10571,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 10572,
+   "fin": 10576,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "LIMA"
+  },
+  {
+   "tipo": "institution",
+   "ini": 10581,
+   "fin": 10639,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser"
+   },
+   "texto": "Instituto Superior Tecnológico de Artes del Ecuador “ITAE”"
+  },
+  {
+   "tipo": "title",
+   "ini": 10797,
+   "fin": 10851,
+   "texto": "“Artificios para sobrevivir: El extraño caso\ndel ITAE”"
+  },
+  {
+   "tipo": "institution",
+   "ini": 10846,
+   "fin": 10850,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 10935,
+   "fin": 10949,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser"
+   },
+   "texto": "este instituto"
+  },
+  {
+   "tipo": "institution",
+   "ini": 10992,
+   "fin": 10996,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 11687,
+   "fin": 11691,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 12014,
+   "fin": 12023,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser"
+   },
+   "texto": "instituto"
+  },
+  {
+   "tipo": "institution",
+   "ini": 12267,
+   "fin": 12271,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "title",
+   "ini": 12664,
+   "fin": 12717,
+   "texto": "“Artificos para sobrevivir: El extraño caso del ITAE”"
+  },
+  {
+   "tipo": "institution",
+   "ini": 12712,
+   "fin": 12716,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 13882,
+   "fin": 13886,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14536,
+   "fin": 14551,
+   "texto": "Ana Rosa Valdez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14554,
+   "fin": 14570,
+   "texto": "Juan Carlos León"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 14603,
+   "fin": 39588
+  },
+  {
+   "tipo": "text",
+   "ini": 14603,
+   "fin": 15995
+  },
+  {
+   "tipo": "title",
+   "ini": 14603,
+   "fin": 14622,
+   "texto": "Historias del error"
+  },
+  {
+   "tipo": "person",
+   "ini": 15426,
+   "fin": 15434,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Castillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15426,
+   "fin": 15434,
+   "texto": "Castillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 15498,
+   "fin": 15502,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "León"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15498,
+   "fin": 15502,
+   "texto": "León"
+  },
+  {
+   "tipo": "person",
+   "ini": 15589,
+   "fin": 15597,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15589,
+   "fin": 15597,
+   "texto": "Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 15713,
+   "fin": 15721,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Chonillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15713,
+   "fin": 15721,
+   "texto": "Chonillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 15724,
+   "fin": 15728,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Peña"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15724,
+   "fin": 15728,
+   "texto": "Peña"
+  },
+  {
+   "tipo": "date",
+   "ini": 15861,
+   "fin": 15872,
+   "rasgos": {
+    "from": "1920",
+    "to": "1929"
+   },
+   "texto": "años veinte"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 15876,
+   "fin": 15885,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Guayaquil"
+  },
+  {
+   "tipo": "person",
+   "ini": 15997,
+   "fin": 16011,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15997,
+   "fin": 16011,
+   "texto": "David Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 16012,
+   "fin": 16026,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ilich Castillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16012,
+   "fin": 16026,
+   "texto": "Ilich Castillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 16028,
+   "fin": 16044,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Carlos León"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16028,
+   "fin": 16044,
+   "texto": "Juan Carlos León"
+  },
+  {
+   "tipo": "person",
+   "ini": 16046,
+   "fin": 16061,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Daniel Chonillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16046,
+   "fin": 16061,
+   "texto": "Daniel Chonillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 16064,
+   "fin": 16075,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lorena Peña"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16064,
+   "fin": 16075,
+   "texto": "Lorena Peña"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16078,
+   "fin": 17517
+  },
+  {
+   "tipo": "img",
+   "ini": 16078,
+   "fin": 16083,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16085,
+   "fin": 17517,
+   "rasgos": {
+    "type": "video"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 16085,
+   "fin": 16095,
+   "texto": "“Escapada”"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16096,
+   "fin": 16101,
+   "rasgos": {
+    "type": "video"
+   },
+   "texto": "Video"
+  },
+  {
+   "tipo": "duration",
+   "ini": 16103,
+   "fin": 16110,
+   "rasgos": {
+    "unit": "hour"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 16111,
+   "fin": 16115,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "person",
+   "ini": 16116,
+   "fin": 16139,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "David Federico Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16116,
+   "fin": 16139,
+   "texto": "David Federico Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 16215,
+   "fin": 16232,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Johann von Göethe"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16215,
+   "fin": 16232,
+   "texto": "Johann von Göethe"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 16235,
+   "fin": 17517
+  },
+  {
+   "tipo": "title",
+   "ini": 16235,
+   "fin": 16245,
+   "texto": "“Escapada”"
+  },
+  {
+   "tipo": "person",
+   "ini": 17497,
+   "fin": 17516,
+   "texto": "Rev. William Gilpin"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17502,
+   "fin": 17516,
+   "texto": "William Gilpin"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17518,
+   "fin": 18071
+  },
+  {
+   "tipo": "img",
+   "ini": 17519,
+   "fin": 17524,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17526,
+   "fin": 18071,
+   "rasgos": {
+    "type": "video"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 17526,
+   "fin": 17540,
+   "texto": "GLITCH ECUADOR"
+  },
+  {
+   "tipo": "technique",
+   "ini": 17541,
+   "fin": 17546,
+   "rasgos": {
+    "type": "video"
+   },
+   "texto": "Video"
+  },
+  {
+   "tipo": "duration",
+   "ini": 17548,
+   "fin": 17555,
+   "rasgos": {
+    "unit": "hour"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 17556,
+   "fin": 17560,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "person",
+   "ini": 17561,
+   "fin": 17575,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ilich Castillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17561,
+   "fin": 17575,
+   "texto": "Ilich Castillo"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 17577,
+   "fin": 18071
+  },
+  {
+   "tipo": "placeName",
+   "ini": 17634,
+   "fin": 17641,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Ecuador"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 18073,
+   "fin": 19138
+  },
+  {
+   "tipo": "img",
+   "ini": 18073,
+   "fin": 18078,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 18080,
+   "fin": 19139,
+   "rasgos": {
+    "type": "video"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 18080,
+   "fin": 18105,
+   "texto": "Rolf Blomberg / Juan León"
+  },
+  {
+   "tipo": "technique",
+   "ini": 18107,
+   "fin": 18112,
+   "rasgos": {
+    "type": "video"
+   },
+   "texto": "Video"
+  },
+  {
+   "tipo": "duration",
+   "ini": 18114,
+   "fin": 18120,
+   "rasgos": {
+    "unit": "hour"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 18121,
+   "fin": 18131,
+   "rasgos": {
+    "from": "2008",
+    "to": "2009"
+   },
+   "texto": "2008 -2009"
+  },
+  {
+   "tipo": "person",
+   "ini": 18132,
+   "fin": 18148,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Carlos León"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18132,
+   "fin": 18148,
+   "texto": "Juan Carlos León"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 18150,
+   "fin": 19138
+  },
+  {
+   "tipo": "date",
+   "ini": 18289,
+   "fin": 18293,
+   "rasgos": {
+    "when": "1956"
+   },
+   "texto": "1956"
+  },
+  {
+   "tipo": "institution",
+   "ini": 18310,
+   "fin": 18352,
+   "texto": "Industria Cinematográfica\nEcuatoriana C.A."
+  },
+  {
+   "tipo": "person",
+   "ini": 18393,
+   "fin": 18406,
+   "texto": "Rolf Blomberg"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18393,
+   "fin": 18406,
+   "texto": "Rolf Blomberg"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 18460,
+   "fin": 18469,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Guayaquil"
+  },
+  {
+   "tipo": "person",
+   "ini": 18470,
+   "fin": 18495,
+   "texto": "Pedro J. Menéndez Gilbert"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18470,
+   "fin": 18495,
+   "texto": "Pedro J. Menéndez Gilbert"
+  },
+  {
+   "tipo": "date",
+   "ini": 18968,
+   "fin": 18970,
+   "rasgos": {
+    "when": "1956"
+   },
+   "texto": "56"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19140,
+   "fin": 19807
+  },
+  {
+   "tipo": "img",
+   "ini": 19140,
+   "fin": 19145,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 19147,
+   "fin": 19807,
+   "rasgos": {
+    "type": "video"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 19147,
+   "fin": 19166,
+   "texto": "Actualidad en monos"
+  },
+  {
+   "tipo": "technique",
+   "ini": 19167,
+   "fin": 19182,
+   "rasgos": {
+    "type": "animationVideo"
+   },
+   "texto": "Video animación"
+  },
+  {
+   "tipo": "duration",
+   "ini": 19184,
+   "fin": 19189,
+   "rasgos": {
+    "unit": "hour"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 19190,
+   "fin": 19194,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "person",
+   "ini": 19195,
+   "fin": 19210,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Daniel Chonillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19195,
+   "fin": 19210,
+   "texto": "Daniel Chonillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 19213,
+   "fin": 19224,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lorena Peña"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19213,
+   "fin": 19224,
+   "texto": "Lorena Peña"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 19226,
+   "fin": 19807
+  },
+  {
+   "tipo": "placeName",
+   "ini": 19423,
+   "fin": 19432,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Guayaquil"
+  },
+  {
+   "tipo": "date",
+   "ini": 19801,
+   "fin": 19805,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "text",
+   "ini": 19809,
+   "fin": 21526
+  },
+  {
+   "tipo": "title",
+   "ini": 19809,
+   "fin": 19836,
+   "texto": "Autopsia de una tra(d)ición"
+  },
+  {
+   "tipo": "person",
+   "ini": 20337,
+   "fin": 20346,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "la autora"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 20451,
+   "fin": 20460,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Guayaquil"
+  },
+  {
+   "tipo": "person",
+   "ini": 20744,
+   "fin": 20754,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "René Ponce"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20744,
+   "fin": 20754,
+   "texto": "René Ponce"
+  },
+  {
+   "tipo": "person",
+   "ini": 21220,
+   "fin": 21238,
+   "texto": "Oswaldo Guayasamín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21220,
+   "fin": 21238,
+   "texto": "Oswaldo Guayasamín"
+  },
+  {
+   "tipo": "person",
+   "ini": 21528,
+   "fin": 21538,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "René Ponce"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21528,
+   "fin": 21538,
+   "texto": "René Ponce"
+  },
+  {
+   "tipo": "person",
+   "ini": 21540,
+   "fin": 21556,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gabriela Cabrera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21540,
+   "fin": 21556,
+   "texto": "Gabriela Cabrera"
+  },
+  {
+   "tipo": "person",
+   "ini": 21558,
+   "fin": 21569,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lorena Peña"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21558,
+   "fin": 21569,
+   "texto": "Lorena Peña"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21572,
+   "fin": 22293
+  },
+  {
+   "tipo": "img",
+   "ini": 21572,
+   "fin": 21577,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 21579,
+   "fin": 22293,
+   "rasgos": {
+    "type": "drawing"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 21579,
+   "fin": 21665,
+   "texto": "Los ocho yoes que no conocía o las múltiples representaciones de mí mismo y mi persona"
+  },
+  {
+   "tipo": "technique",
+   "ini": 21666,
+   "fin": 21687,
+   "rasgos": {
+    "type": "charcoal"
+   },
+   "texto": "dibujo al carboncillo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21703,
+   "fin": 21713,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 43 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21703,
+   "fin": 21705,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 21708,
+   "fin": 21710,
+   "texto": "43"
+  },
+  {
+   "tipo": "date",
+   "ini": 21714,
+   "fin": 21718,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "person",
+   "ini": 21719,
+   "fin": 21729,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "René Ponce"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21719,
+   "fin": 21729,
+   "texto": "René Ponce"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 21731,
+   "fin": 22293
+  },
+  {
+   "tipo": "placeName",
+   "ini": 21863,
+   "fin": 21872,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Guayaquil"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 21873,
+   "fin": 21880,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Ecuador"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22295,
+   "fin": 23026
+  },
+  {
+   "tipo": "img",
+   "ini": 22295,
+   "fin": 22300,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 22302,
+   "fin": 23026,
+   "rasgos": {
+    "type": "photograph"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 22302,
+   "fin": 22320,
+   "texto": "Re-trato de pintor"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22321,
+   "fin": 22329,
+   "rasgos": {
+    "type": "bromoly"
+   },
+   "texto": "Bromóleo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22331,
+   "fin": 22341,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22331,
+   "fin": 22333,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 22336,
+   "fin": 22338,
+   "texto": "30"
+  },
+  {
+   "tipo": "date",
+   "ini": 22342,
+   "fin": 22346,
+   "rasgos": {
+    "when": "2005"
+   },
+   "texto": "2005"
+  },
+  {
+   "tipo": "person",
+   "ini": 22347,
+   "fin": 22363,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gabriela Cabrera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22347,
+   "fin": 22362,
+   "texto": "Gabriela Cabrer"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 22365,
+   "fin": 23026
+  },
+  {
+   "tipo": "placeName",
+   "ini": 23018,
+   "fin": 23025,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Ecuador"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23028,
+   "fin": 23980
+  },
+  {
+   "tipo": "img",
+   "ini": 23028,
+   "fin": 23033,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 23035,
+   "fin": 23980,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 23035,
+   "fin": 23055,
+   "texto": "De la Serie Detalles"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23056,
+   "fin": 23082,
+   "rasgos": {
+    "type": "glitter, rubber"
+   },
+   "texto": "Escarcha y goma sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23084,
+   "fin": 23101,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "medidas variables"
+  },
+  {
+   "tipo": "date",
+   "ini": 23102,
+   "fin": 23106,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "person",
+   "ini": 23107,
+   "fin": 23122,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ma. Lorena Peña"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23107,
+   "fin": 23122,
+   "texto": "Ma. Lorena Peña"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 23124,
+   "fin": 23980
+  },
+  {
+   "tipo": "venue",
+   "ini": 23124,
+   "fin": 23138,
+   "texto": "“Villa Rosita”"
+  },
+  {
+   "tipo": "date",
+   "ini": 23174,
+   "fin": 23178,
+   "rasgos": {
+    "when": "1935"
+   },
+   "texto": "1935"
+  },
+  {
+   "tipo": "venue",
+   "ini": 23179,
+   "fin": 23234,
+   "texto": " Casa Patrimonial (antiguo lugar de sitas\nen Guayaquil)"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 23224,
+   "fin": 23233,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Guayaquil"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 23247,
+   "fin": 23252,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Colón"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 23255,
+   "fin": 23260,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Quito"
+  },
+  {
+   "tipo": "person",
+   "ini": 23343,
+   "fin": 23351,
+   "texto": "su novia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 23769,
+   "fin": 23778,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Guayaquil"
+  },
+  {
+   "tipo": "date",
+   "ini": 23851,
+   "fin": 23855,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "text",
+   "ini": 23982,
+   "fin": 26085
+  },
+  {
+   "tipo": "title",
+   "ini": 23982,
+   "fin": 24027,
+   "texto": "Políticas sin estado (o en estados inciertos)"
+  },
+  {
+   "tipo": "person",
+   "ini": 24942,
+   "fin": 24949,
+   "texto": "Barthes"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24942,
+   "fin": 24949,
+   "texto": "Barthes"
+  },
+  {
+   "tipo": "person",
+   "ini": 25244,
+   "fin": 25252,
+   "texto": "Rancière"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25244,
+   "fin": 25252,
+   "texto": "Rancière"
+  },
+  {
+   "tipo": "person",
+   "ini": 25352,
+   "fin": 25360,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Terreros"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25352,
+   "fin": 25360,
+   "texto": "Terreros"
+  },
+  {
+   "tipo": "person",
+   "ini": 25363,
+   "fin": 25368,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ponce"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25363,
+   "fin": 25368,
+   "texto": "Ponce"
+  },
+  {
+   "tipo": "person",
+   "ini": 25573,
+   "fin": 25583,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Las\nBrujas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25573,
+   "fin": 25583,
+   "texto": "Las\nBrujas"
+  },
+  {
+   "tipo": "person",
+   "ini": 25831,
+   "fin": 25838,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Caguana"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25831,
+   "fin": 25838,
+   "texto": "Caguana"
+  },
+  {
+   "tipo": "person",
+   "ini": 26087,
+   "fin": 26097,
+   "rasgos": {
+    "role": ""
+   },
+   "texto": "René Ponce"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26087,
+   "fin": 26097,
+   "texto": "René Ponce"
+  },
+  {
+   "tipo": "person",
+   "ini": 26098,
+   "fin": 26114,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oswaldo Terreros"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26098,
+   "fin": 26114,
+   "texto": "Oswaldo Terreros"
+  },
+  {
+   "tipo": "person",
+   "ini": 26115,
+   "fin": 26127,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Caguana"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26115,
+   "fin": 26127,
+   "texto": "Juan Caguana"
+  },
+  {
+   "tipo": "person",
+   "ini": 26128,
+   "fin": 26196,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Colectivo Las Brujas: Romina Muñoz, Gabriela Cabrera, Gabriela Fabre"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26150,
+   "fin": 26162,
+   "texto": "Romina Muñoz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26164,
+   "fin": 26180,
+   "texto": "Gabriela Cabrera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26182,
+   "fin": 26196,
+   "texto": "Gabriela Fabre"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26198,
+   "fin": 27554
+  },
+  {
+   "tipo": "img",
+   "ini": 26198,
+   "fin": 26203,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 26205,
+   "fin": 27562,
+   "rasgos": {
+    "type": "video"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 26205,
+   "fin": 26276,
+   "texto": "Serie Banderines / Saludos a próceres que nos alimentan ideológicamente"
+  },
+  {
+   "tipo": "person",
+   "ini": 26277,
+   "fin": 26292,
+   "texto": "Movimiento GRSB"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 26294,
+   "fin": 27554
+  },
+  {
+   "tipo": "date",
+   "ini": 26303,
+   "fin": 26326,
+   "rasgos": {
+    "when": "2009-11-02"
+   },
+   "texto": "2 de Noviembre del 2009"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 26343,
+   "fin": 26352,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Guayaquil"
+  },
+  {
+   "tipo": "person",
+   "ini": 26609,
+   "fin": 26678,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Movimiento GRSB (GRÁFICA REVOLUCIONARIA\nPARA SIMPATIZANTES BURGUESES)"
+  },
+  {
+   "tipo": "title",
+   "ini": 27191,
+   "fin": 27262,
+   "texto": "Serie Banderines /\nSaludos a próceres que nos alimentan ideológicamente"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 27191,
+   "fin": 27262
+  },
+  {
+   "tipo": "person",
+   "ini": 27501,
+   "fin": 27517,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Oswaldo Terreros"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27501,
+   "fin": 27517,
+   "texto": "Oswaldo Terreros"
+  },
+  {
+   "tipo": "person",
+   "ini": 27539,
+   "fin": 27554,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Movimiento GRSB"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 27556,
+   "fin": 28399
+  },
+  {
+   "tipo": "img",
+   "ini": 27556,
+   "fin": 27561,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 27563,
+   "fin": 28399,
+   "rasgos": {
+    "type": "digitalPrint"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 27563,
+   "fin": 27586,
+   "texto": "Palabra, obra u omisión"
+  },
+  {
+   "tipo": "technique",
+   "ini": 27587,
+   "fin": 27604,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital"
+  },
+  {
+   "tipo": "date",
+   "ini": 27605,
+   "fin": 27609,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27610,
+   "fin": 27621,
+   "texto": "René Ponce\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 27610,
+   "fin": 27620,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "René Ponce"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 27622,
+   "fin": 28399
+  },
+  {
+   "tipo": "placeName",
+   "ini": 27697,
+   "fin": 27704,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Ecuador"
+  },
+  {
+   "tipo": "date",
+   "ini": 27705,
+   "fin": 27709,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 28391,
+   "fin": 28398,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Ecuador"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28401,
+   "fin": 28955
+  },
+  {
+   "tipo": "img",
+   "ini": 28401,
+   "fin": 28406,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28408,
+   "fin": 28955,
+   "rasgos": {
+    "type": "video"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 28408,
+   "fin": 28426,
+   "texto": "Un paco es un paco"
+  },
+  {
+   "tipo": "technique",
+   "ini": 28427,
+   "fin": 28432,
+   "rasgos": {
+    "type": "video"
+   },
+   "texto": "Video"
+  },
+  {
+   "tipo": "duration",
+   "ini": 28434,
+   "fin": 28440,
+   "rasgos": {
+    "unit": "hour"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 28441,
+   "fin": 28450,
+   "rasgos": {
+    "from": "2008",
+    "to": "2010"
+   },
+   "texto": "2008-2010"
+  },
+  {
+   "tipo": "person",
+   "ini": 28451,
+   "fin": 28463,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Caguana"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28451,
+   "fin": 28463,
+   "texto": "Juan Caguana"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 28465,
+   "fin": 28955
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28957,
+   "fin": 30045
+  },
+  {
+   "tipo": "img",
+   "ini": 28957,
+   "fin": 28962,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28964,
+   "fin": 30045,
+   "rasgos": {
+    "type": "installation"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 28964,
+   "fin": 29024,
+   "texto": "Flores de gato Intervención en espacio público / Instalación"
+  },
+  {
+   "tipo": "technique",
+   "ini": 29025,
+   "fin": 29054,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Cinta adhesiva y ojos de gato"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 29056,
+   "fin": 29077,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "Dimensiones Variables"
+  },
+  {
+   "tipo": "date",
+   "ini": 29078,
+   "fin": 29087,
+   "rasgos": {
+    "from": "2010",
+    "to": "2011"
+   },
+   "texto": "2010-2011"
+  },
+  {
+   "tipo": "person",
+   "ini": 29088,
+   "fin": 29157,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Colectivo Las Brujas (Gabriela Cabrera, Romina Muñoz, Gabriela Fabre)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29110,
+   "fin": 29126,
+   "texto": "Gabriela Cabrera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29128,
+   "fin": 29140,
+   "texto": "Romina Muñoz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29142,
+   "fin": 29156,
+   "texto": "Gabriela Fabre"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 29159,
+   "fin": 30045
+  },
+  {
+   "tipo": "text",
+   "ini": 30047,
+   "fin": 31021
+  },
+  {
+   "tipo": "title",
+   "ini": 30047,
+   "fin": 30070,
+   "texto": "Indicios en la Sospecha"
+  },
+  {
+   "tipo": "institution",
+   "ini": 30179,
+   "fin": 30183,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser"
+   },
+   "texto": "ITAE"
+  },
+  {
+   "tipo": "person",
+   "ini": 31023,
+   "fin": 31037,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel Córdova"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31023,
+   "fin": 31037,
+   "texto": "Manuel Córdova"
+  },
+  {
+   "tipo": "person",
+   "ini": 31039,
+   "fin": 31053,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Anthony Arrobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31039,
+   "fin": 31053,
+   "texto": "Anthony Arrobo"
+  },
+  {
+   "tipo": "person",
+   "ini": 31055,
+   "fin": 31070,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Leonidas Corozo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31055,
+   "fin": 31070,
+   "texto": "Leonidas Corozo"
+  },
+  {
+   "tipo": "person",
+   "ini": 31072,
+   "fin": 31087,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Daniel Alvarado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31072,
+   "fin": 31087,
+   "texto": "Daniel Alvarado"
+  },
+  {
+   "tipo": "person",
+   "ini": 31089,
+   "fin": 31101,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Hidalgo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31089,
+   "fin": 31101,
+   "texto": "José Hidalgo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 31104,
+   "fin": 31937
+  },
+  {
+   "tipo": "img",
+   "ini": 31104,
+   "fin": 31109,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 31111,
+   "fin": 31937,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 31111,
+   "fin": 31119,
+   "texto": "“Splash”"
+  },
+  {
+   "tipo": "title",
+   "ini": 31122,
+   "fin": 31147,
+   "texto": "“Paisaje protometonímico”"
+  },
+  {
+   "tipo": "technique",
+   "ini": 31148,
+   "fin": 31169,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 31170,
+   "fin": 31174,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "person",
+   "ini": 31175,
+   "fin": 31190,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Daniel Alvarado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31175,
+   "fin": 31190,
+   "texto": "Daniel Alvarado"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 31192,
+   "fin": 31937
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 31939,
+   "fin": 32829
+  },
+  {
+   "tipo": "img",
+   "ini": 31939,
+   "fin": 31944,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 31946,
+   "fin": 32829,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 31946,
+   "fin": 31957,
+   "texto": "Red Curtain"
+  },
+  {
+   "tipo": "technique",
+   "ini": 31958,
+   "fin": 32011,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Capas construidas netamente con pintura acrílica roja"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 32013,
+   "fin": 32025,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "260 x 364 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 32013,
+   "fin": 32016,
+   "texto": "260"
+  },
+  {
+   "tipo": "width",
+   "ini": 32019,
+   "fin": 32022,
+   "texto": "364"
+  },
+  {
+   "tipo": "date",
+   "ini": 32026,
+   "fin": 32030,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "person",
+   "ini": 32031,
+   "fin": 32045,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Anthony Arrobo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 32031,
+   "fin": 32045,
+   "texto": "Anthony Arrobo"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 32047,
+   "fin": 32829
+  },
+  {
+   "tipo": "title",
+   "ini": 32674,
+   "fin": 32685,
+   "texto": "Red curtain"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 32831,
+   "fin": 34555
+  },
+  {
+   "tipo": "img",
+   "ini": 32831,
+   "fin": 32836,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 32838,
+   "fin": 34555,
+   "rasgos": {
+    "type": "installation"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 32838,
+   "fin": 32920,
+   "texto": "“Cayó dulcemente, como cae un árbol. Ni siquiera hubo ruido, lo silenció la arena”"
+  },
+  {
+   "tipo": "technique",
+   "ini": 32921,
+   "fin": 32941,
+   "rasgos": {
+    "type": "foamy"
+   },
+   "texto": "Instalación en foamy"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 32943,
+   "fin": 32964,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "Dimensiones variables"
+  },
+  {
+   "tipo": "date",
+   "ini": 32965,
+   "fin": 32969,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "person",
+   "ini": 32970,
+   "fin": 32984,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel Córdova"
+  },
+  {
+   "tipo": "persName",
+   "ini": 32970,
+   "fin": 32984,
+   "texto": "Manuel Córdova"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 32986,
+   "fin": 34555
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34557,
+   "fin": 35509
+  },
+  {
+   "tipo": "img",
+   "ini": 34557,
+   "fin": 34562,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 34564,
+   "fin": 35509,
+   "rasgos": {
+    "type": "drawing"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 34564,
+   "fin": 34576,
+   "texto": "Red Gradient"
+  },
+  {
+   "tipo": "person",
+   "ini": 34577,
+   "fin": 34589,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Hidalgo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 34577,
+   "fin": 34589,
+   "texto": "José Hidalgo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 34590,
+   "fin": 34630,
+   "rasgos": {
+    "type": "pencil, redPencil"
+   },
+   "texto": "Lápiz de grafito, lápiz rojo sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 34632,
+   "fin": 34644,
+   "rasgos": {
+    "unit": "m"
+   },
+   "texto": "3.80 m x 4 m"
+  },
+  {
+   "tipo": "height",
+   "ini": 34632,
+   "fin": 34636,
+   "texto": "3.80"
+  },
+  {
+   "tipo": "width",
+   "ini": 34641,
+   "fin": 34642,
+   "texto": "4"
+  },
+  {
+   "tipo": "date",
+   "ini": 34645,
+   "fin": 34649,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 34651,
+   "fin": 35509
+  },
+  {
+   "tipo": "title",
+   "ini": 34651,
+   "fin": 34663,
+   "texto": "Red Gradient"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 35511,
+   "fin": 36344
+  },
+  {
+   "tipo": "img",
+   "ini": 35511,
+   "fin": 35516,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 35518,
+   "fin": 36344,
+   "rasgos": {
+    "type": "photograph"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 35518,
+   "fin": 35523,
+   "texto": "Bucle"
+  },
+  {
+   "tipo": "technique",
+   "ini": 35524,
+   "fin": 35545,
+   "rasgos": {
+    "type": "photographPrint"
+   },
+   "texto": "Impresión fotográfica"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 35547,
+   "fin": 35570
+  },
+  {
+   "tipo": "date",
+   "ini": 35571,
+   "fin": 35575,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "persName",
+   "ini": 35576,
+   "fin": 35592,
+   "texto": "Leonidas Corozo\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 35576,
+   "fin": 35591,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Leonidas Corozo"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 35593,
+   "fin": 36344
+  },
+  {
+   "tipo": "title",
+   "ini": 35596,
+   "fin": 35607,
+   "texto": "serie Bucle"
+  },
+  {
+   "tipo": "text",
+   "ini": 36346,
+   "fin": 37390
+  },
+  {
+   "tipo": "title",
+   "ini": 36346,
+   "fin": 36364,
+   "texto": "Íntimas Afecciones"
+  },
+  {
+   "tipo": "person",
+   "ini": 36535,
+   "fin": 36551,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gabriela Chérrez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 36535,
+   "fin": 36551,
+   "texto": "Gabriela Chérrez"
+  },
+  {
+   "tipo": "person",
+   "ini": 36784,
+   "fin": 36799,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sandra González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 36784,
+   "fin": 36799,
+   "texto": "Sandra González"
+  },
+  {
+   "tipo": "person",
+   "ini": 37392,
+   "fin": 37408,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gabriela Chérrez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37392,
+   "fin": 37408,
+   "texto": "Gabriela Chérrez"
+  },
+  {
+   "tipo": "person",
+   "ini": 37410,
+   "fin": 37425,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sandra González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37410,
+   "fin": 37425,
+   "texto": "Sandra González"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 37427,
+   "fin": 38548
+  },
+  {
+   "tipo": "img",
+   "ini": 37427,
+   "fin": 37432,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 37434,
+   "fin": 38548,
+   "rasgos": {
+    "type": "photograph"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 37434,
+   "fin": 37452,
+   "texto": "Reforma Curricular"
+  },
+  {
+   "tipo": "technique",
+   "ini": 37472,
+   "fin": 37493,
+   "rasgos": {
+    "type": "photographPrint"
+   },
+   "texto": "Impresión fotográfica"
+  },
+  {
+   "tipo": "date",
+   "ini": 37494,
+   "fin": 37498,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "person",
+   "ini": 37499,
+   "fin": 37515,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gabriela Chérrez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37499,
+   "fin": 37515,
+   "texto": "Gabriela Chérrez"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 37517,
+   "fin": 38548
+  },
+  {
+   "tipo": "person",
+   "ini": 37546,
+   "fin": 37559,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jimmy Mendoza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37546,
+   "fin": 37559,
+   "texto": "Jimmy Mendoza"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 37658,
+   "fin": 37667,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Guayaquil"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 37939,
+   "fin": 37948,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Guayaquil"
+  },
+  {
+   "tipo": "person",
+   "ini": 38221,
+   "fin": 38226,
+   "texto": "Jimmy"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38221,
+   "fin": 38226,
+   "texto": "Jimmy"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 38243,
+   "fin": 38250,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Francia"
+  },
+  {
+   "tipo": "person",
+   "ini": 38325,
+   "fin": 38330,
+   "texto": "Jimmy"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38325,
+   "fin": 38330,
+   "texto": "Jimmy"
+  },
+  {
+   "tipo": "person",
+   "ini": 38517,
+   "fin": 38533,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gabriela Chérrez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38517,
+   "fin": 38533,
+   "texto": "Gabriela Chérrez"
+  },
+  {
+   "tipo": "date",
+   "ini": 38534,
+   "fin": 38548,
+   "rasgos": {
+    "when": "2011-04-07"
+   },
+   "texto": "07, abril 2011"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 38550,
+   "fin": 39588
+  },
+  {
+   "tipo": "img",
+   "ini": 38550,
+   "fin": 38555,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 38557,
+   "fin": 39588,
+   "rasgos": {
+    "type": "drawing"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 38557,
+   "fin": 38568,
+   "texto": "Petro Lapin"
+  },
+  {
+   "tipo": "technique",
+   "ini": 38569,
+   "fin": 38591,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Instalación de dibujos"
+  },
+  {
+   "tipo": "date",
+   "ini": 38592,
+   "fin": 38601,
+   "rasgos": {
+    "from": "2010",
+    "to": "2011"
+   },
+   "texto": "2010-2011"
+  },
+  {
+   "tipo": "person",
+   "ini": 38602,
+   "fin": 38617,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sandra González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 38602,
+   "fin": 38617,
+   "texto": "Sandra González"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 38619,
+   "fin": 39588
+  },
+  {
+   "tipo": "persName",
+   "ini": 38620,
+   "fin": 38625,
+   "texto": "Petro"
+  },
+  {
+   "tipo": "institution",
+   "ini": 39590,
+   "fin": 39615,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "UNIVERSIDAD RICARDO PALMA"
+  },
+  {
+   "tipo": "person",
+   "ini": 39617,
+   "fin": 39649,
+   "rasgos": {
+    "role": "rector"
+   },
+   "texto": "Dr. Iván Rodríguez Chávez\nRector"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39621,
+   "fin": 39642,
+   "texto": "Iván Rodríguez Chávez"
+  },
+  {
+   "tipo": "person",
+   "ini": 39651,
+   "fin": 39685,
+   "texto": "Dr. Leonardo Alcayhuamán Accostupa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39655,
+   "fin": 39685,
+   "texto": "Leonardo Alcayhuamán Accostupa"
+  },
+  {
+   "tipo": "person",
+   "ini": 39709,
+   "fin": 39751,
+   "texto": "Mg. CPC José Guillermo Calderón Moquillaza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39717,
+   "fin": 39751,
+   "texto": "José Guillermo Calderón Moquillaza"
+  },
+  {
+   "tipo": "person",
+   "ini": 39780,
+   "fin": 39807,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Dr. Manuel Pantigoso Pecero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39784,
+   "fin": 39807,
+   "texto": "Manuel Pantigoso Pecero"
+  },
+  {
+   "tipo": "institution",
+   "ini": 39823,
+   "fin": 39877,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "Oficina de Extensión Universitaria y Proyección Social"
+  },
+  {
+   "tipo": "person",
+   "ini": 39879,
+   "fin": 39910,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Dr. Alfonso Castrillón Vizcarra"
+  },
+  {
+   "tipo": "persName",
+   "ini": 39883,
+   "fin": 39910,
+   "texto": "Alfonso Castrillón Vizcarra"
+  },
+  {
+   "tipo": "institution",
+   "ini": 39926,
+   "fin": 39951,
+   "rasgos": {
+    "type": "gallery"
+   },
+   "texto": "Galería de Artes Visuales"
+  },
+  {
+   "tipo": "institution",
+   "ini": 39953,
+   "fin": 40011,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser"
+   },
+   "texto": "INSTITUTO SUPERIOR TECNOLÓGICO DE ARTES DEL ECUADOR\n\"ITAE\""
+  },
+  {
+   "tipo": "person",
+   "ini": 40013,
+   "fin": 40038,
+   "rasgos": {
+    "role": "rector"
+   },
+   "texto": "Lcdo. Xavier Patiño Balda"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40019,
+   "fin": 40038,
+   "texto": "Xavier Patiño Balda"
+  },
+  {
+   "tipo": "person",
+   "ini": 40047,
+   "fin": 40065,
+   "rasgos": {
+    "role": "viceRector"
+   },
+   "texto": "Lcdo. Saidel Brito"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40053,
+   "fin": 40065,
+   "texto": "Saidel Brito"
+  },
+  {
+   "tipo": "person",
+   "ini": 40079,
+   "fin": 40100,
+   "texto": "Lcda. Ana Rosa Valdez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40085,
+   "fin": 40100,
+   "texto": "Ana Rosa Valdez"
+  },
+  {
+   "tipo": "person",
+   "ini": 40167,
+   "fin": 40182,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Ana Rosa Valdez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40167,
+   "fin": 40182,
+   "texto": "Ana Rosa Valdez"
+  },
+  {
+   "tipo": "person",
+   "ini": 40185,
+   "fin": 40201,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Juan Carlos León"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40185,
+   "fin": 40201,
+   "texto": "Juan Carlos León"
+  },
+  {
+   "tipo": "person",
+   "ini": 40220,
+   "fin": 40235,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Ana Rosa Valdez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40220,
+   "fin": 40235,
+   "texto": "Ana Rosa Valdez"
+  },
+  {
+   "tipo": "person",
+   "ini": 40238,
+   "fin": 40254,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Juan Carlos León"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40238,
+   "fin": 40254,
+   "texto": "Juan Carlos León"
+  },
+  {
+   "tipo": "person",
+   "ini": 40321,
+   "fin": 40333,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "Anita Tavera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40321,
+   "fin": 40333,
+   "texto": "Anita Tavera"
+  },
+  {
+   "tipo": "person",
+   "ini": 40336,
+   "fin": 40355,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "María Eugenia Yllia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40336,
+   "fin": 40355,
+   "texto": "María Eugenia Yllia"
+  },
+  {
+   "tipo": "person",
+   "ini": 40365,
+   "fin": 40381,
+   "rasgos": {
+    "role": "layout"
+   },
+   "texto": "Juan Carlos León"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40365,
+   "fin": 40381,
+   "texto": "Juan Carlos León"
+  },
+  {
+   "tipo": "person",
+   "ini": 40384,
+   "fin": 40399,
+   "rasgos": {
+    "role": "layout"
+   },
+   "texto": "Samuel Mestanza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40384,
+   "fin": 40399,
+   "texto": "Samuel Mestanza"
+  },
+  {
+   "tipo": "person",
+   "ini": 40408,
+   "fin": 40424,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "Juan Carlos León"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40408,
+   "fin": 40424,
+   "texto": "Juan Carlos León"
+  },
+  {
+   "tipo": "person",
+   "ini": 40437,
+   "fin": 40453,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Carlos León"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40437,
+   "fin": 40453,
+   "texto": "Juan Carlos León"
+  },
+  {
+   "tipo": "person",
+   "ini": 40456,
+   "fin": 40471,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ana Rosa Valdez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40456,
+   "fin": 40471,
+   "texto": "Ana Rosa Valdez"
+  },
+  {
+   "tipo": "person",
+   "ini": 40474,
+   "fin": 40486,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Romina Muñoz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40474,
+   "fin": 40486,
+   "texto": "Romina Muñoz"
+  },
+  {
+   "tipo": "person",
+   "ini": 40499,
+   "fin": 40513,
+   "rasgos": {
+    "role": "assitant"
+   },
+   "texto": "Ilich Castillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 40499,
+   "fin": 40513,
+   "texto": "Ilich Castillo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 40738,
+   "fin": 40742,
+   "rasgos": {
+    "type": "institute"
+   },
+   "texto": "ITAE"
+  }
+ ]
+}

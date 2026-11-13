@@ -1,0 +1,2772 @@
+{
+ "id": "cat_073_catalogoexposicionjavierbuzon",
+ "nombre_original": "CatalogoExposicionJavierBuzon",
+ "longitud_texto": 45081,
+ "sha256_texto": "bfdbcd8f49265cadc3457a5e884bf458041662ec6a9b989e8dd197744e9fbd01",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 54,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 12,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JAVIER\nBUZÓN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 12,
+   "texto": "JAVIER\nBUZÓN"
+  },
+  {
+   "tipo": "title",
+   "ini": 7,
+   "fin": 34,
+   "texto": "BUZÓN\nmás allá de\nsu sombra"
+  },
+  {
+   "tipo": "institution",
+   "ini": 36,
+   "fin": 41,
+   "rasgos": {
+    "type": "culturalCenter, university",
+    "role": "organiser, host"
+   },
+   "texto": "CICUS"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 56,
+   "fin": 159,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 56,
+   "fin": 90,
+   "texto": "JAVIER BUZÓN\nmás allá de su sombra"
+  },
+  {
+   "tipo": "person",
+   "ini": 56,
+   "fin": 68,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JAVIER BUZÓN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 56,
+   "fin": 68,
+   "texto": "JAVIER BUZÓN"
+  },
+  {
+   "tipo": "institution",
+   "ini": 92,
+   "fin": 159,
+   "rasgos": {
+    "type": "culturalCenter, university",
+    "role": "organiser, host"
+   },
+   "texto": "CICUS Centro de Iniciativas Culturales de la Universidad de Sevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 152,
+   "fin": 159,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 161,
+   "fin": 1023,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 161,
+   "fin": 195,
+   "texto": "JAVIER BUZÓN más allá de su sombra"
+  },
+  {
+   "tipo": "person",
+   "ini": 161,
+   "fin": 173,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JAVIER BUZÓN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 161,
+   "fin": 173,
+   "texto": "JAVIER BUZÓN"
+  },
+  {
+   "tipo": "date",
+   "ini": 196,
+   "fin": 227,
+   "rasgos": {
+    "from": "2021-04-16",
+    "to": "2021-07-02"
+   },
+   "texto": "16 de abril / 2 de julio / 2021"
+  },
+  {
+   "tipo": "institution",
+   "ini": 229,
+   "fin": 302,
+   "rasgos": {
+    "type": "culturalCenter, university",
+    "role": "organiser, host"
+   },
+   "texto": "CICUS, Sala MDD / calle Madre de Dios, 1. Sevilla\n\nUNIVERSIDAD DE SEVILLA"
+  },
+  {
+   "tipo": "venue",
+   "ini": 236,
+   "fin": 244,
+   "texto": "Sala MDD"
+  },
+  {
+   "tipo": "address",
+   "ini": 247,
+   "fin": 278,
+   "texto": "calle Madre de Dios, 1. Sevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 271,
+   "fin": 278,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 295,
+   "fin": 302,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "SEVILLA"
+  },
+  {
+   "tipo": "person",
+   "ini": 311,
+   "fin": 337,
+   "rasgos": {
+    "role": "rector"
+   },
+   "texto": "Miguel Ángel Castro Arroyo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 311,
+   "fin": 337,
+   "texto": "Miguel Ángel Castro Arroyo"
+  },
+  {
+   "tipo": "person",
+   "ini": 380,
+   "fin": 401,
+   "rasgos": {
+    "role": "generalDirector"
+   },
+   "texto": "Luis Méndez Rodríguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 380,
+   "fin": 401,
+   "texto": "Luis Méndez Rodríguez"
+  },
+  {
+   "tipo": "person",
+   "ini": 443,
+   "fin": 467,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Luis F. Martínez-Montiel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 443,
+   "fin": 467,
+   "texto": "Luis F. Martínez-Montiel"
+  },
+  {
+   "tipo": "person",
+   "ini": 515,
+   "fin": 538,
+   "rasgos": {
+    "role": "producer"
+   },
+   "texto": "Domingo González Lavado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 515,
+   "fin": 538,
+   "texto": "Domingo González Lavado"
+  },
+  {
+   "tipo": "person",
+   "ini": 565,
+   "fin": 581,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "Carmen Aranguren"
+  },
+  {
+   "tipo": "persName",
+   "ini": 565,
+   "fin": 581,
+   "texto": "Carmen Aranguren"
+  },
+  {
+   "tipo": "person",
+   "ini": 591,
+   "fin": 601,
+   "rasgos": {
+    "role": "assembler"
+   },
+   "texto": "Otto Pardo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 591,
+   "fin": 601,
+   "texto": "Otto Pardo"
+  },
+  {
+   "tipo": "person",
+   "ini": 603,
+   "fin": 617,
+   "rasgos": {
+    "role": "assembler"
+   },
+   "texto": "Esteban Guzmán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 603,
+   "fin": 617,
+   "texto": "Esteban Guzmán"
+  },
+  {
+   "tipo": "person",
+   "ini": 620,
+   "fin": 634,
+   "rasgos": {
+    "role": "assembler"
+   },
+   "texto": "Isidoro Guzmán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 620,
+   "fin": 634,
+   "texto": "Isidoro Guzmán"
+  },
+  {
+   "tipo": "institution",
+   "ini": 667,
+   "fin": 693,
+   "rasgos": {
+    "type": "company",
+    "role": "printer"
+   },
+   "texto": "Trillo Comunicación Visual"
+  },
+  {
+   "tipo": "person",
+   "ini": 732,
+   "fin": 744,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Pepe Yñiguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 732,
+   "fin": 744,
+   "texto": "Pepe Yñiguez"
+  },
+  {
+   "tipo": "person",
+   "ini": 758,
+   "fin": 775,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Claudio del Campo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 758,
+   "fin": 775,
+   "texto": "Claudio del Campo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 792,
+   "fin": 812,
+   "rasgos": {
+    "type": "studio",
+    "role": "designer"
+   },
+   "texto": "Estudio Manuel Ortiz"
+  },
+  {
+   "tipo": "institution",
+   "ini": 841,
+   "fin": 854,
+   "rasgos": {
+    "type": "company",
+    "role": "printer"
+   },
+   "texto": "Imprenta Sand"
+  },
+  {
+   "tipo": "institution",
+   "ini": 942,
+   "fin": 971,
+   "rasgos": {
+    "type": "culturalCenter, university",
+    "role": "editor"
+   },
+   "texto": "Universidad de Sevilla. CICUS"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1237,
+   "fin": 1298,
+   "rasgos": {
+    "type": "culturalCenter, university",
+    "role": "organiser, host"
+   },
+   "texto": "Centro de Iniciativas Culturales de la Universidad de\nSevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1291,
+   "fin": 1298,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "title",
+   "ini": 1965,
+   "fin": 2002,
+   "texto": "Más\nallá de su sombra de Javier Buzón"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1965,
+   "fin": 2002,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 1990,
+   "fin": 2002,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1990,
+   "fin": 2002,
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 2651,
+   "fin": 2656,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2651,
+   "fin": 2656,
+   "texto": "Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 2888,
+   "fin": 2893,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2888,
+   "fin": 2893,
+   "texto": "Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 3128,
+   "fin": 3140,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3128,
+   "fin": 3140,
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 3503,
+   "fin": 3515,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3503,
+   "fin": 3515,
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 4810,
+   "fin": 4822,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4810,
+   "fin": 4822,
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 5107,
+   "fin": 5119,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5107,
+   "fin": 5119,
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 5832,
+   "fin": 5844,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5832,
+   "fin": 5844,
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 6305,
+   "fin": 6317,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6305,
+   "fin": 6317,
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 7210,
+   "fin": 7222,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7210,
+   "fin": 7222,
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 9940,
+   "fin": 9952,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9940,
+   "fin": 9952,
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 11590,
+   "fin": 11602,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11590,
+   "fin": 11602,
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 12167,
+   "fin": 12179,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12167,
+   "fin": 12179,
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 13085,
+   "fin": 13097,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier\nBuzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13085,
+   "fin": 13097,
+   "texto": "Javier\nBuzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 13786,
+   "fin": 13791,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13786,
+   "fin": 13791,
+   "texto": "Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 14090,
+   "fin": 14102,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14090,
+   "fin": 14102,
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 15062,
+   "fin": 15067,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15062,
+   "fin": 15067,
+   "texto": "Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 17909,
+   "fin": 17921,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17909,
+   "fin": 17921,
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 18459,
+   "fin": 18464,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18459,
+   "fin": 18464,
+   "texto": "Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 18797,
+   "fin": 18802,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18797,
+   "fin": 18802,
+   "texto": "Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 19708,
+   "fin": 19720,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19708,
+   "fin": 19720,
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 21364,
+   "fin": 21376,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21364,
+   "fin": 21376,
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 21870,
+   "fin": 21875,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21870,
+   "fin": 21875,
+   "texto": "Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 23291,
+   "fin": 23303,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23291,
+   "fin": 23303,
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 24942,
+   "fin": 24954,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24942,
+   "fin": 24954,
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 25620,
+   "fin": 25632,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25620,
+   "fin": 25632,
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 27637,
+   "fin": 30860
+  },
+  {
+   "tipo": "title",
+   "ini": 27637,
+   "fin": 27658,
+   "texto": "más allá de su sombra"
+  },
+  {
+   "tipo": "text",
+   "ini": 27660,
+   "fin": 27937
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 27939,
+   "fin": 28011
+  },
+  {
+   "tipo": "img",
+   "ini": 27939,
+   "fin": 27944,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 27946,
+   "fin": 28011,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Naturaleza muerta. Florero 1, 2018.\nÓleo sobre lienzo, 65 x 54 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 27946,
+   "fin": 27974,
+   "texto": "Naturaleza muerta. Florero 1"
+  },
+  {
+   "tipo": "date",
+   "ini": 27976,
+   "fin": 27980,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "technique",
+   "ini": 27982,
+   "fin": 27999,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28001,
+   "fin": 28011,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 54 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28001,
+   "fin": 28003,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 28006,
+   "fin": 28008,
+   "texto": "54"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28013,
+   "fin": 28084
+  },
+  {
+   "tipo": "img",
+   "ini": 28013,
+   "fin": 28018,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28020,
+   "fin": 28084,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Naturaleza muerta. Florero 2, 2018\nÓleo sobre lienzo, 65 x 54 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 28020,
+   "fin": 28048,
+   "texto": "Naturaleza muerta. Florero 2"
+  },
+  {
+   "tipo": "date",
+   "ini": 28050,
+   "fin": 28054,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "technique",
+   "ini": 28055,
+   "fin": 28072,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28074,
+   "fin": 28084,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 54 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28074,
+   "fin": 28076,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 28079,
+   "fin": 28081,
+   "texto": "54"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28086,
+   "fin": 28157
+  },
+  {
+   "tipo": "img",
+   "ini": 28086,
+   "fin": 28091,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28093,
+   "fin": 28157,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Naturaleza muerta. Florero 3, 2018\nÓleo sobre lienzo, 65 x 54 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 28093,
+   "fin": 28121,
+   "texto": "Naturaleza muerta. Florero 3"
+  },
+  {
+   "tipo": "date",
+   "ini": 28123,
+   "fin": 28127,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "technique",
+   "ini": 28128,
+   "fin": 28145,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28147,
+   "fin": 28157,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 54 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28147,
+   "fin": 28149,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 28152,
+   "fin": 28154,
+   "texto": "54"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28159,
+   "fin": 28209
+  },
+  {
+   "tipo": "img",
+   "ini": 28159,
+   "fin": 28164,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28166,
+   "fin": 28209,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Vidrios, 2019\nÓleo sobre lienzo, 55 x 73 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 28166,
+   "fin": 28173,
+   "texto": "Vidrios"
+  },
+  {
+   "tipo": "date",
+   "ini": 28175,
+   "fin": 28179,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 28180,
+   "fin": 28197,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28199,
+   "fin": 28209,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55 x 73 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28199,
+   "fin": 28201,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 28204,
+   "fin": 28206,
+   "texto": "73"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28211,
+   "fin": 28261
+  },
+  {
+   "tipo": "img",
+   "ini": 28211,
+   "fin": 28216,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28218,
+   "fin": 28261,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Florero, 2019\nÓleo sobre lienzo, 65 x 54 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 28218,
+   "fin": 28225,
+   "texto": "Florero"
+  },
+  {
+   "tipo": "date",
+   "ini": 28227,
+   "fin": 28231,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 28232,
+   "fin": 28249,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28251,
+   "fin": 28261,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 54 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28251,
+   "fin": 28253,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 28256,
+   "fin": 28258,
+   "texto": "54"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28263,
+   "fin": 28319
+  },
+  {
+   "tipo": "img",
+   "ini": 28263,
+   "fin": 28268,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28270,
+   "fin": 28319,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Rosas blancas, 2019\nÓleo sobre lienzo, 65 x 54 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 28270,
+   "fin": 28283,
+   "texto": "Rosas blancas"
+  },
+  {
+   "tipo": "date",
+   "ini": 28285,
+   "fin": 28289,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 28290,
+   "fin": 28307,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28309,
+   "fin": 28319,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 54 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28309,
+   "fin": 28311,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 28314,
+   "fin": 28316,
+   "texto": "54"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28321,
+   "fin": 28375
+  },
+  {
+   "tipo": "img",
+   "ini": 28321,
+   "fin": 28326,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28328,
+   "fin": 28375,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Rosas rojas, 2019\nÓleo sobre lienzo, 55 x 46 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 28328,
+   "fin": 28339,
+   "texto": "Rosas rojas"
+  },
+  {
+   "tipo": "date",
+   "ini": 28341,
+   "fin": 28345,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 28346,
+   "fin": 28363,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28365,
+   "fin": 28375,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55 x 46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28365,
+   "fin": 28367,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 28370,
+   "fin": 28372,
+   "texto": "46"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28377,
+   "fin": 28426
+  },
+  {
+   "tipo": "img",
+   "ini": 28377,
+   "fin": 28382,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28384,
+   "fin": 28426,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Barros, 2020\nÓleo sobre lienzo, 61 x 55 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 28384,
+   "fin": 28390,
+   "texto": "Barros"
+  },
+  {
+   "tipo": "date",
+   "ini": 28392,
+   "fin": 28396,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 28397,
+   "fin": 28414,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28416,
+   "fin": 28426,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 55 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28416,
+   "fin": 28418,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 28421,
+   "fin": 28423,
+   "texto": "55"
+  },
+  {
+   "tipo": "text",
+   "ini": 28429,
+   "fin": 28745
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28747,
+   "fin": 28800
+  },
+  {
+   "tipo": "img",
+   "ini": 28747,
+   "fin": 28752,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28754,
+   "fin": 28800,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Venus rota, 2019\nÓleo sobre lienzo, 61 x 50 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 28754,
+   "fin": 28764,
+   "texto": "Venus rota"
+  },
+  {
+   "tipo": "date",
+   "ini": 28766,
+   "fin": 28770,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 28771,
+   "fin": 28788,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28790,
+   "fin": 28800,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28790,
+   "fin": 28792,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 28795,
+   "fin": 28797,
+   "texto": "50"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28802,
+   "fin": 28850
+  },
+  {
+   "tipo": "img",
+   "ini": 28802,
+   "fin": 28807,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28809,
+   "fin": 28850,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Ninfa, 2018\nÓleo sobre lienzo, 35 x 27 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 28809,
+   "fin": 28814,
+   "texto": "Ninfa"
+  },
+  {
+   "tipo": "date",
+   "ini": 28816,
+   "fin": 28820,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "technique",
+   "ini": 28821,
+   "fin": 28838,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28840,
+   "fin": 28850,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35 x 27 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28840,
+   "fin": 28842,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 28845,
+   "fin": 28847,
+   "texto": "27"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28852,
+   "fin": 28912
+  },
+  {
+   "tipo": "img",
+   "ini": 28852,
+   "fin": 28857,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28859,
+   "fin": 28911,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Cabeza de hombre, 2019\nÓleo sobre lienzo, 35 x 27 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 28859,
+   "fin": 28875,
+   "texto": "Cabeza de hombre"
+  },
+  {
+   "tipo": "date",
+   "ini": 28877,
+   "fin": 28881,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 28882,
+   "fin": 28899,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28901,
+   "fin": 28911,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35 x 27 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28901,
+   "fin": 28903,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 28906,
+   "fin": 28908,
+   "texto": "27"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28913,
+   "fin": 28964
+  },
+  {
+   "tipo": "img",
+   "ini": 28913,
+   "fin": 28918,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28920,
+   "fin": 28964,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Ropaje 2, 2019\nÓleo sobre lienzo, 35 x 27 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 28920,
+   "fin": 28928,
+   "texto": "Ropaje 2"
+  },
+  {
+   "tipo": "date",
+   "ini": 28930,
+   "fin": 28934,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 28935,
+   "fin": 28952,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 28954,
+   "fin": 28964,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35 x 27 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 28954,
+   "fin": 28956,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 28959,
+   "fin": 28961,
+   "texto": "27"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 28966,
+   "fin": 29015
+  },
+  {
+   "tipo": "img",
+   "ini": 28966,
+   "fin": 28971,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 28973,
+   "fin": 29015,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Ropaje, 2018\nÓleo sobre lienzo, 61 x 50 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 28973,
+   "fin": 28979,
+   "texto": "Ropaje"
+  },
+  {
+   "tipo": "date",
+   "ini": 28981,
+   "fin": 28985,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "technique",
+   "ini": 28986,
+   "fin": 29003,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 29005,
+   "fin": 29015,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 29005,
+   "fin": 29007,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 29010,
+   "fin": 29012,
+   "texto": "50"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 29017,
+   "fin": 29077
+  },
+  {
+   "tipo": "img",
+   "ini": 29017,
+   "fin": 29022,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 29024,
+   "fin": 29077,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Retrato de joven, 2019.\nÓleo sobre lienzo, 55 x 46 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 29024,
+   "fin": 29040,
+   "texto": "Retrato de joven"
+  },
+  {
+   "tipo": "date",
+   "ini": 29042,
+   "fin": 29046,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 29048,
+   "fin": 29065,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 29067,
+   "fin": 29077,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55 x 46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 29067,
+   "fin": 29069,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 29072,
+   "fin": 29074,
+   "texto": "46"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 29079,
+   "fin": 29136
+  },
+  {
+   "tipo": "img",
+   "ini": 29079,
+   "fin": 29084,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 29086,
+   "fin": 29136,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Joven flamenca, 2018\nÓleo sobre lienzo, 55 x 46 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 29086,
+   "fin": 29100,
+   "texto": "Joven flamenca"
+  },
+  {
+   "tipo": "date",
+   "ini": 29102,
+   "fin": 29106,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "technique",
+   "ini": 29107,
+   "fin": 29124,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 29126,
+   "fin": 29136,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55 x 46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 29126,
+   "fin": 29128,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 29131,
+   "fin": 29133,
+   "texto": "46"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 29138,
+   "fin": 29193
+  },
+  {
+   "tipo": "img",
+   "ini": 29138,
+   "fin": 29143,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 29145,
+   "fin": 29193,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Autorretrato, 2020\nÓleo sobre lienzo, 55 x 46 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 29145,
+   "fin": 29157,
+   "texto": "Autorretrato"
+  },
+  {
+   "tipo": "date",
+   "ini": 29159,
+   "fin": 29163,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 29164,
+   "fin": 29181,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 29183,
+   "fin": 29193,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55 x 46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 29183,
+   "fin": 29185,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 29188,
+   "fin": 29190,
+   "texto": "46"
+  },
+  {
+   "tipo": "text",
+   "ini": 29196,
+   "fin": 29918
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 29920,
+   "fin": 29974
+  },
+  {
+   "tipo": "img",
+   "ini": 29920,
+   "fin": 29925,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 29927,
+   "fin": 29974,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Paisaje 1, 2020\nÓleo sobre lienzo, 114 x 162 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 29927,
+   "fin": 29936,
+   "texto": "Paisaje 1"
+  },
+  {
+   "tipo": "date",
+   "ini": 29938,
+   "fin": 29942,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 29943,
+   "fin": 29960,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 29962,
+   "fin": 29974,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "114 x 162 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 29962,
+   "fin": 29965,
+   "texto": "114"
+  },
+  {
+   "tipo": "width",
+   "ini": 29968,
+   "fin": 29971,
+   "texto": "162"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 29976,
+   "fin": 30027
+  },
+  {
+   "tipo": "img",
+   "ini": 29976,
+   "fin": 29981,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 29983,
+   "fin": 30027,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Paisaje 2\n2020. Óleo sobre lienzo\n27 x 35 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 29983,
+   "fin": 29992,
+   "texto": "Paisaje 2"
+  },
+  {
+   "tipo": "date",
+   "ini": 29993,
+   "fin": 29997,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 29999,
+   "fin": 30016,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 30017,
+   "fin": 30027,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27 x 35 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 30017,
+   "fin": 30019,
+   "texto": "27"
+  },
+  {
+   "tipo": "width",
+   "ini": 30022,
+   "fin": 30024,
+   "texto": "35"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30029,
+   "fin": 30080
+  },
+  {
+   "tipo": "img",
+   "ini": 30029,
+   "fin": 30034,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30036,
+   "fin": 30080,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Paisaje 3\n2020. Óleo sobre lienzo\n27 x 35 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 30036,
+   "fin": 30045,
+   "texto": "Paisaje 3"
+  },
+  {
+   "tipo": "date",
+   "ini": 30046,
+   "fin": 30050,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 30052,
+   "fin": 30069,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 30070,
+   "fin": 30080,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27 x 35 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 30070,
+   "fin": 30072,
+   "texto": "27"
+  },
+  {
+   "tipo": "width",
+   "ini": 30075,
+   "fin": 30077,
+   "texto": "35"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30082,
+   "fin": 30134
+  },
+  {
+   "tipo": "img",
+   "ini": 30082,
+   "fin": 30087,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30089,
+   "fin": 30134,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Paisaje 4, 2020\nÓleo sobre lienzo, 27 x 35 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 30089,
+   "fin": 30098,
+   "texto": "Paisaje 4"
+  },
+  {
+   "tipo": "date",
+   "ini": 30100,
+   "fin": 30104,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 30105,
+   "fin": 30122,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 30124,
+   "fin": 30134,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27 x 35 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 30124,
+   "fin": 30126,
+   "texto": "27"
+  },
+  {
+   "tipo": "width",
+   "ini": 30129,
+   "fin": 30131,
+   "texto": "35"
+  },
+  {
+   "tipo": "text",
+   "ini": 30137,
+   "fin": 30403
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30405,
+   "fin": 30455
+  },
+  {
+   "tipo": "img",
+   "ini": 30405,
+   "fin": 30410,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30412,
+   "fin": 30455,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Gótico, 2018\nÓleo sobre lienzo, 130 x 97 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 30412,
+   "fin": 30418,
+   "texto": "Gótico"
+  },
+  {
+   "tipo": "date",
+   "ini": 30420,
+   "fin": 30424,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "technique",
+   "ini": 30425,
+   "fin": 30442,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 30444,
+   "fin": 30455,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 97 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 30444,
+   "fin": 30447,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 30450,
+   "fin": 30452,
+   "texto": "97"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30457,
+   "fin": 30531
+  },
+  {
+   "tipo": "img",
+   "ini": 30457,
+   "fin": 30462,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30474,
+   "fin": 30531,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Barroco 2 (San Luis), 2018\nÓleo sobre lienzo, 130 x 97 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 30474,
+   "fin": 30494,
+   "texto": "Barroco 2 (San Luis)"
+  },
+  {
+   "tipo": "date",
+   "ini": 30496,
+   "fin": 30500,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "technique",
+   "ini": 30501,
+   "fin": 30518,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 30520,
+   "fin": 30539,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 97 cm\n\n[img]\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 30520,
+   "fin": 30523,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 30526,
+   "fin": 30528,
+   "texto": "97"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30533,
+   "fin": 30594
+  },
+  {
+   "tipo": "img",
+   "ini": 30533,
+   "fin": 30538,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30550,
+   "fin": 30594,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Barroco, 2018\nÓleo sobre lienzo, 130 x 89 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 30550,
+   "fin": 30557,
+   "texto": "Barroco"
+  },
+  {
+   "tipo": "date",
+   "ini": 30559,
+   "fin": 30563,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "technique",
+   "ini": 30564,
+   "fin": 30581,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 30583,
+   "fin": 30594,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 89 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 30583,
+   "fin": 30586,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 30589,
+   "fin": 30591,
+   "texto": "89"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30596,
+   "fin": 30659
+  },
+  {
+   "tipo": "img",
+   "ini": 30596,
+   "fin": 30601,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30603,
+   "fin": 30659,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Abstracción Barroca, 2019\nÓleo sobre lienzo. 116 x 89 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 30603,
+   "fin": 30622,
+   "texto": "Abstracción Barroca"
+  },
+  {
+   "tipo": "date",
+   "ini": 30624,
+   "fin": 30628,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 30629,
+   "fin": 30646,
+   "rasgos": {
+    "oil": ""
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 30648,
+   "fin": 30659,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "116 x 89 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 30648,
+   "fin": 30651,
+   "texto": "116"
+  },
+  {
+   "tipo": "width",
+   "ini": 30654,
+   "fin": 30656,
+   "texto": "89"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30661,
+   "fin": 30726
+  },
+  {
+   "tipo": "img",
+   "ini": 30661,
+   "fin": 30666,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30668,
+   "fin": 30726,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Abstracción Barroca 2, 2020\nÓleo sobre lienzo, 116 x 89 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 30668,
+   "fin": 30689,
+   "texto": "Abstracción Barroca 2"
+  },
+  {
+   "tipo": "date",
+   "ini": 30691,
+   "fin": 30695,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 30696,
+   "fin": 30713,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 30715,
+   "fin": 30726,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "116 x 89 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 30715,
+   "fin": 30718,
+   "texto": "116"
+  },
+  {
+   "tipo": "width",
+   "ini": 30721,
+   "fin": 30723,
+   "texto": "89"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30728,
+   "fin": 30792
+  },
+  {
+   "tipo": "img",
+   "ini": 30728,
+   "fin": 30733,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30735,
+   "fin": 30792,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Abstracción Barroca 4, 2020\nÓleo sobre lienzo, 46 x 33 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 30735,
+   "fin": 30756,
+   "texto": "Abstracción Barroca 4"
+  },
+  {
+   "tipo": "date",
+   "ini": 30758,
+   "fin": 30762,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 30763,
+   "fin": 30780,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 30782,
+   "fin": 30792,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 33 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 30782,
+   "fin": 30784,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 30787,
+   "fin": 30789,
+   "texto": "33"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30794,
+   "fin": 30860
+  },
+  {
+   "tipo": "img",
+   "ini": 30794,
+   "fin": 30799,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30801,
+   "fin": 30860,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Abstracción Barroca 3, 2020\nÓleo sobre lienzo, 162 x 130 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 30801,
+   "fin": 30822,
+   "texto": "Abstracción Barroca 3"
+  },
+  {
+   "tipo": "date",
+   "ini": 30824,
+   "fin": 30828,
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 30829,
+   "fin": 30846,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 30848,
+   "fin": 30860,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "162 x 130 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 30848,
+   "fin": 30851,
+   "texto": "162"
+  },
+  {
+   "tipo": "width",
+   "ini": 30854,
+   "fin": 30857,
+   "texto": "130"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 32632,
+   "fin": 32699,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "date",
+   "ini": 32632,
+   "fin": 32636,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 32637,
+   "fin": 32672,
+   "texto": "Javier Buzón. Más allá de su sombra"
+  },
+  {
+   "tipo": "persName",
+   "ini": 32637,
+   "fin": 32649,
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 32637,
+   "fin": 32649,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "venue",
+   "ini": 32674,
+   "fin": 32682,
+   "texto": "Sala MDD"
+  },
+  {
+   "tipo": "institution",
+   "ini": 32684,
+   "fin": 32689,
+   "rasgos": {
+    "type": "culturalCenter, university",
+    "role": "organiser, host"
+   },
+   "texto": "CICUS"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 32691,
+   "fin": 32698,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "person",
+   "ini": 44195,
+   "fin": 44207,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 44195,
+   "fin": 44207,
+   "texto": "Javier Buzón"
+  },
+  {
+   "tipo": "person",
+   "ini": 44817,
+   "fin": 44822,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Buzón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 44817,
+   "fin": 44822,
+   "texto": "Buzón"
+  }
+ ]
+}

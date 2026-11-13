@@ -1,0 +1,4135 @@
+{
+ "id": "cat_077_catalogo_mezquita_2013_galeria_jml_acuar",
+ "nombre_original": "CATÁLOGO-MEZQUITA-2013-GALERÍA-JML-ACUARELAS",
+ "longitud_texto": 21732,
+ "sha256_texto": "fea5e527e1b62ccc13a31dd2448920b8d458960d0d7af40e396e3bc6919428d0",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 86,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 58,
+   "texto": "JOSÉ MARÍA MEZQUITA\nLOS MÁRGENES DE LA REALIDAD\n\nACUARELAS"
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 19,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JOSÉ MARÍA MEZQUITA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 19,
+   "texto": "JOSÉ MARÍA MEZQUITA"
+  },
+  {
+   "tipo": "date",
+   "ini": 60,
+   "fin": 86,
+   "rasgos": {
+    "from": "2013-11-01",
+    "to": "2013-12-31"
+   },
+   "texto": "NOVIEMBRE / DICIEMBRE 2013"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 88,
+   "fin": 313,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 88,
+   "fin": 146,
+   "texto": "JOSÉ MARÍA MEZQUITA\nLOS MÁRGENES DE LA REALIDAD\n\nACUARELAS"
+  },
+  {
+   "tipo": "person",
+   "ini": 88,
+   "fin": 107,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JOSÉ MARÍA MEZQUITA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 88,
+   "fin": 107,
+   "texto": "JOSÉ MARÍA MEZQUITA"
+  },
+  {
+   "tipo": "date",
+   "ini": 148,
+   "fin": 174,
+   "rasgos": {
+    "from": "2013-11-01",
+    "to": "2013-12-31"
+   },
+   "texto": "NOVIEMBRE / DICIEMBRE 2013"
+  },
+  {
+   "tipo": "institution",
+   "ini": 176,
+   "fin": 313,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Juan Manuel Lumbreras\nGalería de Arte\nHENAO, 3 · 48009 BILBAO · TEL. 94 424 45 45\ngaleria@galerialumbreras.com · www.galerialumbreras.com"
+  },
+  {
+   "tipo": "persName",
+   "ini": 176,
+   "fin": 197,
+   "texto": "Juan Manuel Lumbreras"
+  },
+  {
+   "tipo": "address",
+   "ini": 214,
+   "fin": 237,
+   "texto": "HENAO, 3 · 48009 BILBAO"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 231,
+   "fin": 237,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "BILBAO"
+  },
+  {
+   "tipo": "person",
+   "ini": 327,
+   "fin": 346,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José María Mezquita"
+  },
+  {
+   "tipo": "persName",
+   "ini": 327,
+   "fin": 346,
+   "texto": "José María Mezquita"
+  },
+  {
+   "tipo": "person",
+   "ini": 4650,
+   "fin": 4669,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José María Mezquita"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4650,
+   "fin": 4669,
+   "texto": "José María Mezquita"
+  },
+  {
+   "tipo": "person",
+   "ini": 4706,
+   "fin": 4725,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JOSÉ MARÍA MEZQUITA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4706,
+   "fin": 4725,
+   "texto": "JOSÉ MARÍA MEZQUITA"
+  },
+  {
+   "tipo": "person",
+   "ini": 4782,
+   "fin": 4801,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José María Mezquita"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4782,
+   "fin": 4801,
+   "texto": "José María Mezquita"
+  },
+  {
+   "tipo": "person",
+   "ini": 5530,
+   "fin": 5538,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mezquita"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5530,
+   "fin": 5538,
+   "texto": "Mezquita"
+  },
+  {
+   "tipo": "person",
+   "ini": 5965,
+   "fin": 5973,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mezquita"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5965,
+   "fin": 5973,
+   "texto": "Mezquita"
+  },
+  {
+   "tipo": "person",
+   "ini": 6166,
+   "fin": 6174,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mezquita"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6166,
+   "fin": 6174,
+   "texto": "Mezquita"
+  },
+  {
+   "tipo": "person",
+   "ini": 6909,
+   "fin": 6928,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José María Mezquita"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6909,
+   "fin": 6928,
+   "texto": "José María Mezquita"
+  },
+  {
+   "tipo": "institution",
+   "ini": 7464,
+   "fin": 7503,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería Juan Manuel Lumbreras de Bilbao"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 7497,
+   "fin": 7503,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Bilbao"
+  },
+  {
+   "tipo": "person",
+   "ini": 7680,
+   "fin": 7688,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mezquita"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7680,
+   "fin": 7688,
+   "texto": "Mezquita"
+  },
+  {
+   "tipo": "person",
+   "ini": 8155,
+   "fin": 8163,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mezquita"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8155,
+   "fin": 8163,
+   "texto": "Mezquita"
+  },
+  {
+   "tipo": "institution",
+   "ini": 8594,
+   "fin": 8633,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "galería Juan Manuel Lumbreras de Bilbao"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 8627,
+   "fin": 8633,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Bilbao"
+  },
+  {
+   "tipo": "person",
+   "ini": 8677,
+   "fin": 8685,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mezquita"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8677,
+   "fin": 8685,
+   "texto": "Mezquita"
+  },
+  {
+   "tipo": "person",
+   "ini": 9341,
+   "fin": 9349,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mezquita"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9341,
+   "fin": 9349,
+   "texto": "Mezquita"
+  },
+  {
+   "tipo": "person",
+   "ini": 9567,
+   "fin": 9586,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José María Mezquita"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9567,
+   "fin": 9586,
+   "texto": "José María Mezquita"
+  },
+  {
+   "tipo": "person",
+   "ini": 10568,
+   "fin": 10576,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mezquita"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10568,
+   "fin": 10576,
+   "texto": "Mezquita"
+  },
+  {
+   "tipo": "person",
+   "ini": 11760,
+   "fin": 11768,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mezquita"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11760,
+   "fin": 11768,
+   "texto": "Mezquita"
+  },
+  {
+   "tipo": "person",
+   "ini": 12501,
+   "fin": 12509,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mezquita"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12501,
+   "fin": 12509,
+   "texto": "Mezquita"
+  },
+  {
+   "tipo": "institution",
+   "ini": 13548,
+   "fin": 13587,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "galería Juan Manuel Lumbreras de Bilbao"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 13581,
+   "fin": 13587,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Bilbao"
+  },
+  {
+   "tipo": "person",
+   "ini": 13658,
+   "fin": 13677,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José María Mezquita"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13658,
+   "fin": 13677,
+   "texto": "José María Mezquita"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14076,
+   "fin": 14084,
+   "texto": "Mezquita"
+  },
+  {
+   "tipo": "person",
+   "ini": 14076,
+   "fin": 14084,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mezquita"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 14161,
+   "fin": 17858
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14176,
+   "fin": 14246
+  },
+  {
+   "tipo": "img",
+   "ini": 14176,
+   "fin": 14181,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14183,
+   "fin": 14246,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "MAQUINARIA DE MADERA CON PILAR\nAcuarela s/ papel\n45 x 37cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 14183,
+   "fin": 14213,
+   "texto": "MAQUINARIA DE MADERA CON PILAR"
+  },
+  {
+   "tipo": "material",
+   "ini": 14214,
+   "fin": 14231,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela s/ papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14232,
+   "fin": 14241,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "45 x 37cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14232,
+   "fin": 14234,
+   "texto": "45"
+  },
+  {
+   "tipo": "width",
+   "ini": 14237,
+   "fin": 14239,
+   "texto": "37"
+  },
+  {
+   "tipo": "date",
+   "ini": 14242,
+   "fin": 14246,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14248,
+   "fin": 14301
+  },
+  {
+   "tipo": "img",
+   "ini": 14248,
+   "fin": 14253,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14255,
+   "fin": 14301,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "BAÑO\nAcuarela s/ papel Fabriano\n50 x 36cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 14255,
+   "fin": 14259,
+   "texto": "BAÑO"
+  },
+  {
+   "tipo": "material",
+   "ini": 14260,
+   "fin": 14286,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela s/ papel Fabriano"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14287,
+   "fin": 14296,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 36cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14287,
+   "fin": 14289,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 14292,
+   "fin": 14294,
+   "texto": "36"
+  },
+  {
+   "tipo": "date",
+   "ini": 14297,
+   "fin": 14301,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14303,
+   "fin": 14367
+  },
+  {
+   "tipo": "img",
+   "ini": 14303,
+   "fin": 14308,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14310,
+   "fin": 14367,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "PLANCHISTERS\nTinta china s/ papel Fabriano\n50 x 36cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 14310,
+   "fin": 14322,
+   "texto": "PLANCHISTERS"
+  },
+  {
+   "tipo": "material",
+   "ini": 14323,
+   "fin": 14352,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china s/ papel Fabriano"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14353,
+   "fin": 14362,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 36cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14353,
+   "fin": 14355,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 14358,
+   "fin": 14360,
+   "texto": "36"
+  },
+  {
+   "tipo": "date",
+   "ini": 14363,
+   "fin": 14367,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14369,
+   "fin": 14458
+  },
+  {
+   "tipo": "img",
+   "ini": 14369,
+   "fin": 14374,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14376,
+   "fin": 14458,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "PLANCHISTERS Y CUARTO DE GUARDAPOLVO\nAcuarela s/ papel Saunders\n50,5 x 40,5cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 14376,
+   "fin": 14412,
+   "texto": "PLANCHISTERS Y CUARTO DE GUARDAPOLVO"
+  },
+  {
+   "tipo": "material",
+   "ini": 14413,
+   "fin": 14439,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Acuarela s/ papel Saunders"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14440,
+   "fin": 14453,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50,5 x 40,5cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14440,
+   "fin": 14444,
+   "texto": "50,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 14447,
+   "fin": 14451,
+   "texto": "40,5"
+  },
+  {
+   "tipo": "date",
+   "ini": 14454,
+   "fin": 14458,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14460,
+   "fin": 14544
+  },
+  {
+   "tipo": "img",
+   "ini": 14460,
+   "fin": 14465,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14467,
+   "fin": 14544,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "MAQUINARIA DE MADERA A CONTRALUZ\nTinta china s/ papel Guarro\n52,5 x 65cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 14467,
+   "fin": 14499,
+   "texto": "MAQUINARIA DE MADERA A CONTRALUZ"
+  },
+  {
+   "tipo": "material",
+   "ini": 14500,
+   "fin": 14527,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china s/ papel Guarro"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14528,
+   "fin": 14539,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "52,5 x 65cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14528,
+   "fin": 14532,
+   "texto": "52,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 14535,
+   "fin": 14537,
+   "texto": "65"
+  },
+  {
+   "tipo": "date",
+   "ini": 14540,
+   "fin": 14544,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14546,
+   "fin": 14610
+  },
+  {
+   "tipo": "img",
+   "ini": 14546,
+   "fin": 14551,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14553,
+   "fin": 14610,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "PLANCHISTERS\nTinta china s/ papel Canson\n50 x 64,5cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 14553,
+   "fin": 14565,
+   "texto": "PLANCHISTERS"
+  },
+  {
+   "tipo": "material",
+   "ini": 14566,
+   "fin": 14593,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china s/ papel Canson"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14594,
+   "fin": 14605,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 64,5cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14594,
+   "fin": 14596,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 14599,
+   "fin": 14603,
+   "texto": "64,5"
+  },
+  {
+   "tipo": "date",
+   "ini": 14606,
+   "fin": 14610,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14612,
+   "fin": 14698
+  },
+  {
+   "tipo": "img",
+   "ini": 14612,
+   "fin": 14617,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14619,
+   "fin": 14698,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "BODEGA CON CUADRO ELÉCTRICO AL FONDO\nTinta china s/ papel Guarro\n70 x 50cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 14619,
+   "fin": 14655,
+   "texto": "BODEGA CON CUADRO ELÉCTRICO AL FONDO"
+  },
+  {
+   "tipo": "material",
+   "ini": 14656,
+   "fin": 14683,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china s/ papel Guarro"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14684,
+   "fin": 14693,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 50cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14684,
+   "fin": 14686,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 14689,
+   "fin": 14691,
+   "texto": "50"
+  },
+  {
+   "tipo": "date",
+   "ini": 14694,
+   "fin": 14698,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14700,
+   "fin": 14775
+  },
+  {
+   "tipo": "img",
+   "ini": 14700,
+   "fin": 14705,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14707,
+   "fin": 14775,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "PISO AJEDREZADO CON ESCALERA\nAcuarela s/ papel Guarro\n65 x 52cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 14707,
+   "fin": 14735,
+   "texto": "PISO AJEDREZADO CON ESCALERA"
+  },
+  {
+   "tipo": "material",
+   "ini": 14736,
+   "fin": 14760,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela s/ papel Guarro"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14761,
+   "fin": 14770,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 52cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14761,
+   "fin": 14763,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 14766,
+   "fin": 14768,
+   "texto": "52"
+  },
+  {
+   "tipo": "date",
+   "ini": 14771,
+   "fin": 14775,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14777,
+   "fin": 14846
+  },
+  {
+   "tipo": "img",
+   "ini": 14777,
+   "fin": 14782,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14784,
+   "fin": 14846,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "OFICINA EN UNA NAVE\nTinta china s/ papel Ingres\n50 x 70cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 14784,
+   "fin": 14803,
+   "texto": "OFICINA EN UNA NAVE"
+  },
+  {
+   "tipo": "material",
+   "ini": 14804,
+   "fin": 14831,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china s/ papel Ingres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14832,
+   "fin": 14841,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 70cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14832,
+   "fin": 14834,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 14837,
+   "fin": 14839,
+   "texto": "70"
+  },
+  {
+   "tipo": "date",
+   "ini": 14842,
+   "fin": 14846,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14848,
+   "fin": 14940
+  },
+  {
+   "tipo": "img",
+   "ini": 14848,
+   "fin": 14854,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14855,
+   "fin": 14940,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "ESPACIO CON BANCO DE CARPINTERO Y RAYO DE SOL\nAcuarela s/ papel Ingres\n50 x 70cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 14855,
+   "fin": 14900,
+   "texto": "ESPACIO CON BANCO DE CARPINTERO Y RAYO DE SOL"
+  },
+  {
+   "tipo": "material",
+   "ini": 14901,
+   "fin": 14925,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela s/ papel Ingres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 14926,
+   "fin": 14935,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 70cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 14926,
+   "fin": 14928,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 14931,
+   "fin": 14933,
+   "texto": "70"
+  },
+  {
+   "tipo": "date",
+   "ini": 14936,
+   "fin": 14940,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 14942,
+   "fin": 15017
+  },
+  {
+   "tipo": "img",
+   "ini": 14942,
+   "fin": 14947,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 14949,
+   "fin": 15017,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "PISO AJEDREZADO CON MÁQUINAS\nAcuarela s/ papel Canson\n65 x 50cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 14949,
+   "fin": 14977,
+   "texto": "PISO AJEDREZADO CON MÁQUINAS"
+  },
+  {
+   "tipo": "material",
+   "ini": 14978,
+   "fin": 15002,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela s/ papel Canson"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15003,
+   "fin": 15012,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 50cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15003,
+   "fin": 15005,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 15008,
+   "fin": 15010,
+   "texto": "50"
+  },
+  {
+   "tipo": "date",
+   "ini": 15013,
+   "fin": 15017,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15019,
+   "fin": 15099
+  },
+  {
+   "tipo": "img",
+   "ini": 15019,
+   "fin": 15024,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15026,
+   "fin": 15099,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "CUARTO DE TARIMA DE GUARDAPOLVO\nAcuarela s/ papel Fabriano\n77 x 56cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 15026,
+   "fin": 15057,
+   "texto": "CUARTO DE TARIMA DE GUARDAPOLVO"
+  },
+  {
+   "tipo": "material",
+   "ini": 15058,
+   "fin": 15084,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela s/ papel Fabriano"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15085,
+   "fin": 15094,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "77 x 56cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15085,
+   "fin": 15087,
+   "texto": "77"
+  },
+  {
+   "tipo": "width",
+   "ini": 15090,
+   "fin": 15092,
+   "texto": "56"
+  },
+  {
+   "tipo": "date",
+   "ini": 15095,
+   "fin": 15099,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15101,
+   "fin": 15180
+  },
+  {
+   "tipo": "img",
+   "ini": 15101,
+   "fin": 15106,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15108,
+   "fin": 15180,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "INTERIOR CUARTO DE GUARDAPOLVO\nAcuarela s/ papel Fabriano\n77 x 56cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 15108,
+   "fin": 15138,
+   "texto": "INTERIOR CUARTO DE GUARDAPOLVO"
+  },
+  {
+   "tipo": "material",
+   "ini": 15139,
+   "fin": 15165,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela s/ papel Fabriano"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15166,
+   "fin": 15175,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "77 x 56cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15166,
+   "fin": 15168,
+   "texto": "77"
+  },
+  {
+   "tipo": "width",
+   "ini": 15171,
+   "fin": 15173,
+   "texto": "56"
+  },
+  {
+   "tipo": "date",
+   "ini": 15176,
+   "fin": 15180,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15182,
+   "fin": 15261
+  },
+  {
+   "tipo": "img",
+   "ini": 15182,
+   "fin": 15188,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15189,
+   "fin": 15261,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "INTERIOR CUARTO DE GUARDAPOLVO\nAcuarela s/ papel Fabriano\n77 x 56cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 15189,
+   "fin": 15219,
+   "texto": "INTERIOR CUARTO DE GUARDAPOLVO"
+  },
+  {
+   "tipo": "material",
+   "ini": 15220,
+   "fin": 15246,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela s/ papel Fabriano"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15247,
+   "fin": 15256,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "77 x 56cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15247,
+   "fin": 15249,
+   "texto": "77"
+  },
+  {
+   "tipo": "width",
+   "ini": 15252,
+   "fin": 15254,
+   "texto": "56"
+  },
+  {
+   "tipo": "date",
+   "ini": 15257,
+   "fin": 15261,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15263,
+   "fin": 15354
+  },
+  {
+   "tipo": "img",
+   "ini": 15263,
+   "fin": 15268,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15270,
+   "fin": 15354,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "MAQUINARIAS EN PENUMBRA CON PILAR CENTRAL\nTinta china s/ papel Canson\n50 x 70cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 15270,
+   "fin": 15311,
+   "texto": "MAQUINARIAS EN PENUMBRA CON PILAR CENTRAL"
+  },
+  {
+   "tipo": "material",
+   "ini": 15312,
+   "fin": 15339,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china s/ papel Canson"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15340,
+   "fin": 15349,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 70cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15340,
+   "fin": 15342,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 15345,
+   "fin": 15347,
+   "texto": "70"
+  },
+  {
+   "tipo": "date",
+   "ini": 15350,
+   "fin": 15354,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15387,
+   "fin": 15462
+  },
+  {
+   "tipo": "work",
+   "ini": 15387,
+   "fin": 15455,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "ESTANTERÍA EN LA OSCURIDAD\nAcuarela s/ papel Fabriano\n77 x 56cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 15387,
+   "fin": 15413,
+   "texto": "ESTANTERÍA EN LA OSCURIDAD"
+  },
+  {
+   "tipo": "material",
+   "ini": 15414,
+   "fin": 15440,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela s/ papel Fabriano"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15441,
+   "fin": 15450,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "77 x 56cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15441,
+   "fin": 15443,
+   "texto": "77"
+  },
+  {
+   "tipo": "width",
+   "ini": 15446,
+   "fin": 15448,
+   "texto": "56"
+  },
+  {
+   "tipo": "date",
+   "ini": 15451,
+   "fin": 15455,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "img",
+   "ini": 15457,
+   "fin": 15462,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15464,
+   "fin": 15514
+  },
+  {
+   "tipo": "img",
+   "ini": 15464,
+   "fin": 15469,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15471,
+   "fin": 15514,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "BODEGA\nTinta china s/ papel\n114 x 88cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 15471,
+   "fin": 15477,
+   "texto": "BODEGA"
+  },
+  {
+   "tipo": "material",
+   "ini": 15478,
+   "fin": 15498,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china s/ papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15499,
+   "fin": 15509,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "114 x 88cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15499,
+   "fin": 15502,
+   "texto": "114"
+  },
+  {
+   "tipo": "width",
+   "ini": 15505,
+   "fin": 15507,
+   "texto": "88"
+  },
+  {
+   "tipo": "date",
+   "ini": 15510,
+   "fin": 15514,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15516,
+   "fin": 15584
+  },
+  {
+   "tipo": "img",
+   "ini": 15516,
+   "fin": 15521,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15523,
+   "fin": 15584,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "PLANCHESTER Y RAYO DE SOL\nTinta china s/ papel\n52 x 65cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 15523,
+   "fin": 15548,
+   "texto": "PLANCHESTER Y RAYO DE SOL"
+  },
+  {
+   "tipo": "material",
+   "ini": 15549,
+   "fin": 15569,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china s/ papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15570,
+   "fin": 15579,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "52 x 65cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15570,
+   "fin": 15572,
+   "texto": "52"
+  },
+  {
+   "tipo": "width",
+   "ini": 15575,
+   "fin": 15577,
+   "texto": "65"
+  },
+  {
+   "tipo": "date",
+   "ini": 15580,
+   "fin": 15584,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15586,
+   "fin": 15654
+  },
+  {
+   "tipo": "work",
+   "ini": 15586,
+   "fin": 15646,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "CUADRO ELÉCTRICO\nTinta china s/ papel Arches\n106 x 75cm\n2011"
+  },
+  {
+   "tipo": "title",
+   "ini": 15586,
+   "fin": 15602,
+   "texto": "CUADRO ELÉCTRICO"
+  },
+  {
+   "tipo": "material",
+   "ini": 15603,
+   "fin": 15630,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china s/ papel Arches"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15631,
+   "fin": 15641,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "106 x 75cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15631,
+   "fin": 15634,
+   "texto": "106"
+  },
+  {
+   "tipo": "width",
+   "ini": 15637,
+   "fin": 15639,
+   "texto": "75"
+  },
+  {
+   "tipo": "date",
+   "ini": 15642,
+   "fin": 15646,
+   "rasgos": {
+    "when": "2011"
+   },
+   "texto": "2011"
+  },
+  {
+   "tipo": "img",
+   "ini": 15648,
+   "fin": 15653,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15655,
+   "fin": 15722,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "CUADRO ELÉCTRICO\nTinta china s/ papel Ingres\n101 x 70cm\n2011\n\n[img]"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15655,
+   "fin": 15722
+  },
+  {
+   "tipo": "title",
+   "ini": 15655,
+   "fin": 15671,
+   "texto": "CUADRO ELÉCTRICO"
+  },
+  {
+   "tipo": "material",
+   "ini": 15672,
+   "fin": 15699,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china s/ papel Ingres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15700,
+   "fin": 15710,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "101 x 70cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15700,
+   "fin": 15703,
+   "texto": "101"
+  },
+  {
+   "tipo": "width",
+   "ini": 15706,
+   "fin": 15708,
+   "texto": "70"
+  },
+  {
+   "tipo": "date",
+   "ini": 15711,
+   "fin": 15722,
+   "rasgos": {
+    "when": "2011"
+   },
+   "texto": "2011\n\n[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 15717,
+   "fin": 15722,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15724,
+   "fin": 15773
+  },
+  {
+   "tipo": "img",
+   "ini": 15724,
+   "fin": 15729,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15731,
+   "fin": 15773,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "BODEGA\nTinta china s/ papel\n65 x 50cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 15731,
+   "fin": 15737,
+   "texto": "BODEGA"
+  },
+  {
+   "tipo": "material",
+   "ini": 15738,
+   "fin": 15758,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china s/ papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15759,
+   "fin": 15768,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 50cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15759,
+   "fin": 15761,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 15764,
+   "fin": 15766,
+   "texto": "50"
+  },
+  {
+   "tipo": "date",
+   "ini": 15769,
+   "fin": 15773,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15775,
+   "fin": 15853
+  },
+  {
+   "tipo": "img",
+   "ini": 15775,
+   "fin": 15780,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15782,
+   "fin": 15853,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "BODEGA CON ESCALERA MOLINERA\nTinta china s/ papel Ingres\n70 x 50cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 15782,
+   "fin": 15810,
+   "texto": "BODEGA CON ESCALERA MOLINERA"
+  },
+  {
+   "tipo": "material",
+   "ini": 15811,
+   "fin": 15838,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china s/ papel Ingres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15839,
+   "fin": 15848,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 50cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15839,
+   "fin": 15841,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 15844,
+   "fin": 15846,
+   "texto": "50"
+  },
+  {
+   "tipo": "date",
+   "ini": 15849,
+   "fin": 15853,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15855,
+   "fin": 15942
+  },
+  {
+   "tipo": "img",
+   "ini": 15855,
+   "fin": 15860,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15862,
+   "fin": 15942,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "VISTA EXTERIOR DE LA FÁBRICA DE COLINO\nAcuarela s/ papel Arches\n56,5 x 76cm\n2011"
+  },
+  {
+   "tipo": "title",
+   "ini": 15862,
+   "fin": 15900,
+   "texto": "VISTA EXTERIOR DE LA FÁBRICA DE COLINO"
+  },
+  {
+   "tipo": "material",
+   "ini": 15901,
+   "fin": 15925,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela s/ papel Arches"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15926,
+   "fin": 15937,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "56,5 x 76cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15926,
+   "fin": 15930,
+   "texto": "56,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 15933,
+   "fin": 15935,
+   "texto": "76"
+  },
+  {
+   "tipo": "date",
+   "ini": 15938,
+   "fin": 15942,
+   "rasgos": {
+    "when": "2011"
+   },
+   "texto": "2011"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15944,
+   "fin": 16021
+  },
+  {
+   "tipo": "img",
+   "ini": 15944,
+   "fin": 15949,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15951,
+   "fin": 16021,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "PLANCHISTERS Y VENTANA CON LUZ DORADA\nAcuarela s/ papel\n65 x 50cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 15951,
+   "fin": 15988,
+   "texto": "PLANCHISTERS Y VENTANA CON LUZ DORADA"
+  },
+  {
+   "tipo": "material",
+   "ini": 15989,
+   "fin": 16006,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela s/ papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16007,
+   "fin": 16016,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 50cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16007,
+   "fin": 16009,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 16012,
+   "fin": 16014,
+   "texto": "50"
+  },
+  {
+   "tipo": "date",
+   "ini": 16017,
+   "fin": 16021,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16024,
+   "fin": 16088
+  },
+  {
+   "tipo": "work",
+   "ini": 16024,
+   "fin": 16081,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "PLANTA PRINCIPAL\nAcuarela s/ papel Arches\n106 x 75cm\n2011"
+  },
+  {
+   "tipo": "title",
+   "ini": 16024,
+   "fin": 16040,
+   "texto": "PLANTA PRINCIPAL"
+  },
+  {
+   "tipo": "material",
+   "ini": 16041,
+   "fin": 16065,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela s/ papel Arches"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16066,
+   "fin": 16076,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "106 x 75cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16066,
+   "fin": 16069,
+   "texto": "106"
+  },
+  {
+   "tipo": "width",
+   "ini": 16072,
+   "fin": 16074,
+   "texto": "75"
+  },
+  {
+   "tipo": "date",
+   "ini": 16077,
+   "fin": 16081,
+   "rasgos": {
+    "when": "2011"
+   },
+   "texto": "2011"
+  },
+  {
+   "tipo": "img",
+   "ini": 16083,
+   "fin": 16088,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16090,
+   "fin": 16155
+  },
+  {
+   "tipo": "img",
+   "ini": 16090,
+   "fin": 16095,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16097,
+   "fin": 16155,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "CALDERA DE VAPOR\nAcuarela s/ papel Fabriano\n77 x 50cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 16097,
+   "fin": 16113,
+   "texto": "CALDERA DE VAPOR"
+  },
+  {
+   "tipo": "material",
+   "ini": 16114,
+   "fin": 16140,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela s/ papel Fabriano"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16141,
+   "fin": 16150,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "77 x 50cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16141,
+   "fin": 16143,
+   "texto": "77"
+  },
+  {
+   "tipo": "width",
+   "ini": 16146,
+   "fin": 16148,
+   "texto": "50"
+  },
+  {
+   "tipo": "date",
+   "ini": 16151,
+   "fin": 16155,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16157,
+   "fin": 16221
+  },
+  {
+   "tipo": "img",
+   "ini": 16157,
+   "fin": 16162,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16164,
+   "fin": 16221,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "MÁQUINA DE MADERA\nAcuarela s/ papel Arches\n41 x 31cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 16164,
+   "fin": 16181,
+   "texto": "MÁQUINA DE MADERA"
+  },
+  {
+   "tipo": "material",
+   "ini": 16182,
+   "fin": 16206,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela s/ papel Arches"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16207,
+   "fin": 16216,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 31cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16207,
+   "fin": 16209,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 16212,
+   "fin": 16214,
+   "texto": "31"
+  },
+  {
+   "tipo": "date",
+   "ini": 16217,
+   "fin": 16221,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16223,
+   "fin": 16273
+  },
+  {
+   "tipo": "img",
+   "ini": 16223,
+   "fin": 16228,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16230,
+   "fin": 16273,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "MÁQUINA\nTinta china s/ papel\n45 x 37cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 16230,
+   "fin": 16237,
+   "texto": "MÁQUINA"
+  },
+  {
+   "tipo": "material",
+   "ini": 16238,
+   "fin": 16258,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china s/ papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16259,
+   "fin": 16268,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "45 x 37cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16259,
+   "fin": 16261,
+   "texto": "45"
+  },
+  {
+   "tipo": "width",
+   "ini": 16264,
+   "fin": 16266,
+   "texto": "37"
+  },
+  {
+   "tipo": "date",
+   "ini": 16269,
+   "fin": 16273,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16275,
+   "fin": 16350
+  },
+  {
+   "tipo": "img",
+   "ini": 16275,
+   "fin": 16280,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16282,
+   "fin": 16350,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "VENTANA CON RAYO DE SOL\nTinta china s/ papel Fabriano\n77 x 56cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 16282,
+   "fin": 16305,
+   "texto": "VENTANA CON RAYO DE SOL"
+  },
+  {
+   "tipo": "material",
+   "ini": 16306,
+   "fin": 16335,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china s/ papel Fabriano"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16336,
+   "fin": 16345,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "77 x 56cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16336,
+   "fin": 16338,
+   "texto": "77"
+  },
+  {
+   "tipo": "width",
+   "ini": 16341,
+   "fin": 16343,
+   "texto": "56"
+  },
+  {
+   "tipo": "date",
+   "ini": 16346,
+   "fin": 16350,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16352,
+   "fin": 16398
+  },
+  {
+   "tipo": "img",
+   "ini": 16352,
+   "fin": 16357,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16359,
+   "fin": 16398,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "MÁQUINAS\nDibujo s/ papel\n50 x 70cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 16359,
+   "fin": 16367,
+   "texto": "MÁQUINAS"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16368,
+   "fin": 16383,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Dibujo s/ papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16384,
+   "fin": 16393,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 70cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16384,
+   "fin": 16386,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 16389,
+   "fin": 16391,
+   "texto": "70"
+  },
+  {
+   "tipo": "date",
+   "ini": 16394,
+   "fin": 16398,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16400,
+   "fin": 16460
+  },
+  {
+   "tipo": "img",
+   "ini": 16400,
+   "fin": 16405,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16407,
+   "fin": 16460,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "ESCALERA MOLINERA\nTinta china s/ papel\n65 x 50cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 16407,
+   "fin": 16424,
+   "texto": "ESCALERA MOLINERA"
+  },
+  {
+   "tipo": "material",
+   "ini": 16425,
+   "fin": 16445,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china s/ papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16446,
+   "fin": 16455,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 50cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16446,
+   "fin": 16448,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 16451,
+   "fin": 16453,
+   "texto": "50"
+  },
+  {
+   "tipo": "date",
+   "ini": 16456,
+   "fin": 16460,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16462,
+   "fin": 16550
+  },
+  {
+   "tipo": "img",
+   "ini": 16462,
+   "fin": 16467,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 16468,
+   "fin": 16473,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16475,
+   "fin": 16550,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "BODEGA\nTinta china s/ papel Ingres\n100 x 70cm (2 papeles de 70 x 50cm)\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 16475,
+   "fin": 16481,
+   "texto": "BODEGA"
+  },
+  {
+   "tipo": "material",
+   "ini": 16482,
+   "fin": 16509,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china s/ papel Ingres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16510,
+   "fin": 16520,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 70cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16510,
+   "fin": 16513,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 16516,
+   "fin": 16518,
+   "texto": "70"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16535,
+   "fin": 16544,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 50cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16535,
+   "fin": 16537,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 16540,
+   "fin": 16542,
+   "texto": "50"
+  },
+  {
+   "tipo": "date",
+   "ini": 16546,
+   "fin": 16550,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16552,
+   "fin": 16598
+  },
+  {
+   "tipo": "img",
+   "ini": 16552,
+   "fin": 16557,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16559,
+   "fin": 16598,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "BODEGA\nPigmento s/ papel\n70 x 50cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 16559,
+   "fin": 16565,
+   "texto": "BODEGA"
+  },
+  {
+   "tipo": "material",
+   "ini": 16566,
+   "fin": 16583,
+   "rasgos": {
+    "type": "pigment"
+   },
+   "texto": "Pigmento s/ papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16584,
+   "fin": 16593,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 50cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16584,
+   "fin": 16586,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 16589,
+   "fin": 16591,
+   "texto": "50"
+  },
+  {
+   "tipo": "date",
+   "ini": 16594,
+   "fin": 16598,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16600,
+   "fin": 16657
+  },
+  {
+   "tipo": "img",
+   "ini": 16600,
+   "fin": 16605,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16607,
+   "fin": 16657,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "BODEGA\nAcuarela s/ papel Arches\n114 x 101,5cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 16607,
+   "fin": 16613,
+   "texto": "BODEGA"
+  },
+  {
+   "tipo": "material",
+   "ini": 16614,
+   "fin": 16638,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela s/ papel Arches"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16639,
+   "fin": 16652,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "114 x 101,5cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16639,
+   "fin": 16642,
+   "texto": "114"
+  },
+  {
+   "tipo": "width",
+   "ini": 16645,
+   "fin": 16650,
+   "texto": "101,5"
+  },
+  {
+   "tipo": "date",
+   "ini": 16653,
+   "fin": 16657,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16659,
+   "fin": 16717
+  },
+  {
+   "tipo": "img",
+   "ini": 16659,
+   "fin": 16664,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16666,
+   "fin": 16717,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "BODEGA\nTinta china s/ papel Arches\n104 x 114cm\n2011"
+  },
+  {
+   "tipo": "title",
+   "ini": 16666,
+   "fin": 16672,
+   "texto": "BODEGA"
+  },
+  {
+   "tipo": "material",
+   "ini": 16673,
+   "fin": 16700,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china s/ papel Arches"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16701,
+   "fin": 16712,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "104 x 114cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16701,
+   "fin": 16704,
+   "texto": "104"
+  },
+  {
+   "tipo": "width",
+   "ini": 16707,
+   "fin": 16710,
+   "texto": "114"
+  },
+  {
+   "tipo": "date",
+   "ini": 16713,
+   "fin": 16717,
+   "rasgos": {
+    "when": "2011"
+   },
+   "texto": "2011"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16719,
+   "fin": 16783
+  },
+  {
+   "tipo": "img",
+   "ini": 16719,
+   "fin": 16724,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16726,
+   "fin": 16783,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "PLANTA PRINCIPAL\nAcuarela s/ papel Arches\n106 x 75cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 16726,
+   "fin": 16742,
+   "texto": "PLANTA PRINCIPAL"
+  },
+  {
+   "tipo": "material",
+   "ini": 16743,
+   "fin": 16767,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela s/ papel Arches"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16768,
+   "fin": 16778,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "106 x 75cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16768,
+   "fin": 16771,
+   "texto": "106"
+  },
+  {
+   "tipo": "width",
+   "ini": 16774,
+   "fin": 16776,
+   "texto": "75"
+  },
+  {
+   "tipo": "date",
+   "ini": 16779,
+   "fin": 16783,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16785,
+   "fin": 16849
+  },
+  {
+   "tipo": "img",
+   "ini": 16785,
+   "fin": 16790,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16792,
+   "fin": 16849,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "VENTANA ENTRE PILARES\nTinta china s/ papel\n65 x 50cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 16792,
+   "fin": 16813,
+   "texto": "VENTANA ENTRE PILARES"
+  },
+  {
+   "tipo": "material",
+   "ini": 16814,
+   "fin": 16834,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china s/ papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16835,
+   "fin": 16844,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 50cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16835,
+   "fin": 16837,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 16840,
+   "fin": 16842,
+   "texto": "50"
+  },
+  {
+   "tipo": "date",
+   "ini": 16845,
+   "fin": 16849,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16851,
+   "fin": 16924
+  },
+  {
+   "tipo": "img",
+   "ini": 16851,
+   "fin": 16856,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16858,
+   "fin": 16924,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "NAVE CON PISO DE MOSAICO\nAcuarela s/ papel Fabriano\n77 x 56cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 16858,
+   "fin": 16882,
+   "texto": "NAVE CON PISO DE MOSAICO"
+  },
+  {
+   "tipo": "material",
+   "ini": 16883,
+   "fin": 16909,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela s/ papel Fabriano"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16910,
+   "fin": 16919,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "77 x 56cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16910,
+   "fin": 16912,
+   "texto": "77"
+  },
+  {
+   "tipo": "width",
+   "ini": 16915,
+   "fin": 16917,
+   "texto": "56"
+  },
+  {
+   "tipo": "date",
+   "ini": 16920,
+   "fin": 16924,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16926,
+   "fin": 16995
+  },
+  {
+   "tipo": "img",
+   "ini": 16926,
+   "fin": 16931,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16933,
+   "fin": 16995,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "CUARTO BOMBA GAS-OIL\nAcuarela s/ papel Fabriano\n77 x 56cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 16933,
+   "fin": 16953,
+   "texto": "CUARTO BOMBA GAS-OIL"
+  },
+  {
+   "tipo": "material",
+   "ini": 16954,
+   "fin": 16980,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela s/ papel Fabriano"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16981,
+   "fin": 16990,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "77 x 56cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16981,
+   "fin": 16983,
+   "texto": "77"
+  },
+  {
+   "tipo": "width",
+   "ini": 16986,
+   "fin": 16988,
+   "texto": "56"
+  },
+  {
+   "tipo": "date",
+   "ini": 16991,
+   "fin": 16995,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16997,
+   "fin": 17074
+  },
+  {
+   "tipo": "img",
+   "ini": 16997,
+   "fin": 17002,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17004,
+   "fin": 17074,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "BODEGA CON ESCALERA MOLINERA\nAcuarela s/ papel Fabriano\n76 x 56cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 17004,
+   "fin": 17032,
+   "texto": "BODEGA CON ESCALERA MOLINERA"
+  },
+  {
+   "tipo": "material",
+   "ini": 17033,
+   "fin": 17059,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela s/ papel Fabriano"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17060,
+   "fin": 17069,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "76 x 56cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17060,
+   "fin": 17062,
+   "texto": "76"
+  },
+  {
+   "tipo": "width",
+   "ini": 17065,
+   "fin": 17067,
+   "texto": "56"
+  },
+  {
+   "tipo": "date",
+   "ini": 17070,
+   "fin": 17074,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17076,
+   "fin": 17143
+  },
+  {
+   "tipo": "img",
+   "ini": 17076,
+   "fin": 17081,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17083,
+   "fin": 17143,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "BODEGA. DEPÓSITO\nAcuarela s/ papel Fabriano\n51 x 35,5cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 17083,
+   "fin": 17099,
+   "texto": "BODEGA. DEPÓSITO"
+  },
+  {
+   "tipo": "material",
+   "ini": 17100,
+   "fin": 17126,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela s/ papel Fabriano"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17127,
+   "fin": 17138,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "51 x 35,5cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17127,
+   "fin": 17129,
+   "texto": "51"
+  },
+  {
+   "tipo": "width",
+   "ini": 17132,
+   "fin": 17136,
+   "texto": "35,5"
+  },
+  {
+   "tipo": "date",
+   "ini": 17139,
+   "fin": 17143,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17145,
+   "fin": 17210
+  },
+  {
+   "tipo": "img",
+   "ini": 17145,
+   "fin": 17150,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17152,
+   "fin": 17210,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "BODEGA. LUCES.\nAcuarela s/ papel Saunders\n50 x 40,5cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 17152,
+   "fin": 17166,
+   "texto": "BODEGA. LUCES."
+  },
+  {
+   "tipo": "material",
+   "ini": 17167,
+   "fin": 17193,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela s/ papel Saunders"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17194,
+   "fin": 17205,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 40,5cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17194,
+   "fin": 17196,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 17199,
+   "fin": 17203,
+   "texto": "40,5"
+  },
+  {
+   "tipo": "date",
+   "ini": 17206,
+   "fin": 17210,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17213,
+   "fin": 17287
+  },
+  {
+   "tipo": "work",
+   "ini": 17213,
+   "fin": 17280,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "BODEGA Y ARMARIO ELÉCTRICO\nAcuarela s/ papel Archer\n114 x 90cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 17213,
+   "fin": 17239,
+   "texto": "BODEGA Y ARMARIO ELÉCTRICO"
+  },
+  {
+   "tipo": "material",
+   "ini": 17240,
+   "fin": 17264,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela s/ papel Archer"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17265,
+   "fin": 17275,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "114 x 90cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17265,
+   "fin": 17268,
+   "texto": "114"
+  },
+  {
+   "tipo": "width",
+   "ini": 17271,
+   "fin": 17273,
+   "texto": "90"
+  },
+  {
+   "tipo": "date",
+   "ini": 17276,
+   "fin": 17280,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "img",
+   "ini": 17282,
+   "fin": 17287,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17290,
+   "fin": 17363
+  },
+  {
+   "tipo": "img",
+   "ini": 17290,
+   "fin": 17295,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17297,
+   "fin": 17363,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "NAVE CON PISO DE MOSAICO\nAcuarela s/ papel Fabriano\n76 x 56cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 17297,
+   "fin": 17321,
+   "texto": "NAVE CON PISO DE MOSAICO"
+  },
+  {
+   "tipo": "material",
+   "ini": 17322,
+   "fin": 17348,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela s/ papel Fabriano"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17349,
+   "fin": 17358,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "76 x 56cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17349,
+   "fin": 17351,
+   "texto": "76"
+  },
+  {
+   "tipo": "width",
+   "ini": 17354,
+   "fin": 17356,
+   "texto": "56"
+  },
+  {
+   "tipo": "date",
+   "ini": 17359,
+   "fin": 17363,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17365,
+   "fin": 17441
+  },
+  {
+   "tipo": "img",
+   "ini": 17365,
+   "fin": 17370,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17372,
+   "fin": 17441,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "NAVE CON PISO DE MOSAICO\nTinta china s/ papel Fabriano\n77 x 56cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 17372,
+   "fin": 17396,
+   "texto": "NAVE CON PISO DE MOSAICO"
+  },
+  {
+   "tipo": "material",
+   "ini": 17397,
+   "fin": 17426,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china s/ papel Fabriano"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17427,
+   "fin": 17436,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "77 x 56cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17427,
+   "fin": 17429,
+   "texto": "77"
+  },
+  {
+   "tipo": "width",
+   "ini": 17432,
+   "fin": 17434,
+   "texto": "56"
+  },
+  {
+   "tipo": "date",
+   "ini": 17437,
+   "fin": 17441,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17444,
+   "fin": 17504
+  },
+  {
+   "tipo": "work",
+   "ini": 17444,
+   "fin": 17497,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "BODEGA\nTinta china s/ papel Fabriano\n140 x 100cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 17444,
+   "fin": 17450,
+   "texto": "BODEGA"
+  },
+  {
+   "tipo": "material",
+   "ini": 17451,
+   "fin": 17480,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china s/ papel Fabriano"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17481,
+   "fin": 17492,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "140 x 100cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17481,
+   "fin": 17484,
+   "texto": "140"
+  },
+  {
+   "tipo": "width",
+   "ini": 17487,
+   "fin": 17490,
+   "texto": "100"
+  },
+  {
+   "tipo": "date",
+   "ini": 17493,
+   "fin": 17497,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "img",
+   "ini": 17499,
+   "fin": 17504,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17506,
+   "fin": 17577
+  },
+  {
+   "tipo": "img",
+   "ini": 17506,
+   "fin": 17511,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17513,
+   "fin": 17576,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "CUBIERTA DE URALITA\nTinta china s/ papel Ingres\n70 x 100cm\n2011"
+  },
+  {
+   "tipo": "title",
+   "ini": 17513,
+   "fin": 17532,
+   "texto": "CUBIERTA DE URALITA"
+  },
+  {
+   "tipo": "material",
+   "ini": 17533,
+   "fin": 17560,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china s/ papel Ingres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17561,
+   "fin": 17571,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 100cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17561,
+   "fin": 17563,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 17566,
+   "fin": 17569,
+   "texto": "100"
+  },
+  {
+   "tipo": "date",
+   "ini": 17572,
+   "fin": 17576,
+   "rasgos": {
+    "when": "2011"
+   },
+   "texto": "2011"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17578,
+   "fin": 17632
+  },
+  {
+   "tipo": "img",
+   "ini": 17578,
+   "fin": 17583,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17585,
+   "fin": 17632,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "PLANCHISTER\nTinta china s/ papel\n76 x 57cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 17585,
+   "fin": 17596,
+   "texto": "PLANCHISTER"
+  },
+  {
+   "tipo": "material",
+   "ini": 17597,
+   "fin": 17617,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china s/ papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17618,
+   "fin": 17627,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "76 x 57cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17618,
+   "fin": 17620,
+   "texto": "76"
+  },
+  {
+   "tipo": "width",
+   "ini": 17623,
+   "fin": 17625,
+   "texto": "57"
+  },
+  {
+   "tipo": "date",
+   "ini": 17628,
+   "fin": 17632,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17634,
+   "fin": 17707
+  },
+  {
+   "tipo": "img",
+   "ini": 17634,
+   "fin": 17639,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17641,
+   "fin": 17707,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "ESTANTERÍA CON PIEZAS\nTinta china s/ papel Fabriano\n77 x 56cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 17641,
+   "fin": 17662,
+   "texto": "ESTANTERÍA CON PIEZAS"
+  },
+  {
+   "tipo": "material",
+   "ini": 17663,
+   "fin": 17692,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china s/ papel Fabriano"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17693,
+   "fin": 17702,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "77 x 56cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17693,
+   "fin": 17695,
+   "texto": "77"
+  },
+  {
+   "tipo": "width",
+   "ini": 17698,
+   "fin": 17700,
+   "texto": "56"
+  },
+  {
+   "tipo": "date",
+   "ini": 17703,
+   "fin": 17707,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17709,
+   "fin": 17782
+  },
+  {
+   "tipo": "img",
+   "ini": 17709,
+   "fin": 17714,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17716,
+   "fin": 17782,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "PLANCHESTERS Y RAYO DE SOL\nAcuarela s/ papel Ingres\n50 x 36cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 17716,
+   "fin": 17742,
+   "texto": "PLANCHESTERS Y RAYO DE SOL"
+  },
+  {
+   "tipo": "material",
+   "ini": 17743,
+   "fin": 17767,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela s/ papel Ingres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17768,
+   "fin": 17777,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 36cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17768,
+   "fin": 17770,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 17773,
+   "fin": 17775,
+   "texto": "36"
+  },
+  {
+   "tipo": "date",
+   "ini": 17778,
+   "fin": 17782,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 17784,
+   "fin": 17858
+  },
+  {
+   "tipo": "img",
+   "ini": 17784,
+   "fin": 17789,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 17791,
+   "fin": 17858,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "MÁQUINAS EN LA OSCURIDAD\nTinta china s/ papel Ingres\n70 x 50cm\n2012"
+  },
+  {
+   "tipo": "title",
+   "ini": 17791,
+   "fin": 17815,
+   "texto": "MÁQUINAS EN LA OSCURIDAD"
+  },
+  {
+   "tipo": "material",
+   "ini": 17816,
+   "fin": 17843,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china s/ papel Ingres"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 17844,
+   "fin": 17853,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 50cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 17844,
+   "fin": 17846,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 17849,
+   "fin": 17851,
+   "texto": "50"
+  },
+  {
+   "tipo": "date",
+   "ini": 17854,
+   "fin": 17858,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "person",
+   "ini": 17874,
+   "fin": 17907,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JOSÉ MARÍA MEZQUITA\nZamora, 1946."
+  },
+  {
+   "tipo": "date",
+   "ini": 17902,
+   "fin": 17906,
+   "rasgos": {
+    "when": "1946"
+   },
+   "texto": "1946"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 21536,
+   "fin": 21730,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 21543,
+   "fin": 21562,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "JOSÉ MARÍA MEZQUITA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21543,
+   "fin": 21562,
+   "texto": "JOSÉ MARÍA MEZQUITA"
+  },
+  {
+   "tipo": "person",
+   "ini": 21563,
+   "fin": 21584,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "JUAN MANUEL LUMBRERAS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21563,
+   "fin": 21584,
+   "texto": "JUAN MANUEL LUMBRERAS"
+  },
+  {
+   "tipo": "person",
+   "ini": 21598,
+   "fin": 21617,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "JOSÉ MARÍA MEZQUITA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21598,
+   "fin": 21617,
+   "texto": "JOSÉ MARÍA MEZQUITA"
+  },
+  {
+   "tipo": "person",
+   "ini": 21618,
+   "fin": 21634,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "BEGOÑA LUMBRERAS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21618,
+   "fin": 21634,
+   "texto": "BEGOÑA LUMBRERAS"
+  },
+  {
+   "tipo": "person",
+   "ini": 21657,
+   "fin": 21678,
+   "rasgos": {
+    "role": "designer, layout"
+   },
+   "texto": "JUAN MANUEL LUMBRERAS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21657,
+   "fin": 21678,
+   "texto": "JUAN MANUEL LUMBRERAS"
+  },
+  {
+   "tipo": "person",
+   "ini": 21679,
+   "fin": 21695,
+   "rasgos": {
+    "role": "designer, layout"
+   },
+   "texto": "BEGOÑA LUMBRERAS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21679,
+   "fin": 21695,
+   "texto": "BEGOÑA LUMBRERAS"
+  },
+  {
+   "tipo": "institution",
+   "ini": 21705,
+   "fin": 21721,
+   "rasgos": {
+    "type": "company",
+    "role": "editor"
+   },
+   "texto": "A'G ARTE GESTIÓN"
+  },
+  {
+   "tipo": "date",
+   "ini": 21722,
+   "fin": 21730,
+   "rasgos": {
+    "when": "2014-02-13"
+   },
+   "texto": "13/02/14"
+  }
+ ]
+}

@@ -1,0 +1,1660 @@
+{
+ "id": "cat_069_catalogo_exposicion_contrastes_compresse",
+ "nombre_original": "catalogo_exposicion_contrastes-compressed",
+ "longitud_texto": 5506,
+ "sha256_texto": "cd1dd43c151f28bc0ab91e01174e28358f0a8f4e8425d7a76b6a3d9288203489",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 334,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 0,
+   "fin": 21,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "Universidad de Murcia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 15,
+   "fin": 21,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "title",
+   "ini": 23,
+   "fin": 57,
+   "texto": "Exposición fotográfica\n\nContrastes"
+  },
+  {
+   "tipo": "title",
+   "ini": 59,
+   "fin": 93,
+   "texto": "Exposición fotográfica\n\nContrastes"
+  },
+  {
+   "tipo": "venue",
+   "ini": 141,
+   "fin": 192,
+   "texto": "Hall de entrada al Rectorado Edificio Convalecencia"
+  },
+  {
+   "tipo": "address",
+   "ini": 194,
+   "fin": 238,
+   "texto": "Paseo del Teniente Flomesta, 5, 30003 Murcia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 232,
+   "fin": 238,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "institution",
+   "ini": 352,
+   "fin": 371,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "Servicio de Cultura"
+  },
+  {
+   "tipo": "person",
+   "ini": 396,
+   "fin": 426,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Juan Carlos Martínez Rodríguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 396,
+   "fin": 426,
+   "texto": "Juan Carlos Martínez Rodríguez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 437,
+   "fin": 509,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "Universidad de Murcia.\nVicerrectorado de Calidad,\nCultura y Comunicación"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 452,
+   "fin": 458,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "person",
+   "ini": 637,
+   "fin": 658,
+   "texto": "Cristina Arán Navarro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 637,
+   "fin": 658,
+   "texto": "Cristina Arán Navarro"
+  },
+  {
+   "tipo": "person",
+   "ini": 672,
+   "fin": 700,
+   "rasgos": {
+    "role": "layoutDesigner"
+   },
+   "texto": "José Manuel González Herrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 672,
+   "fin": 700,
+   "texto": "José Manuel González Herrero"
+  },
+  {
+   "tipo": "institution",
+   "ini": 701,
+   "fin": 742,
+   "rasgos": {
+    "type": "university",
+    "role": "layout"
+   },
+   "texto": "Servicio de Cultura\nUniversidad de Murcia"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 736,
+   "fin": 742,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Murcia"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 763,
+   "fin": 953,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 763,
+   "fin": 797,
+   "texto": "Exposición fotográfica\n\nContrastes"
+  },
+  {
+   "tipo": "date",
+   "ini": 847,
+   "fin": 867,
+   "texto": "7 al 29 de noviembre"
+  },
+  {
+   "tipo": "institution",
+   "ini": 869,
+   "fin": 953,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "Aula de Artes Plásticas y Visuales\nVicerrectorado de Calidad, Cultura y Comunicación"
+  },
+  {
+   "tipo": "title",
+   "ini": 955,
+   "fin": 967,
+   "texto": "“Contrastes”"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 955,
+   "fin": 967,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 1110,
+   "fin": 1139,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "Servicio de Cultura de la UMU"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 2391,
+   "fin": 4729
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2391,
+   "fin": 2464
+  },
+  {
+   "tipo": "work",
+   "ini": 2398,
+   "fin": 2464,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Javier\nAlacid Lobillo\nSin título\nColor / Papel fotográfico\n/ 30x20"
+  },
+  {
+   "tipo": "person",
+   "ini": 2398,
+   "fin": 2419,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Javier\nAlacid Lobillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2398,
+   "fin": 2419,
+   "texto": "Javier\nAlacid Lobillo"
+  },
+  {
+   "tipo": "title",
+   "ini": 2420,
+   "fin": 2430,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2431,
+   "fin": 2436,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "material",
+   "ini": 2439,
+   "fin": 2456,
+   "rasgos": {
+    "type": "photographicPaper"
+   },
+   "texto": "Papel fotográfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2459,
+   "fin": 2464,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30x20"
+  },
+  {
+   "tipo": "height",
+   "ini": 2459,
+   "fin": 2461,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 2462,
+   "fin": 2464,
+   "texto": "20"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2466,
+   "fin": 2541
+  },
+  {
+   "tipo": "work",
+   "ini": 2473,
+   "fin": 2541,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Melanie\nandrade cornejo\nSin título\nColor / Papel fotográfico /\n20x30"
+  },
+  {
+   "tipo": "person",
+   "ini": 2473,
+   "fin": 2496,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Melanie\nandrade cornejo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2473,
+   "fin": 2496,
+   "texto": "Melanie\nandrade cornejo"
+  },
+  {
+   "tipo": "title",
+   "ini": 2497,
+   "fin": 2507,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2508,
+   "fin": 2513,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "material",
+   "ini": 2516,
+   "fin": 2533,
+   "rasgos": {
+    "type": "photographicPaper"
+   },
+   "texto": "Papel fotográfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2536,
+   "fin": 2541,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20x30"
+  },
+  {
+   "tipo": "height",
+   "ini": 2536,
+   "fin": 2538,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 2539,
+   "fin": 2541,
+   "texto": "30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2543,
+   "fin": 2614
+  },
+  {
+   "tipo": "work",
+   "ini": 2550,
+   "fin": 2614,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Marta\nbanegas Gómez\nSin título\nColor / Papel fotográfico\n/ 20x30"
+  },
+  {
+   "tipo": "person",
+   "ini": 2550,
+   "fin": 2569,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Marta\nbanegas Gómez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2550,
+   "fin": 2569,
+   "texto": "Marta\nbanegas Gómez"
+  },
+  {
+   "tipo": "title",
+   "ini": 2570,
+   "fin": 2580,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2581,
+   "fin": 2586,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "material",
+   "ini": 2589,
+   "fin": 2606,
+   "rasgos": {
+    "type": "photographicPaper"
+   },
+   "texto": "Papel fotográfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2609,
+   "fin": 2614,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20x30"
+  },
+  {
+   "tipo": "height",
+   "ini": 2609,
+   "fin": 2611,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 2612,
+   "fin": 2614,
+   "texto": "30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2616,
+   "fin": 2687
+  },
+  {
+   "tipo": "work",
+   "ini": 2623,
+   "fin": 2687,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Cristina\nArán navarro\nReflejos\nColor / Papel fotográfico\n/ 30x20"
+  },
+  {
+   "tipo": "person",
+   "ini": 2623,
+   "fin": 2644,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Cristina\nArán navarro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2623,
+   "fin": 2644,
+   "texto": "Cristina\nArán navarro"
+  },
+  {
+   "tipo": "title",
+   "ini": 2645,
+   "fin": 2653,
+   "texto": "Reflejos"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2654,
+   "fin": 2659,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "material",
+   "ini": 2662,
+   "fin": 2679,
+   "rasgos": {
+    "type": "photographicPaper"
+   },
+   "texto": "Papel fotográfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2682,
+   "fin": 2687,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30x20"
+  },
+  {
+   "tipo": "height",
+   "ini": 2682,
+   "fin": 2684,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 2685,
+   "fin": 2687,
+   "texto": "20"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2689,
+   "fin": 2769
+  },
+  {
+   "tipo": "work",
+   "ini": 2696,
+   "fin": 2769,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Reinaldo\nbatista cordoVa\nBasura gourmet\nColor / Papel fotográfico /\n30x20"
+  },
+  {
+   "tipo": "person",
+   "ini": 2696,
+   "fin": 2720,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Reinaldo\nbatista cordoVa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2696,
+   "fin": 2720,
+   "texto": "Reinaldo\nbatista cordoVa"
+  },
+  {
+   "tipo": "title",
+   "ini": 2721,
+   "fin": 2735,
+   "texto": "Basura gourmet"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2736,
+   "fin": 2741,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "material",
+   "ini": 2744,
+   "fin": 2761,
+   "rasgos": {
+    "type": "photographicPaper"
+   },
+   "texto": "Papel fotográfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2764,
+   "fin": 2769,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30x20"
+  },
+  {
+   "tipo": "height",
+   "ini": 2764,
+   "fin": 2766,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 2767,
+   "fin": 2769,
+   "texto": "20"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2771,
+   "fin": 2845
+  },
+  {
+   "tipo": "work",
+   "ini": 2778,
+   "fin": 2845,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Leticia\nberna martínez\nSin título\nColor / Papel fotográfico /\n20x30"
+  },
+  {
+   "tipo": "person",
+   "ini": 2778,
+   "fin": 2800,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Leticia\nberna martínez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2778,
+   "fin": 2800,
+   "texto": "Leticia\nberna martínez"
+  },
+  {
+   "tipo": "title",
+   "ini": 2801,
+   "fin": 2811,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2812,
+   "fin": 2817,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "material",
+   "ini": 2820,
+   "fin": 2837,
+   "rasgos": {
+    "type": "photographicPaper"
+   },
+   "texto": "Papel fotográfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2840,
+   "fin": 2845,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20x30"
+  },
+  {
+   "tipo": "height",
+   "ini": 2840,
+   "fin": 2842,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 2843,
+   "fin": 2845,
+   "texto": "30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2847,
+   "fin": 2920
+  },
+  {
+   "tipo": "work",
+   "ini": 2854,
+   "fin": 2920,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "amelia\ncascales costa\nSin título\nColor / Papel fotográfico\n/ 30x20"
+  },
+  {
+   "tipo": "person",
+   "ini": 2854,
+   "fin": 2875,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "amelia\ncascales costa"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2854,
+   "fin": 2875,
+   "texto": "amelia\ncascales costa"
+  },
+  {
+   "tipo": "title",
+   "ini": 2876,
+   "fin": 2886,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2887,
+   "fin": 2892,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "material",
+   "ini": 2895,
+   "fin": 2912,
+   "rasgos": {
+    "type": "photographicPaper"
+   },
+   "texto": "Papel fotográfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2915,
+   "fin": 2920,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30x20"
+  },
+  {
+   "tipo": "height",
+   "ini": 2915,
+   "fin": 2917,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 2918,
+   "fin": 2920,
+   "texto": "20"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2922,
+   "fin": 2992
+  },
+  {
+   "tipo": "work",
+   "ini": 2929,
+   "fin": 2992,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Lucía\nGarcía vidal\nSin título\nColor / Papel fotográfico\n/ 30x20"
+  },
+  {
+   "tipo": "person",
+   "ini": 2929,
+   "fin": 2947,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lucía\nGarcía vidal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2929,
+   "fin": 2947,
+   "texto": "Lucía\nGarcía vidal"
+  },
+  {
+   "tipo": "title",
+   "ini": 2948,
+   "fin": 2958,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2959,
+   "fin": 2964,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "material",
+   "ini": 2967,
+   "fin": 2984,
+   "rasgos": {
+    "type": "photographicPaper"
+   },
+   "texto": "Papel fotográfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2987,
+   "fin": 2992,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30x20"
+  },
+  {
+   "tipo": "height",
+   "ini": 2987,
+   "fin": 2989,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 2990,
+   "fin": 2992,
+   "texto": "20"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2994,
+   "fin": 3069
+  },
+  {
+   "tipo": "work",
+   "ini": 3001,
+   "fin": 3069,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Yolanda\ngonzález alarza\nSin título\nColor / Papel fotográfico /\n30x20"
+  },
+  {
+   "tipo": "person",
+   "ini": 3001,
+   "fin": 3024,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Yolanda\ngonzález alarza"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3001,
+   "fin": 3024,
+   "texto": "Yolanda\ngonzález alarza"
+  },
+  {
+   "tipo": "title",
+   "ini": 3025,
+   "fin": 3035,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3036,
+   "fin": 3041,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "material",
+   "ini": 3044,
+   "fin": 3061,
+   "rasgos": {
+    "type": "photographicPaper"
+   },
+   "texto": "Papel fotográfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3064,
+   "fin": 3069,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30x20"
+  },
+  {
+   "tipo": "height",
+   "ini": 3064,
+   "fin": 3066,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 3067,
+   "fin": 3069,
+   "texto": "20"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3071,
+   "fin": 3158
+  },
+  {
+   "tipo": "work",
+   "ini": 3078,
+   "fin": 3158,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "mª ángeles\nguardiola garcía\nTenemos que hablar\nColor / Papel fotográfico / 20x30"
+  },
+  {
+   "tipo": "person",
+   "ini": 3078,
+   "fin": 3105,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "mª ángeles\nguardiola garcía"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3078,
+   "fin": 3105,
+   "texto": "mª ángeles\nguardiola garcía"
+  },
+  {
+   "tipo": "title",
+   "ini": 3106,
+   "fin": 3124,
+   "texto": "Tenemos que hablar"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3125,
+   "fin": 3130,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "material",
+   "ini": 3133,
+   "fin": 3150,
+   "rasgos": {
+    "type": "photographicPaper"
+   },
+   "texto": "Papel fotográfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3153,
+   "fin": 3158,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20x30"
+  },
+  {
+   "tipo": "height",
+   "ini": 3153,
+   "fin": 3155,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 3156,
+   "fin": 3158,
+   "texto": "30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3160,
+   "fin": 3239
+  },
+  {
+   "tipo": "work",
+   "ini": 3167,
+   "fin": 3239,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "tania maría\nlópez martínez\nAbstracción\nColor / Papel fotográfico /\n20x30"
+  },
+  {
+   "tipo": "person",
+   "ini": 3167,
+   "fin": 3193,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "tania maría\nlópez martínez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3167,
+   "fin": 3193,
+   "texto": "tania maría\nlópez martínez"
+  },
+  {
+   "tipo": "title",
+   "ini": 3194,
+   "fin": 3205,
+   "texto": "Abstracción"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3206,
+   "fin": 3211,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "material",
+   "ini": 3214,
+   "fin": 3231,
+   "rasgos": {
+    "type": "photographicPaper"
+   },
+   "texto": "Papel fotográfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3234,
+   "fin": 3239,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20x30"
+  },
+  {
+   "tipo": "height",
+   "ini": 3234,
+   "fin": 3236,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 3237,
+   "fin": 3239,
+   "texto": "30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3241,
+   "fin": 3315
+  },
+  {
+   "tipo": "work",
+   "ini": 3248,
+   "fin": 3315,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "josé\nrodolfo morales\nEse instante\nColor / Papel fotográfico /\n30x20"
+  },
+  {
+   "tipo": "person",
+   "ini": 3248,
+   "fin": 3268,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "josé\nrodolfo morales"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3248,
+   "fin": 3268,
+   "texto": "josé\nrodolfo morales"
+  },
+  {
+   "tipo": "title",
+   "ini": 3269,
+   "fin": 3281,
+   "texto": "Ese instante"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3282,
+   "fin": 3287,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "material",
+   "ini": 3290,
+   "fin": 3307,
+   "rasgos": {
+    "type": "photographicPaper"
+   },
+   "texto": "Papel fotográfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3310,
+   "fin": 3315,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30x20"
+  },
+  {
+   "tipo": "height",
+   "ini": 3310,
+   "fin": 3312,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 3313,
+   "fin": 3315,
+   "texto": "20"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3317,
+   "fin": 3391
+  },
+  {
+   "tipo": "work",
+   "ini": 3324,
+   "fin": 3391,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Manuel\nMuñoz Guillén\n(Sin) Salida\nColor / Papel fotográfico /\n20x30"
+  },
+  {
+   "tipo": "person",
+   "ini": 3324,
+   "fin": 3344,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel\nMuñoz Guillén"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3324,
+   "fin": 3344,
+   "texto": "Manuel\nMuñoz Guillén"
+  },
+  {
+   "tipo": "title",
+   "ini": 3345,
+   "fin": 3357,
+   "texto": "(Sin) Salida"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3358,
+   "fin": 3363,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "material",
+   "ini": 3366,
+   "fin": 3383,
+   "rasgos": {
+    "type": "photographicPaper"
+   },
+   "texto": "Papel fotográfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3386,
+   "fin": 3391,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20x30"
+  },
+  {
+   "tipo": "height",
+   "ini": 3386,
+   "fin": 3388,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 3389,
+   "fin": 3391,
+   "texto": "30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3393,
+   "fin": 3466
+  },
+  {
+   "tipo": "work",
+   "ini": 3400,
+   "fin": 3466,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Juan\nprovencio zamora\nSin título\nColor / Papel fotográfico / 20x30"
+  },
+  {
+   "tipo": "person",
+   "ini": 3400,
+   "fin": 3421,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan\nprovencio zamora"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3400,
+   "fin": 3421,
+   "texto": "Juan\nprovencio zamora"
+  },
+  {
+   "tipo": "title",
+   "ini": 3422,
+   "fin": 3432,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3433,
+   "fin": 3438,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "material",
+   "ini": 3441,
+   "fin": 3458,
+   "rasgos": {
+    "type": "photographicPaper"
+   },
+   "texto": "Papel fotográfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3461,
+   "fin": 3466,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20x30"
+  },
+  {
+   "tipo": "height",
+   "ini": 3461,
+   "fin": 3463,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 3464,
+   "fin": 3466,
+   "texto": "30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3468,
+   "fin": 3542
+  },
+  {
+   "tipo": "work",
+   "ini": 3475,
+   "fin": 3542,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Mateo\nrubio lópez\nCree sin querer\nColor / Papel fotográfico /\n20x30"
+  },
+  {
+   "tipo": "person",
+   "ini": 3475,
+   "fin": 3492,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mateo\nrubio lópez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3475,
+   "fin": 3492,
+   "texto": "Mateo\nrubio lópez"
+  },
+  {
+   "tipo": "title",
+   "ini": 3493,
+   "fin": 3508,
+   "texto": "Cree sin querer"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3509,
+   "fin": 3514,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "material",
+   "ini": 3517,
+   "fin": 3534,
+   "rasgos": {
+    "type": "photographicPaper"
+   },
+   "texto": "Papel fotográfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3537,
+   "fin": 3542,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20x30"
+  },
+  {
+   "tipo": "height",
+   "ini": 3537,
+   "fin": 3539,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 3540,
+   "fin": 3542,
+   "texto": "30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3544,
+   "fin": 3616
+  },
+  {
+   "tipo": "work",
+   "ini": 3551,
+   "fin": 3616,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "miguel\nramírez pinar\nSin título\nColor / Papel fotográfico /\n20x30"
+  },
+  {
+   "tipo": "person",
+   "ini": 3551,
+   "fin": 3571,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "miguel\nramírez pinar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3551,
+   "fin": 3571,
+   "texto": "miguel\nramírez pinar"
+  },
+  {
+   "tipo": "title",
+   "ini": 3572,
+   "fin": 3582,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3583,
+   "fin": 3588,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "material",
+   "ini": 3591,
+   "fin": 3608,
+   "rasgos": {
+    "type": "photographicPaper"
+   },
+   "texto": "Papel fotográfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3611,
+   "fin": 3616,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20x30"
+  },
+  {
+   "tipo": "height",
+   "ini": 3611,
+   "fin": 3613,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 3614,
+   "fin": 3616,
+   "texto": "30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3618,
+   "fin": 3695
+  },
+  {
+   "tipo": "work",
+   "ini": 3625,
+   "fin": 3695,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Remedios María\nSola Martínez\nPerdida\nColor / Papel fotográfico /\n30x20"
+  },
+  {
+   "tipo": "person",
+   "ini": 3625,
+   "fin": 3653,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Remedios María\nSola Martínez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3625,
+   "fin": 3653,
+   "texto": "Remedios María\nSola Martínez"
+  },
+  {
+   "tipo": "title",
+   "ini": 3654,
+   "fin": 3661,
+   "texto": "Perdida"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3662,
+   "fin": 3667,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "material",
+   "ini": 3670,
+   "fin": 3687,
+   "rasgos": {
+    "type": "photographicPaper"
+   },
+   "texto": "Papel fotográfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3690,
+   "fin": 3695,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30x20"
+  },
+  {
+   "tipo": "height",
+   "ini": 3690,
+   "fin": 3692,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 3693,
+   "fin": 3695,
+   "texto": "20"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3697,
+   "fin": 3788
+  },
+  {
+   "tipo": "work",
+   "ini": 3704,
+   "fin": 3788,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Paula María\nSivianes Fernández\nValentía y belleza\nColor / Papel fotográfico /\n30x20\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 3704,
+   "fin": 3734,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paula María\nSivianes Fernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3704,
+   "fin": 3734,
+   "texto": "Paula María\nSivianes Fernández"
+  },
+  {
+   "tipo": "title",
+   "ini": 3735,
+   "fin": 3753,
+   "texto": "Valentía y belleza"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3754,
+   "fin": 3759,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "material",
+   "ini": 3762,
+   "fin": 3779,
+   "rasgos": {
+    "type": "photographicPaper"
+   },
+   "texto": "Papel fotográfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3782,
+   "fin": 3788,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30x20\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 3782,
+   "fin": 3784,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 3785,
+   "fin": 3794,
+   "texto": "20\n\n[img]"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3789,
+   "fin": 3868
+  },
+  {
+   "tipo": "persName",
+   "ini": 3794,
+   "fin": 3824,
+   "texto": "\n\nMaravillas\nVicente Martínez\n"
+  },
+  {
+   "tipo": "work",
+   "ini": 3796,
+   "fin": 3868,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Maravillas\nVicente Martínez\nSin título\nColor / Papel fotográfico /\n20x30"
+  },
+  {
+   "tipo": "person",
+   "ini": 3796,
+   "fin": 3823,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Maravillas\nVicente Martínez"
+  },
+  {
+   "tipo": "title",
+   "ini": 3824,
+   "fin": 3834,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3835,
+   "fin": 3840,
+   "rasgos": {
+    "type": "colorPhotograph"
+   },
+   "texto": "Color"
+  },
+  {
+   "tipo": "material",
+   "ini": 3843,
+   "fin": 3860,
+   "rasgos": {
+    "type": "photographicPaper"
+   },
+   "texto": "Papel fotográfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3863,
+   "fin": 3868,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20x30"
+  },
+  {
+   "tipo": "height",
+   "ini": 3863,
+   "fin": 3865,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 3866,
+   "fin": 3868,
+   "texto": "30"
+  },
+  {
+   "tipo": "person",
+   "ini": 3870,
+   "fin": 3900,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Juan Carlos Martínez Rodríguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3870,
+   "fin": 3900,
+   "texto": "Juan Carlos Martínez Rodríguez"
+  },
+  {
+   "tipo": "text",
+   "ini": 3929,
+   "fin": 4728
+  },
+  {
+   "tipo": "persName",
+   "ini": 4878,
+   "fin": 4890,
+   "texto": "Gontzal Díez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4892,
+   "fin": 4905,
+   "texto": "Antonio Parra"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4908,
+   "fin": 4921,
+   "texto": "Rosa Belmonte"
+  }
+ ]
+}

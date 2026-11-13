@@ -1,0 +1,5762 @@
+{
+ "id": "cat_079_catalogoexpoqueridos",
+ "nombre_original": "CatálogoExpoQueridos",
+ "longitud_texto": 27234,
+ "sha256_texto": "ddf78fa887013f1d1c0ddeda5a5ba2f066f6487872d1d9d9f90a691f7bb09bc5",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 8,
+   "texto": "Queridos"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 8,
+   "rasgos": {
+    "ref": ""
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 10,
+   "fin": 40,
+   "texto": "Queridos\nCOLECCIÓN JESÚS REINA"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 10,
+   "fin": 40,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 29,
+   "fin": 40,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "JESÚS REINA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29,
+   "fin": 40,
+   "texto": "JESÚS REINA"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 42,
+   "fin": 195,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 42,
+   "fin": 47,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "CICUS"
+  },
+  {
+   "tipo": "title",
+   "ini": 49,
+   "fin": 80,
+   "texto": "Queridos\n\nCOLECCIÓN JESÚS REINA"
+  },
+  {
+   "tipo": "person",
+   "ini": 69,
+   "fin": 80,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "JESÚS REINA"
+  },
+  {
+   "tipo": "persName",
+   "ini": 69,
+   "fin": 80,
+   "texto": "JESÚS REINA"
+  },
+  {
+   "tipo": "date",
+   "ini": 82,
+   "fin": 123,
+   "rasgos": {
+    "from": "2020-11-26",
+    "to": "2021-01-12"
+   },
+   "texto": "26 de noviembre, 2020 / 12 de enero, 2021"
+  },
+  {
+   "tipo": "institution",
+   "ini": 124,
+   "fin": 129,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "CICUS"
+  },
+  {
+   "tipo": "venue",
+   "ini": 131,
+   "fin": 139,
+   "texto": "Sala EP1"
+  },
+  {
+   "tipo": "address",
+   "ini": 141,
+   "fin": 172,
+   "texto": "calle Madre de Dios, 1. Sevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 165,
+   "fin": 172,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "institution",
+   "ini": 173,
+   "fin": 195,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "UNIVERSIDAD DE SEVILLA"
+  },
+  {
+   "tipo": "person",
+   "ini": 204,
+   "fin": 230,
+   "rasgos": {
+    "role": "rector"
+   },
+   "texto": "Miguel Ángel Castro Arroyo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 204,
+   "fin": 230,
+   "texto": "Miguel Ángel Castro Arroyo"
+  },
+  {
+   "tipo": "person",
+   "ini": 273,
+   "fin": 294,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Luis Méndez Rodríguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 273,
+   "fin": 294,
+   "texto": "Luis Méndez Rodríguez"
+  },
+  {
+   "tipo": "person",
+   "ini": 336,
+   "fin": 360,
+   "texto": "Luis F. Martínez-Montiel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 336,
+   "fin": 360,
+   "texto": "Luis F. Martínez-Montiel"
+  },
+  {
+   "tipo": "institution",
+   "ini": 362,
+   "fin": 367,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "CICUS"
+  },
+  {
+   "tipo": "person",
+   "ini": 385,
+   "fin": 415,
+   "texto": "José Luis Hohenleiter Barranco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 385,
+   "fin": 415,
+   "texto": "José Luis Hohenleiter Barranco"
+  },
+  {
+   "tipo": "person",
+   "ini": 434,
+   "fin": 458,
+   "texto": "Javier Gutiérrez Padilla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 434,
+   "fin": 458,
+   "texto": "Javier Gutiérrez Padilla"
+  },
+  {
+   "tipo": "person",
+   "ini": 482,
+   "fin": 506,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Luis F. Martínez-Montiel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 482,
+   "fin": 506,
+   "texto": "Luis F. Martínez-Montiel"
+  },
+  {
+   "tipo": "person",
+   "ini": 516,
+   "fin": 526,
+   "texto": "Otto Pardo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 516,
+   "fin": 526,
+   "texto": "Otto Pardo"
+  },
+  {
+   "tipo": "person",
+   "ini": 528,
+   "fin": 542,
+   "texto": "Esteban Guzmán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 528,
+   "fin": 542,
+   "texto": "Esteban Guzmán"
+  },
+  {
+   "tipo": "person",
+   "ini": 545,
+   "fin": 559,
+   "texto": "Isidoro Guzmán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 545,
+   "fin": 559,
+   "texto": "Isidoro Guzmán"
+  },
+  {
+   "tipo": "person",
+   "ini": 631,
+   "fin": 644,
+   "texto": "Rafael Moyano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 631,
+   "fin": 644,
+   "texto": "Rafael Moyano"
+  },
+  {
+   "tipo": "person",
+   "ini": 681,
+   "fin": 705,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Luis F. Martínez-Montiel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 681,
+   "fin": 705,
+   "texto": "Luis F. Martínez-Montiel"
+  },
+  {
+   "tipo": "person",
+   "ini": 706,
+   "fin": 720,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Carlos Miranda"
+  },
+  {
+   "tipo": "persName",
+   "ini": 706,
+   "fin": 720,
+   "texto": "Carlos Miranda"
+  },
+  {
+   "tipo": "person",
+   "ini": 768,
+   "fin": 791,
+   "texto": "Domingo González Lavado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 768,
+   "fin": 791,
+   "texto": "Domingo González Lavado"
+  },
+  {
+   "tipo": "person",
+   "ini": 805,
+   "fin": 818,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Javier Artero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 805,
+   "fin": 818,
+   "texto": "Javier Artero"
+  },
+  {
+   "tipo": "person",
+   "ini": 821,
+   "fin": 834,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Claudia Ihrek"
+  },
+  {
+   "tipo": "persName",
+   "ini": 821,
+   "fin": 834,
+   "texto": "Claudia Ihrek"
+  },
+  {
+   "tipo": "institution",
+   "ini": 900,
+   "fin": 913,
+   "rasgos": {
+    "type": "printer"
+   },
+   "texto": "Imprenta Sand"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1002,
+   "fin": 1031,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "Universidad de Sevilla. CICUS"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1017,
+   "fin": 1024,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1104,
+   "fin": 1116,
+   "texto": "Manuel Muñoz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1118,
+   "fin": 1135,
+   "texto": "Carmen Malpartida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1138,
+   "fin": 1152,
+   "texto": "Carlos Miranda"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1157,
+   "fin": 1218,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "Centro de Iniciativas Culturales de la Universidad de Sevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1211,
+   "fin": 1218,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "person",
+   "ini": 1586,
+   "fin": 1600,
+   "texto": "Ernesto Ventós"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1586,
+   "fin": 1600,
+   "texto": "Ernesto Ventós"
+  },
+  {
+   "tipo": "title",
+   "ini": 1651,
+   "fin": 1659,
+   "texto": "Queridos"
+  },
+  {
+   "tipo": "person",
+   "ini": 1705,
+   "fin": 1716,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "Jesús Reina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1705,
+   "fin": 1716,
+   "texto": "Jesús Reina"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1753,
+   "fin": 1758,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "CICUS"
+  },
+  {
+   "tipo": "person",
+   "ini": 2472,
+   "fin": 2483,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "Jesús Reina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2472,
+   "fin": 2483,
+   "texto": "Jesús Reina"
+  },
+  {
+   "tipo": "title",
+   "ini": 2535,
+   "fin": 2543,
+   "texto": "Queridos"
+  },
+  {
+   "tipo": "person",
+   "ini": 3044,
+   "fin": 3065,
+   "rasgos": {
+    "role": "director"
+   },
+   "texto": "Luis Méndez Rodríguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3044,
+   "fin": 3065,
+   "texto": "Luis Méndez Rodríguez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3107,
+   "fin": 3129,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "Universidad de Sevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3122,
+   "fin": 3129,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3233,
+   "fin": 3257,
+   "texto": "Luis F. Martínez-Montiel"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3258,
+   "fin": 3280,
+   "rasgos": {
+    "type": "university"
+   },
+   "texto": "Universidad de Sevilla"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 3273,
+   "fin": 3280,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "person",
+   "ini": 3420,
+   "fin": 3431,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "Jesús Reina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3420,
+   "fin": 3431,
+   "texto": "Jesús Reina"
+  },
+  {
+   "tipo": "person",
+   "ini": 3937,
+   "fin": 3948,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "Jesús Reina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3937,
+   "fin": 3948,
+   "texto": "Jesús Reina"
+  },
+  {
+   "tipo": "person",
+   "ini": 4720,
+   "fin": 4731,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "Jesús Reina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4720,
+   "fin": 4731,
+   "texto": "Jesús Reina"
+  },
+  {
+   "tipo": "person",
+   "ini": 5051,
+   "fin": 5062,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "Jesús Reina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5051,
+   "fin": 5062,
+   "texto": "Jesús Reina"
+  },
+  {
+   "tipo": "title",
+   "ini": 5427,
+   "fin": 5435,
+   "texto": "Queridos"
+  },
+  {
+   "tipo": "person",
+   "ini": 5535,
+   "fin": 5546,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "Jesús Reina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5535,
+   "fin": 5546,
+   "texto": "Jesús Reina"
+  },
+  {
+   "tipo": "person",
+   "ini": 5556,
+   "fin": 5571,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Federico Guzmán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5556,
+   "fin": 5571,
+   "texto": "Federico Guzmán"
+  },
+  {
+   "tipo": "person",
+   "ini": 5573,
+   "fin": 5593,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rogelio López Cuenca"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5573,
+   "fin": 5593,
+   "texto": "Rogelio López Cuenca"
+  },
+  {
+   "tipo": "person",
+   "ini": 5595,
+   "fin": 5610,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rafael Agredano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5595,
+   "fin": 5610,
+   "texto": "Rafael Agredano"
+  },
+  {
+   "tipo": "person",
+   "ini": 5613,
+   "fin": 5627,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Curro González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5613,
+   "fin": 5627,
+   "texto": "Curro González"
+  },
+  {
+   "tipo": "person",
+   "ini": 5706,
+   "fin": 5715,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5706,
+   "fin": 5715,
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "person",
+   "ini": 5717,
+   "fin": 5731,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan del Junco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5717,
+   "fin": 5731,
+   "texto": "Juan del Junco"
+  },
+  {
+   "tipo": "person",
+   "ini": 5733,
+   "fin": 5748,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manolo Bautista"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5733,
+   "fin": 5748,
+   "texto": "Manolo Bautista"
+  },
+  {
+   "tipo": "person",
+   "ini": 5751,
+   "fin": 5767,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pilar Albarracín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5751,
+   "fin": 5767,
+   "texto": "Pilar Albarracín"
+  },
+  {
+   "tipo": "person",
+   "ini": 6227,
+   "fin": 6238,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "Jesús Reina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6227,
+   "fin": 6238,
+   "texto": "Jesús Reina"
+  },
+  {
+   "tipo": "person",
+   "ini": 6574,
+   "fin": 6585,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "Jesús Reina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6574,
+   "fin": 6585,
+   "texto": "Jesús Reina"
+  },
+  {
+   "tipo": "title",
+   "ini": 6596,
+   "fin": 6604,
+   "texto": "Queridos"
+  },
+  {
+   "tipo": "title",
+   "ini": 6737,
+   "fin": 6745,
+   "texto": "Queridos"
+  },
+  {
+   "tipo": "title",
+   "ini": 6907,
+   "fin": 6915,
+   "texto": "Queridos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7157,
+   "fin": 7171,
+   "texto": "Carlos Miranda"
+  },
+  {
+   "tipo": "person",
+   "ini": 7173,
+   "fin": 7184,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "Jesús Reina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7173,
+   "fin": 7184,
+   "texto": "Jesús Reina"
+  },
+  {
+   "tipo": "person",
+   "ini": 7739,
+   "fin": 7744,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "Jesús"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7739,
+   "fin": 7744,
+   "texto": "Jesús"
+  },
+  {
+   "tipo": "person",
+   "ini": 7781,
+   "fin": 7786,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "Jesús"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7781,
+   "fin": 7786,
+   "texto": "Jesús"
+  },
+  {
+   "tipo": "person",
+   "ini": 8893,
+   "fin": 8898,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "Jesús"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8893,
+   "fin": 8898,
+   "texto": "Jesús"
+  },
+  {
+   "tipo": "person",
+   "ini": 9852,
+   "fin": 9857,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "Jesús"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9852,
+   "fin": 9857,
+   "texto": "Jesús"
+  },
+  {
+   "tipo": "person",
+   "ini": 11408,
+   "fin": 11413,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "Jesús"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11408,
+   "fin": 11413,
+   "texto": "Jesús"
+  },
+  {
+   "tipo": "person",
+   "ini": 11513,
+   "fin": 11527,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan del Junco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11513,
+   "fin": 11527,
+   "texto": "Juan del Junco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12706,
+   "fin": 12720,
+   "texto": "Juan del Junco"
+  },
+  {
+   "tipo": "person",
+   "ini": 14614,
+   "fin": 14619,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "Jesús"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14614,
+   "fin": 14619,
+   "texto": "Jesús"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17058,
+   "fin": 17066,
+   "texto": "Foucault"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17145,
+   "fin": 17151,
+   "texto": "Borges"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17235,
+   "fin": 17243,
+   "texto": "Foucault"
+  },
+  {
+   "tipo": "person",
+   "ini": 17320,
+   "fin": 17325,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "Reina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17320,
+   "fin": 17325,
+   "texto": "Reina"
+  },
+  {
+   "tipo": "person",
+   "ini": 18241,
+   "fin": 18246,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "Jesús"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18241,
+   "fin": 18246,
+   "texto": "Jesús"
+  },
+  {
+   "tipo": "person",
+   "ini": 18383,
+   "fin": 18388,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "Jesús"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18383,
+   "fin": 18388,
+   "texto": "Jesús"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18801,
+   "fin": 18817,
+   "texto": "Foucault, Michel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18921,
+   "fin": 18937,
+   "texto": "Foucault, Michel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19067,
+   "fin": 19073,
+   "texto": "Austin"
+  },
+  {
+   "tipo": "person",
+   "ini": 19379,
+   "fin": 19384,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "Reina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19379,
+   "fin": 19384,
+   "texto": "Reina"
+  },
+  {
+   "tipo": "person",
+   "ini": 20231,
+   "fin": 20236,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "Jesús"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20231,
+   "fin": 20236,
+   "texto": "Jesús"
+  },
+  {
+   "tipo": "person",
+   "ini": 20498,
+   "fin": 20503,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "Jesús"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20498,
+   "fin": 20503,
+   "texto": "Jesús"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20911,
+   "fin": 20932,
+   "texto": "Austin, John Langshaw"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21030,
+   "fin": 21047,
+   "texto": "namuno, Miguel de"
+  },
+  {
+   "tipo": "person",
+   "ini": 21413,
+   "fin": 21418,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "Jesús"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21413,
+   "fin": 21418,
+   "texto": "Jesús"
+  },
+  {
+   "tipo": "title",
+   "ini": 21496,
+   "fin": 21506,
+   "texto": "«Queridos»"
+  },
+  {
+   "tipo": "person",
+   "ini": 21912,
+   "fin": 21917,
+   "rasgos": {
+    "role": "collector, lender"
+   },
+   "texto": "Jesús"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21912,
+   "fin": 21917,
+   "texto": "Jesús"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 21947,
+   "fin": 25580
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21947,
+   "fin": 22047
+  },
+  {
+   "tipo": "img",
+   "ini": 21947,
+   "fin": 21952,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 21954,
+   "fin": 22047,
+   "rasgos": {
+    "type": "print"
+   },
+   "texto": "Fabia Schnoor\nTraças, pontos e linhas. (Cao). 2017\nImpresión sobre papel. Ed. 4/25\n29 x 18 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 21954,
+   "fin": 21967,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fabia Schnoor"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21954,
+   "fin": 21967,
+   "texto": "Fabia Schnoor"
+  },
+  {
+   "tipo": "title",
+   "ini": 21968,
+   "fin": 21998,
+   "texto": "Traças, pontos e linhas. (Cao)"
+  },
+  {
+   "tipo": "date",
+   "ini": 22000,
+   "fin": 22004,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22005,
+   "fin": 22026,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Impresión sobre papel"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 22028,
+   "fin": 22036
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22037,
+   "fin": 22047,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29 x 18 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22037,
+   "fin": 22039,
+   "texto": "29"
+  },
+  {
+   "tipo": "width",
+   "ini": 22042,
+   "fin": 22044,
+   "texto": "18"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22049,
+   "fin": 22144
+  },
+  {
+   "tipo": "img",
+   "ini": 22049,
+   "fin": 22054,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 22056,
+   "fin": 22144,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Hisae Ikenaga\nSerie de muebles apilados. 2008\nDibujo. Tinta china sobre papel\n50 x 70 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 22056,
+   "fin": 22069,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Hisae Ikenaga"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22056,
+   "fin": 22069,
+   "texto": "Hisae Ikenaga"
+  },
+  {
+   "tipo": "title",
+   "ini": 22070,
+   "fin": 22095,
+   "texto": "Serie de muebles apilados"
+  },
+  {
+   "tipo": "date",
+   "ini": 22097,
+   "fin": 22101,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22102,
+   "fin": 22133,
+   "rasgos": {
+    "type": "drawing, ink"
+   },
+   "texto": "Dibujo. Tinta china sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22134,
+   "fin": 22144,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22134,
+   "fin": 22136,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 22139,
+   "fin": 22141,
+   "texto": "70"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22146,
+   "fin": 22211
+  },
+  {
+   "tipo": "img",
+   "ini": 22146,
+   "fin": 22151,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 22153,
+   "fin": 22211,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Mattia Barbieri\nBad boy. 2008\nTinta sobre papel\n17 x 25 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 22153,
+   "fin": 22168,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mattia Barbieri"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22153,
+   "fin": 22168,
+   "texto": "Mattia Barbieri"
+  },
+  {
+   "tipo": "title",
+   "ini": 22169,
+   "fin": 22176,
+   "texto": "Bad boy"
+  },
+  {
+   "tipo": "date",
+   "ini": 22178,
+   "fin": 22182,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22183,
+   "fin": 22200,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22201,
+   "fin": 22211,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "17 x 25 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22201,
+   "fin": 22203,
+   "texto": "17"
+  },
+  {
+   "tipo": "width",
+   "ini": 22206,
+   "fin": 22208,
+   "texto": "25"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22213,
+   "fin": 22282
+  },
+  {
+   "tipo": "img",
+   "ini": 22213,
+   "fin": 22218,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 22220,
+   "fin": 22282,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Aldo Iacobelli\nEl esfuerzo. 2008\nLápiz sobre cartón\n10 x 25 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 22220,
+   "fin": 22234,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Aldo Iacobelli"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22220,
+   "fin": 22234,
+   "texto": "Aldo Iacobelli"
+  },
+  {
+   "tipo": "title",
+   "ini": 22235,
+   "fin": 22246,
+   "texto": "El esfuerzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 22248,
+   "fin": 22252,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22253,
+   "fin": 22271,
+   "rasgos": {
+    "type": "pencil"
+   },
+   "texto": "Lápiz sobre cartón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22272,
+   "fin": 22282,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "10 x 25 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22272,
+   "fin": 22274,
+   "texto": "10"
+  },
+  {
+   "tipo": "width",
+   "ini": 22277,
+   "fin": 22279,
+   "texto": "25"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22284,
+   "fin": 22341
+  },
+  {
+   "tipo": "img",
+   "ini": 22284,
+   "fin": 22289,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 22291,
+   "fin": 22341,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Hans Lemmen\nS/T. 2012\nTinta sobre papel\n31 x 23 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 22291,
+   "fin": 22302,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Hans Lemmen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22291,
+   "fin": 22302,
+   "texto": "Hans Lemmen"
+  },
+  {
+   "tipo": "title",
+   "ini": 22303,
+   "fin": 22306,
+   "texto": "S/T"
+  },
+  {
+   "tipo": "date",
+   "ini": 22308,
+   "fin": 22312,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22313,
+   "fin": 22330,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22331,
+   "fin": 22341,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "31 x 23 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22331,
+   "fin": 22333,
+   "texto": "31"
+  },
+  {
+   "tipo": "width",
+   "ini": 22336,
+   "fin": 22338,
+   "texto": "23"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22343,
+   "fin": 22411
+  },
+  {
+   "tipo": "img",
+   "ini": 22343,
+   "fin": 22348,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 22350,
+   "fin": 22411,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Sinéad Spelman\nSurfers. 2010\nBolígrafo sobre papel\n23 x 32 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 22350,
+   "fin": 22364,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sinéad Spelman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22350,
+   "fin": 22364,
+   "texto": "Sinéad Spelman"
+  },
+  {
+   "tipo": "title",
+   "ini": 22365,
+   "fin": 22372,
+   "texto": "Surfers"
+  },
+  {
+   "tipo": "date",
+   "ini": 22374,
+   "fin": 22378,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22379,
+   "fin": 22400,
+   "rasgos": {
+    "type": "pen"
+   },
+   "texto": "Bolígrafo sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22401,
+   "fin": 22411,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "23 x 32 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22401,
+   "fin": 22403,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 22406,
+   "fin": 22408,
+   "texto": "32"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22413,
+   "fin": 22479
+  },
+  {
+   "tipo": "img",
+   "ini": 22413,
+   "fin": 22418,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 22420,
+   "fin": 22479,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Bernardo Ortiz\nS/T. 2015\nGrafito sobre papel\n26,5 x 20,5 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 22420,
+   "fin": 22434,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bernardo Ortiz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22420,
+   "fin": 22434,
+   "texto": "Bernardo Ortiz"
+  },
+  {
+   "tipo": "title",
+   "ini": 22435,
+   "fin": 22438,
+   "texto": "S/T"
+  },
+  {
+   "tipo": "date",
+   "ini": 22440,
+   "fin": 22444,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22445,
+   "fin": 22464,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Grafito sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22465,
+   "fin": 22479,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "26,5 x 20,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22465,
+   "fin": 22469,
+   "texto": "26,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 22472,
+   "fin": 22476,
+   "texto": "20,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22481,
+   "fin": 22538
+  },
+  {
+   "tipo": "img",
+   "ini": 22481,
+   "fin": 22486,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 22488,
+   "fin": 22538,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Dora García\nS/T. 1995\nLápiz sobre papel\n14 x 10 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 22488,
+   "fin": 22499,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Dora García"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22488,
+   "fin": 22499,
+   "texto": "Dora García"
+  },
+  {
+   "tipo": "title",
+   "ini": 22500,
+   "fin": 22503,
+   "texto": "S/T"
+  },
+  {
+   "tipo": "date",
+   "ini": 22505,
+   "fin": 22509,
+   "rasgos": {
+    "when": "1995"
+   },
+   "texto": "1995"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22510,
+   "fin": 22527,
+   "rasgos": {
+    "type": "pencil"
+   },
+   "texto": "Lápiz sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22528,
+   "fin": 22538,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "14 x 10 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22528,
+   "fin": 22530,
+   "texto": "14"
+  },
+  {
+   "tipo": "width",
+   "ini": 22533,
+   "fin": 22535,
+   "texto": "10"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22540,
+   "fin": 22619
+  },
+  {
+   "tipo": "img",
+   "ini": 22540,
+   "fin": 22545,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 22547,
+   "fin": 22619,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Florencia de Titta\nRincón de un Espartero. 2019\nTécnica mixta\n50 x 70 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 22547,
+   "fin": 22565,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Florencia de Titta"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22547,
+   "fin": 22565,
+   "texto": "Florencia de Titta"
+  },
+  {
+   "tipo": "title",
+   "ini": 22566,
+   "fin": 22588,
+   "texto": "Rincón de un Espartero"
+  },
+  {
+   "tipo": "date",
+   "ini": 22590,
+   "fin": 22594,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22595,
+   "fin": 22608,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22609,
+   "fin": 22619,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22609,
+   "fin": 22611,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 22614,
+   "fin": 22616,
+   "texto": "70"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22621,
+   "fin": 22697
+  },
+  {
+   "tipo": "img",
+   "ini": 22621,
+   "fin": 22626,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 22628,
+   "fin": 22697,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Jiri G. Dokoupil\nComedor de espaguetis. 1997\nTécnica mixta\n70 x 55 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 22628,
+   "fin": 22644,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jiri G. Dokoupil"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22628,
+   "fin": 22644,
+   "texto": "Jiri G. Dokoupil"
+  },
+  {
+   "tipo": "title",
+   "ini": 22645,
+   "fin": 22666,
+   "texto": "Comedor de espaguetis"
+  },
+  {
+   "tipo": "date",
+   "ini": 22668,
+   "fin": 22672,
+   "rasgos": {
+    "when": "1997"
+   },
+   "texto": "1997"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22673,
+   "fin": 22686,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22687,
+   "fin": 22697,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 55 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22687,
+   "fin": 22689,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 22692,
+   "fin": 22694,
+   "texto": "55"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22699,
+   "fin": 22779
+  },
+  {
+   "tipo": "img",
+   "ini": 22699,
+   "fin": 22704,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 22706,
+   "fin": 22779,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Katia Angeli\nLovers 14. 2015\nTécnica mixta sobre papel japonés\n60 x 42 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 22706,
+   "fin": 22718,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Katia Angeli"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22706,
+   "fin": 22718,
+   "texto": "Katia Angeli"
+  },
+  {
+   "tipo": "title",
+   "ini": 22719,
+   "fin": 22728,
+   "texto": "Lovers 14"
+  },
+  {
+   "tipo": "date",
+   "ini": 22730,
+   "fin": 22734,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22735,
+   "fin": 22768,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre papel japonés"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22769,
+   "fin": 22787,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 42 cm\n\n[img]\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 22769,
+   "fin": 22771,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 22774,
+   "fin": 22776,
+   "texto": "42"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22781,
+   "fin": 22870
+  },
+  {
+   "tipo": "img",
+   "ini": 22781,
+   "fin": 22786,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 22788,
+   "fin": 22878,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Los Picolettos\nGenios en la pista (Big boys). 2019\nAcuarela sobre papel\n21 x 30 cm\n\n[img]\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 22788,
+   "fin": 22802,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Los Picolettos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22788,
+   "fin": 22802,
+   "texto": "Los Picolettos"
+  },
+  {
+   "tipo": "title",
+   "ini": 22803,
+   "fin": 22832,
+   "texto": "Genios en la pista (Big boys)"
+  },
+  {
+   "tipo": "date",
+   "ini": 22834,
+   "fin": 22838,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22839,
+   "fin": 22859,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22860,
+   "fin": 22870,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "21 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22860,
+   "fin": 22862,
+   "texto": "21"
+  },
+  {
+   "tipo": "width",
+   "ini": 22865,
+   "fin": 22867,
+   "texto": "30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22872,
+   "fin": 22971
+  },
+  {
+   "tipo": "img",
+   "ini": 22872,
+   "fin": 22877,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 22879,
+   "fin": 22971,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Miguel Ángel Moreno Carretero\nCastillo de Alcalá de Guadaíra. 2017\nTécnica mixta\n30 x 30 cm."
+  },
+  {
+   "tipo": "person",
+   "ini": 22879,
+   "fin": 22908,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Ángel Moreno Carretero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22879,
+   "fin": 22908,
+   "texto": "Miguel Ángel Moreno Carretero"
+  },
+  {
+   "tipo": "title",
+   "ini": 22909,
+   "fin": 22939,
+   "texto": "Castillo de Alcalá de Guadaíra"
+  },
+  {
+   "tipo": "date",
+   "ini": 22941,
+   "fin": 22945,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22946,
+   "fin": 22959,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22960,
+   "fin": 22971,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 30 cm."
+  },
+  {
+   "tipo": "height",
+   "ini": 22960,
+   "fin": 22962,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 22965,
+   "fin": 22967,
+   "texto": "30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22973,
+   "fin": 23054
+  },
+  {
+   "tipo": "img",
+   "ini": 22973,
+   "fin": 22978,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 22980,
+   "fin": 23054,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Rogelio López Cuenca\nVogue URSS. 1989\nTécnica mixta sobre papel\n41 x 29 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 22980,
+   "fin": 23000,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rogelio López Cuenca"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22980,
+   "fin": 23000,
+   "texto": "Rogelio López Cuenca"
+  },
+  {
+   "tipo": "title",
+   "ini": 23001,
+   "fin": 23011,
+   "texto": "Vogue URSS"
+  },
+  {
+   "tipo": "date",
+   "ini": 23013,
+   "fin": 23017,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23018,
+   "fin": 23043,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23044,
+   "fin": 23054,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 29 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23044,
+   "fin": 23046,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 23049,
+   "fin": 23051,
+   "texto": "29"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23056,
+   "fin": 23131
+  },
+  {
+   "tipo": "img",
+   "ini": 23056,
+   "fin": 23061,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 23063,
+   "fin": 23131,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Rogelio López Cuenca\nZaum Lui. 1989\nÓleo sobre fotografía\n72 x 40 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 23063,
+   "fin": 23083,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rogelio López Cuenca"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23063,
+   "fin": 23083,
+   "texto": "Rogelio López Cuenca"
+  },
+  {
+   "tipo": "title",
+   "ini": 23084,
+   "fin": 23092,
+   "texto": "Zaum Lui"
+  },
+  {
+   "tipo": "date",
+   "ini": 23094,
+   "fin": 23098,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23099,
+   "fin": 23120,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre fotografía"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23121,
+   "fin": 23131,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "72 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23121,
+   "fin": 23123,
+   "texto": "72"
+  },
+  {
+   "tipo": "width",
+   "ini": 23126,
+   "fin": 23128,
+   "texto": "40"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23133,
+   "fin": 23210
+  },
+  {
+   "tipo": "img",
+   "ini": 23133,
+   "fin": 23138,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 23140,
+   "fin": 23210,
+   "rasgos": {
+    "photograph": ""
+   },
+   "texto": "Beth Moyses\nReconstruyendo sueño. 2005\nFotografía. Ed. 1/10\n42 x 58 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 23140,
+   "fin": 23151,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Beth Moyses"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23140,
+   "fin": 23151,
+   "texto": "Beth Moyses"
+  },
+  {
+   "tipo": "title",
+   "ini": 23152,
+   "fin": 23172,
+   "texto": "Reconstruyendo sueño"
+  },
+  {
+   "tipo": "date",
+   "ini": 23174,
+   "fin": 23178,
+   "rasgos": {
+    "when": "2005"
+   },
+   "texto": "2005"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23179,
+   "fin": 23189,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 23191,
+   "fin": 23199
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23200,
+   "fin": 23210,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "42 x 58 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23200,
+   "fin": 23202,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 23205,
+   "fin": 23207,
+   "texto": "58"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23212,
+   "fin": 23279
+  },
+  {
+   "tipo": "img",
+   "ini": 23212,
+   "fin": 23217,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 23219,
+   "fin": 23279,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Martin Parr\nSouvenir. 2012\nFotografía. Ed. 36/100\n21 x 30 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 23219,
+   "fin": 23230,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martin Parr"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23219,
+   "fin": 23230,
+   "texto": "Martin Parr"
+  },
+  {
+   "tipo": "title",
+   "ini": 23231,
+   "fin": 23239,
+   "texto": "Souvenir"
+  },
+  {
+   "tipo": "date",
+   "ini": 23241,
+   "fin": 23245,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23246,
+   "fin": 23256,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 23258,
+   "fin": 23268
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23269,
+   "fin": 23279,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "21 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23269,
+   "fin": 23271,
+   "texto": "21"
+  },
+  {
+   "tipo": "width",
+   "ini": 23274,
+   "fin": 23276,
+   "texto": "30"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23281,
+   "fin": 23349
+  },
+  {
+   "tipo": "img",
+   "ini": 23281,
+   "fin": 23286,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 23288,
+   "fin": 23349,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Rita McBride\nBus Load. 2008\nFotograbado. Ed. 16/55\n34 x 40 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 23288,
+   "fin": 23300,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rita McBride"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23288,
+   "fin": 23300,
+   "texto": "Rita McBride"
+  },
+  {
+   "tipo": "title",
+   "ini": 23301,
+   "fin": 23309,
+   "texto": "Bus Load"
+  },
+  {
+   "tipo": "date",
+   "ini": 23311,
+   "fin": 23315,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23316,
+   "fin": 23327,
+   "rasgos": {
+    "type": "photoengraving"
+   },
+   "texto": "Fotograbado"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 23329,
+   "fin": 23338
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23339,
+   "fin": 23349,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "34 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23339,
+   "fin": 23341,
+   "texto": "34"
+  },
+  {
+   "tipo": "width",
+   "ini": 23344,
+   "fin": 23346,
+   "texto": "40"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23351,
+   "fin": 23437
+  },
+  {
+   "tipo": "img",
+   "ini": 23351,
+   "fin": 23356,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 23358,
+   "fin": 23437,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Glen Rubsamen\nA reasuring lie unfolds I. 2006\nFotograbado. Ed. 12/50\n40 x 34 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 23358,
+   "fin": 23371,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Glen Rubsamen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23358,
+   "fin": 23371,
+   "texto": "Glen Rubsamen"
+  },
+  {
+   "tipo": "title",
+   "ini": 23372,
+   "fin": 23397,
+   "texto": "A reasuring lie unfolds I"
+  },
+  {
+   "tipo": "date",
+   "ini": 23399,
+   "fin": 23403,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23404,
+   "fin": 23415,
+   "rasgos": {
+    "type": "photoengraving"
+   },
+   "texto": "Fotograbado"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 23417,
+   "fin": 23426
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23427,
+   "fin": 23437,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 34 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23427,
+   "fin": 23429,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 23432,
+   "fin": 23434,
+   "texto": "34"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23439,
+   "fin": 23510
+  },
+  {
+   "tipo": "img",
+   "ini": 23439,
+   "fin": 23444,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 23446,
+   "fin": 23510,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Johannes Zimmermann\nCascade I, Suiza. 2001\nFotografía\n50 x 70 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 23446,
+   "fin": 23465,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Johannes Zimmermann"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23446,
+   "fin": 23465,
+   "texto": "Johannes Zimmermann"
+  },
+  {
+   "tipo": "title",
+   "ini": 23466,
+   "fin": 23482,
+   "texto": "Cascade I, Suiza"
+  },
+  {
+   "tipo": "date",
+   "ini": 23484,
+   "fin": 23488,
+   "rasgos": {
+    "when": "2001"
+   },
+   "texto": "2001"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23489,
+   "fin": 23499,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23500,
+   "fin": 23510,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23500,
+   "fin": 23502,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 23505,
+   "fin": 23507,
+   "texto": "70"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23512,
+   "fin": 23584
+  },
+  {
+   "tipo": "img",
+   "ini": 23512,
+   "fin": 23517,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 23519,
+   "fin": 23584,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Johannes Zimmermann\nCascade II, Suiza. 2001\nFotografía\n50 x 70 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 23519,
+   "fin": 23538,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Johannes Zimmermann"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23519,
+   "fin": 23538,
+   "texto": "Johannes Zimmermann"
+  },
+  {
+   "tipo": "title",
+   "ini": 23539,
+   "fin": 23556,
+   "texto": "Cascade II, Suiza"
+  },
+  {
+   "tipo": "date",
+   "ini": 23558,
+   "fin": 23562,
+   "rasgos": {
+    "when": "2001"
+   },
+   "texto": "2001"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23563,
+   "fin": 23573,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23574,
+   "fin": 23584,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23574,
+   "fin": 23576,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 23579,
+   "fin": 23581,
+   "texto": "70"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23586,
+   "fin": 23654
+  },
+  {
+   "tipo": "img",
+   "ini": 23586,
+   "fin": 23591,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 23593,
+   "fin": 23654,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Johannes Zimmermann\nKrKa, Croacia. 2007\nFotografía\n50 x 60 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 23593,
+   "fin": 23612,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Johannes Zimmermann"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23593,
+   "fin": 23612,
+   "texto": "Johannes Zimmermann"
+  },
+  {
+   "tipo": "title",
+   "ini": 23613,
+   "fin": 23626,
+   "texto": "KrKa, Croacia"
+  },
+  {
+   "tipo": "date",
+   "ini": 23628,
+   "fin": 23632,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23633,
+   "fin": 23643,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23644,
+   "fin": 23654,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23644,
+   "fin": 23646,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 23649,
+   "fin": 23651,
+   "texto": "60"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23656,
+   "fin": 23726
+  },
+  {
+   "tipo": "img",
+   "ini": 23656,
+   "fin": 23661,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 23663,
+   "fin": 23726,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Juan del Junco\nHaciéndome el sueco. 2006\nFotografía\n80 x 100 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 23663,
+   "fin": 23677,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan del Junco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23663,
+   "fin": 23677,
+   "texto": "Juan del Junco"
+  },
+  {
+   "tipo": "title",
+   "ini": 23678,
+   "fin": 23697,
+   "texto": "Haciéndome el sueco"
+  },
+  {
+   "tipo": "date",
+   "ini": 23699,
+   "fin": 23703,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23704,
+   "fin": 23714,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23715,
+   "fin": 23726,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23715,
+   "fin": 23717,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 23720,
+   "fin": 23723,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23728,
+   "fin": 23792
+  },
+  {
+   "tipo": "img",
+   "ini": 23728,
+   "fin": 23733,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 23735,
+   "fin": 23792,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "José Guerrero\nDesértica. 2008\nInkjet Photo Rag\n52 x 68 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 23735,
+   "fin": 23748,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Guerrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23735,
+   "fin": 23748,
+   "texto": "José Guerrero"
+  },
+  {
+   "tipo": "title",
+   "ini": 23749,
+   "fin": 23758,
+   "texto": "Desértica"
+  },
+  {
+   "tipo": "date",
+   "ini": 23760,
+   "fin": 23764,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23765,
+   "fin": 23781,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Inkjet Photo Rag"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23782,
+   "fin": 23792,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "52 x 68 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23782,
+   "fin": 23784,
+   "texto": "52"
+  },
+  {
+   "tipo": "width",
+   "ini": 23787,
+   "fin": 23789,
+   "texto": "68"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23794,
+   "fin": 23855
+  },
+  {
+   "tipo": "img",
+   "ini": 23794,
+   "fin": 23799,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 23801,
+   "fin": 23855,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Pilar Albarracín\nRelicario. 1994\nFotografía\n90 x 60 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 23801,
+   "fin": 23817,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pilar Albarracín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23801,
+   "fin": 23817,
+   "texto": "Pilar Albarracín"
+  },
+  {
+   "tipo": "title",
+   "ini": 23818,
+   "fin": 23827,
+   "texto": "Relicario"
+  },
+  {
+   "tipo": "date",
+   "ini": 23829,
+   "fin": 23833,
+   "rasgos": {
+    "when": "1994"
+   },
+   "texto": "1994"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23834,
+   "fin": 23844,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23845,
+   "fin": 23855,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "90 x 60 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23845,
+   "fin": 23847,
+   "texto": "90"
+  },
+  {
+   "tipo": "width",
+   "ini": 23850,
+   "fin": 23852,
+   "texto": "60"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23857,
+   "fin": 23918
+  },
+  {
+   "tipo": "img",
+   "ini": 23857,
+   "fin": 23862,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 23864,
+   "fin": 23918,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Zush\nMesamag Ort. 1998\nFotografía, Ed. 4/10\n32 x 46 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 23864,
+   "fin": 23868,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Zush"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23864,
+   "fin": 23868,
+   "texto": "Zush"
+  },
+  {
+   "tipo": "title",
+   "ini": 23869,
+   "fin": 23880,
+   "texto": "Mesamag Ort"
+  },
+  {
+   "tipo": "date",
+   "ini": 23882,
+   "fin": 23886,
+   "rasgos": {
+    "when": "1998"
+   },
+   "texto": "1998"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23887,
+   "fin": 23897,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 23899,
+   "fin": 23907
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23908,
+   "fin": 23918,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32 x 46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23908,
+   "fin": 23910,
+   "texto": "32"
+  },
+  {
+   "tipo": "width",
+   "ini": 23913,
+   "fin": 23915,
+   "texto": "46"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23920,
+   "fin": 23991
+  },
+  {
+   "tipo": "img",
+   "ini": 23920,
+   "fin": 23925,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 23927,
+   "fin": 23991,
+   "rasgos": {
+    "type": "print"
+   },
+   "texto": "Manolo Bautista\nEl estudio del artista. 2008\nC-print\n70 x 100 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 23927,
+   "fin": 23942,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manolo Bautista"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23927,
+   "fin": 23942,
+   "texto": "Manolo Bautista"
+  },
+  {
+   "tipo": "title",
+   "ini": 23943,
+   "fin": 23965,
+   "texto": "El estudio del artista"
+  },
+  {
+   "tipo": "date",
+   "ini": 23967,
+   "fin": 23971,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23972,
+   "fin": 23979,
+   "rasgos": {
+    "type": "c-print"
+   },
+   "texto": "C-print"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23980,
+   "fin": 23991,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23980,
+   "fin": 23982,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 23985,
+   "fin": 23988,
+   "texto": "100"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23993,
+   "fin": 24069
+  },
+  {
+   "tipo": "img",
+   "ini": 23993,
+   "fin": 23998,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24000,
+   "fin": 24069,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Marlon de Azambuja\nOperaciones. 2010\nPegatinas sobre papel\n21 x 16 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 24000,
+   "fin": 24018,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Marlon de Azambuja"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24000,
+   "fin": 24018,
+   "texto": "Marlon de Azambuja"
+  },
+  {
+   "tipo": "title",
+   "ini": 24019,
+   "fin": 24030,
+   "texto": "Operaciones"
+  },
+  {
+   "tipo": "date",
+   "ini": 24032,
+   "fin": 24036,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24037,
+   "fin": 24058,
+   "rasgos": {
+    "type": "sticker"
+   },
+   "texto": "Pegatinas sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24059,
+   "fin": 24069,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "21 x 16 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24059,
+   "fin": 24061,
+   "texto": "21"
+  },
+  {
+   "tipo": "width",
+   "ini": 24064,
+   "fin": 24066,
+   "texto": "16"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24071,
+   "fin": 24145
+  },
+  {
+   "tipo": "img",
+   "ini": 24071,
+   "fin": 24076,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24078,
+   "fin": 24145,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Joseph Beuys\nFür Blinky Palermo. Circa 1964\nFotografía\n14,7 x 20 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 24078,
+   "fin": 24090,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joseph Beuys"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24078,
+   "fin": 24090,
+   "texto": "Joseph Beuys"
+  },
+  {
+   "tipo": "title",
+   "ini": 24091,
+   "fin": 24109,
+   "texto": "Für Blinky Palermo"
+  },
+  {
+   "tipo": "date",
+   "ini": 24111,
+   "fin": 24121,
+   "rasgos": {
+    "notBefore": "1963",
+    "notAfter": "1965"
+   },
+   "texto": "Circa 1964"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24122,
+   "fin": 24132,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24133,
+   "fin": 24145,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "14,7 x 20 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24133,
+   "fin": 24137,
+   "texto": "14,7"
+  },
+  {
+   "tipo": "width",
+   "ini": 24140,
+   "fin": 24142,
+   "texto": "20"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24147,
+   "fin": 24212
+  },
+  {
+   "tipo": "img",
+   "ini": 24147,
+   "fin": 24152,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24154,
+   "fin": 24212,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Manuel Ocampo\nPato loco. 2002\nÓleo sobre lienzo\n27 x 22 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 24154,
+   "fin": 24167,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel Ocampo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24154,
+   "fin": 24167,
+   "texto": "Manuel Ocampo"
+  },
+  {
+   "tipo": "title",
+   "ini": 24168,
+   "fin": 24177,
+   "texto": "Pato loco"
+  },
+  {
+   "tipo": "date",
+   "ini": 24179,
+   "fin": 24183,
+   "rasgos": {
+    "when": "2002"
+   },
+   "texto": "2002"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24184,
+   "fin": 24201,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24202,
+   "fin": 24212,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27 x 22 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24202,
+   "fin": 24204,
+   "texto": "27"
+  },
+  {
+   "tipo": "width",
+   "ini": 24207,
+   "fin": 24209,
+   "texto": "22"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24214,
+   "fin": 24295
+  },
+  {
+   "tipo": "img",
+   "ini": 24214,
+   "fin": 24219,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24221,
+   "fin": 24295,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Diango Hernández\nPalmas Misiles. 2006\nTinta y acrílico en papel\n33 x 27 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 24221,
+   "fin": 24237,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Diango Hernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24221,
+   "fin": 24237,
+   "texto": "Diango Hernández"
+  },
+  {
+   "tipo": "title",
+   "ini": 24238,
+   "fin": 24252,
+   "texto": "Palmas Misiles"
+  },
+  {
+   "tipo": "date",
+   "ini": 24254,
+   "fin": 24258,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24259,
+   "fin": 24284,
+   "rasgos": {
+    "type": "ink, acrylic"
+   },
+   "texto": "Tinta y acrílico en papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24285,
+   "fin": 24295,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "33 x 27 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24285,
+   "fin": 24287,
+   "texto": "33"
+  },
+  {
+   "tipo": "width",
+   "ini": 24290,
+   "fin": 24292,
+   "texto": "27"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24297,
+   "fin": 24379
+  },
+  {
+   "tipo": "img",
+   "ini": 24297,
+   "fin": 24302,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24304,
+   "fin": 24379,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Curro González\nFalsas Epifanías: Cruzando. 2008\nMixta sobre tela\n65 x 81 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 24304,
+   "fin": 24318,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Curro González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24304,
+   "fin": 24318,
+   "texto": "Curro González"
+  },
+  {
+   "tipo": "title",
+   "ini": 24319,
+   "fin": 24345,
+   "texto": "Falsas Epifanías: Cruzando"
+  },
+  {
+   "tipo": "date",
+   "ini": 24347,
+   "fin": 24351,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24352,
+   "fin": 24368,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Mixta sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24369,
+   "fin": 24379,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65 x 81 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24369,
+   "fin": 24371,
+   "texto": "65"
+  },
+  {
+   "tipo": "width",
+   "ini": 24374,
+   "fin": 24376,
+   "texto": "81"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24381,
+   "fin": 24452
+  },
+  {
+   "tipo": "img",
+   "ini": 24381,
+   "fin": 24386,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24388,
+   "fin": 24452,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Kimika\nNoche Saharahui. 2015\nTécnica mixta sobre tela\n23 x 33 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 24388,
+   "fin": 24394,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Kimika"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24388,
+   "fin": 24394,
+   "texto": "Kimika"
+  },
+  {
+   "tipo": "title",
+   "ini": 24395,
+   "fin": 24410,
+   "texto": "Noche Saharahui"
+  },
+  {
+   "tipo": "date",
+   "ini": 24412,
+   "fin": 24416,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24417,
+   "fin": 24441,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24442,
+   "fin": 24452,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "23 x 33 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24442,
+   "fin": 24444,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 24447,
+   "fin": 24449,
+   "texto": "33"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24454,
+   "fin": 24547
+  },
+  {
+   "tipo": "img",
+   "ini": 24454,
+   "fin": 24459,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24461,
+   "fin": 24547,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "María José Gallardo\nEste terreno no está en venta. 2019\nÓleo sobre lienzo\n37 x 33,5 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 24461,
+   "fin": 24480,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "María José Gallardo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24461,
+   "fin": 24480,
+   "texto": "María José Gallardo"
+  },
+  {
+   "tipo": "title",
+   "ini": 24481,
+   "fin": 24510,
+   "texto": "Este terreno no está en venta"
+  },
+  {
+   "tipo": "date",
+   "ini": 24512,
+   "fin": 24516,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24517,
+   "fin": 24534,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24535,
+   "fin": 24547,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "37 x 33,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24535,
+   "fin": 24537,
+   "texto": "37"
+  },
+  {
+   "tipo": "width",
+   "ini": 24540,
+   "fin": 24544,
+   "texto": "33,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24549,
+   "fin": 24643
+  },
+  {
+   "tipo": "img",
+   "ini": 24549,
+   "fin": 24554,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24556,
+   "fin": 24643,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Carlos Miranda\nCiudad robada. Vista nº 19 con figura. 2004\nÓleo sobre lienzo\n33 x 24 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 24556,
+   "fin": 24570,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carlos Miranda"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24556,
+   "fin": 24570,
+   "texto": "Carlos Miranda"
+  },
+  {
+   "tipo": "title",
+   "ini": 24571,
+   "fin": 24608,
+   "texto": "Ciudad robada. Vista nº 19 con figura"
+  },
+  {
+   "tipo": "date",
+   "ini": 24610,
+   "fin": 24614,
+   "rasgos": {
+    "when": "2004"
+   },
+   "texto": "2004"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24615,
+   "fin": 24632,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24633,
+   "fin": 24643,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "33 x 24 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24633,
+   "fin": 24635,
+   "texto": "33"
+  },
+  {
+   "tipo": "width",
+   "ini": 24638,
+   "fin": 24640,
+   "texto": "24"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24645,
+   "fin": 24719
+  },
+  {
+   "tipo": "img",
+   "ini": 24645,
+   "fin": 24650,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24652,
+   "fin": 24719,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Santiago Ydáñez\nS/T. 2019\nAcrílico sobre madera entelada\n22 x 17 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 24652,
+   "fin": 24667,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "title",
+   "ini": 24668,
+   "fin": 24671,
+   "texto": "S/T"
+  },
+  {
+   "tipo": "date",
+   "ini": 24673,
+   "fin": 24677,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24678,
+   "fin": 24708,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre madera entelada"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24709,
+   "fin": 24727,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "22 x 17 cm\n\n[img]\n"
+  },
+  {
+   "tipo": "height",
+   "ini": 24709,
+   "fin": 24711,
+   "texto": "22"
+  },
+  {
+   "tipo": "width",
+   "ini": 24714,
+   "fin": 24716,
+   "texto": "17"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24721,
+   "fin": 24784
+  },
+  {
+   "tipo": "img",
+   "ini": 24721,
+   "fin": 24726,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24728,
+   "fin": 24784,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "MP & MP Rosado\nS/T. 2006\nAcrílico sobre papel\n30 x 42 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 24728,
+   "fin": 24742,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MP & MP Rosado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24728,
+   "fin": 24742,
+   "texto": "MP & MP Rosado"
+  },
+  {
+   "tipo": "title",
+   "ini": 24743,
+   "fin": 24746,
+   "texto": "S/T"
+  },
+  {
+   "tipo": "date",
+   "ini": 24748,
+   "fin": 24752,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24753,
+   "fin": 24773,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24774,
+   "fin": 24784,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 42 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24774,
+   "fin": 24776,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 24779,
+   "fin": 24781,
+   "texto": "42"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24786,
+   "fin": 24864
+  },
+  {
+   "tipo": "img",
+   "ini": 24786,
+   "fin": 24791,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24793,
+   "fin": 24864,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Miki Leal\nGuerra (Serie The End). 2009\nFotograbado. Ed. 3/11\n41 x 58 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 24793,
+   "fin": 24802,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24793,
+   "fin": 24802,
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "title",
+   "ini": 24803,
+   "fin": 24825,
+   "texto": "Guerra (Serie The End)"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 24811,
+   "fin": 24824
+  },
+  {
+   "tipo": "date",
+   "ini": 24827,
+   "fin": 24831,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24832,
+   "fin": 24843,
+   "rasgos": {
+    "type": "photoengraving"
+   },
+   "texto": "Fotograbado"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 24845,
+   "fin": 24853
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24854,
+   "fin": 24864,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41 x 58 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24854,
+   "fin": 24856,
+   "texto": "41"
+  },
+  {
+   "tipo": "width",
+   "ini": 24859,
+   "fin": 24861,
+   "texto": "58"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24866,
+   "fin": 24940
+  },
+  {
+   "tipo": "img",
+   "ini": 24866,
+   "fin": 24871,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24873,
+   "fin": 24939,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Rafael Agredano\nAvignon Guy I. 1996\nAcrílico sobre tela\n61 x 50 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 24873,
+   "fin": 24888,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rafael Agredano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24873,
+   "fin": 24888,
+   "texto": "Rafael Agredano"
+  },
+  {
+   "tipo": "title",
+   "ini": 24889,
+   "fin": 24902,
+   "texto": "Avignon Guy I"
+  },
+  {
+   "tipo": "date",
+   "ini": 24904,
+   "fin": 24908,
+   "rasgos": {
+    "when": "1996"
+   },
+   "texto": "1996"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24909,
+   "fin": 24928,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24929,
+   "fin": 24939,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "61 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24929,
+   "fin": 24931,
+   "texto": "61"
+  },
+  {
+   "tipo": "width",
+   "ini": 24934,
+   "fin": 24936,
+   "texto": "50"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24941,
+   "fin": 25015
+  },
+  {
+   "tipo": "img",
+   "ini": 24941,
+   "fin": 24946,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24948,
+   "fin": 25015,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Federico Guzmán\nPizarra. 1997\nTécnica mixta sobre madera\n87 x 63 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 24948,
+   "fin": 24963,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Federico Guzmán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24948,
+   "fin": 24963,
+   "texto": "Federico Guzmán"
+  },
+  {
+   "tipo": "title",
+   "ini": 24964,
+   "fin": 24971,
+   "texto": "Pizarra"
+  },
+  {
+   "tipo": "date",
+   "ini": 24973,
+   "fin": 24977,
+   "rasgos": {
+    "when": "1997"
+   },
+   "texto": "1997"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24978,
+   "fin": 25004,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25005,
+   "fin": 25015,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "87 x 63 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25005,
+   "fin": 25007,
+   "texto": "87"
+  },
+  {
+   "tipo": "width",
+   "ini": 25010,
+   "fin": 25012,
+   "texto": "63"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25017,
+   "fin": 25101
+  },
+  {
+   "tipo": "img",
+   "ini": 25017,
+   "fin": 25022,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25024,
+   "fin": 25101,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Federico Guzmán\nSanta María Fosfénica. 2005\nMonotipo calcográfico\n80 x 120 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 25024,
+   "fin": 25039,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Federico Guzmán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25024,
+   "fin": 25039,
+   "texto": "Federico Guzmán"
+  },
+  {
+   "tipo": "title",
+   "ini": 25040,
+   "fin": 25061,
+   "texto": "Santa María Fosfénica"
+  },
+  {
+   "tipo": "date",
+   "ini": 25063,
+   "fin": 25067,
+   "rasgos": {
+    "when": "2005"
+   },
+   "texto": "2005"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25068,
+   "fin": 25089,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Monotipo calcográfico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25090,
+   "fin": 25101,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80 x 120 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25090,
+   "fin": 25092,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 25095,
+   "fin": 25098,
+   "texto": "120"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25103,
+   "fin": 25185
+  },
+  {
+   "tipo": "img",
+   "ini": 25103,
+   "fin": 25108,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25110,
+   "fin": 25185,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Miguel Ángel Campano\nS/T. Fondo negro. 1995\nLinóleo. Ed. 12/75\n55 x 37,5 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 25110,
+   "fin": 25130,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Ángel Campano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25110,
+   "fin": 25130,
+   "texto": "Miguel Ángel Campano"
+  },
+  {
+   "tipo": "title",
+   "ini": 25131,
+   "fin": 25147,
+   "texto": "S/T. Fondo negro"
+  },
+  {
+   "tipo": "date",
+   "ini": 25149,
+   "fin": 25153,
+   "rasgos": {
+    "when": "1995"
+   },
+   "texto": "1995"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25154,
+   "fin": 25161,
+   "rasgos": {
+    "type": "linoleum"
+   },
+   "texto": "Linóleo"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 25163,
+   "fin": 25172
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25173,
+   "fin": 25185,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "55 x 37,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25173,
+   "fin": 25175,
+   "texto": "55"
+  },
+  {
+   "tipo": "width",
+   "ini": 25178,
+   "fin": 25182,
+   "texto": "37,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25187,
+   "fin": 25251
+  },
+  {
+   "tipo": "img",
+   "ini": 25187,
+   "fin": 25192,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25194,
+   "fin": 25251,
+   "rasgos": {
+    "type": "drawig"
+   },
+   "texto": "Patricio Cabrera\nS/T. 1993\nGrafito sobre papel\n50 x 70 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 25194,
+   "fin": 25210,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Patricio Cabrera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25194,
+   "fin": 25210,
+   "texto": "Patricio Cabrera"
+  },
+  {
+   "tipo": "title",
+   "ini": 25211,
+   "fin": 25214,
+   "texto": "S/T"
+  },
+  {
+   "tipo": "date",
+   "ini": 25216,
+   "fin": 25220,
+   "rasgos": {
+    "when": "1993"
+   },
+   "texto": "1993"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25221,
+   "fin": 25240,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Grafito sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25241,
+   "fin": 25251,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25241,
+   "fin": 25243,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 25246,
+   "fin": 25248,
+   "texto": "70"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25253,
+   "fin": 25325
+  },
+  {
+   "tipo": "img",
+   "ini": 25253,
+   "fin": 25258,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25260,
+   "fin": 25325,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Antonio Mesones\nS/T. Díptico. 2007\nAcrílico sobre tela\n89 x 45 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 25260,
+   "fin": 25275,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Mesones"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25260,
+   "fin": 25275,
+   "texto": "Antonio Mesones"
+  },
+  {
+   "tipo": "title",
+   "ini": 25276,
+   "fin": 25279,
+   "texto": "S/T"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 25281,
+   "fin": 25288
+  },
+  {
+   "tipo": "date",
+   "ini": 25290,
+   "fin": 25294,
+   "rasgos": {
+    "when": "2007"
+   },
+   "texto": "2007"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25295,
+   "fin": 25314,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre tela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25315,
+   "fin": 25325,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "89 x 45 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25315,
+   "fin": 25317,
+   "texto": "89"
+  },
+  {
+   "tipo": "width",
+   "ini": 25320,
+   "fin": 25322,
+   "texto": "45"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25327,
+   "fin": 25394
+  },
+  {
+   "tipo": "img",
+   "ini": 25327,
+   "fin": 25332,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25334,
+   "fin": 25394,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Gonzalo Elvira\nJA. 2016\nÓleo sobre tela perforada\n15 x 22 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 25334,
+   "fin": 25348,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Elvira"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25334,
+   "fin": 25348,
+   "texto": "Gonzalo Elvira"
+  },
+  {
+   "tipo": "title",
+   "ini": 25349,
+   "fin": 25351,
+   "texto": "JA"
+  },
+  {
+   "tipo": "date",
+   "ini": 25353,
+   "fin": 25357,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25358,
+   "fin": 25383,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tela perforada"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25384,
+   "fin": 25394,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "15 x 22 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25384,
+   "fin": 25386,
+   "texto": "15"
+  },
+  {
+   "tipo": "width",
+   "ini": 25389,
+   "fin": 25391,
+   "texto": "22"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25396,
+   "fin": 25480
+  },
+  {
+   "tipo": "img",
+   "ini": 25396,
+   "fin": 25401,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25403,
+   "fin": 25480,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Vitor Mejuto\nSanto Cefalóforo, 2020\nAcrílico sobre loneta resinada\n50 x 40 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 25403,
+   "fin": 25415,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vitor Mejuto"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25403,
+   "fin": 25415,
+   "texto": "Vitor Mejuto"
+  },
+  {
+   "tipo": "title",
+   "ini": 25416,
+   "fin": 25432,
+   "texto": "Santo Cefalóforo"
+  },
+  {
+   "tipo": "date",
+   "ini": 25434,
+   "fin": 25438,
+   "rasgos": {
+    "when": "2020"
+   },
+   "texto": "2020"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25439,
+   "fin": 25469,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre loneta resinada"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25470,
+   "fin": 25480,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25470,
+   "fin": 25472,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 25475,
+   "fin": 25477,
+   "texto": "40"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25482,
+   "fin": 25580
+  },
+  {
+   "tipo": "img",
+   "ini": 25482,
+   "fin": 25487,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25489,
+   "fin": 25580,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Curro González\nI like Fluxus but Fluxus doesn´t like me. 2008\nÓleo sobre lienzo\n70 x 100 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 25489,
+   "fin": 25503,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Curro González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25489,
+   "fin": 25503,
+   "texto": "Curro González"
+  },
+  {
+   "tipo": "title",
+   "ini": 25504,
+   "fin": 25544,
+   "texto": "I like Fluxus but Fluxus doesn´t like me"
+  },
+  {
+   "tipo": "date",
+   "ini": 25546,
+   "fin": 25550,
+   "rasgos": {
+    "when": "2008"
+   },
+   "texto": "2008"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25551,
+   "fin": 25568,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25569,
+   "fin": 25580,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25569,
+   "fin": 25571,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 25574,
+   "fin": 25577,
+   "texto": "100"
+  },
+  {
+   "tipo": "person",
+   "ini": 25592,
+   "fin": 25607,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rafael Agredano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25592,
+   "fin": 25607,
+   "texto": "Rafael Agredano"
+  },
+  {
+   "tipo": "person",
+   "ini": 25613,
+   "fin": 25627,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Curro González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25613,
+   "fin": 25627,
+   "texto": "Curro González"
+  },
+  {
+   "tipo": "person",
+   "ini": 25637,
+   "fin": 25666,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Ángel Moreno Carretero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25637,
+   "fin": 25666,
+   "texto": "Miguel Ángel Moreno Carretero"
+  },
+  {
+   "tipo": "person",
+   "ini": 25672,
+   "fin": 25688,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pilar Albarracín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25672,
+   "fin": 25688,
+   "texto": "Pilar Albarracín"
+  },
+  {
+   "tipo": "person",
+   "ini": 25694,
+   "fin": 25707,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José Guerrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25694,
+   "fin": 25707,
+   "texto": "José Guerrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 25713,
+   "fin": 25724,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Beth Moyses"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25713,
+   "fin": 25724,
+   "texto": "Beth Moyses"
+  },
+  {
+   "tipo": "person",
+   "ini": 25730,
+   "fin": 25742,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Katia Angeli"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25730,
+   "fin": 25742,
+   "texto": "Katia Angeli"
+  },
+  {
+   "tipo": "person",
+   "ini": 25748,
+   "fin": 25763,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Federico Guzmán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25748,
+   "fin": 25763,
+   "texto": "Federico Guzmán"
+  },
+  {
+   "tipo": "person",
+   "ini": 25773,
+   "fin": 25786,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel Ocampo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25773,
+   "fin": 25786,
+   "texto": "Manuel Ocampo"
+  },
+  {
+   "tipo": "person",
+   "ini": 25792,
+   "fin": 25810,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Marlon de Azambuja"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25792,
+   "fin": 25810,
+   "texto": "Marlon de Azambuja"
+  },
+  {
+   "tipo": "person",
+   "ini": 25816,
+   "fin": 25832,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Diango Hernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25816,
+   "fin": 25832,
+   "texto": "Diango Hernández"
+  },
+  {
+   "tipo": "person",
+   "ini": 25838,
+   "fin": 25852,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bernardo Ortiz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25838,
+   "fin": 25852,
+   "texto": "Bernardo Ortiz"
+  },
+  {
+   "tipo": "person",
+   "ini": 25858,
+   "fin": 25873,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Mattia Barbieri"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25858,
+   "fin": 25873,
+   "texto": "Mattia Barbieri"
+  },
+  {
+   "tipo": "person",
+   "ini": 25879,
+   "fin": 25893,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Aldo Iacobelli"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25879,
+   "fin": 25893,
+   "texto": "Aldo Iacobelli"
+  },
+  {
+   "tipo": "person",
+   "ini": 25899,
+   "fin": 25910,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Martin Parr"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25899,
+   "fin": 25910,
+   "texto": "Martin Parr"
+  },
+  {
+   "tipo": "person",
+   "ini": 25916,
+   "fin": 25931,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manolo Bautista"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25916,
+   "fin": 25931,
+   "texto": "Manolo Bautista"
+  },
+  {
+   "tipo": "person",
+   "ini": 25937,
+   "fin": 25950,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Hisae Ikenaga"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25937,
+   "fin": 25950,
+   "texto": "Hisae Ikenaga"
+  },
+  {
+   "tipo": "person",
+   "ini": 25956,
+   "fin": 25970,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Los Picolettos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25956,
+   "fin": 25970,
+   "texto": "Los Picolettos"
+  },
+  {
+   "tipo": "person",
+   "ini": 25976,
+   "fin": 25988,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joseph Beuys"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25976,
+   "fin": 25988,
+   "texto": "Joseph Beuys"
+  },
+  {
+   "tipo": "person",
+   "ini": 25994,
+   "fin": 26008,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan del Junco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25994,
+   "fin": 26008,
+   "texto": "Juan del Junco"
+  },
+  {
+   "tipo": "person",
+   "ini": 26014,
+   "fin": 26028,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MP & MP Rosado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26014,
+   "fin": 26028,
+   "texto": "MP & MP Rosado"
+  },
+  {
+   "tipo": "person",
+   "ini": 26034,
+   "fin": 26046,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rita McBride"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26034,
+   "fin": 26046,
+   "texto": "Rita McBride"
+  },
+  {
+   "tipo": "person",
+   "ini": 26052,
+   "fin": 26058,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Kimika"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26052,
+   "fin": 26058,
+   "texto": "Kimika"
+  },
+  {
+   "tipo": "person",
+   "ini": 26064,
+   "fin": 26077,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Glen Rubsamen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26064,
+   "fin": 26077,
+   "texto": "Glen Rubsamen"
+  },
+  {
+   "tipo": "person",
+   "ini": 26083,
+   "fin": 26099,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Patricio Cabrera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26083,
+   "fin": 26099,
+   "texto": "Patricio Cabrera"
+  },
+  {
+   "tipo": "person",
+   "ini": 26105,
+   "fin": 26114,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26105,
+   "fin": 26114,
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "person",
+   "ini": 26120,
+   "fin": 26133,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fabia Schnoor"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26120,
+   "fin": 26133,
+   "texto": "Fabia Schnoor"
+  },
+  {
+   "tipo": "person",
+   "ini": 26139,
+   "fin": 26159,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miguel Ángel Campano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26139,
+   "fin": 26159,
+   "texto": "Miguel Ángel Campano"
+  },
+  {
+   "tipo": "person",
+   "ini": 26165,
+   "fin": 26176,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Hans Lemmen"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26165,
+   "fin": 26176,
+   "texto": "Hans Lemmen"
+  },
+  {
+   "tipo": "person",
+   "ini": 26182,
+   "fin": 26196,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sinéad Spelman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26182,
+   "fin": 26196,
+   "texto": "Sinéad Spelman"
+  },
+  {
+   "tipo": "person",
+   "ini": 26202,
+   "fin": 26218,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jiri G. Dokoupil"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26202,
+   "fin": 26218,
+   "texto": "Jiri G. Dokoupil"
+  },
+  {
+   "tipo": "person",
+   "ini": 26224,
+   "fin": 26244,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rogelio López Cuenca"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26224,
+   "fin": 26244,
+   "texto": "Rogelio López Cuenca"
+  },
+  {
+   "tipo": "person",
+   "ini": 26254,
+   "fin": 26272,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Florencia de Titta"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26254,
+   "fin": 26272,
+   "texto": "Florencia de Titta"
+  },
+  {
+   "tipo": "person",
+   "ini": 26278,
+   "fin": 26292,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gonzalo Elvira"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26278,
+   "fin": 26292,
+   "texto": "Gonzalo Elvira"
+  },
+  {
+   "tipo": "person",
+   "ini": 26298,
+   "fin": 26310,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vitor Mejuto"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26298,
+   "fin": 26310,
+   "texto": "Vitor Mejuto"
+  },
+  {
+   "tipo": "person",
+   "ini": 26316,
+   "fin": 26331,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26316,
+   "fin": 26331,
+   "texto": "Santiago Ydáñez"
+  },
+  {
+   "tipo": "person",
+   "ini": 26337,
+   "fin": 26356,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "María José Gallardo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26337,
+   "fin": 26356,
+   "texto": "María José Gallardo"
+  },
+  {
+   "tipo": "person",
+   "ini": 26362,
+   "fin": 26377,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Mesones"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26362,
+   "fin": 26377,
+   "texto": "Antonio Mesones"
+  },
+  {
+   "tipo": "person",
+   "ini": 26387,
+   "fin": 26406,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Johannes Zimmermann"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26387,
+   "fin": 26406,
+   "texto": "Johannes Zimmermann"
+  },
+  {
+   "tipo": "person",
+   "ini": 26420,
+   "fin": 26431,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Dora García"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26420,
+   "fin": 26431,
+   "texto": "Dora García"
+  },
+  {
+   "tipo": "person",
+   "ini": 26437,
+   "fin": 26451,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carlos Miranda"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26437,
+   "fin": 26451,
+   "texto": "Carlos Miranda"
+  },
+  {
+   "tipo": "person",
+   "ini": 26457,
+   "fin": 26461,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Zush"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26457,
+   "fin": 26461,
+   "texto": "Zush"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 26467,
+   "fin": 26576,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 26467,
+   "fin": 26501,
+   "texto": "Queridos. Colección de Jesús Reina"
+  },
+  {
+   "tipo": "date",
+   "ini": 26528,
+   "fin": 26565,
+   "rasgos": {
+    "when": "2020-11-24"
+   },
+   "texto": "día 24 de noviembre\nde dos mil veinte"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 26569,
+   "fin": 26576,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "person",
+   "ini": 26716,
+   "fin": 26727,
+   "rasgos": {
+    "role": "collector"
+   },
+   "texto": "Jesús Reina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26716,
+   "fin": 26727,
+   "texto": "Jesús Reina"
+  }
+ ]
+}

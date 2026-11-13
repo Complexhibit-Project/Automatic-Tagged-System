@@ -1,0 +1,2027 @@
+{
+ "id": "cat_058_catalogo_piedra_papel_tijera",
+ "nombre_original": "catalogo-piedra-papel-tijera",
+ "longitud_texto": 42168,
+ "sha256_texto": "ecd92ede988a209fa615814e4b454cc05416f1eeef8b4b028399446124dc70e8",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 131,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 21,
+   "texto": "Piedra, papel, tijera"
+  },
+  {
+   "tipo": "person",
+   "ini": 23,
+   "fin": 36,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sonia Navarro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23,
+   "fin": 36,
+   "texto": "Sonia Navarro"
+  },
+  {
+   "tipo": "person",
+   "ini": 37,
+   "fin": 40,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "FOD"
+  },
+  {
+   "tipo": "persName",
+   "ini": 37,
+   "fin": 40,
+   "texto": "FOD"
+  },
+  {
+   "tipo": "person",
+   "ini": 41,
+   "fin": 50,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 41,
+   "fin": 50,
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "institution",
+   "ini": 52,
+   "fin": 131,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería 6 + 1\n\nCalle Piamonte 21- 28004 Madrid – tel. 915216268 – arte@6mas1.es"
+  },
+  {
+   "tipo": "address",
+   "ini": 67,
+   "fin": 98,
+   "texto": "Calle Piamonte 21- 28004 Madrid"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 92,
+   "fin": 98,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 4064,
+   "fin": 4165,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 4064,
+   "fin": 4067,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "FOD"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4064,
+   "fin": 4067,
+   "texto": "FOD"
+  },
+  {
+   "tipo": "person",
+   "ini": 4072,
+   "fin": 4085,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sonia Navarro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4072,
+   "fin": 4085,
+   "texto": "Sonia Navarro"
+  },
+  {
+   "tipo": "person",
+   "ini": 4091,
+   "fin": 4100,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4091,
+   "fin": 4100,
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4121,
+   "fin": 4132,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería 6+1"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4742,
+   "fin": 4753,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería 6+1"
+  },
+  {
+   "tipo": "person",
+   "ini": 5749,
+   "fin": 5762,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sonia Navarro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5749,
+   "fin": 5762,
+   "texto": "Sonia Navarro"
+  },
+  {
+   "tipo": "person",
+   "ini": 5906,
+   "fin": 5911,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sonia"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5906,
+   "fin": 5911,
+   "texto": "Sonia"
+  },
+  {
+   "tipo": "person",
+   "ini": 6105,
+   "fin": 6118,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sonia Navarro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6105,
+   "fin": 6118,
+   "texto": "Sonia Navarro"
+  },
+  {
+   "tipo": "person",
+   "ini": 6549,
+   "fin": 6558,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6549,
+   "fin": 6558,
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "person",
+   "ini": 7299,
+   "fin": 7308,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7299,
+   "fin": 7308,
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "person",
+   "ini": 7442,
+   "fin": 7445,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "FOD"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7442,
+   "fin": 7445,
+   "texto": "FOD"
+  },
+  {
+   "tipo": "person",
+   "ini": 8150,
+   "fin": 8153,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "FOD"
+  },
+  {
+   "tipo": "person",
+   "ini": 8614,
+   "fin": 8617,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fod"
+  },
+  {
+   "tipo": "institution",
+   "ini": 9301,
+   "fin": 9312,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería 6+1"
+  },
+  {
+   "tipo": "person",
+   "ini": 9928,
+   "fin": 9983,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "FOD (Francisco Olivares Díaz), Puerto Lumbreras , 1973."
+  },
+  {
+   "tipo": "persName",
+   "ini": 9928,
+   "fin": 9931,
+   "texto": "FOD"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9933,
+   "fin": 9956,
+   "texto": "Francisco Olivares Díaz"
+  },
+  {
+   "tipo": "birth",
+   "ini": 9959,
+   "fin": 9982
+  },
+  {
+   "tipo": "placeName",
+   "ini": 9959,
+   "fin": 9975,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Puerto Lumbreras"
+  },
+  {
+   "tipo": "date",
+   "ini": 9978,
+   "fin": 9982,
+   "rasgos": {
+    "when": "1973"
+   },
+   "texto": "1973"
+  },
+  {
+   "tipo": "person",
+   "ini": 12079,
+   "fin": 12117,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sonia Navarro, Puerto Lumbreras, 1975."
+  },
+  {
+   "tipo": "persName",
+   "ini": 12079,
+   "fin": 12092,
+   "texto": "Sonia Navarro"
+  },
+  {
+   "tipo": "birth",
+   "ini": 12094,
+   "fin": 12116
+  },
+  {
+   "tipo": "placeName",
+   "ini": 12094,
+   "fin": 12110,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Puerto Lumbreras"
+  },
+  {
+   "tipo": "date",
+   "ini": 12112,
+   "fin": 12116,
+   "rasgos": {
+    "when": "1975"
+   },
+   "texto": "1975"
+  },
+  {
+   "tipo": "person",
+   "ini": 12118,
+   "fin": 12131,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sonia Navarro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12118,
+   "fin": 12131,
+   "texto": "Sonia Navarro"
+  },
+  {
+   "tipo": "person",
+   "ini": 13733,
+   "fin": 13757,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miki Leal, Sevilla, 1974"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13733,
+   "fin": 13742,
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "birth",
+   "ini": 13744,
+   "fin": 13757
+  },
+  {
+   "tipo": "placeName",
+   "ini": 13744,
+   "fin": 13751,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "date",
+   "ini": 13753,
+   "fin": 13757,
+   "rasgos": {
+    "when": "1974"
+   },
+   "texto": "1974"
+  },
+  {
+   "tipo": "person",
+   "ini": 13790,
+   "fin": 13799,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13790,
+   "fin": 13799,
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "person",
+   "ini": 14709,
+   "fin": 14718,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14709,
+   "fin": 14717,
+   "texto": "Miki Lea"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 15059,
+   "fin": 16889
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15059,
+   "fin": 15178
+  },
+  {
+   "tipo": "img",
+   "ini": 15059,
+   "fin": 15064,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15066,
+   "fin": 15178,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Autor: Sonia Navarro\nTítulo: Doria\nTécnica:Sillón collage de piel e hilo\nDimensiones: 130 x 78 x 70 cm\nAño: 2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 15073,
+   "fin": 15086,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sonia Navarro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15073,
+   "fin": 15086,
+   "texto": "Sonia Navarro"
+  },
+  {
+   "tipo": "title",
+   "ini": 15095,
+   "fin": 15100,
+   "texto": "Doria"
+  },
+  {
+   "tipo": "material",
+   "ini": 15109,
+   "fin": 15138,
+   "rasgos": {
+    "type": "furniture, collage"
+   },
+   "texto": "Sillón collage de piel e hilo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15152,
+   "fin": 15168,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 78 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15152,
+   "fin": 15155,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 15158,
+   "fin": 15160,
+   "texto": "78"
+  },
+  {
+   "tipo": "depth",
+   "ini": 15163,
+   "fin": 15165,
+   "texto": "70"
+  },
+  {
+   "tipo": "date",
+   "ini": 15174,
+   "fin": 15178,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15180,
+   "fin": 15292
+  },
+  {
+   "tipo": "img",
+   "ini": 15180,
+   "fin": 15185,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15187,
+   "fin": 15292,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Autor: Sonia Navarro\nTítulo: Tania\nTécnica: Alfombra de lana\nDimensiones: alfombra 200 x 200 cm\nAño: 2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 15194,
+   "fin": 15207,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sonia Navarro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15194,
+   "fin": 15207,
+   "texto": "Sonia Navarro"
+  },
+  {
+   "tipo": "title",
+   "ini": 15216,
+   "fin": 15221,
+   "texto": "Tania"
+  },
+  {
+   "tipo": "material",
+   "ini": 15231,
+   "fin": 15247,
+   "rasgos": {
+    "type": "carpet"
+   },
+   "texto": "Alfombra de lana"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15270,
+   "fin": 15282,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 200 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15270,
+   "fin": 15273,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 15276,
+   "fin": 15279,
+   "texto": "200"
+  },
+  {
+   "tipo": "date",
+   "ini": 15288,
+   "fin": 15292,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15294,
+   "fin": 15401
+  },
+  {
+   "tipo": "img",
+   "ini": 15294,
+   "fin": 15299,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15301,
+   "fin": 15401,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Autor: Fod\nTítulo: Mesa\nTécnica: madera/hierro/latón/mármol\nDimensiones: 203 x 70 x 78 cm.\nAño: 2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 15308,
+   "fin": 15311,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fod"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15308,
+   "fin": 15311,
+   "texto": "Fod"
+  },
+  {
+   "tipo": "title",
+   "ini": 15320,
+   "fin": 15324,
+   "texto": "Mesa"
+  },
+  {
+   "tipo": "material",
+   "ini": 15334,
+   "fin": 15360,
+   "rasgos": {
+    "type": "wood, iron, brass, marble"
+   },
+   "texto": "madera/hierro/latón/mármol"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15374,
+   "fin": 15390,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "203 x 70 x 78 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15374,
+   "fin": 15377,
+   "texto": "203"
+  },
+  {
+   "tipo": "width",
+   "ini": 15380,
+   "fin": 15382,
+   "texto": "70"
+  },
+  {
+   "tipo": "depth",
+   "ini": 15385,
+   "fin": 15387,
+   "texto": "78"
+  },
+  {
+   "tipo": "date",
+   "ini": 15397,
+   "fin": 15401,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15403,
+   "fin": 15507
+  },
+  {
+   "tipo": "img",
+   "ini": 15403,
+   "fin": 15408,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15410,
+   "fin": 15507,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Autor: Fod\nTítulo: Aparador\nTécnica: madera/hierro/latón\nDimensiones: 240 x 50 x 86 cm.\nAño: 2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 15417,
+   "fin": 15420,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fod"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15417,
+   "fin": 15420,
+   "texto": "Fod"
+  },
+  {
+   "tipo": "title",
+   "ini": 15429,
+   "fin": 15437,
+   "texto": "Aparador"
+  },
+  {
+   "tipo": "material",
+   "ini": 15447,
+   "fin": 15466,
+   "rasgos": {
+    "type": "wood, iron, brass"
+   },
+   "texto": "madera/hierro/latón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15480,
+   "fin": 15496,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "240 x 50 x 86 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15480,
+   "fin": 15483,
+   "texto": "240"
+  },
+  {
+   "tipo": "width",
+   "ini": 15486,
+   "fin": 15488,
+   "texto": "50"
+  },
+  {
+   "tipo": "depth",
+   "ini": 15491,
+   "fin": 15493,
+   "texto": "86"
+  },
+  {
+   "tipo": "date",
+   "ini": 15503,
+   "fin": 15507,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15509,
+   "fin": 15634
+  },
+  {
+   "tipo": "img",
+   "ini": 15509,
+   "fin": 15514,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15516,
+   "fin": 15634,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Autor: Fod\nTítulo: Armario Bajo\nTécnica: madera/hierro/latón/mármol/acrílico.\nDimensiones: 176 x 145 x 50 cm\nAño: 2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 15523,
+   "fin": 15526,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fod"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15523,
+   "fin": 15526,
+   "texto": "Fod"
+  },
+  {
+   "tipo": "title",
+   "ini": 15535,
+   "fin": 15547,
+   "texto": "Armario Bajo"
+  },
+  {
+   "tipo": "material",
+   "ini": 15557,
+   "fin": 15592,
+   "rasgos": {
+    "type": "wood, iron, brass, marble, acrylic"
+   },
+   "texto": "madera/hierro/latón/mármol/acrílico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15607,
+   "fin": 15624,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "176 x 145 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15607,
+   "fin": 15610,
+   "texto": "176"
+  },
+  {
+   "tipo": "width",
+   "ini": 15613,
+   "fin": 15616,
+   "texto": "145"
+  },
+  {
+   "tipo": "depth",
+   "ini": 15619,
+   "fin": 15621,
+   "texto": "50"
+  },
+  {
+   "tipo": "date",
+   "ini": 15630,
+   "fin": 15634,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15636,
+   "fin": 15762
+  },
+  {
+   "tipo": "img",
+   "ini": 15636,
+   "fin": 15641,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15643,
+   "fin": 15762,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Autor: Fod\nTítulo: Armario Bajo\nTécnica: madera/hierro/latón/mármol/acrílico.\nDimensiones: 146 x 50 x 194 cm.\nAño: 2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 15650,
+   "fin": 15653,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fod"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15650,
+   "fin": 15653,
+   "texto": "Fod"
+  },
+  {
+   "tipo": "title",
+   "ini": 15662,
+   "fin": 15674,
+   "texto": "Armario Bajo"
+  },
+  {
+   "tipo": "material",
+   "ini": 15684,
+   "fin": 15719,
+   "rasgos": {
+    "type": "wood, iron, brass, marble, acrylic"
+   },
+   "texto": "madera/hierro/latón/mármol/acrílico"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15734,
+   "fin": 15751,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "146 x 50 x 194 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15734,
+   "fin": 15737,
+   "texto": "146"
+  },
+  {
+   "tipo": "width",
+   "ini": 15740,
+   "fin": 15742,
+   "texto": "50"
+  },
+  {
+   "tipo": "depth",
+   "ini": 15745,
+   "fin": 15748,
+   "texto": "194"
+  },
+  {
+   "tipo": "date",
+   "ini": 15758,
+   "fin": 15762,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15764,
+   "fin": 15879
+  },
+  {
+   "tipo": "img",
+   "ini": 15764,
+   "fin": 15769,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 15771,
+   "fin": 15879,
+   "rasgos": {
+    "type": "ceramic",
+    "size": "3"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 15778,
+   "fin": 15787,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15778,
+   "fin": 15787,
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "title",
+   "ini": 15796,
+   "fin": 15804,
+   "texto": "Corbatas"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15814,
+   "fin": 15822,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Cerámica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15851,
+   "fin": 15865,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 12 x 3 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15851,
+   "fin": 15853,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 15856,
+   "fin": 15858,
+   "texto": "12"
+  },
+  {
+   "tipo": "depth",
+   "ini": 15861,
+   "fin": 15862,
+   "texto": "3"
+  },
+  {
+   "tipo": "date",
+   "ini": 15875,
+   "fin": 15879,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15881,
+   "fin": 16015
+  },
+  {
+   "tipo": "img",
+   "ini": 15881,
+   "fin": 15886,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15888,
+   "fin": 16015,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Autor: Miki Leal\nTítulo: Disco Careta\nTécnica: Cerámica y disco intervenido\nDimensiones:: 31 x 31.3 cm; 12 x 6 x 2 cm\nAño: 2013"
+  },
+  {
+   "tipo": "person",
+   "ini": 15895,
+   "fin": 15904,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15895,
+   "fin": 15904,
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "title",
+   "ini": 15913,
+   "fin": 15925,
+   "texto": "Disco Careta"
+  },
+  {
+   "tipo": "technique",
+   "ini": 15935,
+   "fin": 15963,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Cerámica y disco intervenido"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15978,
+   "fin": 15990,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "31 x 31.3 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15978,
+   "fin": 15980,
+   "texto": "31"
+  },
+  {
+   "tipo": "width",
+   "ini": 15983,
+   "fin": 15987,
+   "texto": "31.3"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 15992,
+   "fin": 16005,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "12 x 6 x 2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 15992,
+   "fin": 15994,
+   "texto": "12"
+  },
+  {
+   "tipo": "width",
+   "ini": 15997,
+   "fin": 15998,
+   "texto": "6"
+  },
+  {
+   "tipo": "depth",
+   "ini": 16001,
+   "fin": 16002,
+   "texto": "2"
+  },
+  {
+   "tipo": "date",
+   "ini": 16011,
+   "fin": 16015,
+   "rasgos": {
+    "when": "2013"
+   },
+   "texto": "2013"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16017,
+   "fin": 16123
+  },
+  {
+   "tipo": "img",
+   "ini": 16017,
+   "fin": 16022,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16024,
+   "fin": 16123,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Autor: Miki Leal\nTítulo: Una casa portuguesa\nTécnica: Cerámica\nDimensiones:: 27 x 13,5 cm\nAño: 2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 16031,
+   "fin": 16040,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16031,
+   "fin": 16040,
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "title",
+   "ini": 16049,
+   "fin": 16068,
+   "texto": "Una casa portuguesa"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16078,
+   "fin": 16086,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Cerámica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16101,
+   "fin": 16113,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27 x 13,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16101,
+   "fin": 16103,
+   "texto": "27"
+  },
+  {
+   "tipo": "width",
+   "ini": 16106,
+   "fin": 16110,
+   "texto": "13,5"
+  },
+  {
+   "tipo": "date",
+   "ini": 16119,
+   "fin": 16123,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16125,
+   "fin": 16229
+  },
+  {
+   "tipo": "img",
+   "ini": 16125,
+   "fin": 16130,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16132,
+   "fin": 16229,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Autor: Miki Leal\nTítulo: Una casa portuguesa\nTécnica: Cerámica\nDimensiones:: 34 x 17 cm\nAño: 2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 16139,
+   "fin": 16148,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16139,
+   "fin": 16148,
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "title",
+   "ini": 16157,
+   "fin": 16176,
+   "texto": "Una casa portuguesa"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16186,
+   "fin": 16194,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Cerámica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16209,
+   "fin": 16219,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "34 x 17 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16209,
+   "fin": 16211,
+   "texto": "34"
+  },
+  {
+   "tipo": "width",
+   "ini": 16214,
+   "fin": 16216,
+   "texto": "17"
+  },
+  {
+   "tipo": "date",
+   "ini": 16225,
+   "fin": 16229,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16231,
+   "fin": 16337
+  },
+  {
+   "tipo": "img",
+   "ini": 16231,
+   "fin": 16236,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16238,
+   "fin": 16337,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Autor: Miki Leal\nTítulo: Una casa portuguesa\nTécnica: Cerámica\nDimensiones:: 26 x 13,5 cm\nAño: 2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 16245,
+   "fin": 16254,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16245,
+   "fin": 16254,
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "title",
+   "ini": 16263,
+   "fin": 16282,
+   "texto": "Una casa portuguesa"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16292,
+   "fin": 16300,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Cerámica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16315,
+   "fin": 16327,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "26 x 13,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16315,
+   "fin": 16317,
+   "texto": "26"
+  },
+  {
+   "tipo": "width",
+   "ini": 16320,
+   "fin": 16324,
+   "texto": "13,5"
+  },
+  {
+   "tipo": "date",
+   "ini": 16333,
+   "fin": 16337,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16339,
+   "fin": 16443
+  },
+  {
+   "tipo": "img",
+   "ini": 16339,
+   "fin": 16344,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16346,
+   "fin": 16443,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Autor: Miki Leal\nTítulo: Una casa portuguesa\nTécnica: Cerámica\nDimensiones:: 46 x 10 cm\nAño: 2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 16353,
+   "fin": 16362,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16353,
+   "fin": 16362,
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "title",
+   "ini": 16371,
+   "fin": 16390,
+   "texto": "Una casa portuguesa"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16400,
+   "fin": 16408,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Cerámica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16423,
+   "fin": 16433,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 10 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16423,
+   "fin": 16425,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 16428,
+   "fin": 16430,
+   "texto": "10"
+  },
+  {
+   "tipo": "date",
+   "ini": 16439,
+   "fin": 16443,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16445,
+   "fin": 16549
+  },
+  {
+   "tipo": "img",
+   "ini": 16445,
+   "fin": 16450,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16452,
+   "fin": 16549,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Autor: Miki Leal\nTítulo: Una casa portuguesa\nTécnica: Cerámica\nDimensiones:: 44 x 18 cm\nAño: 2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 16459,
+   "fin": 16468,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16459,
+   "fin": 16468,
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "title",
+   "ini": 16477,
+   "fin": 16496,
+   "texto": "Una casa portuguesa"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16506,
+   "fin": 16514,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Cerámica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16529,
+   "fin": 16539,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "44 x 18 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16529,
+   "fin": 16531,
+   "texto": "44"
+  },
+  {
+   "tipo": "width",
+   "ini": 16534,
+   "fin": 16536,
+   "texto": "18"
+  },
+  {
+   "tipo": "date",
+   "ini": 16545,
+   "fin": 16549,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16551,
+   "fin": 16665
+  },
+  {
+   "tipo": "img",
+   "ini": 16551,
+   "fin": 16556,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16558,
+   "fin": 16665,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Autor: Miki Leal\nTítulo: Una casa portuguesa\nTécnica: Cerámica\nDimensiones:: 29,5 x 13,5 x 4,5 cm\nAño: 2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 16565,
+   "fin": 16574,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16565,
+   "fin": 16574,
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "title",
+   "ini": 16583,
+   "fin": 16602,
+   "texto": "Una casa portuguesa"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16612,
+   "fin": 16620,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Cerámica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16635,
+   "fin": 16655,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29,5 x 13,5 x 4,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16635,
+   "fin": 16639,
+   "texto": "29,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 16642,
+   "fin": 16646,
+   "texto": "13,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 16649,
+   "fin": 16652,
+   "texto": "4,5"
+  },
+  {
+   "tipo": "date",
+   "ini": 16661,
+   "fin": 16665,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16667,
+   "fin": 16777
+  },
+  {
+   "tipo": "img",
+   "ini": 16667,
+   "fin": 16672,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16674,
+   "fin": 16777,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Autor: Miki Leal\nTítulo: Una casa portuguesa\nTécnica: Cerámica\nDimensiones:: 23 x 10 x 3,5 cm\nAño: 2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 16681,
+   "fin": 16690,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16681,
+   "fin": 16690,
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "title",
+   "ini": 16699,
+   "fin": 16718,
+   "texto": "Una casa portuguesa"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16728,
+   "fin": 16736,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Cerámica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16751,
+   "fin": 16767,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "23 x 10 x 3,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16751,
+   "fin": 16753,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 16756,
+   "fin": 16758,
+   "texto": "10"
+  },
+  {
+   "tipo": "depth",
+   "ini": 16761,
+   "fin": 16764,
+   "texto": "3,5"
+  },
+  {
+   "tipo": "date",
+   "ini": 16773,
+   "fin": 16777,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16779,
+   "fin": 16889
+  },
+  {
+   "tipo": "img",
+   "ini": 16779,
+   "fin": 16784,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16786,
+   "fin": 16890,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Autor: Miki Leal\nTítulo: Una casa portuguesa\nTécnica: Cerámica\nDimensiones:: 35 x 16,5 x 5 cm\nAño: 2017\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 16793,
+   "fin": 16802,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16793,
+   "fin": 16802,
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "title",
+   "ini": 16811,
+   "fin": 16830,
+   "texto": "Una casa portuguesa"
+  },
+  {
+   "tipo": "technique",
+   "ini": 16840,
+   "fin": 16848,
+   "rasgos": {
+    "type": "ceramic"
+   },
+   "texto": "Cerámica"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 16863,
+   "fin": 16879,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35 x 16,5 x 5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 16863,
+   "fin": 16865,
+   "texto": "35"
+  },
+  {
+   "tipo": "width",
+   "ini": 16868,
+   "fin": 16872,
+   "texto": "16,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 16875,
+   "fin": 16876,
+   "texto": "5"
+  },
+  {
+   "tipo": "date",
+   "ini": 16885,
+   "fin": 16889,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 16891,
+   "fin": 16928,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sonia Navarro\n\nPuerto Lumbreras 1975."
+  },
+  {
+   "tipo": "persName",
+   "ini": 16891,
+   "fin": 16904,
+   "texto": "Sonia Navarro"
+  },
+  {
+   "tipo": "birth",
+   "ini": 16906,
+   "fin": 16927
+  },
+  {
+   "tipo": "placeName",
+   "ini": 16906,
+   "fin": 16922,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Puerto Lumbreras"
+  },
+  {
+   "tipo": "date",
+   "ini": 16923,
+   "fin": 16927,
+   "rasgos": {
+    "when": "1975"
+   },
+   "texto": "1975"
+  },
+  {
+   "tipo": "person",
+   "ini": 25916,
+   "fin": 25963,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Francisco Olivares (FOD)\nPuerto Lumbreras 1973."
+  },
+  {
+   "tipo": "persName",
+   "ini": 25916,
+   "fin": 25934,
+   "texto": "Francisco Olivares"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25936,
+   "fin": 25939,
+   "texto": "FOD"
+  },
+  {
+   "tipo": "birth",
+   "ini": 25941,
+   "fin": 25962
+  },
+  {
+   "tipo": "placeName",
+   "ini": 25941,
+   "fin": 25957,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Puerto Lumbreras"
+  },
+  {
+   "tipo": "date",
+   "ini": 25958,
+   "fin": 25962,
+   "rasgos": {
+    "when": "1973"
+   },
+   "texto": "1973"
+  },
+  {
+   "tipo": "person",
+   "ini": 31461,
+   "fin": 31484,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Miki Leal\n\nSevilla 1974"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31461,
+   "fin": 31470,
+   "texto": "Miki Leal"
+  },
+  {
+   "tipo": "birth",
+   "ini": 31472,
+   "fin": 31484
+  },
+  {
+   "tipo": "placeName",
+   "ini": 31472,
+   "fin": 31479,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "date",
+   "ini": 31480,
+   "fin": 31484,
+   "rasgos": {
+    "when": "1974"
+   },
+   "texto": "1974"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 42121,
+   "fin": 42166,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 42121,
+   "fin": 42134,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Galería 6mas1"
+  },
+  {
+   "tipo": "date",
+   "ini": 42135,
+   "fin": 42166,
+   "rasgos": {
+    "from": "2017-04-20",
+    "to": "2017-05-25"
+   },
+   "texto": "20 de abril-25 de mayo del 2017"
+  }
+ ]
+}

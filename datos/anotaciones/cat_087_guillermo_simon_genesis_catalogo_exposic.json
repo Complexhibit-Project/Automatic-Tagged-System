@@ -1,0 +1,1836 @@
+{
+ "id": "cat_087_guillermo_simon_genesis_catalogo_exposic",
+ "nombre_original": "Guillermo-Simon---Genesis---Catalogo-exposicion-en-Malvin-Gallery",
+ "longitud_texto": 24072,
+ "sha256_texto": "70d1384faf39ab4318fffeb1c82d297c77cee7a4571eb3cb73dd12a2edd2761d",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 24,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 15,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guillermo\nSimón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 15,
+   "texto": "Guillermo\nSimón"
+  },
+  {
+   "tipo": "title",
+   "ini": 17,
+   "fin": 24,
+   "texto": "GÉNESIS"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 26,
+   "fin": 160,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 26,
+   "fin": 33,
+   "texto": "GÉNESIS"
+  },
+  {
+   "tipo": "person",
+   "ini": 34,
+   "fin": 49,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guillermo Simón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 34,
+   "fin": 49,
+   "texto": "Guillermo Simón"
+  },
+  {
+   "tipo": "date",
+   "ini": 54,
+   "fin": 95,
+   "rasgos": {
+    "from": "2020-10-29",
+    "to": "2020-12-12"
+   },
+   "texto": "29 de octubre al 12 de diciembre del 2020"
+  },
+  {
+   "tipo": "date",
+   "ini": 110,
+   "fin": 129,
+   "rasgos": {
+    "to": "2021-01-16"
+   },
+   "texto": "16 de enero de 2021"
+  },
+  {
+   "tipo": "address",
+   "ini": 131,
+   "fin": 160,
+   "texto": "C/ Colmenares, 7\n28004 Madrid"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 154,
+   "fin": 160,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "person",
+   "ini": 202,
+   "fin": 217,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "GUILLERMO SIMÓN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 202,
+   "fin": 217,
+   "texto": "GUILLERMO SIMÓN"
+  },
+  {
+   "tipo": "person",
+   "ini": 255,
+   "fin": 270,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guillermo Simón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 255,
+   "fin": 270,
+   "texto": "Guillermo Simón"
+  },
+  {
+   "tipo": "person",
+   "ini": 1171,
+   "fin": 1180,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guillermo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1171,
+   "fin": 1180,
+   "texto": "Guillermo"
+  },
+  {
+   "tipo": "person",
+   "ini": 3051,
+   "fin": 3060,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Guillermo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3051,
+   "fin": 3060,
+   "texto": "Guillermo"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 3746,
+   "fin": 5130
+  },
+  {
+   "tipo": "title",
+   "ini": 3746,
+   "fin": 3753,
+   "texto": "GÉNESIS"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3755,
+   "fin": 3809
+  },
+  {
+   "tipo": "work",
+   "ini": 3755,
+   "fin": 3803,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Génesis I\nÓleo sobre dibond\n75 cm x 75 cm. 2019\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 3755,
+   "fin": 3764,
+   "texto": "Génesis I"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3765,
+   "fin": 3782,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre dibond"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3783,
+   "fin": 3796,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "75 cm x 75 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3783,
+   "fin": 3785,
+   "texto": "75"
+  },
+  {
+   "tipo": "width",
+   "ini": 3791,
+   "fin": 3793,
+   "texto": "75"
+  },
+  {
+   "tipo": "date",
+   "ini": 3798,
+   "fin": 3802,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 3804,
+   "fin": 3809,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3811,
+   "fin": 3866
+  },
+  {
+   "tipo": "work",
+   "ini": 3811,
+   "fin": 3859,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Génesis II\nÓleo sobre dibond\n75 cm x 75 cm. 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 3811,
+   "fin": 3821,
+   "texto": "Génesis II"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3822,
+   "fin": 3839,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre dibond"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3840,
+   "fin": 3853,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "75 cm x 75 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3840,
+   "fin": 3842,
+   "texto": "75"
+  },
+  {
+   "tipo": "width",
+   "ini": 3848,
+   "fin": 3850,
+   "texto": "75"
+  },
+  {
+   "tipo": "date",
+   "ini": 3855,
+   "fin": 3859,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 3861,
+   "fin": 3866,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3868,
+   "fin": 3924
+  },
+  {
+   "tipo": "work",
+   "ini": 3868,
+   "fin": 3917,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Génesis III\nÓleo sobre dibond\n75 cm x 75 cm. 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 3868,
+   "fin": 3879,
+   "texto": "Génesis III"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3880,
+   "fin": 3897,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre dibond"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3898,
+   "fin": 3911,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "75 cm x 75 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3898,
+   "fin": 3900,
+   "texto": "75"
+  },
+  {
+   "tipo": "width",
+   "ini": 3906,
+   "fin": 3908,
+   "texto": "75"
+  },
+  {
+   "tipo": "date",
+   "ini": 3913,
+   "fin": 3917,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 3919,
+   "fin": 3924,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3926,
+   "fin": 3982
+  },
+  {
+   "tipo": "work",
+   "ini": 3926,
+   "fin": 3974,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Génesis IV\nÓleo sobre dibond\n75 cm x 75 cm. 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 3926,
+   "fin": 3936,
+   "texto": "Génesis IV"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3937,
+   "fin": 3954,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre dibond"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3955,
+   "fin": 3968,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "75 cm x 75 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3955,
+   "fin": 3957,
+   "texto": "75"
+  },
+  {
+   "tipo": "width",
+   "ini": 3963,
+   "fin": 3965,
+   "texto": "75"
+  },
+  {
+   "tipo": "date",
+   "ini": 3970,
+   "fin": 3974,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 3976,
+   "fin": 3981,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3983,
+   "fin": 4037
+  },
+  {
+   "tipo": "work",
+   "ini": 3983,
+   "fin": 4030,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Génesis V\nÓleo sobre dibond\n75 cm x 75 cm. 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 3983,
+   "fin": 3992,
+   "texto": "Génesis V"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3993,
+   "fin": 4010,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre dibond"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4011,
+   "fin": 4024,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "75 cm x 75 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4011,
+   "fin": 4013,
+   "texto": "75"
+  },
+  {
+   "tipo": "width",
+   "ini": 4019,
+   "fin": 4021,
+   "texto": "75"
+  },
+  {
+   "tipo": "date",
+   "ini": 4026,
+   "fin": 4030,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 4032,
+   "fin": 4037,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4039,
+   "fin": 4094
+  },
+  {
+   "tipo": "work",
+   "ini": 4039,
+   "fin": 4087,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Génesis VI\nÓleo sobre dibond\n75 cm x 75 cm. 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 4039,
+   "fin": 4049,
+   "texto": "Génesis VI"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4050,
+   "fin": 4067,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre dibond"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4068,
+   "fin": 4081,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "75 cm x 75 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4068,
+   "fin": 4070,
+   "texto": "75"
+  },
+  {
+   "tipo": "width",
+   "ini": 4076,
+   "fin": 4078,
+   "texto": "75"
+  },
+  {
+   "tipo": "date",
+   "ini": 4083,
+   "fin": 4087,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 4089,
+   "fin": 4094,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4096,
+   "fin": 4152
+  },
+  {
+   "tipo": "work",
+   "ini": 4096,
+   "fin": 4145,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Génesis VII\nÓleo sobre dibond\n75 cm x 75 cm. 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 4096,
+   "fin": 4107,
+   "texto": "Génesis VII"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4108,
+   "fin": 4125,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre dibond"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4126,
+   "fin": 4139,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "75 cm x 75 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4126,
+   "fin": 4128,
+   "texto": "75"
+  },
+  {
+   "tipo": "width",
+   "ini": 4134,
+   "fin": 4136,
+   "texto": "75"
+  },
+  {
+   "tipo": "date",
+   "ini": 4141,
+   "fin": 4145,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 4147,
+   "fin": 4152,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4154,
+   "fin": 4211
+  },
+  {
+   "tipo": "work",
+   "ini": 4154,
+   "fin": 4204,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Génesis VIII\nÓleo sobre dibond\n75 cm x 75 cm. 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 4154,
+   "fin": 4166,
+   "texto": "Génesis VIII"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4167,
+   "fin": 4184,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre dibond"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4185,
+   "fin": 4198,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "75 cm x 75 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4185,
+   "fin": 4187,
+   "texto": "75"
+  },
+  {
+   "tipo": "width",
+   "ini": 4193,
+   "fin": 4195,
+   "texto": "75"
+  },
+  {
+   "tipo": "date",
+   "ini": 4200,
+   "fin": 4204,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 4206,
+   "fin": 4211,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4213,
+   "fin": 4268
+  },
+  {
+   "tipo": "work",
+   "ini": 4213,
+   "fin": 4261,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Génesis IX\nÓleo sobre dibond\n75 cm x 75 cm. 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 4213,
+   "fin": 4223,
+   "texto": "Génesis IX"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4224,
+   "fin": 4241,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre dibond"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4242,
+   "fin": 4255,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "75 cm x 75 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4242,
+   "fin": 4244,
+   "texto": "75"
+  },
+  {
+   "tipo": "width",
+   "ini": 4250,
+   "fin": 4252,
+   "texto": "75"
+  },
+  {
+   "tipo": "date",
+   "ini": 4257,
+   "fin": 4261,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 4263,
+   "fin": 4268,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4270,
+   "fin": 4324
+  },
+  {
+   "tipo": "work",
+   "ini": 4270,
+   "fin": 4317,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Génesis X\nÓleo sobre dibond\n75 cm x 75 cm. 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 4270,
+   "fin": 4279,
+   "texto": "Génesis X"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4280,
+   "fin": 4297,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre dibond"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4298,
+   "fin": 4311,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "75 cm x 75 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4298,
+   "fin": 4300,
+   "texto": "75"
+  },
+  {
+   "tipo": "width",
+   "ini": 4306,
+   "fin": 4308,
+   "texto": "75"
+  },
+  {
+   "tipo": "date",
+   "ini": 4313,
+   "fin": 4317,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 4319,
+   "fin": 4324,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4326,
+   "fin": 4381
+  },
+  {
+   "tipo": "work",
+   "ini": 4326,
+   "fin": 4374,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Génesis XI\nÓleo sobre dibond\n75 cm x 75 cm. 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 4326,
+   "fin": 4336,
+   "texto": "Génesis XI"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4337,
+   "fin": 4354,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre dibond"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4355,
+   "fin": 4368,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "75 cm x 75 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4355,
+   "fin": 4357,
+   "texto": "75"
+  },
+  {
+   "tipo": "width",
+   "ini": 4363,
+   "fin": 4365,
+   "texto": "75"
+  },
+  {
+   "tipo": "date",
+   "ini": 4370,
+   "fin": 4374,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 4376,
+   "fin": 4381,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4383,
+   "fin": 4439
+  },
+  {
+   "tipo": "work",
+   "ini": 4383,
+   "fin": 4432,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Génesis XII\nÓleo sobre dibond\n75 cm x 75 cm. 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 4383,
+   "fin": 4394,
+   "texto": "Génesis XII"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4395,
+   "fin": 4412,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre dibond"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4413,
+   "fin": 4426,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "75 cm x 75 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4413,
+   "fin": 4415,
+   "texto": "75"
+  },
+  {
+   "tipo": "width",
+   "ini": 4421,
+   "fin": 4423,
+   "texto": "75"
+  },
+  {
+   "tipo": "date",
+   "ini": 4428,
+   "fin": 4432,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 4434,
+   "fin": 4439,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4441,
+   "fin": 4498
+  },
+  {
+   "tipo": "work",
+   "ini": 4441,
+   "fin": 4491,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Génesis XIII\nÓleo sobre dibond\n75 cm x 75 cm. 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 4441,
+   "fin": 4453,
+   "texto": "Génesis XIII"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4454,
+   "fin": 4471,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre dibond"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4472,
+   "fin": 4485,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "75 cm x 75 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4472,
+   "fin": 4474,
+   "texto": "75"
+  },
+  {
+   "tipo": "width",
+   "ini": 4480,
+   "fin": 4482,
+   "texto": "75"
+  },
+  {
+   "tipo": "date",
+   "ini": 4487,
+   "fin": 4491,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 4493,
+   "fin": 4498,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4500,
+   "fin": 4556
+  },
+  {
+   "tipo": "work",
+   "ini": 4500,
+   "fin": 4549,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Génesis XIV\nÓleo sobre dibond\n75 cm x 75 cm. 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 4500,
+   "fin": 4511,
+   "texto": "Génesis XIV"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4512,
+   "fin": 4529,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre dibond"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4530,
+   "fin": 4543,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "75 cm x 75 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4530,
+   "fin": 4532,
+   "texto": "75"
+  },
+  {
+   "tipo": "width",
+   "ini": 4538,
+   "fin": 4540,
+   "texto": "75"
+  },
+  {
+   "tipo": "date",
+   "ini": 4545,
+   "fin": 4549,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 4551,
+   "fin": 4557,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4558,
+   "fin": 4618
+  },
+  {
+   "tipo": "work",
+   "ini": 4558,
+   "fin": 4611,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Génesis XVIII\nÓleo sobre dibond\n150 cm x 150 cm. 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 4558,
+   "fin": 4571,
+   "texto": "Génesis XVIII"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4572,
+   "fin": 4589,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre dibond"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4590,
+   "fin": 4605,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150 cm x 150 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4590,
+   "fin": 4593,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 4599,
+   "fin": 4602,
+   "texto": "150"
+  },
+  {
+   "tipo": "date",
+   "ini": 4607,
+   "fin": 4611,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 4613,
+   "fin": 4618,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4620,
+   "fin": 4678
+  },
+  {
+   "tipo": "work",
+   "ini": 4620,
+   "fin": 4671,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Génesis XIX\nÓleo sobre dibond\n200 cm x 150 cm. 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 4620,
+   "fin": 4631,
+   "texto": "Génesis XIX"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4632,
+   "fin": 4649,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre dibond"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4650,
+   "fin": 4665,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 cm x 150 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4650,
+   "fin": 4653,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 4659,
+   "fin": 4662,
+   "texto": "150"
+  },
+  {
+   "tipo": "date",
+   "ini": 4667,
+   "fin": 4671,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 4673,
+   "fin": 4678,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4680,
+   "fin": 4737
+  },
+  {
+   "tipo": "work",
+   "ini": 4680,
+   "fin": 4730,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Génesis XX\nÓleo sobre dibond\n150 cm x 150 cm. 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 4680,
+   "fin": 4690,
+   "texto": "Génesis XX"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4691,
+   "fin": 4708,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre dibond"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4709,
+   "fin": 4724,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150 cm x 150 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4709,
+   "fin": 4712,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 4718,
+   "fin": 4721,
+   "texto": "150"
+  },
+  {
+   "tipo": "date",
+   "ini": 4726,
+   "fin": 4730,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 4732,
+   "fin": 4737,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4739,
+   "fin": 4797
+  },
+  {
+   "tipo": "work",
+   "ini": 4739,
+   "fin": 4790,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Génesis XXI\nÓleo sobre dibond\n150 cm x 150 cm. 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 4739,
+   "fin": 4750,
+   "texto": "Génesis XXI"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4751,
+   "fin": 4768,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre dibond"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4769,
+   "fin": 4784,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150 cm x 150 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4769,
+   "fin": 4772,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 4778,
+   "fin": 4781,
+   "texto": "150"
+  },
+  {
+   "tipo": "date",
+   "ini": 4786,
+   "fin": 4790,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 4792,
+   "fin": 4797,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4799,
+   "fin": 4858
+  },
+  {
+   "tipo": "work",
+   "ini": 4799,
+   "fin": 4851,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Génesis XXII\nÓleo sobre dibond\n150 cm x 150 cm. 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 4799,
+   "fin": 4811,
+   "texto": "Génesis XXII"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4812,
+   "fin": 4829,
+   "rasgos": {
+    "type": ""
+   },
+   "texto": "Óleo sobre dibond"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4830,
+   "fin": 4845,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150 cm x 150 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4830,
+   "fin": 4833,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 4839,
+   "fin": 4842,
+   "texto": "150"
+  },
+  {
+   "tipo": "date",
+   "ini": 4847,
+   "fin": 4851,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 4853,
+   "fin": 4858,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4860,
+   "fin": 4920
+  },
+  {
+   "tipo": "work",
+   "ini": 4860,
+   "fin": 4913,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Génesis XXIII\nÓleo sobre dibond\n150 cm x 150 cm. 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 4860,
+   "fin": 4873,
+   "texto": "Génesis XXIII"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4874,
+   "fin": 4891,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre dibond"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4892,
+   "fin": 4907,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150 cm x 150 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4892,
+   "fin": 4895,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 4901,
+   "fin": 4904,
+   "texto": "150"
+  },
+  {
+   "tipo": "date",
+   "ini": 4909,
+   "fin": 4913,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 4915,
+   "fin": 4920,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4922,
+   "fin": 4959
+  },
+  {
+   "tipo": "work",
+   "ini": 4922,
+   "fin": 4952,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Génesis XXIV\nÓleo sobre dibond"
+  },
+  {
+   "tipo": "title",
+   "ini": 4922,
+   "fin": 4934,
+   "texto": "Génesis XXIV"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4935,
+   "fin": 4952,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre dibond"
+  },
+  {
+   "tipo": "img",
+   "ini": 4954,
+   "fin": 4959,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4961,
+   "fin": 5016
+  },
+  {
+   "tipo": "work",
+   "ini": 4961,
+   "fin": 5009,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título\nÓleo sobre dibond\n75 cm x 75 cm. 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 4961,
+   "fin": 4971,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4972,
+   "fin": 4989,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre dibond"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4990,
+   "fin": 5003,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "75 cm x 75 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4990,
+   "fin": 4992,
+   "texto": "75"
+  },
+  {
+   "tipo": "width",
+   "ini": 4998,
+   "fin": 5000,
+   "texto": "75"
+  },
+  {
+   "tipo": "date",
+   "ini": 5005,
+   "fin": 5009,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 5011,
+   "fin": 5016,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5018,
+   "fin": 5073
+  },
+  {
+   "tipo": "work",
+   "ini": 5018,
+   "fin": 5066,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título\nÓleo sobre dibond\n75 cm x 75 cm. 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 5018,
+   "fin": 5028,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5029,
+   "fin": 5046,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre dibond"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5047,
+   "fin": 5060,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "75 cm x 75 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5047,
+   "fin": 5049,
+   "texto": "75"
+  },
+  {
+   "tipo": "width",
+   "ini": 5055,
+   "fin": 5057,
+   "texto": "75"
+  },
+  {
+   "tipo": "date",
+   "ini": 5062,
+   "fin": 5066,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 5068,
+   "fin": 5073,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5075,
+   "fin": 5130
+  },
+  {
+   "tipo": "work",
+   "ini": 5075,
+   "fin": 5123,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin título\nÓleo sobre dibond\n75 cm x 75 cm. 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 5075,
+   "fin": 5085,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5086,
+   "fin": 5103,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre dibond"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5104,
+   "fin": 5117,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "75 cm x 75 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5104,
+   "fin": 5106,
+   "texto": "75"
+  },
+  {
+   "tipo": "width",
+   "ini": 5112,
+   "fin": 5114,
+   "texto": "75"
+  },
+  {
+   "tipo": "date",
+   "ini": 5119,
+   "fin": 5123,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 5125,
+   "fin": 5130,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 5143,
+   "fin": 5187,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "GUILLERMO SIMÓN\nVillaviciosa (Asturias) 1968"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5143,
+   "fin": 5158,
+   "texto": "GUILLERMO SIMÓN"
+  },
+  {
+   "tipo": "birth",
+   "ini": 5159,
+   "fin": 5187
+  },
+  {
+   "tipo": "placeName",
+   "ini": 5159,
+   "fin": 5182,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Villaviciosa (Asturias)"
+  },
+  {
+   "tipo": "date",
+   "ini": 5183,
+   "fin": 5187,
+   "rasgos": {
+    "when": "1968"
+   },
+   "texto": "1968"
+  }
+ ]
+}

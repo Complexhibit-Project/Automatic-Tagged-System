@@ -1,0 +1,1801 @@
+{
+ "id": "cat_082_el_latido_de_la_tierra_y_el_agua_catalog",
+ "nombre_original": "el-latido-de-la-tierra-y-el-agua-catalogo",
+ "longitud_texto": 1638,
+ "sha256_texto": "1dc979cfdb1f5a660d928d5d2a8f80264b281802aa4fb08397b7f89817d9292d",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 23,
+   "texto": "WORK\n\nADALINA\nCOROMINES"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 23,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 6,
+   "fin": 23,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ADALINA\nCOROMINES"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6,
+   "fin": 23,
+   "texto": "ADALINA\nCOROMINES"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 25,
+   "fin": 1638
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25,
+   "fin": 97
+  },
+  {
+   "tipo": "work",
+   "ini": 25,
+   "fin": 90,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "CONSTRUCCIÓN HUELLA CIRCULAR\nTécnica mixta\n200 x 155cm\nEnero 2022"
+  },
+  {
+   "tipo": "title",
+   "ini": 25,
+   "fin": 53,
+   "texto": "CONSTRUCCIÓN HUELLA CIRCULAR"
+  },
+  {
+   "tipo": "technique",
+   "ini": 54,
+   "fin": 67,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 68,
+   "fin": 79,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 155cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 68,
+   "fin": 71,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 74,
+   "fin": 77,
+   "texto": "155"
+  },
+  {
+   "tipo": "date",
+   "ini": 80,
+   "fin": 90,
+   "rasgos": {
+    "when": "2022-01-01"
+   },
+   "texto": "Enero 2022"
+  },
+  {
+   "tipo": "img",
+   "ini": 92,
+   "fin": 97,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 99,
+   "fin": 173
+  },
+  {
+   "tipo": "work",
+   "ini": 99,
+   "fin": 166,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "DECONSTRUCCIÓN HUELLA CIRCULAR\nTécnica mixta\n200 x 155cm\nEnero 2022"
+  },
+  {
+   "tipo": "title",
+   "ini": 99,
+   "fin": 129,
+   "texto": "DECONSTRUCCIÓN HUELLA CIRCULAR"
+  },
+  {
+   "tipo": "technique",
+   "ini": 130,
+   "fin": 143,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 144,
+   "fin": 155,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 155cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 144,
+   "fin": 147,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 150,
+   "fin": 153,
+   "texto": "155"
+  },
+  {
+   "tipo": "date",
+   "ini": 156,
+   "fin": 166,
+   "rasgos": {
+    "when": "2022-01-01"
+   },
+   "texto": "Enero 2022"
+  },
+  {
+   "tipo": "img",
+   "ini": 168,
+   "fin": 173,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 175,
+   "fin": 235
+  },
+  {
+   "tipo": "work",
+   "ini": 175,
+   "fin": 228,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "CICATRIZ CURVA\nTécnica mixta\n200 x 183cm\nOctubre 2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 175,
+   "fin": 189,
+   "texto": "CICATRIZ CURVA"
+  },
+  {
+   "tipo": "technique",
+   "ini": 190,
+   "fin": 203,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 204,
+   "fin": 215,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 183cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 204,
+   "fin": 207,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 210,
+   "fin": 213,
+   "texto": "183"
+  },
+  {
+   "tipo": "date",
+   "ini": 216,
+   "fin": 228,
+   "rasgos": {
+    "when": "2021-10-01"
+   },
+   "texto": "Octubre 2021"
+  },
+  {
+   "tipo": "img",
+   "ini": 230,
+   "fin": 235,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 237,
+   "fin": 302
+  },
+  {
+   "tipo": "work",
+   "ini": 237,
+   "fin": 295,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "CICATRIZ HORIZONTAL\nTécnica mixta\n183 x 155cm\nOctubre 2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 237,
+   "fin": 256,
+   "texto": "CICATRIZ HORIZONTAL"
+  },
+  {
+   "tipo": "technique",
+   "ini": 257,
+   "fin": 270,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 271,
+   "fin": 282,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "183 x 155cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 271,
+   "fin": 274,
+   "texto": "183"
+  },
+  {
+   "tipo": "width",
+   "ini": 277,
+   "fin": 280,
+   "texto": "155"
+  },
+  {
+   "tipo": "date",
+   "ini": 283,
+   "fin": 295,
+   "rasgos": {
+    "when": "2021-10-01"
+   },
+   "texto": "Octubre 2021"
+  },
+  {
+   "tipo": "img",
+   "ini": 297,
+   "fin": 302,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 304,
+   "fin": 370
+  },
+  {
+   "tipo": "work",
+   "ini": 304,
+   "fin": 363,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "CICATRIZ VERTICAL\nTécnica mixta\n183 x 155cm\nSeptiembre 2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 304,
+   "fin": 321,
+   "texto": "CICATRIZ VERTICAL"
+  },
+  {
+   "tipo": "technique",
+   "ini": 322,
+   "fin": 335,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 336,
+   "fin": 347,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "183 x 155cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 336,
+   "fin": 339,
+   "texto": "183"
+  },
+  {
+   "tipo": "width",
+   "ini": 342,
+   "fin": 345,
+   "texto": "155"
+  },
+  {
+   "tipo": "date",
+   "ini": 348,
+   "fin": 363,
+   "rasgos": {
+    "when": "2021-09-01"
+   },
+   "texto": "Septiembre 2021"
+  },
+  {
+   "tipo": "img",
+   "ini": 365,
+   "fin": 370,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 372,
+   "fin": 423
+  },
+  {
+   "tipo": "work",
+   "ini": 372,
+   "fin": 416,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "RUPTURA\nTécnica mixta\n200 x 183cm\nEnero 2022"
+  },
+  {
+   "tipo": "title",
+   "ini": 372,
+   "fin": 379,
+   "texto": "RUPTURA"
+  },
+  {
+   "tipo": "technique",
+   "ini": 380,
+   "fin": 393,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 394,
+   "fin": 405,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 183cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 394,
+   "fin": 397,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 400,
+   "fin": 403,
+   "texto": "183"
+  },
+  {
+   "tipo": "date",
+   "ini": 406,
+   "fin": 416,
+   "rasgos": {
+    "when": "2022-01-01"
+   },
+   "texto": "Enero 2022"
+  },
+  {
+   "tipo": "img",
+   "ini": 418,
+   "fin": 423,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 425,
+   "fin": 476
+  },
+  {
+   "tipo": "work",
+   "ini": 425,
+   "fin": 469,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "DOBLE TEXTURA\nTécnica mixta\n130 x 105cm\n2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 425,
+   "fin": 438,
+   "texto": "DOBLE TEXTURA"
+  },
+  {
+   "tipo": "technique",
+   "ini": 439,
+   "fin": 452,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 453,
+   "fin": 464,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 105cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 453,
+   "fin": 456,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 459,
+   "fin": 462,
+   "texto": "105"
+  },
+  {
+   "tipo": "date",
+   "ini": 465,
+   "fin": 469,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 471,
+   "fin": 476,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 478,
+   "fin": 544
+  },
+  {
+   "tipo": "work",
+   "ini": 478,
+   "fin": 537,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "DECONSTRUCCIÓN ORGÁNICA\nTécnica mixta\n200 x 183cm\nMayo 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 478,
+   "fin": 501,
+   "texto": "DECONSTRUCCIÓN ORGÁNICA"
+  },
+  {
+   "tipo": "technique",
+   "ini": 502,
+   "fin": 515,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 516,
+   "fin": 527,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 183cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 516,
+   "fin": 519,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 522,
+   "fin": 525,
+   "texto": "183"
+  },
+  {
+   "tipo": "date",
+   "ini": 528,
+   "fin": 537,
+   "rasgos": {
+    "when": "2019-05-01"
+   },
+   "texto": "Mayo 2019"
+  },
+  {
+   "tipo": "img",
+   "ini": 539,
+   "fin": 544,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 546,
+   "fin": 619
+  },
+  {
+   "tipo": "work",
+   "ini": 546,
+   "fin": 612,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "CICATRIZ CON ONDULACIONES\nTécnica mixta\n200 x 183cm\nDiciembre 2020"
+  },
+  {
+   "tipo": "title",
+   "ini": 546,
+   "fin": 571,
+   "texto": "CICATRIZ CON ONDULACIONES"
+  },
+  {
+   "tipo": "technique",
+   "ini": 572,
+   "fin": 585,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 586,
+   "fin": 597,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 183cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 586,
+   "fin": 589,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 592,
+   "fin": 595,
+   "texto": "183"
+  },
+  {
+   "tipo": "date",
+   "ini": 598,
+   "fin": 612,
+   "rasgos": {
+    "when": "2020-12-01"
+   },
+   "texto": "Diciembre 2020"
+  },
+  {
+   "tipo": "img",
+   "ini": 614,
+   "fin": 619,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 621,
+   "fin": 689
+  },
+  {
+   "tipo": "work",
+   "ini": 621,
+   "fin": 682,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "DECONSTRUCCIÓN PLATA\nTécnica mixta\n160 x 107cm\nDiciembre 2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 621,
+   "fin": 641,
+   "texto": "DECONSTRUCCIÓN PLATA"
+  },
+  {
+   "tipo": "technique",
+   "ini": 642,
+   "fin": 655,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 656,
+   "fin": 667,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "160 x 107cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 656,
+   "fin": 659,
+   "texto": "160"
+  },
+  {
+   "tipo": "width",
+   "ini": 662,
+   "fin": 665,
+   "texto": "107"
+  },
+  {
+   "tipo": "date",
+   "ini": 668,
+   "fin": 682,
+   "rasgos": {
+    "when": "2021-12-01"
+   },
+   "texto": "Diciembre 2021"
+  },
+  {
+   "tipo": "img",
+   "ini": 684,
+   "fin": 689,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 691,
+   "fin": 758
+  },
+  {
+   "tipo": "work",
+   "ini": 691,
+   "fin": 751,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "DECONSTRUCCIÓN OCRE\nTécnica mixta\n160 x 107cm\nDiciembre 2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 691,
+   "fin": 710,
+   "texto": "DECONSTRUCCIÓN OCRE"
+  },
+  {
+   "tipo": "technique",
+   "ini": 711,
+   "fin": 724,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 725,
+   "fin": 736,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "160 x 107cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 725,
+   "fin": 728,
+   "texto": "160"
+  },
+  {
+   "tipo": "width",
+   "ini": 731,
+   "fin": 734,
+   "texto": "107"
+  },
+  {
+   "tipo": "date",
+   "ini": 737,
+   "fin": 751,
+   "rasgos": {
+    "when": "2021-12-01"
+   },
+   "texto": "Diciembre 2021"
+  },
+  {
+   "tipo": "img",
+   "ini": 753,
+   "fin": 758,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 760,
+   "fin": 832
+  },
+  {
+   "tipo": "work",
+   "ini": 760,
+   "fin": 825,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "MATERIA CON ALMA MARRÓN\nTécnica mixta\n155 x 183cm\nSeptiembre 2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 760,
+   "fin": 783,
+   "texto": "MATERIA CON ALMA MARRÓN"
+  },
+  {
+   "tipo": "technique",
+   "ini": 784,
+   "fin": 797,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 798,
+   "fin": 809,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "155 x 183cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 798,
+   "fin": 801,
+   "texto": "155"
+  },
+  {
+   "tipo": "width",
+   "ini": 804,
+   "fin": 807,
+   "texto": "183"
+  },
+  {
+   "tipo": "date",
+   "ini": 810,
+   "fin": 825,
+   "rasgos": {
+    "when": "2021-09-01"
+   },
+   "texto": "Septiembre 2021"
+  },
+  {
+   "tipo": "img",
+   "ini": 827,
+   "fin": 832,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 834,
+   "fin": 914
+  },
+  {
+   "tipo": "work",
+   "ini": 834,
+   "fin": 907,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "MATERIA CON ALMA MARRÓN Y NEGRO\nTécnica mixta\n155 x 183cm\nSeptiembre 2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 834,
+   "fin": 865,
+   "texto": "MATERIA CON ALMA MARRÓN Y NEGRO"
+  },
+  {
+   "tipo": "technique",
+   "ini": 866,
+   "fin": 879,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 880,
+   "fin": 891,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "155 x 183cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 880,
+   "fin": 883,
+   "texto": "155"
+  },
+  {
+   "tipo": "width",
+   "ini": 886,
+   "fin": 889,
+   "texto": "183"
+  },
+  {
+   "tipo": "date",
+   "ini": 892,
+   "fin": 907,
+   "rasgos": {
+    "when": "2021-09-01"
+   },
+   "texto": "Septiembre 2021"
+  },
+  {
+   "tipo": "img",
+   "ini": 909,
+   "fin": 914,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 916,
+   "fin": 989
+  },
+  {
+   "tipo": "work",
+   "ini": 916,
+   "fin": 982,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "TIERRAS GRIETAS Y FISURAS\nTécnica mixta\n200 x 183cm\nNoviembre 2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 916,
+   "fin": 941,
+   "texto": "TIERRAS GRIETAS Y FISURAS"
+  },
+  {
+   "tipo": "technique",
+   "ini": 942,
+   "fin": 955,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 956,
+   "fin": 967,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 183cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 956,
+   "fin": 959,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 962,
+   "fin": 965,
+   "texto": "183"
+  },
+  {
+   "tipo": "date",
+   "ini": 968,
+   "fin": 982,
+   "rasgos": {
+    "when": "2021-11-01"
+   },
+   "texto": "Noviembre 2021"
+  },
+  {
+   "tipo": "img",
+   "ini": 984,
+   "fin": 989,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 991,
+   "fin": 1069
+  },
+  {
+   "tipo": "work",
+   "ini": 991,
+   "fin": 1062,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "CICATRIZ DECONSTRUIDA HORIZONTAL\nTécnica mixta\n183 x 155cm\nOctubre 2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 991,
+   "fin": 1023,
+   "texto": "CICATRIZ DECONSTRUIDA HORIZONTAL"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1024,
+   "fin": 1037,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1038,
+   "fin": 1049,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "183 x 155cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1038,
+   "fin": 1041,
+   "texto": "183"
+  },
+  {
+   "tipo": "width",
+   "ini": 1044,
+   "fin": 1047,
+   "texto": "155"
+  },
+  {
+   "tipo": "date",
+   "ini": 1050,
+   "fin": 1062,
+   "rasgos": {
+    "when": "2021-10-01"
+   },
+   "texto": "Octubre 2021"
+  },
+  {
+   "tipo": "img",
+   "ini": 1064,
+   "fin": 1069,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1071,
+   "fin": 1140
+  },
+  {
+   "tipo": "work",
+   "ini": 1071,
+   "fin": 1133,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "DECONSTRUCCIÓN CIRCULAR\nTécnica mixta\n200 x 183cm\nOctubre 2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 1071,
+   "fin": 1094,
+   "texto": "DECONSTRUCCIÓN CIRCULAR"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1095,
+   "fin": 1108,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1109,
+   "fin": 1120,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 183cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1109,
+   "fin": 1112,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 1115,
+   "fin": 1118,
+   "texto": "183"
+  },
+  {
+   "tipo": "date",
+   "ini": 1121,
+   "fin": 1133,
+   "rasgos": {
+    "when": "2021-10-01"
+   },
+   "texto": "Octubre 2021"
+  },
+  {
+   "tipo": "img",
+   "ini": 1135,
+   "fin": 1140,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1142,
+   "fin": 1220
+  },
+  {
+   "tipo": "work",
+   "ini": 1142,
+   "fin": 1213,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "DECONSTRUCCIÓN DE DOBLE CICATRIZ\nTécnica mixta\n183 x 155cm\nOctubre 2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 1142,
+   "fin": 1174,
+   "texto": "DECONSTRUCCIÓN DE DOBLE CICATRIZ"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1175,
+   "fin": 1188,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1189,
+   "fin": 1200,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "183 x 155cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1189,
+   "fin": 1192,
+   "texto": "183"
+  },
+  {
+   "tipo": "width",
+   "ini": 1195,
+   "fin": 1198,
+   "texto": "155"
+  },
+  {
+   "tipo": "date",
+   "ini": 1201,
+   "fin": 1213,
+   "rasgos": {
+    "when": "2021-10-01"
+   },
+   "texto": "Octubre 2021"
+  },
+  {
+   "tipo": "img",
+   "ini": 1215,
+   "fin": 1220,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1222,
+   "fin": 1274
+  },
+  {
+   "tipo": "work",
+   "ini": 1222,
+   "fin": 1267,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "SPHERE I\nTécnica mixta\n200 x 183cm\nEnero 2022"
+  },
+  {
+   "tipo": "title",
+   "ini": 1222,
+   "fin": 1230,
+   "texto": "SPHERE I"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1231,
+   "fin": 1244,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1245,
+   "fin": 1256,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 183cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1245,
+   "fin": 1248,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 1251,
+   "fin": 1254,
+   "texto": "183"
+  },
+  {
+   "tipo": "date",
+   "ini": 1257,
+   "fin": 1267,
+   "rasgos": {
+    "when": "2022-01-01"
+   },
+   "texto": "Enero 2022"
+  },
+  {
+   "tipo": "img",
+   "ini": 1269,
+   "fin": 1274,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1276,
+   "fin": 1329
+  },
+  {
+   "tipo": "work",
+   "ini": 1276,
+   "fin": 1323,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "SPHERE II\nTécnica mixta\n200 x 183cm\nEnero 2022\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 1276,
+   "fin": 1285,
+   "texto": "SPHERE II"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1286,
+   "fin": 1299,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1300,
+   "fin": 1311,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 183cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1300,
+   "fin": 1303,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 1306,
+   "fin": 1309,
+   "texto": "183"
+  },
+  {
+   "tipo": "date",
+   "ini": 1312,
+   "fin": 1322,
+   "rasgos": {
+    "when": "2022-01-01"
+   },
+   "texto": "Enero 2022"
+  },
+  {
+   "tipo": "img",
+   "ini": 1324,
+   "fin": 1329,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1331,
+   "fin": 1433
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 1331,
+   "fin": 1426,
+   "rasgos": {
+    "type": "sculpture",
+    "size": "3"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 1331,
+   "fin": 1361,
+   "texto": "SERIE LOS COLORES DE LA TIERRA"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1362,
+   "fin": 1375,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1376,
+   "fin": 1389,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "25 x 25 x 8cm"
+  },
+  {
+   "tipo": "work",
+   "ini": 1376,
+   "fin": 1389,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "25 x 25 x 8cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1376,
+   "fin": 1378,
+   "texto": "25"
+  },
+  {
+   "tipo": "width",
+   "ini": 1381,
+   "fin": 1383,
+   "texto": "25"
+  },
+  {
+   "tipo": "depth",
+   "ini": 1386,
+   "fin": 1387,
+   "texto": "8"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1390,
+   "fin": 1401,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 30 8cm"
+  },
+  {
+   "tipo": "work",
+   "ini": 1390,
+   "fin": 1401,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "30 x 30 8cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1390,
+   "fin": 1392,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 1395,
+   "fin": 1397,
+   "texto": "30"
+  },
+  {
+   "tipo": "depth",
+   "ini": 1398,
+   "fin": 1399,
+   "texto": "8"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1402,
+   "fin": 1415,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "39 x 39 x 8cm"
+  },
+  {
+   "tipo": "work",
+   "ini": 1402,
+   "fin": 1415,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "39 x 39 x 8cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1402,
+   "fin": 1404,
+   "texto": "39"
+  },
+  {
+   "tipo": "width",
+   "ini": 1407,
+   "fin": 1409,
+   "texto": "39"
+  },
+  {
+   "tipo": "depth",
+   "ini": 1412,
+   "fin": 1413,
+   "texto": "8"
+  },
+  {
+   "tipo": "date",
+   "ini": 1416,
+   "fin": 1426,
+   "rasgos": {
+    "when": "2022-01-01"
+   },
+   "texto": "Enero 2022"
+  },
+  {
+   "tipo": "img",
+   "ini": 1428,
+   "fin": 1433,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1435,
+   "fin": 1477
+  },
+  {
+   "tipo": "work",
+   "ini": 1435,
+   "fin": 1470,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ESCULTURA\n50 x 25 x 25cm\nEnero 2022"
+  },
+  {
+   "tipo": "title",
+   "ini": 1435,
+   "fin": 1444,
+   "texto": "ESCULTURA"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1445,
+   "fin": 1459,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 25 x 25cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1445,
+   "fin": 1447,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 1450,
+   "fin": 1452,
+   "texto": "25"
+  },
+  {
+   "tipo": "depth",
+   "ini": 1455,
+   "fin": 1457,
+   "texto": "25"
+  },
+  {
+   "tipo": "date",
+   "ini": 1460,
+   "fin": 1470,
+   "rasgos": {
+    "when": "2022-01-01"
+   },
+   "texto": "Enero 2022"
+  },
+  {
+   "tipo": "img",
+   "ini": 1472,
+   "fin": 1477,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1479,
+   "fin": 1551
+  },
+  {
+   "tipo": "work",
+   "ini": 1479,
+   "fin": 1544,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ESCULTURA\nCubo 20 x 20 x 20 cm\nEscultura 30 x 30 x 9cm\nEnero 2022"
+  },
+  {
+   "tipo": "title",
+   "ini": 1479,
+   "fin": 1488,
+   "texto": "ESCULTURA"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1494,
+   "fin": 1509,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "20 x 20 x 20 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1494,
+   "fin": 1496,
+   "texto": "20"
+  },
+  {
+   "tipo": "width",
+   "ini": 1499,
+   "fin": 1501,
+   "texto": "20"
+  },
+  {
+   "tipo": "depth",
+   "ini": 1504,
+   "fin": 1506,
+   "texto": "20"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1520,
+   "fin": 1533,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 30 x 9cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1520,
+   "fin": 1522,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 1525,
+   "fin": 1527,
+   "texto": "30"
+  },
+  {
+   "tipo": "depth",
+   "ini": 1530,
+   "fin": 1531,
+   "texto": "9"
+  },
+  {
+   "tipo": "date",
+   "ini": 1534,
+   "fin": 1544,
+   "rasgos": {
+    "when": ""
+   },
+   "texto": "Enero 2022"
+  },
+  {
+   "tipo": "img",
+   "ini": 1546,
+   "fin": 1551,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1553,
+   "fin": 1595
+  },
+  {
+   "tipo": "work",
+   "ini": 1553,
+   "fin": 1588,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ESCULTURA\n50 x 25 x 25cm\nEnero 2022"
+  },
+  {
+   "tipo": "title",
+   "ini": 1553,
+   "fin": 1562,
+   "texto": "ESCULTURA"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1563,
+   "fin": 1577,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 25 x 25cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1563,
+   "fin": 1565,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 1568,
+   "fin": 1570,
+   "texto": "25"
+  },
+  {
+   "tipo": "depth",
+   "ini": 1573,
+   "fin": 1575,
+   "texto": "25"
+  },
+  {
+   "tipo": "date",
+   "ini": 1578,
+   "fin": 1588,
+   "rasgos": {
+    "when": "2022-01-01"
+   },
+   "texto": "Enero 2022"
+  },
+  {
+   "tipo": "img",
+   "ini": 1590,
+   "fin": 1595,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1597,
+   "fin": 1638
+  },
+  {
+   "tipo": "work",
+   "ini": 1597,
+   "fin": 1631,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ESCULTURA\n39 x 39 x 8cm\nEnero 2022"
+  },
+  {
+   "tipo": "title",
+   "ini": 1597,
+   "fin": 1606,
+   "texto": "ESCULTURA"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1607,
+   "fin": 1620,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "39 x 39 x 8cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1607,
+   "fin": 1609,
+   "texto": "39"
+  },
+  {
+   "tipo": "width",
+   "ini": 1612,
+   "fin": 1614,
+   "texto": "39"
+  },
+  {
+   "tipo": "depth",
+   "ini": 1617,
+   "fin": 1618,
+   "texto": "8"
+  },
+  {
+   "tipo": "date",
+   "ini": 1621,
+   "fin": 1631,
+   "rasgos": {
+    "when": "2022-01-01"
+   },
+   "texto": "Enero 2022"
+  },
+  {
+   "tipo": "img",
+   "ini": 1633,
+   "fin": 1638,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  }
+ ]
+}

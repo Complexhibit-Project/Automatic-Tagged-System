@@ -1,0 +1,3109 @@
+{
+ "id": "cat_022_9_catalogo_luis_gordillo_com",
+ "nombre_original": "9. catalogo-luis-gordillo_com",
+ "longitud_texto": 15206,
+ "sha256_texto": "5dc1b0f37fba598f1c522c5b2d56de72d2f8cf7aa782ab97b87e12f0e6880fa7",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 1163,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 28,
+   "texto": "....carmen más etcéteras...."
+  },
+  {
+   "tipo": "person",
+   "ini": 30,
+   "fin": 43,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "LUIS GORDILLO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30,
+   "fin": 43,
+   "texto": "LUIS GORDILLO"
+  },
+  {
+   "tipo": "institution",
+   "ini": 45,
+   "fin": 91,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser, host"
+   },
+   "texto": "INSTITUTO DE LA CULTURA\nY LAS ARTES DE SEVILLA"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 84,
+   "fin": 91,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "SEVILLA"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 104,
+   "fin": 111,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "person",
+   "ini": 112,
+   "fin": 124,
+   "texto": "Juan Espadas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 112,
+   "fin": 124,
+   "texto": "Juan Espadas"
+  },
+  {
+   "tipo": "person",
+   "ini": 136,
+   "fin": 157,
+   "rasgos": {
+    "role": ""
+   },
+   "texto": "Joaquín Luis Castillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 136,
+   "fin": 157,
+   "texto": "Joaquín Luis Castillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 173,
+   "fin": 186,
+   "rasgos": {
+    "role": "vicePresident"
+   },
+   "texto": "Antonio Muñoz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 173,
+   "fin": 186,
+   "texto": "Antonio Muñoz"
+  },
+  {
+   "tipo": "person",
+   "ini": 216,
+   "fin": 228,
+   "rasgos": {
+    "role": "generalDirector"
+   },
+   "texto": "Isabel Ojeda"
+  },
+  {
+   "tipo": "persName",
+   "ini": 216,
+   "fin": 228,
+   "texto": "Isabel Ojeda"
+  },
+  {
+   "tipo": "person",
+   "ini": 237,
+   "fin": 251,
+   "rasgos": {
+    "role": "manager"
+   },
+   "texto": "Victoria Bravo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 237,
+   "fin": 251,
+   "texto": "Victoria Bravo"
+  },
+  {
+   "tipo": "person",
+   "ini": 274,
+   "fin": 287,
+   "rasgos": {
+    "role": "programmeDirector"
+   },
+   "texto": "Paco Cerrejón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 274,
+   "fin": 287,
+   "texto": "Paco Cerrejón"
+  },
+  {
+   "tipo": "person",
+   "ini": 337,
+   "fin": 350,
+   "rasgos": {
+    "role": "equipmentDirector"
+   },
+   "texto": "Amapola López"
+  },
+  {
+   "tipo": "persName",
+   "ini": 337,
+   "fin": 350,
+   "texto": "Amapola López"
+  },
+  {
+   "tipo": "person",
+   "ini": 415,
+   "fin": 426,
+   "rasgos": {
+    "role": "generalCoordinator"
+   },
+   "texto": "María Genis"
+  },
+  {
+   "tipo": "persName",
+   "ini": 415,
+   "fin": 426,
+   "texto": "María Genis"
+  },
+  {
+   "tipo": "person",
+   "ini": 459,
+   "fin": 471,
+   "rasgos": {
+    "role": "technician"
+   },
+   "texto": "Ana Ramírez "
+  },
+  {
+   "tipo": "persName",
+   "ini": 459,
+   "fin": 470,
+   "texto": "Ana Ramírez"
+  },
+  {
+   "tipo": "person",
+   "ini": 473,
+   "fin": 489,
+   "rasgos": {
+    "role": "technician"
+   },
+   "texto": "Misael Rodríguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 473,
+   "fin": 489,
+   "texto": "Misael Rodríguez"
+  },
+  {
+   "tipo": "person",
+   "ini": 490,
+   "fin": 506,
+   "rasgos": {
+    "role": "technician"
+   },
+   "texto": "Olivia Rodríguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 490,
+   "fin": 506,
+   "texto": "Olivia Rodríguez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 508,
+   "fin": 531,
+   "rasgos": {
+    "type": "foundation",
+    "role": "patron"
+   },
+   "texto": "FUNDACIÓN LUIS GORDILLO"
+  },
+  {
+   "tipo": "person",
+   "ini": 554,
+   "fin": 567,
+   "rasgos": {
+    "role": "president"
+   },
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 554,
+   "fin": 567,
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 583,
+   "fin": 596,
+   "rasgos": {
+    "role": "vicePresident"
+   },
+   "texto": "Pilar Linares"
+  },
+  {
+   "tipo": "persName",
+   "ini": 583,
+   "fin": 596,
+   "texto": "Pilar Linares"
+  },
+  {
+   "tipo": "person",
+   "ini": 605,
+   "fin": 624,
+   "rasgos": {
+    "role": "vocal"
+   },
+   "texto": "Manuel Borja Villel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 605,
+   "fin": 624,
+   "texto": "Manuel Borja Villel"
+  },
+  {
+   "tipo": "person",
+   "ini": 625,
+   "fin": 638,
+   "rasgos": {
+    "role": "vocal"
+   },
+   "texto": "Pilar Citoler"
+  },
+  {
+   "tipo": "persName",
+   "ini": 625,
+   "fin": 638,
+   "texto": "Pilar Citoler"
+  },
+  {
+   "tipo": "person",
+   "ini": 639,
+   "fin": 663,
+   "rasgos": {
+    "role": "vocal"
+   },
+   "texto": "Luis F. Martínez-Montiel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 639,
+   "fin": 663,
+   "texto": "Luis F. Martínez-Montiel"
+  },
+  {
+   "tipo": "person",
+   "ini": 675,
+   "fin": 690,
+   "rasgos": {
+    "role": "secretary"
+   },
+   "texto": "José M. R-Ponga"
+  },
+  {
+   "tipo": "persName",
+   "ini": 675,
+   "fin": 690,
+   "texto": "José M. R-Ponga"
+  },
+  {
+   "tipo": "person",
+   "ini": 713,
+   "fin": 739,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Luis F. Martínez - Montiel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 713,
+   "fin": 739,
+   "texto": "Luis F. Martínez - Montiel"
+  },
+  {
+   "tipo": "institution",
+   "ini": 766,
+   "fin": 783,
+   "rasgos": {
+    "type": "company",
+    "role": "exhibitionDesigner"
+   },
+   "texto": "Frade Arquitectos"
+  },
+  {
+   "tipo": "institution",
+   "ini": 806,
+   "fin": 822,
+   "rasgos": {
+    "type": "company"
+   },
+   "texto": "Sola Carpinteros"
+  },
+  {
+   "tipo": "institution",
+   "ini": 834,
+   "fin": 862,
+   "rasgos": {
+    "type": "company",
+    "role": "transporter"
+   },
+   "texto": "JOSEARTE - Espacio Artístico"
+  },
+  {
+   "tipo": "institution",
+   "ini": 870,
+   "fin": 877,
+   "rasgos": {
+    "type": "insuranceCompany"
+   },
+   "texto": "AXA ART"
+  },
+  {
+   "tipo": "institution",
+   "ini": 888,
+   "fin": 905,
+   "rasgos": {
+    "type": "company",
+    "role": "framing"
+   },
+   "texto": "Cuadros Velázquez"
+  },
+  {
+   "tipo": "person",
+   "ini": 944,
+   "fin": 960,
+   "rasgos": {
+    "role": "editorialDesigner"
+   },
+   "texto": "Olivia Rodríguez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 944,
+   "fin": 960,
+   "texto": "Olivia Rodríguez"
+  },
+  {
+   "tipo": "institution",
+   "ini": 971,
+   "fin": 991,
+   "rasgos": {
+    "type": "company",
+    "role": "printer"
+   },
+   "texto": "Avante de Publicidad"
+  },
+  {
+   "tipo": "person",
+   "ini": 1004,
+   "fin": 1017,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Manuel Blanco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1004,
+   "fin": 1017,
+   "texto": "Manuel Blanco"
+  },
+  {
+   "tipo": "person",
+   "ini": 1054,
+   "fin": 1067,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1054,
+   "fin": 1067,
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1118,
+   "fin": 1131,
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 1118,
+   "fin": 1131,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 1211,
+   "fin": 1236,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Luis F. Martínez -Montiel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1211,
+   "fin": 1236,
+   "texto": "Luis F. Martínez -Montiel"
+  },
+  {
+   "tipo": "date",
+   "ini": 1330,
+   "fin": 1361,
+   "rasgos": {
+    "from": "2019-04-09",
+    "to": "2019-10-13"
+   },
+   "texto": "9 de abril / 13 de octubre 2019"
+  },
+  {
+   "tipo": "venue",
+   "ini": 1363,
+   "fin": 1404,
+   "texto": "ESPACIO SANTA CLARA\nc/ Becas, s/n Sevilla"
+  },
+  {
+   "tipo": "address",
+   "ini": 1383,
+   "fin": 1396,
+   "texto": "c/ Becas, s/n"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1397,
+   "fin": 1404,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "title",
+   "ini": 1442,
+   "fin": 1470,
+   "texto": "....carmen más etcéteras...."
+  },
+  {
+   "tipo": "person",
+   "ini": 1472,
+   "fin": 1485,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "LUIS GORDILLO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1472,
+   "fin": 1485,
+   "texto": "LUIS GORDILLO"
+  },
+  {
+   "tipo": "person",
+   "ini": 1828,
+   "fin": 1841,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1828,
+   "fin": 1841,
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 1845,
+   "fin": 1858,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1845,
+   "fin": 1858,
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 2579,
+   "fin": 2592,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2579,
+   "fin": 2592,
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 2716,
+   "fin": 2740,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Luis F. Martinez-Montiel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2716,
+   "fin": 2740,
+   "texto": "Luis F. Martinez-Montiel"
+  },
+  {
+   "tipo": "person",
+   "ini": 3043,
+   "fin": 3056,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3043,
+   "fin": 3056,
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 3142,
+   "fin": 3367,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 3181,
+   "fin": 3208,
+   "texto": "“...carmenmásetcéterAs...” "
+  },
+  {
+   "tipo": "person",
+   "ini": 3613,
+   "fin": 3626,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3613,
+   "fin": 3626,
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 5771,
+   "fin": 5795,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Luis F. Martínez-Montiel"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5771,
+   "fin": 5795,
+   "texto": "Luis F. Martínez-Montiel"
+  },
+  {
+   "tipo": "title",
+   "ini": 5819,
+   "fin": 5844,
+   "texto": "...carmenmásetcéterAs ..."
+  },
+  {
+   "tipo": "person",
+   "ini": 6237,
+   "fin": 6245,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gordillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6237,
+   "fin": 6245,
+   "texto": "Gordillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 6846,
+   "fin": 6859,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6846,
+   "fin": 6859,
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 7031,
+   "fin": 7039,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gordillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7031,
+   "fin": 7039,
+   "texto": "Gordillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 7313,
+   "fin": 7321,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gordillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7313,
+   "fin": 7321,
+   "texto": "Gordillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 8533,
+   "fin": 8541,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gordillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8533,
+   "fin": 8541,
+   "texto": "Gordillo"
+  },
+  {
+   "tipo": "person",
+   "ini": 8951,
+   "fin": 8959,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gordillo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8951,
+   "fin": 8959,
+   "texto": "Gordillo"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 9285,
+   "fin": 12305
+  },
+  {
+   "tipo": "title",
+   "ini": 9285,
+   "fin": 9291,
+   "texto": "CARMEN"
+  },
+  {
+   "tipo": "img",
+   "ini": 9293,
+   "fin": 9298,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9293,
+   "fin": 9298,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 9300,
+   "fin": 9305,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9300,
+   "fin": 9305,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 9307,
+   "fin": 9312,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9307,
+   "fin": 9312,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 9314,
+   "fin": 9319,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9314,
+   "fin": 9319,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 9321,
+   "fin": 9326,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9321,
+   "fin": 9326,
+   "rasgos": {
+    "type": ""
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 9328,
+   "fin": 9333,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9328,
+   "fin": 9333,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 9335,
+   "fin": 9340,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9335,
+   "fin": 9340,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 9342,
+   "fin": 9347,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9342,
+   "fin": 9347,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 9349,
+   "fin": 9354,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9349,
+   "fin": 9354,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 9356,
+   "fin": 9361,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9356,
+   "fin": 9361,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 9363,
+   "fin": 9368,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9363,
+   "fin": 9368,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 9370,
+   "fin": 9375,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9370,
+   "fin": 9375,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 9377,
+   "fin": 9382,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9377,
+   "fin": 9382,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 9384,
+   "fin": 9389,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9384,
+   "fin": 9389,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "text",
+   "ini": 9392,
+   "fin": 9546
+  },
+  {
+   "tipo": "img",
+   "ini": 9548,
+   "fin": 9553,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9548,
+   "fin": 9553,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 9555,
+   "fin": 9560,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9555,
+   "fin": 9560,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "text",
+   "ini": 9562,
+   "fin": 9604
+  },
+  {
+   "tipo": "img",
+   "ini": 9606,
+   "fin": 9611,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9606,
+   "fin": 9611,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 9613,
+   "fin": 9618,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9613,
+   "fin": 9618,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 9620,
+   "fin": 9625,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9620,
+   "fin": 9625,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 9627,
+   "fin": 9632,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9627,
+   "fin": 9632,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 9634,
+   "fin": 9639,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9634,
+   "fin": 9639,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 9641,
+   "fin": 9646,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9641,
+   "fin": 9646,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 9648,
+   "fin": 9653,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 9648,
+   "fin": 9653,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "text",
+   "ini": 9656,
+   "fin": 10213
+  },
+  {
+   "tipo": "img",
+   "ini": 10215,
+   "fin": 10220,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10215,
+   "fin": 10220,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 10222,
+   "fin": 10228,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10222,
+   "fin": 10227,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 10229,
+   "fin": 10234,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10229,
+   "fin": 10234,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 10236,
+   "fin": 10241,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10236,
+   "fin": 10241,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 10243,
+   "fin": 10248,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10243,
+   "fin": 10248,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "text",
+   "ini": 10251,
+   "fin": 10598
+  },
+  {
+   "tipo": "img",
+   "ini": 10600,
+   "fin": 10605,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10600,
+   "fin": 10605,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 10607,
+   "fin": 10612,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10607,
+   "fin": 10612,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "img",
+   "ini": 10614,
+   "fin": 10619,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10614,
+   "fin": 10619,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "[img]"
+  },
+  {
+   "tipo": "text",
+   "ini": 10622,
+   "fin": 10833
+  },
+  {
+   "tipo": "text",
+   "ini": 10835,
+   "fin": 10936
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 10939,
+   "fin": 11039
+  },
+  {
+   "tipo": "title",
+   "ini": 10939,
+   "fin": 10949,
+   "texto": "PAYSEYES 2"
+  },
+  {
+   "tipo": "img",
+   "ini": 10951,
+   "fin": 10956,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 10958,
+   "fin": 11039,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Payseyes 2. Tríptico. 161 x 333 cm.\nTécnica mixta sobre lienzo\n2016\nDonación: 1/5"
+  },
+  {
+   "tipo": "title",
+   "ini": 10958,
+   "fin": 10968,
+   "texto": "Payseyes 2"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 10980,
+   "fin": 10992,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "161 x 333 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 10980,
+   "fin": 10983,
+   "texto": "161"
+  },
+  {
+   "tipo": "width",
+   "ini": 10986,
+   "fin": 10989,
+   "texto": "333"
+  },
+  {
+   "tipo": "technique",
+   "ini": 10994,
+   "fin": 11020,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 11021,
+   "fin": 11025,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 11026,
+   "fin": 11039
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 11042,
+   "fin": 12305,
+   "rasgos": {
+    "size": "31",
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 11042,
+   "fin": 11063,
+   "texto": "LISTA DE OBRAS CARMEN"
+  },
+  {
+   "tipo": "title",
+   "ini": 11057,
+   "fin": 11063,
+   "texto": "CARMEN"
+  },
+  {
+   "tipo": "work",
+   "ini": 11065,
+   "fin": 11098,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 19\nCarmen 01,\n70 x 52 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11065,
+   "fin": 11098
+  },
+  {
+   "tipo": "title",
+   "ini": 11071,
+   "fin": 11080,
+   "texto": "Carmen 01"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11082,
+   "fin": 11092,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 52 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11082,
+   "fin": 11084,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 11087,
+   "fin": 11089,
+   "texto": "52"
+  },
+  {
+   "tipo": "date",
+   "ini": 11094,
+   "fin": 11098,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 11100,
+   "fin": 11136,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 20-21\nCarmen 02,\n51 x 70 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11100,
+   "fin": 11136
+  },
+  {
+   "tipo": "title",
+   "ini": 11109,
+   "fin": 11118,
+   "texto": "Carmen 02"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11120,
+   "fin": 11130,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "51 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11120,
+   "fin": 11122,
+   "texto": "51"
+  },
+  {
+   "tipo": "width",
+   "ini": 11125,
+   "fin": 11127,
+   "texto": "70"
+  },
+  {
+   "tipo": "date",
+   "ini": 11132,
+   "fin": 11136,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 11138,
+   "fin": 11174,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 22-23\nCarmen 03,\n50 x 70 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11138,
+   "fin": 11174
+  },
+  {
+   "tipo": "title",
+   "ini": 11147,
+   "fin": 11156,
+   "texto": "Carmen 03"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11158,
+   "fin": 11168,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11158,
+   "fin": 11160,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 11163,
+   "fin": 11165,
+   "texto": "70"
+  },
+  {
+   "tipo": "date",
+   "ini": 11170,
+   "fin": 11174,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 11176,
+   "fin": 11214,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 24-25\nCarmen 04,\n50 x 69,5 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11176,
+   "fin": 11214
+  },
+  {
+   "tipo": "title",
+   "ini": 11185,
+   "fin": 11194,
+   "texto": "Carmen 04"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11196,
+   "fin": 11208,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 69,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11196,
+   "fin": 11198,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 11201,
+   "fin": 11205,
+   "texto": "69,5"
+  },
+  {
+   "tipo": "date",
+   "ini": 11210,
+   "fin": 11214,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 11216,
+   "fin": 11252,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 26-27\nCarmen 05,\n50 x 69 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11216,
+   "fin": 11252
+  },
+  {
+   "tipo": "title",
+   "ini": 11225,
+   "fin": 11234,
+   "texto": "Carmen 05"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11236,
+   "fin": 11246,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 69 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11236,
+   "fin": 11238,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 11241,
+   "fin": 11243,
+   "texto": "69"
+  },
+  {
+   "tipo": "date",
+   "ini": 11248,
+   "fin": 11252,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 11254,
+   "fin": 11289,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 28\nCarmen 06,\n59,5 x 42 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11254,
+   "fin": 11289
+  },
+  {
+   "tipo": "title",
+   "ini": 11260,
+   "fin": 11269,
+   "texto": "Carmen 06"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11271,
+   "fin": 11283,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "59,5 x 42 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11271,
+   "fin": 11275,
+   "texto": "59,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 11278,
+   "fin": 11280,
+   "texto": "42"
+  },
+  {
+   "tipo": "date",
+   "ini": 11285,
+   "fin": 11289,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 11291,
+   "fin": 11326,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 29\nCarmen 07,\n59,5 x 42 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11291,
+   "fin": 11326
+  },
+  {
+   "tipo": "title",
+   "ini": 11297,
+   "fin": 11306,
+   "texto": "Carmen 07"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11308,
+   "fin": 11320,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "59,5 x 42 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11308,
+   "fin": 11312,
+   "texto": "59,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 11315,
+   "fin": 11317,
+   "texto": "42"
+  },
+  {
+   "tipo": "date",
+   "ini": 11322,
+   "fin": 11326,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 11328,
+   "fin": 11363,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 30\nCarmen 08,\n59,5 x 42 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11328,
+   "fin": 11363
+  },
+  {
+   "tipo": "title",
+   "ini": 11334,
+   "fin": 11343,
+   "texto": "Carmen 08"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11345,
+   "fin": 11357,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "59,5 x 42 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11345,
+   "fin": 11349,
+   "texto": "59,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 11352,
+   "fin": 11354,
+   "texto": "42"
+  },
+  {
+   "tipo": "date",
+   "ini": 11359,
+   "fin": 11363,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 11365,
+   "fin": 11400,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 31\nCarmen 09,\n59,5 x 42 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11365,
+   "fin": 11400
+  },
+  {
+   "tipo": "title",
+   "ini": 11371,
+   "fin": 11380,
+   "texto": "Carmen 09"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11382,
+   "fin": 11394,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "59,5 x 42 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11382,
+   "fin": 11386,
+   "texto": "59,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 11389,
+   "fin": 11391,
+   "texto": "42"
+  },
+  {
+   "tipo": "date",
+   "ini": 11396,
+   "fin": 11400,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 11402,
+   "fin": 11437,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 32\nCarmen 10,\n59,5 x 42 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11402,
+   "fin": 11437
+  },
+  {
+   "tipo": "title",
+   "ini": 11408,
+   "fin": 11417,
+   "texto": "Carmen 10"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11419,
+   "fin": 11431,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "59,5 x 42 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11419,
+   "fin": 11423,
+   "texto": "59,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 11426,
+   "fin": 11428,
+   "texto": "42"
+  },
+  {
+   "tipo": "date",
+   "ini": 11433,
+   "fin": 11437,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 11439,
+   "fin": 11474,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 33\nCarmen 11,\n59,5 x 42 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11439,
+   "fin": 11474
+  },
+  {
+   "tipo": "title",
+   "ini": 11445,
+   "fin": 11454,
+   "texto": "Carmen 11"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11456,
+   "fin": 11468,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "59,5 x 42 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11456,
+   "fin": 11460,
+   "texto": "59,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 11463,
+   "fin": 11465,
+   "texto": "42"
+  },
+  {
+   "tipo": "date",
+   "ini": 11470,
+   "fin": 11474,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 11476,
+   "fin": 11511,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 34\nCarmen 12,\n59,5 x 42 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11476,
+   "fin": 11511
+  },
+  {
+   "tipo": "title",
+   "ini": 11482,
+   "fin": 11491,
+   "texto": "Carmen 12"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11493,
+   "fin": 11505,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "59,5 x 42 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11493,
+   "fin": 11497,
+   "texto": "59,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 11500,
+   "fin": 11502,
+   "texto": "42"
+  },
+  {
+   "tipo": "date",
+   "ini": 11507,
+   "fin": 11511,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 11513,
+   "fin": 11548,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 35\nCarmen 13,\n59,5 x 42 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11513,
+   "fin": 11548
+  },
+  {
+   "tipo": "title",
+   "ini": 11519,
+   "fin": 11528,
+   "texto": "Carmen 13"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11530,
+   "fin": 11542,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "59,5 x 42 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11530,
+   "fin": 11534,
+   "texto": "59,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 11537,
+   "fin": 11539,
+   "texto": "42"
+  },
+  {
+   "tipo": "date",
+   "ini": 11544,
+   "fin": 11548,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 11550,
+   "fin": 11585,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 36\nCarmen 14,\n59,5 x 42 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11550,
+   "fin": 11585
+  },
+  {
+   "tipo": "title",
+   "ini": 11556,
+   "fin": 11565,
+   "texto": "Carmen 14"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11567,
+   "fin": 11579,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "59,5 x 42 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11567,
+   "fin": 11571,
+   "texto": "59,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 11574,
+   "fin": 11576,
+   "texto": "42"
+  },
+  {
+   "tipo": "date",
+   "ini": 11581,
+   "fin": 11585,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 11587,
+   "fin": 11625,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 38-39\nCarmen 15,\n30 x 66,5 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11587,
+   "fin": 11625
+  },
+  {
+   "tipo": "title",
+   "ini": 11596,
+   "fin": 11605,
+   "texto": "Carmen 15"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11607,
+   "fin": 11619,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 66,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11607,
+   "fin": 11609,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 11612,
+   "fin": 11616,
+   "texto": "66,5"
+  },
+  {
+   "tipo": "date",
+   "ini": 11621,
+   "fin": 11625,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 11627,
+   "fin": 11662,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 40\nCarmen 16,\n48,2 x 33 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11627,
+   "fin": 11662
+  },
+  {
+   "tipo": "title",
+   "ini": 11633,
+   "fin": 11642,
+   "texto": "Carmen 16"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11644,
+   "fin": 11656,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "48,2 x 33 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11644,
+   "fin": 11648,
+   "texto": "48,2"
+  },
+  {
+   "tipo": "width",
+   "ini": 11651,
+   "fin": 11653,
+   "texto": "33"
+  },
+  {
+   "tipo": "date",
+   "ini": 11658,
+   "fin": 11662,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 11664,
+   "fin": 11702,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 42-43\nCarmen 17,\n34 x 45,5 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11664,
+   "fin": 11702
+  },
+  {
+   "tipo": "title",
+   "ini": 11673,
+   "fin": 11682,
+   "texto": "Carmen 17"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11684,
+   "fin": 11696,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "34 x 45,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11684,
+   "fin": 11686,
+   "texto": "34"
+  },
+  {
+   "tipo": "width",
+   "ini": 11689,
+   "fin": 11693,
+   "texto": "45,5"
+  },
+  {
+   "tipo": "date",
+   "ini": 11698,
+   "fin": 11702,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 11704,
+   "fin": 11737,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 44\nCarmen 18,\n45 x 35 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11704,
+   "fin": 11737
+  },
+  {
+   "tipo": "title",
+   "ini": 11710,
+   "fin": 11719,
+   "texto": "Carmen 18"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11721,
+   "fin": 11731,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "45 x 35 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11721,
+   "fin": 11723,
+   "texto": "45"
+  },
+  {
+   "tipo": "width",
+   "ini": 11726,
+   "fin": 11728,
+   "texto": "35"
+  },
+  {
+   "tipo": "date",
+   "ini": 11733,
+   "fin": 11737,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 11739,
+   "fin": 11774,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 45\nCarmen 19,\n45,5 x 46 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11739,
+   "fin": 11774
+  },
+  {
+   "tipo": "title",
+   "ini": 11745,
+   "fin": 11754,
+   "texto": "Carmen 19"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11756,
+   "fin": 11768,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "45,5 x 46 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11756,
+   "fin": 11760,
+   "texto": "45,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 11763,
+   "fin": 11765,
+   "texto": "46"
+  },
+  {
+   "tipo": "date",
+   "ini": 11770,
+   "fin": 11774,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 11776,
+   "fin": 11811,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 46\nCarmen 20,\n42 x 29,5 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11776,
+   "fin": 11811
+  },
+  {
+   "tipo": "title",
+   "ini": 11782,
+   "fin": 11791,
+   "texto": "Carmen 20"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11793,
+   "fin": 11805,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "42 x 29,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11793,
+   "fin": 11795,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 11798,
+   "fin": 11802,
+   "texto": "29,5"
+  },
+  {
+   "tipo": "date",
+   "ini": 11807,
+   "fin": 11811,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 11813,
+   "fin": 11848,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 47\nCarmen 21,\n42 x 29,5 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11813,
+   "fin": 11848
+  },
+  {
+   "tipo": "title",
+   "ini": 11819,
+   "fin": 11828,
+   "texto": "Carmen 21"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11830,
+   "fin": 11842,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "42 x 29,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11830,
+   "fin": 11832,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 11835,
+   "fin": 11839,
+   "texto": "29,5"
+  },
+  {
+   "tipo": "date",
+   "ini": 11844,
+   "fin": 11848,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 11850,
+   "fin": 11888,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 48-49\nCarmen 22,\n29,5 x 42 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11850,
+   "fin": 11888
+  },
+  {
+   "tipo": "title",
+   "ini": 11859,
+   "fin": 11868,
+   "texto": "Carmen 22"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11870,
+   "fin": 11882,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29,5 x 42 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11870,
+   "fin": 11874,
+   "texto": "29,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 11877,
+   "fin": 11879,
+   "texto": "42"
+  },
+  {
+   "tipo": "date",
+   "ini": 11884,
+   "fin": 11888,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 11890,
+   "fin": 11925,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 50\nCarmen 23,\n42 x 29,5 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11890,
+   "fin": 11925
+  },
+  {
+   "tipo": "title",
+   "ini": 11896,
+   "fin": 11905,
+   "texto": "Carmen 23"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11907,
+   "fin": 11919,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "42 x 29,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11907,
+   "fin": 11909,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 11912,
+   "fin": 11916,
+   "texto": "29,5"
+  },
+  {
+   "tipo": "date",
+   "ini": 11921,
+   "fin": 11925,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 11927,
+   "fin": 11967,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 52-53\nCarmen 24,\n29,5 x 41,5 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11927,
+   "fin": 11967
+  },
+  {
+   "tipo": "title",
+   "ini": 11936,
+   "fin": 11945,
+   "texto": "Carmen 24"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11947,
+   "fin": 11961,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29,5 x 41,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11947,
+   "fin": 11951,
+   "texto": "29,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 11954,
+   "fin": 11958,
+   "texto": "41,5"
+  },
+  {
+   "tipo": "date",
+   "ini": 11963,
+   "fin": 11967,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 11969,
+   "fin": 12009,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 54-55\nCarmen 25,\n29,7 x 41,5 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 11969,
+   "fin": 12009
+  },
+  {
+   "tipo": "title",
+   "ini": 11978,
+   "fin": 11987,
+   "texto": "Carmen 25"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 11989,
+   "fin": 12003,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29,7 x 41,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 11989,
+   "fin": 11993,
+   "texto": "29,7"
+  },
+  {
+   "tipo": "width",
+   "ini": 11996,
+   "fin": 12000,
+   "texto": "41,5"
+  },
+  {
+   "tipo": "date",
+   "ini": 12005,
+   "fin": 12009,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 12011,
+   "fin": 12051,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 56-57\nCarmen 26,\n29,7 x 41,5 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12011,
+   "fin": 12051
+  },
+  {
+   "tipo": "title",
+   "ini": 12020,
+   "fin": 12029,
+   "texto": "Carmen 26"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12031,
+   "fin": 12045,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29,7 x 41,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 12031,
+   "fin": 12035,
+   "texto": "29,7"
+  },
+  {
+   "tipo": "width",
+   "ini": 12038,
+   "fin": 12042,
+   "texto": "41,5"
+  },
+  {
+   "tipo": "date",
+   "ini": 12047,
+   "fin": 12051,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 12053,
+   "fin": 12091,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 58-59\nCarmen 27,\n29,7 x 42 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12053,
+   "fin": 12091
+  },
+  {
+   "tipo": "title",
+   "ini": 12062,
+   "fin": 12071,
+   "texto": "Carmen 27"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12073,
+   "fin": 12085,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29,7 x 42 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 12073,
+   "fin": 12077,
+   "texto": "29,7"
+  },
+  {
+   "tipo": "width",
+   "ini": 12080,
+   "fin": 12082,
+   "texto": "42"
+  },
+  {
+   "tipo": "date",
+   "ini": 12087,
+   "fin": 12091,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 12093,
+   "fin": 12130,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 60\nCarmen 28,\n41,5 x 29,5 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12093,
+   "fin": 12130
+  },
+  {
+   "tipo": "title",
+   "ini": 12099,
+   "fin": 12108,
+   "texto": "Carmen 28"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12110,
+   "fin": 12124,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41,5 x 29,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 12110,
+   "fin": 12114,
+   "texto": "41,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 12117,
+   "fin": 12121,
+   "texto": "29,5"
+  },
+  {
+   "tipo": "date",
+   "ini": 12126,
+   "fin": 12130,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 12132,
+   "fin": 12172,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 62-63\nCarmen 29,\n29,7 x 41,5 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12132,
+   "fin": 12172
+  },
+  {
+   "tipo": "title",
+   "ini": 12141,
+   "fin": 12150,
+   "texto": "Carmen 29"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12152,
+   "fin": 12166,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29,7 x 41,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 12152,
+   "fin": 12156,
+   "texto": "29,7"
+  },
+  {
+   "tipo": "width",
+   "ini": 12159,
+   "fin": 12163,
+   "texto": "41,5"
+  },
+  {
+   "tipo": "date",
+   "ini": 12168,
+   "fin": 12172,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 12174,
+   "fin": 12214,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 64-65\nCarmen 31,\n29,2 x 39,7 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12174,
+   "fin": 12214
+  },
+  {
+   "tipo": "title",
+   "ini": 12183,
+   "fin": 12192,
+   "texto": "Carmen 31"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12194,
+   "fin": 12208,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29,2 x 39,7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 12194,
+   "fin": 12198,
+   "texto": "29,2"
+  },
+  {
+   "tipo": "width",
+   "ini": 12201,
+   "fin": 12205,
+   "texto": "39,7"
+  },
+  {
+   "tipo": "date",
+   "ini": 12210,
+   "fin": 12214,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "work",
+   "ini": 12216,
+   "fin": 12256,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "P. 66-67\nCarmen 32,\n29,2 x 39,7 cm.\n2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 12216,
+   "fin": 12256
+  },
+  {
+   "tipo": "title",
+   "ini": 12225,
+   "fin": 12234,
+   "texto": "Carmen 32"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 12236,
+   "fin": 12250,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29,2 x 39,7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 12236,
+   "fin": 12240,
+   "texto": "29,2"
+  },
+  {
+   "tipo": "width",
+   "ini": 12243,
+   "fin": 12247,
+   "texto": "39,7"
+  },
+  {
+   "tipo": "date",
+   "ini": 12252,
+   "fin": 12256,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "technique",
+   "ini": 12258,
+   "fin": 12305,
+   "rasgos": {
+    "type": "mixed, collage"
+   },
+   "texto": "(Técnica mixta y collage\nsobre papel/cartulina)"
+  },
+  {
+   "tipo": "person",
+   "ini": 12308,
+   "fin": 12360,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luis Gordillo 1934 Sevilla, vive y trabaja en Madrid"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12308,
+   "fin": 12321,
+   "texto": "Luis Gordillo"
+  },
+  {
+   "tipo": "birth",
+   "ini": 12322,
+   "fin": 12334
+  },
+  {
+   "tipo": "date",
+   "ini": 12322,
+   "fin": 12326,
+   "rasgos": {
+    "when": "1934"
+   },
+   "texto": "1934"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 12327,
+   "fin": 12334,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "workPlace",
+   "ini": 12336,
+   "fin": 12360
+  },
+  {
+   "tipo": "placeName",
+   "ini": 12354,
+   "fin": 12360,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "title",
+   "ini": 14970,
+   "fin": 14997,
+   "texto": "....carmen más etcétera...."
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 14970,
+   "fin": 14997,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 15192,
+   "fin": 15204,
+   "rasgos": {
+    "type": "townHall",
+    "role": "lender"
+   },
+   "texto": "Ayuntamiento"
+  }
+ ]
+}

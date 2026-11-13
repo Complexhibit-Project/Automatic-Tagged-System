@@ -1,0 +1,1641 @@
+{
+ "id": "cat_099_vaquero_turcios_catalogo_galeria_cortabi",
+ "nombre_original": "vaquero-turcios-catalogo-galeria-cortabitarte",
+ "longitud_texto": 7338,
+ "sha256_texto": "c6b82eee3506d4d4b9c10c776268a20b5777935bd430c9603b113cde33d51197",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 37,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 15,
+   "texto": "Vaquero turcios"
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 15,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vaquero turcios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 15,
+   "texto": "Vaquero turcios"
+  },
+  {
+   "tipo": "date",
+   "ini": 17,
+   "fin": 37,
+   "rasgos": {
+    "from": "2019-07-01",
+    "to": "2019-08-31"
+   },
+   "texto": "JULIO _ AGOSTO\n\n2019"
+  },
+  {
+   "tipo": "institution",
+   "ini": 48,
+   "fin": 68,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Galería CortabitArte"
+  },
+  {
+   "tipo": "person",
+   "ini": 97,
+   "fin": 109,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Eva González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 97,
+   "fin": 109,
+   "texto": "Eva González"
+  },
+  {
+   "tipo": "person",
+   "ini": 124,
+   "fin": 145,
+   "texto": "Sandra Verde González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 124,
+   "fin": 145,
+   "texto": "Sandra Verde González"
+  },
+  {
+   "tipo": "person",
+   "ini": 168,
+   "fin": 187,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "Lara Irigoyen Heras"
+  },
+  {
+   "tipo": "persName",
+   "ini": 168,
+   "fin": 187,
+   "texto": "Lara Irigoyen Heras"
+  },
+  {
+   "tipo": "institution",
+   "ini": 199,
+   "fin": 227,
+   "rasgos": {
+    "type": "printer"
+   },
+   "texto": "Imprenta Provincial de Soria"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 222,
+   "fin": 227,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Soria"
+  },
+  {
+   "tipo": "person",
+   "ini": 229,
+   "fin": 252,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joaquín Vaquero Turcios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 229,
+   "fin": 252,
+   "texto": "Joaquín Vaquero Turcios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1232,
+   "fin": 1244,
+   "texto": "Rubén Suarez"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 1263,
+   "fin": 4354
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1263,
+   "fin": 1331
+  },
+  {
+   "tipo": "img",
+   "ini": 1263,
+   "fin": 1268,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1279,
+   "fin": 1331,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Puerta azul. 2009. Acrílico sobre lienzo. 70 x 70 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 1279,
+   "fin": 1290,
+   "texto": "Puerta azul"
+  },
+  {
+   "tipo": "date",
+   "ini": 1292,
+   "fin": 1296,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1298,
+   "fin": 1319,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1321,
+   "fin": 1331,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1321,
+   "fin": 1323,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 1326,
+   "fin": 1328,
+   "texto": "70"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1333,
+   "fin": 1434
+  },
+  {
+   "tipo": "img",
+   "ini": 1333,
+   "fin": 1338,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1340,
+   "fin": 1434,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Muro de Boscoreale sobre amarillo con trazas. 1989 /1998. Acrílico sobre lienzo. 200 x 200 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 1340,
+   "fin": 1384,
+   "texto": "Muro de Boscoreale sobre amarillo con trazas"
+  },
+  {
+   "tipo": "date",
+   "ini": 1386,
+   "fin": 1396,
+   "rasgos": {
+    "from": "1989",
+    "to": "1998"
+   },
+   "texto": "1989 /1998"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1398,
+   "fin": 1419,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1421,
+   "fin": 1433,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 200 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1421,
+   "fin": 1424,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 1427,
+   "fin": 1430,
+   "texto": "200"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1436,
+   "fin": 1504
+  },
+  {
+   "tipo": "img",
+   "ini": 1436,
+   "fin": 1441,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1443,
+   "fin": 1504,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Muro agrietado II. 1989. Acrílico sobre lienzo. 195 x 130 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 1443,
+   "fin": 1460,
+   "texto": "Muro agrietado II"
+  },
+  {
+   "tipo": "date",
+   "ini": 1462,
+   "fin": 1466,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1468,
+   "fin": 1489,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1491,
+   "fin": 1503,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "195 x 130 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1491,
+   "fin": 1494,
+   "texto": "195"
+  },
+  {
+   "tipo": "width",
+   "ini": 1497,
+   "fin": 1500,
+   "texto": "130"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 1506,
+   "fin": 1577
+  },
+  {
+   "tipo": "img",
+   "ini": 1506,
+   "fin": 1511,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 1522,
+   "fin": 1577,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Puerta I. 1995-97. Acrílico sobre lienzo. 200 x 200 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 1522,
+   "fin": 1530,
+   "texto": "Puerta I"
+  },
+  {
+   "tipo": "date",
+   "ini": 1532,
+   "fin": 1539,
+   "rasgos": {
+    "from": "1995",
+    "to": "1997"
+   },
+   "texto": "1995-97"
+  },
+  {
+   "tipo": "technique",
+   "ini": 1541,
+   "fin": 1562,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 1564,
+   "fin": 1576,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 200 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 1564,
+   "fin": 1567,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 1570,
+   "fin": 1573,
+   "texto": "200"
+  },
+  {
+   "tipo": "text",
+   "ini": 1579,
+   "fin": 2602
+  },
+  {
+   "tipo": "person",
+   "ini": 2579,
+   "fin": 2602,
+   "rasgos": {
+    "role": "creator, author"
+   },
+   "texto": "Joaquín Vaquero Turcios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2579,
+   "fin": 2602,
+   "texto": "Joaquín Vaquero Turcios"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2604,
+   "fin": 2665
+  },
+  {
+   "tipo": "img",
+   "ini": 2604,
+   "fin": 2609,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2611,
+   "fin": 2665,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sin Título. 1989. Acrílico sobre lienzo. 200 x 200 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 2611,
+   "fin": 2621,
+   "texto": "Sin Título"
+  },
+  {
+   "tipo": "date",
+   "ini": 2623,
+   "fin": 2627,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2629,
+   "fin": 2650,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2652,
+   "fin": 2664,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 200 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2652,
+   "fin": 2655,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 2658,
+   "fin": 2661,
+   "texto": "200"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2667,
+   "fin": 2723
+  },
+  {
+   "tipo": "img",
+   "ini": 2667,
+   "fin": 2672,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2674,
+   "fin": 2723,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Bandera. 1980. Acrílico sobre lienzo. 70 x 70 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 2674,
+   "fin": 2681,
+   "texto": "Bandera"
+  },
+  {
+   "tipo": "date",
+   "ini": 2683,
+   "fin": 2687,
+   "rasgos": {
+    "when": "1980"
+   },
+   "texto": "1980"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2689,
+   "fin": 2710,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2712,
+   "fin": 2722,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2712,
+   "fin": 2714,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 2717,
+   "fin": 2719,
+   "texto": "70"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2725,
+   "fin": 2786
+  },
+  {
+   "tipo": "img",
+   "ini": 2725,
+   "fin": 2730,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2732,
+   "fin": 2786,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Bandera roja. 1980. Acrílico sobre lienzo. 70 x 70 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 2732,
+   "fin": 2744,
+   "texto": "Bandera roja"
+  },
+  {
+   "tipo": "date",
+   "ini": 2746,
+   "fin": 2750,
+   "rasgos": {
+    "when": "1980"
+   },
+   "texto": "1980"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2752,
+   "fin": 2773,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2775,
+   "fin": 2785,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2775,
+   "fin": 2777,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 2780,
+   "fin": 2782,
+   "texto": "70"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2788,
+   "fin": 2844
+  },
+  {
+   "tipo": "img",
+   "ini": 2788,
+   "fin": 2793,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2795,
+   "fin": 2844,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Bandera. 1980. Acrílico sobre lienzo. 70 x 70 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 2795,
+   "fin": 2802,
+   "texto": "Bandera"
+  },
+  {
+   "tipo": "date",
+   "ini": 2804,
+   "fin": 2808,
+   "rasgos": {
+    "when": "1980"
+   },
+   "texto": "1980"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2810,
+   "fin": 2831,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2833,
+   "fin": 2843,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2833,
+   "fin": 2835,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 2838,
+   "fin": 2840,
+   "texto": "70"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2846,
+   "fin": 2923
+  },
+  {
+   "tipo": "img",
+   "ini": 2846,
+   "fin": 2851,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2853,
+   "fin": 2924,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Muro nocturno negro y azul. 1989. Acrílico sobre lienzo. 195 x 130 cm.\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 2853,
+   "fin": 2879,
+   "texto": "Muro nocturno negro y azul"
+  },
+  {
+   "tipo": "date",
+   "ini": 2881,
+   "fin": 2885,
+   "rasgos": {
+    "when": "1989"
+   },
+   "texto": "1989"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2887,
+   "fin": 2908,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2910,
+   "fin": 2922,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "195 x 130 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2910,
+   "fin": 2913,
+   "texto": "195"
+  },
+  {
+   "tipo": "width",
+   "ini": 2916,
+   "fin": 2919,
+   "texto": "130"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2925,
+   "fin": 3008
+  },
+  {
+   "tipo": "img",
+   "ini": 2925,
+   "fin": 2930,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2941,
+   "fin": 3008,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Muro rosa y negro rayado. 1992. Acrílico sobre lienzo. 195 x 130 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 2941,
+   "fin": 2965,
+   "texto": "Muro rosa y negro rayado"
+  },
+  {
+   "tipo": "date",
+   "ini": 2967,
+   "fin": 2971,
+   "rasgos": {
+    "when": "1992"
+   },
+   "texto": "1992"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2973,
+   "fin": 2994,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2996,
+   "fin": 3008,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "195 x 130 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 2996,
+   "fin": 2999,
+   "texto": "195"
+  },
+  {
+   "tipo": "width",
+   "ini": 3002,
+   "fin": 3005,
+   "texto": "130"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3010,
+   "fin": 3075
+  },
+  {
+   "tipo": "img",
+   "ini": 3010,
+   "fin": 3015,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3017,
+   "fin": 3075,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Mesa roja rayada. 1970. Acrílico sobre lienzo. 97 x 130 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 3017,
+   "fin": 3033,
+   "texto": "Mesa roja rayada"
+  },
+  {
+   "tipo": "date",
+   "ini": 3035,
+   "fin": 3039,
+   "rasgos": {
+    "when": "1970"
+   },
+   "texto": "1970"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3041,
+   "fin": 3062,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3064,
+   "fin": 3075,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "97 x 130 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3064,
+   "fin": 3066,
+   "texto": "97"
+  },
+  {
+   "tipo": "width",
+   "ini": 3069,
+   "fin": 3072,
+   "texto": "130"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3077,
+   "fin": 3139
+  },
+  {
+   "tipo": "img",
+   "ini": 3077,
+   "fin": 3082,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3084,
+   "fin": 3139,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Mesa de abril. 1970. Acrílico sobre lienzo. 97 x 130 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 3084,
+   "fin": 3097,
+   "texto": "Mesa de abril"
+  },
+  {
+   "tipo": "date",
+   "ini": 3099,
+   "fin": 3103,
+   "rasgos": {
+    "when": "1970"
+   },
+   "texto": "1970"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3105,
+   "fin": 3126,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3128,
+   "fin": 3139,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "97 x 130 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3128,
+   "fin": 3130,
+   "texto": "97"
+  },
+  {
+   "tipo": "width",
+   "ini": 3133,
+   "fin": 3136,
+   "texto": "130"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3141,
+   "fin": 3196
+  },
+  {
+   "tipo": "img",
+   "ini": 3141,
+   "fin": 3146,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3148,
+   "fin": 3196,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Soleá. 1973 . Acrílico sobre lienzo. 97 x 130 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 3148,
+   "fin": 3153,
+   "texto": "Soleá"
+  },
+  {
+   "tipo": "date",
+   "ini": 3155,
+   "fin": 3159,
+   "rasgos": {
+    "when": "1973"
+   },
+   "texto": "1973"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3162,
+   "fin": 3183,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3185,
+   "fin": 3196,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "97 x 130 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3185,
+   "fin": 3187,
+   "texto": "97"
+  },
+  {
+   "tipo": "width",
+   "ini": 3190,
+   "fin": 3193,
+   "texto": "130"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3198,
+   "fin": 3281
+  },
+  {
+   "tipo": "img",
+   "ini": 3198,
+   "fin": 3203,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3214,
+   "fin": 3281,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sueño azul y violeta II. 2009 . Acrílico sobre lienzo. 120 x 120 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 3214,
+   "fin": 3237,
+   "texto": "Sueño azul y violeta II"
+  },
+  {
+   "tipo": "date",
+   "ini": 3239,
+   "fin": 3243,
+   "rasgos": {
+    "when": "2009"
+   },
+   "texto": "2009"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3246,
+   "fin": 3267,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3269,
+   "fin": 3281,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "120 x 120 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3269,
+   "fin": 3272,
+   "texto": "120"
+  },
+  {
+   "tipo": "width",
+   "ini": 3275,
+   "fin": 3278,
+   "texto": "120"
+  },
+  {
+   "tipo": "text",
+   "ini": 3283,
+   "fin": 3943
+  },
+  {
+   "tipo": "persName",
+   "ini": 3465,
+   "fin": 3469,
+   "texto": "Goya"
+  },
+  {
+   "tipo": "person",
+   "ini": 3920,
+   "fin": 3943,
+   "rasgos": {
+    "role": "creator, author"
+   },
+   "texto": "Joaquín Vaquero Turcios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3920,
+   "fin": 3943,
+   "texto": "Joaquín Vaquero Turcios"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3945,
+   "fin": 3994
+  },
+  {
+   "tipo": "img",
+   "ini": 3945,
+   "fin": 3950,
+   "rasgos": {
+    "size": "extralarge",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3952,
+   "fin": 3994,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Toro. Serigrafía y pintura. 51 x 71 cm 1/2"
+  },
+  {
+   "tipo": "title",
+   "ini": 3952,
+   "fin": 3956,
+   "texto": "Toro"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3958,
+   "fin": 3978,
+   "rasgos": {
+    "type": "serigraph, paint"
+   },
+   "texto": "Serigrafía y pintura"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3980,
+   "fin": 3994,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "51 x 71 cm 1/2"
+  },
+  {
+   "tipo": "height",
+   "ini": 3980,
+   "fin": 3982,
+   "texto": "51"
+  },
+  {
+   "tipo": "width",
+   "ini": 3985,
+   "fin": 3994,
+   "texto": "71 cm 1/2"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3996,
+   "fin": 4062
+  },
+  {
+   "tipo": "img",
+   "ini": 3996,
+   "fin": 4001,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4002,
+   "fin": 4007,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4020,
+   "fin": 4062,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Toro. Serigrafía y pintura. 51 x 71 cm 1/2"
+  },
+  {
+   "tipo": "title",
+   "ini": 4020,
+   "fin": 4024,
+   "texto": "Toro"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4026,
+   "fin": 4046,
+   "rasgos": {
+    "type": "serigraph, paint"
+   },
+   "texto": "Serigrafía y pintura"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4048,
+   "fin": 4062,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "51 x 71 cm 1/2"
+  },
+  {
+   "tipo": "height",
+   "ini": 4048,
+   "fin": 4050,
+   "texto": "51"
+  },
+  {
+   "tipo": "width",
+   "ini": 4053,
+   "fin": 4062,
+   "texto": "71 cm 1/2"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4066,
+   "fin": 4132
+  },
+  {
+   "tipo": "img",
+   "ini": 4066,
+   "fin": 4071,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4082,
+   "fin": 4132,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Torero de face. Acrílico sobre papel. 53 x 69.5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4082,
+   "fin": 4096,
+   "texto": "Torero de face"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4098,
+   "fin": 4118,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4120,
+   "fin": 4132,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "53 x 69.5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4120,
+   "fin": 4122,
+   "texto": "53"
+  },
+  {
+   "tipo": "width",
+   "ini": 4125,
+   "fin": 4129,
+   "texto": "69.5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4134,
+   "fin": 4218
+  },
+  {
+   "tipo": "img",
+   "ini": 4134,
+   "fin": 4139,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4140,
+   "fin": 4145,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4156,
+   "fin": 4217,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Dos Toreros y Torero azul. Acrílico sobre papel. 53 x 69.5 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4156,
+   "fin": 4181,
+   "texto": "Dos Toreros y Torero azul"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4183,
+   "fin": 4203,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4205,
+   "fin": 4217,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "53 x 69.5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4205,
+   "fin": 4207,
+   "texto": "53"
+  },
+  {
+   "tipo": "width",
+   "ini": 4210,
+   "fin": 4214,
+   "texto": "69.5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4221,
+   "fin": 4282
+  },
+  {
+   "tipo": "img",
+   "ini": 4221,
+   "fin": 4226,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4239,
+   "fin": 4282,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "Toro. Serigrafía y pintura. 51 x 71 cm 1/2."
+  },
+  {
+   "tipo": "title",
+   "ini": 4239,
+   "fin": 4243,
+   "texto": "Toro"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4245,
+   "fin": 4265,
+   "rasgos": {
+    "type": "serigraph, paint"
+   },
+   "texto": "Serigrafía y pintura"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4267,
+   "fin": 4281,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "51 x 71 cm 1/2"
+  },
+  {
+   "tipo": "height",
+   "ini": 4267,
+   "fin": 4269,
+   "texto": "51"
+  },
+  {
+   "tipo": "width",
+   "ini": 4272,
+   "fin": 4281,
+   "texto": "71 cm 1/2"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4284,
+   "fin": 4354
+  },
+  {
+   "tipo": "img",
+   "ini": 4284,
+   "fin": 4289,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4300,
+   "fin": 4354,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Muro soñado. 1998 . Acrílico sobre lienzo. 130 x 97 cm"
+  },
+  {
+   "tipo": "title",
+   "ini": 4300,
+   "fin": 4311,
+   "texto": "Muro soñado"
+  },
+  {
+   "tipo": "date",
+   "ini": 4313,
+   "fin": 4317,
+   "rasgos": {
+    "when": "1998"
+   },
+   "texto": "1998"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4320,
+   "fin": 4341,
+   "rasgos": {
+    "type": "acrylic"
+   },
+   "texto": "Acrílico sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4343,
+   "fin": 4354,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 97 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 4343,
+   "fin": 4346,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 4349,
+   "fin": 4351,
+   "texto": "97"
+  },
+  {
+   "tipo": "person",
+   "ini": 4356,
+   "fin": 4371,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vaquero Turcios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4356,
+   "fin": 4371,
+   "texto": "Vaquero Turcios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4651,
+   "fin": 4671,
+   "texto": "Mercedes Ibáñez Novo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4691,
+   "fin": 4698,
+   "texto": "Joaquín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4700,
+   "fin": 4705,
+   "texto": "Tomás"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4707,
+   "fin": 4711,
+   "texto": "Juan"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4714,
+   "fin": 4720,
+   "texto": "Andrés"
+  },
+  {
+   "tipo": "birth",
+   "ini": 4722,
+   "fin": 4735
+  },
+  {
+   "tipo": "death",
+   "ini": 4737,
+   "fin": 4753
+  },
+  {
+   "tipo": "person",
+   "ini": 4771,
+   "fin": 4787,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vaquero Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4771,
+   "fin": 4787,
+   "texto": "Vaquero Palacios"
+  },
+  {
+   "tipo": "date",
+   "ini": 6524,
+   "fin": 6528,
+   "rasgos": {
+    "when": "1998"
+   },
+   "texto": "1998"
+  },
+  {
+   "tipo": "person",
+   "ini": 7204,
+   "fin": 7219,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Vaquero Turcios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7204,
+   "fin": 7219,
+   "texto": "Vaquero Turcios"
+  }
+ ]
+}

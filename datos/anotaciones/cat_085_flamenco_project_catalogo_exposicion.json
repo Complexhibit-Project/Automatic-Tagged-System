@@ -1,0 +1,5285 @@
+{
+ "id": "cat_085_flamenco_project_catalogo_exposicion",
+ "nombre_original": "FLAMENCO PROJECT CATALOGO EXPOSICION",
+ "longitud_texto": 26340,
+ "sha256_texto": "713bf08044b4d76654bfa3125851be23bf521bb8dc7cb27f5db5e73cce5b7a79",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 94,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 0,
+   "fin": 30,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser"
+   },
+   "texto": "Instituto Andaluz del Flamenco"
+  },
+  {
+   "tipo": "title",
+   "ini": 43,
+   "fin": 94,
+   "texto": "Flamenco Project\nUna ventana a la visión extranjera"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 96,
+   "fin": 194,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 96,
+   "fin": 147,
+   "texto": "Flamenco Project\nUna ventana a la visión extranjera"
+  },
+  {
+   "tipo": "person",
+   "ini": 148,
+   "fin": 170,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Agustín Israel Barrera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 148,
+   "fin": 170,
+   "texto": "Agustín Israel Barrera"
+  },
+  {
+   "tipo": "date",
+   "ini": 199,
+   "fin": 212,
+   "rasgos": {
+    "from": "2013-04-01",
+    "to": "2013-04-30"
+   },
+   "texto": "abril de 2013"
+  },
+  {
+   "tipo": "persName",
+   "ini": 213,
+   "fin": 223,
+   "texto": "Steve Kahn"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 394,
+   "fin": 414,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Morón de la Frontera"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 547,
+   "fin": 552,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Morón"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 596,
+   "fin": 601,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Morón"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 609,
+   "fin": 614,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Morón"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 718,
+   "fin": 738,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Morón de la Frontera"
+  },
+  {
+   "tipo": "institution",
+   "ini": 807,
+   "fin": 837,
+   "rasgos": {
+    "type": "institute",
+    "role": "organiser"
+   },
+   "texto": "Instituto Andaluz\ndel Flamenco"
+  },
+  {
+   "tipo": "venue",
+   "ini": 865,
+   "fin": 877,
+   "texto": "Casa Murillo"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1012,
+   "fin": 1032,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Morón de la Frontera"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1170,
+   "fin": 1175,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Morón"
+  },
+  {
+   "tipo": "person",
+   "ini": 1370,
+   "fin": 1389,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "STEVE KAHN USA 1943"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1370,
+   "fin": 1380,
+   "texto": "STEVE KAHN"
+  },
+  {
+   "tipo": "person",
+   "ini": 1552,
+   "fin": 1562,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Steve Kahn"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1552,
+   "fin": 1562,
+   "texto": "Steve Kahn"
+  },
+  {
+   "tipo": "person",
+   "ini": 1573,
+   "fin": 1583,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Steve Kahn"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1573,
+   "fin": 1583,
+   "texto": "Steve Kahn"
+  },
+  {
+   "tipo": "person",
+   "ini": 8338,
+   "fin": 8352,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ricardo Pachón"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15318,
+   "fin": 15328,
+   "texto": "Steve\nKahn"
+  },
+  {
+   "tipo": "person",
+   "ini": 15318,
+   "fin": 15328,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Steve\nKahn"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 19936,
+   "fin": 26333
+  },
+  {
+   "tipo": "work",
+   "ini": 19968,
+   "fin": 20120,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "WILLIAM DAVIDSON. USA, 1938\nLa Fernanda de Utrera, Curro Mairena y Luis\nTorres “Joselero”. Morón de la Frontera, 1970.\n125,2 x 90,2 cm / 93,4 x 62,1 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 19968,
+   "fin": 20120
+  },
+  {
+   "tipo": "person",
+   "ini": 19968,
+   "fin": 19995,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "WILLIAM DAVIDSON. USA, 1938"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19968,
+   "fin": 19984,
+   "texto": "WILLIAM DAVIDSON"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 19986,
+   "fin": 19989,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "date",
+   "ini": 19991,
+   "fin": 19995,
+   "rasgos": {
+    "when": "1938"
+   },
+   "texto": "1938"
+  },
+  {
+   "tipo": "title",
+   "ini": 19996,
+   "fin": 20057,
+   "texto": "La Fernanda de Utrera, Curro Mairena y Luis\nTorres “Joselero”"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 20059,
+   "fin": 20079
+  },
+  {
+   "tipo": "placeName",
+   "ini": 20059,
+   "fin": 20079,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Morón de la Frontera"
+  },
+  {
+   "tipo": "date",
+   "ini": 20081,
+   "fin": 20085,
+   "rasgos": {
+    "when": "1970"
+   },
+   "texto": "1970"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20087,
+   "fin": 20102,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "125,2 x 90,2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20087,
+   "fin": 20092,
+   "texto": "125,2"
+  },
+  {
+   "tipo": "width",
+   "ini": 20095,
+   "fin": 20099,
+   "texto": "90,2"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20105,
+   "fin": 20119,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "93,4 x 62,1 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20105,
+   "fin": 20109,
+   "texto": "93,4"
+  },
+  {
+   "tipo": "width",
+   "ini": 20112,
+   "fin": 20116,
+   "texto": "62,1"
+  },
+  {
+   "tipo": "work",
+   "ini": 20122,
+   "fin": 20261,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "WILLIAM DAVIDSON. USA, 1938\nEnrique Méndez cantando y Manuel Pérez “El\nPoeta”. Morón de la Frontera, 1970.\n50,0 x 65,0 cm / 32,0 x 46,0 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20122,
+   "fin": 20261
+  },
+  {
+   "tipo": "person",
+   "ini": 20122,
+   "fin": 20149,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "WILLIAM DAVIDSON. USA, 1938"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20122,
+   "fin": 20138,
+   "texto": "WILLIAM DAVIDSON"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 20140,
+   "fin": 20143,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "date",
+   "ini": 20145,
+   "fin": 20149,
+   "rasgos": {
+    "when": "1938"
+   },
+   "texto": "1938"
+  },
+  {
+   "tipo": "title",
+   "ini": 20150,
+   "fin": 20199,
+   "texto": "Enrique Méndez cantando y Manuel Pérez “El\nPoeta”"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 20201,
+   "fin": 20221
+  },
+  {
+   "tipo": "placeName",
+   "ini": 20201,
+   "fin": 20221,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Morón de la Frontera"
+  },
+  {
+   "tipo": "date",
+   "ini": 20223,
+   "fin": 20227,
+   "rasgos": {
+    "when": "1970"
+   },
+   "texto": "1970"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20229,
+   "fin": 20243,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50,0 x 65,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20229,
+   "fin": 20233,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 20236,
+   "fin": 20240,
+   "texto": "65,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20246,
+   "fin": 20260,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32,0 x 46,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20246,
+   "fin": 20250,
+   "texto": "32,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 20253,
+   "fin": 20257,
+   "texto": "46,0"
+  },
+  {
+   "tipo": "work",
+   "ini": 20263,
+   "fin": 20481,
+   "rasgos": {
+    "type": "photograph"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20263,
+   "fin": 20481
+  },
+  {
+   "tipo": "person",
+   "ini": 20263,
+   "fin": 20284,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "IRA GAVRIN. USA, 1938"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20263,
+   "fin": 20273,
+   "texto": "IRA GAVRIN"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 20275,
+   "fin": 20278,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "title",
+   "ini": 20285,
+   "fin": 20420,
+   "texto": "Retrato familiar de Fernandillo de Morón con su\nmadre Carmen (hermana de Diego del Gastor),\nmujer María e hijas Fernanda, María y Paqui"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 20422,
+   "fin": 20442
+  },
+  {
+   "tipo": "placeName",
+   "ini": 20422,
+   "fin": 20442,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Morón de la Frontera"
+  },
+  {
+   "tipo": "date",
+   "ini": 20443,
+   "fin": 20447,
+   "rasgos": {
+    "when": "1968"
+   },
+   "texto": "1968"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20449,
+   "fin": 20463,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50,0 x 65,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20449,
+   "fin": 20453,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 20456,
+   "fin": 20460,
+   "texto": "65,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20466,
+   "fin": 20480,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29,0 x 43,4 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20466,
+   "fin": 20470,
+   "texto": "29,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 20473,
+   "fin": 20477,
+   "texto": "43,4"
+  },
+  {
+   "tipo": "work",
+   "ini": 20492,
+   "fin": 20599,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "STEVE KAHN. USA, 1943\nAurelio Suárez, cantaor. Morón de la Frontera, 1969. 50,0 x 65,0 cm / 30,4 x 46,1 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20492,
+   "fin": 20599
+  },
+  {
+   "tipo": "person",
+   "ini": 20492,
+   "fin": 20513,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "STEVE KAHN. USA, 1943"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20492,
+   "fin": 20502,
+   "texto": "STEVE KAHN"
+  },
+  {
+   "tipo": "birth",
+   "ini": 20504,
+   "fin": 20513
+  },
+  {
+   "tipo": "placeName",
+   "ini": 20504,
+   "fin": 20507,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "date",
+   "ini": 20509,
+   "fin": 20513,
+   "rasgos": {
+    "when": "1943"
+   },
+   "texto": "1943"
+  },
+  {
+   "tipo": "title",
+   "ini": 20514,
+   "fin": 20537,
+   "texto": "Aurelio Suárez, cantaor"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 20539,
+   "fin": 20559
+  },
+  {
+   "tipo": "placeName",
+   "ini": 20539,
+   "fin": 20559,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Morón de la Frontera"
+  },
+  {
+   "tipo": "date",
+   "ini": 20561,
+   "fin": 20565,
+   "rasgos": {
+    "when": "1969"
+   },
+   "texto": "1969"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20567,
+   "fin": 20581,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50,0 x 65,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20567,
+   "fin": 20571,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 20574,
+   "fin": 20578,
+   "texto": "65,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20584,
+   "fin": 20598,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30,4 x 46,1 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20584,
+   "fin": 20588,
+   "texto": "30,4"
+  },
+  {
+   "tipo": "width",
+   "ini": 20591,
+   "fin": 20595,
+   "texto": "46,1"
+  },
+  {
+   "tipo": "work",
+   "ini": 20602,
+   "fin": 20730,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "STEVE KAHN. USA, 1943\nLuis Torres “Joselero”, cantaor, en la calle. Morón de la Frontera, 1967.\n50,0 x 65,0 cm / 32,7 x 49,3 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20602,
+   "fin": 20730
+  },
+  {
+   "tipo": "person",
+   "ini": 20602,
+   "fin": 20623,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "STEVE KAHN. USA, 1943"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20602,
+   "fin": 20612,
+   "texto": "STEVE KAHN"
+  },
+  {
+   "tipo": "birth",
+   "ini": 20614,
+   "fin": 20623
+  },
+  {
+   "tipo": "placeName",
+   "ini": 20614,
+   "fin": 20617,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "date",
+   "ini": 20619,
+   "fin": 20623,
+   "rasgos": {
+    "when": "1943"
+   },
+   "texto": "1943"
+  },
+  {
+   "tipo": "title",
+   "ini": 20624,
+   "fin": 20668,
+   "texto": "Luis Torres “Joselero”, cantaor, en la calle"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 20670,
+   "fin": 20690
+  },
+  {
+   "tipo": "placeName",
+   "ini": 20670,
+   "fin": 20690,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Morón de la Frontera"
+  },
+  {
+   "tipo": "date",
+   "ini": 20692,
+   "fin": 20696,
+   "rasgos": {
+    "when": "1967"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20698,
+   "fin": 20712,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50,0 x 65,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20698,
+   "fin": 20702,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 20705,
+   "fin": 20709,
+   "texto": "65,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20715,
+   "fin": 20729,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32,7 x 49,3 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20715,
+   "fin": 20719,
+   "texto": "32,7"
+  },
+  {
+   "tipo": "width",
+   "ini": 20722,
+   "fin": 20726,
+   "texto": "49,3"
+  },
+  {
+   "tipo": "work",
+   "ini": 20733,
+   "fin": 20852,
+   "texto": "STEVE KAHN. USA, 1943\nTato, su amigo Curro y Agustín Ríos. Morón de la Frontera, 1967.\n50,0 x 65,0 cm / 30,4 x 46,6 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20733,
+   "fin": 20852
+  },
+  {
+   "tipo": "person",
+   "ini": 20733,
+   "fin": 20754,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "STEVE KAHN. USA, 1943"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20733,
+   "fin": 20743,
+   "texto": "STEVE KAHN"
+  },
+  {
+   "tipo": "birth",
+   "ini": 20745,
+   "fin": 20754
+  },
+  {
+   "tipo": "placeName",
+   "ini": 20745,
+   "fin": 20748,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "date",
+   "ini": 20750,
+   "fin": 20754,
+   "rasgos": {
+    "when": "1943"
+   },
+   "texto": "1943"
+  },
+  {
+   "tipo": "title",
+   "ini": 20755,
+   "fin": 20790,
+   "texto": "Tato, su amigo Curro y Agustín Ríos"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 20792,
+   "fin": 20812
+  },
+  {
+   "tipo": "placeName",
+   "ini": 20792,
+   "fin": 20812,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Morón de la Frontera"
+  },
+  {
+   "tipo": "date",
+   "ini": 20814,
+   "fin": 20818,
+   "rasgos": {
+    "when": "1967"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20820,
+   "fin": 20834,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50,0 x 65,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20820,
+   "fin": 20824,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 20827,
+   "fin": 20831,
+   "texto": "65,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20837,
+   "fin": 20851,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30,4 x 46,6 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20837,
+   "fin": 20841,
+   "texto": "30,4"
+  },
+  {
+   "tipo": "width",
+   "ini": 20844,
+   "fin": 20848,
+   "texto": "46,6"
+  },
+  {
+   "tipo": "work",
+   "ini": 20855,
+   "fin": 20964,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "DANIEL SEYMOUR. USA, 1945 - 1973\nLuis Torres “Joselero”. Sevilla, ca. 1970. 90,2 x 125,2 cm / 63,5 x 96,3 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20855,
+   "fin": 20964
+  },
+  {
+   "tipo": "person",
+   "ini": 20855,
+   "fin": 20887,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "DANIEL SEYMOUR. USA, 1945 - 1973"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20855,
+   "fin": 20869,
+   "texto": "DANIEL SEYMOUR"
+  },
+  {
+   "tipo": "birth",
+   "ini": 20871,
+   "fin": 20880
+  },
+  {
+   "tipo": "placeName",
+   "ini": 20871,
+   "fin": 20874,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "date",
+   "ini": 20876,
+   "fin": 20887,
+   "rasgos": {
+    "from": "1945",
+    "to": "1973"
+   },
+   "texto": "1945 - 1973"
+  },
+  {
+   "tipo": "death",
+   "ini": 20883,
+   "fin": 20887
+  },
+  {
+   "tipo": "title",
+   "ini": 20888,
+   "fin": 20910,
+   "texto": "Luis Torres “Joselero”"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 20912,
+   "fin": 20919
+  },
+  {
+   "tipo": "placeName",
+   "ini": 20912,
+   "fin": 20919,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "date",
+   "ini": 20925,
+   "fin": 20929,
+   "rasgos": {
+    "notBefore": "1969",
+    "notAfter": "1971"
+   },
+   "texto": "1970"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20931,
+   "fin": 20946,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "90,2 x 125,2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20931,
+   "fin": 20935,
+   "texto": "90,2"
+  },
+  {
+   "tipo": "width",
+   "ini": 20938,
+   "fin": 20943,
+   "texto": "125,2"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 20949,
+   "fin": 20963,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "63,5 x 96,3 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 20949,
+   "fin": 20953,
+   "texto": "63,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 20956,
+   "fin": 20960,
+   "texto": "96,3"
+  },
+  {
+   "tipo": "work",
+   "ini": 20976,
+   "fin": 21125,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "DAVID GEORGE. USA, 1938-2003\nJosefina (novia de Paco del Gastor), Manolito de la María y Paco del Gastor . Ca. 1964.\n65.0 x 50.0 cm / 48.9 x 33.0 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20976,
+   "fin": 21125
+  },
+  {
+   "tipo": "person",
+   "ini": 20976,
+   "fin": 21004,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "DAVID GEORGE. USA, 1938-2003"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20976,
+   "fin": 20988,
+   "texto": "DAVID GEORGE"
+  },
+  {
+   "tipo": "birth",
+   "ini": 20990,
+   "fin": 20999
+  },
+  {
+   "tipo": "placeName",
+   "ini": 20990,
+   "fin": 20993,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "date",
+   "ini": 20995,
+   "fin": 21004,
+   "rasgos": {
+    "from": "1938",
+    "to": "2003"
+   },
+   "texto": "1938-2003"
+  },
+  {
+   "tipo": "death",
+   "ini": 21000,
+   "fin": 21004
+  },
+  {
+   "tipo": "title",
+   "ini": 21005,
+   "fin": 21081,
+   "texto": "Josefina (novia de Paco del Gastor), Manolito de la María y Paco del Gastor "
+  },
+  {
+   "tipo": "date",
+   "ini": 21087,
+   "fin": 21091,
+   "rasgos": {
+    "notBefore": "1963",
+    "notAfter": "1965"
+   },
+   "texto": "1964"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21093,
+   "fin": 21107,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65.0 x 50.0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21093,
+   "fin": 21097,
+   "texto": "65.0"
+  },
+  {
+   "tipo": "width",
+   "ini": 21100,
+   "fin": 21104,
+   "texto": "50.0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21110,
+   "fin": 21124,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "48.9 x 33.0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21110,
+   "fin": 21114,
+   "texto": "48.9"
+  },
+  {
+   "tipo": "width",
+   "ini": 21117,
+   "fin": 21121,
+   "texto": "33.0"
+  },
+  {
+   "tipo": "work",
+   "ini": 21127,
+   "fin": 21281,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "MARIA SILVER. USA, 1942 / CHRIS CARNES. USA, 1942-2000\nDiego del Gastor y Enrique Méndez. Morón de la Frontera, ca. 1966.\n83,2 x 50,2 cm / 65,8 x 32,0 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21127,
+   "fin": 21281
+  },
+  {
+   "tipo": "person",
+   "ini": 21127,
+   "fin": 21150,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "MARIA SILVER. USA, 1942"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21127,
+   "fin": 21139,
+   "texto": "MARIA SILVER"
+  },
+  {
+   "tipo": "birth",
+   "ini": 21141,
+   "fin": 21150
+  },
+  {
+   "tipo": "placeName",
+   "ini": 21141,
+   "fin": 21144,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "person",
+   "ini": 21153,
+   "fin": 21181,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "CHRIS CARNES. USA, 1942-2000"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21153,
+   "fin": 21165,
+   "texto": "CHRIS CARNES"
+  },
+  {
+   "tipo": "birth",
+   "ini": 21167,
+   "fin": 21176
+  },
+  {
+   "tipo": "placeName",
+   "ini": 21167,
+   "fin": 21170,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "date",
+   "ini": 21172,
+   "fin": 21181,
+   "rasgos": {
+    "from": "1942",
+    "to": "2000"
+   },
+   "texto": "1942-2000"
+  },
+  {
+   "tipo": "death",
+   "ini": 21177,
+   "fin": 21181
+  },
+  {
+   "tipo": "title",
+   "ini": 21182,
+   "fin": 21215,
+   "texto": "Diego del Gastor y Enrique Méndez"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 21217,
+   "fin": 21237
+  },
+  {
+   "tipo": "placeName",
+   "ini": 21217,
+   "fin": 21237,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Morón de la Frontera"
+  },
+  {
+   "tipo": "date",
+   "ini": 21243,
+   "fin": 21247,
+   "rasgos": {
+    "notBefore": "1965",
+    "notAfter": "1967"
+   },
+   "texto": "1966"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21249,
+   "fin": 21263,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "83,2 x 50,2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21249,
+   "fin": 21253,
+   "texto": "83,2"
+  },
+  {
+   "tipo": "width",
+   "ini": 21256,
+   "fin": 21260,
+   "texto": "50,2"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21266,
+   "fin": 21280,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65,8 x 32,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21266,
+   "fin": 21270,
+   "texto": "65,8"
+  },
+  {
+   "tipo": "width",
+   "ini": 21273,
+   "fin": 21277,
+   "texto": "32,0"
+  },
+  {
+   "tipo": "work",
+   "ini": 21291,
+   "fin": 21405,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "STEVE KAHN. USA, 1943\nDiego del Gastor en Casa Pepe. Morón de la Frontera, 1967.\n90,0 x 125,0 cm / 65,7 x 96,4 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21291,
+   "fin": 21405
+  },
+  {
+   "tipo": "person",
+   "ini": 21291,
+   "fin": 21312,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "STEVE KAHN. USA, 1943"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21291,
+   "fin": 21301,
+   "texto": "STEVE KAHN"
+  },
+  {
+   "tipo": "birth",
+   "ini": 21303,
+   "fin": 21312
+  },
+  {
+   "tipo": "placeName",
+   "ini": 21303,
+   "fin": 21306,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "date",
+   "ini": 21308,
+   "fin": 21312,
+   "rasgos": {
+    "when": "1943"
+   },
+   "texto": "1943"
+  },
+  {
+   "tipo": "title",
+   "ini": 21313,
+   "fin": 21342,
+   "texto": "Diego del Gastor en Casa Pepe"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 21344,
+   "fin": 21364
+  },
+  {
+   "tipo": "placeName",
+   "ini": 21344,
+   "fin": 21364,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Morón de la Frontera"
+  },
+  {
+   "tipo": "date",
+   "ini": 21366,
+   "fin": 21370,
+   "rasgos": {
+    "when": "1967"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21372,
+   "fin": 21387,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "90,0 x 125,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21372,
+   "fin": 21376,
+   "texto": "90,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 21379,
+   "fin": 21384,
+   "texto": "125,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21390,
+   "fin": 21404,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65,7 x 96,4 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21390,
+   "fin": 21394,
+   "texto": "65,7"
+  },
+  {
+   "tipo": "width",
+   "ini": 21397,
+   "fin": 21401,
+   "texto": "96,4"
+  },
+  {
+   "tipo": "work",
+   "ini": 21415,
+   "fin": 21573,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "DAVID GEORGE. USA, 1938-2003\nGitanilla sin identificar bailando al lado de la carretera mientras otros niños miran. Ca. 1967. 50,0 x 65,0 cm / 32,3 x 49,9 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21415,
+   "fin": 21573
+  },
+  {
+   "tipo": "person",
+   "ini": 21415,
+   "fin": 21443,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "DAVID GEORGE. USA, 1938-2003"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21415,
+   "fin": 21427,
+   "texto": "DAVID GEORGE"
+  },
+  {
+   "tipo": "birth",
+   "ini": 21429,
+   "fin": 21438
+  },
+  {
+   "tipo": "placeName",
+   "ini": 21429,
+   "fin": 21432,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "date",
+   "ini": 21434,
+   "fin": 21443,
+   "rasgos": {
+    "from": "1938",
+    "to": "2003"
+   },
+   "texto": "1938-2003"
+  },
+  {
+   "tipo": "death",
+   "ini": 21439,
+   "fin": 21443
+  },
+  {
+   "tipo": "title",
+   "ini": 21444,
+   "fin": 21529,
+   "texto": "Gitanilla sin identificar bailando al lado de la carretera mientras otros niños miran"
+  },
+  {
+   "tipo": "date",
+   "ini": 21535,
+   "fin": 21539,
+   "rasgos": {
+    "notBefore": "1966",
+    "notAfter": "1968"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21541,
+   "fin": 21555,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50,0 x 65,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21541,
+   "fin": 21545,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 21548,
+   "fin": 21552,
+   "texto": "65,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21558,
+   "fin": 21572,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32,3 x 49,9 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21558,
+   "fin": 21562,
+   "texto": "32,3"
+  },
+  {
+   "tipo": "width",
+   "ini": 21565,
+   "fin": 21569,
+   "texto": "49,9"
+  },
+  {
+   "tipo": "work",
+   "ini": 21583,
+   "fin": 21681,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "DAVID GEORGE. USA, 1938-2003\nGitanilla no identificada. Ca. 1967. 50,0 x 65,0 cm / 32,2 x 43,0 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21583,
+   "fin": 21681
+  },
+  {
+   "tipo": "person",
+   "ini": 21583,
+   "fin": 21611,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "DAVID GEORGE. USA, 1938-2003"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21583,
+   "fin": 21595,
+   "texto": "DAVID GEORGE"
+  },
+  {
+   "tipo": "birth",
+   "ini": 21597,
+   "fin": 21606
+  },
+  {
+   "tipo": "placeName",
+   "ini": 21597,
+   "fin": 21600,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "date",
+   "ini": 21602,
+   "fin": 21611,
+   "rasgos": {
+    "from": "1938",
+    "to": "2003"
+   },
+   "texto": "1938-2003"
+  },
+  {
+   "tipo": "death",
+   "ini": 21607,
+   "fin": 21611
+  },
+  {
+   "tipo": "title",
+   "ini": 21612,
+   "fin": 21637,
+   "texto": "Gitanilla no identificada"
+  },
+  {
+   "tipo": "date",
+   "ini": 21643,
+   "fin": 21647,
+   "rasgos": {
+    "notBefore": "1966",
+    "notAfter": "1968"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21649,
+   "fin": 21663,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50,0 x 65,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21649,
+   "fin": 21653,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 21656,
+   "fin": 21660,
+   "texto": "65,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21666,
+   "fin": 21680,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32,2 x 43,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21666,
+   "fin": 21670,
+   "texto": "32,2"
+  },
+  {
+   "tipo": "width",
+   "ini": 21673,
+   "fin": 21677,
+   "texto": "43,0"
+  },
+  {
+   "tipo": "work",
+   "ini": 21683,
+   "fin": 21817,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "DAVID GEORGE. USA, 1938-2003\nEl Chocolate (Antonio de La Santísima Trinidad Núñez Montoya). Ca. 1967.\n50,0 x 65,0 cm / 31,9 x 45,7 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21683,
+   "fin": 21817
+  },
+  {
+   "tipo": "person",
+   "ini": 21683,
+   "fin": 21711,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "DAVID GEORGE. USA, 1938-2003"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21683,
+   "fin": 21695,
+   "texto": "DAVID GEORGE"
+  },
+  {
+   "tipo": "birth",
+   "ini": 21697,
+   "fin": 21706
+  },
+  {
+   "tipo": "placeName",
+   "ini": 21697,
+   "fin": 21700,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "date",
+   "ini": 21702,
+   "fin": 21711,
+   "rasgos": {
+    "from": "1938",
+    "to": "2003"
+   },
+   "texto": "1938-2003"
+  },
+  {
+   "tipo": "death",
+   "ini": 21707,
+   "fin": 21711
+  },
+  {
+   "tipo": "title",
+   "ini": 21712,
+   "fin": 21773,
+   "texto": "El Chocolate (Antonio de La Santísima Trinidad Núñez Montoya)"
+  },
+  {
+   "tipo": "date",
+   "ini": 21779,
+   "fin": 21783,
+   "rasgos": {
+    "notBefore": "1966",
+    "notAfter": "1968"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21785,
+   "fin": 21799,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50,0 x 65,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21785,
+   "fin": 21789,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 21792,
+   "fin": 21796,
+   "texto": "65,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21802,
+   "fin": 21816,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "31,9 x 45,7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21802,
+   "fin": 21806,
+   "texto": "31,9"
+  },
+  {
+   "tipo": "width",
+   "ini": 21809,
+   "fin": 21813,
+   "texto": "45,7"
+  },
+  {
+   "tipo": "work",
+   "ini": 21819,
+   "fin": 21979,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "DAVID GEORGE. USA, 1938-2003\nEl Farruco (Antonio Montoya Flores) y su hijo Farruquito (Juan Antonio Montoya Manzano). Ca. 1967. 65,0 x 50,0 cm / 42,8 x 29,4 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21819,
+   "fin": 21979
+  },
+  {
+   "tipo": "person",
+   "ini": 21819,
+   "fin": 21847,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "DAVID GEORGE. USA, 1938-2003"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21819,
+   "fin": 21831,
+   "texto": "DAVID GEORGE"
+  },
+  {
+   "tipo": "birth",
+   "ini": 21833,
+   "fin": 21842
+  },
+  {
+   "tipo": "placeName",
+   "ini": 21833,
+   "fin": 21836,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "date",
+   "ini": 21838,
+   "fin": 21847,
+   "rasgos": {
+    "from": "1938",
+    "to": "2003"
+   },
+   "texto": "1938-2003"
+  },
+  {
+   "tipo": "death",
+   "ini": 21843,
+   "fin": 21847
+  },
+  {
+   "tipo": "title",
+   "ini": 21848,
+   "fin": 21935,
+   "texto": "El Farruco (Antonio Montoya Flores) y su hijo Farruquito (Juan Antonio Montoya Manzano)"
+  },
+  {
+   "tipo": "date",
+   "ini": 21941,
+   "fin": 21945,
+   "rasgos": {
+    "notBefore": "1966",
+    "notAfter": "1968"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21947,
+   "fin": 21961,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65,0 x 50,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21947,
+   "fin": 21951,
+   "texto": "65,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 21954,
+   "fin": 21958,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 21964,
+   "fin": 21978,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "42,8 x 29,4 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 21964,
+   "fin": 21968,
+   "texto": "42,8"
+  },
+  {
+   "tipo": "width",
+   "ini": 21971,
+   "fin": 21975,
+   "texto": "29,4"
+  },
+  {
+   "tipo": "work",
+   "ini": 21989,
+   "fin": 22190,
+   "rasgos": {
+    "type": "photograph"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 21989,
+   "fin": 22190
+  },
+  {
+   "tipo": "person",
+   "ini": 21989,
+   "fin": 22017,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ROBERT KLEIN. Alemania, 1949"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21989,
+   "fin": 22001,
+   "texto": "ROBERT KLEIN"
+  },
+  {
+   "tipo": "birth",
+   "ini": 22003,
+   "fin": 22017
+  },
+  {
+   "tipo": "placeName",
+   "ini": 22003,
+   "fin": 22011,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Alemania"
+  },
+  {
+   "tipo": "date",
+   "ini": 22013,
+   "fin": 22017,
+   "rasgos": {
+    "when": "1949"
+   },
+   "texto": "1949"
+  },
+  {
+   "tipo": "title",
+   "ini": 22018,
+   "fin": 22141,
+   "texto": "Manuel Bermúdez Junquera “Anzonini del Puerto”, festero. Fiesta en un bar el día después del bautizo de Sebastian Peña Snow"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 22143,
+   "fin": 22150
+  },
+  {
+   "tipo": "placeName",
+   "ini": 22143,
+   "fin": 22150,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Lebrija"
+  },
+  {
+   "tipo": "date",
+   "ini": 22152,
+   "fin": 22156,
+   "rasgos": {
+    "when": "1981"
+   },
+   "texto": "1981"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22158,
+   "fin": 22172,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50,0 x 65,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22158,
+   "fin": 22162,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 22165,
+   "fin": 22169,
+   "texto": "65,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22175,
+   "fin": 22189,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29,4 x 45,3 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22175,
+   "fin": 22179,
+   "texto": "29,4"
+  },
+  {
+   "tipo": "width",
+   "ini": 22182,
+   "fin": 22186,
+   "texto": "45,3"
+  },
+  {
+   "tipo": "work",
+   "ini": 22192,
+   "fin": 22389,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "ROBERT KLEIN. Alemania, 1949\nMiguel Funi y Andrés Jiménez “Andrés de la Carrasca”. Fiesta en un bar el día después del bautizo de Sebastián Peña Snow.Lebrija, 1981. 50,0 x 65,0 cm / 29,5 x 45,1 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22192,
+   "fin": 22389
+  },
+  {
+   "tipo": "person",
+   "ini": 22192,
+   "fin": 22220,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ROBERT KLEIN. Alemania, 1949"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22192,
+   "fin": 22204,
+   "texto": "ROBERT KLEIN"
+  },
+  {
+   "tipo": "birth",
+   "ini": 22206,
+   "fin": 22220
+  },
+  {
+   "tipo": "placeName",
+   "ini": 22206,
+   "fin": 22214,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Alemania"
+  },
+  {
+   "tipo": "date",
+   "ini": 22216,
+   "fin": 22220,
+   "rasgos": {
+    "when": "1949"
+   },
+   "texto": "1949"
+  },
+  {
+   "tipo": "title",
+   "ini": 22221,
+   "fin": 22341,
+   "texto": "Miguel Funi y Andrés Jiménez “Andrés de la Carrasca”. Fiesta en un bar el día después del bautizo de Sebastián Peña Snow"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 22342,
+   "fin": 22349
+  },
+  {
+   "tipo": "date",
+   "ini": 22351,
+   "fin": 22355,
+   "rasgos": {
+    "when": "1981"
+   },
+   "texto": "1981"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22357,
+   "fin": 22371,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50,0 x 65,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22357,
+   "fin": 22361,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 22364,
+   "fin": 22368,
+   "texto": "65,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22374,
+   "fin": 22388,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29,5 x 45,1 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22374,
+   "fin": 22378,
+   "texto": "29,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 22381,
+   "fin": 22385,
+   "texto": "45,1"
+  },
+  {
+   "tipo": "work",
+   "ini": 22391,
+   "fin": 22504,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "DANIEL SEYMOUR. USA, 1945-1973\nFrancisco Molina. Morón de la Frontera, ca. 1970. 50,2 x 65,2 cm / 32,9 x 48,6 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22391,
+   "fin": 22504
+  },
+  {
+   "tipo": "person",
+   "ini": 22391,
+   "fin": 22421,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "DANIEL SEYMOUR. USA, 1945-1973"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22391,
+   "fin": 22405,
+   "texto": "DANIEL SEYMOUR"
+  },
+  {
+   "tipo": "birth",
+   "ini": 22407,
+   "fin": 22416
+  },
+  {
+   "tipo": "placeName",
+   "ini": 22407,
+   "fin": 22410,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "date",
+   "ini": 22412,
+   "fin": 22421,
+   "rasgos": {
+    "from": "1945",
+    "to": "1973"
+   },
+   "texto": "1945-1973"
+  },
+  {
+   "tipo": "death",
+   "ini": 22417,
+   "fin": 22421
+  },
+  {
+   "tipo": "title",
+   "ini": 22422,
+   "fin": 22438,
+   "texto": "Francisco Molina"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 22440,
+   "fin": 22460
+  },
+  {
+   "tipo": "placeName",
+   "ini": 22440,
+   "fin": 22460,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Morón de la Frontera"
+  },
+  {
+   "tipo": "date",
+   "ini": 22466,
+   "fin": 22470,
+   "rasgos": {
+    "notBefore": "1969",
+    "notAfter": "1971"
+   },
+   "texto": "1970"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22472,
+   "fin": 22486,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50,2 x 65,2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22472,
+   "fin": 22476,
+   "texto": "50,2"
+  },
+  {
+   "tipo": "width",
+   "ini": 22479,
+   "fin": 22483,
+   "texto": "65,2"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22489,
+   "fin": 22503,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32,9 x 48,6 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22489,
+   "fin": 22493,
+   "texto": "32,9"
+  },
+  {
+   "tipo": "width",
+   "ini": 22496,
+   "fin": 22500,
+   "texto": "48,6"
+  },
+  {
+   "tipo": "work",
+   "ini": 22506,
+   "fin": 22620,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "FOTÓGRAFO DESCONOCIDO (¿Paco Grande?)\nDanny Seymour y Francisco Molina. Ca. 1970. 50,2 x 65,2 cm / 33,1 x 48,5 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22506,
+   "fin": 22620
+  },
+  {
+   "tipo": "person",
+   "ini": 22506,
+   "fin": 22543,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "FOTÓGRAFO DESCONOCIDO (¿Paco Grande?)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22530,
+   "fin": 22541,
+   "texto": "Paco Grande"
+  },
+  {
+   "tipo": "title",
+   "ini": 22544,
+   "fin": 22576,
+   "texto": "Danny Seymour y Francisco Molina"
+  },
+  {
+   "tipo": "date",
+   "ini": 22582,
+   "fin": 22586,
+   "rasgos": {
+    "notBefore": "1969",
+    "notAfter": "1971"
+   },
+   "texto": "1970"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22588,
+   "fin": 22602,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50,2 x 65,2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22588,
+   "fin": 22592,
+   "texto": "50,2"
+  },
+  {
+   "tipo": "width",
+   "ini": 22595,
+   "fin": 22599,
+   "texto": "65,2"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22605,
+   "fin": 22619,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "33,1 x 48,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22605,
+   "fin": 22609,
+   "texto": "33,1"
+  },
+  {
+   "tipo": "width",
+   "ini": 22612,
+   "fin": 22616,
+   "texto": "48,5"
+  },
+  {
+   "tipo": "work",
+   "ini": 22630,
+   "fin": 22840,
+   "rasgos": {
+    "type": "photograph"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22630,
+   "fin": 22840
+  },
+  {
+   "tipo": "person",
+   "ini": 22630,
+   "fin": 22658,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ROBERT KLEIN. Alemania, 1949"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22630,
+   "fin": 22642,
+   "texto": "ROBERT KLEIN"
+  },
+  {
+   "tipo": "birth",
+   "ini": 22644,
+   "fin": 22658
+  },
+  {
+   "tipo": "placeName",
+   "ini": 22644,
+   "fin": 22652,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Alemania"
+  },
+  {
+   "tipo": "date",
+   "ini": 22654,
+   "fin": 22658,
+   "rasgos": {
+    "when": "1949"
+   },
+   "texto": "1949"
+  },
+  {
+   "tipo": "title",
+   "ini": 22659,
+   "fin": 22791,
+   "texto": "La Chacha Luisa (Luisa Peña), Pepa de Benito e Inés de Lebrija (Inés Peña). Fiesta en la casa de\nEvalina Crone durante una filmación"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 22793,
+   "fin": 22800
+  },
+  {
+   "tipo": "placeName",
+   "ini": 22793,
+   "fin": 22800,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "date",
+   "ini": 22802,
+   "fin": 22806,
+   "rasgos": {
+    "when": "1985"
+   },
+   "texto": "1985"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22808,
+   "fin": 22822,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50,0 x 50,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22808,
+   "fin": 22812,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 22815,
+   "fin": 22819,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22825,
+   "fin": 22839,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35,0 x 30,3 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22825,
+   "fin": 22829,
+   "texto": "35,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 22832,
+   "fin": 22836,
+   "texto": "30,3"
+  },
+  {
+   "tipo": "work",
+   "ini": 22843,
+   "fin": 23096,
+   "rasgos": {
+    "type": "photograph"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22843,
+   "fin": 23096
+  },
+  {
+   "tipo": "person",
+   "ini": 22843,
+   "fin": 22871,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ROBERT KLEIN. Alemania, 1949"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22843,
+   "fin": 22855,
+   "texto": "ROBERT KLEIN"
+  },
+  {
+   "tipo": "birth",
+   "ini": 22857,
+   "fin": 22871
+  },
+  {
+   "tipo": "placeName",
+   "ini": 22857,
+   "fin": 22865,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Alemania"
+  },
+  {
+   "tipo": "date",
+   "ini": 22867,
+   "fin": 22871,
+   "rasgos": {
+    "when": "1949"
+   },
+   "texto": "1949"
+  },
+  {
+   "tipo": "title",
+   "ini": 22872,
+   "fin": 23048,
+   "texto": "Pepa de Utrera, Inés Bacán, Miguel Funi, Luisa Loreto (hermana de Pepa de Utrera), María Peña (cantaora) y Pedro Bacán. Fiesta en la casa de Evalina Crone durante una filmación"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 23049,
+   "fin": 23056
+  },
+  {
+   "tipo": "placeName",
+   "ini": 23049,
+   "fin": 23056,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "date",
+   "ini": 23058,
+   "fin": 23062,
+   "rasgos": {
+    "when": "1985"
+   },
+   "texto": "1985"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23064,
+   "fin": 23078,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65,0 x 50,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23064,
+   "fin": 23068,
+   "texto": "65,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 23071,
+   "fin": 23075,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23081,
+   "fin": 23095,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50,4 x 32,2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23081,
+   "fin": 23085,
+   "texto": "50,4"
+  },
+  {
+   "tipo": "width",
+   "ini": 23088,
+   "fin": 23092,
+   "texto": "32,2"
+  },
+  {
+   "tipo": "work",
+   "ini": 23107,
+   "fin": 23255,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "DANIEL SEYMOUR. USA, 1945-1973\nFelipe de Triana, cantaor, y detrás David Serva con gafas de sol. Sevilla, ca. 1970.\n50,2 x 65,2 cm / 32,9 x 49,2 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23107,
+   "fin": 23255
+  },
+  {
+   "tipo": "person",
+   "ini": 23107,
+   "fin": 23137,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "DANIEL SEYMOUR. USA, 1945-1973"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23107,
+   "fin": 23121,
+   "texto": "DANIEL SEYMOUR"
+  },
+  {
+   "tipo": "birth",
+   "ini": 23123,
+   "fin": 23132
+  },
+  {
+   "tipo": "placeName",
+   "ini": 23123,
+   "fin": 23126,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "date",
+   "ini": 23128,
+   "fin": 23137,
+   "rasgos": {
+    "from": "1945",
+    "to": "1973"
+   },
+   "texto": "1945-1973"
+  },
+  {
+   "tipo": "death",
+   "ini": 23133,
+   "fin": 23137
+  },
+  {
+   "tipo": "title",
+   "ini": 23138,
+   "fin": 23202,
+   "texto": "Felipe de Triana, cantaor, y detrás David Serva con gafas de sol"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 23204,
+   "fin": 23211
+  },
+  {
+   "tipo": "placeName",
+   "ini": 23204,
+   "fin": 23211,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "date",
+   "ini": 23217,
+   "fin": 23221,
+   "rasgos": {
+    "botBefore": "1969",
+    "notAfter": "1971"
+   },
+   "texto": "1970"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23223,
+   "fin": 23237,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50,2 x 65,2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23223,
+   "fin": 23227,
+   "texto": "50,2"
+  },
+  {
+   "tipo": "width",
+   "ini": 23230,
+   "fin": 23234,
+   "texto": "65,2"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23240,
+   "fin": 23254,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32,9 x 49,2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23240,
+   "fin": 23244,
+   "texto": "32,9"
+  },
+  {
+   "tipo": "width",
+   "ini": 23247,
+   "fin": 23251,
+   "texto": "49,2"
+  },
+  {
+   "tipo": "work",
+   "ini": 23258,
+   "fin": 23355,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "PHIL SLIGHT. Nueva Zelanda 1932\nRetrato de Aurelio Suarez. 1969. 65,0 x 50,0 cm / 49,5 x 31,4 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23258,
+   "fin": 23355
+  },
+  {
+   "tipo": "person",
+   "ini": 23258,
+   "fin": 23289,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "PHIL SLIGHT. Nueva Zelanda 1932"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23258,
+   "fin": 23269,
+   "texto": "PHIL SLIGHT"
+  },
+  {
+   "tipo": "birth",
+   "ini": 23271,
+   "fin": 23289
+  },
+  {
+   "tipo": "placeName",
+   "ini": 23271,
+   "fin": 23284,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Nueva Zelanda"
+  },
+  {
+   "tipo": "date",
+   "ini": 23285,
+   "fin": 23289,
+   "rasgos": {
+    "when": "1932"
+   },
+   "texto": "1932"
+  },
+  {
+   "tipo": "title",
+   "ini": 23290,
+   "fin": 23315,
+   "texto": "Retrato de Aurelio Suarez"
+  },
+  {
+   "tipo": "date",
+   "ini": 23317,
+   "fin": 23321,
+   "rasgos": {
+    "when": "1969"
+   },
+   "texto": "1969"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23323,
+   "fin": 23337,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65,0 x 50,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23323,
+   "fin": 23327,
+   "texto": "65,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 23330,
+   "fin": 23334,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23340,
+   "fin": 23354,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "49,5 x 31,4 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23340,
+   "fin": 23344,
+   "texto": "49,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 23347,
+   "fin": 23351,
+   "texto": "31,4"
+  },
+  {
+   "tipo": "work",
+   "ini": 23358,
+   "fin": 23500,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "WILLIAM DAVIDSON. USA, 1938\nDiego del Gastor (Diego Amaya Flores) en fiesta. El Gastor, 1970.\nFrame: 90,0 x 125,0 cm / Image: 67,7 x 101,4 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23358,
+   "fin": 23500
+  },
+  {
+   "tipo": "person",
+   "ini": 23358,
+   "fin": 23385,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "WILLIAM DAVIDSON. USA, 1938"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23358,
+   "fin": 23374,
+   "texto": "WILLIAM DAVIDSON"
+  },
+  {
+   "tipo": "birth",
+   "ini": 23376,
+   "fin": 23385
+  },
+  {
+   "tipo": "placeName",
+   "ini": 23376,
+   "fin": 23379,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "date",
+   "ini": 23381,
+   "fin": 23385,
+   "rasgos": {
+    "when": "1938"
+   },
+   "texto": "1938"
+  },
+  {
+   "tipo": "title",
+   "ini": 23386,
+   "fin": 23433,
+   "texto": "Diego del Gastor (Diego Amaya Flores) en fiesta"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 23435,
+   "fin": 23444
+  },
+  {
+   "tipo": "placeName",
+   "ini": 23435,
+   "fin": 23444,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "El Gastor"
+  },
+  {
+   "tipo": "date",
+   "ini": 23446,
+   "fin": 23450,
+   "rasgos": {
+    "when": "1970"
+   },
+   "texto": "1970"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23459,
+   "fin": 23474,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "90,0 x 125,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23459,
+   "fin": 23463,
+   "texto": "90,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 23466,
+   "fin": 23471,
+   "texto": "125,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23484,
+   "fin": 23499,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "67,7 x 101,4 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23484,
+   "fin": 23488,
+   "texto": "67,7"
+  },
+  {
+   "tipo": "width",
+   "ini": 23491,
+   "fin": 23496,
+   "texto": "101,4"
+  },
+  {
+   "tipo": "work",
+   "ini": 23503,
+   "fin": 23639,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "DAVID GEORGE. USA, 1938-2003\nJoven Changuito bailando al amanecer. Feria de Sevilla. Sevilla, ca. 1967.\n50,0 x 65,0 cm / 30,6 x 43,8 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23503,
+   "fin": 23639
+  },
+  {
+   "tipo": "person",
+   "ini": 23503,
+   "fin": 23531,
+   "texto": "DAVID GEORGE. USA, 1938-2003"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23503,
+   "fin": 23515,
+   "texto": "DAVID GEORGE"
+  },
+  {
+   "tipo": "birth",
+   "ini": 23517,
+   "fin": 23526
+  },
+  {
+   "tipo": "placeName",
+   "ini": 23517,
+   "fin": 23520,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "date",
+   "ini": 23522,
+   "fin": 23531,
+   "rasgos": {
+    "from": "1938",
+    "to": "2003"
+   },
+   "texto": "1938-2003"
+  },
+  {
+   "tipo": "death",
+   "ini": 23527,
+   "fin": 23531
+  },
+  {
+   "tipo": "title",
+   "ini": 23532,
+   "fin": 23586,
+   "texto": "Joven Changuito bailando al amanecer. Feria de Sevilla"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 23588,
+   "fin": 23595
+  },
+  {
+   "tipo": "placeName",
+   "ini": 23588,
+   "fin": 23595,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "date",
+   "ini": 23601,
+   "fin": 23605,
+   "rasgos": {
+    "notBefore": "1966",
+    "notAfter": "1968"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23607,
+   "fin": 23621,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50,0 x 65,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23607,
+   "fin": 23611,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 23614,
+   "fin": 23618,
+   "texto": "65,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23624,
+   "fin": 23638,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30,6 x 43,8 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23624,
+   "fin": 23628,
+   "texto": "30,6"
+  },
+  {
+   "tipo": "width",
+   "ini": 23631,
+   "fin": 23635,
+   "texto": "43,8"
+  },
+  {
+   "tipo": "work",
+   "ini": 23651,
+   "fin": 23820,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "RUTH FRAZIER. USA, 1936\nAgustín Ríos Amaya y Diego del Gastor; juerga familiar en Morón de la Frontera. Morón de la Frontera, sin fecha. 65,0 x 90,0 cm / 32,5 x 23,9 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23651,
+   "fin": 23820
+  },
+  {
+   "tipo": "person",
+   "ini": 23651,
+   "fin": 23674,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "RUTH FRAZIER. USA, 1936"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23651,
+   "fin": 23663,
+   "texto": "RUTH FRAZIER"
+  },
+  {
+   "tipo": "birth",
+   "ini": 23665,
+   "fin": 23674
+  },
+  {
+   "tipo": "placeName",
+   "ini": 23665,
+   "fin": 23668,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "date",
+   "ini": 23670,
+   "fin": 23674,
+   "rasgos": {
+    "when": "1936"
+   },
+   "texto": "1936"
+  },
+  {
+   "tipo": "title",
+   "ini": 23675,
+   "fin": 23752,
+   "texto": "Agustín Ríos Amaya y Diego del Gastor; juerga familiar en Morón de la Fronter"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 23755,
+   "fin": 23775
+  },
+  {
+   "tipo": "placeName",
+   "ini": 23755,
+   "fin": 23775,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Morón de la Frontera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23788,
+   "fin": 23802,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65,0 x 90,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23788,
+   "fin": 23792,
+   "texto": "65,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 23795,
+   "fin": 23799,
+   "texto": "90,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23805,
+   "fin": 23819,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32,5 x 23,9 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23805,
+   "fin": 23809,
+   "texto": "32,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 23812,
+   "fin": 23816,
+   "texto": "23,9"
+  },
+  {
+   "tipo": "work",
+   "ini": 23823,
+   "fin": 24137,
+   "rasgos": {
+    "type": "photograph"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23823,
+   "fin": 24137
+  },
+  {
+   "tipo": "person",
+   "ini": 23823,
+   "fin": 23851,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "DAVID GEORGE. USA, 1938-2003"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23823,
+   "fin": 23835,
+   "texto": "DAVID GEORGE"
+  },
+  {
+   "tipo": "birth",
+   "ini": 23837,
+   "fin": 23846
+  },
+  {
+   "tipo": "placeName",
+   "ini": 23837,
+   "fin": 23840,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "date",
+   "ini": 23842,
+   "fin": 23851,
+   "rasgos": {
+    "from": "1938",
+    "to": "2003"
+   },
+   "texto": "1938-2003"
+  },
+  {
+   "tipo": "death",
+   "ini": 23847,
+   "fin": 23851
+  },
+  {
+   "tipo": "title",
+   "ini": 23852,
+   "fin": 24089
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 24091,
+   "fin": 24097
+  },
+  {
+   "tipo": "placeName",
+   "ini": 24091,
+   "fin": 24097,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Utrera"
+  },
+  {
+   "tipo": "date",
+   "ini": 24099,
+   "fin": 24103,
+   "rasgos": {
+    "when": "1964"
+   },
+   "texto": "1964"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24105,
+   "fin": 24119,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50,0 x 65,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24105,
+   "fin": 24109,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 24112,
+   "fin": 24116,
+   "texto": "65,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24122,
+   "fin": 24136,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32,7 x 47,7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24122,
+   "fin": 24126,
+   "texto": "32,7"
+  },
+  {
+   "tipo": "width",
+   "ini": 24129,
+   "fin": 24133,
+   "texto": "47,7"
+  },
+  {
+   "tipo": "work",
+   "ini": 24151,
+   "fin": 24296,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "DAVID GEORGE. USA, 1938-2003\nJóvenes gitanos sin identificar bailando en la Feria de Sevilla. Sevilla, ca. 1967.\n50,0 x 65,0 cm / 32,8 x 47,7 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24151,
+   "fin": 24296
+  },
+  {
+   "tipo": "person",
+   "ini": 24151,
+   "fin": 24179,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "DAVID GEORGE. USA, 1938-2003"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24151,
+   "fin": 24163,
+   "texto": "DAVID GEORGE"
+  },
+  {
+   "tipo": "birth",
+   "ini": 24165,
+   "fin": 24174
+  },
+  {
+   "tipo": "placeName",
+   "ini": 24165,
+   "fin": 24168,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "date",
+   "ini": 24170,
+   "fin": 24179,
+   "rasgos": {
+    "from": "1938",
+    "to": "2003"
+   },
+   "texto": "1938-2003"
+  },
+  {
+   "tipo": "death",
+   "ini": 24175,
+   "fin": 24179
+  },
+  {
+   "tipo": "title",
+   "ini": 24180,
+   "fin": 24243,
+   "texto": "Jóvenes gitanos sin identificar bailando en la Feria de Sevilla"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 24245,
+   "fin": 24252
+  },
+  {
+   "tipo": "placeName",
+   "ini": 24245,
+   "fin": 24252,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "date",
+   "ini": 24258,
+   "fin": 24262,
+   "rasgos": {
+    "notBefore": "1966",
+    "notAfter": "1968"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24264,
+   "fin": 24278,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50,0 x 65,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24264,
+   "fin": 24268,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 24271,
+   "fin": 24275,
+   "texto": "65,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24281,
+   "fin": 24295,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32,8 x 47,7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24281,
+   "fin": 24285,
+   "texto": "32,8"
+  },
+  {
+   "tipo": "width",
+   "ini": 24288,
+   "fin": 24292,
+   "texto": "47,7"
+  },
+  {
+   "tipo": "work",
+   "ini": 24299,
+   "fin": 24453,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "DAVID GEORGE. USA, 1938-2003\nEl Rete a la guitarra y el niño Vicente Amaya bailando. Feria de Sevilla. Sevilla, ca. 1967.\n50,0 x 65,0 cm / 32,7 x 47,7 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24299,
+   "fin": 24453
+  },
+  {
+   "tipo": "person",
+   "ini": 24299,
+   "fin": 24327,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "DAVID GEORGE. USA, 1938-2003"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24299,
+   "fin": 24311,
+   "texto": "DAVID GEORGE"
+  },
+  {
+   "tipo": "birth",
+   "ini": 24313,
+   "fin": 24322
+  },
+  {
+   "tipo": "placeName",
+   "ini": 24313,
+   "fin": 24316,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "date",
+   "ini": 24318,
+   "fin": 24327,
+   "rasgos": {
+    "from": "1938",
+    "to": "2003"
+   },
+   "texto": "1938-2003"
+  },
+  {
+   "tipo": "death",
+   "ini": 24323,
+   "fin": 24327
+  },
+  {
+   "tipo": "title",
+   "ini": 24328,
+   "fin": 24400,
+   "texto": "El Rete a la guitarra y el niño Vicente Amaya bailando. Feria de Sevilla"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 24402,
+   "fin": 24409
+  },
+  {
+   "tipo": "placeName",
+   "ini": 24402,
+   "fin": 24409,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "date",
+   "ini": 24415,
+   "fin": 24419,
+   "rasgos": {
+    "notBefore": "1966",
+    "notAfter": "1968"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24421,
+   "fin": 24435,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50,0 x 65,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24421,
+   "fin": 24425,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 24428,
+   "fin": 24432,
+   "texto": "65,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24438,
+   "fin": 24452,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32,7 x 47,7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24438,
+   "fin": 24442,
+   "texto": "32,7"
+  },
+  {
+   "tipo": "width",
+   "ini": 24445,
+   "fin": 24449,
+   "texto": "47,7"
+  },
+  {
+   "tipo": "work",
+   "ini": 24456,
+   "fin": 24568,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "DAVID GEORGE. USA, 1938-2003\nMiguel Funi en la Feria de Sevilla. Sevilla, 1967. 50,0 x 65,0 cm / 32,7 x 47,7 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24456,
+   "fin": 24568
+  },
+  {
+   "tipo": "person",
+   "ini": 24456,
+   "fin": 24484,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "DAVID GEORGE. USA, 1938-2003"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24456,
+   "fin": 24468,
+   "texto": "DAVID GEORGE"
+  },
+  {
+   "tipo": "birth",
+   "ini": 24470,
+   "fin": 24479
+  },
+  {
+   "tipo": "placeName",
+   "ini": 24470,
+   "fin": 24473,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "date",
+   "ini": 24475,
+   "fin": 24484,
+   "rasgos": {
+    "from": "1938",
+    "to": "2003"
+   },
+   "texto": "1938-2003"
+  },
+  {
+   "tipo": "death",
+   "ini": 24480,
+   "fin": 24484
+  },
+  {
+   "tipo": "title",
+   "ini": 24485,
+   "fin": 24519,
+   "texto": "Miguel Funi en la Feria de Sevilla"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 24521,
+   "fin": 24528
+  },
+  {
+   "tipo": "placeName",
+   "ini": 24521,
+   "fin": 24528,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "date",
+   "ini": 24530,
+   "fin": 24534,
+   "rasgos": {
+    "when": "1967"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24536,
+   "fin": 24550,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50,0 x 65,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24536,
+   "fin": 24540,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 24543,
+   "fin": 24547,
+   "texto": "65,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24553,
+   "fin": 24567,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32,7 x 47,7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24553,
+   "fin": 24557,
+   "texto": "32,7"
+  },
+  {
+   "tipo": "width",
+   "ini": 24560,
+   "fin": 24564,
+   "texto": "47,7"
+  },
+  {
+   "tipo": "work",
+   "ini": 24571,
+   "fin": 24660,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "STEVE KAHN. USA. 1943\nEl Chozas de Jerez. Sevilla, 1967. 50,0 x 65,0 cm / 30,1 x 44,9 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24571,
+   "fin": 24660
+  },
+  {
+   "tipo": "person",
+   "ini": 24571,
+   "fin": 24592,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "STEVE KAHN. USA. 1943"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24571,
+   "fin": 24581,
+   "texto": "STEVE KAHN"
+  },
+  {
+   "tipo": "birth",
+   "ini": 24583,
+   "fin": 24592
+  },
+  {
+   "tipo": "placeName",
+   "ini": 24583,
+   "fin": 24586,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "date",
+   "ini": 24588,
+   "fin": 24592,
+   "rasgos": {
+    "when": "1943"
+   },
+   "texto": "1943"
+  },
+  {
+   "tipo": "title",
+   "ini": 24593,
+   "fin": 24611,
+   "texto": "El Chozas de Jerez"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 24613,
+   "fin": 24620
+  },
+  {
+   "tipo": "placeName",
+   "ini": 24613,
+   "fin": 24620,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "date",
+   "ini": 24622,
+   "fin": 24626,
+   "rasgos": {
+    "when": "1967"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24628,
+   "fin": 24642,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50,0 x 65,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24628,
+   "fin": 24632,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 24635,
+   "fin": 24639,
+   "texto": "65,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24645,
+   "fin": 24659,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30,1 x 44,9 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24645,
+   "fin": 24649,
+   "texto": "30,1"
+  },
+  {
+   "tipo": "width",
+   "ini": 24652,
+   "fin": 24656,
+   "texto": "44,9"
+  },
+  {
+   "tipo": "work",
+   "ini": 24673,
+   "fin": 24835,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "STEVE KAHN. USA. 1943\nDiego del Gastor, Chris Carnes y María Silver detrás. Caseta privada en la Feria de Sevilla. Sevilla, 1967.\n50,0 x 65,0 cm / 30,4 x 45,4 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24673,
+   "fin": 24835
+  },
+  {
+   "tipo": "person",
+   "ini": 24673,
+   "fin": 24694,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "STEVE KAHN. USA. 1943"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24673,
+   "fin": 24683,
+   "texto": "STEVE KAHN"
+  },
+  {
+   "tipo": "birth",
+   "ini": 24685,
+   "fin": 24694
+  },
+  {
+   "tipo": "placeName",
+   "ini": 24685,
+   "fin": 24688,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "date",
+   "ini": 24690,
+   "fin": 24694,
+   "rasgos": {
+    "when": "1943"
+   },
+   "texto": "1943"
+  },
+  {
+   "tipo": "title",
+   "ini": 24695,
+   "fin": 24786,
+   "texto": "Diego del Gastor, Chris Carnes y María Silver detrás. Caseta privada en la Feria de Sevilla"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 24788,
+   "fin": 24795
+  },
+  {
+   "tipo": "placeName",
+   "ini": 24788,
+   "fin": 24795,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "date",
+   "ini": 24797,
+   "fin": 24801,
+   "rasgos": {
+    "when": "1967"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24803,
+   "fin": 24817,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50,0 x 65,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24803,
+   "fin": 24807,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 24810,
+   "fin": 24814,
+   "texto": "65,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24820,
+   "fin": 24834,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30,4 x 45,4 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24820,
+   "fin": 24824,
+   "texto": "30,4"
+  },
+  {
+   "tipo": "width",
+   "ini": 24827,
+   "fin": 24831,
+   "texto": "45,4"
+  },
+  {
+   "tipo": "work",
+   "ini": 24848,
+   "fin": 25012,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "STEVE KAHN. USA, 1943\nJuerga gitana en el sitio de los buñuelos de la Feria de Sevilla. Guitarrista: Ramón Amador. Sevilla, 1967. 125.0 x 90.0 cm / 100.0 x 64.3 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24848,
+   "fin": 25012
+  },
+  {
+   "tipo": "person",
+   "ini": 24848,
+   "fin": 24869,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "STEVE KAHN. USA, 1943"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24848,
+   "fin": 24858,
+   "texto": "STEVE KAHN"
+  },
+  {
+   "tipo": "birth",
+   "ini": 24860,
+   "fin": 24869
+  },
+  {
+   "tipo": "placeName",
+   "ini": 24860,
+   "fin": 24863,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "USA"
+  },
+  {
+   "tipo": "date",
+   "ini": 24865,
+   "fin": 24869,
+   "rasgos": {
+    "when": "1943"
+   },
+   "texto": "1943"
+  },
+  {
+   "tipo": "title",
+   "ini": 24870,
+   "fin": 24961,
+   "texto": "Juerga gitana en el sitio de los buñuelos de la Feria de Sevilla. Guitarrista: Ramón Amador"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 24963,
+   "fin": 24970
+  },
+  {
+   "tipo": "placeName",
+   "ini": 24963,
+   "fin": 24970,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Sevilla"
+  },
+  {
+   "tipo": "date",
+   "ini": 24972,
+   "fin": 24976,
+   "rasgos": {
+    "when": "1967"
+   },
+   "texto": "1967"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24978,
+   "fin": 24993,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "125.0 x 90.0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24978,
+   "fin": 24983,
+   "texto": "125.0"
+  },
+  {
+   "tipo": "width",
+   "ini": 24986,
+   "fin": 24990,
+   "texto": "90.0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24996,
+   "fin": 25011,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100.0 x 64.3 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24996,
+   "fin": 25001,
+   "texto": "100.0"
+  },
+  {
+   "tipo": "width",
+   "ini": 25004,
+   "fin": 25008,
+   "texto": "64.3"
+  },
+  {
+   "tipo": "work",
+   "ini": 25015,
+   "fin": 25362,
+   "rasgos": {
+    "type": "photograph"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25015,
+   "fin": 25362
+  },
+  {
+   "tipo": "person",
+   "ini": 25015,
+   "fin": 25043,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ROBERT KLEIN. Alemania, 1949"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25015,
+   "fin": 25027,
+   "texto": "ROBERT KLEIN"
+  },
+  {
+   "tipo": "birth",
+   "ini": 25029,
+   "fin": 25043
+  },
+  {
+   "tipo": "placeName",
+   "ini": 25029,
+   "fin": 25037,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Alemania"
+  },
+  {
+   "tipo": "date",
+   "ini": 25039,
+   "fin": 25043,
+   "rasgos": {
+    "when": "1949"
+   },
+   "texto": "1949"
+  },
+  {
+   "tipo": "title",
+   "ini": 25044,
+   "fin": 25314
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 25316,
+   "fin": 25323
+  },
+  {
+   "tipo": "placeName",
+   "ini": 25316,
+   "fin": 25323,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Lebrija"
+  },
+  {
+   "tipo": "date",
+   "ini": 25324,
+   "fin": 25328,
+   "rasgos": {
+    "when": "1981"
+   },
+   "texto": "1981"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25330,
+   "fin": 25344,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "72,0 x 50,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25330,
+   "fin": 25334,
+   "texto": "72,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 25337,
+   "fin": 25341,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25347,
+   "fin": 25361,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "54,5 x 32,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25347,
+   "fin": 25351,
+   "texto": "54,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 25354,
+   "fin": 25358,
+   "texto": "32,5"
+  },
+  {
+   "tipo": "work",
+   "ini": 25374,
+   "fin": 25569,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "ROBERT KLEIN. Alemania, 1949\nPepa de Benito con José Valencia Vargas “El Caneco”. Bodega Mendaro. Fiesta después del bautizo de Sebastián Peña Snow. Lebrija 1981. 65,0 x 50,0 cm / 38,0 x 28,1 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25374,
+   "fin": 25569
+  },
+  {
+   "tipo": "person",
+   "ini": 25374,
+   "fin": 25402,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ROBERT KLEIN. Alemania, 1949"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25374,
+   "fin": 25386,
+   "texto": "ROBERT KLEIN"
+  },
+  {
+   "tipo": "birth",
+   "ini": 25388,
+   "fin": 25402
+  },
+  {
+   "tipo": "placeName",
+   "ini": 25388,
+   "fin": 25396,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Alemania"
+  },
+  {
+   "tipo": "date",
+   "ini": 25398,
+   "fin": 25402,
+   "rasgos": {
+    "when": "1949"
+   },
+   "texto": "1949"
+  },
+  {
+   "tipo": "title",
+   "ini": 25403,
+   "fin": 25521,
+   "texto": "Pepa de Benito con José Valencia Vargas “El Caneco”. Bodega Mendaro. Fiesta después del bautizo de Sebastián Peña Snow"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 25523,
+   "fin": 25530
+  },
+  {
+   "tipo": "placeName",
+   "ini": 25523,
+   "fin": 25530,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Lebrija"
+  },
+  {
+   "tipo": "date",
+   "ini": 25531,
+   "fin": 25535,
+   "rasgos": {
+    "when": "1981"
+   },
+   "texto": "1981"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25537,
+   "fin": 25551,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65,0 x 50,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25537,
+   "fin": 25541,
+   "texto": "65,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 25544,
+   "fin": 25548,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25554,
+   "fin": 25568,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "38,0 x 28,1 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25554,
+   "fin": 25558,
+   "texto": "38,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 25561,
+   "fin": 25565,
+   "texto": "28,1"
+  },
+  {
+   "tipo": "work",
+   "ini": 25572,
+   "fin": 25735,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "ROBERT KLEIN. Alemania, 1949\nCristobalina Suárez. Bodega Mendaro. Fiesta después del bautizo de Sebastián Peña Snow. Lebrija 1981. 65,0 x 50,0 cm / 49,6 x 32,2 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25572,
+   "fin": 25735
+  },
+  {
+   "tipo": "person",
+   "ini": 25572,
+   "fin": 25600,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ROBERT KLEIN. Alemania, 1949"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25572,
+   "fin": 25584,
+   "texto": "ROBERT KLEIN"
+  },
+  {
+   "tipo": "birth",
+   "ini": 25586,
+   "fin": 25600
+  },
+  {
+   "tipo": "placeName",
+   "ini": 25586,
+   "fin": 25594,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Alemania"
+  },
+  {
+   "tipo": "date",
+   "ini": 25596,
+   "fin": 25600,
+   "rasgos": {
+    "when": "1949"
+   },
+   "texto": "1949"
+  },
+  {
+   "tipo": "title",
+   "ini": 25601,
+   "fin": 25687,
+   "texto": "Cristobalina Suárez. Bodega Mendaro. Fiesta después del bautizo de Sebastián Peña Snow"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 25689,
+   "fin": 25696
+  },
+  {
+   "tipo": "placeName",
+   "ini": 25689,
+   "fin": 25696,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Lebrija"
+  },
+  {
+   "tipo": "date",
+   "ini": 25697,
+   "fin": 25701,
+   "rasgos": {
+    "when": "1981"
+   },
+   "texto": "1981"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25703,
+   "fin": 25717,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65,0 x 50,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25703,
+   "fin": 25707,
+   "texto": "65,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 25710,
+   "fin": 25714,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25720,
+   "fin": 25734,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "49,6 x 32,2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25720,
+   "fin": 25724,
+   "texto": "49,6"
+  },
+  {
+   "tipo": "width",
+   "ini": 25727,
+   "fin": 25731,
+   "texto": "32,2"
+  },
+  {
+   "tipo": "work",
+   "ini": 25748,
+   "fin": 25890,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "ROBERT KLEIN. Alemania, 1949\nBodega Mendaro. Fiesta después del bautizo de Sebastián Peña Snow. Lebrija 1981.\n65,0 x 50,0 cm / 41,7 x 29,7 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25748,
+   "fin": 25890
+  },
+  {
+   "tipo": "person",
+   "ini": 25748,
+   "fin": 25776,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ROBERT KLEIN. Alemania, 1949"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25748,
+   "fin": 25760,
+   "texto": "ROBERT KLEIN"
+  },
+  {
+   "tipo": "birth",
+   "ini": 25762,
+   "fin": 25776
+  },
+  {
+   "tipo": "placeName",
+   "ini": 25762,
+   "fin": 25770,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Alemania"
+  },
+  {
+   "tipo": "date",
+   "ini": 25772,
+   "fin": 25776,
+   "rasgos": {
+    "when": "1949"
+   },
+   "texto": "1949"
+  },
+  {
+   "tipo": "title",
+   "ini": 25777,
+   "fin": 25842,
+   "texto": "Bodega Mendaro. Fiesta después del bautizo de Sebastián Peña Snow"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 25844,
+   "fin": 25851
+  },
+  {
+   "tipo": "placeName",
+   "ini": 25844,
+   "fin": 25851,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Lebrija"
+  },
+  {
+   "tipo": "date",
+   "ini": 25852,
+   "fin": 25856,
+   "rasgos": {
+    "when": "1981"
+   },
+   "texto": "1981"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25858,
+   "fin": 25872,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65,0 x 50,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25858,
+   "fin": 25862,
+   "texto": "65,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 25865,
+   "fin": 25869,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25875,
+   "fin": 25889,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "41,7 x 29,7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25875,
+   "fin": 25879,
+   "texto": "41,7"
+  },
+  {
+   "tipo": "width",
+   "ini": 25882,
+   "fin": 25886,
+   "texto": "29,7"
+  },
+  {
+   "tipo": "work",
+   "ini": 25893,
+   "fin": 26109,
+   "rasgos": {
+    "type": "photograph"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25893,
+   "fin": 26109
+  },
+  {
+   "tipo": "person",
+   "ini": 25893,
+   "fin": 25925,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "PHIL SLIGHT. Nueva Zelanda, 1932"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25893,
+   "fin": 25905,
+   "texto": "PHIL SLIGHT."
+  },
+  {
+   "tipo": "birth",
+   "ini": 25906,
+   "fin": 25925
+  },
+  {
+   "tipo": "placeName",
+   "ini": 25906,
+   "fin": 25919,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Nueva Zelanda"
+  },
+  {
+   "tipo": "date",
+   "ini": 25921,
+   "fin": 25925,
+   "rasgos": {
+    "when": "1932"
+   },
+   "texto": "1932"
+  },
+  {
+   "tipo": "title",
+   "ini": 25926,
+   "fin": 26061,
+   "texto": "Paco del Gastor y Manolito de la María bromeando delante de la cámara después de una noche de trabajo en Los Gabrieles (Club de Pohren)"
+  },
+  {
+   "tipo": "origPlace",
+   "ini": 26063,
+   "fin": 26069
+  },
+  {
+   "tipo": "placeName",
+   "ini": 26063,
+   "fin": 26069,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "date",
+   "ini": 26071,
+   "fin": 26075,
+   "rasgos": {
+    "when": "1964"
+   },
+   "texto": "1964"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 26077,
+   "fin": 26091,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "65,0 x 50,0 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 26077,
+   "fin": 26081,
+   "texto": "65,0"
+  },
+  {
+   "tipo": "width",
+   "ini": 26084,
+   "fin": 26088,
+   "texto": "50,0"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 26094,
+   "fin": 26108,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "49,5 x 31,4 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 26094,
+   "fin": 26098,
+   "texto": "49,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 26101,
+   "fin": 26105,
+   "texto": "31,4"
+  },
+  {
+   "tipo": "img",
+   "ini": 26111,
+   "fin": 26116,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26111,
+   "fin": 26116
+  },
+  {
+   "tipo": "img",
+   "ini": 26117,
+   "fin": 26122,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26117,
+   "fin": 26122
+  },
+  {
+   "tipo": "img",
+   "ini": 26123,
+   "fin": 26128,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26123,
+   "fin": 26128
+  },
+  {
+   "tipo": "img",
+   "ini": 26129,
+   "fin": 26134,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26129,
+   "fin": 26134
+  },
+  {
+   "tipo": "img",
+   "ini": 26135,
+   "fin": 26140,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26135,
+   "fin": 26140
+  },
+  {
+   "tipo": "img",
+   "ini": 26141,
+   "fin": 26146,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26141,
+   "fin": 26146
+  },
+  {
+   "tipo": "img",
+   "ini": 26147,
+   "fin": 26152,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26147,
+   "fin": 26152
+  },
+  {
+   "tipo": "img",
+   "ini": 26153,
+   "fin": 26158,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26153,
+   "fin": 26158
+  },
+  {
+   "tipo": "img",
+   "ini": 26159,
+   "fin": 26164,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26159,
+   "fin": 26164
+  },
+  {
+   "tipo": "img",
+   "ini": 26165,
+   "fin": 26170,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26165,
+   "fin": 26170
+  },
+  {
+   "tipo": "img",
+   "ini": 26171,
+   "fin": 26176,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26171,
+   "fin": 26176
+  },
+  {
+   "tipo": "img",
+   "ini": 26177,
+   "fin": 26182,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26177,
+   "fin": 26182
+  },
+  {
+   "tipo": "img",
+   "ini": 26183,
+   "fin": 26188,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26183,
+   "fin": 26188
+  },
+  {
+   "tipo": "img",
+   "ini": 26189,
+   "fin": 26194,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26189,
+   "fin": 26194
+  },
+  {
+   "tipo": "img",
+   "ini": 26195,
+   "fin": 26200,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26195,
+   "fin": 26200
+  },
+  {
+   "tipo": "img",
+   "ini": 26201,
+   "fin": 26206,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26201,
+   "fin": 26206
+  },
+  {
+   "tipo": "img",
+   "ini": 26207,
+   "fin": 26212,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26207,
+   "fin": 26212
+  },
+  {
+   "tipo": "img",
+   "ini": 26213,
+   "fin": 26218,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26213,
+   "fin": 26218
+  },
+  {
+   "tipo": "img",
+   "ini": 26219,
+   "fin": 26224,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26219,
+   "fin": 26224
+  },
+  {
+   "tipo": "img",
+   "ini": 26225,
+   "fin": 26230,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26225,
+   "fin": 26230
+  },
+  {
+   "tipo": "img",
+   "ini": 26231,
+   "fin": 26236,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26231,
+   "fin": 26236
+  },
+  {
+   "tipo": "img",
+   "ini": 26237,
+   "fin": 26242,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26237,
+   "fin": 26242
+  },
+  {
+   "tipo": "img",
+   "ini": 26243,
+   "fin": 26248,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26243,
+   "fin": 26248
+  },
+  {
+   "tipo": "img",
+   "ini": 26249,
+   "fin": 26254,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26249,
+   "fin": 26254
+  },
+  {
+   "tipo": "img",
+   "ini": 26255,
+   "fin": 26260,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26255,
+   "fin": 26260
+  },
+  {
+   "tipo": "img",
+   "ini": 26261,
+   "fin": 26266,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26261,
+   "fin": 26266
+  },
+  {
+   "tipo": "img",
+   "ini": 26267,
+   "fin": 26272,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26267,
+   "fin": 26272
+  },
+  {
+   "tipo": "img",
+   "ini": 26273,
+   "fin": 26278,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26273,
+   "fin": 26278
+  },
+  {
+   "tipo": "img",
+   "ini": 26279,
+   "fin": 26284,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26279,
+   "fin": 26284
+  },
+  {
+   "tipo": "img",
+   "ini": 26285,
+   "fin": 26290,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26285,
+   "fin": 26290
+  },
+  {
+   "tipo": "img",
+   "ini": 26291,
+   "fin": 26296,
+   "rasgos": {
+    "size": "large",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26291,
+   "fin": 26296
+  },
+  {
+   "tipo": "img",
+   "ini": 26297,
+   "fin": 26302,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26297,
+   "fin": 26302
+  },
+  {
+   "tipo": "img",
+   "ini": 26303,
+   "fin": 26308,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26303,
+   "fin": 26308
+  },
+  {
+   "tipo": "img",
+   "ini": 26309,
+   "fin": 26314,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26309,
+   "fin": 26314
+  },
+  {
+   "tipo": "img",
+   "ini": 26315,
+   "fin": 26320,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26315,
+   "fin": 26320
+  },
+  {
+   "tipo": "img",
+   "ini": 26321,
+   "fin": 26326,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26321,
+   "fin": 26326
+  },
+  {
+   "tipo": "img",
+   "ini": 26327,
+   "fin": 26332,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 26327,
+   "fin": 26332
+  }
+ ]
+}

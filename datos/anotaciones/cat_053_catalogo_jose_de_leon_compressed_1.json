@@ -1,0 +1,3729 @@
+{
+ "id": "cat_053_catalogo_jose_de_leon_compressed_1",
+ "nombre_original": "CATALOGO-JOSE-DE-LEON_compressed-1",
+ "longitud_texto": 10361,
+ "sha256_texto": "ff70031b56f06e391de95cd4b9582fac0f96c721af1e6936b4fec0f3f2f56bde",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 217,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 34,
+   "texto": "JOSÉ de LEÓN\n\nAPROXIMACIÓN A GAUDÍ"
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 12,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JOSÉ de LEÓN"
+  },
+  {
+   "tipo": "person",
+   "ini": 29,
+   "fin": 34,
+   "texto": "GAUDÍ"
+  },
+  {
+   "tipo": "person",
+   "ini": 55,
+   "fin": 67,
+   "texto": "José de León"
+  },
+  {
+   "tipo": "persName",
+   "ini": 55,
+   "fin": 67,
+   "texto": "José de León"
+  },
+  {
+   "tipo": "title",
+   "ini": 69,
+   "fin": 80,
+   "texto": "La Catedral"
+  },
+  {
+   "tipo": "date",
+   "ini": 82,
+   "fin": 86,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "technique",
+   "ini": 89,
+   "fin": 106,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "óleo sobre lienzo"
+  },
+  {
+   "tipo": "person",
+   "ini": 120,
+   "fin": 137,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Álvaro Ramón Sanz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 120,
+   "fin": 137,
+   "texto": "Álvaro Ramón Sanz"
+  },
+  {
+   "tipo": "title",
+   "ini": 138,
+   "fin": 172,
+   "texto": "José de León: Aproximación a Gaudí"
+  },
+  {
+   "tipo": "persName",
+   "ini": 167,
+   "fin": 172,
+   "texto": "Gaudí"
+  },
+  {
+   "tipo": "person",
+   "ini": 167,
+   "fin": 172,
+   "texto": "Gaudí"
+  },
+  {
+   "tipo": "date",
+   "ini": 173,
+   "fin": 192,
+   "rasgos": {
+    "from": "2021-09-15",
+    "to": "2021-11-15"
+   },
+   "texto": "15.09.21 – 15.11.21"
+  },
+  {
+   "tipo": "institution",
+   "ini": 193,
+   "fin": 217,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Museo Casa Botines Gaudí"
+  },
+  {
+   "tipo": "person",
+   "ini": 241,
+   "fin": 253,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José de León"
+  },
+  {
+   "tipo": "persName",
+   "ini": 241,
+   "fin": 253,
+   "texto": "José de León"
+  },
+  {
+   "tipo": "institution",
+   "ini": 254,
+   "fin": 278,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host, producer"
+   },
+   "texto": "Museo Casa Botines Gaudí"
+  },
+  {
+   "tipo": "institution",
+   "ini": 279,
+   "fin": 295,
+   "rasgos": {
+    "type": "foundation",
+    "role": "producer"
+   },
+   "texto": "FUNDOS Fundación"
+  },
+  {
+   "tipo": "person",
+   "ini": 310,
+   "fin": 333,
+   "rasgos": {
+    "role": "coordinator"
+   },
+   "texto": "Carlos Varela Fernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 310,
+   "fin": 333,
+   "texto": "Carlos Varela Fernández"
+  },
+  {
+   "tipo": "person",
+   "ini": 347,
+   "fin": 359,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "José de León"
+  },
+  {
+   "tipo": "persName",
+   "ini": 347,
+   "fin": 359,
+   "texto": "José de León"
+  },
+  {
+   "tipo": "person",
+   "ini": 360,
+   "fin": 383,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "Carlos Varela Fernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 360,
+   "fin": 383,
+   "texto": "Carlos Varela Fernández"
+  },
+  {
+   "tipo": "person",
+   "ini": 410,
+   "fin": 428,
+   "texto": "Sari Matilla Gómez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 410,
+   "fin": 428,
+   "texto": "Sari Matilla Gómez"
+  },
+  {
+   "tipo": "person",
+   "ini": 443,
+   "fin": 465,
+   "texto": "Sara Castañón Martínez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 443,
+   "fin": 465,
+   "texto": "Sara Castañón Martínez"
+  },
+  {
+   "tipo": "person",
+   "ini": 494,
+   "fin": 513,
+   "texto": "Marta Sabugo Sierra"
+  },
+  {
+   "tipo": "persName",
+   "ini": 494,
+   "fin": 513,
+   "texto": "Marta Sabugo Sierra"
+  },
+  {
+   "tipo": "person",
+   "ini": 514,
+   "fin": 551,
+   "texto": "Marta Ariana Fonseca Cordeiro Queirós"
+  },
+  {
+   "tipo": "persName",
+   "ini": 514,
+   "fin": 551,
+   "texto": "Marta Ariana Fonseca Cordeiro Queirós"
+  },
+  {
+   "tipo": "person",
+   "ini": 570,
+   "fin": 582,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "José de León"
+  },
+  {
+   "tipo": "persName",
+   "ini": 570,
+   "fin": 582,
+   "texto": "José de León"
+  },
+  {
+   "tipo": "person",
+   "ini": 583,
+   "fin": 606,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Carlos Varela Fernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 583,
+   "fin": 606,
+   "texto": "Carlos Varela Fernández"
+  },
+  {
+   "tipo": "person",
+   "ini": 629,
+   "fin": 648,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "Marta Sabugo Sierra"
+  },
+  {
+   "tipo": "persName",
+   "ini": 629,
+   "fin": 648,
+   "texto": "Marta Sabugo Sierra"
+  },
+  {
+   "tipo": "person",
+   "ini": 649,
+   "fin": 686,
+   "rasgos": {
+    "role": "designer"
+   },
+   "texto": "Marta Ariana Fonseca Cordeiro Queirós"
+  },
+  {
+   "tipo": "persName",
+   "ini": 649,
+   "fin": 686,
+   "texto": "Marta Ariana Fonseca Cordeiro Queirós"
+  },
+  {
+   "tipo": "person",
+   "ini": 700,
+   "fin": 717,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Álvaro Ramón Sanz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 700,
+   "fin": 717,
+   "texto": "Álvaro Ramón Sanz"
+  },
+  {
+   "tipo": "institution",
+   "ini": 725,
+   "fin": 749,
+   "rasgos": {
+    "type": "museum",
+    "role": "editor"
+   },
+   "texto": "Museo Casa Botines Gaudí"
+  },
+  {
+   "tipo": "institution",
+   "ini": 750,
+   "fin": 799,
+   "rasgos": {
+    "type": "foundation",
+    "role": "editor"
+   },
+   "texto": "Fundación Obra Social de Castilla y León (FUNDOS)"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 775,
+   "fin": 790,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Castilla y León"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 801,
+   "fin": 805,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "León"
+  },
+  {
+   "tipo": "date",
+   "ini": 807,
+   "fin": 811,
+   "rasgos": {
+    "when": "2021"
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 813,
+   "fin": 878,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 813,
+   "fin": 833,
+   "texto": "APROXIMACIÓN A GAUDÍ"
+  },
+  {
+   "tipo": "date",
+   "ini": 834,
+   "fin": 853,
+   "rasgos": {
+    "from": "2021-09-15",
+    "to": "2021-11-15"
+   },
+   "texto": "15.09.21 - 15.11.21"
+  },
+  {
+   "tipo": "institution",
+   "ini": 854,
+   "fin": 878,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "MUSEO CASA BOTINES GAUDÍ"
+  },
+  {
+   "tipo": "title",
+   "ini": 880,
+   "fin": 914,
+   "texto": "JOSÉ DE LEÓN: APROXIMACIÓN A GAUDÍ"
+  },
+  {
+   "tipo": "person",
+   "ini": 880,
+   "fin": 892,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "JOSÉ DE LEÓN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 909,
+   "fin": 914,
+   "texto": "GAUDÍ"
+  },
+  {
+   "tipo": "person",
+   "ini": 909,
+   "fin": 914,
+   "texto": "GAUDÍ"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1012,
+   "fin": 1024,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Casa Botines"
+  },
+  {
+   "tipo": "person",
+   "ini": 2288,
+   "fin": 2300,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "José de León"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2288,
+   "fin": 2300,
+   "texto": "José de León"
+  },
+  {
+   "tipo": "person",
+   "ini": 2374,
+   "fin": 2420,
+   "rasgos": {
+    "role": "person"
+   },
+   "texto": "José de León (Carbajal de Fuentes, León, 1958)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2374,
+   "fin": 2386,
+   "texto": "José de León"
+  },
+  {
+   "tipo": "birth",
+   "ini": 2388,
+   "fin": 2419
+  },
+  {
+   "tipo": "placeName",
+   "ini": 2388,
+   "fin": 2413,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Carbajal de Fuentes, León"
+  },
+  {
+   "tipo": "date",
+   "ini": 2415,
+   "fin": 2419,
+   "rasgos": {
+    "when": "1958"
+   },
+   "texto": "1958"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2426,
+   "fin": 2450,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Museo Casa Botines Gaudí"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2455,
+   "fin": 2460,
+   "rasgos": {
+    "type": "museum"
+   },
+   "texto": "Museo"
+  },
+  {
+   "tipo": "person",
+   "ini": 2782,
+   "fin": 2794,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José de León"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2782,
+   "fin": 2794,
+   "texto": "José de León"
+  },
+  {
+   "tipo": "person",
+   "ini": 2845,
+   "fin": 2857,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José de León"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2845,
+   "fin": 2857,
+   "texto": "José de León"
+  },
+  {
+   "tipo": "person",
+   "ini": 3236,
+   "fin": 3248,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José de León"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3236,
+   "fin": 3248,
+   "texto": "José de León"
+  },
+  {
+   "tipo": "person",
+   "ini": 3436,
+   "fin": 3448,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José de León"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3436,
+   "fin": 3448,
+   "texto": "José de León"
+  },
+  {
+   "tipo": "person",
+   "ini": 3884,
+   "fin": 3896,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "José de León"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3884,
+   "fin": 3896,
+   "texto": "José de León"
+  },
+  {
+   "tipo": "institution",
+   "ini": 4396,
+   "fin": 4408,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Casa Botines"
+  },
+  {
+   "tipo": "index",
+   "ini": 4478,
+   "fin": 5515
+  },
+  {
+   "tipo": "work",
+   "ini": 4485,
+   "fin": 4508,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La tumba de Gaudí, 2018"
+  },
+  {
+   "tipo": "title",
+   "ini": 4485,
+   "fin": 4502,
+   "texto": "La tumba de Gaudí"
+  },
+  {
+   "tipo": "date",
+   "ini": 4504,
+   "fin": 4508,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "work",
+   "ini": 4512,
+   "fin": 4560,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La llama de Gaudí (ornamentos y eternidad), 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 4512,
+   "fin": 4554,
+   "texto": "La llama de Gaudí (ornamentos y eternidad)"
+  },
+  {
+   "tipo": "date",
+   "ini": 4556,
+   "fin": 4560,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "work",
+   "ini": 4564,
+   "fin": 4584,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El ciprés, 2017-2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 4564,
+   "fin": 4573,
+   "texto": "El ciprés"
+  },
+  {
+   "tipo": "date",
+   "ini": 4575,
+   "fin": 4584,
+   "rasgos": {
+    "from": "2017",
+    "to": "2021"
+   },
+   "texto": "2017-2021"
+  },
+  {
+   "tipo": "work",
+   "ini": 4588,
+   "fin": 4645,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La barca de Caronte y las tres palomas blancas, 2019-2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 4588,
+   "fin": 4634,
+   "texto": "La barca de Caronte y las tres palomas blancas"
+  },
+  {
+   "tipo": "date",
+   "ini": 4636,
+   "fin": 4645,
+   "rasgos": {
+    "from": "2019",
+    "to": "2021"
+   },
+   "texto": "2019-2021"
+  },
+  {
+   "tipo": "work",
+   "ini": 4649,
+   "fin": 4666,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La Catedral, 2018"
+  },
+  {
+   "tipo": "title",
+   "ini": 4649,
+   "fin": 4660,
+   "texto": "La Catedral"
+  },
+  {
+   "tipo": "date",
+   "ini": 4662,
+   "fin": 4666,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "work",
+   "ini": 4670,
+   "fin": 4688,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Luz Gótica I, 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 4670,
+   "fin": 4682,
+   "texto": "Luz Gótica I"
+  },
+  {
+   "tipo": "date",
+   "ini": 4684,
+   "fin": 4688,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "work",
+   "ini": 4692,
+   "fin": 4716,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Luz Gótica II, 2019-2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 4692,
+   "fin": 4705,
+   "texto": "Luz Gótica II"
+  },
+  {
+   "tipo": "date",
+   "ini": 4707,
+   "fin": 4716,
+   "rasgos": {
+    "from": "2019",
+    "to": "2021"
+   },
+   "texto": "2019-2021"
+  },
+  {
+   "tipo": "work",
+   "ini": 4720,
+   "fin": 4749,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Flores gaudinianas, 2017-2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 4720,
+   "fin": 4738,
+   "texto": "Flores gaudinianas"
+  },
+  {
+   "tipo": "date",
+   "ini": 4740,
+   "fin": 4749,
+   "rasgos": {
+    "from": "2017",
+    "to": "2021"
+   },
+   "texto": "2017-2021"
+  },
+  {
+   "tipo": "work",
+   "ini": 4753,
+   "fin": 4775,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Rueda del Dharma, 2017"
+  },
+  {
+   "tipo": "title",
+   "ini": 4753,
+   "fin": 4769,
+   "texto": "Rueda del Dharma"
+  },
+  {
+   "tipo": "date",
+   "ini": 4771,
+   "fin": 4775,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "work",
+   "ini": 4780,
+   "fin": 4797,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Mater-mundi, 2017"
+  },
+  {
+   "tipo": "title",
+   "ini": 4780,
+   "fin": 4791,
+   "texto": "Mater-mundi"
+  },
+  {
+   "tipo": "date",
+   "ini": 4793,
+   "fin": 4797,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "work",
+   "ini": 4802,
+   "fin": 4832,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Las adelfas de mi jardín, 2017"
+  },
+  {
+   "tipo": "title",
+   "ini": 4802,
+   "fin": 4826,
+   "texto": "Las adelfas de mi jardín"
+  },
+  {
+   "tipo": "date",
+   "ini": 4828,
+   "fin": 4832,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "work",
+   "ini": 4837,
+   "fin": 4860,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Seres caprichosos, 2019"
+  },
+  {
+   "tipo": "title",
+   "ini": 4837,
+   "fin": 4854,
+   "texto": "Seres caprichosos"
+  },
+  {
+   "tipo": "date",
+   "ini": 4856,
+   "fin": 4860,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "work",
+   "ini": 4865,
+   "fin": 4887,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Nubes teosóficas, 2018"
+  },
+  {
+   "tipo": "title",
+   "ini": 4865,
+   "fin": 4881,
+   "texto": "Nubes teosóficas"
+  },
+  {
+   "tipo": "date",
+   "ini": 4883,
+   "fin": 4887,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "work",
+   "ini": 4892,
+   "fin": 4909,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Acanto, 2017-2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 4892,
+   "fin": 4898,
+   "texto": "Acanto"
+  },
+  {
+   "tipo": "date",
+   "ini": 4900,
+   "fin": 4909,
+   "rasgos": {
+    "from": "2017",
+    "to": "2021"
+   },
+   "texto": "2017-2021"
+  },
+  {
+   "tipo": "work",
+   "ini": 4914,
+   "fin": 4936,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Dragón azul, 2017-2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 4914,
+   "fin": 4925,
+   "texto": "Dragón azul"
+  },
+  {
+   "tipo": "date",
+   "ini": 4927,
+   "fin": 4936,
+   "rasgos": {
+    "from": "2017",
+    "to": "2021"
+   },
+   "texto": "2017-2021"
+  },
+  {
+   "tipo": "work",
+   "ini": 4941,
+   "fin": 4964,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Mickey Mouse, 2017-2021"
+  },
+  {
+   "tipo": "title",
+   "ini": 4941,
+   "fin": 4953,
+   "texto": "Mickey Mouse"
+  },
+  {
+   "tipo": "date",
+   "ini": 4955,
+   "fin": 4964,
+   "rasgos": {
+    "from": "2017",
+    "to": "2021"
+   },
+   "texto": "2017-2021"
+  },
+  {
+   "tipo": "work",
+   "ini": 4969,
+   "fin": 5006,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Emperador romano a caballo, 2014-2018"
+  },
+  {
+   "tipo": "title",
+   "ini": 4969,
+   "fin": 4995,
+   "texto": "Emperador romano a caballo"
+  },
+  {
+   "tipo": "date",
+   "ini": 4997,
+   "fin": 5006,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "work",
+   "ini": 5011,
+   "fin": 5044,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "De biología, de natura, 2014-2018"
+  },
+  {
+   "tipo": "title",
+   "ini": 5011,
+   "fin": 5033,
+   "texto": "De biología, de natura"
+  },
+  {
+   "tipo": "date",
+   "ini": 5035,
+   "fin": 5044,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "work",
+   "ini": 5049,
+   "fin": 5076,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Complejo nuclear, 2014-2018"
+  },
+  {
+   "tipo": "title",
+   "ini": 5049,
+   "fin": 5065,
+   "texto": "Complejo nuclear"
+  },
+  {
+   "tipo": "date",
+   "ini": 5067,
+   "fin": 5076,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "work",
+   "ini": 5081,
+   "fin": 5110,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Garabato y retrato, 2014-2018"
+  },
+  {
+   "tipo": "title",
+   "ini": 5081,
+   "fin": 5099,
+   "texto": "Garabato y retrato"
+  },
+  {
+   "tipo": "date",
+   "ini": 5101,
+   "fin": 5110,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "work",
+   "ini": 5115,
+   "fin": 5145,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Imaginería nocturna, 2014-2018"
+  },
+  {
+   "tipo": "title",
+   "ini": 5115,
+   "fin": 5134,
+   "texto": "Imaginería nocturna"
+  },
+  {
+   "tipo": "date",
+   "ini": 5136,
+   "fin": 5145,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "work",
+   "ini": 5150,
+   "fin": 5180,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sobre la zoogénesis, 2014-2018"
+  },
+  {
+   "tipo": "title",
+   "ini": 5150,
+   "fin": 5169,
+   "texto": "Sobre la zoogénesis"
+  },
+  {
+   "tipo": "date",
+   "ini": 5171,
+   "fin": 5180,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "work",
+   "ini": 5185,
+   "fin": 5217,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Gigante de plastilina, 2014-2018"
+  },
+  {
+   "tipo": "title",
+   "ini": 5185,
+   "fin": 5206,
+   "texto": "Gigante de plastilina"
+  },
+  {
+   "tipo": "date",
+   "ini": 5208,
+   "fin": 5217,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "work",
+   "ini": 5222,
+   "fin": 5257,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Por el coral… con miedo!, 2014-2018"
+  },
+  {
+   "tipo": "title",
+   "ini": 5222,
+   "fin": 5246,
+   "texto": "Por el coral… con miedo!"
+  },
+  {
+   "tipo": "date",
+   "ini": 5248,
+   "fin": 5257,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "work",
+   "ini": 5262,
+   "fin": 5292,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Arrecifes zoomorfos, 2014-2018"
+  },
+  {
+   "tipo": "title",
+   "ini": 5262,
+   "fin": 5281,
+   "texto": "Arrecifes zoomorfos"
+  },
+  {
+   "tipo": "date",
+   "ini": 5283,
+   "fin": 5292,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "work",
+   "ini": 5297,
+   "fin": 5335,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Escena con la aurora boreal, 2014-2018"
+  },
+  {
+   "tipo": "title",
+   "ini": 5297,
+   "fin": 5324,
+   "texto": "Escena con la aurora boreal"
+  },
+  {
+   "tipo": "date",
+   "ini": 5326,
+   "fin": 5335,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "work",
+   "ini": 5341,
+   "fin": 5368,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El cráneo dorado, 2014-2018"
+  },
+  {
+   "tipo": "title",
+   "ini": 5341,
+   "fin": 5357,
+   "texto": "El cráneo dorado"
+  },
+  {
+   "tipo": "date",
+   "ini": 5359,
+   "fin": 5368,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "work",
+   "ini": 5373,
+   "fin": 5408,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sueños ricos en magnesio, 2014-2018"
+  },
+  {
+   "tipo": "title",
+   "ini": 5373,
+   "fin": 5397,
+   "texto": "Sueños ricos en magnesio"
+  },
+  {
+   "tipo": "date",
+   "ini": 5399,
+   "fin": 5408,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "work",
+   "ini": 5413,
+   "fin": 5443,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Atravesando el Nilo, 2014-2018"
+  },
+  {
+   "tipo": "title",
+   "ini": 5413,
+   "fin": 5432,
+   "texto": "Atravesando el Nilo"
+  },
+  {
+   "tipo": "date",
+   "ini": 5434,
+   "fin": 5443,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "work",
+   "ini": 5448,
+   "fin": 5478,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Barcas de Capadocia, 2014-2018"
+  },
+  {
+   "tipo": "title",
+   "ini": 5448,
+   "fin": 5467,
+   "texto": "Barcas de Capadocia"
+  },
+  {
+   "tipo": "date",
+   "ini": 5469,
+   "fin": 5478,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "work",
+   "ini": 5483,
+   "fin": 5512,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sol rojo submarino, 2014-2018"
+  },
+  {
+   "tipo": "title",
+   "ini": 5483,
+   "fin": 5501,
+   "texto": "Sol rojo submarino"
+  },
+  {
+   "tipo": "date",
+   "ini": 5503,
+   "fin": 5512,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 5517,
+   "fin": 7593
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5517,
+   "fin": 5578
+  },
+  {
+   "tipo": "img",
+   "ini": 5517,
+   "fin": 5522,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5524,
+   "fin": 5578,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La tumba de Gaudí, 2018\n227 x 169 cm\nÓleo sobre lienzo"
+  },
+  {
+   "tipo": "caption",
+   "ini": 5524,
+   "fin": 5547
+  },
+  {
+   "tipo": "title",
+   "ini": 5524,
+   "fin": 5541,
+   "texto": "La tumba de Gaudí"
+  },
+  {
+   "tipo": "date",
+   "ini": 5543,
+   "fin": 5547,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5548,
+   "fin": 5560,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "227 x 169 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5548,
+   "fin": 5551,
+   "texto": "227"
+  },
+  {
+   "tipo": "width",
+   "ini": 5554,
+   "fin": 5557,
+   "texto": "169"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5561,
+   "fin": 5578,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5580,
+   "fin": 5666
+  },
+  {
+   "tipo": "img",
+   "ini": 5580,
+   "fin": 5585,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5587,
+   "fin": 5666,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La llama de Gaudí (ornamentos y eternidad), 2019\n200 x 150 cm\nÓleo sobre lienzo"
+  },
+  {
+   "tipo": "caption",
+   "ini": 5587,
+   "fin": 5635
+  },
+  {
+   "tipo": "title",
+   "ini": 5587,
+   "fin": 5629,
+   "texto": "La llama de Gaudí (ornamentos y eternidad)"
+  },
+  {
+   "tipo": "date",
+   "ini": 5631,
+   "fin": 5635,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5636,
+   "fin": 5648,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 150 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5636,
+   "fin": 5639,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 5642,
+   "fin": 5645,
+   "texto": "150"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5649,
+   "fin": 5666,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5668,
+   "fin": 5726
+  },
+  {
+   "tipo": "img",
+   "ini": 5668,
+   "fin": 5673,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5675,
+   "fin": 5727,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El ciprés, 2017-2021\n130 x 130 cm\nÓleo sobre lienzo\n"
+  },
+  {
+   "tipo": "caption",
+   "ini": 5675,
+   "fin": 5695
+  },
+  {
+   "tipo": "title",
+   "ini": 5675,
+   "fin": 5684,
+   "texto": "El ciprés"
+  },
+  {
+   "tipo": "date",
+   "ini": 5686,
+   "fin": 5695,
+   "rasgos": {
+    "from": "2017",
+    "to": "2021"
+   },
+   "texto": "2017-2021"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5696,
+   "fin": 5708,
+   "texto": "130 x 130 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5696,
+   "fin": 5699,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 5702,
+   "fin": 5705,
+   "texto": "130"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5709,
+   "fin": 5726,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5728,
+   "fin": 5823
+  },
+  {
+   "tipo": "img",
+   "ini": 5728,
+   "fin": 5733,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5735,
+   "fin": 5823,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La barca de Caronte y las tres palomas blancas, 2019-2021\n100 x 200 cm\nÓleo sobre lienzo"
+  },
+  {
+   "tipo": "caption",
+   "ini": 5735,
+   "fin": 5792
+  },
+  {
+   "tipo": "title",
+   "ini": 5735,
+   "fin": 5781,
+   "texto": "La barca de Caronte y las tres palomas blancas"
+  },
+  {
+   "tipo": "date",
+   "ini": 5783,
+   "fin": 5792,
+   "rasgos": {
+    "from": "2019",
+    "to": "2021"
+   },
+   "texto": "2019-2021"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5793,
+   "fin": 5805,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 200 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5793,
+   "fin": 5796,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 5799,
+   "fin": 5802,
+   "texto": "200"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5806,
+   "fin": 5823,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5825,
+   "fin": 5880
+  },
+  {
+   "tipo": "img",
+   "ini": 5825,
+   "fin": 5830,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5832,
+   "fin": 5880,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "La Catedral, 2018\n200 x 150 cm\nÓleo sobre lienzo"
+  },
+  {
+   "tipo": "caption",
+   "ini": 5832,
+   "fin": 5849
+  },
+  {
+   "tipo": "title",
+   "ini": 5832,
+   "fin": 5843,
+   "texto": "La Catedral"
+  },
+  {
+   "tipo": "date",
+   "ini": 5845,
+   "fin": 5849,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5850,
+   "fin": 5862,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 150 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5850,
+   "fin": 5853,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 5856,
+   "fin": 5859,
+   "texto": "150"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5863,
+   "fin": 5880,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5882,
+   "fin": 5939
+  },
+  {
+   "tipo": "img",
+   "ini": 5882,
+   "fin": 5887,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5889,
+   "fin": 5938,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Luz Gótica I, 2019\n130 x 160 cm\nÓleo sobre lienzo"
+  },
+  {
+   "tipo": "caption",
+   "ini": 5889,
+   "fin": 5907
+  },
+  {
+   "tipo": "title",
+   "ini": 5889,
+   "fin": 5901,
+   "texto": "Luz Gótica I"
+  },
+  {
+   "tipo": "date",
+   "ini": 5903,
+   "fin": 5907,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5908,
+   "fin": 5920,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 160 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5908,
+   "fin": 5911,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 5914,
+   "fin": 5917,
+   "texto": "160"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5921,
+   "fin": 5938,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5940,
+   "fin": 6002
+  },
+  {
+   "tipo": "img",
+   "ini": 5940,
+   "fin": 5945,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5947,
+   "fin": 6002,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Luz Gótica II, 2019-2021\n130 x 160 cm\nÓleo sobre lienzo"
+  },
+  {
+   "tipo": "caption",
+   "ini": 5947,
+   "fin": 5971
+  },
+  {
+   "tipo": "title",
+   "ini": 5947,
+   "fin": 5960,
+   "texto": "Luz Gótica II"
+  },
+  {
+   "tipo": "date",
+   "ini": 5962,
+   "fin": 5971,
+   "rasgos": {
+    "from": "2019",
+    "to": "2021"
+   },
+   "texto": "2019-2021"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5972,
+   "fin": 5984,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 160 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 5972,
+   "fin": 5975,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 5978,
+   "fin": 5981,
+   "texto": "160"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5985,
+   "fin": 6002,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6004,
+   "fin": 6071
+  },
+  {
+   "tipo": "img",
+   "ini": 6004,
+   "fin": 6009,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6011,
+   "fin": 6071,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Flores gaudinianas, 2017-2021\n200 x 200 cm\nÓleo sobre lienzo"
+  },
+  {
+   "tipo": "caption",
+   "ini": 6011,
+   "fin": 6040
+  },
+  {
+   "tipo": "title",
+   "ini": 6011,
+   "fin": 6029,
+   "texto": "Flores gaudinianas"
+  },
+  {
+   "tipo": "date",
+   "ini": 6031,
+   "fin": 6040,
+   "rasgos": {
+    "from": "2017",
+    "to": "2021"
+   },
+   "texto": "2017-2021"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6041,
+   "fin": 6053,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "200 x 200 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6041,
+   "fin": 6044,
+   "texto": "200"
+  },
+  {
+   "tipo": "width",
+   "ini": 6047,
+   "fin": 6050,
+   "texto": "200"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6054,
+   "fin": 6071,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6073,
+   "fin": 6133
+  },
+  {
+   "tipo": "img",
+   "ini": 6073,
+   "fin": 6078,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6080,
+   "fin": 6133,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Rueda del Dharma, 2017\n130 x 160 cm\nÓleo sobre lienzo"
+  },
+  {
+   "tipo": "caption",
+   "ini": 6080,
+   "fin": 6102
+  },
+  {
+   "tipo": "title",
+   "ini": 6080,
+   "fin": 6096,
+   "texto": "Rueda del Dharma"
+  },
+  {
+   "tipo": "date",
+   "ini": 6098,
+   "fin": 6102,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6103,
+   "fin": 6115,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130 x 160 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6103,
+   "fin": 6106,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 6109,
+   "fin": 6112,
+   "texto": "160"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6116,
+   "fin": 6133,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6135,
+   "fin": 6190
+  },
+  {
+   "tipo": "img",
+   "ini": 6135,
+   "fin": 6141,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6142,
+   "fin": 6190,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Mater-mundi, 2017\n150 x 150 cm\nÓleo sobre lienzo"
+  },
+  {
+   "tipo": "caption",
+   "ini": 6142,
+   "fin": 6159
+  },
+  {
+   "tipo": "title",
+   "ini": 6142,
+   "fin": 6153,
+   "texto": "Mater-mundi"
+  },
+  {
+   "tipo": "date",
+   "ini": 6155,
+   "fin": 6159,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6160,
+   "fin": 6172,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150 x 150 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6160,
+   "fin": 6163,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 6166,
+   "fin": 6169,
+   "texto": "150"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6173,
+   "fin": 6190,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6192,
+   "fin": 6260
+  },
+  {
+   "tipo": "img",
+   "ini": 6192,
+   "fin": 6197,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6199,
+   "fin": 6260,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Las adelfas de mi jardín, 2017\n150 x 150 cm\nÓleo sobre lienzo"
+  },
+  {
+   "tipo": "caption",
+   "ini": 6199,
+   "fin": 6229
+  },
+  {
+   "tipo": "title",
+   "ini": 6199,
+   "fin": 6223,
+   "texto": "Las adelfas de mi jardín"
+  },
+  {
+   "tipo": "date",
+   "ini": 6225,
+   "fin": 6229,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6230,
+   "fin": 6242,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150 x 150 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6230,
+   "fin": 6233,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 6236,
+   "fin": 6239,
+   "texto": "150"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6243,
+   "fin": 6260,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6262,
+   "fin": 6323
+  },
+  {
+   "tipo": "img",
+   "ini": 6262,
+   "fin": 6267,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6269,
+   "fin": 6323,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Seres caprichosos, 2019\n100 x 100 cm\nÓleo sobre lienzo"
+  },
+  {
+   "tipo": "caption",
+   "ini": 6269,
+   "fin": 6292
+  },
+  {
+   "tipo": "title",
+   "ini": 6269,
+   "fin": 6286,
+   "texto": "Seres caprichosos"
+  },
+  {
+   "tipo": "date",
+   "ini": 6288,
+   "fin": 6292,
+   "rasgos": {
+    "when": "2019"
+   },
+   "texto": "2019"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6293,
+   "fin": 6305,
+   "rasgos": {
+    "uint": "cm"
+   },
+   "texto": "100 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6293,
+   "fin": 6296,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 6299,
+   "fin": 6302,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6306,
+   "fin": 6323,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6325,
+   "fin": 6383
+  },
+  {
+   "tipo": "img",
+   "ini": 6325,
+   "fin": 6330,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6332,
+   "fin": 6383,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Nubes teosóficas, 2018\n70 x 90 cm\nÓleo sobre lienzo"
+  },
+  {
+   "tipo": "caption",
+   "ini": 6332,
+   "fin": 6354
+  },
+  {
+   "tipo": "title",
+   "ini": 6332,
+   "fin": 6348,
+   "texto": "Nubes teosóficas"
+  },
+  {
+   "tipo": "date",
+   "ini": 6350,
+   "fin": 6354,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6355,
+   "fin": 6365,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 90 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6355,
+   "fin": 6357,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 6360,
+   "fin": 6362,
+   "texto": "90"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6366,
+   "fin": 6383,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6385,
+   "fin": 6434
+  },
+  {
+   "tipo": "img",
+   "ini": 6385,
+   "fin": 6390,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6392,
+   "fin": 6434,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Acanto, 2017-2021\n40 x 70 cm\nÓleo sobre DM"
+  },
+  {
+   "tipo": "caption",
+   "ini": 6392,
+   "fin": 6409
+  },
+  {
+   "tipo": "title",
+   "ini": 6392,
+   "fin": 6398,
+   "texto": "Acanto"
+  },
+  {
+   "tipo": "date",
+   "ini": 6400,
+   "fin": 6409,
+   "rasgos": {
+    "from": "2017",
+    "to": "2021"
+   },
+   "texto": "2017-2021"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6410,
+   "fin": 6420,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6410,
+   "fin": 6412,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 6415,
+   "fin": 6417,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6421,
+   "fin": 6434,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre DM"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6436,
+   "fin": 6490
+  },
+  {
+   "tipo": "img",
+   "ini": 6436,
+   "fin": 6441,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6443,
+   "fin": 6490,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Dragón azul, 2017-2021\n30 x 30 cm\nÓleo sobre DM"
+  },
+  {
+   "tipo": "caption",
+   "ini": 6443,
+   "fin": 6465
+  },
+  {
+   "tipo": "title",
+   "ini": 6443,
+   "fin": 6454,
+   "texto": "Dragón azul"
+  },
+  {
+   "tipo": "date",
+   "ini": 6456,
+   "fin": 6465,
+   "rasgos": {
+    "from": "2017",
+    "to": "2021"
+   },
+   "texto": "2017-2021"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6466,
+   "fin": 6476,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6466,
+   "fin": 6468,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 6471,
+   "fin": 6473,
+   "texto": "30"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6477,
+   "fin": 6490,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre DM"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6492,
+   "fin": 6572
+  },
+  {
+   "tipo": "img",
+   "ini": 6492,
+   "fin": 6497,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6499,
+   "fin": 6573,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Mickey Mouse, 2017-2021\n30 x 30 cm\nÓleo sobre DM y figura de Mickey Mouse\n"
+  },
+  {
+   "tipo": "caption",
+   "ini": 6499,
+   "fin": 6522
+  },
+  {
+   "tipo": "title",
+   "ini": 6499,
+   "fin": 6511,
+   "texto": "Mickey Mouse"
+  },
+  {
+   "tipo": "date",
+   "ini": 6513,
+   "fin": 6522,
+   "rasgos": {
+    "from": "2017",
+    "to": "2021"
+   },
+   "texto": "2017-2021"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6523,
+   "fin": 6533,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "30 x 30 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6523,
+   "fin": 6525,
+   "texto": "30"
+  },
+  {
+   "tipo": "width",
+   "ini": 6528,
+   "fin": 6530,
+   "texto": "30"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6534,
+   "fin": 6572,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre DM y figura de Mickey Mouse"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6574,
+   "fin": 6646
+  },
+  {
+   "tipo": "img",
+   "ini": 6574,
+   "fin": 6579,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6581,
+   "fin": 6646,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Emperador romano a caballo, 2014-2018\n40 x 40 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "caption",
+   "ini": 6581,
+   "fin": 6618
+  },
+  {
+   "tipo": "title",
+   "ini": 6581,
+   "fin": 6607,
+   "texto": "Emperador romano a caballo"
+  },
+  {
+   "tipo": "date",
+   "ini": 6609,
+   "fin": 6618,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6619,
+   "fin": 6629,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6619,
+   "fin": 6621,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 6624,
+   "fin": 6626,
+   "texto": "40"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6630,
+   "fin": 6646,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6648,
+   "fin": 6716
+  },
+  {
+   "tipo": "img",
+   "ini": 6648,
+   "fin": 6653,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6655,
+   "fin": 6716,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "De biología, de natura, 2014-2018\n40 x 70 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "caption",
+   "ini": 6655,
+   "fin": 6688
+  },
+  {
+   "tipo": "title",
+   "ini": 6655,
+   "fin": 6677,
+   "texto": "De biología, de natura"
+  },
+  {
+   "tipo": "date",
+   "ini": 6679,
+   "fin": 6688,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6689,
+   "fin": 6699,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6689,
+   "fin": 6691,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 6694,
+   "fin": 6696,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6700,
+   "fin": 6716,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6718,
+   "fin": 6780
+  },
+  {
+   "tipo": "img",
+   "ini": 6718,
+   "fin": 6723,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6725,
+   "fin": 6780,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Complejo nuclear, 2014-2018\n40 x 40 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "caption",
+   "ini": 6725,
+   "fin": 6752
+  },
+  {
+   "tipo": "title",
+   "ini": 6725,
+   "fin": 6741,
+   "texto": "Complejo nuclear"
+  },
+  {
+   "tipo": "date",
+   "ini": 6743,
+   "fin": 6752,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6753,
+   "fin": 6763,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6753,
+   "fin": 6755,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 6758,
+   "fin": 6760,
+   "texto": "40"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6764,
+   "fin": 6780,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6782,
+   "fin": 6846
+  },
+  {
+   "tipo": "img",
+   "ini": 6782,
+   "fin": 6787,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6789,
+   "fin": 6846,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Garabato y retrato, 2014-2018\n40 x 40 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "caption",
+   "ini": 6789,
+   "fin": 6818
+  },
+  {
+   "tipo": "title",
+   "ini": 6789,
+   "fin": 6807,
+   "texto": "Garabato y retrato"
+  },
+  {
+   "tipo": "date",
+   "ini": 6809,
+   "fin": 6818,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6819,
+   "fin": 6829,
+   "rasgos": {
+    "unit ": "cm"
+   },
+   "texto": "40 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6819,
+   "fin": 6821,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 6824,
+   "fin": 6826,
+   "texto": "40"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6830,
+   "fin": 6846,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6848,
+   "fin": 6913
+  },
+  {
+   "tipo": "img",
+   "ini": 6848,
+   "fin": 6853,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6855,
+   "fin": 6913,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Imaginería nocturna, 2014-2018\n50 x 50 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "caption",
+   "ini": 6855,
+   "fin": 6885
+  },
+  {
+   "tipo": "title",
+   "ini": 6855,
+   "fin": 6874,
+   "texto": "Imaginería nocturna"
+  },
+  {
+   "tipo": "date",
+   "ini": 6876,
+   "fin": 6885,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6886,
+   "fin": 6896,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6886,
+   "fin": 6888,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 6891,
+   "fin": 6893,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6897,
+   "fin": 6913,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6915,
+   "fin": 6980
+  },
+  {
+   "tipo": "img",
+   "ini": 6915,
+   "fin": 6920,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6922,
+   "fin": 6980,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sobre la zoogénesis, 2014-2018\n40 x 40 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "caption",
+   "ini": 6922,
+   "fin": 6952
+  },
+  {
+   "tipo": "title",
+   "ini": 6922,
+   "fin": 6941,
+   "texto": "Sobre la zoogénesis"
+  },
+  {
+   "tipo": "date",
+   "ini": 6943,
+   "fin": 6952,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 6953,
+   "fin": 6963,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 6953,
+   "fin": 6955,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 6958,
+   "fin": 6960,
+   "texto": "40"
+  },
+  {
+   "tipo": "technique",
+   "ini": 6964,
+   "fin": 6980,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 6982,
+   "fin": 7049
+  },
+  {
+   "tipo": "img",
+   "ini": 6982,
+   "fin": 6987,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 6989,
+   "fin": 7049,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Gigante de plastilina, 2014-2018\n50 x 50 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "caption",
+   "ini": 6989,
+   "fin": 7021
+  },
+  {
+   "tipo": "title",
+   "ini": 6989,
+   "fin": 7010,
+   "texto": "Gigante de plastilina"
+  },
+  {
+   "tipo": "date",
+   "ini": 7012,
+   "fin": 7021,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7022,
+   "fin": 7032,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7022,
+   "fin": 7024,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 7027,
+   "fin": 7029,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7033,
+   "fin": 7049,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7051,
+   "fin": 7121
+  },
+  {
+   "tipo": "img",
+   "ini": 7051,
+   "fin": 7056,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7058,
+   "fin": 7121,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Por el coral… con miedo!, 2014-2018\n40 x 40 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "caption",
+   "ini": 7058,
+   "fin": 7093
+  },
+  {
+   "tipo": "title",
+   "ini": 7058,
+   "fin": 7082,
+   "texto": "Por el coral… con miedo!"
+  },
+  {
+   "tipo": "date",
+   "ini": 7084,
+   "fin": 7093,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7094,
+   "fin": 7104,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7094,
+   "fin": 7096,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 7099,
+   "fin": 7101,
+   "texto": "40"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7105,
+   "fin": 7121,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7123,
+   "fin": 7188
+  },
+  {
+   "tipo": "img",
+   "ini": 7123,
+   "fin": 7128,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7130,
+   "fin": 7188,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Arrecifes zoomorfos, 2014-2018\n40 x 40 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "caption",
+   "ini": 7130,
+   "fin": 7160
+  },
+  {
+   "tipo": "title",
+   "ini": 7130,
+   "fin": 7149,
+   "texto": "Arrecifes zoomorfos"
+  },
+  {
+   "tipo": "date",
+   "ini": 7151,
+   "fin": 7160,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7161,
+   "fin": 7171,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7161,
+   "fin": 7163,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 7166,
+   "fin": 7168,
+   "texto": "40"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7172,
+   "fin": 7188,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7190,
+   "fin": 7263
+  },
+  {
+   "tipo": "img",
+   "ini": 7190,
+   "fin": 7195,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7197,
+   "fin": 7264,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Escena con la aurora boreal, 2014-2018\n40 x 40 cm\nÓleo sobre tabla\n"
+  },
+  {
+   "tipo": "caption",
+   "ini": 7197,
+   "fin": 7235
+  },
+  {
+   "tipo": "title",
+   "ini": 7197,
+   "fin": 7224,
+   "texto": "Escena con la aurora boreal"
+  },
+  {
+   "tipo": "date",
+   "ini": 7226,
+   "fin": 7235,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7236,
+   "fin": 7246,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7236,
+   "fin": 7238,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 7241,
+   "fin": 7243,
+   "texto": "40"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7247,
+   "fin": 7263,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7265,
+   "fin": 7327
+  },
+  {
+   "tipo": "img",
+   "ini": 7265,
+   "fin": 7270,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7272,
+   "fin": 7327,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "El cráneo dorado, 2014-2018\n40 x 40 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "caption",
+   "ini": 7272,
+   "fin": 7299
+  },
+  {
+   "tipo": "title",
+   "ini": 7272,
+   "fin": 7288,
+   "texto": "El cráneo dorado"
+  },
+  {
+   "tipo": "date",
+   "ini": 7290,
+   "fin": 7299,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7300,
+   "fin": 7310,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7300,
+   "fin": 7302,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 7305,
+   "fin": 7307,
+   "texto": "40"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7311,
+   "fin": 7327,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7329,
+   "fin": 7399
+  },
+  {
+   "tipo": "img",
+   "ini": 7329,
+   "fin": 7334,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7336,
+   "fin": 7399,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sueños ricos en magnesio, 2014-2018\n40 x 40 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "caption",
+   "ini": 7336,
+   "fin": 7371
+  },
+  {
+   "tipo": "title",
+   "ini": 7336,
+   "fin": 7360,
+   "texto": "Sueños ricos en magnesio"
+  },
+  {
+   "tipo": "date",
+   "ini": 7362,
+   "fin": 7371,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7372,
+   "fin": 7382,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7372,
+   "fin": 7374,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 7377,
+   "fin": 7379,
+   "texto": "40"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7383,
+   "fin": 7399,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7401,
+   "fin": 7466
+  },
+  {
+   "tipo": "img",
+   "ini": 7401,
+   "fin": 7406,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7408,
+   "fin": 7466,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Atravesando el Nilo, 2014-2018\n40 x 40 cm\nÓleo sobre tabla"
+  },
+  {
+   "tipo": "caption",
+   "ini": 7408,
+   "fin": 7438
+  },
+  {
+   "tipo": "title",
+   "ini": 7408,
+   "fin": 7427,
+   "texto": "Atravesando el Nilo"
+  },
+  {
+   "tipo": "date",
+   "ini": 7429,
+   "fin": 7438,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7439,
+   "fin": 7449,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7439,
+   "fin": 7441,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 7444,
+   "fin": 7446,
+   "texto": "40"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7450,
+   "fin": 7466,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre tabla"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7468,
+   "fin": 7530
+  },
+  {
+   "tipo": "img",
+   "ini": 7468,
+   "fin": 7473,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7475,
+   "fin": 7530,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Barcas de Capadocia, 2014-2018\n40 x 70 cm\nÓleo sobre DM"
+  },
+  {
+   "tipo": "caption",
+   "ini": 7475,
+   "fin": 7505
+  },
+  {
+   "tipo": "title",
+   "ini": 7475,
+   "fin": 7494,
+   "texto": "Barcas de Capadocia"
+  },
+  {
+   "tipo": "date",
+   "ini": 7496,
+   "fin": 7505,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7506,
+   "fin": 7516,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "40 x 70 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7506,
+   "fin": 7508,
+   "texto": "40"
+  },
+  {
+   "tipo": "width",
+   "ini": 7511,
+   "fin": 7513,
+   "texto": "70"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7517,
+   "fin": 7530,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre DM"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 7532,
+   "fin": 7593
+  },
+  {
+   "tipo": "img",
+   "ini": 7532,
+   "fin": 7537,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 7539,
+   "fin": 7593,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Sol rojo submarino, 2014-2018\n50 x 50 cm\nÓleo sobre DM"
+  },
+  {
+   "tipo": "caption",
+   "ini": 7539,
+   "fin": 7568
+  },
+  {
+   "tipo": "title",
+   "ini": 7539,
+   "fin": 7557,
+   "texto": "Sol rojo submarino"
+  },
+  {
+   "tipo": "date",
+   "ini": 7559,
+   "fin": 7568,
+   "rasgos": {
+    "from": "2014",
+    "to": "2018"
+   },
+   "texto": "2014-2018"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 7569,
+   "fin": 7579,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 7569,
+   "fin": 7571,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 7574,
+   "fin": 7576,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 7580,
+   "fin": 7593,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre DM"
+  },
+  {
+   "tipo": "institution",
+   "ini": 10217,
+   "fin": 10241,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Museo Casa Botines Gaudí"
+  },
+  {
+   "tipo": "institution",
+   "ini": 10242,
+   "fin": 10359,
+   "rasgos": {
+    "type": "museum",
+    "role": "organiser, host"
+   },
+   "texto": "Casa Botines (Plaza de San Marcelo, 5 - 24002 León)\n(+34) 987 353 247\ninfo@casabotines.es\nhttps://www.casabotines.es/"
+  },
+  {
+   "tipo": "address",
+   "ini": 10256,
+   "fin": 10293,
+   "texto": "Plaza de San Marcelo, 5 - 24002 León)"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 10288,
+   "fin": 10292,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "León"
+  }
+ ]
+}

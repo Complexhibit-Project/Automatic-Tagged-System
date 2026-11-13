@@ -1,0 +1,3342 @@
+{
+ "id": "cat_094_sodapdf_compressed_catalogo_web_ouka_lee",
+ "nombre_original": "SodaPDF-compressed-Catalogo-WEB-OUKA-LEELE_compressed-1_compressed_reduce",
+ "longitud_texto": 33908,
+ "sha256_texto": "35be5d12d9bb1ef9ad810f083967721a841320ad6ea35b2f672db9d46a35699d",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 149,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 33,
+   "texto": "Ouka Leele\nViajeros de mi galaxia"
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 10,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 10,
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "institution",
+   "ini": 35,
+   "fin": 115,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Calle Villanueva, 30. 28001. Madrid. 91 575 04 27\nwww.galeriafernandez-braso.com"
+  },
+  {
+   "tipo": "address",
+   "ini": 35,
+   "fin": 70,
+   "texto": "Calle Villanueva, 30. 28001. Madrid"
+  },
+  {
+   "tipo": "date",
+   "ini": 117,
+   "fin": 149,
+   "rasgos": {
+    "from": "2016-06-09",
+    "to": "2016-07-30"
+   },
+   "texto": "9 de junio - 30 de julio de 2016"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 151,
+   "fin": 414,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 151,
+   "fin": 184,
+   "texto": "Ouka Leele\nViajeros de mi galaxia"
+  },
+  {
+   "tipo": "person",
+   "ini": 151,
+   "fin": 161,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 151,
+   "fin": 161,
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "institution",
+   "ini": 189,
+   "fin": 220,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "galería de arte Fernández-Braso"
+  },
+  {
+   "tipo": "person",
+   "ini": 353,
+   "fin": 383,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bárbara Allende (Madrid, 1957)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 353,
+   "fin": 368,
+   "texto": "Bárbara Allende"
+  },
+  {
+   "tipo": "birth",
+   "ini": 370,
+   "fin": 382
+  },
+  {
+   "tipo": "placeName",
+   "ini": 370,
+   "fin": 376,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "date",
+   "ini": 378,
+   "fin": 382,
+   "rasgos": {
+    "when": "1957"
+   },
+   "texto": "1957"
+  },
+  {
+   "tipo": "person",
+   "ini": 403,
+   "fin": 413,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 403,
+   "fin": 413,
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "person",
+   "ini": 642,
+   "fin": 652,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 642,
+   "fin": 652,
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "person",
+   "ini": 903,
+   "fin": 913,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 903,
+   "fin": 913,
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "person",
+   "ini": 1821,
+   "fin": 1831,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1821,
+   "fin": 1831,
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "person",
+   "ini": 2348,
+   "fin": 2358,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2348,
+   "fin": 2358,
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "person",
+   "ini": 2676,
+   "fin": 2686,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2676,
+   "fin": 2686,
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "person",
+   "ini": 2841,
+   "fin": 2851,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2841,
+   "fin": 2851,
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "person",
+   "ini": 3735,
+   "fin": 3745,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3735,
+   "fin": 3745,
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "person",
+   "ini": 4332,
+   "fin": 4339,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bárbara"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4332,
+   "fin": 4339,
+   "texto": "Bárbara"
+  },
+  {
+   "tipo": "person",
+   "ini": 4368,
+   "fin": 4377,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Lele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4368,
+   "fin": 4377,
+   "texto": "Ouka Lele"
+  },
+  {
+   "tipo": "person",
+   "ini": 4438,
+   "fin": 4448,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4438,
+   "fin": 4448,
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "person",
+   "ini": 5717,
+   "fin": 5727,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5717,
+   "fin": 5727,
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "person",
+   "ini": 7553,
+   "fin": 7560,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bárbara"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7553,
+   "fin": 7560,
+   "texto": "Bárbara"
+  },
+  {
+   "tipo": "person",
+   "ini": 7727,
+   "fin": 7736,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Lele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7727,
+   "fin": 7736,
+   "texto": "Ouka Lele"
+  },
+  {
+   "tipo": "person",
+   "ini": 8795,
+   "fin": 8802,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bárbara"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8795,
+   "fin": 8802,
+   "texto": "Bárbara"
+  },
+  {
+   "tipo": "person",
+   "ini": 8969,
+   "fin": 8979,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8969,
+   "fin": 8979,
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "person",
+   "ini": 9139,
+   "fin": 9149,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9139,
+   "fin": 9149,
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "person",
+   "ini": 9340,
+   "fin": 9349,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Lele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9340,
+   "fin": 9349,
+   "texto": "Ouka Lele"
+  },
+  {
+   "tipo": "person",
+   "ini": 10888,
+   "fin": 10898,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10888,
+   "fin": 10898,
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "person",
+   "ini": 12212,
+   "fin": 12222,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12212,
+   "fin": 12222,
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "person",
+   "ini": 14451,
+   "fin": 14461,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14451,
+   "fin": 14461,
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "person",
+   "ini": 15392,
+   "fin": 15399,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bárbara"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15392,
+   "fin": 15399,
+   "texto": "Bárbara"
+  },
+  {
+   "tipo": "person",
+   "ini": 15592,
+   "fin": 15602,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15592,
+   "fin": 15602,
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "person",
+   "ini": 16141,
+   "fin": 16151,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16141,
+   "fin": 16151,
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "person",
+   "ini": 17569,
+   "fin": 17579,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17569,
+   "fin": 17579,
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "person",
+   "ini": 19462,
+   "fin": 19472,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19462,
+   "fin": 19472,
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "person",
+   "ini": 20667,
+   "fin": 20677,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20667,
+   "fin": 20677,
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "person",
+   "ini": 21294,
+   "fin": 21301,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bárbara"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21294,
+   "fin": 21301,
+   "texto": "Bárbara"
+  },
+  {
+   "tipo": "person",
+   "ini": 21878,
+   "fin": 21888,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21878,
+   "fin": 21888,
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 22051,
+   "fin": 25939
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22096,
+   "fin": 22164
+  },
+  {
+   "tipo": "img",
+   "ini": 22096,
+   "fin": 22101,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 22103,
+   "fin": 22164,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Antes\nClorobromuro de plata en papel baritado\n67 x 77 cm.1982"
+  },
+  {
+   "tipo": "title",
+   "ini": 22103,
+   "fin": 22108,
+   "texto": "Antes"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22109,
+   "fin": 22148,
+   "rasgos": {
+    "type": "b/w"
+   },
+   "texto": "Clorobromuro de plata en papel baritado"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22149,
+   "fin": 22159,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "67 x 77 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22149,
+   "fin": 22151,
+   "texto": "67"
+  },
+  {
+   "tipo": "width",
+   "ini": 22154,
+   "fin": 22156,
+   "texto": "77"
+  },
+  {
+   "tipo": "date",
+   "ini": 22160,
+   "fin": 22164,
+   "rasgos": {
+    "when": "1982"
+   },
+   "texto": "1982"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22166,
+   "fin": 22269
+  },
+  {
+   "tipo": "img",
+   "ini": 22166,
+   "fin": 22171,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 22173,
+   "fin": 22269,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Un espacio vacío lleno de flores aisladas\nClorobromuro de plata en papel baritado\n67 x 57cm.1986"
+  },
+  {
+   "tipo": "title",
+   "ini": 22173,
+   "fin": 22214,
+   "texto": "Un espacio vacío lleno de flores aisladas"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22215,
+   "fin": 22254,
+   "rasgos": {
+    "type": "b/w"
+   },
+   "texto": "Clorobromuro de plata en papel baritado"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22255,
+   "fin": 22264,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "67 x 57cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22255,
+   "fin": 22257,
+   "texto": "67"
+  },
+  {
+   "tipo": "width",
+   "ini": 22260,
+   "fin": 22262,
+   "texto": "57"
+  },
+  {
+   "tipo": "date",
+   "ini": 22265,
+   "fin": 22269,
+   "rasgos": {
+    "when": "1986"
+   },
+   "texto": "1986"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22271,
+   "fin": 22394
+  },
+  {
+   "tipo": "img",
+   "ini": 22271,
+   "fin": 22276,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 22278,
+   "fin": 22394,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Curro soñaba con apilar la plata, a mi me encantó su sobrina\nClorobromuro de plata en papel baritado\n97 x 71 cm.1987"
+  },
+  {
+   "tipo": "title",
+   "ini": 22278,
+   "fin": 22338,
+   "texto": "Curro soñaba con apilar la plata, a mi me encantó su sobrina"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22339,
+   "fin": 22378,
+   "rasgos": {
+    "type": "b/w"
+   },
+   "texto": "Clorobromuro de plata en papel baritado"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22379,
+   "fin": 22389,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "97 x 71 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22379,
+   "fin": 22381,
+   "texto": "97"
+  },
+  {
+   "tipo": "width",
+   "ini": 22384,
+   "fin": 22386,
+   "texto": "71"
+  },
+  {
+   "tipo": "date",
+   "ini": 22390,
+   "fin": 22394,
+   "rasgos": {
+    "when": "1987"
+   },
+   "texto": "1987"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22396,
+   "fin": 22484
+  },
+  {
+   "tipo": "img",
+   "ini": 22396,
+   "fin": 22401,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 22403,
+   "fin": 22484,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "En el Palacio de Gaviria\n80 x 100 cm.1987\nClorobromuro de plata en papel baritado"
+  },
+  {
+   "tipo": "title",
+   "ini": 22403,
+   "fin": 22427,
+   "texto": "En el Palacio de Gaviria"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22428,
+   "fin": 22439,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22428,
+   "fin": 22430,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 22433,
+   "fin": 22436,
+   "texto": "100"
+  },
+  {
+   "tipo": "date",
+   "ini": 22440,
+   "fin": 22444,
+   "rasgos": {
+    "when": "1987"
+   },
+   "texto": "1987"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22445,
+   "fin": 22484,
+   "rasgos": {
+    "type": "b/w"
+   },
+   "texto": "Clorobromuro de plata en papel baritado"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22486,
+   "fin": 22592
+  },
+  {
+   "tipo": "img",
+   "ini": 22486,
+   "fin": 22491,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 22493,
+   "fin": 22592,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Mirándonos en el espejo del taller divino\n100 x 80 cm. 1988\nClorobromuro de plata en papel baritado"
+  },
+  {
+   "tipo": "title",
+   "ini": 22493,
+   "fin": 22534,
+   "texto": "Mirándonos en el espejo del taller divino"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22535,
+   "fin": 22546,
+   "rasgos": {
+    "unit ": "cm"
+   },
+   "texto": "100 x 80 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22535,
+   "fin": 22538,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 22541,
+   "fin": 22543,
+   "texto": "80"
+  },
+  {
+   "tipo": "date",
+   "ini": 22548,
+   "fin": 22552,
+   "rasgos": {
+    "when": "1988"
+   },
+   "texto": "1988"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22553,
+   "fin": 22592,
+   "rasgos": {
+    "type": "b/w"
+   },
+   "texto": "Clorobromuro de plata en papel baritado"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22647,
+   "fin": 22758
+  },
+  {
+   "tipo": "img",
+   "ini": 22647,
+   "fin": 22652,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 22654,
+   "fin": 22759,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Marta, cuyo nombre calienta mi corazón\nImpresión digital en papel de algodón Hahnemühle\n23 x 17 cm. 1975\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 22654,
+   "fin": 22692,
+   "texto": "Marta, cuyo nombre calienta mi corazón"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22693,
+   "fin": 22741,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital en papel de algodón Hahnemühle"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22742,
+   "fin": 22752,
+   "rasgos": {
+    "unit ": "cm"
+   },
+   "texto": "23 x 17 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22742,
+   "fin": 22744,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 22747,
+   "fin": 22749,
+   "texto": "17"
+  },
+  {
+   "tipo": "date",
+   "ini": 22754,
+   "fin": 22758,
+   "rasgos": {
+    "when": "1975"
+   },
+   "texto": "1975"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22760,
+   "fin": 22858
+  },
+  {
+   "tipo": "img",
+   "ini": 22760,
+   "fin": 22765,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 22767,
+   "fin": 22858,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Autorretrato de fotógrafa\nImpresión digital en papel de algodón Hahnemühle\n23 x 17 cm. 1978"
+  },
+  {
+   "tipo": "title",
+   "ini": 22767,
+   "fin": 22792,
+   "texto": "Autorretrato de fotógrafa"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22793,
+   "fin": 22841,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital en papel de algodón Hahnemühle"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22842,
+   "fin": 22852,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "23 x 17 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22842,
+   "fin": 22844,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 22847,
+   "fin": 22849,
+   "texto": "17"
+  },
+  {
+   "tipo": "date",
+   "ini": 22854,
+   "fin": 22858,
+   "rasgos": {
+    "when": "1978"
+   },
+   "texto": "1978"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22860,
+   "fin": 22977
+  },
+  {
+   "tipo": "img",
+   "ini": 22860,
+   "fin": 22865,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 22867,
+   "fin": 22977,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Un lugar precioso para un retrato de familia\nImpresión digital en papel de algodón Hahnemühle\n23 x 17 cm. 1986"
+  },
+  {
+   "tipo": "title",
+   "ini": 22867,
+   "fin": 22911,
+   "texto": "Un lugar precioso para un retrato de familia"
+  },
+  {
+   "tipo": "technique",
+   "ini": 22912,
+   "fin": 22960,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital en papel de algodón Hahnemühle"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 22961,
+   "fin": 22971,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "23 x 17 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 22961,
+   "fin": 22963,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 22966,
+   "fin": 22968,
+   "texto": "17"
+  },
+  {
+   "tipo": "date",
+   "ini": 22973,
+   "fin": 22977,
+   "rasgos": {
+    "when": "1986"
+   },
+   "texto": "1986"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 22979,
+   "fin": 23072
+  },
+  {
+   "tipo": "img",
+   "ini": 22979,
+   "fin": 22984,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 22986,
+   "fin": 23073,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "El elixir de la vida\nImpresión digital en papel de algodón Hahnemühle\n17 x 23 cm. 1987\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 22986,
+   "fin": 23006,
+   "texto": "El elixir de la vida"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23007,
+   "fin": 23055,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital en papel de algodón Hahnemühle"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23056,
+   "fin": 23066,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "17 x 23 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23056,
+   "fin": 23058,
+   "texto": "17"
+  },
+  {
+   "tipo": "width",
+   "ini": 23061,
+   "fin": 23063,
+   "texto": "23"
+  },
+  {
+   "tipo": "date",
+   "ini": 23068,
+   "fin": 23072,
+   "rasgos": {
+    "when": "1987"
+   },
+   "texto": "1987"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23074,
+   "fin": 23179
+  },
+  {
+   "tipo": "img",
+   "ini": 23074,
+   "fin": 23079,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 23081,
+   "fin": 23179,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Herida como la niebla por el sol\nImpresión digital en papel de algodón Hahnemühle\n17 x 23 cm. 1987"
+  },
+  {
+   "tipo": "title",
+   "ini": 23081,
+   "fin": 23113,
+   "texto": "Herida como la niebla por el sol"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23114,
+   "fin": 23162,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital en papel de algodón Hahnemühle"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23163,
+   "fin": 23173,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "17 x 23 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23163,
+   "fin": 23165,
+   "texto": "17"
+  },
+  {
+   "tipo": "width",
+   "ini": 23168,
+   "fin": 23170,
+   "texto": "23"
+  },
+  {
+   "tipo": "date",
+   "ini": 23175,
+   "fin": 23179,
+   "rasgos": {
+    "when": "1987"
+   },
+   "texto": "1987"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23181,
+   "fin": 23279
+  },
+  {
+   "tipo": "img",
+   "ini": 23181,
+   "fin": 23186,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 23188,
+   "fin": 23279,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Mis invitados al banquete\nImpresión digital en papel de algodón Hahnemühle\n17 x 23 cm. 1987"
+  },
+  {
+   "tipo": "title",
+   "ini": 23188,
+   "fin": 23213,
+   "texto": "Mis invitados al banquete"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23214,
+   "fin": 23262,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital en papel de algodón Hahnemühle"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23263,
+   "fin": 23273,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "17 x 23 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23263,
+   "fin": 23265,
+   "texto": "17"
+  },
+  {
+   "tipo": "width",
+   "ini": 23268,
+   "fin": 23270,
+   "texto": "23"
+  },
+  {
+   "tipo": "date",
+   "ini": 23275,
+   "fin": 23279,
+   "rasgos": {
+    "when": "1987"
+   },
+   "texto": "1987"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23281,
+   "fin": 23383
+  },
+  {
+   "tipo": "img",
+   "ini": 23281,
+   "fin": 23286,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 23288,
+   "fin": 23383,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Isabel levitando como siempre\nImpresión digital en papel de algodón\nHahnemühle\n23 x 17 cm. 1988"
+  },
+  {
+   "tipo": "title",
+   "ini": 23288,
+   "fin": 23317,
+   "texto": "Isabel levitando como siempre"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23318,
+   "fin": 23366,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital en papel de algodón\nHahnemühle"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23367,
+   "fin": 23377,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "23 x 17 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23367,
+   "fin": 23369,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 23372,
+   "fin": 23374,
+   "texto": "17"
+  },
+  {
+   "tipo": "date",
+   "ini": 23379,
+   "fin": 23383,
+   "rasgos": {
+    "when": "1988"
+   },
+   "texto": "1988"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23385,
+   "fin": 23478
+  },
+  {
+   "tipo": "img",
+   "ini": 23385,
+   "fin": 23390,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 23392,
+   "fin": 23478,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Sacerdotisa lunática\nImpresión digital en papel de algodón\nHahnemühle\n23 x 17 cm. 1995"
+  },
+  {
+   "tipo": "title",
+   "ini": 23392,
+   "fin": 23412,
+   "texto": "Sacerdotisa lunática"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23413,
+   "fin": 23461,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital en papel de algodón\nHahnemühle"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23462,
+   "fin": 23472,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "23 x 17 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23462,
+   "fin": 23464,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 23467,
+   "fin": 23469,
+   "texto": "17"
+  },
+  {
+   "tipo": "date",
+   "ini": 23474,
+   "fin": 23478,
+   "rasgos": {
+    "when": "1995"
+   },
+   "texto": "1995"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23480,
+   "fin": 23588
+  },
+  {
+   "tipo": "img",
+   "ini": 23480,
+   "fin": 23485,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 23487,
+   "fin": 23588,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Toda la belleza se posó en su brazo\nImpresión digital en papel de algodón Hahnemühle\n17 x 23 cm. 1998"
+  },
+  {
+   "tipo": "title",
+   "ini": 23487,
+   "fin": 23522,
+   "texto": "Toda la belleza se posó en su brazo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23523,
+   "fin": 23571,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital en papel de algodón Hahnemühle"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23572,
+   "fin": 23582,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "17 x 23 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23572,
+   "fin": 23574,
+   "texto": "17"
+  },
+  {
+   "tipo": "width",
+   "ini": 23577,
+   "fin": 23579,
+   "texto": "23"
+  },
+  {
+   "tipo": "date",
+   "ini": 23584,
+   "fin": 23588,
+   "rasgos": {
+    "when": "1998"
+   },
+   "texto": "1998"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23590,
+   "fin": 23688
+  },
+  {
+   "tipo": "img",
+   "ini": 23590,
+   "fin": 23595,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 23597,
+   "fin": 23688,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "La fotografía como escudo\nImpresión digital en papel de algodón\nHahnemühle\n23 x 17 cm. 2006"
+  },
+  {
+   "tipo": "title",
+   "ini": 23597,
+   "fin": 23622,
+   "texto": "La fotografía como escudo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23623,
+   "fin": 23671,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital en papel de algodón\nHahnemühle"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23672,
+   "fin": 23682,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "23 x 17 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23672,
+   "fin": 23674,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 23677,
+   "fin": 23679,
+   "texto": "17"
+  },
+  {
+   "tipo": "date",
+   "ini": 23684,
+   "fin": 23688,
+   "rasgos": {
+    "when": "2006"
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23749,
+   "fin": 23840
+  },
+  {
+   "tipo": "img",
+   "ini": 23749,
+   "fin": 23754,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 23756,
+   "fin": 23840,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Peluquería\nFotografía en blanco y negro pintada a mano con acuarela\n18 x 24 cm. 1979"
+  },
+  {
+   "tipo": "title",
+   "ini": 23756,
+   "fin": 23766,
+   "texto": "Peluquería"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23767,
+   "fin": 23823,
+   "rasgos": {
+    "type": "photograph, watercolour"
+   },
+   "texto": "Fotografía en blanco y negro pintada a mano con acuarela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23824,
+   "fin": 23834,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "18 x 24 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23824,
+   "fin": 23826,
+   "texto": "18"
+  },
+  {
+   "tipo": "width",
+   "ini": 23829,
+   "fin": 23831,
+   "texto": "24"
+  },
+  {
+   "tipo": "date",
+   "ini": 23836,
+   "fin": 23840,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23842,
+   "fin": 23934
+  },
+  {
+   "tipo": "img",
+   "ini": 23842,
+   "fin": 23847,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 23849,
+   "fin": 23933,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Peluquería\nFotografía en blanco y negro\npintada a mano con acuarela\n24 x 18 cm. 1979"
+  },
+  {
+   "tipo": "title",
+   "ini": 23849,
+   "fin": 23859,
+   "texto": "Peluquería"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23860,
+   "fin": 23916,
+   "rasgos": {
+    "type": "photograph, watercolour"
+   },
+   "texto": "Fotografía en blanco y negro\npintada a mano con acuarela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 23917,
+   "fin": 23927,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "24 x 18 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 23917,
+   "fin": 23919,
+   "texto": "24"
+  },
+  {
+   "tipo": "width",
+   "ini": 23922,
+   "fin": 23924,
+   "texto": "18"
+  },
+  {
+   "tipo": "date",
+   "ini": 23929,
+   "fin": 23933,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 23935,
+   "fin": 24026
+  },
+  {
+   "tipo": "img",
+   "ini": 23935,
+   "fin": 23940,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 23942,
+   "fin": 24026,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Peluquería\nFotografía en blanco y negro\npintada a mano con acuarela\n24 x 18 cm. 1979"
+  },
+  {
+   "tipo": "title",
+   "ini": 23942,
+   "fin": 23952,
+   "texto": "Peluquería"
+  },
+  {
+   "tipo": "technique",
+   "ini": 23953,
+   "fin": 24009,
+   "rasgos": {
+    "type": "photograph, watercolour"
+   },
+   "texto": "Fotografía en blanco y negro\npintada a mano con acuarela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24010,
+   "fin": 24020,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "24 x 18 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24010,
+   "fin": 24012,
+   "texto": "24"
+  },
+  {
+   "tipo": "width",
+   "ini": 24015,
+   "fin": 24017,
+   "texto": "18"
+  },
+  {
+   "tipo": "date",
+   "ini": 24022,
+   "fin": 24026,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24028,
+   "fin": 24119
+  },
+  {
+   "tipo": "img",
+   "ini": 24028,
+   "fin": 24034,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24035,
+   "fin": 24119,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Peluquería\nFotografía en blanco y negro\npintada a mano con acuarela\n24 x 18 cm. 1979"
+  },
+  {
+   "tipo": "title",
+   "ini": 24035,
+   "fin": 24045,
+   "texto": "Peluquería"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24046,
+   "fin": 24102,
+   "rasgos": {
+    "type": "photograph, watercolour"
+   },
+   "texto": "Fotografía en blanco y negro\npintada a mano con acuarela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24103,
+   "fin": 24113,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "24 x 18 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24103,
+   "fin": 24105,
+   "texto": "24"
+  },
+  {
+   "tipo": "width",
+   "ini": 24108,
+   "fin": 24110,
+   "texto": "18"
+  },
+  {
+   "tipo": "date",
+   "ini": 24115,
+   "fin": 24119,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24121,
+   "fin": 24212
+  },
+  {
+   "tipo": "img",
+   "ini": 24121,
+   "fin": 24126,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24128,
+   "fin": 24212,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Peluquería\nFotografía en blanco y negro\npintada a mano con acuarela\n24 x 18 cm. 1979"
+  },
+  {
+   "tipo": "title",
+   "ini": 24128,
+   "fin": 24138,
+   "texto": "Peluquería"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24139,
+   "fin": 24195,
+   "rasgos": {
+    "type": "photograph, watercolour"
+   },
+   "texto": "Fotografía en blanco y negro\npintada a mano con acuarela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24196,
+   "fin": 24206,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "24 x 18 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24196,
+   "fin": 24198,
+   "texto": "24"
+  },
+  {
+   "tipo": "width",
+   "ini": 24201,
+   "fin": 24203,
+   "texto": "18"
+  },
+  {
+   "tipo": "date",
+   "ini": 24208,
+   "fin": 24212,
+   "rasgos": {
+    "when": "1979"
+   },
+   "texto": "1979"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24214,
+   "fin": 24303
+  },
+  {
+   "tipo": "img",
+   "ini": 24214,
+   "fin": 24219,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24221,
+   "fin": 24303,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Consuelo\nFotografía en blanco y negro\npintada a mano con acuarela\n60 x 50 cm. 1981"
+  },
+  {
+   "tipo": "title",
+   "ini": 24221,
+   "fin": 24229,
+   "texto": "Consuelo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24230,
+   "fin": 24286,
+   "rasgos": {
+    "type": "photograph, watercolour"
+   },
+   "texto": "Fotografía en blanco y negro\npintada a mano con acuarela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24287,
+   "fin": 24297,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "60 x 50 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24287,
+   "fin": 24289,
+   "texto": "60"
+  },
+  {
+   "tipo": "width",
+   "ini": 24292,
+   "fin": 24294,
+   "texto": "50"
+  },
+  {
+   "tipo": "date",
+   "ini": 24299,
+   "fin": 24303,
+   "rasgos": {
+    "when": "1981"
+   },
+   "texto": "1981"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24305,
+   "fin": 24396
+  },
+  {
+   "tipo": "img",
+   "ini": 24305,
+   "fin": 24310,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24312,
+   "fin": 24397,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "La alegría\nFotografía en blanco y negro\npintada a mano con acuarela\n50 x 40 cm. 1995\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 24312,
+   "fin": 24322,
+   "texto": "La alegría"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24323,
+   "fin": 24379,
+   "rasgos": {
+    "type": "photograph, watercolour"
+   },
+   "texto": "Fotografía en blanco y negro\npintada a mano con acuarela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24380,
+   "fin": 24390,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50 x 40 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24380,
+   "fin": 24382,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 24385,
+   "fin": 24387,
+   "texto": "40"
+  },
+  {
+   "tipo": "date",
+   "ini": 24392,
+   "fin": 24396,
+   "rasgos": {
+    "when": "1995"
+   },
+   "texto": "1995"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24398,
+   "fin": 24596
+  },
+  {
+   "tipo": "img",
+   "ini": 24398,
+   "fin": 24403,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24405,
+   "fin": 24596,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "El rayo, tu amigo, fulmina los falsos ídolos\nadorados por los lascivos donceles del maligno enemigo de las alas puras\nFotografía en blanco y negro pintada a mano\ncon acuarela\n45 x 35 cm. 2010"
+  },
+  {
+   "tipo": "title",
+   "ini": 24405,
+   "fin": 24522,
+   "texto": "El rayo, tu amigo, fulmina los falsos ídolos\nadorados por los lascivos donceles del maligno enemigo de las alas puras"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24523,
+   "fin": 24579,
+   "rasgos": {
+    "type": "photograph, watercolour"
+   },
+   "texto": "Fotografía en blanco y negro pintada a mano\ncon acuarela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24580,
+   "fin": 24590,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "45 x 35 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24580,
+   "fin": 24582,
+   "texto": "45"
+  },
+  {
+   "tipo": "width",
+   "ini": 24585,
+   "fin": 24587,
+   "texto": "35"
+  },
+  {
+   "tipo": "date",
+   "ini": 24592,
+   "fin": 24596,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24598,
+   "fin": 24704
+  },
+  {
+   "tipo": "img",
+   "ini": 24598,
+   "fin": 24603,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24605,
+   "fin": 24704,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "El sagrario de su corazón\nFotografía en blanco y negro pintada a mano\ncon acuarela\n45 x 35 cm. 2010"
+  },
+  {
+   "tipo": "title",
+   "ini": 24605,
+   "fin": 24630,
+   "texto": "El sagrario de su corazón"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24631,
+   "fin": 24687,
+   "rasgos": {
+    "type": "photograph, watercolour"
+   },
+   "texto": "Fotografía en blanco y negro pintada a mano\ncon acuarela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24688,
+   "fin": 24698,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "45 x 35 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24688,
+   "fin": 24690,
+   "texto": "45"
+  },
+  {
+   "tipo": "width",
+   "ini": 24693,
+   "fin": 24695,
+   "texto": "35"
+  },
+  {
+   "tipo": "date",
+   "ini": 24700,
+   "fin": 24704,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24706,
+   "fin": 24811
+  },
+  {
+   "tipo": "img",
+   "ini": 24706,
+   "fin": 24711,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24713,
+   "fin": 24811,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Tú que nos traes el agua\nFotografía en blanco y negro pintada a mano\ncon acuarela\n45 x 35 cm. 2010"
+  },
+  {
+   "tipo": "title",
+   "ini": 24713,
+   "fin": 24737,
+   "texto": "Tú que nos traes el agua"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24738,
+   "fin": 24794,
+   "rasgos": {
+    "type": "photograph, watercolour"
+   },
+   "texto": "Fotografía en blanco y negro pintada a mano\ncon acuarela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24795,
+   "fin": 24805,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "45 x 35 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24795,
+   "fin": 24797,
+   "texto": "45"
+  },
+  {
+   "tipo": "width",
+   "ini": 24800,
+   "fin": 24802,
+   "texto": "35"
+  },
+  {
+   "tipo": "date",
+   "ini": 24807,
+   "fin": 24811,
+   "rasgos": {
+    "when": "2010"
+   },
+   "texto": "2010"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24838,
+   "fin": 24934
+  },
+  {
+   "tipo": "img",
+   "ini": 24838,
+   "fin": 24843,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24845,
+   "fin": 24934,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Cartel para Meye Maier\nImpresión digital en papel de algodón Hahnemühle\n80 x 100 cm. 1984"
+  },
+  {
+   "tipo": "title",
+   "ini": 24845,
+   "fin": 24867,
+   "texto": "Cartel para Meye Maier"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24868,
+   "fin": 24916,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital en papel de algodón Hahnemühle"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 24917,
+   "fin": 24928,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 24917,
+   "fin": 24919,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 24922,
+   "fin": 24925,
+   "texto": "100"
+  },
+  {
+   "tipo": "date",
+   "ini": 24930,
+   "fin": 24934,
+   "rasgos": {
+    "when": "1984"
+   },
+   "texto": "1984"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 24936,
+   "fin": 25029
+  },
+  {
+   "tipo": "img",
+   "ini": 24936,
+   "fin": 24941,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 24943,
+   "fin": 25029,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Rapelle-toi Bárbara\nImpresión digital en papel de algodón Hahnemühle\n80 x 100 cm. 1987"
+  },
+  {
+   "tipo": "title",
+   "ini": 24943,
+   "fin": 24962,
+   "texto": "Rapelle-toi Bárbara"
+  },
+  {
+   "tipo": "technique",
+   "ini": 24963,
+   "fin": 25011,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital en papel de algodón Hahnemühle"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25012,
+   "fin": 25023,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25012,
+   "fin": 25014,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 25017,
+   "fin": 25020,
+   "texto": "100"
+  },
+  {
+   "tipo": "date",
+   "ini": 25025,
+   "fin": 25029,
+   "rasgos": {
+    "when": "1987"
+   },
+   "texto": "1987"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25031,
+   "fin": 25137
+  },
+  {
+   "tipo": "img",
+   "ini": 25031,
+   "fin": 25036,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25038,
+   "fin": 25137,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Herida como la niebla por el sol\nImpresión digital en papel de algodón Hahnemühle\n80 x 100 cm. 1987"
+  },
+  {
+   "tipo": "title",
+   "ini": 25038,
+   "fin": 25070,
+   "texto": "Herida como la niebla por el sol"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25071,
+   "fin": 25119,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital en papel de algodón Hahnemühle"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25120,
+   "fin": 25131,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25120,
+   "fin": 25122,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 25125,
+   "fin": 25128,
+   "texto": "100"
+  },
+  {
+   "tipo": "date",
+   "ini": 25133,
+   "fin": 25137,
+   "rasgos": {
+    "when": "1987"
+   },
+   "texto": "1987"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25149,
+   "fin": 25241
+  },
+  {
+   "tipo": "img",
+   "ini": 25149,
+   "fin": 25154,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25156,
+   "fin": 25242,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Aparecieron entre la bruma. Impresión digital en papel de algodón. 150 x 205 cm. 2014\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 25156,
+   "fin": 25182,
+   "texto": "Aparecieron entre la bruma"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25184,
+   "fin": 25221,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital en papel de algodón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25223,
+   "fin": 25235,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150 x 205 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25223,
+   "fin": 25226,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 25229,
+   "fin": 25232,
+   "texto": "205"
+  },
+  {
+   "tipo": "date",
+   "ini": 25237,
+   "fin": 25241,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25243,
+   "fin": 25326
+  },
+  {
+   "tipo": "img",
+   "ini": 25243,
+   "fin": 25248,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25250,
+   "fin": 25326,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Elena y su bata rosa\nImpresión digital en papel de algodón\n100 x 80 cm. 2014"
+  },
+  {
+   "tipo": "title",
+   "ini": 25250,
+   "fin": 25270,
+   "texto": "Elena y su bata rosa"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25271,
+   "fin": 25308,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital en papel de algodón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25309,
+   "fin": 25320,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 80 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25309,
+   "fin": 25312,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 25315,
+   "fin": 25317,
+   "texto": "80"
+  },
+  {
+   "tipo": "date",
+   "ini": 25322,
+   "fin": 25326,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25328,
+   "fin": 25402
+  },
+  {
+   "tipo": "img",
+   "ini": 25328,
+   "fin": 25333,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25335,
+   "fin": 25402,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Les berzes\nImpresión digital en papel de\nalgodón\n205 x 150 cm. 2014"
+  },
+  {
+   "tipo": "title",
+   "ini": 25335,
+   "fin": 25345,
+   "texto": "Les berzes"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25346,
+   "fin": 25383,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital en papel de\nalgodón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25384,
+   "fin": 25396,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "205 x 150 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25384,
+   "fin": 25387,
+   "texto": "205"
+  },
+  {
+   "tipo": "width",
+   "ini": 25390,
+   "fin": 25393,
+   "texto": "150"
+  },
+  {
+   "tipo": "date",
+   "ini": 25398,
+   "fin": 25402,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25404,
+   "fin": 25499
+  },
+  {
+   "tipo": "img",
+   "ini": 25404,
+   "fin": 25409,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25411,
+   "fin": 25499,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Albergando la belleza de la vida\nImpresión digital en papel de algodón\n110 x 80 cm. 2014"
+  },
+  {
+   "tipo": "title",
+   "ini": 25411,
+   "fin": 25443,
+   "texto": "Albergando la belleza de la vida"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25444,
+   "fin": 25481,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital en papel de algodón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25482,
+   "fin": 25493,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "110 x 80 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25482,
+   "fin": 25485,
+   "texto": "110"
+  },
+  {
+   "tipo": "width",
+   "ini": 25488,
+   "fin": 25490,
+   "texto": "80"
+  },
+  {
+   "tipo": "date",
+   "ini": 25495,
+   "fin": 25499,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25501,
+   "fin": 25611
+  },
+  {
+   "tipo": "img",
+   "ini": 25501,
+   "fin": 25506,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25508,
+   "fin": 25611,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "De su santo rostro el paisaje quedó impregnado\nImpresión digital en papel de algodón\n135 x 100 cm. 2014"
+  },
+  {
+   "tipo": "title",
+   "ini": 25508,
+   "fin": 25554,
+   "texto": "De su santo rostro el paisaje quedó impregnado"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25555,
+   "fin": 25592,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital en papel de algodón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25593,
+   "fin": 25605,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "135 x 100 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25593,
+   "fin": 25596,
+   "texto": "135"
+  },
+  {
+   "tipo": "width",
+   "ini": 25599,
+   "fin": 25602,
+   "texto": "100"
+  },
+  {
+   "tipo": "date",
+   "ini": 25607,
+   "fin": 25611,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25613,
+   "fin": 25695
+  },
+  {
+   "tipo": "img",
+   "ini": 25613,
+   "fin": 25618,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25620,
+   "fin": 25695,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "El hilo del éxtasis\nImpresión digital en papel de algodón\n80 x 110 cm. 2014"
+  },
+  {
+   "tipo": "title",
+   "ini": 25620,
+   "fin": 25639,
+   "texto": "El hilo del éxtasis"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25640,
+   "fin": 25677,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital en papel de algodón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25678,
+   "fin": 25689,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80 x 110 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25678,
+   "fin": 25680,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 25683,
+   "fin": 25686,
+   "texto": "110"
+  },
+  {
+   "tipo": "date",
+   "ini": 25691,
+   "fin": 25695,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25697,
+   "fin": 25772
+  },
+  {
+   "tipo": "img",
+   "ini": 25697,
+   "fin": 25702,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25704,
+   "fin": 25772,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Desde dentro\nImpresión digital en papel de\nalgodón\n110 x 80 cm. 2014"
+  },
+  {
+   "tipo": "title",
+   "ini": 25704,
+   "fin": 25716,
+   "texto": "Desde dentro"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25717,
+   "fin": 25754,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital en papel de\nalgodón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25755,
+   "fin": 25766,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "110 x 80 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25755,
+   "fin": 25758,
+   "texto": "110"
+  },
+  {
+   "tipo": "width",
+   "ini": 25761,
+   "fin": 25763,
+   "texto": "80"
+  },
+  {
+   "tipo": "date",
+   "ini": 25768,
+   "fin": 25772,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25774,
+   "fin": 25853
+  },
+  {
+   "tipo": "img",
+   "ini": 25774,
+   "fin": 25779,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25781,
+   "fin": 25853,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Noli me tangere\nImpresión digital en papel de algodón\n100 x 121 cm. 2014"
+  },
+  {
+   "tipo": "title",
+   "ini": 25781,
+   "fin": 25796,
+   "texto": "Noli me tangere"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25797,
+   "fin": 25834,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital en papel de algodón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25835,
+   "fin": 25847,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 121 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25835,
+   "fin": 25838,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 25841,
+   "fin": 25844,
+   "texto": "121"
+  },
+  {
+   "tipo": "date",
+   "ini": 25849,
+   "fin": 25853,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 25855,
+   "fin": 25939
+  },
+  {
+   "tipo": "img",
+   "ini": 25855,
+   "fin": 25860,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 25862,
+   "fin": 25939,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Sheridan Erica Gordon\nImpresión digital en papel de algodón\n100 x 80 cm. 2014"
+  },
+  {
+   "tipo": "title",
+   "ini": 25862,
+   "fin": 25883,
+   "texto": "Sheridan Erica Gordon"
+  },
+  {
+   "tipo": "technique",
+   "ini": 25884,
+   "fin": 25921,
+   "rasgos": {
+    "type": "digitalPrint"
+   },
+   "texto": "Impresión digital en papel de algodón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 25922,
+   "fin": 25933,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100 x 80 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 25922,
+   "fin": 25925,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 25928,
+   "fin": 25930,
+   "texto": "80"
+  },
+  {
+   "tipo": "date",
+   "ini": 25935,
+   "fin": 25939,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "person",
+   "ini": 25942,
+   "fin": 25982,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "OUKA LEELE\nNace en Madrid en Junio 1957."
+  },
+  {
+   "tipo": "persName",
+   "ini": 25942,
+   "fin": 25952,
+   "texto": "OUKA LEELE"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 25961,
+   "fin": 25967,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "date",
+   "ini": 25971,
+   "fin": 25981,
+   "rasgos": {
+    "from": "1957-06-01",
+    "to": "1957-06-30"
+   },
+   "texto": "Junio 1957"
+  },
+  {
+   "tipo": "person",
+   "ini": 28780,
+   "fin": 28790,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "OUKA LEELE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28780,
+   "fin": 28790,
+   "texto": "OUKA LEELE"
+  },
+  {
+   "tipo": "person",
+   "ini": 29283,
+   "fin": 29293,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "OUKA LEELE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29283,
+   "fin": 29293,
+   "texto": "OUKA LEELE"
+  },
+  {
+   "tipo": "person",
+   "ini": 29413,
+   "fin": 29423,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "OUKA LEELE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29413,
+   "fin": 29423,
+   "texto": "OUKA LEELE"
+  },
+  {
+   "tipo": "person",
+   "ini": 29459,
+   "fin": 29469,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "OUKA LEELE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29459,
+   "fin": 29469,
+   "texto": "OUKA LEELE"
+  },
+  {
+   "tipo": "person",
+   "ini": 29776,
+   "fin": 29786,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "OUKA LEELE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29776,
+   "fin": 29786,
+   "texto": "OUKA LEELE"
+  },
+  {
+   "tipo": "person",
+   "ini": 30904,
+   "fin": 30914,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "OUKA\nLEELE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30904,
+   "fin": 30914,
+   "texto": "OUKA\nLEELE"
+  },
+  {
+   "tipo": "person",
+   "ini": 31210,
+   "fin": 31220,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "OUKA LEELE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 31210,
+   "fin": 31220,
+   "texto": "OUKA LEELE"
+  },
+  {
+   "tipo": "person",
+   "ini": 32925,
+   "fin": 32935,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "OUKA LEELE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 32925,
+   "fin": 32935,
+   "texto": "OUKA LEELE"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 33791,
+   "fin": 33906,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 33791,
+   "fin": 33824,
+   "texto": "Ouka Leele\nViajeros de mi galaxia"
+  },
+  {
+   "tipo": "person",
+   "ini": 33791,
+   "fin": 33801,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "persName",
+   "ini": 33791,
+   "fin": 33801,
+   "texto": "Ouka Leele"
+  },
+  {
+   "tipo": "institution",
+   "ini": 33826,
+   "fin": 33906,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser, host"
+   },
+   "texto": "Calle Villanueva, 30. 28001. Madrid. 91 575 04 27\nwww.galeriafernandez-braso.com"
+  },
+  {
+   "tipo": "address",
+   "ini": 33826,
+   "fin": 33861,
+   "texto": "Calle Villanueva, 30. 28001. Madrid"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 33855,
+   "fin": 33861,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  }
+ ]
+}

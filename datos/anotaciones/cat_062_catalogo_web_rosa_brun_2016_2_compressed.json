@@ -1,0 +1,2055 @@
+{
+ "id": "cat_062_catalogo_web_rosa_brun_2016_2_compressed",
+ "nombre_original": "Catalogo-WEB-ROSA-BRUN-2016-2_compressed",
+ "longitud_texto": 14522,
+ "sha256_texto": "a5ea3990c1d34435852db82b28274b40f51e1db02540412a3e3a5a06dd02e384",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 132,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 9,
+   "texto": "ROSA BRUN"
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 9,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "ROSA BRUN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 9,
+   "texto": "ROSA BRUN"
+  },
+  {
+   "tipo": "date",
+   "ini": 10,
+   "fin": 50,
+   "rasgos": {
+    "from": "2016-09-15",
+    "to": "2016-10-29"
+   },
+   "texto": "15 de septiembre - 29 de octubre de 2016"
+  },
+  {
+   "tipo": "institution",
+   "ini": 52,
+   "fin": 82,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Fernández-Baso Galería de Arte"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 93,
+   "fin": 99,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "date",
+   "ini": 116,
+   "fin": 131,
+   "rasgos": {
+    "from": "2016-09-15",
+    "to": "2016-09-17"
+   },
+   "texto": "15-17 sept\n2016"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 133,
+   "fin": 406,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 136,
+   "fin": 167,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "galería de arte Fernández-Braso"
+  },
+  {
+   "tipo": "person",
+   "ini": 248,
+   "fin": 272,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rosa Brun (Madrid, 1955)"
+  },
+  {
+   "tipo": "birth",
+   "ini": 258,
+   "fin": 272
+  },
+  {
+   "tipo": "placeName",
+   "ini": 259,
+   "fin": 265,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Madrid"
+  },
+  {
+   "tipo": "date",
+   "ini": 267,
+   "fin": 271,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "1955"
+  },
+  {
+   "tipo": "title",
+   "ini": 317,
+   "fin": 331,
+   "texto": " Apertura 2016"
+  },
+  {
+   "tipo": "institution",
+   "ini": 351,
+   "fin": 405,
+   "rasgos": {
+    "type": "association",
+    "role": "organiser"
+   },
+   "texto": "Asociación de Galerías de Arte Contemporáneo de Madrid"
+  },
+  {
+   "tipo": "persName",
+   "ini": 448,
+   "fin": 463,
+   "texto": "C. D. Friedrich"
+  },
+  {
+   "tipo": "person",
+   "ini": 537,
+   "fin": 546,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rosa Brun"
+  },
+  {
+   "tipo": "persName",
+   "ini": 537,
+   "fin": 546,
+   "texto": "Rosa Brun"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1021,
+   "fin": 1035,
+   "texto": "Clyfford Still"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1037,
+   "fin": 1048,
+   "texto": "Mark Rothko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1051,
+   "fin": 1065,
+   "texto": "Barnett Newman"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1246,
+   "fin": 1262,
+   "texto": "Robert Rosemblum"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1417,
+   "fin": 1422,
+   "texto": "Still"
+  },
+  {
+   "tipo": "person",
+   "ini": 1549,
+   "fin": 1558,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rosa Brun"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1549,
+   "fin": 1558,
+   "texto": "Rosa Brun"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1598,
+   "fin": 1604,
+   "texto": "Rothko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1607,
+   "fin": 1614,
+   "texto": "Newmann"
+  },
+  {
+   "tipo": "person",
+   "ini": 1664,
+   "fin": 1676,
+   "rasgos": {
+    "role": "exhibitionCurator"
+   },
+   "texto": "M.C. Cerullo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1664,
+   "fin": 1676,
+   "texto": "M.C. Cerullo"
+  },
+  {
+   "tipo": "person",
+   "ini": 2090,
+   "fin": 2099,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rosa Brun"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2090,
+   "fin": 2099,
+   "texto": "Rosa Brun"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2102,
+   "fin": 2119,
+   "texto": "Juan Manuel Bonet"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2201,
+   "fin": 2220,
+   "texto": "Alfonso de la Torre"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2731,
+   "fin": 2745,
+   "texto": "Blinky Palermo"
+  },
+  {
+   "tipo": "institution",
+   "ini": 2782,
+   "fin": 2797,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Fernández-Braso"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3769,
+   "fin": 3778,
+   "texto": "Friedrich"
+  },
+  {
+   "tipo": "person",
+   "ini": 3799,
+   "fin": 3808,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rosa Brun"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3799,
+   "fin": 3808,
+   "texto": "Rosa Brun"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3811,
+   "fin": 3827,
+   "texto": "Robert Rosemblum"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3977,
+   "fin": 3989,
+   "texto": "M.C. Cerullo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4061,
+   "fin": 4080,
+   "texto": "Alfonso de la Torre"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 4144,
+   "fin": 5249
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4144,
+   "fin": 4213
+  },
+  {
+   "tipo": "img",
+   "ini": 4144,
+   "fin": 4149,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4150,
+   "fin": 4155,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4157,
+   "fin": 4213,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "KARA\n165 x 122 x 13 cms\nTécnica mixta/madera/hierro\n2016"
+  },
+  {
+   "tipo": "title",
+   "ini": 4157,
+   "fin": 4161,
+   "texto": "KARA"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4162,
+   "fin": 4180,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "165 x 122 x 13 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 4162,
+   "fin": 4165,
+   "texto": "165"
+  },
+  {
+   "tipo": "width",
+   "ini": 4168,
+   "fin": 4171,
+   "texto": "122"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4174,
+   "fin": 4176,
+   "texto": "13"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4181,
+   "fin": 4208,
+   "rasgos": {
+    "type": "mixed, wood, iron"
+   },
+   "texto": "Técnica mixta/madera/hierro"
+  },
+  {
+   "tipo": "date",
+   "ini": 4209,
+   "fin": 4213,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4215,
+   "fin": 4285
+  },
+  {
+   "tipo": "img",
+   "ini": 4215,
+   "fin": 4220,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4221,
+   "fin": 4226,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4228,
+   "fin": 4285,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ARAL\n163 x 122 x 12 cms.\nTécnica mixta/madera/hierro\n2016"
+  },
+  {
+   "tipo": "title",
+   "ini": 4228,
+   "fin": 4232,
+   "texto": "ARAL"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4233,
+   "fin": 4252,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "163 x 122 x 12 cms."
+  },
+  {
+   "tipo": "height",
+   "ini": 4233,
+   "fin": 4236,
+   "texto": "163"
+  },
+  {
+   "tipo": "width",
+   "ini": 4239,
+   "fin": 4242,
+   "texto": "122"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4245,
+   "fin": 4247,
+   "texto": "12"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4253,
+   "fin": 4280,
+   "rasgos": {
+    "type": "mixed, wood, iron"
+   },
+   "texto": "Técnica mixta/madera/hierro"
+  },
+  {
+   "tipo": "date",
+   "ini": 4281,
+   "fin": 4285,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4287,
+   "fin": 4356
+  },
+  {
+   "tipo": "img",
+   "ini": 4287,
+   "fin": 4292,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4293,
+   "fin": 4298,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4300,
+   "fin": 4356,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "BAFFIN\n177 x122 x 8 cms\nTécnica mixta/madera/hierro\n2016"
+  },
+  {
+   "tipo": "title",
+   "ini": 4300,
+   "fin": 4306,
+   "texto": "BAFFIN"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4307,
+   "fin": 4323,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "177 x122 x 8 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 4307,
+   "fin": 4310,
+   "texto": "177"
+  },
+  {
+   "tipo": "width",
+   "ini": 4312,
+   "fin": 4315,
+   "texto": "122"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4318,
+   "fin": 4319,
+   "texto": "8"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4324,
+   "fin": 4351,
+   "rasgos": {
+    "type": "mixed, wood, iron"
+   },
+   "texto": "Técnica mixta/madera/hierro"
+  },
+  {
+   "tipo": "date",
+   "ini": 4352,
+   "fin": 4356,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4358,
+   "fin": 4430
+  },
+  {
+   "tipo": "img",
+   "ini": 4358,
+   "fin": 4363,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4364,
+   "fin": 4369,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4371,
+   "fin": 4430,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "BARENTS\n125 X 125 X 14 cms\nTécnica mixta/madera/hierro\n2016"
+  },
+  {
+   "tipo": "title",
+   "ini": 4371,
+   "fin": 4378,
+   "texto": "BARENTS"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4379,
+   "fin": 4397,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "125 X 125 X 14 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 4379,
+   "fin": 4382,
+   "texto": "125"
+  },
+  {
+   "tipo": "width",
+   "ini": 4385,
+   "fin": 4388,
+   "texto": "125"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4391,
+   "fin": 4393,
+   "texto": "14"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4398,
+   "fin": 4425,
+   "rasgos": {
+    "type": "mixed, wood, iron"
+   },
+   "texto": "Técnica mixta/madera/hierro"
+  },
+  {
+   "tipo": "date",
+   "ini": 4426,
+   "fin": 4430,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4432,
+   "fin": 4503
+  },
+  {
+   "tipo": "img",
+   "ini": 4432,
+   "fin": 4437,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4438,
+   "fin": 4443,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4445,
+   "fin": 4503,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "FRISIA\n124 x 125 x 13 cms\nTécnica mixta/madera/hierro\n2016"
+  },
+  {
+   "tipo": "title",
+   "ini": 4445,
+   "fin": 4451,
+   "texto": "FRISIA"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4452,
+   "fin": 4470,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "124 x 125 x 13 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 4452,
+   "fin": 4455,
+   "texto": "124"
+  },
+  {
+   "tipo": "width",
+   "ini": 4458,
+   "fin": 4461,
+   "texto": "125"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4464,
+   "fin": 4466,
+   "texto": "13"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4471,
+   "fin": 4498,
+   "rasgos": {
+    "type": "mixed, wood, iron"
+   },
+   "texto": "Técnica mixta/madera/hierro"
+  },
+  {
+   "tipo": "date",
+   "ini": 4499,
+   "fin": 4503,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4505,
+   "fin": 4567
+  },
+  {
+   "tipo": "img",
+   "ini": 4505,
+   "fin": 4510,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4512,
+   "fin": 4567,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "AZOV\n120 x 120 x 8 cm.\nTécnica mixta/madera/hierro\n2016"
+  },
+  {
+   "tipo": "title",
+   "ini": 4512,
+   "fin": 4516,
+   "texto": "AZOV"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4517,
+   "fin": 4534,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "120 x 120 x 8 cm."
+  },
+  {
+   "tipo": "height",
+   "ini": 4517,
+   "fin": 4520,
+   "texto": "120"
+  },
+  {
+   "tipo": "width",
+   "ini": 4523,
+   "fin": 4526,
+   "texto": "120"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4529,
+   "fin": 4530,
+   "texto": "8"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4535,
+   "fin": 4562,
+   "rasgos": {
+    "type": "mixed, wood, iron"
+   },
+   "texto": "Técnica mixta/madera/hierro"
+  },
+  {
+   "tipo": "date",
+   "ini": 4563,
+   "fin": 4567,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4569,
+   "fin": 4633
+  },
+  {
+   "tipo": "img",
+   "ini": 4569,
+   "fin": 4574,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4576,
+   "fin": 4633,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "WADDEN\n125 x 125 x 8 cms\nTécnica mixta/madera/hierro\n2016"
+  },
+  {
+   "tipo": "title",
+   "ini": 4576,
+   "fin": 4582,
+   "texto": "WADDEN"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4583,
+   "fin": 4600,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "125 x 125 x 8 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 4583,
+   "fin": 4586,
+   "texto": "125"
+  },
+  {
+   "tipo": "width",
+   "ini": 4589,
+   "fin": 4592,
+   "texto": "125"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4595,
+   "fin": 4596,
+   "texto": "8"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4601,
+   "fin": 4628,
+   "rasgos": {
+    "type": "mixed, wood, iron"
+   },
+   "texto": "Técnica mixta/madera/hierro"
+  },
+  {
+   "tipo": "date",
+   "ini": 4629,
+   "fin": 4633,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4635,
+   "fin": 4706
+  },
+  {
+   "tipo": "img",
+   "ini": 4635,
+   "fin": 4640,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4641,
+   "fin": 4646,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4648,
+   "fin": 4706,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "MÁRMARA\n120 x 126 x 8 cms\nTécnica mixta/madera/hierro\n2016"
+  },
+  {
+   "tipo": "title",
+   "ini": 4648,
+   "fin": 4655,
+   "texto": "MÁRMARA"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4656,
+   "fin": 4673,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "120 x 126 x 8 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 4656,
+   "fin": 4659,
+   "texto": "120"
+  },
+  {
+   "tipo": "width",
+   "ini": 4662,
+   "fin": 4665,
+   "texto": "126"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4668,
+   "fin": 4669,
+   "texto": "8"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4674,
+   "fin": 4701,
+   "rasgos": {
+    "type": "mixed, wood, iron"
+   },
+   "texto": "Técnica mixta/madera/hierro"
+  },
+  {
+   "tipo": "date",
+   "ini": 4702,
+   "fin": 4706,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4708,
+   "fin": 4774
+  },
+  {
+   "tipo": "img",
+   "ini": 4708,
+   "fin": 4713,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4715,
+   "fin": 4774,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ORESUND\n122 x 122 x 13 cms\nTécnica mixta/madera/hierro\n2016"
+  },
+  {
+   "tipo": "title",
+   "ini": 4715,
+   "fin": 4722,
+   "texto": "ORESUND"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4723,
+   "fin": 4741,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "122 x 122 x 13 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 4723,
+   "fin": 4726,
+   "texto": "122"
+  },
+  {
+   "tipo": "width",
+   "ini": 4729,
+   "fin": 4732,
+   "texto": "122"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4735,
+   "fin": 4737,
+   "texto": "13"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4742,
+   "fin": 4769,
+   "rasgos": {
+    "type": "mixed, wood, iron"
+   },
+   "texto": "Técnica mixta/madera/hierro"
+  },
+  {
+   "tipo": "date",
+   "ini": 4770,
+   "fin": 4774,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4776,
+   "fin": 4845
+  },
+  {
+   "tipo": "img",
+   "ini": 4776,
+   "fin": 4781,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4783,
+   "fin": 4846,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "SIBUYAN\n177 X 122 X 12,5, cms\nTécnica mixta/madera/hierro\n2016\n"
+  },
+  {
+   "tipo": "title",
+   "ini": 4783,
+   "fin": 4790,
+   "texto": "SIBUYAN"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4791,
+   "fin": 4812,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "177 X 122 X 12,5, cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 4791,
+   "fin": 4794,
+   "texto": "177"
+  },
+  {
+   "tipo": "width",
+   "ini": 4797,
+   "fin": 4800,
+   "texto": "122"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4803,
+   "fin": 4807,
+   "texto": "12,5"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4813,
+   "fin": 4840,
+   "rasgos": {
+    "type": "mixed, wood, iron"
+   },
+   "texto": "Técnica mixta/madera/hierro"
+  },
+  {
+   "tipo": "date",
+   "ini": 4841,
+   "fin": 4845,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4847,
+   "fin": 4918
+  },
+  {
+   "tipo": "img",
+   "ini": 4847,
+   "fin": 4852,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4853,
+   "fin": 4858,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4860,
+   "fin": 4918,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "ROJO\n210 X 240 X 8,9, cms\nTécnica mixta/madera/hierro\n2016"
+  },
+  {
+   "tipo": "title",
+   "ini": 4860,
+   "fin": 4864,
+   "texto": "ROJO"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4865,
+   "fin": 4885,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "210 X 240 X 8,9, cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 4865,
+   "fin": 4868,
+   "texto": "210"
+  },
+  {
+   "tipo": "width",
+   "ini": 4871,
+   "fin": 4874,
+   "texto": "240"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4877,
+   "fin": 4880,
+   "texto": "8,9"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4886,
+   "fin": 4913,
+   "rasgos": {
+    "type": "mixed, wood, iron"
+   },
+   "texto": "Técnica mixta/madera/hierro"
+  },
+  {
+   "tipo": "date",
+   "ini": 4914,
+   "fin": 4918,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4920,
+   "fin": 4992
+  },
+  {
+   "tipo": "img",
+   "ini": 4920,
+   "fin": 4925,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 4926,
+   "fin": 4931,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4933,
+   "fin": 4992,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "NEGRO\n210 X 240 X 8,9, cms\nTécnica mixta/madera/hierro\n2016"
+  },
+  {
+   "tipo": "title",
+   "ini": 4933,
+   "fin": 4938,
+   "texto": "NEGRO"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4939,
+   "fin": 4959,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "210 X 240 X 8,9, cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 4939,
+   "fin": 4942,
+   "texto": "210"
+  },
+  {
+   "tipo": "width",
+   "ini": 4945,
+   "fin": 4948,
+   "texto": "240"
+  },
+  {
+   "tipo": "depth",
+   "ini": 4951,
+   "fin": 4954,
+   "texto": "8,9"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4960,
+   "fin": 4987,
+   "rasgos": {
+    "type": "mixed, wood, iron"
+   },
+   "texto": "Técnica mixta/madera/hierro"
+  },
+  {
+   "tipo": "date",
+   "ini": 4988,
+   "fin": 4992,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4994,
+   "fin": 5056
+  },
+  {
+   "tipo": "img",
+   "ini": 4994,
+   "fin": 4999,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5001,
+   "fin": 5056,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "SALIX\n95 X 43 X 11 cms\nTécnica mixta/madera/hierro\n2016"
+  },
+  {
+   "tipo": "title",
+   "ini": 5001,
+   "fin": 5006,
+   "texto": "SALIX"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5007,
+   "fin": 5023,
+   "rasgos": {
+    "unit": "unit"
+   },
+   "texto": "95 X 43 X 11 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 5007,
+   "fin": 5009,
+   "texto": "95"
+  },
+  {
+   "tipo": "width",
+   "ini": 5012,
+   "fin": 5014,
+   "texto": "43"
+  },
+  {
+   "tipo": "depth",
+   "ini": 5017,
+   "fin": 5019,
+   "texto": "11"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5024,
+   "fin": 5051,
+   "rasgos": {
+    "type": "mixed, wood, iron"
+   },
+   "texto": "Técnica mixta/madera/hierro"
+  },
+  {
+   "tipo": "date",
+   "ini": 5052,
+   "fin": 5056,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5058,
+   "fin": 5125
+  },
+  {
+   "tipo": "img",
+   "ini": 5058,
+   "fin": 5063,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5065,
+   "fin": 5125,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "VENDAL III\n90 X 43 X 10 cms\nTécnica mixta/madera/hierro\n2016"
+  },
+  {
+   "tipo": "title",
+   "ini": 5065,
+   "fin": 5075,
+   "texto": "VENDAL III"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5076,
+   "fin": 5092,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "90 X 43 X 10 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 5076,
+   "fin": 5078,
+   "texto": "90"
+  },
+  {
+   "tipo": "width",
+   "ini": 5081,
+   "fin": 5083,
+   "texto": "43"
+  },
+  {
+   "tipo": "depth",
+   "ini": 5086,
+   "fin": 5088,
+   "texto": "10"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5093,
+   "fin": 5120,
+   "rasgos": {
+    "type": "mixed, wood, iron"
+   },
+   "texto": "Técnica mixta/madera/hierro"
+  },
+  {
+   "tipo": "date",
+   "ini": 5121,
+   "fin": 5125,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5127,
+   "fin": 5181
+  },
+  {
+   "tipo": "img",
+   "ini": 5127,
+   "fin": 5132,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5134,
+   "fin": 5181,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "SURGO\n42 X 35 X 7 cms\nLatón/madera/pintura\n2016"
+  },
+  {
+   "tipo": "title",
+   "ini": 5134,
+   "fin": 5139,
+   "texto": "SURGO"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5140,
+   "fin": 5155,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "42 X 35 X 7 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 5140,
+   "fin": 5142,
+   "texto": "42"
+  },
+  {
+   "tipo": "width",
+   "ini": 5145,
+   "fin": 5147,
+   "texto": "35"
+  },
+  {
+   "tipo": "depth",
+   "ini": 5150,
+   "fin": 5151,
+   "texto": "7"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5156,
+   "fin": 5176,
+   "rasgos": {
+    "type": "brass, wood, paint"
+   },
+   "texto": "Latón/madera/pintura"
+  },
+  {
+   "tipo": "date",
+   "ini": 5177,
+   "fin": 5181,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 5183,
+   "fin": 5249
+  },
+  {
+   "tipo": "img",
+   "ini": 5183,
+   "fin": 5188,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 5190,
+   "fin": 5249,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "SANDALO\n90 X 43 X 10,5 cms\nTécnica mixta/madera/hierro\n2016"
+  },
+  {
+   "tipo": "title",
+   "ini": 5190,
+   "fin": 5197,
+   "texto": "SANDALO"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 5198,
+   "fin": 5216,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "90 X 43 X 10,5 cms"
+  },
+  {
+   "tipo": "height",
+   "ini": 5198,
+   "fin": 5200,
+   "texto": "90"
+  },
+  {
+   "tipo": "width",
+   "ini": 5203,
+   "fin": 5205,
+   "texto": "43"
+  },
+  {
+   "tipo": "depth",
+   "ini": 5208,
+   "fin": 5212,
+   "texto": "10,5"
+  },
+  {
+   "tipo": "technique",
+   "ini": 5217,
+   "fin": 5244,
+   "rasgos": {
+    "type": "mixed, wood, iron"
+   },
+   "texto": "Técnica mixta/madera/hierro"
+  },
+  {
+   "tipo": "date",
+   "ini": 5245,
+   "fin": 5249,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "img",
+   "ini": 5251,
+   "fin": 5336,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 5251,
+   "fin": 5335,
+   "texto": "Vista panorámica de la exposición de Rosa Brun en la Galería de Arte Fernández-Braso"
+  },
+  {
+   "tipo": "caption",
+   "ini": 5251,
+   "fin": 5335
+  },
+  {
+   "tipo": "person",
+   "ini": 5288,
+   "fin": 5297,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rosa Brun"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5288,
+   "fin": 5297,
+   "texto": "Rosa Brun"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5304,
+   "fin": 5335,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Galería de Arte Fernández-Braso"
+  },
+  {
+   "tipo": "title",
+   "ini": 5337,
+   "fin": 5421,
+   "texto": "Vista panorámica de la exposición de Rosa Brun en la Galería de Arte Fernández-Braso"
+  },
+  {
+   "tipo": "img",
+   "ini": 5337,
+   "fin": 5421,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "caption",
+   "ini": 5337,
+   "fin": 5421
+  },
+  {
+   "tipo": "person",
+   "ini": 5374,
+   "fin": 5383,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rosa Brun"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5374,
+   "fin": 5383,
+   "texto": "Rosa Brun"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5390,
+   "fin": 5421,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Galería de Arte Fernández-Braso"
+  },
+  {
+   "tipo": "title",
+   "ini": 5423,
+   "fin": 5507,
+   "texto": "Vista panorámica de la exposición de Rosa Brun en la Galería de Arte Fernández-Braso"
+  },
+  {
+   "tipo": "img",
+   "ini": 5423,
+   "fin": 5507,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "caption",
+   "ini": 5423,
+   "fin": 5507
+  },
+  {
+   "tipo": "person",
+   "ini": 5460,
+   "fin": 5469,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rosa Brun"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5460,
+   "fin": 5469,
+   "texto": "Rosa Brun"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5476,
+   "fin": 5507,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Galería de Arte Fernández-Braso"
+  },
+  {
+   "tipo": "title",
+   "ini": 5509,
+   "fin": 5593,
+   "texto": "Vista panorámica de la exposición de Rosa Brun en la Galería de Arte Fernández-Braso"
+  },
+  {
+   "tipo": "img",
+   "ini": 5509,
+   "fin": 5593,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": ""
+   }
+  },
+  {
+   "tipo": "caption",
+   "ini": 5509,
+   "fin": 5593
+  },
+  {
+   "tipo": "person",
+   "ini": 5546,
+   "fin": 5555,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rosa Brun"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5546,
+   "fin": 5555,
+   "texto": "Rosa Brun"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5562,
+   "fin": 5593,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Galería de Arte Fernández-Braso"
+  },
+  {
+   "tipo": "title",
+   "ini": 5595,
+   "fin": 5679,
+   "texto": "Vista panorámica de la exposición de Rosa Brun en la Galería de Arte Fernández-Braso"
+  },
+  {
+   "tipo": "img",
+   "ini": 5595,
+   "fin": 5679,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "caption",
+   "ini": 5595,
+   "fin": 5679
+  },
+  {
+   "tipo": "person",
+   "ini": 5632,
+   "fin": 5641,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rosa Brun"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5632,
+   "fin": 5641,
+   "texto": "Rosa Brun"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5648,
+   "fin": 5679,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Galería de Arte Fernández-Braso"
+  },
+  {
+   "tipo": "title",
+   "ini": 5681,
+   "fin": 5765,
+   "texto": "Vista panorámica de la exposición de Rosa Brun en la Galería de Arte Fernández-Braso"
+  },
+  {
+   "tipo": "img",
+   "ini": 5681,
+   "fin": 5765,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "caption",
+   "ini": 5681,
+   "fin": 5765
+  },
+  {
+   "tipo": "person",
+   "ini": 5718,
+   "fin": 5727,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rosa Brun"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5718,
+   "fin": 5727,
+   "texto": "Rosa Brun"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5734,
+   "fin": 5765,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Galería de Arte Fernández-Braso"
+  },
+  {
+   "tipo": "title",
+   "ini": 5767,
+   "fin": 5851,
+   "texto": "Vista panorámica de la exposición de Rosa Brun en la Galería de Arte Fernández-Braso"
+  },
+  {
+   "tipo": "img",
+   "ini": 5767,
+   "fin": 5851,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "caption",
+   "ini": 5767,
+   "fin": 5851
+  },
+  {
+   "tipo": "person",
+   "ini": 5804,
+   "fin": 5813,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rosa Brun"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5804,
+   "fin": 5813,
+   "texto": "Rosa Brun"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5820,
+   "fin": 5851,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Galería de Arte Fernández-Braso"
+  },
+  {
+   "tipo": "title",
+   "ini": 5853,
+   "fin": 5937,
+   "texto": "Vista panorámica de la exposición de Rosa Brun en la Galería de Arte Fernández-Braso"
+  },
+  {
+   "tipo": "img",
+   "ini": 5853,
+   "fin": 5937,
+   "rasgos": {
+    "color": "true",
+    "size": "large",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "caption",
+   "ini": 5853,
+   "fin": 5937
+  },
+  {
+   "tipo": "person",
+   "ini": 5890,
+   "fin": 5899,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rosa Brun"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5890,
+   "fin": 5899,
+   "texto": "Rosa Brun"
+  },
+  {
+   "tipo": "institution",
+   "ini": 5906,
+   "fin": 5937,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Galería de Arte Fernández-Braso"
+  },
+  {
+   "tipo": "date",
+   "ini": 6032,
+   "fin": 6036,
+   "rasgos": {
+    "when": "2012"
+   },
+   "texto": "2012"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 6046,
+   "fin": 6052,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "MADRID"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10671,
+   "fin": 10690,
+   "texto": "CHRISTIAN M. WALTER"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11199,
+   "fin": 11206,
+   "texto": "R. BRUN"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11208,
+   "fin": 11215,
+   "texto": "C.CALVO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11217,
+   "fin": 11226,
+   "texto": "H.COLLINS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11228,
+   "fin": 11237,
+   "texto": "P. DAUDER"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11239,
+   "fin": 11246,
+   "texto": "E. LOZT"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11248,
+   "fin": 11256,
+   "texto": "A. TORMO"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 14471,
+   "fin": 14521,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 14471,
+   "fin": 14480,
+   "texto": "ROSA BRUN"
+  },
+  {
+   "tipo": "date",
+   "ini": 14481,
+   "fin": 14521,
+   "rasgos": {
+    "from": "2016-09-15",
+    "to": "2016-10-29"
+   },
+   "texto": "15 de septiembre - 29 de octubre de 2016"
+  }
+ ]
+}

@@ -1,0 +1,2257 @@
+{
+ "id": "cat_083_extracto_catalogo_morandi_vol_ii",
+ "nombre_original": "extracto-catalogo-morandi-vol-ii",
+ "longitud_texto": 20668,
+ "sha256_texto": "7592aae30cae3973b92acd0153434fcc80131c7aed13993f2e73fca0e38f5454",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 19,
+   "texto": "Resonancia\ninfinita"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 19,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 44,
+   "fin": 51,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 44,
+   "fin": 51,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 52,
+   "fin": 64,
+   "texto": "Alessia Masi"
+  },
+  {
+   "tipo": "person",
+   "ini": 127,
+   "fin": 134,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 127,
+   "fin": 134,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 136,
+   "fin": 148,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Alessia Masi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 136,
+   "fin": 148,
+   "texto": "Alessia Masi"
+  },
+  {
+   "tipo": "person",
+   "ini": 313,
+   "fin": 320,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 313,
+   "fin": 320,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 367,
+   "fin": 382,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Giorgio Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 367,
+   "fin": 382,
+   "texto": "Giorgio Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 696,
+   "fin": 703,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 696,
+   "fin": 703,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 1362,
+   "fin": 1369,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1362,
+   "fin": 1369,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1469,
+   "fin": 1495,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "Fundación Mapfre de Madrid"
+  },
+  {
+   "tipo": "person",
+   "ini": 1599,
+   "fin": 1606,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1599,
+   "fin": 1606,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 1950,
+   "fin": 1957,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1950,
+   "fin": 1957,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 2187,
+   "fin": 2194,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2187,
+   "fin": 2194,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 2863,
+   "fin": 2872,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ada Duker"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2863,
+   "fin": 2872,
+   "texto": "Ada Duker"
+  },
+  {
+   "tipo": "person",
+   "ini": 2934,
+   "fin": 2941,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2934,
+   "fin": 2941,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "address",
+   "ini": 3000,
+   "fin": 3012,
+   "texto": "Via Fondazza"
+  },
+  {
+   "tipo": "person",
+   "ini": 3179,
+   "fin": 3184,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Duker"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3179,
+   "fin": 3184,
+   "texto": "Duker"
+  },
+  {
+   "tipo": "person",
+   "ini": 3459,
+   "fin": 3464,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Duker"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3459,
+   "fin": 3464,
+   "texto": "Duker"
+  },
+  {
+   "tipo": "person",
+   "ini": 3524,
+   "fin": 3531,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3524,
+   "fin": 3531,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 4160,
+   "fin": 4165,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Duker"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4160,
+   "fin": 4165,
+   "texto": "Duker"
+  },
+  {
+   "tipo": "person",
+   "ini": 4312,
+   "fin": 4319,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4312,
+   "fin": 4319,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 4723,
+   "fin": 4739,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rachel Whiteread"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4723,
+   "fin": 4739,
+   "texto": "Rachel Whiteread"
+  },
+  {
+   "tipo": "person",
+   "ini": 4760,
+   "fin": 4767,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4760,
+   "fin": 4767,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 4940,
+   "fin": 4949,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Whiteread"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4940,
+   "fin": 4949,
+   "texto": "Whiteread"
+  },
+  {
+   "tipo": "work",
+   "ini": 5469,
+   "fin": 5628,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Model IV [p. 33], una instalación realizada con vaciados en escayola de cajas monocromáticas y paralelepípedos simples y esenciales, colocados sobre una repisa"
+  },
+  {
+   "tipo": "title",
+   "ini": 5469,
+   "fin": 5477,
+   "texto": "Model IV"
+  },
+  {
+   "tipo": "person",
+   "ini": 5677,
+   "fin": 5684,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5677,
+   "fin": 5684,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 5991,
+   "fin": 6000,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Whiteread"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5991,
+   "fin": 6000,
+   "texto": "Whiteread"
+  },
+  {
+   "tipo": "person",
+   "ini": 6290,
+   "fin": 6297,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6290,
+   "fin": 6297,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 6488,
+   "fin": 6506,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Giampaolo Bertozzi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6488,
+   "fin": 6506,
+   "texto": "Giampaolo Bertozzi"
+  },
+  {
+   "tipo": "person",
+   "ini": 6509,
+   "fin": 6533,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Stefano dal Monte Casoni"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6509,
+   "fin": 6533,
+   "texto": "Stefano dal Monte Casoni"
+  },
+  {
+   "tipo": "person",
+   "ini": 6954,
+   "fin": 6961,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6954,
+   "fin": 6961,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 7073,
+   "fin": 7090,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bertozzi & Casoni"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7073,
+   "fin": 7090,
+   "texto": "Bertozzi & Casoni"
+  },
+  {
+   "tipo": "person",
+   "ini": 7685,
+   "fin": 7692,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7685,
+   "fin": 7692,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 8037,
+   "fin": 8054,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bertozzi & Casoni"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8037,
+   "fin": 8054,
+   "texto": "Bertozzi & Casoni"
+  },
+  {
+   "tipo": "person",
+   "ini": 8259,
+   "fin": 8266,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8259,
+   "fin": 8266,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 8700,
+   "fin": 8712,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luigi Ontani"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8700,
+   "fin": 8712,
+   "texto": "Luigi Ontani"
+  },
+  {
+   "tipo": "person",
+   "ini": 8804,
+   "fin": 8811,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8804,
+   "fin": 8811,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 8861,
+   "fin": 8867,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ontani"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8861,
+   "fin": 8867,
+   "texto": "Ontani"
+  },
+  {
+   "tipo": "person",
+   "ini": 8870,
+   "fin": 8877,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8870,
+   "fin": 8877,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 8965,
+   "fin": 8972,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8965,
+   "fin": 8972,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 8998,
+   "fin": 9004,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ontani"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8998,
+   "fin": 9004,
+   "texto": "Ontani"
+  },
+  {
+   "tipo": "person",
+   "ini": 9325,
+   "fin": 9332,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9325,
+   "fin": 9332,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 9341,
+   "fin": 9347,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ontani"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9341,
+   "fin": 9347,
+   "texto": "Ontani"
+  },
+  {
+   "tipo": "person",
+   "ini": 9415,
+   "fin": 9422,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9415,
+   "fin": 9422,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 9568,
+   "fin": 9574,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ontani"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9568,
+   "fin": 9574,
+   "texto": "Ontani"
+  },
+  {
+   "tipo": "person",
+   "ini": 9677,
+   "fin": 9684,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9677,
+   "fin": 9684,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 9853,
+   "fin": 9860,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9853,
+   "fin": 9860,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 9947,
+   "fin": 9953,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ontani"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9947,
+   "fin": 9953,
+   "texto": "Ontani"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10302,
+   "fin": 10317,
+   "texto": "Gregory Bateson"
+  },
+  {
+   "tipo": "person",
+   "ini": 10320,
+   "fin": 10326,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ontani"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10320,
+   "fin": 10326,
+   "texto": "Ontani"
+  },
+  {
+   "tipo": "person",
+   "ini": 10365,
+   "fin": 10372,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10365,
+   "fin": 10372,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 10749,
+   "fin": 10756,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10749,
+   "fin": 10756,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 11127,
+   "fin": 11134,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11127,
+   "fin": 11134,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 11419,
+   "fin": 11433,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Edmund\nde Waal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11419,
+   "fin": 11433,
+   "texto": "Edmund\nde Waal"
+  },
+  {
+   "tipo": "title",
+   "ini": 11580,
+   "fin": 11626,
+   "texto": "The Hare with Amber Eyes: A Hidden Inheritance"
+  },
+  {
+   "tipo": "person",
+   "ini": 11743,
+   "fin": 11750,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "De Waal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11743,
+   "fin": 11750,
+   "texto": "De Waal"
+  },
+  {
+   "tipo": "person",
+   "ini": 11784,
+   "fin": 11791,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11784,
+   "fin": 11791,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 12140,
+   "fin": 12147,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12140,
+   "fin": 12147,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 12309,
+   "fin": 12316,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12309,
+   "fin": 12316,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 12350,
+   "fin": 12357,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "De Waal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12350,
+   "fin": 12357,
+   "texto": "De Waal"
+  },
+  {
+   "tipo": "person",
+   "ini": 12786,
+   "fin": 12804,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Rainer Maria Rilke"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12786,
+   "fin": 12804,
+   "texto": "Rainer Maria Rilke"
+  },
+  {
+   "tipo": "person",
+   "ini": 13047,
+   "fin": 13054,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "De Waal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13047,
+   "fin": 13054,
+   "texto": "De Waal"
+  },
+  {
+   "tipo": "person",
+   "ini": 13328,
+   "fin": 13335,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "De Waal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13328,
+   "fin": 13335,
+   "texto": "De Waal"
+  },
+  {
+   "tipo": "person",
+   "ini": 13923,
+   "fin": 13930,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13923,
+   "fin": 13930,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "work",
+   "ini": 13990,
+   "fin": 14265,
+   "rasgos": {
+    "type": "installation"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 13990,
+   "fin": 14027,
+   "texto": "Eroded Landscape [Paisaje erosionado]"
+  },
+  {
+   "tipo": "person",
+   "ini": 14050,
+   "fin": 14060,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Tony Cragg"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14050,
+   "fin": 14060,
+   "texto": "Tony Cragg"
+  },
+  {
+   "tipo": "person",
+   "ini": 14971,
+   "fin": 14978,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14971,
+   "fin": 14978,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15393,
+   "fin": 15400,
+   "texto": "Cézanne"
+  },
+  {
+   "tipo": "person",
+   "ini": 15428,
+   "fin": 15433,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Cragg"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15428,
+   "fin": 15433,
+   "texto": "Cragg"
+  },
+  {
+   "tipo": "person",
+   "ini": 16068,
+   "fin": 16075,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16068,
+   "fin": 16075,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 16127,
+   "fin": 16134,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16127,
+   "fin": 16134,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 16186,
+   "fin": 16200,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alfredo Alcaín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16186,
+   "fin": 16200,
+   "texto": "Alfredo Alcaín"
+  },
+  {
+   "tipo": "work",
+   "ini": 16238,
+   "fin": 16925,
+   "rasgos": {
+    "type": "sculpture"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 16238,
+   "fin": 16257,
+   "texto": "Bodegón (Morandi V)"
+  },
+  {
+   "tipo": "person",
+   "ini": 16858,
+   "fin": 16865,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 16944,
+   "fin": 16950,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alcaín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16944,
+   "fin": 16950,
+   "texto": "Alcaín"
+  },
+  {
+   "tipo": "person",
+   "ini": 17170,
+   "fin": 17177,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17170,
+   "fin": 17177,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17361,
+   "fin": 17378,
+   "texto": "Juan Manuel Bonet"
+  },
+  {
+   "tipo": "person",
+   "ini": 17380,
+   "fin": 17386,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alcaín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17380,
+   "fin": 17386,
+   "texto": "Alcaín"
+  },
+  {
+   "tipo": "person",
+   "ini": 17406,
+   "fin": 17413,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17406,
+   "fin": 17413,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17537,
+   "fin": 17556,
+   "texto": "Robert Rauschenberg"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17631,
+   "fin": 17645,
+   "texto": "Roberto Longhi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17716,
+   "fin": 17722,
+   "texto": "Longhi"
+  },
+  {
+   "tipo": "person",
+   "ini": 18034,
+   "fin": 18041,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18034,
+   "fin": 18041,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 18274,
+   "fin": 18281,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18274,
+   "fin": 18281,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "work",
+   "ini": 18335,
+   "fin": 18750,
+   "rasgos": {
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 18335,
+   "fin": 18393,
+   "texto": "Bodegón (Pequeño homenaje a la memoria de Giorgio Morandi)"
+  },
+  {
+   "tipo": "person",
+   "ini": 18521,
+   "fin": 18528,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18521,
+   "fin": 18528,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19138,
+   "fin": 19153,
+   "texto": "Bernardo Atxaga"
+  },
+  {
+   "tipo": "person",
+   "ini": 19209,
+   "fin": 19215,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alcaín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19209,
+   "fin": 19215,
+   "texto": "Alcaín"
+  },
+  {
+   "tipo": "person",
+   "ini": 19234,
+   "fin": 19241,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19234,
+   "fin": 19241,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 19411,
+   "fin": 19418,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19411,
+   "fin": 19418,
+   "texto": "Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 19486,
+   "fin": 19492,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alcaín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19486,
+   "fin": 19492,
+   "texto": "Alcaín"
+  },
+  {
+   "tipo": "person",
+   "ini": 19519,
+   "fin": 19534,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Giorgio Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19519,
+   "fin": 19534,
+   "texto": "Giorgio Morandi"
+  },
+  {
+   "tipo": "person",
+   "ini": 19536,
+   "fin": 19545,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ada Duker"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19536,
+   "fin": 19545,
+   "texto": "Ada Duker"
+  },
+  {
+   "tipo": "person",
+   "ini": 19557,
+   "fin": 19573,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rachel Whiteread"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19557,
+   "fin": 19573,
+   "texto": "Rachel Whiteread"
+  },
+  {
+   "tipo": "person",
+   "ini": 19585,
+   "fin": 19602,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bertozzi & Casoni"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19585,
+   "fin": 19602,
+   "texto": "Bertozzi & Casoni"
+  },
+  {
+   "tipo": "person",
+   "ini": 19614,
+   "fin": 19626,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luigi Ontani"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19614,
+   "fin": 19626,
+   "texto": "Luigi Ontani"
+  },
+  {
+   "tipo": "person",
+   "ini": 19638,
+   "fin": 19652,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Edmund de Waal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19638,
+   "fin": 19652,
+   "texto": "Edmund de Waal"
+  },
+  {
+   "tipo": "person",
+   "ini": 19664,
+   "fin": 19674,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Tony Cragg"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19664,
+   "fin": 19674,
+   "texto": "Tony Cragg"
+  },
+  {
+   "tipo": "person",
+   "ini": 19686,
+   "fin": 19700,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alfredo Alcaín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19686,
+   "fin": 19700,
+   "texto": "Alfredo Alcaín"
+  },
+  {
+   "tipo": "person",
+   "ini": 19712,
+   "fin": 19725,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Gerardo Rueda"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19712,
+   "fin": 19725,
+   "texto": "Gerardo Rueda"
+  },
+  {
+   "tipo": "person",
+   "ini": 19737,
+   "fin": 19753,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Lawrence Carroll"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19737,
+   "fin": 19753,
+   "texto": "Lawrence Carroll"
+  },
+  {
+   "tipo": "person",
+   "ini": 19765,
+   "fin": 19781,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexandre Hollan"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19765,
+   "fin": 19781,
+   "texto": "Alexandre Hollan"
+  },
+  {
+   "tipo": "person",
+   "ini": 19793,
+   "fin": 19805,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Andrea Facco"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19793,
+   "fin": 19805,
+   "texto": "Andrea Facco"
+  },
+  {
+   "tipo": "person",
+   "ini": 19817,
+   "fin": 19827,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Dis Berlin"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19817,
+   "fin": 19827,
+   "texto": "Dis Berlin"
+  },
+  {
+   "tipo": "person",
+   "ini": 19839,
+   "fin": 19854,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Riccardo Taiana"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19839,
+   "fin": 19854,
+   "texto": "Riccardo Taiana"
+  },
+  {
+   "tipo": "person",
+   "ini": 19866,
+   "fin": 19883,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alessandro Taiana"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19866,
+   "fin": 19883,
+   "texto": "Alessandro Taiana"
+  },
+  {
+   "tipo": "person",
+   "ini": 19895,
+   "fin": 19914,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan José Aquerreta"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19895,
+   "fin": 19914,
+   "texto": "Juan José Aquerreta"
+  },
+  {
+   "tipo": "person",
+   "ini": 19926,
+   "fin": 19942,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Franco Vimercati"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19926,
+   "fin": 19942,
+   "texto": "Franco Vimercati"
+  },
+  {
+   "tipo": "person",
+   "ini": 19954,
+   "fin": 19969,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Carlo Benvenuto"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19954,
+   "fin": 19969,
+   "texto": "Carlo Benvenuto"
+  },
+  {
+   "tipo": "person",
+   "ini": 19981,
+   "fin": 19996,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Joel Meyerowitz"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19981,
+   "fin": 19996,
+   "texto": "Joel Meyerowitz"
+  },
+  {
+   "tipo": "person",
+   "ini": 20008,
+   "fin": 20024,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Catherine Wagner"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20008,
+   "fin": 20024,
+   "texto": "Catherine Wagner"
+  },
+  {
+   "tipo": "person",
+   "ini": 20036,
+   "fin": 20047,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Tacita Dean"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20036,
+   "fin": 20047,
+   "texto": "Tacita Dean"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 20062,
+   "fin": 20668
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20062,
+   "fin": 20123
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 20062,
+   "fin": 20104,
+   "rasgos": {
+    "type": "photograph",
+    "size": "3"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 20062,
+   "fin": 20071,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ada Duker"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20062,
+   "fin": 20071,
+   "texto": "Ada Duker"
+  },
+  {
+   "tipo": "title",
+   "ini": 20072,
+   "fin": 20098,
+   "texto": "Imprevedibili nature morte"
+  },
+  {
+   "tipo": "date",
+   "ini": 20100,
+   "fin": 20104,
+   "rasgos": {
+    "when": "2014"
+   },
+   "texto": "2014"
+  },
+  {
+   "tipo": "img",
+   "ini": 20106,
+   "fin": 20111,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 20112,
+   "fin": 20117,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "img",
+   "ini": 20118,
+   "fin": 20123,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20125,
+   "fin": 20166
+  },
+  {
+   "tipo": "img",
+   "ini": 20125,
+   "fin": 20130,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20132,
+   "fin": 20166,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Giorgio Morandi\nNatura morta, 1956"
+  },
+  {
+   "tipo": "person",
+   "ini": 20132,
+   "fin": 20147,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Giorgio Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20132,
+   "fin": 20147,
+   "texto": "Giorgio Morandi"
+  },
+  {
+   "tipo": "title",
+   "ini": 20148,
+   "fin": 20160,
+   "texto": "Natura morta"
+  },
+  {
+   "tipo": "date",
+   "ini": 20162,
+   "fin": 20166,
+   "rasgos": {
+    "when": ""
+   },
+   "texto": "1956"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20168,
+   "fin": 20206
+  },
+  {
+   "tipo": "work",
+   "ini": 20168,
+   "fin": 20199,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Rachel Whiteread\nModel IV, 2006"
+  },
+  {
+   "tipo": "person",
+   "ini": 20168,
+   "fin": 20184,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rachel Whiteread"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20168,
+   "fin": 20184,
+   "texto": "Rachel Whiteread"
+  },
+  {
+   "tipo": "title",
+   "ini": 20185,
+   "fin": 20193,
+   "texto": "Model IV"
+  },
+  {
+   "tipo": "date",
+   "ini": 20195,
+   "fin": 20199,
+   "rasgos": {
+    "when": ""
+   },
+   "texto": "2006"
+  },
+  {
+   "tipo": "img",
+   "ini": 20201,
+   "fin": 20206,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20208,
+   "fin": 20249
+  },
+  {
+   "tipo": "img",
+   "ini": 20208,
+   "fin": 20213,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20215,
+   "fin": 20249,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Giorgio Morandi\nNatura morta, 1956"
+  },
+  {
+   "tipo": "person",
+   "ini": 20215,
+   "fin": 20230,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Giorgio Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20215,
+   "fin": 20230,
+   "texto": "Giorgio Morandi"
+  },
+  {
+   "tipo": "title",
+   "ini": 20231,
+   "fin": 20243,
+   "texto": "Natura morta"
+  },
+  {
+   "tipo": "date",
+   "ini": 20245,
+   "fin": 20249,
+   "rasgos": {
+    "when": ""
+   },
+   "texto": "1956"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20251,
+   "fin": 20293
+  },
+  {
+   "tipo": "work",
+   "ini": 20251,
+   "fin": 20286,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Bertozzi & Casoni\nPer Morandi, 2021"
+  },
+  {
+   "tipo": "person",
+   "ini": 20251,
+   "fin": 20268,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bertozzi & Casoni"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20251,
+   "fin": 20268,
+   "texto": "Bertozzi & Casoni"
+  },
+  {
+   "tipo": "title",
+   "ini": 20269,
+   "fin": 20280,
+   "texto": "Per Morandi"
+  },
+  {
+   "tipo": "date",
+   "ini": 20282,
+   "fin": 20286,
+   "rasgos": {
+    "when": ""
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "img",
+   "ini": 20288,
+   "fin": 20293,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20295,
+   "fin": 20329
+  },
+  {
+   "tipo": "img",
+   "ini": 20295,
+   "fin": 20300,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20302,
+   "fin": 20329,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Giorgio Morandi\nFiori, 1950"
+  },
+  {
+   "tipo": "person",
+   "ini": 20302,
+   "fin": 20317,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Giorgio Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20302,
+   "fin": 20317,
+   "texto": "Giorgio Morandi"
+  },
+  {
+   "tipo": "title",
+   "ini": 20318,
+   "fin": 20323,
+   "texto": "Fiori"
+  },
+  {
+   "tipo": "date",
+   "ini": 20325,
+   "fin": 20329,
+   "rasgos": {
+    "when": "1950"
+   },
+   "texto": "1950"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20331,
+   "fin": 20373
+  },
+  {
+   "tipo": "work",
+   "ini": 20331,
+   "fin": 20366,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Bertozzi & Casoni\nPer Morandi, 2021"
+  },
+  {
+   "tipo": "person",
+   "ini": 20331,
+   "fin": 20348,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Bertozzi & Casoni"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20331,
+   "fin": 20348,
+   "texto": "Bertozzi & Casoni"
+  },
+  {
+   "tipo": "title",
+   "ini": 20349,
+   "fin": 20360,
+   "texto": "Per Morandi"
+  },
+  {
+   "tipo": "date",
+   "ini": 20362,
+   "fin": 20366,
+   "rasgos": {
+    "when": ""
+   },
+   "texto": "2021"
+  },
+  {
+   "tipo": "img",
+   "ini": 20368,
+   "fin": 20373,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20375,
+   "fin": 20410
+  },
+  {
+   "tipo": "img",
+   "ini": 20375,
+   "fin": 20380,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20382,
+   "fin": 20410,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Giorgio Morandi\nFiori, 19523"
+  },
+  {
+   "tipo": "person",
+   "ini": 20382,
+   "fin": 20397,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Giorgio Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20382,
+   "fin": 20397,
+   "texto": "Giorgio Morandi"
+  },
+  {
+   "tipo": "title",
+   "ini": 20398,
+   "fin": 20403,
+   "texto": "Fiori"
+  },
+  {
+   "tipo": "date",
+   "ini": 20405,
+   "fin": 20410,
+   "rasgos": {
+    "when": ""
+   },
+   "texto": "19523"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20412,
+   "fin": 20508
+  },
+  {
+   "tipo": "work",
+   "ini": 20412,
+   "fin": 20501,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "Luigi Ontani\nNaturaExtraMortAntropomOrfana =\nPeltrossequio, d’après Giorgio Morandi, 2015"
+  },
+  {
+   "tipo": "person",
+   "ini": 20412,
+   "fin": 20424,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Luigi Ontani"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20412,
+   "fin": 20424,
+   "texto": "Luigi Ontani"
+  },
+  {
+   "tipo": "title",
+   "ini": 20425,
+   "fin": 20495,
+   "texto": "NaturaExtraMortAntropomOrfana =\nPeltrossequio, d’après Giorgio Morandi"
+  },
+  {
+   "tipo": "date",
+   "ini": 20497,
+   "fin": 20501,
+   "rasgos": {
+    "when": ""
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "img",
+   "ini": 20503,
+   "fin": 20508,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20510,
+   "fin": 20551
+  },
+  {
+   "tipo": "img",
+   "ini": 20510,
+   "fin": 20515,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20517,
+   "fin": 20552,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Giorgio Morandi\nNatura morta, 1954\n"
+  },
+  {
+   "tipo": "person",
+   "ini": 20517,
+   "fin": 20532,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Giorgio Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20517,
+   "fin": 20532,
+   "texto": "Giorgio Morandi"
+  },
+  {
+   "tipo": "title",
+   "ini": 20533,
+   "fin": 20545,
+   "texto": "Natura morta"
+  },
+  {
+   "tipo": "date",
+   "ini": 20547,
+   "fin": 20551,
+   "rasgos": {
+    "when": ""
+   },
+   "texto": "1954"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20554,
+   "fin": 20623
+  },
+  {
+   "tipo": "work",
+   "ini": 20554,
+   "fin": 20616,
+   "rasgos": {
+    "type": "installation"
+   },
+   "texto": "Edmund de Waal\nstill beside you, with her empty hands, V, 2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 20554,
+   "fin": 20568,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Edmund de Waal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20554,
+   "fin": 20568,
+   "texto": "Edmund de Waal"
+  },
+  {
+   "tipo": "title",
+   "ini": 20569,
+   "fin": 20610,
+   "texto": "still beside you, with her empty hands, V"
+  },
+  {
+   "tipo": "date",
+   "ini": 20612,
+   "fin": 20616,
+   "rasgos": {
+    "when": ""
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "img",
+   "ini": 20618,
+   "fin": 20623,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 20625,
+   "fin": 20666
+  },
+  {
+   "tipo": "img",
+   "ini": 20625,
+   "fin": 20630,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 20632,
+   "fin": 20666,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "Giorgio Morandi\nNatura morta, 1942"
+  },
+  {
+   "tipo": "person",
+   "ini": 20632,
+   "fin": 20647,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Giorgio Morandi"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20632,
+   "fin": 20647,
+   "texto": "Giorgio Morandi"
+  },
+  {
+   "tipo": "title",
+   "ini": 20648,
+   "fin": 20660,
+   "texto": "Natura morta"
+  },
+  {
+   "tipo": "date",
+   "ini": 20662,
+   "fin": 20666,
+   "rasgos": {
+    "when": ""
+   },
+   "texto": "1942"
+  }
+ ]
+}

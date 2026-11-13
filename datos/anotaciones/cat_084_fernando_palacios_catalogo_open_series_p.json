@@ -1,0 +1,3863 @@
+{
+ "id": "cat_084_fernando_palacios_catalogo_open_series_p",
+ "nombre_original": "fernando_palacios___catalogo_open_series__pintura..",
+ "longitud_texto": 36222,
+ "sha256_texto": "39e1bec2346f44ae956b26b3fa17b5565a1305c7b59354e170fccbc087e9ad37",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 29,
+   "texto": "Fernando Palacios\nOpen Series"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 29,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 17,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 17,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 93,
+   "fin": 106,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Gijón (Spain)"
+  },
+  {
+   "tipo": "institution",
+   "ini": 126,
+   "fin": 140,
+   "rasgos": {
+    "type": "studio"
+   },
+   "texto": "EFE Art Studio"
+  },
+  {
+   "tipo": "title",
+   "ini": 192,
+   "fin": 221,
+   "texto": "FERNANDO PALACIOS\nOPEN SERIES"
+  },
+  {
+   "tipo": "person",
+   "ini": 192,
+   "fin": 209,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "FERNANDO PALACIOS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 192,
+   "fin": 209,
+   "texto": "FERNANDO PALACIOS"
+  },
+  {
+   "tipo": "title",
+   "ini": 232,
+   "fin": 262,
+   "texto": "Open Series\n\nFERNANDO PALACIOS"
+  },
+  {
+   "tipo": "person",
+   "ini": 245,
+   "fin": 262,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "FERNANDO PALACIOS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 245,
+   "fin": 262,
+   "texto": "FERNANDO PALACIOS"
+  },
+  {
+   "tipo": "person",
+   "ini": 272,
+   "fin": 289,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Arturo del Villar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 272,
+   "fin": 289,
+   "texto": "Arturo del Villar"
+  },
+  {
+   "tipo": "person",
+   "ini": 290,
+   "fin": 306,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Angélica Tanarro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 290,
+   "fin": 306,
+   "texto": "Angélica Tanarro"
+  },
+  {
+   "tipo": "institution",
+   "ini": 307,
+   "fin": 326,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "La Ventana del Arte"
+  },
+  {
+   "tipo": "person",
+   "ini": 327,
+   "fin": 338,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Peter Shütt"
+  },
+  {
+   "tipo": "persName",
+   "ini": 327,
+   "fin": 338,
+   "texto": "Peter Shütt"
+  },
+  {
+   "tipo": "person",
+   "ini": 339,
+   "fin": 351,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Rubén Suárez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 339,
+   "fin": 351,
+   "texto": "Rubén Suárez"
+  },
+  {
+   "tipo": "person",
+   "ini": 352,
+   "fin": 367,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Juan Carlos Gea"
+  },
+  {
+   "tipo": "persName",
+   "ini": 352,
+   "fin": 367,
+   "texto": "Juan Carlos Gea"
+  },
+  {
+   "tipo": "person",
+   "ini": 368,
+   "fin": 390,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "José Antonio Samaniego"
+  },
+  {
+   "tipo": "persName",
+   "ini": 368,
+   "fin": 390,
+   "texto": "José Antonio Samaniego"
+  },
+  {
+   "tipo": "person",
+   "ini": 391,
+   "fin": 404,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Tomas Paredes"
+  },
+  {
+   "tipo": "persName",
+   "ini": 391,
+   "fin": 404,
+   "texto": "Tomas Paredes"
+  },
+  {
+   "tipo": "person",
+   "ini": 405,
+   "fin": 423,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Amalia García Rubí"
+  },
+  {
+   "tipo": "persName",
+   "ini": 405,
+   "fin": 423,
+   "texto": "Amalia García Rubí"
+  },
+  {
+   "tipo": "person",
+   "ini": 424,
+   "fin": 437,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Antonio Leyva"
+  },
+  {
+   "tipo": "persName",
+   "ini": 424,
+   "fin": 437,
+   "texto": "Antonio Leyva"
+  },
+  {
+   "tipo": "person",
+   "ini": 438,
+   "fin": 448,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Paco Lorca"
+  },
+  {
+   "tipo": "persName",
+   "ini": 438,
+   "fin": 448,
+   "texto": "Paco Lorca"
+  },
+  {
+   "tipo": "person",
+   "ini": 449,
+   "fin": 461,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Alicia Bango"
+  },
+  {
+   "tipo": "persName",
+   "ini": 449,
+   "fin": 461,
+   "texto": "Alicia Bango"
+  },
+  {
+   "tipo": "person",
+   "ini": 462,
+   "fin": 485,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Gregorio Vigil-Escalera"
+  },
+  {
+   "tipo": "persName",
+   "ini": 462,
+   "fin": 485,
+   "texto": "Gregorio Vigil-Escalera"
+  },
+  {
+   "tipo": "person",
+   "ini": 486,
+   "fin": 497,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Maria Comas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 486,
+   "fin": 497,
+   "texto": "Maria Comas"
+  },
+  {
+   "tipo": "person",
+   "ini": 498,
+   "fin": 509,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Julio Tovar"
+  },
+  {
+   "tipo": "persName",
+   "ini": 498,
+   "fin": 509,
+   "texto": "Julio Tovar"
+  },
+  {
+   "tipo": "person",
+   "ini": 510,
+   "fin": 526,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Montserrat Acebe"
+  },
+  {
+   "tipo": "persName",
+   "ini": 510,
+   "fin": 526,
+   "texto": "Montserrat Acebe"
+  },
+  {
+   "tipo": "person",
+   "ini": 527,
+   "fin": 545,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Fernando Caballero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 527,
+   "fin": 545,
+   "texto": "Fernando Caballero"
+  },
+  {
+   "tipo": "institution",
+   "ini": 554,
+   "fin": 568,
+   "rasgos": {
+    "type": "studio",
+    "role": "designer"
+   },
+   "texto": "EFE Art Studio"
+  },
+  {
+   "tipo": "person",
+   "ini": 582,
+   "fin": 599,
+   "rasgos": {
+    "role": "photographer"
+   },
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 582,
+   "fin": 598,
+   "texto": "Fernando Palacio"
+  },
+  {
+   "tipo": "institution",
+   "ini": 634,
+   "fin": 648,
+   "rasgos": {
+    "type": "studio",
+    "role": "editor"
+   },
+   "texto": "EFE Art Studio"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2976,
+   "fin": 2989,
+   "texto": "Anselm Kiefer"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3707,
+   "fin": 3724,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 3760,
+   "fin": 3777,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3760,
+   "fin": 3777,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3782,
+   "fin": 3799,
+   "texto": "Arturo del Villar"
+  },
+  {
+   "tipo": "person",
+   "ini": 3814,
+   "fin": 3831,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3814,
+   "fin": 3831,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4986,
+   "fin": 5001,
+   "texto": "Juan de la\nCruz"
+  },
+  {
+   "tipo": "person",
+   "ini": 6067,
+   "fin": 6075,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6067,
+   "fin": 6075,
+   "texto": "Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7530,
+   "fin": 7543,
+   "texto": "Jorge Guillén"
+  },
+  {
+   "tipo": "person",
+   "ini": 7599,
+   "fin": 7616,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7599,
+   "fin": 7616,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 8479,
+   "fin": 8487,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8479,
+   "fin": 8487,
+   "texto": "Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 8988,
+   "fin": 9005,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8988,
+   "fin": 9005,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9210,
+   "fin": 9227,
+   "texto": "Arturo del Villar"
+  },
+  {
+   "tipo": "person",
+   "ini": 9871,
+   "fin": 9879,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9871,
+   "fin": 9879,
+   "texto": "Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10082,
+   "fin": 10098,
+   "texto": "Angélica Tanarro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10523,
+   "fin": 10546,
+   "texto": "Juan Manuel Díaz Caneja"
+  },
+  {
+   "tipo": "person",
+   "ini": 10641,
+   "fin": 10658,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10641,
+   "fin": 10658,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 10960,
+   "fin": 10977,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10960,
+   "fin": 10977,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11439,
+   "fin": 11450,
+   "texto": "Peter Shütt"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11898,
+   "fin": 11912,
+   "texto": "Gerard Richter"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11931,
+   "fin": 11942,
+   "texto": "Díaz Caneja"
+  },
+  {
+   "tipo": "person",
+   "ini": 12725,
+   "fin": 12742,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12725,
+   "fin": 12742,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12916,
+   "fin": 12928,
+   "texto": "Rubén Suárez"
+  },
+  {
+   "tipo": "person",
+   "ini": 12997,
+   "fin": 13014,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12997,
+   "fin": 13014,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 13016,
+   "fin": 13086,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 13027,
+   "fin": 13045,
+   "texto": "“Incognita Natura”"
+  },
+  {
+   "tipo": "institution",
+   "ini": 13046,
+   "fin": 13073,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Galeria B.V, Bea Villamarin"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 13075,
+   "fin": 13080,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Gijón"
+  },
+  {
+   "tipo": "date",
+   "ini": 13082,
+   "fin": 13086,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "person",
+   "ini": 13556,
+   "fin": 13592,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios (Valladolid, 1976)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13556,
+   "fin": 13573,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "birth",
+   "ini": 13574,
+   "fin": 13592
+  },
+  {
+   "tipo": "date",
+   "ini": 13587,
+   "fin": 13591,
+   "rasgos": {
+    "when": "1976"
+   },
+   "texto": "1976"
+  },
+  {
+   "tipo": "person",
+   "ini": 14733,
+   "fin": 14750,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14733,
+   "fin": 14750,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15069,
+   "fin": 15084,
+   "texto": "Juan Carlos Gea"
+  },
+  {
+   "tipo": "person",
+   "ini": 15119,
+   "fin": 15136,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15119,
+   "fin": 15136,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 15173,
+   "fin": 15232,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 15173,
+   "fin": 15219,
+   "texto": "“Incognita Natura.Galeria B.V, Bea Villamarin”"
+  },
+  {
+   "tipo": "institution",
+   "ini": 15191,
+   "fin": 15219,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Galeria B.V, Bea Villamarin”"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 15221,
+   "fin": 15226,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Gijón"
+  },
+  {
+   "tipo": "date",
+   "ini": 15228,
+   "fin": 15232,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "person",
+   "ini": 15247,
+   "fin": 15264,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15247,
+   "fin": 15264,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15423,
+   "fin": 15436,
+   "texto": "Tomás Paredes"
+  },
+  {
+   "tipo": "person",
+   "ini": 15549,
+   "fin": 15561,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Efe Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15549,
+   "fin": 15561,
+   "texto": "Efe Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 16809,
+   "fin": 16826,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16809,
+   "fin": 16826,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16888,
+   "fin": 16910,
+   "texto": "José Antonio Samaniego"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 16957,
+   "fin": 17028,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 16968,
+   "fin": 16986,
+   "texto": "“Incognita Natura”"
+  },
+  {
+   "tipo": "institution",
+   "ini": 16988,
+   "fin": 17015,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Galeria B.V, Bea Villamarin"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 17017,
+   "fin": 17022,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Gijón"
+  },
+  {
+   "tipo": "date",
+   "ini": 17024,
+   "fin": 17028,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "person",
+   "ini": 17097,
+   "fin": 17114,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17097,
+   "fin": 17114,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 17326,
+   "fin": 17334,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17326,
+   "fin": 17334,
+   "texto": "Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 17493,
+   "fin": 17501,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17493,
+   "fin": 17501,
+   "texto": "Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 17771,
+   "fin": 17783,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Efe Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 17771,
+   "fin": 17783,
+   "texto": "Efe Palacios"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 17785,
+   "fin": 17795,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Valladolid"
+  },
+  {
+   "tipo": "date",
+   "ini": 17797,
+   "fin": 17801,
+   "rasgos": {
+    "when": "1976"
+   },
+   "texto": "1976"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18519,
+   "fin": 18532,
+   "texto": "Tomas Paredes"
+  },
+  {
+   "tipo": "person",
+   "ini": 18670,
+   "fin": 18687,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 18670,
+   "fin": 18687,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 19004,
+   "fin": 19012,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19004,
+   "fin": 19012,
+   "texto": "Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20092,
+   "fin": 20110,
+   "texto": "Amalia García Rubí"
+  },
+  {
+   "tipo": "person",
+   "ini": 20202,
+   "fin": 20219,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20202,
+   "fin": 20219,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 20274,
+   "fin": 20310,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios (Valladolid, 1976)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20274,
+   "fin": 20291,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "birth",
+   "ini": 20292,
+   "fin": 20310
+  },
+  {
+   "tipo": "placeName",
+   "ini": 20293,
+   "fin": 20303,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Valladolid"
+  },
+  {
+   "tipo": "date",
+   "ini": 20305,
+   "fin": 20309,
+   "rasgos": {
+    "when": "1976"
+   },
+   "texto": "1976"
+  },
+  {
+   "tipo": "persName",
+   "ini": 20923,
+   "fin": 20945,
+   "texto": "Antonio Leyva San Juan"
+  },
+  {
+   "tipo": "person",
+   "ini": 21006,
+   "fin": 21014,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21006,
+   "fin": 21014,
+   "texto": "Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21428,
+   "fin": 21438,
+   "texto": "Paco Lorca"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21896,
+   "fin": 21908,
+   "texto": "Alicia Bango"
+  },
+  {
+   "tipo": "person",
+   "ini": 22009,
+   "fin": 22026,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22009,
+   "fin": 22026,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22827,
+   "fin": 22851,
+   "texto": "Gregorio Vigil- Escalera"
+  },
+  {
+   "tipo": "person",
+   "ini": 22925,
+   "fin": 22942,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22925,
+   "fin": 22942,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23039,
+   "fin": 23053,
+   "texto": "Álvaro Delgado"
+  },
+  {
+   "tipo": "birth",
+   "ini": 23054,
+   "fin": 23068
+  },
+  {
+   "tipo": "person",
+   "ini": 23140,
+   "fin": 23176,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios (Valladolid, 1976)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23140,
+   "fin": 23157,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "birth",
+   "ini": 23158,
+   "fin": 23176
+  },
+  {
+   "tipo": "date",
+   "ini": 23171,
+   "fin": 23175,
+   "rasgos": {
+    "when": "1976"
+   },
+   "texto": "1976"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23377,
+   "fin": 23391,
+   "texto": "Alvaro Delgado"
+  },
+  {
+   "tipo": "persName",
+   "ini": 23457,
+   "fin": 23474,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 24271,
+   "fin": 24282,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Maria Comas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24271,
+   "fin": 24282,
+   "texto": "Maria Comas"
+  },
+  {
+   "tipo": "person",
+   "ini": 24631,
+   "fin": 24648,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24631,
+   "fin": 24648,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24920,
+   "fin": 24931,
+   "texto": "Julio Tovar"
+  },
+  {
+   "tipo": "person",
+   "ini": 24956,
+   "fin": 24973,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 24956,
+   "fin": 24973,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 25126,
+   "fin": 25143,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25126,
+   "fin": 25143,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26434,
+   "fin": 26443,
+   "texto": "Rembrandt"
+  },
+  {
+   "tipo": "person",
+   "ini": 27139,
+   "fin": 27156,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27139,
+   "fin": 27156,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 28092,
+   "fin": 28100,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28092,
+   "fin": 28100,
+   "texto": "Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 28662,
+   "fin": 28691,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Montserrat Acebes de la Torre"
+  },
+  {
+   "tipo": "persName",
+   "ini": 28662,
+   "fin": 28691,
+   "texto": "Montserrat Acebes de la Torre"
+  },
+  {
+   "tipo": "person",
+   "ini": 29561,
+   "fin": 29569,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29561,
+   "fin": 29569,
+   "texto": "Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 29790,
+   "fin": 29807,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29790,
+   "fin": 29807,
+   "texto": "Fernando Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 30085,
+   "fin": 30093,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30085,
+   "fin": 30093,
+   "texto": "Palacios"
+  },
+  {
+   "tipo": "person",
+   "ini": 30292,
+   "fin": 30310,
+   "rasgos": {
+    "role": "author"
+   },
+   "texto": "Fernando Caballero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30292,
+   "fin": 30310,
+   "texto": "Fernando Caballero"
+  },
+  {
+   "tipo": "person",
+   "ini": 30410,
+   "fin": 30418,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Palacios"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30410,
+   "fin": 30418,
+   "texto": "Palacios"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 30422,
+   "fin": 32382,
+   "rasgos": {
+    "ref": "past"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 30432,
+   "fin": 30802,
+   "rasgos": {
+    "type": "painting",
+    "size": "7"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 30432,
+   "fin": 30456,
+   "texto": "Serie Espacios Líquidos."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30458,
+   "fin": 30506
+  },
+  {
+   "tipo": "img",
+   "ini": 30458,
+   "fin": 30463,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30465,
+   "fin": 30506,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "100X100\nTécnica Mixta sobre lienzo\n(2018)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 30465,
+   "fin": 30472,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100X100"
+  },
+  {
+   "tipo": "height",
+   "ini": 30465,
+   "fin": 30468,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 30469,
+   "fin": 30472,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 30473,
+   "fin": 30499,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 30501,
+   "fin": 30505,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30508,
+   "fin": 30556
+  },
+  {
+   "tipo": "img",
+   "ini": 30508,
+   "fin": 30513,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30515,
+   "fin": 30556,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "100X100\nTécnica Mixta sobre lienzo\n(2018)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 30515,
+   "fin": 30522,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100X100"
+  },
+  {
+   "tipo": "height",
+   "ini": 30515,
+   "fin": 30518,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 30519,
+   "fin": 30522,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 30523,
+   "fin": 30549,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 30551,
+   "fin": 30555,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30558,
+   "fin": 30606
+  },
+  {
+   "tipo": "img",
+   "ini": 30558,
+   "fin": 30563,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30565,
+   "fin": 30606,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "100X100\nTécnica Mixta sobre lienzo\n(2018)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 30565,
+   "fin": 30572,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100X100"
+  },
+  {
+   "tipo": "height",
+   "ini": 30565,
+   "fin": 30568,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 30569,
+   "fin": 30572,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 30573,
+   "fin": 30599,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 30601,
+   "fin": 30605,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30608,
+   "fin": 30656
+  },
+  {
+   "tipo": "img",
+   "ini": 30608,
+   "fin": 30613,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30615,
+   "fin": 30656,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "100X100\nTécnica Mixta sobre lienzo\n(2018)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 30615,
+   "fin": 30622,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100X100"
+  },
+  {
+   "tipo": "height",
+   "ini": 30615,
+   "fin": 30618,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 30619,
+   "fin": 30622,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 30623,
+   "fin": 30649,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 30651,
+   "fin": 30655,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30658,
+   "fin": 30706
+  },
+  {
+   "tipo": "img",
+   "ini": 30658,
+   "fin": 30663,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30665,
+   "fin": 30706,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "180X180\nTécnica Mixta sobre lienzo\n(2018)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 30665,
+   "fin": 30672,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "180X180"
+  },
+  {
+   "tipo": "height",
+   "ini": 30665,
+   "fin": 30668,
+   "texto": "180"
+  },
+  {
+   "tipo": "width",
+   "ini": 30669,
+   "fin": 30672,
+   "texto": "180"
+  },
+  {
+   "tipo": "technique",
+   "ini": 30673,
+   "fin": 30699,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 30701,
+   "fin": 30705,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30708,
+   "fin": 30754
+  },
+  {
+   "tipo": "img",
+   "ini": 30708,
+   "fin": 30713,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30715,
+   "fin": 30754,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "50X50\nTécnica Mixta sobre lienzo\n(2018)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 30715,
+   "fin": 30720,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50X50"
+  },
+  {
+   "tipo": "height",
+   "ini": 30715,
+   "fin": 30717,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 30718,
+   "fin": 30720,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 30721,
+   "fin": 30747,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 30749,
+   "fin": 30753,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30756,
+   "fin": 30802
+  },
+  {
+   "tipo": "img",
+   "ini": 30756,
+   "fin": 30761,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30763,
+   "fin": 30802,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "50X50\nTécnica Mixta sobre lienzo\n(2018)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 30763,
+   "fin": 30768,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50X50"
+  },
+  {
+   "tipo": "height",
+   "ini": 30763,
+   "fin": 30765,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 30766,
+   "fin": 30768,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 30769,
+   "fin": 30795,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 30797,
+   "fin": 30801,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 30805,
+   "fin": 31073,
+   "rasgos": {
+    "size": "5",
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 30805,
+   "fin": 30827,
+   "texto": "Serie Incognita Natura"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30829,
+   "fin": 30877
+  },
+  {
+   "tipo": "img",
+   "ini": 30829,
+   "fin": 30834,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30836,
+   "fin": 30877,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "150X150\nTécnica Mixta sobre lienzo\n(2018)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 30836,
+   "fin": 30843,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150X150"
+  },
+  {
+   "tipo": "height",
+   "ini": 30836,
+   "fin": 30839,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 30840,
+   "fin": 30843,
+   "texto": "150"
+  },
+  {
+   "tipo": "technique",
+   "ini": 30844,
+   "fin": 30870,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 30872,
+   "fin": 30876,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30879,
+   "fin": 30927
+  },
+  {
+   "tipo": "img",
+   "ini": 30879,
+   "fin": 30884,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30886,
+   "fin": 30927,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "100X100\nTécnica Mixta sobre lienzo\n(2018)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 30886,
+   "fin": 30893,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100X100"
+  },
+  {
+   "tipo": "height",
+   "ini": 30886,
+   "fin": 30889,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 30890,
+   "fin": 30893,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 30894,
+   "fin": 30920,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 30922,
+   "fin": 30926,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30929,
+   "fin": 30977
+  },
+  {
+   "tipo": "img",
+   "ini": 30929,
+   "fin": 30934,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30936,
+   "fin": 30977,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "100X100\nTécnica Mixta sobre lienzo\n(2017)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 30936,
+   "fin": 30943,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100X100"
+  },
+  {
+   "tipo": "height",
+   "ini": 30936,
+   "fin": 30939,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 30940,
+   "fin": 30943,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 30944,
+   "fin": 30970,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 30972,
+   "fin": 30976,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30979,
+   "fin": 31025
+  },
+  {
+   "tipo": "img",
+   "ini": 30979,
+   "fin": 30984,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30986,
+   "fin": 31025,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "50X50\nTécnica Mixta sobre lienzo\n(2018)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 30986,
+   "fin": 30991,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50X50"
+  },
+  {
+   "tipo": "height",
+   "ini": 30986,
+   "fin": 30988,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 30989,
+   "fin": 30991,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 30992,
+   "fin": 31018,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 31020,
+   "fin": 31024,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 31027,
+   "fin": 31073
+  },
+  {
+   "tipo": "img",
+   "ini": 31027,
+   "fin": 31032,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 31034,
+   "fin": 31073,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "50X50\nTécnica Mixta sobre lienzo\n(2018)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 31034,
+   "fin": 31039,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50X50"
+  },
+  {
+   "tipo": "height",
+   "ini": 31034,
+   "fin": 31036,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 31037,
+   "fin": 31039,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 31040,
+   "fin": 31066,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 31068,
+   "fin": 31072,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 31076,
+   "fin": 31289,
+   "rasgos": {
+    "type": "painting",
+    "size": "4"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 31076,
+   "fin": 31090,
+   "texto": "Serie Efe Raíz"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 31092,
+   "fin": 31140
+  },
+  {
+   "tipo": "img",
+   "ini": 31092,
+   "fin": 31097,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 31099,
+   "fin": 31140,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "100X100\nTécnica Mixta sobre lienzo\n(2018)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 31099,
+   "fin": 31106,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100X100"
+  },
+  {
+   "tipo": "height",
+   "ini": 31099,
+   "fin": 31102,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 31103,
+   "fin": 31106,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 31107,
+   "fin": 31133,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 31135,
+   "fin": 31139,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 31142,
+   "fin": 31190
+  },
+  {
+   "tipo": "img",
+   "ini": 31142,
+   "fin": 31147,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 31149,
+   "fin": 31190,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "100X100\nTécnica Mixta sobre lienzo\n(2018)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 31149,
+   "fin": 31156,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100X100"
+  },
+  {
+   "tipo": "height",
+   "ini": 31149,
+   "fin": 31152,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 31153,
+   "fin": 31156,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 31157,
+   "fin": 31183,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 31185,
+   "fin": 31189,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 31192,
+   "fin": 31238
+  },
+  {
+   "tipo": "img",
+   "ini": 31192,
+   "fin": 31197,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 31199,
+   "fin": 31238,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "50X50\nTécnica Mixta sobre lienzo\n(2018)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 31199,
+   "fin": 31204,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50X50"
+  },
+  {
+   "tipo": "height",
+   "ini": 31199,
+   "fin": 31201,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 31202,
+   "fin": 31204,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 31205,
+   "fin": 31231,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 31233,
+   "fin": 31237,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 31240,
+   "fin": 31288
+  },
+  {
+   "tipo": "img",
+   "ini": 31240,
+   "fin": 31245,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 31247,
+   "fin": 31288,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "130X130\nTécnica Mixta sobre lienzo\n(2017)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 31247,
+   "fin": 31254,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130X130"
+  },
+  {
+   "tipo": "height",
+   "ini": 31247,
+   "fin": 31250,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 31251,
+   "fin": 31254,
+   "texto": "130"
+  },
+  {
+   "tipo": "technique",
+   "ini": 31255,
+   "fin": 31281,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 31283,
+   "fin": 31287,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 31291,
+   "fin": 31416,
+   "rasgos": {
+    "size": "2",
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 31291,
+   "fin": 31316,
+   "texto": "Serie Atmósferas Cerradas"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 31318,
+   "fin": 31366
+  },
+  {
+   "tipo": "img",
+   "ini": 31318,
+   "fin": 31323,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 31325,
+   "fin": 31366,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "130X130\nTécnica Mixta sobre lienzo\n(2018)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 31325,
+   "fin": 31332,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130X130"
+  },
+  {
+   "tipo": "height",
+   "ini": 31325,
+   "fin": 31328,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 31329,
+   "fin": 31332,
+   "texto": "130"
+  },
+  {
+   "tipo": "technique",
+   "ini": 31333,
+   "fin": 31359,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 31361,
+   "fin": 31365,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 31368,
+   "fin": 31416
+  },
+  {
+   "tipo": "img",
+   "ini": 31368,
+   "fin": 31373,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 31375,
+   "fin": 31416,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "130X130\nTécnica Mixta sobre lienzo\n(2018)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 31375,
+   "fin": 31382,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130X130"
+  },
+  {
+   "tipo": "height",
+   "ini": 31375,
+   "fin": 31378,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 31379,
+   "fin": 31382,
+   "texto": "130"
+  },
+  {
+   "tipo": "technique",
+   "ini": 31383,
+   "fin": 31409,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 31411,
+   "fin": 31415,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 31419,
+   "fin": 31641,
+   "rasgos": {
+    "size": "4",
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 31419,
+   "fin": 31441,
+   "texto": "Serie Espacios Ocultos"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 31444,
+   "fin": 31492
+  },
+  {
+   "tipo": "img",
+   "ini": 31444,
+   "fin": 31449,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 31451,
+   "fin": 31492,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "195X195\nTécnica Mixta sobre lienzo\n(2017)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 31451,
+   "fin": 31458,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "195X195"
+  },
+  {
+   "tipo": "height",
+   "ini": 31451,
+   "fin": 31454,
+   "texto": "195"
+  },
+  {
+   "tipo": "width",
+   "ini": 31455,
+   "fin": 31458,
+   "texto": "195"
+  },
+  {
+   "tipo": "technique",
+   "ini": 31459,
+   "fin": 31485,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 31487,
+   "fin": 31491,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 31494,
+   "fin": 31542
+  },
+  {
+   "tipo": "img",
+   "ini": 31494,
+   "fin": 31499,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 31501,
+   "fin": 31542,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "150X150\nTécnica Mixta sobre lienzo\n(2017)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 31501,
+   "fin": 31508,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150X150"
+  },
+  {
+   "tipo": "height",
+   "ini": 31501,
+   "fin": 31504,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 31505,
+   "fin": 31508,
+   "texto": "150"
+  },
+  {
+   "tipo": "technique",
+   "ini": 31509,
+   "fin": 31535,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 31537,
+   "fin": 31541,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 31544,
+   "fin": 31590
+  },
+  {
+   "tipo": "img",
+   "ini": 31544,
+   "fin": 31549,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 31551,
+   "fin": 31590,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "50X50\nTécnica Mixta sobre lienzo\n(2018)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 31551,
+   "fin": 31556,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50X50"
+  },
+  {
+   "tipo": "height",
+   "ini": 31551,
+   "fin": 31553,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 31554,
+   "fin": 31556,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 31557,
+   "fin": 31583,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 31585,
+   "fin": 31589,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 31592,
+   "fin": 31640
+  },
+  {
+   "tipo": "img",
+   "ini": 31592,
+   "fin": 31597,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 31599,
+   "fin": 31640,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "100x100\nTécnica Mixta sobre lienzo\n(2018)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 31599,
+   "fin": 31606,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100x100"
+  },
+  {
+   "tipo": "height",
+   "ini": 31599,
+   "fin": 31602,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 31603,
+   "fin": 31606,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 31607,
+   "fin": 31633,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 31635,
+   "fin": 31639,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 31643,
+   "fin": 31931,
+   "rasgos": {
+    "size": "6",
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 31643,
+   "fin": 31665,
+   "texto": "Serie Mundos Esféricos"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 31667,
+   "fin": 31715
+  },
+  {
+   "tipo": "img",
+   "ini": 31667,
+   "fin": 31672,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 31674,
+   "fin": 31715,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "100X100\nTécnica Mixta sobre lienzo\n(2015)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 31674,
+   "fin": 31681,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100X100"
+  },
+  {
+   "tipo": "height",
+   "ini": 31674,
+   "fin": 31677,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 31678,
+   "fin": 31681,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 31682,
+   "fin": 31708,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 31710,
+   "fin": 31714,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 31717,
+   "fin": 31765
+  },
+  {
+   "tipo": "img",
+   "ini": 31717,
+   "fin": 31722,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 31724,
+   "fin": 31765,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "150X150\nTécnica Mixta sobre lienzo\n(2015)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 31724,
+   "fin": 31731,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "150X150"
+  },
+  {
+   "tipo": "height",
+   "ini": 31724,
+   "fin": 31727,
+   "texto": "150"
+  },
+  {
+   "tipo": "width",
+   "ini": 31728,
+   "fin": 31731,
+   "texto": "150"
+  },
+  {
+   "tipo": "technique",
+   "ini": 31732,
+   "fin": 31758,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 31760,
+   "fin": 31764,
+   "rasgos": {
+    "when": "2015"
+   },
+   "texto": "2015"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 31767,
+   "fin": 31813
+  },
+  {
+   "tipo": "img",
+   "ini": 31767,
+   "fin": 31772,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 31774,
+   "fin": 31813,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "50X50\nTécnica Mixta sobre lienzo\n(2017)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 31774,
+   "fin": 31779,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50X50"
+  },
+  {
+   "tipo": "height",
+   "ini": 31774,
+   "fin": 31776,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 31777,
+   "fin": 31779,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 31780,
+   "fin": 31806,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 31808,
+   "fin": 31812,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 31815,
+   "fin": 31861
+  },
+  {
+   "tipo": "img",
+   "ini": 31815,
+   "fin": 31820,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 31822,
+   "fin": 31861,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "50X50\nTécnica Mixta sobre lienzo\n(2017)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 31822,
+   "fin": 31827,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50X50"
+  },
+  {
+   "tipo": "height",
+   "ini": 31822,
+   "fin": 31824,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 31825,
+   "fin": 31827,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 31828,
+   "fin": 31854,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 31856,
+   "fin": 31860,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 31863,
+   "fin": 31896
+  },
+  {
+   "tipo": "img",
+   "ini": 31863,
+   "fin": 31868,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 31870,
+   "fin": 31896,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ø60cm\nTécnica Mixta\n(2016)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 31870,
+   "fin": 31875,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "ø60cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 31871,
+   "fin": 31873,
+   "texto": "60"
+  },
+  {
+   "tipo": "technique",
+   "ini": 31876,
+   "fin": 31889,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta"
+  },
+  {
+   "tipo": "date",
+   "ini": 31891,
+   "fin": 31895,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 31898,
+   "fin": 31931
+  },
+  {
+   "tipo": "img",
+   "ini": 31898,
+   "fin": 31903,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 31905,
+   "fin": 31931,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "ø60cm\nTécnica Mixta\n(2016)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 31905,
+   "fin": 31910,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "ø60cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 31906,
+   "fin": 31908,
+   "texto": "60"
+  },
+  {
+   "tipo": "technique",
+   "ini": 31911,
+   "fin": 31924,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta"
+  },
+  {
+   "tipo": "date",
+   "ini": 31926,
+   "fin": 31930,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 31934,
+   "fin": 32049,
+   "rasgos": {
+    "size": "2",
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 31934,
+   "fin": 31953,
+   "texto": "Serie Glaciem Maris"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 31955,
+   "fin": 32001
+  },
+  {
+   "tipo": "img",
+   "ini": 31955,
+   "fin": 31960,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 31962,
+   "fin": 32001,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "50X50\nTécnica Mixta sobre lienzo\n(2018)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 31962,
+   "fin": 31967,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50X50"
+  },
+  {
+   "tipo": "height",
+   "ini": 31962,
+   "fin": 31964,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 31965,
+   "fin": 31967,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 31968,
+   "fin": 31994,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 31996,
+   "fin": 32000,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 32003,
+   "fin": 32049
+  },
+  {
+   "tipo": "img",
+   "ini": 32003,
+   "fin": 32008,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 32010,
+   "fin": 32049,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "50X50\nTécnica Mixta sobre lienzo\n(2018)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 32010,
+   "fin": 32015,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50X50"
+  },
+  {
+   "tipo": "height",
+   "ini": 32010,
+   "fin": 32012,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 32013,
+   "fin": 32015,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 32016,
+   "fin": 32042,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 32044,
+   "fin": 32048,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 32052,
+   "fin": 32174,
+   "rasgos": {
+    "size": "2",
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 32052,
+   "fin": 32074,
+   "texto": "Serie Paisajes Blancos"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 32076,
+   "fin": 32124
+  },
+  {
+   "tipo": "img",
+   "ini": 32076,
+   "fin": 32081,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 32083,
+   "fin": 32124,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "130x130\nTécnica Mixta sobre lienzo\n(2018)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 32083,
+   "fin": 32090,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "130x130"
+  },
+  {
+   "tipo": "height",
+   "ini": 32083,
+   "fin": 32086,
+   "texto": "130"
+  },
+  {
+   "tipo": "width",
+   "ini": 32087,
+   "fin": 32090,
+   "texto": "130"
+  },
+  {
+   "tipo": "technique",
+   "ini": 32091,
+   "fin": 32117,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 32119,
+   "fin": 32123,
+   "rasgos": {
+    "when": "2018"
+   },
+   "texto": "2018"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 32126,
+   "fin": 32174
+  },
+  {
+   "tipo": "img",
+   "ini": 32126,
+   "fin": 32131,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 32133,
+   "fin": 32174,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "100x100\nTécnica Mixta sobre lienzo\n(2017)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 32133,
+   "fin": 32140,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "100x100"
+  },
+  {
+   "tipo": "height",
+   "ini": 32133,
+   "fin": 32136,
+   "texto": "100"
+  },
+  {
+   "tipo": "width",
+   "ini": 32137,
+   "fin": 32140,
+   "texto": "100"
+  },
+  {
+   "tipo": "technique",
+   "ini": 32141,
+   "fin": 32167,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre lienzo"
+  },
+  {
+   "tipo": "date",
+   "ini": 32169,
+   "fin": 32173,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 32177,
+   "fin": 32382,
+   "rasgos": {
+    "size": "4",
+    "type": "painting"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 32177,
+   "fin": 32194,
+   "texto": "Serie Cosmogonías"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 32196,
+   "fin": 32241
+  },
+  {
+   "tipo": "img",
+   "ini": 32196,
+   "fin": 32201,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 32203,
+   "fin": 32241,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "50X50\nTécnica Mixta sobre tabla\n(2017)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 32203,
+   "fin": 32208,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50X50"
+  },
+  {
+   "tipo": "height",
+   "ini": 32203,
+   "fin": 32205,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 32206,
+   "fin": 32208,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 32209,
+   "fin": 32234,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre tabla"
+  },
+  {
+   "tipo": "date",
+   "ini": 32236,
+   "fin": 32240,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 32243,
+   "fin": 32288
+  },
+  {
+   "tipo": "img",
+   "ini": 32243,
+   "fin": 32248,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 32250,
+   "fin": 32288,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "50X50\nTécnica Mixta sobre tabla\n(2017)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 32250,
+   "fin": 32255,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50X50"
+  },
+  {
+   "tipo": "height",
+   "ini": 32250,
+   "fin": 32252,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 32253,
+   "fin": 32255,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 32256,
+   "fin": 32281,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre tabla"
+  },
+  {
+   "tipo": "date",
+   "ini": 32283,
+   "fin": 32287,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 32290,
+   "fin": 32335
+  },
+  {
+   "tipo": "img",
+   "ini": 32290,
+   "fin": 32295,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 32297,
+   "fin": 32335,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "50X50\nTécnica Mixta sobre tabla\n(2017)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 32297,
+   "fin": 32302,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50X50"
+  },
+  {
+   "tipo": "height",
+   "ini": 32297,
+   "fin": 32299,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 32300,
+   "fin": 32302,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 32303,
+   "fin": 32328,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre tabla"
+  },
+  {
+   "tipo": "date",
+   "ini": 32330,
+   "fin": 32334,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 32337,
+   "fin": 32382
+  },
+  {
+   "tipo": "img",
+   "ini": 32337,
+   "fin": 32342,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 32344,
+   "fin": 32382,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "50X50\nTécnica Mixta sobre tabla\n(2017)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 32344,
+   "fin": 32349,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "50X50"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 32344,
+   "fin": 32349,
+   "texto": "50X50"
+  },
+  {
+   "tipo": "height",
+   "ini": 32344,
+   "fin": 32346,
+   "texto": "50"
+  },
+  {
+   "tipo": "width",
+   "ini": 32347,
+   "fin": 32349,
+   "texto": "50"
+  },
+  {
+   "tipo": "technique",
+   "ini": 32350,
+   "fin": 32375,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica Mixta sobre tabla"
+  },
+  {
+   "tipo": "date",
+   "ini": 32377,
+   "fin": 32381,
+   "rasgos": {
+    "when": "2017"
+   },
+   "texto": "2017"
+  },
+  {
+   "tipo": "person",
+   "ini": 32385,
+   "fin": 32402,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "FERNANDO PALACIOS"
+  },
+  {
+   "tipo": "persName",
+   "ini": 32385,
+   "fin": 32402,
+   "texto": "FERNANDO PALACIOS"
+  },
+  {
+   "tipo": "person",
+   "ini": 32403,
+   "fin": 32434,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Efe Palacios (Valladolid, 1976)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 32403,
+   "fin": 32415,
+   "texto": "Efe Palacios"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 32417,
+   "fin": 32427,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Valladolid"
+  },
+  {
+   "tipo": "date",
+   "ini": 32429,
+   "fin": 32433,
+   "rasgos": {
+    "when": "1976"
+   },
+   "texto": "1976"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 36064,
+   "fin": 36155,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "institution",
+   "ini": 36064,
+   "fin": 36112,
+   "rasgos": {
+    "type": "gallery",
+    "role": "organiser"
+   },
+   "texto": "Galeria BV. Bea Villamarin. Arte y Coleccionismo"
+  },
+  {
+   "tipo": "title",
+   "ini": 36125,
+   "fin": 36143,
+   "texto": "“Incógnita Natura”"
+  },
+  {
+   "tipo": "title",
+   "ini": 36125,
+   "fin": 36143,
+   "texto": "“Incógnita Natura”"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 36145,
+   "fin": 36150,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Gijón"
+  },
+  {
+   "tipo": "date",
+   "ini": 36151,
+   "fin": 36155,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  },
+  {
+   "tipo": "date",
+   "ini": 36151,
+   "fin": 36155,
+   "rasgos": {
+    "when": "2016"
+   },
+   "texto": "2016"
+  }
+ ]
+}

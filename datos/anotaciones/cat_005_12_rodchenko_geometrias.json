@@ -1,0 +1,6487 @@
+{
+ "id": "cat_005_12_rodchenko_geometrias",
+ "nombre_original": "12. RODCHENKO GEOMETRIAS",
+ "longitud_texto": 47719,
+ "sha256_texto": "9c9c62c605dbad9b013f11411ef633adcdc8fb44a4cf95a2923522fcf31241c4",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 26,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 0,
+   "fin": 20,
+   "texto": "Ródchenko\nGeometrías"
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 9,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 9,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "date",
+   "ini": 21,
+   "fin": 25,
+   "rasgos": {
+    "when": "2001"
+   },
+   "texto": "2001"
+  },
+  {
+   "tipo": "institution",
+   "ini": 91,
+   "fin": 111,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "Fundación\nJuan March"
+  },
+  {
+   "tipo": "institution",
+   "ini": 454,
+   "fin": 474,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "Fundación Juan March"
+  },
+  {
+   "tipo": "institution",
+   "ini": 803,
+   "fin": 823,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "Fundación Juan March"
+  },
+  {
+   "tipo": "person",
+   "ini": 825,
+   "fin": 834,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "RÓDCHENKO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 825,
+   "fin": 834,
+   "texto": "RÓDCHENKO"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 943,
+   "fin": 1052,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 943,
+   "fin": 964,
+   "texto": "RODCHENKO\n\nGEOMETRIAS"
+  },
+  {
+   "tipo": "person",
+   "ini": 943,
+   "fin": 952,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "RODCHENKO"
+  },
+  {
+   "tipo": "persName",
+   "ini": 943,
+   "fin": 952,
+   "texto": "RODCHENKO"
+  },
+  {
+   "tipo": "date",
+   "ini": 966,
+   "fin": 990,
+   "rasgos": {
+    "from": "2001-04-24",
+    "to": "2001-08-26"
+   },
+   "texto": "24 ABRIL- 26 AGOSTO 2001"
+  },
+  {
+   "tipo": "institution",
+   "ini": 992,
+   "fin": 1030,
+   "rasgos": {
+    "type": "museum",
+    "role": "host"
+   },
+   "texto": "Museo de Arte Abstracto Español\nCuenca"
+  },
+  {
+   "tipo": "venue",
+   "ini": 992,
+   "fin": 1030,
+   "texto": "Museo de Arte Abstracto Español\nCuenca"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1032,
+   "fin": 1052,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "Fundación Juan March"
+  },
+  {
+   "tipo": "person",
+   "ini": 1086,
+   "fin": 1104,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexandr Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1086,
+   "fin": 1104,
+   "texto": "Alexandr Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 1192,
+   "fin": 1204,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "A. Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1192,
+   "fin": 1204,
+   "texto": "A. Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 1219,
+   "fin": 1228,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1219,
+   "fin": 1228,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 1295,
+   "fin": 1307,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "A. Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1295,
+   "fin": 1307,
+   "texto": "A. Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 1350,
+   "fin": 1362,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "A. Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1350,
+   "fin": 1362,
+   "texto": "A. Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 1405,
+   "fin": 1417,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "A. Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1405,
+   "fin": 1417,
+   "texto": "A. Ródchenko"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1490,
+   "fin": 1705,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 1490,
+   "fin": 1511,
+   "texto": "Ródchenko. Geometrías"
+  },
+  {
+   "tipo": "person",
+   "ini": 1490,
+   "fin": 1499,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1490,
+   "fin": 1499,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1516,
+   "fin": 1536,
+   "rasgos": {
+    "type": "foundation",
+    "role": "organiser"
+   },
+   "texto": "Fundación Juan March"
+  },
+  {
+   "tipo": "institution",
+   "ini": 1552,
+   "fin": 1593,
+   "rasgos": {
+    "type": "museum",
+    "role": "host"
+   },
+   "texto": "Museo\nde Arte Abstracto Español de Cuenca"
+  },
+  {
+   "tipo": "venue",
+   "ini": 1552,
+   "fin": 1593,
+   "texto": "Museo\nde Arte Abstracto Español de Cuenca"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1587,
+   "fin": 1593,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Cuenca"
+  },
+  {
+   "tipo": "date",
+   "ini": 1638,
+   "fin": 1649,
+   "rasgos": {
+    "from": "1917",
+    "to": "1948"
+   },
+   "texto": "1917\ny 1948"
+  },
+  {
+   "tipo": "person",
+   "ini": 1794,
+   "fin": 1850,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexandr Ródchenko (San Petesburgo, 1891 - Moscú , 1956)"
+  },
+  {
+   "tipo": "persName",
+   "ini": 1794,
+   "fin": 1812,
+   "texto": "Alexandr Ródchenko"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1814,
+   "fin": 1828,
+   "rasgos": {
+    "role": "poblation"
+   },
+   "texto": "San Petesburgo"
+  },
+  {
+   "tipo": "date",
+   "ini": 1830,
+   "fin": 1834,
+   "rasgos": {
+    "when": "1891"
+   },
+   "texto": "1891"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 1837,
+   "fin": 1842,
+   "rasgos": {
+    "role": "poblation"
+   },
+   "texto": "Moscú"
+  },
+  {
+   "tipo": "date",
+   "ini": 1845,
+   "fin": 1849,
+   "rasgos": {
+    "when": "1956"
+   },
+   "texto": "1956"
+  },
+  {
+   "tipo": "person",
+   "ini": 2714,
+   "fin": 2723,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2714,
+   "fin": 2723,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 3467,
+   "fin": 3476,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3467,
+   "fin": 3476,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "institution",
+   "ini": 3666,
+   "fin": 3686,
+   "rasgos": {
+    "type": "foundation",
+    "role": "host"
+   },
+   "texto": "Fundación Juan March"
+  },
+  {
+   "tipo": "person",
+   "ini": 3893,
+   "fin": 3902,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3893,
+   "fin": 3902,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 4265,
+   "fin": 4283,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexandr Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4265,
+   "fin": 4283,
+   "texto": "Alexandr Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 4397,
+   "fin": 4415,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexandr Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4397,
+   "fin": 4415,
+   "texto": "Alexandr Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 4976,
+   "fin": 4985,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4976,
+   "fin": 4985,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 5060,
+   "fin": 5069,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5060,
+   "fin": 5069,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 5378,
+   "fin": 5387,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5378,
+   "fin": 5387,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 5998,
+   "fin": 6007,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 5998,
+   "fin": 6007,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 6282,
+   "fin": 6291,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6282,
+   "fin": 6291,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 6780,
+   "fin": 6789,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 6780,
+   "fin": 6789,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 7741,
+   "fin": 7750,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 7741,
+   "fin": 7750,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 8735,
+   "fin": 8744,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 8735,
+   "fin": 8744,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 9606,
+   "fin": 9615,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9606,
+   "fin": 9615,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 9914,
+   "fin": 9923,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 9914,
+   "fin": 9923,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 10140,
+   "fin": 10149,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10140,
+   "fin": 10149,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 10661,
+   "fin": 10670,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 10661,
+   "fin": 10670,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 11344,
+   "fin": 11353,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 11344,
+   "fin": 11353,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 12004,
+   "fin": 12013,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12004,
+   "fin": 12013,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 12504,
+   "fin": 12513,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 12504,
+   "fin": 12513,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 14629,
+   "fin": 14638,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 14629,
+   "fin": 14638,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 15295,
+   "fin": 15304,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 15295,
+   "fin": 15304,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 15338,
+   "fin": 47304
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15352,
+   "fin": 15386
+  },
+  {
+   "tipo": "img",
+   "ini": 15352,
+   "fin": 15357,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15359,
+   "fin": 15386,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "1. Construcción nº 88, 1919"
+  },
+  {
+   "tipo": "title",
+   "ini": 15362,
+   "fin": 15380,
+   "texto": "Construcción nº 88"
+  },
+  {
+   "tipo": "date",
+   "ini": 15382,
+   "fin": 15386,
+   "rasgos": {
+    "when": "1919"
+   },
+   "texto": "1919"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15388,
+   "fin": 15421
+  },
+  {
+   "tipo": "img",
+   "ini": 15388,
+   "fin": 15393,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15395,
+   "fin": 15421,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "2. Composición nº 99, 1920"
+  },
+  {
+   "tipo": "title",
+   "ini": 15398,
+   "fin": 15415,
+   "texto": "Composición nº 99"
+  },
+  {
+   "tipo": "date",
+   "ini": 15417,
+   "fin": 15421,
+   "rasgos": {
+    "when": "1920"
+   },
+   "texto": "1920"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15423,
+   "fin": 15465
+  },
+  {
+   "tipo": "img",
+   "ini": 15423,
+   "fin": 15428,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15430,
+   "fin": 15465,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "3. Puntos. Composición nº 119, 1920"
+  },
+  {
+   "tipo": "title",
+   "ini": 15433,
+   "fin": 15459,
+   "texto": "Puntos. Composición nº 119"
+  },
+  {
+   "tipo": "date",
+   "ini": 15461,
+   "fin": 15465,
+   "rasgos": {
+    "when": "1920"
+   },
+   "texto": "1920"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15467,
+   "fin": 15494
+  },
+  {
+   "tipo": "img",
+   "ini": 15467,
+   "fin": 15472,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15474,
+   "fin": 15494,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "4. Composición, 1939"
+  },
+  {
+   "tipo": "title",
+   "ini": 15477,
+   "fin": 15488,
+   "texto": "Composición"
+  },
+  {
+   "tipo": "date",
+   "ini": 15490,
+   "fin": 15494,
+   "rasgos": {
+    "when": "1939"
+   },
+   "texto": "1939"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15496,
+   "fin": 15523
+  },
+  {
+   "tipo": "img",
+   "ini": 15496,
+   "fin": 15501,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15503,
+   "fin": 15523,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "5. Composición, 1943"
+  },
+  {
+   "tipo": "title",
+   "ini": 15506,
+   "fin": 15517,
+   "texto": "Composición"
+  },
+  {
+   "tipo": "date",
+   "ini": 15519,
+   "fin": 15523,
+   "rasgos": {
+    "when": "1943"
+   },
+   "texto": "1943"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15525,
+   "fin": 15563
+  },
+  {
+   "tipo": "img",
+   "ini": 15525,
+   "fin": 15530,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15532,
+   "fin": 15563,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "6. Composición decorativa, 1943"
+  },
+  {
+   "tipo": "title",
+   "ini": 15535,
+   "fin": 15557,
+   "texto": "Composición decorativa"
+  },
+  {
+   "tipo": "date",
+   "ini": 15559,
+   "fin": 15563,
+   "rasgos": {
+    "when": "1943"
+   },
+   "texto": "1943"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15565,
+   "fin": 15602
+  },
+  {
+   "tipo": "img",
+   "ini": 15565,
+   "fin": 15570,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15572,
+   "fin": 15602,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "7. Composición abstracta, 1948"
+  },
+  {
+   "tipo": "title",
+   "ini": 15575,
+   "fin": 15596,
+   "texto": "Composición abstracta"
+  },
+  {
+   "tipo": "date",
+   "ini": 15598,
+   "fin": 15602,
+   "rasgos": {
+    "when": "1948"
+   },
+   "texto": "1948"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15624,
+   "fin": 15661
+  },
+  {
+   "tipo": "img",
+   "ini": 15624,
+   "fin": 15629,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15631,
+   "fin": 15661,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "8. Boceto para un cuadro, 1917"
+  },
+  {
+   "tipo": "title",
+   "ini": 15634,
+   "fin": 15655,
+   "texto": "Boceto para un cuadro"
+  },
+  {
+   "tipo": "date",
+   "ini": 15657,
+   "fin": 15661,
+   "rasgos": {
+    "when": "1917"
+   },
+   "texto": "1917"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15663,
+   "fin": 15701
+  },
+  {
+   "tipo": "img",
+   "ini": 15663,
+   "fin": 15668,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15670,
+   "fin": 15701,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "9. Composición sin título, 1918"
+  },
+  {
+   "tipo": "title",
+   "ini": 15673,
+   "fin": 15695,
+   "texto": "Composición sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 15697,
+   "fin": 15701,
+   "rasgos": {
+    "when": "1918"
+   },
+   "texto": "1918"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15703,
+   "fin": 15742
+  },
+  {
+   "tipo": "img",
+   "ini": 15703,
+   "fin": 15708,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15710,
+   "fin": 15742,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "10. Composición sin título, 1919"
+  },
+  {
+   "tipo": "title",
+   "ini": 15714,
+   "fin": 15736,
+   "texto": "Composición sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 15738,
+   "fin": 15742,
+   "rasgos": {
+    "when": "1919"
+   },
+   "texto": "1919"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15744,
+   "fin": 15780
+  },
+  {
+   "tipo": "img",
+   "ini": 15744,
+   "fin": 15749,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15751,
+   "fin": 15780,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "11. Construcción lineal, 1919"
+  },
+  {
+   "tipo": "title",
+   "ini": 15755,
+   "fin": 15774,
+   "texto": "Construcción lineal"
+  },
+  {
+   "tipo": "date",
+   "ini": 15776,
+   "fin": 15780,
+   "rasgos": {
+    "when": "1919"
+   },
+   "texto": "1919"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15782,
+   "fin": 15809
+  },
+  {
+   "tipo": "img",
+   "ini": 15782,
+   "fin": 15787,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15789,
+   "fin": 15809,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "12. Sin título, 1919"
+  },
+  {
+   "tipo": "title",
+   "ini": 15793,
+   "fin": 15803,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 15805,
+   "fin": 15809,
+   "rasgos": {
+    "when": "1919"
+   },
+   "texto": "1919"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15811,
+   "fin": 15857
+  },
+  {
+   "tipo": "img",
+   "ini": 15811,
+   "fin": 15816,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15818,
+   "fin": 15857,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "13. Composición arquitectónica, 1919-20"
+  },
+  {
+   "tipo": "title",
+   "ini": 15822,
+   "fin": 15848,
+   "texto": "Composición arquitectónica"
+  },
+  {
+   "tipo": "date",
+   "ini": 15850,
+   "fin": 15857,
+   "rasgos": {
+    "notBefore": "1919",
+    "notAfter": "1920"
+   },
+   "texto": "1919-20"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15859,
+   "fin": 15894
+  },
+  {
+   "tipo": "img",
+   "ini": 15859,
+   "fin": 15864,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15866,
+   "fin": 15894,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "14. Composición lineal, 1920"
+  },
+  {
+   "tipo": "title",
+   "ini": 15870,
+   "fin": 15888,
+   "texto": "Composición lineal"
+  },
+  {
+   "tipo": "date",
+   "ini": 15890,
+   "fin": 15894,
+   "rasgos": {
+    "when": "1920"
+   },
+   "texto": "1920"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15896,
+   "fin": 15932
+  },
+  {
+   "tipo": "img",
+   "ini": 15896,
+   "fin": 15901,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15903,
+   "fin": 15932,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "15. Construcción lineal, 1920"
+  },
+  {
+   "tipo": "title",
+   "ini": 15907,
+   "fin": 15926,
+   "texto": "Construcción lineal"
+  },
+  {
+   "tipo": "date",
+   "ini": 15928,
+   "fin": 15932,
+   "rasgos": {
+    "when": "1920"
+   },
+   "texto": "1920"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15934,
+   "fin": 15992
+  },
+  {
+   "tipo": "img",
+   "ini": 15934,
+   "fin": 15939,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 15941,
+   "fin": 15992,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "16. Bocetos para construcciones espaciales, 1920-21"
+  },
+  {
+   "tipo": "title",
+   "ini": 15945,
+   "fin": 15983,
+   "texto": "Bocetos para construcciones espaciales"
+  },
+  {
+   "tipo": "date",
+   "ini": 15985,
+   "fin": 15992,
+   "rasgos": {
+    "notBefore": "1920",
+    "notAfter": "1921"
+   },
+   "texto": "1920-21"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 15994,
+   "fin": 16052
+  },
+  {
+   "tipo": "img",
+   "ini": 15994,
+   "fin": 15999,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16001,
+   "fin": 16052,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "17. Bocetos para construcciones espaciales, 1920-21"
+  },
+  {
+   "tipo": "title",
+   "ini": 16005,
+   "fin": 16043,
+   "texto": "Bocetos para construcciones espaciales"
+  },
+  {
+   "tipo": "date",
+   "ini": 16045,
+   "fin": 16052,
+   "rasgos": {
+    "notBefore": "1920",
+    "notAfter": "1921"
+   },
+   "texto": "1920-21"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16054,
+   "fin": 16092
+  },
+  {
+   "tipo": "img",
+   "ini": 16054,
+   "fin": 16059,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16061,
+   "fin": 16092,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "18. Dibujo arquitectónico, 1921"
+  },
+  {
+   "tipo": "title",
+   "ini": 16065,
+   "fin": 16086,
+   "texto": "Dibujo arquitectónico"
+  },
+  {
+   "tipo": "date",
+   "ini": 16088,
+   "fin": 16092,
+   "rasgos": {
+    "when": "1921"
+   },
+   "texto": "1921"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16094,
+   "fin": 16122
+  },
+  {
+   "tipo": "img",
+   "ini": 16094,
+   "fin": 16099,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16101,
+   "fin": 16122,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "19. Composición, 1921"
+  },
+  {
+   "tipo": "title",
+   "ini": 16105,
+   "fin": 16116,
+   "texto": "Composición"
+  },
+  {
+   "tipo": "date",
+   "ini": 16118,
+   "fin": 16122,
+   "rasgos": {
+    "when": "1921"
+   },
+   "texto": "1921"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16124,
+   "fin": 16174
+  },
+  {
+   "tipo": "img",
+   "ini": 16124,
+   "fin": 16129,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16131,
+   "fin": 16174,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "20. Boceto para un \"Perpetuum mobile\", 1922"
+  },
+  {
+   "tipo": "title",
+   "ini": 16135,
+   "fin": 16168,
+   "texto": "Boceto para un \"Perpetuum mobile\""
+  },
+  {
+   "tipo": "date",
+   "ini": 16170,
+   "fin": 16174,
+   "rasgos": {
+    "when": "1922"
+   },
+   "texto": "1922"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16176,
+   "fin": 16226
+  },
+  {
+   "tipo": "img",
+   "ini": 16176,
+   "fin": 16181,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16183,
+   "fin": 16226,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "21. Cartel publicitario para Dobrolet, 1923"
+  },
+  {
+   "tipo": "title",
+   "ini": 16187,
+   "fin": 16220,
+   "texto": "Cartel publicitario para Dobrolet"
+  },
+  {
+   "tipo": "date",
+   "ini": 16222,
+   "fin": 16226,
+   "rasgos": {
+    "when": "1923"
+   },
+   "texto": "1923"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16228,
+   "fin": 16270
+  },
+  {
+   "tipo": "img",
+   "ini": 16228,
+   "fin": 16233,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16235,
+   "fin": 16270,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "22. Boceto para la Banca Prom, 1924"
+  },
+  {
+   "tipo": "title",
+   "ini": 16239,
+   "fin": 16264,
+   "texto": "Boceto para la Banca Prom"
+  },
+  {
+   "tipo": "date",
+   "ini": 16266,
+   "fin": 16270,
+   "rasgos": {
+    "when": "1924"
+   },
+   "texto": "1924"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16272,
+   "fin": 16314
+  },
+  {
+   "tipo": "img",
+   "ini": 16272,
+   "fin": 16277,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16279,
+   "fin": 16314,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "23. Textil (Dibujo abstracto), 1940"
+  },
+  {
+   "tipo": "title",
+   "ini": 16283,
+   "fin": 16308,
+   "texto": "Textil (Dibujo abstracto)"
+  },
+  {
+   "tipo": "date",
+   "ini": 16310,
+   "fin": 16314,
+   "rasgos": {
+    "when": "1940"
+   },
+   "texto": "1940"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16316,
+   "fin": 16355
+  },
+  {
+   "tipo": "img",
+   "ini": 16316,
+   "fin": 16321,
+   "rasgos": {
+    "size": "large",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16323,
+   "fin": 16355,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "24. Composición decorativa, 1940"
+  },
+  {
+   "tipo": "title",
+   "ini": 16327,
+   "fin": 16349,
+   "texto": "Composición decorativa"
+  },
+  {
+   "tipo": "date",
+   "ini": 16351,
+   "fin": 16355,
+   "rasgos": {
+    "when": "1940"
+   },
+   "texto": "1940"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16357,
+   "fin": 16395
+  },
+  {
+   "tipo": "img",
+   "ini": 16357,
+   "fin": 16362,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16364,
+   "fin": 16395,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "25. Composición abstracta, 1941"
+  },
+  {
+   "tipo": "title",
+   "ini": 16368,
+   "fin": 16389,
+   "texto": "Composición abstracta"
+  },
+  {
+   "tipo": "date",
+   "ini": 16391,
+   "fin": 16395,
+   "rasgos": {
+    "when": "1941"
+   },
+   "texto": "1941"
+  },
+  {
+   "tipo": "text",
+   "ini": 16398,
+   "fin": 16826
+  },
+  {
+   "tipo": "person",
+   "ini": 16406,
+   "fin": 16424,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexandr Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 16406,
+   "fin": 16424,
+   "texto": "Alexandr Ródchenko"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 16828,
+   "fin": 16890
+  },
+  {
+   "tipo": "img",
+   "ini": 16828,
+   "fin": 16833,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 16835,
+   "fin": 16890,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "26. Composición decorativa.\nBoceto para un cuadro, 1941"
+  },
+  {
+   "tipo": "title",
+   "ini": 16839,
+   "fin": 16884,
+   "texto": "Composición decorativa.\nBoceto para un cuadro"
+  },
+  {
+   "tipo": "date",
+   "ini": 16886,
+   "fin": 16890,
+   "rasgos": {
+    "when": "1941"
+   },
+   "texto": "1941"
+  },
+  {
+   "tipo": "text",
+   "ini": 16892,
+   "fin": 27372
+  },
+  {
+   "tipo": "person",
+   "ini": 19814,
+   "fin": 19829,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "A. M.\nRódchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 19814,
+   "fin": 19829,
+   "texto": "A. M.\nRódchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 21105,
+   "fin": 21114,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21105,
+   "fin": 21114,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 21402,
+   "fin": 21411,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 21402,
+   "fin": 21411,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 22064,
+   "fin": 22073,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 22064,
+   "fin": 22073,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 25841,
+   "fin": 25850,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 25841,
+   "fin": 25850,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 26524,
+   "fin": 26533,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26524,
+   "fin": 26533,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 26807,
+   "fin": 26816,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26807,
+   "fin": 26816,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 26983,
+   "fin": 27001,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexandr Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 26983,
+   "fin": 27001,
+   "texto": "Alexandr Ródchenko"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 27374,
+   "fin": 27432
+  },
+  {
+   "tipo": "img",
+   "ini": 27374,
+   "fin": 27379,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 27381,
+   "fin": 27432,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "30. Construcción espacial blanca nº 5, 1918 / 1973*"
+  },
+  {
+   "tipo": "title",
+   "ini": 27385,
+   "fin": 27418,
+   "texto": "Construcción espacial blanca nº 5"
+  },
+  {
+   "tipo": "date",
+   "ini": 27420,
+   "fin": 27431,
+   "rasgos": {
+    "from": "1918",
+    "to": "1973"
+   },
+   "texto": "1918 / 1973"
+  },
+  {
+   "tipo": "text",
+   "ini": 27435,
+   "fin": 29643
+  },
+  {
+   "tipo": "person",
+   "ini": 29250,
+   "fin": 29259,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29250,
+   "fin": 29259,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 29505,
+   "fin": 29523,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexandr Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 29505,
+   "fin": 29523,
+   "texto": "Alexandr Ródchenko"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 29657,
+   "fin": 29709
+  },
+  {
+   "tipo": "img",
+   "ini": 29657,
+   "fin": 29662,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 29664,
+   "fin": 29709,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "27. Construcción espacial nº 1, 1918 / 1993* "
+  },
+  {
+   "tipo": "title",
+   "ini": 29668,
+   "fin": 29694,
+   "texto": "Construcción espacial nº 1"
+  },
+  {
+   "tipo": "date",
+   "ini": 29696,
+   "fin": 29707,
+   "rasgos": {
+    "from": "1918",
+    "to": "1993"
+   },
+   "texto": "1918 / 1993"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 29711,
+   "fin": 29762
+  },
+  {
+   "tipo": "img",
+   "ini": 29711,
+   "fin": 29716,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 29718,
+   "fin": 29762,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "28. Construcción espacial nº 3, 1918 / 1993*"
+  },
+  {
+   "tipo": "title",
+   "ini": 29722,
+   "fin": 29748,
+   "texto": "Construcción espacial nº 3"
+  },
+  {
+   "tipo": "date",
+   "ini": 29750,
+   "fin": 29761,
+   "rasgos": {
+    "from": "1918",
+    "to": "1993"
+   },
+   "texto": "1918 / 1993"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 29793,
+   "fin": 29844
+  },
+  {
+   "tipo": "img",
+   "ini": 29793,
+   "fin": 29798,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 29800,
+   "fin": 29844,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "29. Construcción espacial nº 4, 1918 / 1983*"
+  },
+  {
+   "tipo": "title",
+   "ini": 29804,
+   "fin": 29830,
+   "texto": "Construcción espacial nº 4"
+  },
+  {
+   "tipo": "date",
+   "ini": 29832,
+   "fin": 29843,
+   "rasgos": {
+    "from": "1983",
+    "to": "1918"
+   },
+   "texto": "1918 / 1983"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 29846,
+   "fin": 29904
+  },
+  {
+   "tipo": "img",
+   "ini": 29846,
+   "fin": 29851,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 29853,
+   "fin": 29904,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "31. Construcción espacial blanca nº 6, 1918 / 1973*"
+  },
+  {
+   "tipo": "title",
+   "ini": 29857,
+   "fin": 29890,
+   "texto": "Construcción espacial blanca nº 6"
+  },
+  {
+   "tipo": "date",
+   "ini": 29892,
+   "fin": 29903,
+   "rasgos": {
+    "from": "1973",
+    "to": "1918"
+   },
+   "texto": "1918 / 1973"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 29906,
+   "fin": 29986
+  },
+  {
+   "tipo": "img",
+   "ini": 29906,
+   "fin": 29911,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 29913,
+   "fin": 29986,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "32. El círculo en el círculo.\nConstrucción espacial nº 9, 1920-21 / 1985*"
+  },
+  {
+   "tipo": "title",
+   "ini": 29917,
+   "fin": 29969,
+   "texto": "El círculo en el círculo.\nConstrucción espacial nº 9"
+  },
+  {
+   "tipo": "date",
+   "ini": 29971,
+   "fin": 29985,
+   "rasgos": {
+    "notBefore": "1920",
+    "notAfter": "1921",
+    "to": "1985"
+   },
+   "texto": "1920-21 / 1985"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 29988,
+   "fin": 30073
+  },
+  {
+   "tipo": "img",
+   "ini": 29988,
+   "fin": 29993,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 29995,
+   "fin": 30073,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "34. El triángulo en el triángulo.\nConstrucción espacial nº 13, 1920-21 / 1993*"
+  },
+  {
+   "tipo": "title",
+   "ini": 29999,
+   "fin": 30056,
+   "texto": "El triángulo en el triángulo.\nConstrucción espacial nº 13"
+  },
+  {
+   "tipo": "date",
+   "ini": 30058,
+   "fin": 30072,
+   "rasgos": {
+    "notBefore": "1920",
+    "notAfter": "1921",
+    "to": "1993"
+   },
+   "texto": "1920-21 / 1993"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30075,
+   "fin": 30129
+  },
+  {
+   "tipo": "img",
+   "ini": 30075,
+   "fin": 30080,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30082,
+   "fin": 30129,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "35. Construcción espacial nº 14,1920-21 / 1983*"
+  },
+  {
+   "tipo": "title",
+   "ini": 30086,
+   "fin": 30113,
+   "texto": "Construcción espacial nº 14"
+  },
+  {
+   "tipo": "date",
+   "ini": 30114,
+   "fin": 30128,
+   "rasgos": {
+    "notBefore": "1920",
+    "notAfter": "1921",
+    "to": "1983"
+   },
+   "texto": "1920-21 / 1983"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30131,
+   "fin": 30183
+  },
+  {
+   "tipo": "img",
+   "ini": 30131,
+   "fin": 30136,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30138,
+   "fin": 30183,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "36. Construcción espacial nº 15, 1920 / 1980*"
+  },
+  {
+   "tipo": "title",
+   "ini": 30142,
+   "fin": 30169,
+   "texto": "Construcción espacial nº 15"
+  },
+  {
+   "tipo": "date",
+   "ini": 30171,
+   "fin": 30182,
+   "rasgos": {
+    "from": "1920",
+    "to": "1980"
+   },
+   "texto": "1920 / 1980"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30185,
+   "fin": 30237
+  },
+  {
+   "tipo": "img",
+   "ini": 30185,
+   "fin": 30190,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30192,
+   "fin": 30237,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "37. Construcción espacial nº 16, 1920 / 1980*"
+  },
+  {
+   "tipo": "title",
+   "ini": 30196,
+   "fin": 30223,
+   "texto": "Construcción espacial nº 16"
+  },
+  {
+   "tipo": "date",
+   "ini": 30225,
+   "fin": 30236,
+   "rasgos": {
+    "from": "1920",
+    "to": "1980"
+   },
+   "texto": "1920 / 1980"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30239,
+   "fin": 30294
+  },
+  {
+   "tipo": "img",
+   "ini": 30239,
+   "fin": 30244,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30246,
+   "fin": 30294,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "38. Construcción espacial nº 18, 1920-21 / 1993*"
+  },
+  {
+   "tipo": "title",
+   "ini": 30250,
+   "fin": 30277,
+   "texto": "Construcción espacial nº 18"
+  },
+  {
+   "tipo": "date",
+   "ini": 30279,
+   "fin": 30293,
+   "rasgos": {
+    "notBefore": "1920",
+    "notAfter": "1921",
+    "to": "1993"
+   },
+   "texto": "1920-21 / 1993"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30296,
+   "fin": 30351
+  },
+  {
+   "tipo": "img",
+   "ini": 30296,
+   "fin": 30301,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30303,
+   "fin": 30351,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "39. Construcción espacial nº 19, 1920-21 / 1993*"
+  },
+  {
+   "tipo": "title",
+   "ini": 30307,
+   "fin": 30334,
+   "texto": "Construcción espacial nº 19"
+  },
+  {
+   "tipo": "date",
+   "ini": 30336,
+   "fin": 30350,
+   "rasgos": {
+    "notBefore": "1920",
+    "notAfter": "1921",
+    "to": "1993"
+   },
+   "texto": "1920-21 / 1993"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30353,
+   "fin": 30408
+  },
+  {
+   "tipo": "img",
+   "ini": 30353,
+   "fin": 30358,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30360,
+   "fin": 30408,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "40. Construcción espacial nº 20, 1920-21 / 1990*"
+  },
+  {
+   "tipo": "title",
+   "ini": 30364,
+   "fin": 30391,
+   "texto": "Construcción espacial nº 20"
+  },
+  {
+   "tipo": "date",
+   "ini": 30393,
+   "fin": 30407,
+   "rasgos": {
+    "notBefore": "1920",
+    "notAfter": "1921",
+    "to": "1990"
+   },
+   "texto": "1920-21 / 1990"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30410,
+   "fin": 30465
+  },
+  {
+   "tipo": "img",
+   "ini": 30410,
+   "fin": 30415,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30417,
+   "fin": 30465,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "41. Construcción espacial nº 21, 1920-21 / 1988*"
+  },
+  {
+   "tipo": "title",
+   "ini": 30421,
+   "fin": 30448,
+   "texto": "Construcción espacial nº 21"
+  },
+  {
+   "tipo": "date",
+   "ini": 30450,
+   "fin": 30464,
+   "rasgos": {
+    "notBefore": "1920",
+    "notAfter": "1921",
+    "to": "1988"
+   },
+   "texto": "1920-21 / 1988"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30467,
+   "fin": 30522
+  },
+  {
+   "tipo": "img",
+   "ini": 30467,
+   "fin": 30472,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30474,
+   "fin": 30522,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "42. Construcción espacial nº 22, 1920-21 / 1983*"
+  },
+  {
+   "tipo": "title",
+   "ini": 30478,
+   "fin": 30505,
+   "texto": "Construcción espacial nº 22"
+  },
+  {
+   "tipo": "date",
+   "ini": 30507,
+   "fin": 30521,
+   "rasgos": {
+    "notBefore": "1920",
+    "notAfter": "1921",
+    "to": "1983"
+   },
+   "texto": "1920-21 / 1983"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30524,
+   "fin": 30579
+  },
+  {
+   "tipo": "img",
+   "ini": 30524,
+   "fin": 30529,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30531,
+   "fin": 30579,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "43. Construcción espacial nº 27, 1920-21 / 1993*"
+  },
+  {
+   "tipo": "title",
+   "ini": 30535,
+   "fin": 30562,
+   "texto": "Construcción espacial nº 27"
+  },
+  {
+   "tipo": "date",
+   "ini": 30564,
+   "fin": 30578,
+   "rasgos": {
+    "notBefore": "1920",
+    "notAfter": "1921",
+    "to": "1993"
+   },
+   "texto": "1920-21 / 1993"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30581,
+   "fin": 30636
+  },
+  {
+   "tipo": "img",
+   "ini": 30581,
+   "fin": 30586,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 30588,
+   "fin": 30636,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "44. Construcción espacial nº 28, 1920-21 / 1987*"
+  },
+  {
+   "tipo": "title",
+   "ini": 30592,
+   "fin": 30619,
+   "texto": "Construcción espacial nº 28"
+  },
+  {
+   "tipo": "date",
+   "ini": 30621,
+   "fin": 30635,
+   "rasgos": {
+    "notBefore": "1920",
+    "notAfter": "1921",
+    "to": "1987"
+   },
+   "texto": "1920-21 / 1987"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 30652,
+   "fin": 30674
+  },
+  {
+   "tipo": "work",
+   "ini": 30652,
+   "fin": 30667,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "45. Rayas, 1928"
+  },
+  {
+   "tipo": "title",
+   "ini": 30656,
+   "fin": 30661,
+   "texto": "Rayas"
+  },
+  {
+   "tipo": "date",
+   "ini": 30663,
+   "fin": 30667,
+   "rasgos": {
+    "when": "1928"
+   },
+   "texto": "1928"
+  },
+  {
+   "tipo": "img",
+   "ini": 30669,
+   "fin": 30674,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "text",
+   "ini": 30676,
+   "fin": 32210
+  },
+  {
+   "tipo": "person",
+   "ini": 30692,
+   "fin": 30710,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexandr Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 30692,
+   "fin": 30710,
+   "texto": "Alexandr Ródchenko"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 32212,
+   "fin": 32273
+  },
+  {
+   "tipo": "img",
+   "ini": 32212,
+   "fin": 32217,
+   "rasgos": {
+    "size": "medium",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 32223,
+   "fin": 32267,
+   "texto": "Estrellas (Para el Álbum\n\"El Ejército Rojo\")"
+  },
+  {
+   "tipo": "date",
+   "ini": 32269,
+   "fin": 32273,
+   "rasgos": {
+    "when": "1936"
+   },
+   "texto": "1936"
+  },
+  {
+   "tipo": "text",
+   "ini": 32275,
+   "fin": 33957
+  },
+  {
+   "tipo": "person",
+   "ini": 33661,
+   "fin": 33670,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 33661,
+   "fin": 33670,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 33959,
+   "fin": 34011
+  },
+  {
+   "tipo": "img",
+   "ini": 33959,
+   "fin": 33965,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 33970,
+   "fin": 34005,
+   "texto": "Columnas del Museo de la Revolución"
+  },
+  {
+   "tipo": "date",
+   "ini": 34007,
+   "fin": 34011,
+   "rasgos": {
+    "when": "1926"
+   },
+   "texto": "1926"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34013,
+   "fin": 34036
+  },
+  {
+   "tipo": "img",
+   "ini": 34013,
+   "fin": 34018,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 34024,
+   "fin": 34030,
+   "texto": "Cables"
+  },
+  {
+   "tipo": "date",
+   "ini": 34032,
+   "fin": 34036,
+   "rasgos": {
+    "when": "1929"
+   },
+   "texto": "1929"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34038,
+   "fin": 34077
+  },
+  {
+   "tipo": "img",
+   "ini": 34038,
+   "fin": 34043,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 34049,
+   "fin": 34071,
+   "texto": "El edificio Mosselprom"
+  },
+  {
+   "tipo": "date",
+   "ini": 34073,
+   "fin": 34077,
+   "rasgos": {
+    "when": "1929"
+   },
+   "texto": "1929"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34079,
+   "fin": 34118
+  },
+  {
+   "tipo": "img",
+   "ini": 34079,
+   "fin": 34084,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 34090,
+   "fin": 34112,
+   "texto": "El edificio Mosselprom"
+  },
+  {
+   "tipo": "date",
+   "ini": 34114,
+   "fin": 34118,
+   "rasgos": {
+    "when": "1926"
+   },
+   "texto": "1926"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34120,
+   "fin": 34181
+  },
+  {
+   "tipo": "img",
+   "ini": 34120,
+   "fin": 34125,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 34131,
+   "fin": 34175,
+   "texto": "Apolo en lo alto del Teatro Bolshoi en Moscú"
+  },
+  {
+   "tipo": "date",
+   "ini": 34177,
+   "fin": 34181,
+   "rasgos": {
+    "when": "1929"
+   },
+   "texto": "1929"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34183,
+   "fin": 34210
+  },
+  {
+   "tipo": "img",
+   "ini": 34183,
+   "fin": 34188,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 34194,
+   "fin": 34204,
+   "texto": "Copa y luz"
+  },
+  {
+   "tipo": "date",
+   "ini": 34206,
+   "fin": 34210,
+   "rasgos": {
+    "when": "1928"
+   },
+   "texto": "1928"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34212,
+   "fin": 34250
+  },
+  {
+   "tipo": "img",
+   "ini": 34212,
+   "fin": 34217,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 34223,
+   "fin": 34244,
+   "texto": "Construcción espacial"
+  },
+  {
+   "tipo": "date",
+   "ini": 34246,
+   "fin": 34250,
+   "rasgos": {
+    "when": "1924"
+   },
+   "texto": "1924"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 34252,
+   "fin": 34313
+  },
+  {
+   "tipo": "img",
+   "ini": 34252,
+   "fin": 34257,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 34263,
+   "fin": 34307,
+   "texto": "En el aserradero Vakhtan\n(tablones apilados)"
+  },
+  {
+   "tipo": "date",
+   "ini": 34309,
+   "fin": 34313,
+   "rasgos": {
+    "when": "1931"
+   },
+   "texto": "1931"
+  },
+  {
+   "tipo": "person",
+   "ini": 34347,
+   "fin": 34365,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Alexandr Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 34347,
+   "fin": 34365,
+   "texto": "Alexandr Ródchenko"
+  },
+  {
+   "tipo": "text",
+   "ini": 34367,
+   "fin": 42997
+  },
+  {
+   "tipo": "person",
+   "ini": 34367,
+   "fin": 34376,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 34367,
+   "fin": 34376,
+   "texto": "Ródchenko"
+  },
+  {
+   "tipo": "worklist",
+   "ini": 42999,
+   "fin": 47275
+  },
+  {
+   "tipo": "work",
+   "ini": 43010,
+   "fin": 43070,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "1. Construcción no 88, 1919 \nÓleo sobre lienzo\n71 x 52,9 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43010,
+   "fin": 43070
+  },
+  {
+   "tipo": "title",
+   "ini": 43013,
+   "fin": 43031,
+   "texto": "Construcción no 88"
+  },
+  {
+   "tipo": "date",
+   "ini": 43033,
+   "fin": 43037,
+   "rasgos": {
+    "when": "1919"
+   },
+   "texto": "1919"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43039,
+   "fin": 43056,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43057,
+   "fin": 43069,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "71 x 52,9 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 43057,
+   "fin": 43059,
+   "texto": "71"
+  },
+  {
+   "tipo": "width",
+   "ini": 43062,
+   "fin": 43066,
+   "texto": "52,9"
+  },
+  {
+   "tipo": "work",
+   "ini": 43073,
+   "fin": 43140,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "2. Composición no 99, 1920 \nOleo sobre contrapachado \n95 x 60,5 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43073,
+   "fin": 43140
+  },
+  {
+   "tipo": "title",
+   "ini": 43076,
+   "fin": 43093,
+   "texto": "Composición no 99"
+  },
+  {
+   "tipo": "date",
+   "ini": 43095,
+   "fin": 43099,
+   "rasgos": {
+    "when": "1920"
+   },
+   "texto": "1920"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43101,
+   "fin": 43126,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Oleo sobre contrapachado "
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43127,
+   "fin": 43139,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "95 x 60,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 43127,
+   "fin": 43129,
+   "texto": "95"
+  },
+  {
+   "tipo": "width",
+   "ini": 43132,
+   "fin": 43136,
+   "texto": "60,5"
+  },
+  {
+   "tipo": "work",
+   "ini": 43143,
+   "fin": 43212,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "3. Puntos. Composición no 119, 1920 \nOleo sobre lienzo \n47 x 37,5 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43143,
+   "fin": 43212
+  },
+  {
+   "tipo": "title",
+   "ini": 43146,
+   "fin": 43172,
+   "texto": "Puntos. Composición no 119"
+  },
+  {
+   "tipo": "date",
+   "ini": 43174,
+   "fin": 43178,
+   "rasgos": {
+    "when": "1920"
+   },
+   "texto": "1920"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43180,
+   "fin": 43197,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Oleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43199,
+   "fin": 43211,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "47 x 37,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 43199,
+   "fin": 43201,
+   "texto": "47"
+  },
+  {
+   "tipo": "width",
+   "ini": 43204,
+   "fin": 43208,
+   "texto": "37,5"
+  },
+  {
+   "tipo": "work",
+   "ini": 43215,
+   "fin": 43267,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "4. Composición, 1939 \nOleo sobre cartón \n18 x 26 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43215,
+   "fin": 43267
+  },
+  {
+   "tipo": "title",
+   "ini": 43218,
+   "fin": 43229,
+   "texto": "Composición"
+  },
+  {
+   "tipo": "date",
+   "ini": 43231,
+   "fin": 43235,
+   "rasgos": {
+    "when": "1939"
+   },
+   "texto": "1939"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43237,
+   "fin": 43255,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Oleo sobre cartón "
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43256,
+   "fin": 43266,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "18 x 26 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 43256,
+   "fin": 43258,
+   "texto": "18"
+  },
+  {
+   "tipo": "width",
+   "ini": 43261,
+   "fin": 43263,
+   "texto": "26"
+  },
+  {
+   "tipo": "work",
+   "ini": 43270,
+   "fin": 43326,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "5. Composición, 1943 \nOleo sobre lienzo \n26,6 x 37,2 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43270,
+   "fin": 43326
+  },
+  {
+   "tipo": "title",
+   "ini": 43273,
+   "fin": 43284,
+   "texto": "Composición"
+  },
+  {
+   "tipo": "date",
+   "ini": 43286,
+   "fin": 43290,
+   "rasgos": {
+    "when": "1943"
+   },
+   "texto": "1943"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43292,
+   "fin": 43309,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Oleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43311,
+   "fin": 43325,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "26,6 x 37,2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 43311,
+   "fin": 43315,
+   "texto": "26,6"
+  },
+  {
+   "tipo": "width",
+   "ini": 43318,
+   "fin": 43322,
+   "texto": "37,2"
+  },
+  {
+   "tipo": "work",
+   "ini": 43329,
+   "fin": 43397,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "6. Composición decorativa, 1943 \nOleo sobre lienzo \n133,7 x 40,5 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43329,
+   "fin": 43397
+  },
+  {
+   "tipo": "title",
+   "ini": 43332,
+   "fin": 43354,
+   "texto": "Composición decorativa"
+  },
+  {
+   "tipo": "date",
+   "ini": 43356,
+   "fin": 43360,
+   "rasgos": {
+    "when": "1943"
+   },
+   "texto": "1943"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43362,
+   "fin": 43379,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Oleo sobre lienzo"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43381,
+   "fin": 43396,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "133,7 x 40,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 43381,
+   "fin": 43386,
+   "texto": "133,7"
+  },
+  {
+   "tipo": "width",
+   "ini": 43389,
+   "fin": 43393,
+   "texto": "40,5"
+  },
+  {
+   "tipo": "work",
+   "ini": 43400,
+   "fin": 43466,
+   "rasgos": {
+    "type": "painting"
+   },
+   "texto": "7. Composición abstracta, 1948 \nOleo sobre cartón \n24,9 x 17,4 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43400,
+   "fin": 43466
+  },
+  {
+   "tipo": "title",
+   "ini": 43403,
+   "fin": 43424,
+   "texto": "Composición abstracta"
+  },
+  {
+   "tipo": "date",
+   "ini": 43426,
+   "fin": 43430,
+   "rasgos": {
+    "when": "1948"
+   },
+   "texto": "1948"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43432,
+   "fin": 43449,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Oleo sobre cartón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43451,
+   "fin": 43465,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "24,9 x 17,4 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 43451,
+   "fin": 43455,
+   "texto": "24,9"
+  },
+  {
+   "tipo": "width",
+   "ini": 43458,
+   "fin": 43462,
+   "texto": "17,4"
+  },
+  {
+   "tipo": "work",
+   "ini": 43485,
+   "fin": 43552,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "8. Boceto para un cuadro, 1917 \nGouache sobre papel \n15,5 x 8,2 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43485,
+   "fin": 43552
+  },
+  {
+   "tipo": "title",
+   "ini": 43488,
+   "fin": 43509,
+   "texto": "Boceto para un cuadro"
+  },
+  {
+   "tipo": "date",
+   "ini": 43511,
+   "fin": 43515,
+   "rasgos": {
+    "when": "1917"
+   },
+   "texto": "1917"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43517,
+   "fin": 43536,
+   "rasgos": {
+    "type": "gouache"
+   },
+   "texto": "Gouache sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43538,
+   "fin": 43551,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "15,5 x 8,2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 43538,
+   "fin": 43542,
+   "texto": "15,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 43545,
+   "fin": 43548,
+   "texto": "8,2"
+  },
+  {
+   "tipo": "work",
+   "ini": 43555,
+   "fin": 43620,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "9. Composición sin título, 1918 \nLápiz sobre papel \n18,2 x 11 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43555,
+   "fin": 43620
+  },
+  {
+   "tipo": "title",
+   "ini": 43558,
+   "fin": 43580,
+   "texto": "Composición sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 43582,
+   "fin": 43586,
+   "rasgos": {
+    "when": "1918"
+   },
+   "texto": "1918"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43588,
+   "fin": 43606,
+   "rasgos": {
+    "type": "pen"
+   },
+   "texto": "Lápiz sobre papel "
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43607,
+   "fin": 43619,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "18,2 x 11 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 43607,
+   "fin": 43611,
+   "texto": "18,2"
+  },
+  {
+   "tipo": "width",
+   "ini": 43614,
+   "fin": 43616,
+   "texto": "11"
+  },
+  {
+   "tipo": "work",
+   "ini": 43623,
+   "fin": 43691,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "10. Composición sin título, 1919 \nLápiz sobre papel \n17,3 x 11,6 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43623,
+   "fin": 43691
+  },
+  {
+   "tipo": "title",
+   "ini": 43627,
+   "fin": 43649,
+   "texto": "Composición sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 43651,
+   "fin": 43655,
+   "rasgos": {
+    "when": "1919"
+   },
+   "texto": "1919"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43657,
+   "fin": 43674,
+   "rasgos": {
+    "type": "pen"
+   },
+   "texto": "Lápiz sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43676,
+   "fin": 43690,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "17,3 x 11,6 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 43676,
+   "fin": 43680,
+   "texto": "17,3"
+  },
+  {
+   "tipo": "width",
+   "ini": 43683,
+   "fin": 43687,
+   "texto": "11,6"
+  },
+  {
+   "tipo": "work",
+   "ini": 43694,
+   "fin": 43765,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "11. Construcción lineal, 1919 \nTinta china sobre papel \n35,5 x 22,4 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43694,
+   "fin": 43765
+  },
+  {
+   "tipo": "title",
+   "ini": 43698,
+   "fin": 43717,
+   "texto": "Construcción lineal"
+  },
+  {
+   "tipo": "date",
+   "ini": 43719,
+   "fin": 43723,
+   "rasgos": {
+    "when": "1919"
+   },
+   "texto": "1919"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43725,
+   "fin": 43748,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43750,
+   "fin": 43764,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35,5 x 22,4 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 43750,
+   "fin": 43754,
+   "texto": "35,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 43757,
+   "fin": 43761,
+   "texto": "22,4"
+  },
+  {
+   "tipo": "work",
+   "ini": 43768,
+   "fin": 43869,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "12. Sin título, 1919 \nCollage \n27,5 x 17,5 cm.\nCortesía Galería Gmurzynska. \nColección privada, Milán"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43768,
+   "fin": 43869
+  },
+  {
+   "tipo": "title",
+   "ini": 43772,
+   "fin": 43782,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "date",
+   "ini": 43784,
+   "fin": 43788,
+   "rasgos": {
+    "when": "1919"
+   },
+   "texto": "1919"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43790,
+   "fin": 43797,
+   "rasgos": {
+    "type": "collage"
+   },
+   "texto": "Collage"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43799,
+   "fin": 43813,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27,5 x 17,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 43799,
+   "fin": 43803,
+   "texto": "27,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 43806,
+   "fin": 43810,
+   "texto": "17,5"
+  },
+  {
+   "tipo": "institution",
+   "ini": 43824,
+   "fin": 43842,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Galería Gmurzynska"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 43864,
+   "fin": 43869,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Milán"
+  },
+  {
+   "tipo": "work",
+   "ini": 43872,
+   "fin": 43952,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "13. Composición arquitectónica, 1919-20 \nLápiz de cera sobre papel\n35,8 x 22 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43872,
+   "fin": 43952
+  },
+  {
+   "tipo": "title",
+   "ini": 43876,
+   "fin": 43902,
+   "texto": "Composición arquitectónica"
+  },
+  {
+   "tipo": "date",
+   "ini": 43904,
+   "fin": 43911,
+   "rasgos": {
+    "notBefore": "1919",
+    "notAfter": "1920"
+   },
+   "texto": "1919-20"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43913,
+   "fin": 43938,
+   "rasgos": {
+    "type": "crayon"
+   },
+   "texto": "Lápiz de cera sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 43939,
+   "fin": 43951,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35,8 x 22 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 43939,
+   "fin": 43943,
+   "texto": "35,8"
+  },
+  {
+   "tipo": "width",
+   "ini": 43946,
+   "fin": 43948,
+   "texto": "22"
+  },
+  {
+   "tipo": "work",
+   "ini": 43955,
+   "fin": 44027,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "14. Composición lineal, 1920 \nLápiz de cera sobre papel \n34,5 x 21,9 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 43955,
+   "fin": 44027
+  },
+  {
+   "tipo": "title",
+   "ini": 43959,
+   "fin": 43977,
+   "texto": "Composición lineal"
+  },
+  {
+   "tipo": "date",
+   "ini": 43979,
+   "fin": 43983,
+   "rasgos": {
+    "when": "1920"
+   },
+   "texto": "1920"
+  },
+  {
+   "tipo": "technique",
+   "ini": 43985,
+   "fin": 44010,
+   "rasgos": {
+    "type": "crayon"
+   },
+   "texto": "Lápiz de cera sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44012,
+   "fin": 44026,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "34,5 x 21,9 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 44012,
+   "fin": 44016,
+   "texto": "34,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 44019,
+   "fin": 44023,
+   "texto": "21,9"
+  },
+  {
+   "tipo": "work",
+   "ini": 44030,
+   "fin": 44094,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "15. Construcción lineal, 1920 \nLápiz sobre papel\n35,5 x 20,7 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44030,
+   "fin": 44094
+  },
+  {
+   "tipo": "title",
+   "ini": 44034,
+   "fin": 44053,
+   "texto": "Construcción lineal"
+  },
+  {
+   "tipo": "date",
+   "ini": 44055,
+   "fin": 44059,
+   "rasgos": {
+    "when": "1920"
+   },
+   "texto": "1920"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44061,
+   "fin": 44078,
+   "rasgos": {
+    "type": "pencil"
+   },
+   "texto": "Lápiz sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44079,
+   "fin": 44093,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35,5 x 20,7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 44079,
+   "fin": 44083,
+   "texto": "35,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 44086,
+   "fin": 44090,
+   "texto": "20,7"
+  },
+  {
+   "tipo": "work",
+   "ini": 44097,
+   "fin": 44183,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "16. Bocetos para construcciones espaciales, 1920-21\nLápiz sobre papel \n35,5 x 20,6 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44097,
+   "fin": 44183
+  },
+  {
+   "tipo": "title",
+   "ini": 44101,
+   "fin": 44139,
+   "texto": "Bocetos para construcciones espaciales"
+  },
+  {
+   "tipo": "date",
+   "ini": 44141,
+   "fin": 44148,
+   "rasgos": {
+    "notBefore": "1920",
+    "notAfter": "1921"
+   },
+   "texto": "1920-21"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44149,
+   "fin": 44167,
+   "rasgos": {
+    "type": "pencil"
+   },
+   "texto": "Lápiz sobre papel "
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44168,
+   "fin": 44182,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35,5 x 20,6 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 44168,
+   "fin": 44172,
+   "texto": "35,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 44175,
+   "fin": 44179,
+   "texto": "20,6"
+  },
+  {
+   "tipo": "work",
+   "ini": 44186,
+   "fin": 44272,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "17. Bocetos para construcciones espaciales, 1920-21\nLápiz sobre papel \n34,5 x 22,2 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44186,
+   "fin": 44272
+  },
+  {
+   "tipo": "title",
+   "ini": 44190,
+   "fin": 44228,
+   "texto": "Bocetos para construcciones espaciales"
+  },
+  {
+   "tipo": "date",
+   "ini": 44230,
+   "fin": 44237,
+   "rasgos": {
+    "notBefore": "1920",
+    "notAfter": "1921"
+   },
+   "texto": "1920-21"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44238,
+   "fin": 44256,
+   "rasgos": {
+    "type": "pencil"
+   },
+   "texto": "Lápiz sobre papel "
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44257,
+   "fin": 44271,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "34,5 x 22,2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 44257,
+   "fin": 44261,
+   "texto": "34,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 44264,
+   "fin": 44268,
+   "texto": "22,2"
+  },
+  {
+   "tipo": "work",
+   "ini": 44275,
+   "fin": 44341,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "18. Dibujo arquitectónico, 1921 \nLápiz sobre papel\n35,5 x 22,2 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44275,
+   "fin": 44341
+  },
+  {
+   "tipo": "title",
+   "ini": 44279,
+   "fin": 44300,
+   "texto": "Dibujo arquitectónico"
+  },
+  {
+   "tipo": "date",
+   "ini": 44302,
+   "fin": 44306,
+   "rasgos": {
+    "when": "1921"
+   },
+   "texto": "1921"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44308,
+   "fin": 44325,
+   "rasgos": {
+    "type": "pencil"
+   },
+   "texto": "Lápiz sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44326,
+   "fin": 44340,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35,5 x 22,2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 44326,
+   "fin": 44330,
+   "texto": "35,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 44333,
+   "fin": 44337,
+   "texto": "22,2"
+  },
+  {
+   "tipo": "work",
+   "ini": 44344,
+   "fin": 44395,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "19. Composición, 1921 \nTiza sobre papel\n33 x 23 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44344,
+   "fin": 44395
+  },
+  {
+   "tipo": "title",
+   "ini": 44348,
+   "fin": 44359,
+   "texto": "Composición"
+  },
+  {
+   "tipo": "date",
+   "ini": 44361,
+   "fin": 44365,
+   "rasgos": {
+    "when": "1921"
+   },
+   "texto": "1921"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44367,
+   "fin": 44383,
+   "rasgos": {
+    "type": "chalk"
+   },
+   "texto": "Tiza sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44384,
+   "fin": 44394,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "33 x 23 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 44384,
+   "fin": 44386,
+   "texto": "33"
+  },
+  {
+   "tipo": "width",
+   "ini": 44389,
+   "fin": 44391,
+   "texto": "23"
+  },
+  {
+   "tipo": "work",
+   "ini": 44398,
+   "fin": 44476,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "20. Boceto para un \"Perpetuum mobile\", 1922 \nLápiz sobre papel\n35,5 x 20,5 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44398,
+   "fin": 44476
+  },
+  {
+   "tipo": "title",
+   "ini": 44402,
+   "fin": 44435,
+   "texto": "Boceto para un \"Perpetuum mobile\""
+  },
+  {
+   "tipo": "date",
+   "ini": 44437,
+   "fin": 44441,
+   "rasgos": {
+    "when": "1922"
+   },
+   "texto": "1922"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44443,
+   "fin": 44460,
+   "rasgos": {
+    "type": "pencil"
+   },
+   "texto": "Lápiz sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44461,
+   "fin": 44475,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35,5 x 20,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 44461,
+   "fin": 44465,
+   "texto": "35,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 44468,
+   "fin": 44472,
+   "texto": "20,5"
+  },
+  {
+   "tipo": "work",
+   "ini": 44479,
+   "fin": 44550,
+   "rasgos": {
+    "type": "engraving"
+   },
+   "texto": "21. Cartel publicitario para Dobrolet, 1923 \nLitografía\n35,7 x 45,7 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44479,
+   "fin": 44550
+  },
+  {
+   "tipo": "title",
+   "ini": 44483,
+   "fin": 44516,
+   "texto": "Cartel publicitario para Dobrolet"
+  },
+  {
+   "tipo": "date",
+   "ini": 44518,
+   "fin": 44522,
+   "rasgos": {
+    "when": "1923"
+   },
+   "texto": "1923"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44524,
+   "fin": 44534,
+   "rasgos": {
+    "type": "lithography"
+   },
+   "texto": "Litografía"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44535,
+   "fin": 44549,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35,7 x 45,7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 44535,
+   "fin": 44539,
+   "texto": "35,7"
+  },
+  {
+   "tipo": "width",
+   "ini": 44542,
+   "fin": 44546,
+   "texto": "45,7"
+  },
+  {
+   "tipo": "work",
+   "ini": 44553,
+   "fin": 44613,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "22. Boceto para la Banca Prom, 1924 \nGouache\n35,5 x 22,2 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44553,
+   "fin": 44613
+  },
+  {
+   "tipo": "title",
+   "ini": 44557,
+   "fin": 44582,
+   "texto": "Boceto para la Banca Prom"
+  },
+  {
+   "tipo": "date",
+   "ini": 44584,
+   "fin": 44588,
+   "rasgos": {
+    "when": "1924"
+   },
+   "texto": "1924"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44590,
+   "fin": 44597,
+   "rasgos": {
+    "type": "gouache"
+   },
+   "texto": "Gouache"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44598,
+   "fin": 44612,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "35,5 x 22,2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 44598,
+   "fin": 44602,
+   "texto": "35,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 44605,
+   "fin": 44609,
+   "texto": "22,2"
+  },
+  {
+   "tipo": "work",
+   "ini": 44616,
+   "fin": 44675,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "23. Textil (Dibujo abstracto), 1940 \nAcuarela\n36 x 20,6 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44616,
+   "fin": 44675
+  },
+  {
+   "tipo": "title",
+   "ini": 44620,
+   "fin": 44645,
+   "texto": "Textil (Dibujo abstracto)"
+  },
+  {
+   "tipo": "date",
+   "ini": 44647,
+   "fin": 44651,
+   "rasgos": {
+    "when": "1940"
+   },
+   "texto": "1940"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44653,
+   "fin": 44661,
+   "rasgos": {
+    "type": "watercolour"
+   },
+   "texto": "Acuarela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44662,
+   "fin": 44674,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "36 x 20,6 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 44662,
+   "fin": 44664,
+   "texto": "36"
+  },
+  {
+   "tipo": "width",
+   "ini": 44667,
+   "fin": 44671,
+   "texto": "20,6"
+  },
+  {
+   "tipo": "work",
+   "ini": 44678,
+   "fin": 44749,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "24. Composición decorativa, 1940 \nTinta china sobre papel\n38 x 20,5 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44678,
+   "fin": 44749
+  },
+  {
+   "tipo": "title",
+   "ini": 44682,
+   "fin": 44704,
+   "texto": "Composición decorativa"
+  },
+  {
+   "tipo": "date",
+   "ini": 44706,
+   "fin": 44710,
+   "rasgos": {
+    "when": "1940"
+   },
+   "texto": "1940"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44712,
+   "fin": 44735,
+   "rasgos": {
+    "type": "ink"
+   },
+   "texto": "Tinta china sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44736,
+   "fin": 44748,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "38 x 20,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 44736,
+   "fin": 44738,
+   "texto": "38"
+  },
+  {
+   "tipo": "width",
+   "ini": 44741,
+   "fin": 44745,
+   "texto": "20,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44752,
+   "fin": 44820
+  },
+  {
+   "tipo": "work",
+   "ini": 44752,
+   "fin": 44819,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "25. Composición abstracta, 1941 \nGouache y acuarela\n22,2 x 14,9 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 44756,
+   "fin": 44777,
+   "texto": "Composición abstracta"
+  },
+  {
+   "tipo": "date",
+   "ini": 44779,
+   "fin": 44783,
+   "rasgos": {
+    "when": "1941"
+   },
+   "texto": "1941"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44785,
+   "fin": 44803,
+   "rasgos": {
+    "type": "gouache, watercolour"
+   },
+   "texto": "Gouache y acuarela"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44804,
+   "fin": 44818,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "22,2 x 14,9 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 44804,
+   "fin": 44808,
+   "texto": "22,2"
+  },
+  {
+   "tipo": "width",
+   "ini": 44811,
+   "fin": 44815,
+   "texto": "14,9"
+  },
+  {
+   "tipo": "work",
+   "ini": 44822,
+   "fin": 44926,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "26. Composición decorativa . Boceto para un \ncuadro, 1941\nLápices de colores sobre papel \n12,6 x 9,7 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44822,
+   "fin": 44926
+  },
+  {
+   "tipo": "title",
+   "ini": 44826,
+   "fin": 44873,
+   "texto": "Composición decorativa . Boceto para un \ncuadro"
+  },
+  {
+   "tipo": "date",
+   "ini": 44875,
+   "fin": 44879,
+   "rasgos": {
+    "when": "1941"
+   },
+   "texto": "1941"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44880,
+   "fin": 44911,
+   "rasgos": {
+    "type": "colorPencil"
+   },
+   "texto": "Lápices de colores sobre papel "
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 44912,
+   "fin": 44925,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "12,6 x 9,7 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 44912,
+   "fin": 44916,
+   "texto": "12,6"
+  },
+  {
+   "tipo": "width",
+   "ini": 44919,
+   "fin": 44922,
+   "texto": "9,7"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 44941,
+   "fin": 45040
+  },
+  {
+   "tipo": "work",
+   "ini": 44941,
+   "fin": 45039,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "27. Construcción espacial nº 1, 1918/1993*\nÓleo sobre aluminio con base de madera\n70 x 24 x 20 cm."
+  },
+  {
+   "tipo": "title",
+   "ini": 44945,
+   "fin": 44971,
+   "texto": "Construcción espacial nº 1"
+  },
+  {
+   "tipo": "date",
+   "ini": 44973,
+   "fin": 44982,
+   "rasgos": {
+    "from": "1918",
+    "to": "1993"
+   },
+   "texto": "1918/1993"
+  },
+  {
+   "tipo": "technique",
+   "ini": 44984,
+   "fin": 45022,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre aluminio con base de madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45023,
+   "fin": 45038,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 24 x 20 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 45023,
+   "fin": 45025,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 45028,
+   "fin": 45030,
+   "texto": "24"
+  },
+  {
+   "tipo": "depth",
+   "ini": 45033,
+   "fin": 45035,
+   "texto": "20"
+  },
+  {
+   "tipo": "work",
+   "ini": 45042,
+   "fin": 45145,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "28. Construcción espacial nº 3, 1918/1993*\nÓleo sobre aluminio con base de madera \n51,5 x 27 x 26,5 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 45042,
+   "fin": 45145
+  },
+  {
+   "tipo": "title",
+   "ini": 45046,
+   "fin": 45072,
+   "texto": "Construcción espacial nº 3"
+  },
+  {
+   "tipo": "date",
+   "ini": 45074,
+   "fin": 45083,
+   "rasgos": {
+    "from": "1918",
+    "to": "1993"
+   },
+   "texto": "1918/1993"
+  },
+  {
+   "tipo": "technique",
+   "ini": 45085,
+   "fin": 45124,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre aluminio con base de madera "
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45125,
+   "fin": 45144,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "51,5 x 27 x 26,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 45125,
+   "fin": 45129,
+   "texto": "51,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 45132,
+   "fin": 45134,
+   "texto": "27"
+  },
+  {
+   "tipo": "depth",
+   "ini": 45137,
+   "fin": 45141,
+   "texto": "26,5"
+  },
+  {
+   "tipo": "work",
+   "ini": 45148,
+   "fin": 45248,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "29. Construcción espacial nº 4, 1918/1983* \nÓleo sobre aluminio con base de madera \n62 x 10 x 17 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 45148,
+   "fin": 45248
+  },
+  {
+   "tipo": "title",
+   "ini": 45152,
+   "fin": 45178,
+   "texto": "Construcción espacial nº 4"
+  },
+  {
+   "tipo": "date",
+   "ini": 45180,
+   "fin": 45189,
+   "rasgos": {
+    "from": "1918",
+    "to": "1983"
+   },
+   "texto": "1918/1983"
+  },
+  {
+   "tipo": "technique",
+   "ini": 45192,
+   "fin": 45231,
+   "rasgos": {
+    "type": "oil"
+   },
+   "texto": "Óleo sobre aluminio con base de madera "
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45232,
+   "fin": 45247,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "62 x 10 x 17 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 45232,
+   "fin": 45234,
+   "texto": "62"
+  },
+  {
+   "tipo": "width",
+   "ini": 45237,
+   "fin": 45239,
+   "texto": "10"
+  },
+  {
+   "tipo": "depth",
+   "ini": 45242,
+   "fin": 45244,
+   "texto": "17"
+  },
+  {
+   "tipo": "work",
+   "ini": 45251,
+   "fin": 45334,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "30. Construcción espacial blanca nº 5, 1918/1973*\nAluminio pintado\n46 x 39 x 34 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 45251,
+   "fin": 45334
+  },
+  {
+   "tipo": "title",
+   "ini": 45255,
+   "fin": 45288,
+   "texto": "Construcción espacial blanca nº 5"
+  },
+  {
+   "tipo": "date",
+   "ini": 45290,
+   "fin": 45299,
+   "rasgos": {
+    "from": "1918",
+    "to": "1973"
+   },
+   "texto": "1918/1973"
+  },
+  {
+   "tipo": "material",
+   "ini": 45301,
+   "fin": 45317,
+   "rasgos": {
+    "type": "aluminium"
+   },
+   "texto": "Aluminio pintado"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45318,
+   "fin": 45333,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 39 x 34 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 45318,
+   "fin": 45320,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 45323,
+   "fin": 45325,
+   "texto": "39"
+  },
+  {
+   "tipo": "depth",
+   "ini": 45328,
+   "fin": 45330,
+   "texto": "34"
+  },
+  {
+   "tipo": "work",
+   "ini": 45337,
+   "fin": 45422,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "31. Construcción espacial blanca nº 6, 1918/1973*\nAluminio pintado\n70 x 50 x 13,5 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 45337,
+   "fin": 45422
+  },
+  {
+   "tipo": "title",
+   "ini": 45341,
+   "fin": 45374,
+   "texto": "Construcción espacial blanca nº 6"
+  },
+  {
+   "tipo": "date",
+   "ini": 45376,
+   "fin": 45385,
+   "rasgos": {
+    "from": "1918",
+    "to": "1973"
+   },
+   "texto": "1918/1973"
+  },
+  {
+   "tipo": "material",
+   "ini": 45387,
+   "fin": 45403,
+   "rasgos": {
+    "type": "aluminium"
+   },
+   "texto": "Aluminio pintado"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45404,
+   "fin": 45421,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "70 x 50 x 13,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 45404,
+   "fin": 45406,
+   "texto": "70"
+  },
+  {
+   "tipo": "width",
+   "ini": 45409,
+   "fin": 45411,
+   "texto": "50"
+  },
+  {
+   "tipo": "depth",
+   "ini": 45414,
+   "fin": 45418,
+   "texto": "13,5"
+  },
+  {
+   "tipo": "work",
+   "ini": 45425,
+   "fin": 45555,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "32. El círculo en el círculo. Construcción espacial \nnº 9, 1920-21/1985*\nContrachapado de madera de melocotonero \n90 x 80 x 85 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 45425,
+   "fin": 45555
+  },
+  {
+   "tipo": "title",
+   "ini": 45429,
+   "fin": 45482,
+   "texto": "El círculo en el círculo. Construcción espacial \nnº 9"
+  },
+  {
+   "tipo": "date",
+   "ini": 45484,
+   "fin": 45496,
+   "rasgos": {
+    "notBefore": "1920",
+    "notAfter": "1921",
+    "to": "1985"
+   },
+   "texto": "1920-21/1985"
+  },
+  {
+   "tipo": "material",
+   "ini": 45498,
+   "fin": 45538,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Contrachapado de madera de melocotonero "
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45539,
+   "fin": 45554,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "90 x 80 x 85 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 45539,
+   "fin": 45541,
+   "texto": "90"
+  },
+  {
+   "tipo": "width",
+   "ini": 45544,
+   "fin": 45546,
+   "texto": "80"
+  },
+  {
+   "tipo": "depth",
+   "ini": 45549,
+   "fin": 45551,
+   "texto": "85"
+  },
+  {
+   "tipo": "work",
+   "ini": 45558,
+   "fin": 45657,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "33. El hexágono en el hexágono. Construcción \nespacial nº 10, 1920-21/1979*\nMadera\n59 x 68 x 59 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 45558,
+   "fin": 45657
+  },
+  {
+   "tipo": "title",
+   "ini": 45562,
+   "fin": 45619,
+   "texto": "El hexágono en el hexágono. Construcción \nespacial nº 10,"
+  },
+  {
+   "tipo": "date",
+   "ini": 45620,
+   "fin": 45632,
+   "rasgos": {
+    "notBefore": "1920",
+    "notAfter": "1921",
+    "to": "1979"
+   },
+   "texto": "1920-21/1979"
+  },
+  {
+   "tipo": "material",
+   "ini": 45634,
+   "fin": 45640,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45641,
+   "fin": 45656,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "59 x 68 x 59 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 45641,
+   "fin": 45643,
+   "texto": "59"
+  },
+  {
+   "tipo": "width",
+   "ini": 45646,
+   "fin": 45648,
+   "texto": "68"
+  },
+  {
+   "tipo": "depth",
+   "ini": 45651,
+   "fin": 45653,
+   "texto": "59"
+  },
+  {
+   "tipo": "work",
+   "ini": 45660,
+   "fin": 45784,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "34. El triángulo en el triángulo. Construcción \nespacial nº 13,1920-21/1993*\nChapado en madera de melocotón\n80 x 90 x 85 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 45660,
+   "fin": 45784
+  },
+  {
+   "tipo": "title",
+   "ini": 45664,
+   "fin": 45722,
+   "texto": "El triángulo en el triángulo. Construcción \nespacial nº 13"
+  },
+  {
+   "tipo": "date",
+   "ini": 45723,
+   "fin": 45735,
+   "rasgos": {
+    "notBefore": "1920",
+    "notAfter": "1921",
+    "to": "1993"
+   },
+   "texto": "1920-21/1993"
+  },
+  {
+   "tipo": "material",
+   "ini": 45737,
+   "fin": 45767,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Chapado en madera de melocotón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45768,
+   "fin": 45783,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "80 x 90 x 85 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 45768,
+   "fin": 45770,
+   "texto": "80"
+  },
+  {
+   "tipo": "width",
+   "ini": 45773,
+   "fin": 45775,
+   "texto": "90"
+  },
+  {
+   "tipo": "depth",
+   "ini": 45778,
+   "fin": 45780,
+   "texto": "85"
+  },
+  {
+   "tipo": "work",
+   "ini": 45787,
+   "fin": 45858,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "35. Construcción espacial nº 14, 1920-21/1983*\nMadera\n58 x 66 x 26 cm.\n"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 45787,
+   "fin": 45857
+  },
+  {
+   "tipo": "title",
+   "ini": 45791,
+   "fin": 45818,
+   "texto": "Construcción espacial nº 14"
+  },
+  {
+   "tipo": "date",
+   "ini": 45820,
+   "fin": 45832,
+   "rasgos": {
+    "notBefore": "1920",
+    "notAfter": "1921",
+    "to": "1983"
+   },
+   "texto": "1920-21/1983"
+  },
+  {
+   "tipo": "material",
+   "ini": 45834,
+   "fin": 45840,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45841,
+   "fin": 45856,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "58 x 66 x 26 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 45841,
+   "fin": 45843,
+   "texto": "58"
+  },
+  {
+   "tipo": "width",
+   "ini": 45846,
+   "fin": 45848,
+   "texto": "66"
+  },
+  {
+   "tipo": "depth",
+   "ini": 45851,
+   "fin": 45853,
+   "texto": "26"
+  },
+  {
+   "tipo": "work",
+   "ini": 45860,
+   "fin": 45927,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "36. Construcción espacial nº 15, 1920/1980* \nLatón\n46 x 42 x 28 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 45860,
+   "fin": 45927
+  },
+  {
+   "tipo": "title",
+   "ini": 45864,
+   "fin": 45891,
+   "texto": "Construcción espacial nº 15"
+  },
+  {
+   "tipo": "date",
+   "ini": 45893,
+   "fin": 45902,
+   "rasgos": {
+    "from": "1920",
+    "to": "1980"
+   },
+   "texto": "1920/1980"
+  },
+  {
+   "tipo": "material",
+   "ini": 45905,
+   "fin": 45910,
+   "rasgos": {
+    "type": "brass"
+   },
+   "texto": "Latón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45911,
+   "fin": 45926,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "46 x 42 x 28 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 45911,
+   "fin": 45913,
+   "texto": "46"
+  },
+  {
+   "tipo": "width",
+   "ini": 45916,
+   "fin": 45918,
+   "texto": "42"
+  },
+  {
+   "tipo": "depth",
+   "ini": 45921,
+   "fin": 45923,
+   "texto": "28"
+  },
+  {
+   "tipo": "work",
+   "ini": 45930,
+   "fin": 45998,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "37. Construcción espacial nº 16, 1920/1980* \nLatón\n94 x 45 x 45 cm.\n"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 45930,
+   "fin": 45997
+  },
+  {
+   "tipo": "title",
+   "ini": 45934,
+   "fin": 45961,
+   "texto": "Construcción espacial nº 16"
+  },
+  {
+   "tipo": "date",
+   "ini": 45963,
+   "fin": 45972,
+   "rasgos": {
+    "from": "1920",
+    "to": "1980"
+   },
+   "texto": "1920/1980"
+  },
+  {
+   "tipo": "material",
+   "ini": 45975,
+   "fin": 45980,
+   "rasgos": {
+    "type": "brass"
+   },
+   "texto": "Latón"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 45981,
+   "fin": 45996,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "94 x 45 x 45 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 45981,
+   "fin": 45983,
+   "texto": "94"
+  },
+  {
+   "tipo": "width",
+   "ini": 45986,
+   "fin": 45988,
+   "texto": "45"
+  },
+  {
+   "tipo": "depth",
+   "ini": 45991,
+   "fin": 45993,
+   "texto": "45"
+  },
+  {
+   "tipo": "work",
+   "ini": 46000,
+   "fin": 46083,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "38. Construcción espacial nº 18, 1920-21/1993* \nMadera de roble\n18,5 x 15,5 x 4 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46000,
+   "fin": 46083
+  },
+  {
+   "tipo": "title",
+   "ini": 46004,
+   "fin": 46031,
+   "texto": "Construcción espacial nº 18"
+  },
+  {
+   "tipo": "date",
+   "ini": 46033,
+   "fin": 46045,
+   "rasgos": {
+    "notBefore": "1920",
+    "notAfter": "1921",
+    "to": "1993"
+   },
+   "texto": "1920-21/1993"
+  },
+  {
+   "tipo": "material",
+   "ini": 46048,
+   "fin": 46063,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera de roble"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46064,
+   "fin": 46082,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "18,5 x 15,5 x 4 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 46064,
+   "fin": 46068,
+   "texto": "18,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 46071,
+   "fin": 46075,
+   "texto": "15,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 46078,
+   "fin": 46079,
+   "texto": "4"
+  },
+  {
+   "tipo": "work",
+   "ini": 46086,
+   "fin": 46162,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "39. Construcción espacial nº 19,1920-21/1993* \nMadera\n32,5 x 17,5 x 12,5 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46086,
+   "fin": 46162
+  },
+  {
+   "tipo": "title",
+   "ini": 46090,
+   "fin": 46117,
+   "texto": "Construcción espacial nº 19"
+  },
+  {
+   "tipo": "date",
+   "ini": 46118,
+   "fin": 46130,
+   "rasgos": {
+    "notBefore": "1920",
+    "notAfter": "1921",
+    "to": "1993"
+   },
+   "texto": "1920-21/1993"
+  },
+  {
+   "tipo": "material",
+   "ini": 46133,
+   "fin": 46139,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46140,
+   "fin": 46161,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "32,5 x 17,5 x 12,5 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 46140,
+   "fin": 46144,
+   "texto": "32,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 46147,
+   "fin": 46151,
+   "texto": "17,5"
+  },
+  {
+   "tipo": "depth",
+   "ini": 46154,
+   "fin": 46158,
+   "texto": "12,5"
+  },
+  {
+   "tipo": "work",
+   "ini": 46165,
+   "fin": 46236,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "40. Construcción espacial nº 20, 1920-21/1990* \nMadera\n27 x 27 x 27 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46165,
+   "fin": 46236
+  },
+  {
+   "tipo": "title",
+   "ini": 46169,
+   "fin": 46196,
+   "texto": "Construcción espacial nº 20"
+  },
+  {
+   "tipo": "date",
+   "ini": 46198,
+   "fin": 46210,
+   "rasgos": {
+    "notBefore": "1920",
+    "notAfter": "1921",
+    "to": "1990"
+   },
+   "texto": "1920-21/1990"
+  },
+  {
+   "tipo": "material",
+   "ini": 46213,
+   "fin": 46219,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46220,
+   "fin": 46235,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "27 x 27 x 27 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 46220,
+   "fin": 46222,
+   "texto": "27"
+  },
+  {
+   "tipo": "width",
+   "ini": 46225,
+   "fin": 46227,
+   "texto": "27"
+  },
+  {
+   "tipo": "depth",
+   "ini": 46230,
+   "fin": 46232,
+   "texto": "27"
+  },
+  {
+   "tipo": "work",
+   "ini": 46239,
+   "fin": 46310,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "41. Construcción espacial nº 21, 1920-21/1988* \nMadera\n25 x 15 x 15 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46239,
+   "fin": 46310
+  },
+  {
+   "tipo": "title",
+   "ini": 46243,
+   "fin": 46270,
+   "texto": "Construcción espacial nº 21"
+  },
+  {
+   "tipo": "date",
+   "ini": 46272,
+   "fin": 46284,
+   "rasgos": {
+    "notBefore": "1920",
+    "notAfter": "1921",
+    "to": "1988"
+   },
+   "texto": "1920-21/1988"
+  },
+  {
+   "tipo": "material",
+   "ini": 46287,
+   "fin": 46293,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46294,
+   "fin": 46309,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "25 x 15 x 15 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 46294,
+   "fin": 46296,
+   "texto": "25"
+  },
+  {
+   "tipo": "width",
+   "ini": 46299,
+   "fin": 46301,
+   "texto": "15"
+  },
+  {
+   "tipo": "depth",
+   "ini": 46304,
+   "fin": 46306,
+   "texto": "15"
+  },
+  {
+   "tipo": "work",
+   "ini": 46313,
+   "fin": 46384,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "42. Construcción espacial nº 22, 1920-21/1983* \nMadera\n34 x 34 x 24 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46313,
+   "fin": 46384
+  },
+  {
+   "tipo": "title",
+   "ini": 46317,
+   "fin": 46344,
+   "texto": "Construcción espacial nº 22"
+  },
+  {
+   "tipo": "date",
+   "ini": 46346,
+   "fin": 46358,
+   "rasgos": {
+    "notBefore": "1920",
+    "notAfter": "1921",
+    "to": "1983"
+   },
+   "texto": "1920-21/1983"
+  },
+  {
+   "tipo": "material",
+   "ini": 46361,
+   "fin": 46367,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46368,
+   "fin": 46383,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "34 x 34 x 24 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 46368,
+   "fin": 46370,
+   "texto": "34"
+  },
+  {
+   "tipo": "width",
+   "ini": 46373,
+   "fin": 46375,
+   "texto": "34"
+  },
+  {
+   "tipo": "depth",
+   "ini": 46378,
+   "fin": 46380,
+   "texto": "24"
+  },
+  {
+   "tipo": "work",
+   "ini": 46387,
+   "fin": 46458,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "43. Construcción espacial nº 27, 1920-21/1993* \nMadera\n21 x 21 x 16 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46387,
+   "fin": 46458
+  },
+  {
+   "tipo": "title",
+   "ini": 46391,
+   "fin": 46418,
+   "texto": "Construcción espacial nº 27"
+  },
+  {
+   "tipo": "date",
+   "ini": 46420,
+   "fin": 46432,
+   "rasgos": {
+    "notBefore": "1920",
+    "notAfter": "1921",
+    "to": "1993"
+   },
+   "texto": "1920-21/1993"
+  },
+  {
+   "tipo": "material",
+   "ini": 46435,
+   "fin": 46441,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46442,
+   "fin": 46457,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "21 x 21 x 16 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 46442,
+   "fin": 46444,
+   "texto": "21"
+  },
+  {
+   "tipo": "width",
+   "ini": 46447,
+   "fin": 46449,
+   "texto": "21"
+  },
+  {
+   "tipo": "depth",
+   "ini": 46452,
+   "fin": 46454,
+   "texto": "16"
+  },
+  {
+   "tipo": "work",
+   "ini": 46461,
+   "fin": 46531,
+   "rasgos": {
+    "type": "sculpture"
+   },
+   "texto": "44. Construcción espacial nº 28, 1920-21/1987* \nMadera\n23 x 20 x 15 cm"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46461,
+   "fin": 46531
+  },
+  {
+   "tipo": "title",
+   "ini": 46465,
+   "fin": 46492,
+   "texto": "Construcción espacial nº 28"
+  },
+  {
+   "tipo": "date",
+   "ini": 46494,
+   "fin": 46506,
+   "rasgos": {
+    "notBefore": "1920",
+    "notAfter": "1921",
+    "to": "1987"
+   },
+   "texto": "1920-21/1987"
+  },
+  {
+   "tipo": "material",
+   "ini": 46509,
+   "fin": 46515,
+   "rasgos": {
+    "type": "wood"
+   },
+   "texto": "Madera"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46516,
+   "fin": 46531,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "23 x 20 x 15 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 46516,
+   "fin": 46518,
+   "texto": "23"
+  },
+  {
+   "tipo": "width",
+   "ini": 46521,
+   "fin": 46523,
+   "texto": "20"
+  },
+  {
+   "tipo": "depth",
+   "ini": 46526,
+   "fin": 46528,
+   "texto": "15"
+  },
+  {
+   "tipo": "work",
+   "ini": 46574,
+   "fin": 46615,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "45. Rayas, 1928 \nFotograma \n29,5 x 24 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46574,
+   "fin": 46615
+  },
+  {
+   "tipo": "title",
+   "ini": 46578,
+   "fin": 46583,
+   "texto": "Rayas"
+  },
+  {
+   "tipo": "date",
+   "ini": 46585,
+   "fin": 46589,
+   "rasgos": {
+    "when": "1928"
+   },
+   "texto": "1928"
+  },
+  {
+   "tipo": "technique",
+   "ini": 46591,
+   "fin": 46600,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotograma"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46602,
+   "fin": 46614,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "29,5 x 24 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 46602,
+   "fin": 46606,
+   "texto": "29,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 46609,
+   "fin": 46611,
+   "texto": "24"
+  },
+  {
+   "tipo": "work",
+   "ini": 46618,
+   "fin": 46698,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "46. Estrellas (Para el Álbum \"El Ejército Rojo'), 1936\nFotograma\n28,5 x 21,8 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46618,
+   "fin": 46698
+  },
+  {
+   "tipo": "title",
+   "ini": 46622,
+   "fin": 46666,
+   "texto": "Estrellas (Para el Álbum \"El Ejército Rojo')"
+  },
+  {
+   "tipo": "date",
+   "ini": 46668,
+   "fin": 46672,
+   "rasgos": {
+    "when": "1936"
+   },
+   "texto": "1936"
+  },
+  {
+   "tipo": "technique",
+   "ini": 46673,
+   "fin": 46682,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotograma"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46683,
+   "fin": 46697,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "28,5 x 21,8 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 46683,
+   "fin": 46687,
+   "texto": "28,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 46690,
+   "fin": 46694,
+   "texto": "21,8"
+  },
+  {
+   "tipo": "work",
+   "ini": 46701,
+   "fin": 46756,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "47. Construcción espacial, 1924 \nFotografía\n24 x 18 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46701,
+   "fin": 46756
+  },
+  {
+   "tipo": "title",
+   "ini": 46705,
+   "fin": 46726,
+   "texto": "Construcción espacial"
+  },
+  {
+   "tipo": "date",
+   "ini": 46728,
+   "fin": 46732,
+   "rasgos": {
+    "when": "1924"
+   },
+   "texto": "1924"
+  },
+  {
+   "tipo": "technique",
+   "ini": 46734,
+   "fin": 46744,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46745,
+   "fin": 46755,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "24 x 18 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 46745,
+   "fin": 46747,
+   "texto": "24"
+  },
+  {
+   "tipo": "width",
+   "ini": 46750,
+   "fin": 46752,
+   "texto": "18"
+  },
+  {
+   "tipo": "work",
+   "ini": 46759,
+   "fin": 46816,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "48. Construcción espacial, 1924 \nFotografía\n24,1 x 18 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46759,
+   "fin": 46816
+  },
+  {
+   "tipo": "title",
+   "ini": 46763,
+   "fin": 46784,
+   "texto": "Construcción espacial"
+  },
+  {
+   "tipo": "date",
+   "ini": 46786,
+   "fin": 46790,
+   "rasgos": {
+    "when": "1924"
+   },
+   "texto": "1924"
+  },
+  {
+   "tipo": "technique",
+   "ini": 46792,
+   "fin": 46802,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46803,
+   "fin": 46815,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "24,1 x 18 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 46803,
+   "fin": 46807,
+   "texto": "24,1"
+  },
+  {
+   "tipo": "width",
+   "ini": 46810,
+   "fin": 46812,
+   "texto": "18"
+  },
+  {
+   "tipo": "work",
+   "ini": 46819,
+   "fin": 46892,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "49. Columnas del Museo de la Revolución, 1926 \nFotografía\n37,8 x 26,9 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46819,
+   "fin": 46892
+  },
+  {
+   "tipo": "title",
+   "ini": 46823,
+   "fin": 46858,
+   "texto": "Columnas del Museo de la Revolución"
+  },
+  {
+   "tipo": "date",
+   "ini": 46860,
+   "fin": 46864,
+   "rasgos": {
+    "when": "1926"
+   },
+   "texto": "1926"
+  },
+  {
+   "tipo": "technique",
+   "ini": 46866,
+   "fin": 46876,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46877,
+   "fin": 46891,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "37,8 x 26,9 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 46877,
+   "fin": 46881,
+   "texto": "37,8"
+  },
+  {
+   "tipo": "width",
+   "ini": 46884,
+   "fin": 46888,
+   "texto": "26,9"
+  },
+  {
+   "tipo": "work",
+   "ini": 46895,
+   "fin": 46951,
+   "texto": "50. El edificio Mosselprom, 1926 \nFotografía\n24 x 18 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46895,
+   "fin": 46951
+  },
+  {
+   "tipo": "title",
+   "ini": 46899,
+   "fin": 46921,
+   "texto": "El edificio Mosselprom"
+  },
+  {
+   "tipo": "date",
+   "ini": 46923,
+   "fin": 46927,
+   "rasgos": {
+    "when": "1926"
+   },
+   "texto": "1926"
+  },
+  {
+   "tipo": "technique",
+   "ini": 46929,
+   "fin": 46939,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46940,
+   "fin": 46950,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "24 x 18 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 46940,
+   "fin": 46942,
+   "texto": "24"
+  },
+  {
+   "tipo": "width",
+   "ini": 46945,
+   "fin": 46947,
+   "texto": "18"
+  },
+  {
+   "tipo": "work",
+   "ini": 46954,
+   "fin": 47002,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "51. Copa y luz, 1928 \nFotografía\n17,5 x 12,2 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 46954,
+   "fin": 47002
+  },
+  {
+   "tipo": "title",
+   "ini": 46958,
+   "fin": 46968,
+   "texto": "Copa y luz"
+  },
+  {
+   "tipo": "date",
+   "ini": 46970,
+   "fin": 46974,
+   "rasgos": {
+    "when": "1928"
+   },
+   "texto": "1928"
+  },
+  {
+   "tipo": "technique",
+   "ini": 46976,
+   "fin": 46986,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 46987,
+   "fin": 47001,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "17,5 x 12,2 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 46987,
+   "fin": 46991,
+   "texto": "17,5"
+  },
+  {
+   "tipo": "width",
+   "ini": 46994,
+   "fin": 46998,
+   "texto": "12,2"
+  },
+  {
+   "tipo": "work",
+   "ini": 47005,
+   "fin": 47046,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "52. Cables, 1929\nFotografía\n24 x 17,9 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 47005,
+   "fin": 47046
+  },
+  {
+   "tipo": "title",
+   "ini": 47009,
+   "fin": 47015,
+   "texto": "Cables"
+  },
+  {
+   "tipo": "date",
+   "ini": 47017,
+   "fin": 47021,
+   "rasgos": {
+    "when": "1929"
+   },
+   "texto": "1929"
+  },
+  {
+   "tipo": "technique",
+   "ini": 47022,
+   "fin": 47032,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47033,
+   "fin": 47045,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "24 x 17,9 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 47033,
+   "fin": 47035,
+   "texto": "24"
+  },
+  {
+   "tipo": "width",
+   "ini": 47038,
+   "fin": 47042,
+   "texto": "17,9"
+  },
+  {
+   "tipo": "work",
+   "ini": 47049,
+   "fin": 47109,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "53. El edificio Mosselprom, 1929 \nFotografía\n23,8 x 15,9 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 47049,
+   "fin": 47109
+  },
+  {
+   "tipo": "title",
+   "ini": 47053,
+   "fin": 47075,
+   "texto": "El edificio Mosselprom"
+  },
+  {
+   "tipo": "date",
+   "ini": 47077,
+   "fin": 47081,
+   "rasgos": {
+    "when": "1929"
+   },
+   "texto": "1929"
+  },
+  {
+   "tipo": "technique",
+   "ini": 47083,
+   "fin": 47093,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47094,
+   "fin": 47108,
+   "rasgos": {
+    "unit": "cm+"
+   },
+   "texto": "23,8 x 15,9 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 47094,
+   "fin": 47098,
+   "texto": "23,8"
+  },
+  {
+   "tipo": "width",
+   "ini": 47101,
+   "fin": 47105,
+   "texto": "15,9"
+  },
+  {
+   "tipo": "work",
+   "ini": 47112,
+   "fin": 47192,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "54. Apolo en lo alto del Teatro Bolshoi en Moscú,\n1929 \nFotografía\n11,6 x 17 cm "
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 47112,
+   "fin": 47192
+  },
+  {
+   "tipo": "title",
+   "ini": 47116,
+   "fin": 47160,
+   "texto": "Apolo en lo alto del Teatro Bolshoi en Moscú"
+  },
+  {
+   "tipo": "date",
+   "ini": 47162,
+   "fin": 47166,
+   "rasgos": {
+    "when": "1929"
+   },
+   "texto": "1929"
+  },
+  {
+   "tipo": "technique",
+   "ini": 47168,
+   "fin": 47178,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47179,
+   "fin": 47192,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "11,6 x 17 cm "
+  },
+  {
+   "tipo": "height",
+   "ini": 47179,
+   "fin": 47183,
+   "texto": "11,6"
+  },
+  {
+   "tipo": "width",
+   "ini": 47186,
+   "fin": 47188,
+   "texto": "17"
+  },
+  {
+   "tipo": "work",
+   "ini": 47195,
+   "fin": 47275,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "55. En el aserradero Vakhtan (tablones apilados), 1931\nFotografía \n17,2 x 23 cm."
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 47195,
+   "fin": 47275
+  },
+  {
+   "tipo": "title",
+   "ini": 47199,
+   "fin": 47243,
+   "texto": "En el aserradero Vakhtan (tablones apilados)"
+  },
+  {
+   "tipo": "date",
+   "ini": 47245,
+   "fin": 47249,
+   "rasgos": {
+    "when": "1931"
+   },
+   "texto": "1931"
+  },
+  {
+   "tipo": "technique",
+   "ini": 47250,
+   "fin": 47260,
+   "rasgos": {
+    "type": "photograph"
+   },
+   "texto": "Fotografía"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 47262,
+   "fin": 47274,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "17,2 x 23 cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 47262,
+   "fin": 47266,
+   "texto": "17,2"
+  },
+  {
+   "tipo": "width",
+   "ini": 47269,
+   "fin": 47271,
+   "texto": "23"
+  },
+  {
+   "tipo": "institution",
+   "ini": 47286,
+   "fin": 47304,
+   "rasgos": {
+    "type": "gallery",
+    "role": "lender"
+   },
+   "texto": "Galería Gmurzynska"
+  },
+  {
+   "tipo": "institution",
+   "ini": 47317,
+   "fin": 47348,
+   "rasgos": {
+    "type": "museum",
+    "role": "host"
+   },
+   "texto": "Museo de Arte Abstracto Español"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 47350,
+   "fin": 47356,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "Cuenca"
+  },
+  {
+   "tipo": "date",
+   "ini": 47358,
+   "fin": 47362,
+   "rasgos": {
+    "when": "2001"
+   },
+   "texto": "2001"
+  },
+  {
+   "tipo": "person",
+   "ini": 47415,
+   "fin": 47433,
+   "rasgos": {
+    "role": "textAuthor"
+   },
+   "texto": "Alexandr Ródchenko"
+  },
+  {
+   "tipo": "persName",
+   "ini": 47415,
+   "fin": 47433,
+   "texto": "Alexandr Ródchenko"
+  },
+  {
+   "tipo": "person",
+   "ini": 47446,
+   "fin": 47464,
+   "rasgos": {
+    "role": "translator"
+   },
+   "texto": "M.ª Luisa Balseiro"
+  },
+  {
+   "tipo": "persName",
+   "ini": 47446,
+   "fin": 47464,
+   "texto": "M.ª Luisa Balseiro"
+  },
+  {
+   "tipo": "person",
+   "ini": 47482,
+   "fin": 47496,
+   "rasgos": {
+    "role": "catalogueDesigner"
+   },
+   "texto": "Jordi Teixidor"
+  },
+  {
+   "tipo": "persName",
+   "ini": 47482,
+   "fin": 47496,
+   "texto": "Jordi Teixidor"
+  },
+  {
+   "tipo": "institution",
+   "ini": 47619,
+   "fin": 47639,
+   "rasgos": {
+    "type": "foundation",
+    "role": "host"
+   },
+   "texto": "Fundación Juan March"
+  }
+ ]
+}

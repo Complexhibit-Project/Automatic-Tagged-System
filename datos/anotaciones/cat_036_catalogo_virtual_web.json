@@ -1,0 +1,2260 @@
+{
+ "id": "cat_036_catalogo_virtual_web",
+ "nombre_original": "Catalogo virtual web",
+ "longitud_texto": 4708,
+ "sha256_texto": "39a32f56349e7cfab551d2e8ea1aa125c8f5522bd374be67257e8c865dcdb823",
+ "nota": "Posiciones en caracteres sobre el texto del documento GATE original. El texto íntegro no se incluye por derechos de autor; el resumen sha256 permite comprobar que se dispone del mismo texto.",
+ "anotaciones": [
+  {
+   "tipo": "exhibition",
+   "ini": 0,
+   "fin": 518,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 0,
+   "fin": 12,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jesús Arenas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 0,
+   "fin": 12,
+   "texto": "Jesús Arenas"
+  },
+  {
+   "tipo": "person",
+   "ini": 13,
+   "fin": 26,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pedro Almeida"
+  },
+  {
+   "tipo": "persName",
+   "ini": 13,
+   "fin": 26,
+   "texto": "Pedro Almeida"
+  },
+  {
+   "tipo": "person",
+   "ini": 27,
+   "fin": 41,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Helen Acuaviva"
+  },
+  {
+   "tipo": "persName",
+   "ini": 27,
+   "fin": 41,
+   "texto": "Helen Acuaviva"
+  },
+  {
+   "tipo": "person",
+   "ini": 42,
+   "fin": 61,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Manuel Benitez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 42,
+   "fin": 61,
+   "texto": "Juan Manuel Benitez"
+  },
+  {
+   "tipo": "person",
+   "ini": 62,
+   "fin": 72,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Julia B.C."
+  },
+  {
+   "tipo": "persName",
+   "ini": 62,
+   "fin": 72,
+   "texto": "Julia B.C."
+  },
+  {
+   "tipo": "person",
+   "ini": 73,
+   "fin": 87,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Andrés Cabrero"
+  },
+  {
+   "tipo": "persName",
+   "ini": 73,
+   "fin": 87,
+   "texto": "Andrés Cabrero"
+  },
+  {
+   "tipo": "person",
+   "ini": 88,
+   "fin": 96,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paul Eme"
+  },
+  {
+   "tipo": "persName",
+   "ini": 88,
+   "fin": 96,
+   "texto": "Paul Eme"
+  },
+  {
+   "tipo": "person",
+   "ini": 97,
+   "fin": 119,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Antonio Fernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 97,
+   "fin": 119,
+   "texto": "Juan Antonio Fernández"
+  },
+  {
+   "tipo": "person",
+   "ini": 120,
+   "fin": 135,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Julia Fernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 120,
+   "fin": 135,
+   "texto": "Julia Fernández"
+  },
+  {
+   "tipo": "person",
+   "ini": 136,
+   "fin": 150,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Colérica Finch"
+  },
+  {
+   "tipo": "persName",
+   "ini": 136,
+   "fin": 150,
+   "texto": "Colérica Finch"
+  },
+  {
+   "tipo": "person",
+   "ini": 151,
+   "fin": 159,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "María LD"
+  },
+  {
+   "tipo": "persName",
+   "ini": 151,
+   "fin": 159,
+   "texto": "María LD"
+  },
+  {
+   "tipo": "person",
+   "ini": 160,
+   "fin": 174,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Concha Gavilán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 160,
+   "fin": 174,
+   "texto": "Concha Gavilán"
+  },
+  {
+   "tipo": "person",
+   "ini": 175,
+   "fin": 184,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Celia Gas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 175,
+   "fin": 184,
+   "texto": "Celia Gas"
+  },
+  {
+   "tipo": "person",
+   "ini": 185,
+   "fin": 199,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sofía González"
+  },
+  {
+   "tipo": "persName",
+   "ini": 185,
+   "fin": 199,
+   "texto": "Sofía González"
+  },
+  {
+   "tipo": "person",
+   "ini": 200,
+   "fin": 214,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel Jiménez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 200,
+   "fin": 214,
+   "texto": "Manuel Jiménez"
+  },
+  {
+   "tipo": "person",
+   "ini": 215,
+   "fin": 227,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Elena Moreno"
+  },
+  {
+   "tipo": "persName",
+   "ini": 215,
+   "fin": 227,
+   "texto": "Elena Moreno"
+  },
+  {
+   "tipo": "person",
+   "ini": 228,
+   "fin": 243,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Martín"
+  },
+  {
+   "tipo": "persName",
+   "ini": 228,
+   "fin": 243,
+   "texto": "Fernando Martín"
+  },
+  {
+   "tipo": "person",
+   "ini": 244,
+   "fin": 258,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eduardo Molina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 244,
+   "fin": 258,
+   "texto": "Eduardo Molina"
+  },
+  {
+   "tipo": "person",
+   "ini": 259,
+   "fin": 274,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ana I. Bolinaga"
+  },
+  {
+   "tipo": "persName",
+   "ini": 259,
+   "fin": 274,
+   "texto": "Ana I. Bolinaga"
+  },
+  {
+   "tipo": "person",
+   "ini": 275,
+   "fin": 287,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "DammaPersalt"
+  },
+  {
+   "tipo": "persName",
+   "ini": 275,
+   "fin": 287,
+   "texto": "DammaPersalt"
+  },
+  {
+   "tipo": "person",
+   "ini": 288,
+   "fin": 303,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Santana"
+  },
+  {
+   "tipo": "persName",
+   "ini": 288,
+   "fin": 303,
+   "texto": "Antonio Santana"
+  },
+  {
+   "tipo": "person",
+   "ini": 304,
+   "fin": 318,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Marisa Serrano"
+  },
+  {
+   "tipo": "persName",
+   "ini": 304,
+   "fin": 318,
+   "texto": "Marisa Serrano"
+  },
+  {
+   "tipo": "person",
+   "ini": 319,
+   "fin": 326,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Z.ari.S"
+  },
+  {
+   "tipo": "persName",
+   "ini": 319,
+   "fin": 326,
+   "texto": "Z.ari.S"
+  },
+  {
+   "tipo": "person",
+   "ini": 327,
+   "fin": 341,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Rosacruz Trigo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 327,
+   "fin": 341,
+   "texto": "Rosacruz Trigo"
+  },
+  {
+   "tipo": "person",
+   "ini": 342,
+   "fin": 355,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Marta Vázquez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 342,
+   "fin": 355,
+   "texto": "Marta Vázquez"
+  },
+  {
+   "tipo": "title",
+   "ini": 359,
+   "fin": 368,
+   "texto": "METASKENE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 372,
+   "fin": 390,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "FACULTAD DE BELLAS"
+  },
+  {
+   "tipo": "date",
+   "ini": 417,
+   "fin": 454,
+   "rasgos": {
+    "from": "2016-12-16",
+    "to": "2017-01-18"
+   },
+   "texto": "16 de diciembre - 18 de enero de 2017"
+  },
+  {
+   "tipo": "institution",
+   "ini": 455,
+   "fin": 506,
+   "rasgos": {
+    "type": "university",
+    "role": ""
+   },
+   "texto": "ESPACIO PASILLO FACULTAD DE BELLAS ARTES DE SEVILLA"
+  },
+  {
+   "tipo": "venue",
+   "ini": 455,
+   "fin": 470,
+   "texto": "ESPACIO PASILLO"
+  },
+  {
+   "tipo": "placeName",
+   "ini": 499,
+   "fin": 506,
+   "rasgos": {
+    "type": "poblation"
+   },
+   "texto": "SEVILLA"
+  },
+  {
+   "tipo": "title",
+   "ini": 508,
+   "fin": 517,
+   "texto": "METASKENE"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 524,
+   "fin": 683,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 556,
+   "fin": 565,
+   "texto": "METASKENE"
+  },
+  {
+   "tipo": "institution",
+   "ini": 585,
+   "fin": 631,
+   "rasgos": {
+    "type": "university",
+    "role": "organiser"
+   },
+   "texto": "Espacio Pasillo de la Facultad de Bellas Artes"
+  },
+  {
+   "tipo": "venue",
+   "ini": 585,
+   "fin": 600,
+   "texto": "Espacio Pasillo"
+  },
+  {
+   "tipo": "date",
+   "ini": 642,
+   "fin": 682,
+   "rasgos": {
+    "from": "2016-12-16",
+    "to": "2017-01-18"
+   },
+   "texto": "16 de diciembre y el 18 de enero de 2017"
+  },
+  {
+   "tipo": "title",
+   "ini": 685,
+   "fin": 694,
+   "texto": "METASKENE"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 685,
+   "fin": 694,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 1054,
+   "fin": 1063,
+   "texto": "METASKENE"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1054,
+   "fin": 1063,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 1155,
+   "fin": 1164,
+   "texto": "METASKENE"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1155,
+   "fin": 1164,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 1535,
+   "fin": 1544,
+   "texto": "METASKENE"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1535,
+   "fin": 1544,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 1811,
+   "fin": 1820,
+   "texto": "METASKENE"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 1811,
+   "fin": 1820,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "title",
+   "ini": 2492,
+   "fin": 2501,
+   "texto": "METASKENE"
+  },
+  {
+   "tipo": "exhibition",
+   "ini": 2492,
+   "fin": 2501,
+   "rasgos": {
+    "ref": "current"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 2504,
+   "fin": 2518,
+   "rasgos": {
+    "role": "creator, author"
+   },
+   "texto": "Rosacruz Trigo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2504,
+   "fin": 2518,
+   "texto": "Rosacruz Trigo"
+  },
+  {
+   "tipo": "catalogue",
+   "ini": 2522,
+   "fin": 4705
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2522,
+   "fin": 2598
+  },
+  {
+   "tipo": "img",
+   "ini": 2522,
+   "fin": 2527,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2529,
+   "fin": 2568,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Pedro Almeida García\r\nSin título\r\n15cm\r"
+  },
+  {
+   "tipo": "person",
+   "ini": 2529,
+   "fin": 2549,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Pedro Almeida García"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2529,
+   "fin": 2549,
+   "texto": "Pedro Almeida García"
+  },
+  {
+   "tipo": "title",
+   "ini": 2551,
+   "fin": 2561,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2563,
+   "fin": 2567,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "15cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 2563,
+   "fin": 2565,
+   "texto": "15"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2601,
+   "fin": 2657
+  },
+  {
+   "tipo": "img",
+   "ini": 2601,
+   "fin": 2606,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2608,
+   "fin": 2657,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Jesús Arenas Civantos\r\nRotring sobre papel\r\n15cm\r"
+  },
+  {
+   "tipo": "person",
+   "ini": 2608,
+   "fin": 2629,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Jesús Arenas Civantos"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2608,
+   "fin": 2629,
+   "texto": "Jesús Arenas Civantos"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2631,
+   "fin": 2650,
+   "rasgos": {
+    "type": "rotring"
+   },
+   "texto": "Rotring sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2652,
+   "fin": 2656,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "15cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 2652,
+   "fin": 2654,
+   "texto": "15"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2660,
+   "fin": 2746
+  },
+  {
+   "tipo": "img",
+   "ini": 2660,
+   "fin": 2665,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2667,
+   "fin": 2719,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Helen Acuaviva\r\nSt.\r\nPosca negro sobre papel\r\n12 cm\r"
+  },
+  {
+   "tipo": "person",
+   "ini": 2667,
+   "fin": 2681,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Helen Acuaviva"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2667,
+   "fin": 2681,
+   "texto": "Helen Acuaviva"
+  },
+  {
+   "tipo": "title",
+   "ini": 2683,
+   "fin": 2686,
+   "texto": "St."
+  },
+  {
+   "tipo": "technique",
+   "ini": 2688,
+   "fin": 2711,
+   "rasgos": {
+    "type": "feltTipPen"
+   },
+   "texto": "Posca negro sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2713,
+   "fin": 2718,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "12 cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 2713,
+   "fin": 2715,
+   "texto": "12"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2749,
+   "fin": 2824
+  },
+  {
+   "tipo": "img",
+   "ini": 2749,
+   "fin": 2754,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2756,
+   "fin": 2823,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Juan Manuel Benitez Grima\r\nLeche de vaca\r\nLápiz sobre papel\r\n9,2 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 2756,
+   "fin": 2781,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Manuel Benitez Grima"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2756,
+   "fin": 2781,
+   "texto": "Juan Manuel Benitez Grima"
+  },
+  {
+   "tipo": "title",
+   "ini": 2783,
+   "fin": 2796,
+   "texto": "Leche de vaca"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2798,
+   "fin": 2815,
+   "rasgos": {
+    "type": "pencil"
+   },
+   "texto": "Lápiz sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2817,
+   "fin": 2823,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "9,2 cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 2817,
+   "fin": 2820,
+   "texto": "9,2"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2827,
+   "fin": 2955
+  },
+  {
+   "tipo": "img",
+   "ini": 2827,
+   "fin": 2832,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2834,
+   "fin": 2931,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Julia BC\r\nCuando los monstruos no quieren\r\nser monstruos\r\nAcuarela y bolígrafo sobre papel\r\n13 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 2834,
+   "fin": 2842,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Julia BC"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2834,
+   "fin": 2842,
+   "texto": "Julia BC"
+  },
+  {
+   "tipo": "title",
+   "ini": 2844,
+   "fin": 2890,
+   "texto": "Cuando los monstruos no quieren\r\nser monstruos"
+  },
+  {
+   "tipo": "technique",
+   "ini": 2892,
+   "fin": 2924,
+   "rasgos": {
+    "type": "feltTipPen, watercolour"
+   },
+   "texto": "Acuarela y bolígrafo sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 2926,
+   "fin": 2931,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "13 cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 2926,
+   "fin": 2928,
+   "texto": "13"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 2958,
+   "fin": 3025
+  },
+  {
+   "tipo": "img",
+   "ini": 2958,
+   "fin": 2963,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 2965,
+   "fin": 3014,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Andrés Cabrero - ACRE\r\ninstall.res.3082.dll\r\n15cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 2965,
+   "fin": 2986,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Andrés Cabrero - ACRE"
+  },
+  {
+   "tipo": "persName",
+   "ini": 2965,
+   "fin": 2986,
+   "texto": "Andrés Cabrero - ACRE"
+  },
+  {
+   "tipo": "title",
+   "ini": 2988,
+   "fin": 3008,
+   "texto": "install.res.3082.dll"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3010,
+   "fin": 3014,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "15cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 3010,
+   "fin": 3012,
+   "texto": "15"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3028,
+   "fin": 3107
+  },
+  {
+   "tipo": "img",
+   "ini": 3028,
+   "fin": 3033,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3035,
+   "fin": 3089,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Paul Eme\r\nWallout\r\nGrafito sobre papel 'Naís'\r\n15,5 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 3035,
+   "fin": 3043,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Paul Eme"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3035,
+   "fin": 3043,
+   "texto": "Paul Eme"
+  },
+  {
+   "tipo": "title",
+   "ini": 3045,
+   "fin": 3052,
+   "texto": "Wallout"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3054,
+   "fin": 3080,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Grafito sobre papel 'Naís'"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3082,
+   "fin": 3089,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "15,5 cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 3082,
+   "fin": 3086,
+   "texto": "15,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3110,
+   "fin": 3178
+  },
+  {
+   "tipo": "img",
+   "ini": 3110,
+   "fin": 3115,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3117,
+   "fin": 3177,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Juan Antonio Fernandez Corrales\r\n\"En_red\"\r\ndiámetro: 14,5 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 3117,
+   "fin": 3148,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Juan Antonio Fernandez Corrales"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3117,
+   "fin": 3148,
+   "texto": "Juan Antonio Fernandez Corrales"
+  },
+  {
+   "tipo": "title",
+   "ini": 3150,
+   "fin": 3158,
+   "texto": "\"En_red\""
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3160,
+   "fin": 3177,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "diámetro: 14,5 cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 3170,
+   "fin": 3174,
+   "texto": "14,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3181,
+   "fin": 3282
+  },
+  {
+   "tipo": "img",
+   "ini": 3181,
+   "fin": 3186,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3188,
+   "fin": 3261,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Julia Fernández\r\nSin título\r\nTécnica mixta: carboncillo y digital\r\n5x15cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 3188,
+   "fin": 3203,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Julia Fernández"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3188,
+   "fin": 3203,
+   "texto": "Julia Fernández"
+  },
+  {
+   "tipo": "title",
+   "ini": 3205,
+   "fin": 3215,
+   "texto": "Sin título"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3217,
+   "fin": 3253,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta: carboncillo y digital"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3255,
+   "fin": 3261,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "5x15cm"
+  },
+  {
+   "tipo": "height",
+   "ini": 3255,
+   "fin": 3256,
+   "texto": "5"
+  },
+  {
+   "tipo": "width",
+   "ini": 3257,
+   "fin": 3259,
+   "texto": "15"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3285,
+   "fin": 3380
+  },
+  {
+   "tipo": "img",
+   "ini": 3285,
+   "fin": 3290,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3292,
+   "fin": 3353,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Colérica Finch\r\nRojo\r\nacuarelas y rotring sobre papel\r\n14,5cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 3292,
+   "fin": 3306,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Colérica Finch"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3292,
+   "fin": 3306,
+   "texto": "Colérica Finch"
+  },
+  {
+   "tipo": "title",
+   "ini": 3308,
+   "fin": 3312,
+   "texto": "Rojo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3314,
+   "fin": 3345,
+   "rasgos": {
+    "type": "watercolour, rotring"
+   },
+   "texto": "acuarelas y rotring sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3347,
+   "fin": 3353,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "14,5cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 3347,
+   "fin": 3351,
+   "texto": "14,5"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3383,
+   "fin": 3479
+  },
+  {
+   "tipo": "img",
+   "ini": 3383,
+   "fin": 3388,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3390,
+   "fin": 3463,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "María LD\r\nLa cultura de la ofensa 1\r\nArt print (rotring, acuarelas)\r\n15cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 3390,
+   "fin": 3398,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "María LD"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3390,
+   "fin": 3398,
+   "texto": "María LD"
+  },
+  {
+   "tipo": "title",
+   "ini": 3400,
+   "fin": 3425,
+   "texto": "La cultura de la ofensa 1"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3427,
+   "fin": 3457,
+   "rasgos": {
+    "type": "watercolour, rotring"
+   },
+   "texto": "Art print (rotring, acuarelas)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3459,
+   "fin": 3463,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "15cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 3459,
+   "fin": 3461,
+   "texto": "15"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3482,
+   "fin": 3558
+  },
+  {
+   "tipo": "img",
+   "ini": 3482,
+   "fin": 3487,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3489,
+   "fin": 3534,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Concha Gavilán\r\nV1R7U4L\r\nDibujo digital\r\n15cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 3489,
+   "fin": 3503,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Concha Gavilán"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3489,
+   "fin": 3503,
+   "texto": "Concha Gavilán"
+  },
+  {
+   "tipo": "title",
+   "ini": 3505,
+   "fin": 3512,
+   "texto": "V1R7U4L"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3514,
+   "fin": 3528,
+   "rasgos": {
+    "type": "digital"
+   },
+   "texto": "Dibujo digital"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3530,
+   "fin": 3534,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "15cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 3530,
+   "fin": 3532,
+   "texto": "15"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3561,
+   "fin": 3627
+  },
+  {
+   "tipo": "img",
+   "ini": 3561,
+   "fin": 3566,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3568,
+   "fin": 3626,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Celis Gas\r\nA la deriva\r\nCollage, gouche y photoshop\r\n15 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 3568,
+   "fin": 3577,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Celis Gas"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3568,
+   "fin": 3577,
+   "texto": "Celis Gas"
+  },
+  {
+   "tipo": "title",
+   "ini": 3579,
+   "fin": 3590,
+   "texto": "A la deriva"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3592,
+   "fin": 3619,
+   "rasgos": {
+    "type": "collage, gouache"
+   },
+   "texto": "Collage, gouche y photoshop"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3621,
+   "fin": 3626,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "15 cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 3621,
+   "fin": 3623,
+   "texto": "15"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3630,
+   "fin": 3701
+  },
+  {
+   "tipo": "img",
+   "ini": 3630,
+   "fin": 3635,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3637,
+   "fin": 3658,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Sofía González \r\n15cm"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3637,
+   "fin": 3652,
+   "texto": "Sofía González "
+  },
+  {
+   "tipo": "person",
+   "ini": 3637,
+   "fin": 3651,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Sofía González"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3654,
+   "fin": 3658,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "15cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 3654,
+   "fin": 3656,
+   "texto": "15"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3704,
+   "fin": 3794
+  },
+  {
+   "tipo": "img",
+   "ini": 3704,
+   "fin": 3709,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3711,
+   "fin": 3765,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Elena Moreno \r\nS/T\r\nRotring y rotulador s/papel\r\n12 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 3711,
+   "fin": 3723,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Elena Moreno"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3711,
+   "fin": 3723,
+   "texto": "Elena Moreno"
+  },
+  {
+   "tipo": "title",
+   "ini": 3726,
+   "fin": 3729,
+   "texto": "S/T"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3731,
+   "fin": 3758,
+   "rasgos": {
+    "type": "rotring, feltTipPen"
+   },
+   "texto": "Rotring y rotulador s/papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3760,
+   "fin": 3765,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "12 cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 3760,
+   "fin": 3762,
+   "texto": "12"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3797,
+   "fin": 3841
+  },
+  {
+   "tipo": "img",
+   "ini": 3797,
+   "fin": 3802,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3804,
+   "fin": 3840,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Manuel Jimenez\r\nLimbo\r\nGrafito\r\n15cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 3804,
+   "fin": 3818,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Manuel Jimenez"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3804,
+   "fin": 3818,
+   "texto": "Manuel Jimenez"
+  },
+  {
+   "tipo": "title",
+   "ini": 3820,
+   "fin": 3825,
+   "texto": "Limbo"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3827,
+   "fin": 3834,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Grafito"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3836,
+   "fin": 3840,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "15cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 3836,
+   "fin": 3838,
+   "texto": "15"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3844,
+   "fin": 3879
+  },
+  {
+   "tipo": "img",
+   "ini": 3844,
+   "fin": 3849,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3851,
+   "fin": 3878,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Fernando Martín Vega\r\n15 cm"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3851,
+   "fin": 3872,
+   "texto": "Fernando Martín Vega\r"
+  },
+  {
+   "tipo": "person",
+   "ini": 3851,
+   "fin": 3871,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Fernando Martín Vega"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3873,
+   "fin": 3878,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "15 cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 3873,
+   "fin": 3875,
+   "texto": "15"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3882,
+   "fin": 3983
+  },
+  {
+   "tipo": "img",
+   "ini": 3882,
+   "fin": 3887,
+   "rasgos": {
+    "size": "medium",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3889,
+   "fin": 3940,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Eduardo Molina\r\nA tua espera\r\nGrafito y conte\r\n12cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 3889,
+   "fin": 3903,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Eduardo Molina"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3889,
+   "fin": 3903,
+   "texto": "Eduardo Molina"
+  },
+  {
+   "tipo": "title",
+   "ini": 3905,
+   "fin": 3917,
+   "texto": "A tua espera"
+  },
+  {
+   "tipo": "technique",
+   "ini": 3919,
+   "fin": 3934,
+   "rasgos": {
+    "type": "graphite, conte"
+   },
+   "texto": "Grafito y conte"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 3936,
+   "fin": 3940,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "12cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 3936,
+   "fin": 3938,
+   "texto": "12"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 3986,
+   "fin": 4125
+  },
+  {
+   "tipo": "img",
+   "ini": 3986,
+   "fin": 3991,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 3993,
+   "fin": 4100,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Ana I. Bolinaga\r\nImpresión intervenida (dibujo original\r\na rotulador, impreso, y de nuevo rotulador)\r\n14 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 3993,
+   "fin": 4008,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Ana I. Bolinaga"
+  },
+  {
+   "tipo": "persName",
+   "ini": 3993,
+   "fin": 4008,
+   "texto": "Ana I. Bolinaga"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4010,
+   "fin": 4093,
+   "rasgos": {
+    "type": "feltTipPen, print"
+   },
+   "texto": "Impresión intervenida (dibujo original\r\na rotulador, impreso, y de nuevo rotulador)"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4095,
+   "fin": 4100,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "14 cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 4095,
+   "fin": 4097,
+   "texto": "14"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4128,
+   "fin": 4233
+  },
+  {
+   "tipo": "img",
+   "ini": 4128,
+   "fin": 4133,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4135,
+   "fin": 4202,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Damma Persalt\r\nEn lo más profundo de mi\r\n10 cm\r\nGrafito sobre Papel"
+  },
+  {
+   "tipo": "person",
+   "ini": 4135,
+   "fin": 4148,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Damma Persalt"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4135,
+   "fin": 4148,
+   "texto": "Damma Persalt"
+  },
+  {
+   "tipo": "title",
+   "ini": 4150,
+   "fin": 4174,
+   "texto": "En lo más profundo de mi"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4176,
+   "fin": 4181,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "10 cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 4176,
+   "fin": 4178,
+   "texto": "10"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4183,
+   "fin": 4202,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Grafito sobre Papel"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4236,
+   "fin": 4439
+  },
+  {
+   "tipo": "img",
+   "ini": 4236,
+   "fin": 4241,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "workCollection",
+   "ini": 4243,
+   "fin": 4438,
+   "rasgos": {
+    "type": "drawing",
+    "size": "3"
+   }
+  },
+  {
+   "tipo": "person",
+   "ini": 4243,
+   "fin": 4258,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Antonio Santana"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4243,
+   "fin": 4258,
+   "texto": "Antonio Santana"
+  },
+  {
+   "tipo": "title",
+   "ini": 4268,
+   "fin": 4306,
+   "texto": "Realidad enmarañada y su interrelación"
+  },
+  {
+   "tipo": "itemDesc",
+   "ini": 4309,
+   "fin": 4317
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4319,
+   "fin": 4326,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "14,6 cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 4319,
+   "fin": 4323,
+   "texto": "14,6"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4328,
+   "fin": 4334,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "12,4cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 4328,
+   "fin": 4332,
+   "texto": "12,4"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4336,
+   "fin": 4341,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "2,7cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 4336,
+   "fin": 4339,
+   "texto": "2,7"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4343,
+   "fin": 4438,
+   "rasgos": {
+    "type": "mixed"
+   },
+   "texto": "Técnica mixta: acuarela sobre papel blanco comercial\r\nde 80 gr y pintura de acción con acrílico"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4442,
+   "fin": 4477
+  },
+  {
+   "tipo": "img",
+   "ini": 4442,
+   "fin": 4447,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4449,
+   "fin": 4476,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Marisa Serrano Bernal\r\n15cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 4449,
+   "fin": 4470,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Marisa Serrano Bernal"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4449,
+   "fin": 4470,
+   "texto": "Marisa Serrano Bernal"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4472,
+   "fin": 4476,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "15cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 4472,
+   "fin": 4474,
+   "texto": "15"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4480,
+   "fin": 4590
+  },
+  {
+   "tipo": "img",
+   "ini": 4480,
+   "fin": 4485,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4487,
+   "fin": 4569,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Z.ari.S\r\nInterconexión\r\nLápiz, rotulador sobre papel y técnicas\r\ndigitales - 15 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 4487,
+   "fin": 4494,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Z.ari.S"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4487,
+   "fin": 4494,
+   "texto": "Z.ari.S"
+  },
+  {
+   "tipo": "title",
+   "ini": 4496,
+   "fin": 4509,
+   "texto": "Interconexión"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4511,
+   "fin": 4561,
+   "rasgos": {
+    "type": "pencil, feltTipPen, digital"
+   },
+   "texto": "Lápiz, rotulador sobre papel y técnicas\r\ndigitales"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4564,
+   "fin": 4569,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "15 cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 4564,
+   "fin": 4566,
+   "texto": "15"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4593,
+   "fin": 4675
+  },
+  {
+   "tipo": "img",
+   "ini": 4593,
+   "fin": 4598,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "false",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4600,
+   "fin": 4674,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "RosaCruz Trigo\r\nPetits et grands se réunissent\r\nGrafito sobre papel\r\n15 cm"
+  },
+  {
+   "tipo": "person",
+   "ini": 4600,
+   "fin": 4614,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "RosaCruz Trigo"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4600,
+   "fin": 4614,
+   "texto": "RosaCruz Trigo"
+  },
+  {
+   "tipo": "title",
+   "ini": 4616,
+   "fin": 4646,
+   "texto": "Petits et grands se réunissent"
+  },
+  {
+   "tipo": "technique",
+   "ini": 4648,
+   "fin": 4667,
+   "rasgos": {
+    "type": "graphite"
+   },
+   "texto": "Grafito sobre papel"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4669,
+   "fin": 4674,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "15 cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 4669,
+   "fin": 4671,
+   "texto": "15"
+  },
+  {
+   "tipo": "catalogueItem",
+   "ini": 4678,
+   "fin": 4705
+  },
+  {
+   "tipo": "img",
+   "ini": 4678,
+   "fin": 4683,
+   "rasgos": {
+    "size": "thumbnail",
+    "color": "true",
+    "src": "catalogue"
+   }
+  },
+  {
+   "tipo": "work",
+   "ini": 4685,
+   "fin": 4704,
+   "rasgos": {
+    "type": "drawing"
+   },
+   "texto": "Marta Vázquez\r\n15cm"
+  },
+  {
+   "tipo": "persName",
+   "ini": 4685,
+   "fin": 4699,
+   "texto": "Marta Vázquez\r"
+  },
+  {
+   "tipo": "person",
+   "ini": 4685,
+   "fin": 4698,
+   "rasgos": {
+    "role": "creator"
+   },
+   "texto": "Marta Vázquez"
+  },
+  {
+   "tipo": "dimensions",
+   "ini": 4700,
+   "fin": 4704,
+   "rasgos": {
+    "unit": "cm"
+   },
+   "texto": "15cm"
+  },
+  {
+   "tipo": "diameter",
+   "ini": 4700,
+   "fin": 4702,
+   "texto": "15"
+  }
+ ]
+}
