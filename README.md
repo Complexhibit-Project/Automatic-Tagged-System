@@ -13,7 +13,7 @@ Web del proyecto: https://complexhibit.eu · Plataforma: https://complexhibit.um
 
 | Carpeta | Qué contiene |
 | --- | --- |
-| [`v1-2023-bilstm-elmo/`](v1-2023-bilstm-elmo/) | Primera versión (2023): red BiLSTM con representaciones ELMo. Se conserva como registro histórico; ya no es ejecutable en los entornos actuales. |
+| [`v1-2023-bilstm-elmo/`](v1-2023-bilstm-elmo/) | Primera versión (2023-2024): red BiLSTM con representaciones ELMo. Se conserva como registro histórico; ya no es ejecutable en los entornos actuales. |
 | [`v2-2026-transformer/`](v2-2026-transformer/) | Sistema final: modelo *transformer* multilingüe (XLM-RoBERTa) en tres niveles, reglas de normalización, exportación a RDF y cuadernos de entrenamiento y evaluación. |
 | [`datos/`](datos/) | Gold standard abierto: anotaciones externas al texto de los 100 catálogos, inventario, partición, estadísticas y grafo RDF. |
 | [`docs/`](docs/) | Manual de etiquetado (v1.1), con la correspondencia entre el esquema de anotación y las etiquetas de los modelos. Depositado en Zenodo: https://doi.org/10.5281/zenodo.24242023 |
