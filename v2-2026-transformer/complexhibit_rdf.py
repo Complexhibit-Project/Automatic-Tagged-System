@@ -40,19 +40,20 @@ PREFIJOS = f"""@prefix ox: <{OX}> .
 
 """
 
-# rol de persona segun guia de etiquetado -> clase de rol de OntoExhibit
+# valores de role de <person> del manual de etiquetado -> clases de rol de OntoExhibit
 ROL_PERSONA = {
     "creator": "Creator", "lender": "Lender", "owner": "Owner", "funder": "Funder",
     "exhibitioncurator": "Curator", "museumcurator": "Curator", "curator": "Curator",
     "assistant": "Assistant", "editor": "Editor", "designer": "Designer",
     "photographer": "Creator", "trustee": "Member", "author": "Author",
 }
-# rol de institución segun guia de etiquetado -> clase de rol de OntoExhibit ('host' se trata como sede)
+# valores de role de <institution> del manual de etiquetado -> clases de rol de OntoExhibit
+# ('host', la institución que acoge la exposición, se representa como sede: ox:hasVenue)
 ROL_INSTITUCION = {
     "organiser": "Organizer", "organizer": "Organizer", "lender": "Lender", "owner": "Owner",
     "funder": "Funder", "client": "Commissioner", "depository": "Owner",
 }
-# tipo de institución segun guia de etiquetado -> clase de OntoExhibit
+# valores de type de <institution> del manual de etiquetado -> clases de OntoExhibit
 TIPO_INSTITUCION = {
     "gallery": "Gallery", "artgallery": "Gallery", "company": "Company",
 }
@@ -363,8 +364,9 @@ NIVEL2_GOLD["material"] = "MAT"   # en el gold se distingue material de técnica
 
 def gold_a_salida(path):
     text, anns = ie.load_gate(path)
-    # en el gold se conservan las anotaciones solapadas (p. ej., título y material
-    # sobre el mismo texto): no hay que aplanarlas para entrenar
+    # En el gold standard se conservan todas las anotaciones, también las que se
+    # superponen (p. ej., título y material sobre el mismo texto). Para entrenar, la
+    # conversión a BIO deja una sola etiqueta por palabra; aquí no es necesario.
     sp1 = sorted({(s, e, ie.NIVEL1[t]) for t, s, e, _ in anns if t in ie.NIVEL1})
     sp2 = sorted({(s, e, NIVEL2_GOLD[t]) for t, s, e, _ in anns if t in NIVEL2_GOLD})
     atributos = {}

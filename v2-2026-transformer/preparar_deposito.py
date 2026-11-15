@@ -1,11 +1,11 @@
 """Prepara el depósito de datos de Complexhibit (catálogos anotados).
 
 Genera dos capas:
-  abierto/      sin el texto íntegro de los catálogos 
-                - inventario_catalogos.csv  (identificador, nombre original y otros datos)
-                - anotaciones/<id>.json     anotaciones externas al texto: posiciones, etiqueta, rasgos y,
+  abierto/      sin el texto íntegro de los catálogos (se puede publicar)
+                - inventario_catalogos.csv  (identificador, nombre original, datos a completar)
+                - anotaciones/<id>.json     anotaciones standoff: posiciones, etiqueta, rasgos y,
                                             solo para entidades cortas, el texto anotado
-                - particion.json            entrenamiento / validación y  prueba con los nuevos ids
+                - particion.json            entrenamiento / validación / prueba con los nuevos ids
                 - estadisticas.csv          anotaciones por etiqueta y catálogo
                 - README.md                 plantilla de descripción
   restringido/  con el texto íntegro (acceso restringido por derechos de autor)
@@ -179,7 +179,7 @@ Proyecto Complexhibit (PID2021-125037NB-I00), financiado por [completar].
 
 - `inventario_catalogos.csv`: un catálogo por fila; relaciona el identificador con el
   nombre original del fichero y con su referencia bibliográfica.
-- `anotaciones/<id>.json`: anotaciones externas(posición inicial y final en
+- `anotaciones/<id>.json`: anotaciones en formato standoff (posición inicial y final en
   caracteres, etiqueta y rasgos). Para las entidades se incluye el texto anotado; para los
   bloques, solo la posición.
 - `particion.json`: catálogos de validación y prueba (el resto, entrenamiento).
@@ -200,9 +200,11 @@ se publican en abierto. Los ficheros GATE originales y la versión BIO se conser
 
 ## Correcciones aplicadas
 
-Parte del corpus sufrió un reemplazo global erróneo (por ejemplo, «city» convertido en
-«poblation»). El texto anotado incluido en `anotaciones/` ya está corregido; los ficheros
-GATE originales se conservan sin modificar.
+Al normalizar los valores de algunos atributos en GATE (`city` → `poblation`, `material` →
+`technique`), la sustitución afectó también a palabras del texto que contenían esas cadenas
+(por ejemplo, «materiality» aparecía como «techniqueity»). La conversión restituye esas palabras
+a su forma original; las posiciones de las anotaciones no cambian. El texto incluido en
+`anotaciones/` está restituido y los ficheros GATE se conservan tal como se anotaron.
 
 ## Ficheros excluidos
 

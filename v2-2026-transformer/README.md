@@ -29,25 +29,26 @@ entrenados; los modelos se publican en Hugging Face (`Complexhibit-Project/compl
 | `05_preparar_deposito.ipynb` | Preparación del depósito de datos | No |
 | `06_comparacion_modelo_base.ipynb` | Modelo base (XLM-RoBERTa base) y comparación con el sistema final | Sí |
 | `07_comparacion_bilstm.ipynb` | Reconstrucción de la arquitectura BiLSTM de 2023 para compararla con el sistema final | Sí |
+| `08_nivel1_v11_reentrenamiento.ipynb` | Nivel 1, versión 1.1: reentrenamiento con el texto dividido sin usar la anotación y evaluación en condiciones de uso real (sustituye al nivel 1 del cuaderno 01) | Sí (L4 o A100) |
+| `09_predicciones_gold_standard.ipynb` | Aplica los modelos publicados a los 100 catálogos y guarda sus predicciones para compararlas con la anotación manual | Sí |
 
-Todos salvo el 02 piden al empezar un ZIP con los ficheros XML del etiquetado con GATE.
+Todos salvo el 02 piden al empezar un ZIP con los ficheros XML de GATE.
 
 ## Resultados (10 catálogos de prueba)
 
 | Componente | Resultado (sistema final, XLM-RoBERTa large) |
 | --- | --- |
-| Nivel 1, fichas de obra y exposiciones | F1 0,78 por entidad (fichas de obra 0,85); 0,88 por palabra |
+| Nivel 1, fichas de obra y exposiciones (v1.1) | Fichas de obra: F1 0,61 por bloque exacto y 0,71 por solapamiento, sobre el texto completo de cada catálogo |
 | Nivel 2, entidades | F1 0,73 por entidad (precisión 0,70; exhaustividad 0,75) |
 | Nivel 3, reglas | 91,5 % de las dimensiones y 77,5 % de las fechas |
 | Nivel 3, clasificador | Exactitud de 0,49 a 0,94 según el atributo (rol de persona 0,94) |
 | Exportación RDF (100 catálogos) | 108.996 tripletas; 2.754 obras, 1.757 personas, 376 exposiciones |
 
-Como referencia, con el mismo protocolo el modelo base obtiene 0,60 en el nivel 1 y 0,69 en el
-nivel 2, y la arquitectura BiLSTM de 2023 reconstruida, 0,62 en el nivel 2.
+Como referencia, con el mismo protocolo el modelo base obtiene 0,69 en el nivel 2, y la arquitectura BiLSTM de 2023 reconstruida, 0,62 en el nivel 2.
 
 ## Desarrollo y autoría
 
-La herramienta se ha desarrollado a partir de una metodología de etiquetado de textos diseñada específicamente en el marco del proyecto, que incluye una guía de anotación y un esquema de categorías propio. El equipo investigador ha realizado el etiquetado manual de los textos que constituyen la base de entrenamiento de la herramienta, permitiendo automatizar el etiquetado de nuevos textos conforme a los criterios establecidos. El código se ha generado con asistencia de inteligencia artificial (Claude, de Anthropic), a partir de las especificaciones y directrices proporcionadas por el equipo investigador.
+La herramienta se fundamenta en una metodología de anotación textual concebida específicamente en el marco del proyecto, que comprende una guía de anotación y un esquema de categorías propio. El corpus de entrenamiento fue anotado manualmente por el equipo investigador, lo que hace posible el etiquetado automático de nuevos textos conforme a los criterios definidos. La implementación del código se llevó a cabo con asistencia de inteligencia artificial generativa (Claude, de Anthropic), a partir de las especificaciones y directrices establecidas por el equipo investigador, que asumió el diseño metodológico, la supervisión del desarrollo y la validación de los resultados.
 
 - **Diseño del sistema y de su evaluación, y dirección del desarrollo:** M.ª Luisa Díez Platas (Universidad Internacional de La Rioja, UNIR).
 - **Guía de anotación y esquema de categorías:** María Ortiz Tello y M.ª Luisa Díez Platas ([manual de etiquetado](../docs/)).

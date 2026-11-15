@@ -59,7 +59,7 @@ TOKEN_RE = re.compile(r"\w+(?:[-'’]\w+)*|[^\w\s]", re.UNICODE)
 
 
 # ----------------------------------------------------------------------------
-# Lectura de textos etiquetados con GATE
+# Lectura de GATE
 # ----------------------------------------------------------------------------
 def load_gate(path):
     """Devuelve (texto, anotaciones) con anotaciones = [(tipo, ini, fin, rasgos)]."""
@@ -443,8 +443,28 @@ def ejemplos_atributos(carpeta):
 
 
 # ----------------------------------------------------------------------------
-# Inferencia de etiquetas por palabra a fragmentos y a una salida anidada
+# Inferencia: de etiquetas por palabra a fragmentos y a una salida anidada
 # ----------------------------------------------------------------------------
+def segment_bounds_inferencia(tokens, text, max_tokens=200, min_tokens=120):
+    """Fragmentos para la inferencia, sin conocer las entidades: no se corta en
+    cada línea en blanco (eso partiría las fichas que llevan una línea en blanco
+    entre la imagen y el pie), sino solo al acercarse a max_tokens, eligiendo el
+    salto de línea más «fuerte» (preferiblemente doble) a partir de min_tokens."""
+    bounds, start, n = [], 0, len(tokens)
+    while start < n:
+        if n - start <= max_tokens:
+            bounds.append((start, n)); break
+        mejor, puntos = None, -1
+        for i in range(start + min_tokens, min(start + max_tokens, n - 1)):
+            gap = text[tokens[i][2]:tokens[i + 1][1]]
+            p = gap.count("\n")
+            if p > 0 and p >= puntos:
+                mejor, puntos = i + 1, p
+        corte = mejor or start + max_tokens
+        bounds.append((start, corte)); start = corte
+    return bounds
+
+
 def bio_a_spans(tokens, tags):
     """tokens = [(palabra, ini, fin)], tags = ['B-PER', ...] -> [(ini, fin, 'PER')]"""
     spans, cur = [], None
