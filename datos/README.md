@@ -1,7 +1,7 @@
 # Gold standard de catálogos de exposiciones anotados (Complexhibit)
 
 Corpus de **100 catálogos de exposiciones** anotados manualmente con GATE según el
-[manual de etiquetado](../docs/manual_etiquetado_v1.1.pdf), en tres niveles: bloques del catálogo
+[manual de etiquetado](../docs/manual_etiquetado_v1.1.pdf) (depositado en Zenodo: https://doi.org/10.5281/zenodo.24242023), en tres niveles: bloques del catálogo
 (fichas de obra y exposiciones), entidades (personas, títulos, instituciones, lugares, fechas,
 técnicas, dimensiones…) y detalle (dimensiones desglosadas, fechas normalizadas, roles y tipos).
 Es el conjunto con el que se han entrenado y evaluado los modelos de este repositorio.
@@ -92,5 +92,4 @@ CC BY 4.0.
 
 ## Financiación
 
-Proyecto Complexhibit (PID2021-125037NB-I00), financiado por MCIN/AEI/10.13039/501100011033 y
-por FEDER, Una manera de hacer Europa.
+Proyecto PID2021-125037NB-I00, «Estudio e interpretación del dominio de las exposiciones artísticas como sistema cultural complejo mediante analítica de datos y procesamiento del lenguaje natural» (Complexhibit), financiado por MCIN/AEI/10.13039/501100011033.
